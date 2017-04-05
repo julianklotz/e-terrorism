@@ -1,0 +1,335 @@
+@prefix : <http://schema.org/> .
+@prefix cat: <http://www.w3.org/ns/dcat#> .
+@prefix cc: <http://creativecommons.org/ns#> .
+@prefix cnt: <http://www.w3.org/2008/content#> .
+@prefix ctag: <http://commontag.org/ns#> .
+@prefix dc: <http://purl.org/dc/terms/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix earl: <http://www.w3.org/ns/earl#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix gldp: <http://www.w3.org/ns/people#> .
+@prefix gr: <http://purl.org/goodrelations/v1#> .
+@prefix grddl: <http://www.w3.org/2003/g/data-view#> .
+@prefix ht: <http://www.w3.org/2006/http#> .
+@prefix ical: <http://www.w3.org/2002/12/cal/icaltzd#> .
+@prefix ma: <http://www.w3.org/ns/ma-ont#> .
+@prefix og: <http://ogp.me/ns#> .
+@prefix org: <http://www.w3.org/ns/org#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix ptr: <http://www.w3.org/2009/pointers#> .
+@prefix qb: <http://purl.org/linked-data/cube#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfa: <http://www.w3.org/ns/rdfa#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix rev: <http://purl.org/stuff/rev#> .
+@prefix rif: <http://www.w3.org/2007/rif#> .
+@prefix rr: <http://www.w3.org/ns/r2rml#> .
+@prefix schema: <http://schema.org/> .
+@prefix sd: <http://www.w3.org/ns/sparql-service-description#> .
+@prefix sioc: <http://rdfs.org/sioc/ns#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix skosxl: <http://www.w3.org/2008/05/skos-xl#> .
+@prefix v: <http://rdf.data-vocabulary.org/#> .
+@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix wdr: <http://www.w3.org/2007/05/powder#> .
+@prefix wdrs: <http://www.w3.org/2007/05/powder-s#> .
+@prefix xhv: <http://www.w3.org/1999/xhtml/vocab#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+[] a schema:LodgingBusiness ;
+    schema:address [ a schema:PostalAddress ;
+            schema:addressCountry "AT" ;
+            schema:addressLocality "Reith bei Seefeld" ;
+            schema:postalCode "6103" ;
+            schema:streetAddress "Haus Nr. 53" ] ;
+    schema:currenciesAccepted "EUR" ;
+    schema:name "ZW - Giessrigl Johannes" ;
+    schema:url <http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf> .
+
+[] a schema:LodgingBusiness ;
+    schema:address [ a schema:PostalAddress ;
+            schema:addressCountry "AT" ;
+            schema:addressLocality "Mösern" ;
+            schema:postalCode "6100" ;
+            schema:streetAddress "Albrecht Dürer Weg 25 / Top 72" ] ;
+    schema:currenciesAccepted "EUR" ;
+    schema:name "ZW - Kämpf Rainer und Stefanie" ;
+    schema:url <http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf> .
+
+[] a schema:LodgingBusiness ;
+    schema:address [ a schema:PostalAddress ;
+            schema:addressCountry "AT" ;
+            schema:email "famann@aon.at" ;
+            schema:name "Haus Bair" ;
+            schema:postalCode "6100" ;
+            schema:streetAddress "Am Kirchwald 321" ;
+            schema:telephone "0043 5212 2506" ] ;
+    schema:currenciesAccepted "EUR" ;
+    schema:geo [ a schema:GeoCoordinates ;
+            schema:latitude "47.3293265423412" ;
+            schema:longitude "11.1799299716949" ] ;
+    schema:name "Haus Bair" ;
+    schema:url <http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf> .
+
+[] a schema:Hotel ;
+    schema:address [ a schema:PostalAddress ;
+            schema:addressCountry "AT" ;
+            schema:addressLocality "Seefeld" ;
+            schema:email "office@kronenhotel.com" ;
+            schema:name "Kronenhotel" ;
+            schema:postalCode "6100" ;
+            schema:streetAddress "Karwendelweg 732" ;
+            schema:telephone "(0043) 5212 50349" ;
+            schema:url <http://www.kronenhotel.com/> ] ;
+    schema:aggregateRating [ a schema:AggregateRating ;
+            schema:ratingValue "3.3" ;
+            schema:reviewCount "166" ] ;
+    schema:currenciesAccepted "EUR" ;
+    schema:description """Check-In 15:00 / Check-Out 10:00
+Weg: Folgen Sie von München kommend ca. 300 m in Richtung Ortsmitte, die 1. Straße links einbiegen in den Karwendelweg ca. 20 m = Kronenhotel-Einfahrt.""",
+        """Kostenlos: Parkplatz nach Verfügbarkeit, vor dem Hotel.
+High Speed Wifi: EUR 5,00 - EUR 10,00 pro Aufenthalt
+Haustier: EUR 10,00 pro Tag
+""",
+        "Unser großzügiges Hotel liegt ca. 600 m vom Dorfzentrum entfernt, auf ebener Strecke und in ruhiger Lage." ;
+    schema:geo [ a schema:GeoCoordinates ;
+            schema:latitude "47.3349328235291" ;
+            schema:longitude "11.1939525604248" ] ;
+    schema:image [ a schema:ImageObject ;
+            schema:caption "Winter" ;
+            schema:url <http://resc.deskline.net/images/SEE/1/0d6024fd-f484-4517-85b9-7bc54773a14d/99/image.jpg> ],
+        [ a schema:ImageObject ;
+            schema:caption "Sommer" ;
+            schema:url <http://resc.deskline.net/images/SEE/1/89565d30-4f5a-4125-85db-7dde3ac2027e/99/image.jpg> ] ;
+    schema:makesOffer [ a schema:Offer ;
+            schema:availability "http://schema.org/InStock" ;
+            schema:description "Festes stabiles Doppelbett, Sitzecke, Schreibtisch, Safe, Radio, DZ - 29 m², Balkon Ost, Dusche/Bidet/WC - getrennt, Fön, Balkonstühle mit Auflagen, Teppichboden, TV" ;
+            schema:itemOffered [ a schema:HotelRoom,
+                        schema:Product ;
+                    schema:bed [ a schema:BedDetails ;
+                            schema:numberOfBeds "1" ] ;
+                    schema:name "Doppelzimmer mit Dusche, WC" ;
+                    schema:occupancy [ a schema:QuantitativeValue ;
+                            schema:maxValue "3" ;
+                            schema:minValue "1" ] ] ;
+            schema:name "Doppelzimmer, Dusche, WC" ],
+        [ a schema:Offer ;
+            schema:availability "http://schema.org/InStock" ;
+            schema:description "DOPPELZIMMER - 32 m², Balkon Süd, Bad/Bidet/WC - separat, Fön, kombinierter Wohn- und Schlafbereich mit Doppelbett, Sitzecke, Schreibtisch, Safe, TV, Radio, Teppichboden." ;
+            schema:itemOffered [ a schema:HotelRoom,
+                        schema:Product ;
+                    schema:bed [ a schema:BedDetails ;
+                            schema:numberOfBeds "1" ] ;
+                    schema:name "Doppelzimmer mit Bad, WC" ;
+                    schema:occupancy [ a schema:QuantitativeValue ;
+                            schema:maxValue "3" ;
+                            schema:minValue "1" ] ] ;
+            schema:name "Doppelzimmer, Bad, WC" ],
+        [ a schema:Offer ;
+            schema:availability "http://schema.org/InStock" ;
+            schema:description "Familienzimmer mit 4 Betten, davon 2 Betten in Nischen, 38 m², Balkon Ost, Dusche/Bidet/WC getrennt, Schreibtisch, Sitzecke, Balkonstühle mit Auflagen, TV, Fön" ;
+            schema:itemOffered [ a schema:HotelRoom,
+                        schema:Product ;
+                    schema:bed [ a schema:BedDetails ;
+                            schema:numberOfBeds "1" ] ;
+                    schema:name "Familienzimmer mit Dusche, WC" ;
+                    schema:occupancy [ a schema:QuantitativeValue ;
+                            schema:maxValue "5" ;
+                            schema:minValue "2" ] ] ;
+            schema:name "Familienzimmer, Dusche, WC" ],
+        [ a schema:Offer ;
+            schema:availability "http://schema.org/InStock" ;
+            schema:description "45 m², Hotelappartement 2-Räume, Balkon Süd mit Dusche/WC und Bad- WC getrennt, 1 Schlafzimmer, 1 Wohn-Schlafraum, Teppichboden, Sitzecke, Balkonstühle mit Auflagen" ;
+            schema:itemOffered [ a schema:Apartment,
+                        schema:Product ;
+                    schema:name "Hotelappartement mit Dusche, Bad, WC" ;
+                    schema:numberOfRooms "1.0" ;
+                    schema:occupancy [ a schema:QuantitativeValue ;
+                            schema:maxValue "5" ;
+                            schema:minValue "3" ] ] ;
+            schema:name "Appartement/Fewo, Dusche und Bad, WC" ;
+            schema:priceSpecification [ a schema:PriceSpecification ;
+                    schema:description "Pax 3" ;
+                    schema:maxPrice "80.00" ;
+                    schema:minPrice "80.00" ;
+                    schema:priceCurrency "EUR" ],
+                [ a schema:PriceSpecification ;
+                    schema:description "Pax 5" ;
+                    schema:maxPrice "80.00" ;
+                    schema:minPrice "80.00" ;
+                    schema:priceCurrency "EUR" ],
+                [ a schema:PriceSpecification ;
+                    schema:description "Pax 4" ;
+                    schema:maxPrice "80.00" ;
+                    schema:minPrice "80.00" ;
+                    schema:priceCurrency "EUR" ] ],
+        [ a schema:Offer ;
+            schema:availability "http://schema.org/InStock" ;
+            schema:description "EZ 14 m² mit Dusche/WC, Schrank, Bett, Schreibtisch, Hocker, Stehlampe, Telefon, TV, Safe, Fön, Radio, Sessel" ;
+            schema:itemOffered [ a schema:HotelRoom,
+                        schema:Product ;
+                    schema:bed [ a schema:BedDetails ;
+                            schema:numberOfBeds "1" ] ;
+                    schema:name "Einzelzimmer mit Dusche, WC" ;
+                    schema:occupancy [ a schema:QuantitativeValue ;
+                            schema:maxValue "1" ;
+                            schema:minValue "1" ] ] ;
+            schema:name "Einzelzimmer, Dusche, WC" ] ;
+    schema:name "Kronenhotel" ;
+    schema:url <http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf>,
+        <http://www.kronenhotel.com/> .
+
+[] a schema:LodgingBusiness ;
+    schema:address [ a schema:PostalAddress ;
+            schema:addressCountry "AT" ;
+            schema:addressLocality "Leutasch" ;
+            schema:email "info@ferienhaus-tannenblick.at" ;
+            schema:name "Ferienhaus Tannenblick" ;
+            schema:postalCode "6105" ;
+            schema:streetAddress "Weidach 285" ;
+            schema:telephone "(0043) 5214 6215" ;
+            schema:url <http://www.ferienhaus-tannenblick.at/> ] ;
+    schema:currenciesAccepted "EUR" ;
+    schema:description """Im Preis inkludiert: Strom, Wasser, Heizung
+- kostenlose Loipenbenützung 
+- kostenlose Benützung des Regionsbusses für die gesamte Dauer Ihres Aufenthaltes (Winter)
+- kostenloser Eintritt ins Alpenbad Leutasch (Sommer)
+- kostenlose Fahrräder und Bikes (bei Bedarf mit Kindersitz und Kinderhelm)
+- Haustiere kostenfrei
+
+optional: Garage EUR 5,-- / Tag
+
+Exklusive Endreinigung, Ortstaxe;""",
+        """Mit Tiroler Herzlichkeit empfangen wir unsere Gäste  in 3. Generation und bieten ihnen einen unvergesslichen Urlaub vom ersten Augenblick an.
+
+Unsere Nichtraucherwohnungen sind gemütlich, in heller Fichte eingerichtet und sehr liebevoll dekoriert. Die optimale Lage unseres Hauses ermöglicht Ihnen den sofortigen Einstieg in die Loipe (kostenfrei für unsere Hausgäste) sowie die Benützung des Alpenbades, das sie in 5 Gehminuten erreichen (im Sommer kostenfrei für unsere Hausgäste). 
+
+Ihre Wanderungen im Sommer und auch im Winter können Sie direkt vom Hause starten.""",
+        """Unser Haus liegt im Ortsteil Weidach in unmittelbarer Nähe des Alpenbades
+
+Sie erreichen uns über Seefeld - Leutasch - Ortsteil Weidach - Richtung Alpenbad
+oder von Mittenwald: Leutasch - Schanz - Gasse - Weidach - Richtung Alpenbad""" ;
+    schema:geo [ a schema:GeoCoordinates ;
+            schema:latitude "47.370490718995" ;
+            schema:longitude "11.155468762366" ] ;
+    schema:image [ a schema:ImageObject ;
+            schema:caption "Sommer" ;
+            schema:url <http://resc.deskline.net/images/SEE/1/895fe0ed-569c-4f79-860c-0110d6ff31e2/99/image.jpg> ],
+        [ a schema:ImageObject ;
+            schema:caption "Sommer Garten" ;
+            schema:url <http://resc.deskline.net/images/SEE/1/2ada838d-935a-49d9-b006-65d18b32ab42/99/image.jpg> ],
+        [ a schema:ImageObject ;
+            schema:caption "Kinderspielplatz mit Sitzmöglichkeit" ;
+            schema:url <http://resc.deskline.net/images/SEE/1/3eed0c0d-15fc-4cf3-af2e-b9d75c19ac2e/99/image.jpg> ],
+        [ a schema:ImageObject ;
+            schema:caption "Garten" ;
+            schema:url <http://resc.deskline.net/images/SEE/1/22d40870-29fb-4b51-b634-ed482ef48d01/99/image.jpg> ],
+        [ a schema:ImageObject ;
+            schema:caption "Winter" ;
+            schema:url <http://resc.deskline.net/images/SEE/1/e7d96863-a1ee-4415-ae48-0cc260096183/99/image.jpg> ],
+        [ a schema:ImageObject ;
+            schema:caption "Kinderspielplatz" ;
+            schema:url <http://resc.deskline.net/images/SEE/1/4c25e96c-b0a0-4541-b167-b928cdcb0090/99/image.jpg> ],
+        [ a schema:ImageObject ;
+            schema:caption "Winter" ;
+            schema:url <http://resc.deskline.net/images/SEE/1/44154e73-84ea-42d3-a5cc-5bd3ec0a4f64/99/image.jpg> ],
+        [ a schema:ImageObject ;
+            schema:caption "Logo" ;
+            schema:url <http://resc.deskline.net/images/SEE/1/8fb5edaa-e33e-47e1-8491-f0f8a395e666/99/image.jpg> ],
+        [ a schema:ImageObject ;
+            schema:caption "Winter" ;
+            schema:url <http://resc.deskline.net/images/SEE/1/38fdc5ba-36f4-4548-b390-8a420cefbcf4/99/image.jpg> ],
+        [ a schema:ImageObject ;
+            schema:caption "Garten" ;
+            schema:url <http://resc.deskline.net/images/SEE/1/1f368953-02b4-4cd4-916b-a783a54b945e/99/image.jpg> ],
+        [ a schema:ImageObject ;
+            schema:caption "Garten" ;
+            schema:url <http://resc.deskline.net/images/SEE/1/aef555bd-e542-4ca8-9cbf-230d0b79bbb9/99/image.jpg> ],
+        [ a schema:ImageObject ;
+            schema:caption "Sommer" ;
+            schema:url <http://resc.deskline.net/images/SEE/1/880aa71e-7ec8-478d-b32a-7ba76105b668/99/image.jpg> ] ;
+    schema:makesOffer [ a schema:Offer ;
+            schema:availability "http://schema.org/InStock" ;
+            schema:description "Die Wohnung verfügt über Diele mit Garderobe, Wohnzimmer mit großzügiger Kochecke und Essplatz, getrenntes Schlafzimmer, Bad mit Dusche - WC, Balkon. Wohnung für 2 Personen" ;
+            schema:itemOffered [ a schema:Apartment,
+                        schema:Product ;
+                    schema:name "Anna/1 Wohn-Schlafraum/Dusche,WC" ;
+                    schema:numberOfRooms "2.0" ;
+                    schema:occupancy [ a schema:QuantitativeValue ;
+                            schema:maxValue "2" ;
+                            schema:minValue "2" ] ] ;
+            schema:name "Appartement/Fewo, Dusche, WC, 1 Schlafraum" ;
+            schema:priceSpecification [ a schema:PriceSpecification ;
+                    schema:description "Pax 2" ;
+                    schema:maxPrice "83.00" ;
+                    schema:minPrice "51.00" ;
+                    schema:priceCurrency "EUR" ] ],
+        [ a schema:Offer ;
+            schema:availability "http://schema.org/InStock" ;
+            schema:description "Die Wohnung verfügt über Vorraum mit Garderobe, ein getrenntes Schlafzimmer, Wohnzimmer mit gemütlichem Bauernofen, Küche mit großzügigem Eßplatz, Bad mit Dusche, getrenntes WC, Terrasse und Garten." ;
+            schema:itemOffered [ a schema:Apartment,
+                        schema:Product ;
+                    schema:description "Die Wohnung verfügt über Vorraum mit Garderobe, ein getrenntes Schlafzimmer, Wohnzimmer mit gemütlichem Bauernofen, Küche mit großzügigem Eßplatz, Bad mit Dusche, getrenntes WC, Terrasse und Garten. Wohnung für 2 bis 4 Personen" ;
+                    schema:name "\"alte Backstube\" 1 Schlafraum/Dusche, Bad, WC" ;
+                    schema:numberOfRooms "3.0" ;
+                    schema:occupancy [ a schema:QuantitativeValue ;
+                            schema:maxValue "4" ;
+                            schema:minValue "2" ] ] ;
+            schema:name "Appartement/Fewo, Dusche und Bad, WC, 1 Schlafraum" ;
+            schema:priceSpecification [ a schema:PriceSpecification ;
+                    schema:description "Pax 2" ;
+                    schema:maxPrice "103.00" ;
+                    schema:minPrice "73.00" ;
+                    schema:priceCurrency "EUR" ],
+                [ a schema:PriceSpecification ;
+                    schema:description "Pax 3" ;
+                    schema:maxPrice "103.00" ;
+                    schema:minPrice "73.00" ;
+                    schema:priceCurrency "EUR" ],
+                [ a schema:PriceSpecification ;
+                    schema:description "Pax 4" ;
+                    schema:maxPrice "118.00" ;
+                    schema:minPrice "83.00" ;
+                    schema:priceCurrency "EUR" ] ],
+        [ a schema:Offer ;
+            schema:availability "http://schema.org/InStock" ;
+            schema:description """Die Wohnung verfügt über einen großzügigen Küchenblock, Schlafraum mit integriertem Wohnteil, Garderobe, Bad mit Dusche, getrenntes WC, Balkon, teilweise Terrasse.
+Wohnung für 2 Personen""" ;
+            schema:itemOffered [ a schema:Apartment,
+                        schema:Product ;
+                    schema:name "Emma/Wohn-Schlafraum/Dusche,WC" ;
+                    schema:numberOfRooms "1.0" ;
+                    schema:occupancy [ a schema:QuantitativeValue ;
+                            schema:maxValue "2" ;
+                            schema:minValue "2" ] ] ;
+            schema:name "Appartement/Fewo, Dusche, WC" ;
+            schema:priceSpecification [ a schema:PriceSpecification ;
+                    schema:description "Pax 2" ;
+                    schema:maxPrice "84.00" ;
+                    schema:minPrice "51.00" ;
+                    schema:priceCurrency "EUR" ] ],
+        [ a schema:Offer ;
+            schema:availability "http://schema.org/InStock" ;
+            schema:description "Die Wohnung verfügt über Diele mit eingebauter Kochnische,Schlafraum mit integriertem Wohnteil,Dusche,getrenntes WC,Garderrobenraum, Balkon" ;
+            schema:itemOffered [ a schema:Apartment,
+                        schema:Product ;
+                    schema:description "Die Wohnung verfügt über eine Kochnische mit gemütlichem Eßplatz, Schlafraum durch optische Trennwand geteilt, Bad mit Dusche und WC, Balkon." ;
+                    schema:name "Amalia/Wohn-Schlafraum/Dusche ," ;
+                    schema:numberOfRooms "1.0" ;
+                    schema:occupancy [ a schema:QuantitativeValue ;
+                            schema:maxValue "2" ;
+                            schema:minValue "2" ] ] ;
+            schema:name "Appartement/Fewo, Dusche oder Bad, WC" ;
+            schema:priceSpecification [ a schema:PriceSpecification ;
+                    schema:description "Pax 2" ;
+                    schema:maxPrice "80.00" ;
+                    schema:minPrice "48.00" ;
+                    schema:priceCurrency "EUR" ] ] ;
+    schema:name "Ferienhaus Tannenblick" ;
+    schema:url <http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf>,
+        <http://www.ferienhaus-tannenblick.at/> .
+

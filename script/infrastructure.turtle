@@ -1,0 +1,135 @@
+@prefix : <http://schema.org/> .
+@prefix cat: <http://www.w3.org/ns/dcat#> .
+@prefix cc: <http://creativecommons.org/ns#> .
+@prefix cnt: <http://www.w3.org/2008/content#> .
+@prefix ctag: <http://commontag.org/ns#> .
+@prefix dc: <http://purl.org/dc/terms/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix earl: <http://www.w3.org/ns/earl#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix gldp: <http://www.w3.org/ns/people#> .
+@prefix gr: <http://purl.org/goodrelations/v1#> .
+@prefix grddl: <http://www.w3.org/2003/g/data-view#> .
+@prefix ht: <http://www.w3.org/2006/http#> .
+@prefix ical: <http://www.w3.org/2002/12/cal/icaltzd#> .
+@prefix ma: <http://www.w3.org/ns/ma-ont#> .
+@prefix og: <http://ogp.me/ns#> .
+@prefix org: <http://www.w3.org/ns/org#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix ptr: <http://www.w3.org/2009/pointers#> .
+@prefix qb: <http://purl.org/linked-data/cube#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfa: <http://www.w3.org/ns/rdfa#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix rev: <http://purl.org/stuff/rev#> .
+@prefix rif: <http://www.w3.org/2007/rif#> .
+@prefix rr: <http://www.w3.org/ns/r2rml#> .
+@prefix schema: <http://schema.org/> .
+@prefix sd: <http://www.w3.org/ns/sparql-service-description#> .
+@prefix sioc: <http://rdfs.org/sioc/ns#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix skosxl: <http://www.w3.org/2008/05/skos-xl#> .
+@prefix v: <http://rdf.data-vocabulary.org/#> .
+@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix wdr: <http://www.w3.org/2007/05/powder#> .
+@prefix wdrs: <http://www.w3.org/2007/05/powder-s#> .
+@prefix xhv: <http://www.w3.org/1999/xhtml/vocab#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+[] a schema:SportsActivityLocation ;
+    schema:address [ a schema:PostalAddress ;
+            schema:addressCountry "AT" ;
+            schema:addressLocality "Leutasch" ;
+            schema:name "Fussballplatz" ;
+            schema:postalCode "6105" ;
+            schema:streetAddress "Oberweidach/Nähe Alpenbad" ] ;
+    schema:geo [ a schema:GeoCoordinates ;
+            schema:latitude "47.3688936" ;
+            schema:longitude "11.144124" ] ;
+    schema:image [ a schema:ImageObject ;
+            schema:caption "Fussballplatz" ;
+            schema:url <http://resc.deskline.net/images/SEE/1/b1ab5708-ce4c-467d-b3af-adcd11f01907/99/image.bmp> ] ;
+    schema:name "Fussballplatz" ;
+    schema:url <http:///> .
+
+[] a schema:SportsActivityLocation ;
+    schema:address [ a schema:PostalAddress ;
+            schema:addressCountry "AT" ;
+            schema:addressLocality "Seefeld" ;
+            schema:email "info@xc-academy.com" ;
+            schema:name "Cross Country Academy" ;
+            schema:postalCode "6100" ;
+            schema:streetAddress "Klosterstr. 120" ;
+            schema:telephone "+43521250300" ;
+            schema:url <http://www.xc-academy.com/> ] ;
+    schema:description """Events, Camps und Specials: Ein Tag im Schnee Firmenevents/ Incentives, Wettkämpfe Biathlon/ Langlauf, Langlauf-Camps, Langlauf fur Schülen,
+Renntraining/ Trainingsplanung, Reise zum traditionellen Vasaloppet & Birkebeiner Rennet. Kontaktieren Sie uns und lassen Sie sich beraten. Wir erstellen Ihnen gerne ein Angebot, das ganz Ihren Wünschen entspricht.""" ;
+    schema:geo [ a schema:GeoCoordinates ;
+            schema:latitude "47.3282165238049" ;
+            schema:longitude "11.1825051994751" ] ;
+    schema:image [ a schema:ImageObject ;
+            schema:caption "Cross Country Academy" ;
+            schema:url <http://resc.deskline.net/images/SEE/1/e5a26eab-f513-47e0-837f-d8aafb37283d/99/image.jpeg> ] ;
+    schema:name "Snowfun, Skischule Cross Country Academy Martin Tauber" ;
+    schema:url <http://www.xc-academy.com/> .
+
+[] a schema:FastFoodRestaurant ;
+    schema:address [ a schema:PostalAddress ;
+            schema:addressCountry "AT" ;
+            schema:addressLocality "Seefeld" ;
+            schema:name "Bahnhofsbuffet Seefeld" ;
+            schema:postalCode "6100" ;
+            schema:streetAddress "Bahnhofsplatz 115" ;
+            schema:telephone "(0043) 5212 2443" ] ;
+    schema:geo [ a schema:GeoCoordinates ;
+            schema:latitude "47.328997491136" ;
+            schema:longitude "11.1891406774521" ] ;
+    schema:image [ a schema:ImageObject ;
+            schema:caption "Bahnhofsbuffet Sommer" ;
+            schema:url <http://resc.deskline.net/images/SEE/1/58f8dfa3-c017-4ca4-b84e-017286b007ab/99/image.jpg> ] ;
+    schema:name "Bahnhofsbuffet, Imbiss" .
+
+[] a schema:Landform ;
+    schema:address [ a schema:PostalAddress ;
+            schema:addressCountry "AT" ;
+            schema:addressLocality "Telfs-Buchen" ;
+            schema:name "Lottenseehütte" ;
+            schema:postalCode "6410" ;
+            schema:streetAddress "Brand 7" ;
+            schema:telephone "(0043) 6644003132" ] ;
+    schema:description "Periodischer Badesee, Stempelstelle" ;
+    schema:geo [ a schema:GeoCoordinates ;
+            schema:latitude "47.3241770245305" ;
+            schema:longitude "11.1282598038574" ] ;
+    schema:image [ a schema:ImageObject ;
+            schema:caption "Lottensee- & -hütte" ;
+            schema:url <http://resc.deskline.net/images/SEE/1/7c20cc80-f3ea-46d1-ba88-2da62e91b038/99/image.jpg> ] ;
+    schema:name "Lottenseehütte" .
+
+[] a schema:SportsActivityLocation ;
+    schema:address [ a schema:PostalAddress ;
+            schema:addressCountry "AT" ;
+            schema:addressLocality "Reith bei Seefeld" ;
+            schema:email "reitherjochalm@aon.at" ;
+            schema:name "Reitherjoch Alm" ;
+            schema:postalCode "6103" ;
+            schema:telephone "+436767770501" ;
+            schema:url <http://www.reitherjochalm.at/> ] ;
+    schema:description """Naturrodelbahn Reitherjoch Alm
+Aufstieg von der Talstation Bergbahnen Rosshütte,  Länge: ca. 2,5 km, Höhenunterschied: 290 m, Schwierigkeit: schwer, bewirtschaftete Hütte: 
+Reitherjoch Alm, Tel.: 0676/7770501, www.reitherjochalm.at, zur freien Benützung auf eigene Gefahr, ohne Transport und Beleuchtung. Rodelverleih bei den Sportgeschäften.""" ;
+    schema:geo [ a schema:GeoCoordinates ;
+            schema:latitude "47.3231991891604" ;
+            schema:longitude "11.2134019045685" ] ;
+    schema:image [ a schema:ImageObject ;
+            schema:caption "HP_001_Reitherjochalm_Seefeld.jpg" ;
+            schema:url <http://resc.deskline.net/images/SEE/1/aeecfb32-578d-4b12-b5d3-5342e1432452/99/image.jpg> ],
+        [ a schema:ImageObject ;
+            schema:caption "Hp_002_Reitherjochalm_Seefeld.jpg" ;
+            schema:url <http://resc.deskline.net/images/SEE/1/1ed40595-6798-4998-87c8-798920116183/99/image.jpg> ] ;
+    schema:name "Naturrodelbahn Reitherjoch Alm Seefeld/Reith" .
+
