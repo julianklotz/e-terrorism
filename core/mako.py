@@ -33,10 +33,7 @@ class MakoLoader(object):
         try:
             lookup = self.lookups[key]
         except KeyError:
-            lookup = TemplateLookup(directories=directories,
-                                    module_directory=module_directory,
-                                    collection_size=collection_size,
-                                    )
+            lookup = TemplateLookup(lookup = TemplateLookup(directories=directories, module_directory=module_directory, collection_size=collection_size,output_encoding='utf-8', encoding_errors='replace'))
             self.lookups[key] = lookup
         cherrypy.request.lookup = lookup
         
