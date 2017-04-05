@@ -6,4 +6,6 @@ class AbstractClassifier(object):
     def classify( self, attributes ):
         pass
 
+    def rank( self, result ):
+        pass
 

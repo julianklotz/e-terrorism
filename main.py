@@ -33,7 +33,7 @@ class Tinderism(object):
         # fine_living
 
         # get input as an array with 0|1 for each attribute
-        # self.classifier.classify( DataFrame( data, CFG.ATTRIBUTES))
+        types = self.classifier.classify( DataFrame( [[1,0,0,1,0,1,0,0]], columns=CFG.ATTRIBUTES))
 
         con = sparql_connector.SparqlConnector()
         print( con.query_all_lodgings() )
