@@ -1,0 +1,22 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Gerda",
+    "streetAddress": "Weidach 376a",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0049) 6821 860534"
+  },
+  "name": "Haus Gerda",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3684447",
+    "longitude": "11.1661667999999"
+  },
+  "currenciesAccepted": "EUR"
+}

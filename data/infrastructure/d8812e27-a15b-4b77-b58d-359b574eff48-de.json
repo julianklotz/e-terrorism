@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation"
+  ],
+  "name": "Schneeschuhwandern, Schischule Seefeld",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Schischule Seefeld",
+    "streetAddress": "Münchner Str. 142",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "+4352122412",
+    "faxNumber": "+435212241289",
+    "email": "schischule@schi-seefeld.at",
+    "url": "http://www.schi-seefeld.at"
+  },
+  "description": "Idyllische Schneeschuhwanderung über den Geigenbühel in Richtung „Triendlsage“, jeden Donnerstag um 17.00 Uhr. Treffpunkt: 17.00 Uhr \nvor dem Büro der Schischule Seefeld. Preis: € 25,00 inkl. Ausrüstung und 1 Glühwein Anmeldung bis spätestens zum Vortag in der Schischule Seefeld",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5bab4e19-a4d4-4dd7-8ae3-2ce383ec32f2/99/image.png",
+      "caption": "Schischule Seefeld"
+    }
+  ],
+  "url": [
+    "http://www.schi-seefeld.at"
+  ]
+}

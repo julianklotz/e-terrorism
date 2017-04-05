@@ -1,0 +1,49 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "Weißwurst-Brunch im Bergrestaurant Rosshütte",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bergbahnen Rosshütte",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Rosshütte Seefeld",
+      "addressLocality": "Seefeld",
+      "postalCode": "6100",
+      "addressCountry": "AT",
+      "telephone": "(0043) 5212 24160",
+      "email": "info@rosshuette.at",
+      "url": "http://www.rosshuette.at"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Bergbahnen Rosshütte",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Rosshütte Seefeld",
+      "addressLocality": "Seefeld",
+      "postalCode": "6100",
+      "addressCountry": "AT",
+      "telephone": "(0043) 5212 24160",
+      "email": "info@rosshuette.at",
+      "url": "http://www.rosshuette.at"
+    }
+  },
+  "description": "Genießen Sie typisches \"bayrisches Frühstück\" bei uns in Tirol: Ein Paar frische Weißwürste, eine Breze und ein Weißbier (0,5 l) für € 7,90! Weitere Informationen unter www.rosshuette.at.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/fb4e7a0f-c3bb-4ba0-8ebe-51cf29978a88/99/image.jpg",
+      "caption": "Rosshütte"
+    }
+  ],
+  "url": [
+    "http://www.rosshuette.at"
+  ],
+  "startDate": "2017-06-03T09:00:00",
+  "endDate": "2017-10-26"
+}

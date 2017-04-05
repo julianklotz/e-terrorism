@@ -1,0 +1,81 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://web.deskline.net/seefeld/de/show_accommodation/SEE/f3fc13ad-7b28-441b-bff3-d7fda8ff89a0/haus_l%c3%a4rchenwald_1__top_4",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Lärchenwald",
+    "streetAddress": "Kindergarten 573 - Top A4",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0030) 6946460694",
+    "email": "geoluni@hotmail.com"
+  },
+  "name": "Haus Lärchenwald - App. Geoluni",
+  "description": "Unser 2-Zimmer Appartement liegt in schöner, sonniger, ruhiger Lage, aber doch sehr zentral und nur 5 Gehminuten vom Bahnhof. Die Zugfahrt nach Innsbruck dauert 30 min. Das Appartement liegt im Erdgeschoß, hat Zugang zum wunderschönen großen Garten. Es ist komplett ausgestattet für einen shönen und komfortablen Aufenthalt, ideal für 2-3 Erwachsene oder Familie mit Kindern und ist ganzjaehrig verfügbar. Loipen, Skigebiet und Wanderwege sind nur wenige Minuten entfernt.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7c788d4c-c2a1-4111-87cf-305e24b7ae6e/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/89b2302f-462d-40fc-bce3-ff3d4505c900/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/536f21f5-ed0f-425e-b316-b8df049b9f54/99/image.jpg",
+      "caption": "Garten West"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b063bca2-3777-4b75-ab2e-93eb47fd15d8/99/image.jpg",
+      "caption": "Garten Ost"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/df238b44-9c21-46c8-b80c-2e21751ba436/99/image.jpg",
+      "caption": "Garten3"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3290211247163",
+    "longitude": "11.1951863765717"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 1 Schlafraum",
+      "description": [
+        "Unser 2zim.Ferienappartment liegt in schoener,sonniger,ruhiger Lage,aber doch sehr zentral und nur 5 Gehmin.vom Bahnhof.Die Zugfahrt nach Innsbruck dauert 30 Min.Das app/nt liegt in Erdgeschloss,hat Zugang zum wunderschoenen grossen Garten.Es ist komplett ausgestattet fuer einen shoenen und komfortablen Aufenthalt,ideal fuer 2-3 Erwas.oder Fam.mit Kindern und ist ganzjaehrig verfuegbar.Kann Langlauf machen,wandern und im Skigebriet Rosshuette,das nur 8 Gehmin.entferntist,Ski fahren;golf spielen.",
+        "Unser 2zim.Ferienappartment liegt in schoener,sonniger,ruhiger Lage,aber doch sehr zentral und nur 5 Gehmin.vom Bahnhof.Die Zugfahrt nach Innsbruck dauert 30 Min.Das app/nt liegt in Erdgeschloss,hat Zugang zum wunderschoenen grossen Garten.Es ist komplett ausgestattet fuer einen shoenen und komfortablen Aufenthalt,ideal fuer 2-3 Erwas.oder Fam.mit Kindern und ist ganzjaehrig verfuegbar.Kann Langlauf machen,wandern und im Skigebriet Rosshuette,das nur 8 Gehmin.entferntist,Ski fahren;golf spielen."
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement Geoluni",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ]
+    }
+  ]
+}

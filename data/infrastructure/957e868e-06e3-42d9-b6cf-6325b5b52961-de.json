@@ -1,0 +1,51 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure",
+    "LocalBusiness"
+  ],
+  "name": "Streichelzoo Birkegg",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3685311",
+    "longitude": "11.1380502"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Gasthof Birkegg",
+    "streetAddress": "Kirchplatzl 129",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6854",
+    "faxNumber": "(0043) 5214 6854 190",
+    "email": "birkegg@utanet.at",
+    "url": "http://www.birkegg.at"
+  },
+  "description": "Großer Spielplatz mit Streichelzoo mit Ziegen, Schweinen, Hasen, Meerschweinchen, usw...\nGenießen Sie auf unserer überdachten Terrasse Kaffee und Kuchen, während die kleinen in natürlicher Umgebung spielen!\nDienstag bis Sonntag 10.00 bis 20.00 Uhr, Montag Ruhetag",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1890889d-0a5a-468d-b93a-650ebc7e15a3/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f61ccf90-e8f0-4d97-b6ff-7d7db7630705/99/image.jpg",
+      "caption": "Panorama"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7349cb38-eaad-4deb-bc3c-51d6c581f05f/99/image.jpg",
+      "caption": "Terrasse"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/36e7529d-9752-4b3d-aa89-9bdd3f4905c6/99/image.jpg",
+      "caption": "Streichelzoo"
+    }
+  ],
+  "url": [
+    "http://www.birkegg.at"
+  ]
+}

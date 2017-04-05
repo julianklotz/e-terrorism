@@ -1,0 +1,333 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.appartement-tirol.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Appartementhaus Wildsee",
+    "streetAddress": "Gschwandtweg 10",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "0043  664 3205701",
+    "faxNumber": "0043 5212 3305",
+    "email": "wildsee@appartement-tirol.at",
+    "url": "http://www.appartement-tirol.at"
+  },
+  "name": "Appartementhaus Wildsee",
+  "description": [
+    "\nDas Haus Wildsee hat eine sehr exklusive und einmalige Lage am Ufer des Seefelder Wildsee und verfügt über fünf Ferienwohnungen für 2-3 Personen, sowie über zwei Ferienwohnungen für 2-4 Personen. Alle Wohnungen sind liebevoll, sehr schön und komfortabel eingerichtet, sowie teilweise komplett neu im alpinen Chaletstil renoviert. Das Haus und alle Ferienwohnungen liegen in angenehmer Ruhe inmitten der Natur, direkt an der beliebten Seefelder Seepromenade und trotzdem sind es nur ca. 8 Gehminuten bis ins Ortszentrum oder zu den Liften des Gschwandtkopfskigebietes. Im Winter können Sie in der Nähe des Hauses direkt in die Langlaufloipe einsteigen und im Sommer die Bademöglichkeiten im See nutzen oder von hier Ihre Wanderungen starten. Die unberührte Natur grenzt hier bis an die Haustür und Sie können gleich durch das Naturschutzgebiet \"Reither Moor\" wandern und die Vögel, Enten und Eichhörnchen beobachten und füttern. Unser großer hauseigene Garten und Wald mit Kinderspielplatz lädt zum entspannen ein oder Sie genießen den herrlichen Ausblick über den Wildsee mit seinen faszinierenden Jahreszeiten vom Balkon oder Terrasse ihrer Ferienwohnung.",
+    "Die Appartements sind sehr schön, gemütlich und komfortabel eingerichtet, Balkon oder Terrasse, teilweise mit Seeblick.\nRuhige Lage, Holzboden und sichtbarer Holzdachstuhl,\nGratis W-Lan, Hauseigene Parkplätze, idyllische Liegewiese am Waldrand, Seezugang, gratis Ruderboot, gratis Fahrräder, \nVerbilligter Eintritt in die Seefelder Olympia Badelandschaft, \nIm Sommer Heizungszuschlag wenn notwendig.",
+    "Anreise: 14:00\nAbreise: 10:00 \n"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9b985a33-9f2b-48b0-9993-eb3b5925bab1/99/image.jpg",
+      "caption": "Haus Wildsee Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/856a4ff5-1ff3-4c4d-b608-d793ba87b24c/99/image.jpg",
+      "caption": "Unser idyllische Garten im Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a3ab4542-cf8b-43ad-915b-e958e2985e45/99/image.jpg",
+      "caption": "Haus Wildsee, Aussicht vom Garten"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ca5e4b1e-c63f-4fac-979a-5b65d185a22d/99/image.jpg",
+      "caption": "Balkonaussicht im Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3e95fac6-ff3b-4c34-9f76-eff1e3a0f89d/99/image.jpg",
+      "caption": "Das Haus Wildsee im Herbst"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c14a09e7-589e-4a98-96b8-1368c114e9cd/99/image.jpg",
+      "caption": "Haus Wildsee Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8ceb7444-dff0-4223-9df1-d9688f4d63c7/99/image.jpg",
+      "caption": "Balkonausblick im Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d40c3f15-72a3-4562-9d1c-79eb0dacb237/99/image.jpg",
+      "caption": "Balkonausblick im Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/bf5d37ab-85e6-4419-b47a-a357c85fdd9e/99/image.jpg",
+      "caption": "Winter Aussicht auf  Reitherspitze"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c7a44a7a-88fd-4a28-9c9c-9736e756ec61/99/image.jpg",
+      "caption": "Balkonausblick im Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e4d18d42-8f63-49ee-bb19-eb6c2723b7fa/99/image.jpg",
+      "caption": "Im Sommer kommen die Rehe zu uns in den Garten"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/fcabac2b-66a8-4e67-a7f2-f97b07c51085/99/image.jpg",
+      "caption": "Das Haus Wildsee im Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f4c2fae7-fddb-4a38-9a7b-53398159d9bf/99/image.jpg",
+      "caption": "Das Haus Wildsee im Winter vom See aus"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1d1d8988-ae28-4a96-974e-da550b6360b5/99/image.jpg",
+      "caption": "Spazierweg beim Haus Wildsee"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d5393f06-81d5-4ea7-acf6-24ce5df261a5/99/image.jpg",
+      "caption": "Unsere Terrase im Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ac1e4205-f049-4c5f-ac0d-504f32329708/99/image.jpg",
+      "caption": "Das Haus Wildsee im Sommer Luftaufnahme"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9a120afe-cf3a-48f7-a404-6572709d7e81/99/image.jpg",
+      "caption": "Eichhörnchen Brownie im Garten"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d2682454-ac71-492b-8a82-84b7ba4286c6/99/image.jpg",
+      "caption": "Sommer Aussicht von der Terrasse"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b5807593-b76d-4078-902b-ca489a6b2110/99/image.jpg",
+      "caption": "Haus Wildsee im Herbst von der anderen Seeseite"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e6eab566-0155-434d-9005-a1840fdb5d20/99/image.jpg",
+      "caption": "Balkonaussicht und Garten im Herbst"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3211960138391",
+    "longitude": "11.1899185180664"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 2 Schlafräume",
+      "description": "Neue sehr schöne im chaletstil renovierte 3-Raum-Ferienwohnung für 2-4 Personen.\nSichtbarer Holzdachstuhl, Holz- und Schieferboden, kleiner Erker.\n2 Schlafzimmer, schönes Bad mit Dusche und großem Waschtisch, separates WC.\nVoll ausgestattete Wohnküche mit Esstisch, Eck-Sofa und Relaxsessel, Bettwäsche, Bade- Hand- und Geschirrtücher, Haarföhn, Kabel-TV, TV-Programm, Radio mit Bluetoothanschluss, gratis W-LAN. \nSehr ruhig gelegen mit Balkon und idyllischem Waldblick, direkter Gartenzugang.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "3-Raum-Appartement",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "95.00",
+          "maxPrice": "105.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "95.00",
+          "maxPrice": "105.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "95.00",
+          "maxPrice": "105.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche oder Bad, WC, 1 Schlafraum",
+      "description": "Schöne 2-Raum-Ferienwohnung für 2-3 Personen, sehr gemütlich und komfortabel eingerichtet.\nVoll ausgestattete Küche mit Kochutensilien, Bettwäsche, Bade- Hand- und Geschirrtücher, Filterkaffeemaschine, Haarföhn, Kabel-TV, TV-Programm, Radio, gratis W-LAN. Fußboden aus schönem Holzparkett, sichtbarer Holzdachstuhl.\nAlle Appartements sind ruhig gelegen mit Balkon oder Terrasse mit faszinierendem Seeblick oder idyllischem Garten- und Waldblick.\nMehr Informationen auf www.appartement-tirol.at",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "2-Raum-Appartement",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Wandern im Herbst",
+          "description": "Verbringen Sie einen entspannten Wander-Urlaub in unserem Ferienhaus Wildsee.\nKomfortables 2-Raum Appartement in idyllischer Lage am Seefelder Wildsee. Von hier können Sie direkt ihre Wanderungen starten und bei ihrer Rückkehr den herrlichen Seeblick und die Ruhe in unserem Waldgarten geniessen. Wir stellen für Sie gerne ein individuelles Wanderprogramm zusammen. Sie erhalten in diesem Paket eine Wanderkarte der Olympiaregion und eine Flasche Rotwein.\n",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Sonnen-Langlauf und Genießen im März",
+          "description": "In der Olympiaregion stehen ihnen über 250 gespurte Loipenkilometer in wunderschöner Landschaft zur Verfügung.\nVerbringen Sie einen entspannten Langlauf-Urlaub in unserem Ferienhaus Wildsee.\nKomfortables 2-Raum Appartement, komplett ausgestattet in idyllischer Lage am Seefelder Wildsee. Von hier können Sie direkt in die Langlaufloipe einsteigen. Sie erhalten bei diesem Paket gratis Loipenkarten und eine Flasche Rotwein.\ninklusive Kurtaxe und Endreinigung",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Wandern im Herbst 7 Tage",
+          "description": "Verbringen Sie einen entspannten Wander-Urlaub in unserem Ferienhaus Wildsee.\nKomfortables 2-Raum Appartement in idyllischer Lage am Seefelder Wildsee. Von hier können Sie direkt ihre Wanderungen starten und bei ihrer Rückkehr den herrlichen Seeblick und die Ruhe in unserem Waldgarten geniessen. Wir stellen für Sie gerne ein individuelles Wanderprogramm zusammen. Sie erhalten in diesem Paket eine Wanderkarte der Olympiaregion und eine Flasche Rotwein.",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Golfen im Herbst",
+          "description": "Spielen sie auf den schönsten Golfplätzen der Alpen in und um die Olympiaregion Seefeld (6 Golfplätze sind innerhalb 30 Automin. erreichbar)\nKomfortables 2-Raum-Appartement, komplett ausgestattet\n2 Greenfee für 9 Loch Golfplatz \"Seefeld-Reith\" (500m vom Haus entfernt)\nAuf Wunsch begleitet Sie die Besitzerin Frau Klima, eine begeisterte Golferin\n1 Damen-Golfset (Marke Cobra, neuwertig) wird gratis zur Verfügung gestellt.\nPro Person 6 Golfbälle\nInkl. Kurtaxe und Endreinigung\n\n\n",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "73.00",
+          "maxPrice": "85.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "88.00",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "380.00",
+          "maxPrice": "380.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "480.00",
+          "maxPrice": "480.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "495.00",
+          "maxPrice": "495.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, Komfort",
+      "description": "Neue sehr schöne im chaletstil renovierte 2-Raum-Ferienwohnung für 2-3 Personen.\nSichtbarer Holzdachstuhl, Holz- und Schieferboden, kleiner Erker.\nSchlafzimmer mit Doppelbett (Boxspringbett) und Zusatzbett.\nVoll ausgestattete Küche, Bettwäsche, Bade- Hand- und Geschirrtücher, Haarföhn, Kabel-TV, TV-Programm, Radio, gratis W-LAN. \nDas Appartement ist sehr ruhig gelegen mit Balkon und einem traumhaften Ausblick in die Berge und über den Seefelder Wildsee mit all seinen faszinierenden Jahreszeiten.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "2-Raum-Komfort Appartement Walde",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "78.00",
+          "maxPrice": "95.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "93.00",
+          "maxPrice": "110.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

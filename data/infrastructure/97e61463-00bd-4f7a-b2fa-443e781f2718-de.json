@@ -1,0 +1,28 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "HairSalon"
+  ],
+  "name": "Friseursalon Ehwald",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3301700675586",
+    "longitude": "11.1897361278534"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Ehwald Friseursalon",
+    "streetAddress": "Andreas Hofer Str. 517",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 4404414"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f42344a8-282b-40d4-9571-b62bb3808353/99/image.jpg",
+      "caption": "Friseur"
+    }
+  ]
+}

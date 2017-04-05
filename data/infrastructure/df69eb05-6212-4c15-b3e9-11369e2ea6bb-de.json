@@ -1,0 +1,33 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "ClothingStore",
+    "Store"
+  ],
+  "name": "Alpen Outlet Seefeld",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3300694788908",
+    "longitude": "11.1872411576721"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Alpen Outlet Seefeld",
+    "streetAddress": "Münchner Strasse 189",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 151 58545414 ",
+    "email": "horstforster@online.de"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/92e8abd1-0be5-46ec-913b-6329ecca72cb/99/image.jpg",
+      "caption": "Einkaufen"
+    }
+  ],
+  "url": [
+    "http://"
+  ]
+}

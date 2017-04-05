@@ -1,0 +1,55 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "Palmsonntagsgottesdienst mit Palmenweihe",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Pfarramt Seefeld",
+    "employee": {
+      "@type": "Person",
+      "familyName": "Pfarrer Pfeifer"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Maximilianweg 29",
+      "addressLocality": "Seefeld",
+      "postalCode": "6100",
+      "addressCountry": "AT",
+      "telephone": "+43521223190",
+      "faxNumber": "+435212231911",
+      "email": "pfarre.seefeld@dibk.at",
+      "url": "http://www.pfarramt-seefeld.at"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Pfarramt Seefeld",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Maximilianweg 29",
+      "addressLocality": "Seefeld",
+      "postalCode": "6100",
+      "addressCountry": "AT",
+      "telephone": "+43521223190",
+      "faxNumber": "+435212231911",
+      "email": "pfarre.seefeld@dibk.at",
+      "url": "http://www.pfarramt-seefeld.at"
+    }
+  },
+  "description": "Palmenweihe beim Musikpavillon, anschl. Palmprozession zur Pfarrkirche und Messe.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/869ef926-8c1f-4343-a07c-9afb77e9784f/99/image.jpg",
+      "caption": "Pfarrkirche"
+    }
+  ],
+  "url": [
+    "http://www.pfarramt-seefeld.at"
+  ],
+  "startDate": "2017-04-09T10:00:00",
+  "endDate": "2017-04-09"
+}

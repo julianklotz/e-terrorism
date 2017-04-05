@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure"
+  ],
+  "name": "Sport Günter GmbH",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3724928",
+    "longitude": "11.1629425"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Sport Günter",
+    "streetAddress": "Weidach 318c",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 52146305"
+  },
+  "description": "E-Bike Verleih und Akkuladestation\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f00828cc-7378-4267-82c1-6042f778cda1/99/image.jpg",
+      "caption": "Sommer"
+    }
+  ],
+  "url": [
+    "http://"
+  ]
+}

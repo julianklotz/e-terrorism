@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation",
+    "TouristAttraction"
+  ],
+  "name": "E-Bike Verleih - Hotel Tirolerhof",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3698431018985",
+    "longitude": "11.1614043085983"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Hotel Tirolerhof",
+    "streetAddress": "Weidach 308 a",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6331",
+    "faxNumber": "(0043) 5214 6061",
+    "email": "info@tirolerhof-leutasch.at",
+    "url": "http://www.tirolerhof-leutasch.at"
+  },
+  "description": "E-Bike Verleih auf Anfrage!",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/cbd8c80e-c4d9-4bc9-9b1b-3e7820677cdd/99/image.jpg",
+      "caption": "Tirolerhof"
+    }
+  ],
+  "url": [
+    "http://www.tirolerhof-leutasch.at"
+  ]
+}

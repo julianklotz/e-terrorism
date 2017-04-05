@@ -1,0 +1,86 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Pension Olympia",
+    "streetAddress": "Gstoag 44",
+    "addressLocality": "Reith bei Seefeld",
+    "postalCode": "6103",
+    "addressCountry": "AT",
+    "telephone": "0043 5212 4911",
+    "faxNumber": "(0043) 5212 2433",
+    "email": "olympia@seefeld-in-tirol.net"
+  },
+  "name": "Pension Olympia",
+  "description": [
+    "Unser Haus liegt ca. 1 km südlich von Seefeld in Auland, sehr sonnig, mit großem Garten und Ententeich. Die Zimmer haben alle Du/WC, Balkon, Kabel-TV und freies W-Lan. Es gibt ein Frühstücksbuffet. Loipen, Wanderwege sowie Ski- + Wanderbus sind in nächster Nähe.",
+    " Hunde gratis.",
+    "Bei Anreise Ausfahrt Seefeld Süd, nach 200m links.\nCheck in: 11.00 Uhr\nCheck out: 10.00 Uhr"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f2f425df-cb21-4b24-829f-d88c608d7f44/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/96c303ad-d5c3-4a42-a6bd-85a5def076ff/99/image.jpg",
+      "caption": "Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3141038074434",
+    "longitude": "11.1989002243337"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Alle Zimmer sind gemütlich eingerichtet und haben DU/WC sowie Kabel - TV.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "45.00",
+          "maxPrice": "45.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "30.00",
+          "maxPrice": "30.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

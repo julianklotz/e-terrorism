@@ -1,0 +1,146 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.leutasch-austria.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Gästehaus Austria",
+    "streetAddress": "Weidach 363 d",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6750",
+    "faxNumber": "(0043) 5214 6750",
+    "email": "info@leutasch-austria.at",
+    "url": "http://www.leutasch-austria.at"
+  },
+  "name": "Gästehaus Austria",
+  "description": [
+    "Herzlich Willkommen in unserem gemütlichen, familiär geführten Gästehaus Austria mitten im Naturparadies Leutasch in Tirol. Wir bieten Ihnen Tage der Erholung und Entspannung zu jeder Jahreszeit in unseren exklusiven Ferienwohnungen und Komfortzimmer. Sowohl für Wanderungen und ausgedehnte Spaziergänge, als auch zum Langlaufen auf den perfekt präparierten Loipen der Olympiaregion Seefeld-Leutasch ist das Gästehaus Austria der ideale Ausgangspunkt.\n\nUnsere zwei komfortablen und gemütlichen Ferienwohnungen „Wetterstein“ und „Hohe Munde“ sowie das Komfort-Doppelzimmer „Ahrnspitze“ sind im Tiroler Landhausstil und mit Echtholzböden ausgestattet. Die hellen Wohnungen verfügen über eine voll ausgestattete Küche, Sitzecke und ein getrenntes Wohn- und Schlafzimmer. Die gemütlichen Wohnzimmer bestehen aus einer großen Wohnlandschaft mit ausziehbarer Couch, Schreibtisch, SAT-TV sowie einem Süd- und Westbalkon. Das Komfort-Doppelzimmer verfügt über eine Sitzcouch, SAT-TV, Kühlschrank sowie Balkon und kann auf Wunsch mit Frühstück gebucht werden. \n\nDas Ferienhaus überzeugt mit seiner Lage. Unser Gästehaus Austria befindet sich nur 10 Gehminuten vom Supermarkt und der Haupt-Bushaltestelle Weidach entfernt. Auch viele Restaurants sind in wenigen Minuten zu Fuß erreichbar. Im Sommer der ideale Ausgangspunkt für Wanderungen und Mountainbiketouren. Im Winter trennen Sie nur 300 m von den Langlaufloipen, welche unsere Gäste kostenlos nutzen können. \n\nDie täglich präparierten Langlaufloipen der Olympiaregion Seefeld – Leutasch und die atemberaubende Naturkulisse machen das Langlaufen hier bei uns zum Genuss. Starten Sie ins Langlaufvergnügen direkt hinter unserem Ferienhaus, wo die einfache Langlaufloipe A7 auf Sie wartet. Genießen Sie die überwältigende Winterlandschaft bei einem Spaziergang auf den geräumten Winterwanderwegen oder wandern Sie zur Hüttengaudi auf die Hämmermoosalm. Rodeln zum Hinunterdüsen stellen wir Ihnen gerne zur Verfügung. \n\nWandern Sie von Hütte zu Hütte im Almenparadies Gaistal oder genießen Sie auf bis 2000 m bei einem „Schnapserl“ die Aussicht auf die beeindruckende Bergkulisse des Hochplateaus. Von Mai bis Oktober können Sie sich kostenfrei in der ca. 1,5 km entfernten ErlebnisWelt Alpenbad Leutasch entspannen oder den Tag nach einer erlebnisreichen Wanderung ausklingen lassen. Um das Leutaschtal auch mobil zu erleben, stehen Ihnen im Sommer gratis Fahrräder zur Verfügung. \n\nVerbringen Sie Ihre schönsten Tage im Jahr hier bei uns im Gästehaus Austria, wo Herzlichkeit und Gastfreundschaft noch ganz oben stehen! Wir freuen uns schon sehr darauf Sie in unserem Ferienhaus in Leutasch in Tirol begrüßen zu dürfen! Ihre Gastfamilie, Adelheid und Hans Albrecht.",
+    "Weiter Annehmlichkeiten: Parkplatz und Skiraum mit Wachsgelegenheit, ",
+    "München-Garmisch-Mittenwald-Leutasch-Fernpaß-Telfs-Leutasch.\nInnsbruck-Seefeld-Leutasch.\n\n"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/81b53cac-3fbd-415f-98c3-ef48d44f54a8/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3b24353d-84b3-4846-85b8-c3fa4285ec78/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6cfaef38-dd76-443a-bb16-9c04d83beda9/99/image.jpg",
+      "caption": "Frühstücksraum"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3746396594011",
+    "longitude": "11.1691474914551"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Ein gemütliches, geräumiges Komfort-Doppelbettzimmer mit DU und WC, SAT-TV, WLan-Internet, Kühlschrank, Südbalkon mit wunderbarem Ausblick auf die Berge erwartet Sie. Erweitertes Frühstück mit Wurst, Käse, Saft, Müsli usw., kleine Tee- und Kaffeküche vorhanden.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "26.00",
+          "maxPrice": "26.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Appartement Wetterstein 61 m² NEUERICHTET\nEin gemütliches und geräumiges Appartement erwartet Sie. Wohnzimmer mit Wohnlandschaft (ausziehbar für 1-2 Betten), seperates Schlafzimmer mit zusätzlichem 3. Bett, geräumiges Badezimmer, Küche - bestens ausgestattet mit Mikrowelle, Geschirrspüler, 4-Platten-Ceran-Kochfeld, Wasserkocher, große, bequeme Essecke, Schreibtisch, SAT-TV, WLAN-Internet, Südbalkon mit wunderbarem Ausblick. \nEin seperates Doppelzimmer mit DU/WC ist zubuchbar (bis 6 Personen)",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Wetterstein, Dusche, WC, 1 Schlafraum",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "50.00",
+          "maxPrice": "50.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Appartement Hohe Munde 52 m² NEUERICHTET\nEin gemütliches und geräumiges Appartement erwartet Sie. Wohnzimmer mit Wohnlandschaft (ausziehbar für 1-2 Betten), seperates Schlafzimmer mit zusätzlichem 3. Bett, geräumiges Badezimmer, Küche - bestens ausgestattet mit Mikrowelle, Geschirrspüler, 4-Platten-Ceran-Kochfeld, Wasserkocher, große, bequeme Essecke, Schreibtisch, SAT-TV, WLAN-Internet, S/W-Balkon mit wunderbarem Ausblick. \nEin seperates Doppelzimmer mit DU/WC ist zubuchbar (bis 6 Personen)",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Hohe Munde, Dusche, WC, 1 Schlafraum",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "50.00",
+          "maxPrice": "50.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

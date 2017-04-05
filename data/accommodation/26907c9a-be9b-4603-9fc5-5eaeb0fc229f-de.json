@@ -1,0 +1,198 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.suedblick.com",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Suedblick",
+    "streetAddress": "Geigenbühel 217",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2406",
+    "faxNumber": "(0043) 5212 2406 4",
+    "email": "suedblick@seefeldnet.at",
+    "url": "http://www.suedblick.com"
+  },
+  "name": "Haus Südblick",
+  "description": [
+    "Das \"Haus Südblick\" liegt direkt am Schiübungshang Geigenbühel, in außergewöhnlich schöner und ruhiger Lage. Großzügige Wohnräume mit Möbel aus hellem Fichtenholz. Beide App. haben je 2 WC. Komfortable Garagen mit Funkfernbedienung für die Tore und direkter Verbindung ins Haus. In das Ortszentrum sind es 5 Gehminuten. Die Schi-und Shuttlebushaltestelle ist ca. 300m entfernt.\nBitte besuchen Sie meine Webseite www.suedblick.com",
+    "Inklusive: Garage, Strom, Wasser, Heizung, Bettwäsche, Handtücher, kompl. Küchenausstattung und kostenloser Breitband-Internetanschluss.\n\nExklusive: Telefongesprächskosten, Sauna 8 € (1 Pers.), 4 € (jede weitere Pers.)\nAlles weitere finden Sie auf meiner Homepage  suedblick.com",
+    "Check In 15.00 Uhr, Check Out 11.00 Uhr\n\nDer Luftkurort Seefeld liegt ca. 22 km westlich von Innsbruck in 1200 m Seehöhe. Die Anfahrtsrouten zum Hochplateau sind bequem und auch im Winter gut befahrbar. Sind Sie erst einmal in Seefeld ist mein Haus einfach zu finden. Alles weitere finden Sie auf meiner Webseite www.suedblick.com"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/88d5ccbf-2a06-4d6e-950e-b0fe3a78f753/99/image.jpg",
+      "caption": "Haus Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6f83e81a-9a56-409e-929f-1e9c196fb29f/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1f61fe5a-6988-49f3-88a4-e1cc43d66f6d/99/image.jpg",
+      "caption": "Haus Sommer 3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/20bea7db-cde3-4779-a795-9ff35d5cadae/99/image.jpg",
+      "caption": "Haus Sommer 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3ddf8a78-63ff-43b4-86b3-b3fc4cf1232e/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/bf69d27b-eb93-4d2a-9571-2af8ba8e6844/99/image.jpg",
+      "caption": "Haus Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0b7aaef2-511b-40af-b626-58bb4185a40e/99/image.jpg",
+      "caption": "Haus Sommer 4"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e36f1710-419b-460d-95da-294a9d80af31/99/image.jpg",
+      "caption": "Hauseingang"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5413f608-707f-4d5e-98f8-f25178f0d7af/99/image.jpg",
+      "caption": "Aussicht Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/48100260-5417-4c3c-8154-f2ac39d00df7/99/image.jpg",
+      "caption": "Schlafzimmer 2 Raum App."
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/cd588c4a-0fce-4a97-945a-4e7f7d19a813/99/image.jpg",
+      "caption": "Bad 2 Raum App."
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2513bfee-7984-4694-834c-515c599e379a/99/image.jpg",
+      "caption": "Extra WC"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c1152be1-7cab-4eaa-b759-d7ca69009b84/99/image.jpg",
+      "caption": "Schlafzimmer 2 Raum App."
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/bd59dab1-55e3-455a-b062-4f59bccf7a4b/99/image.jpg",
+      "caption": "WZ Essecke 2 Raum App."
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/01daf51b-d407-44f1-ba53-4af284503d64/99/image.jpg",
+      "caption": "WZ Küche 2 Raum App."
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b41eca82-bdaa-407b-a996-b0fb4297d6e2/99/image.jpg",
+      "caption": "WZ Sitzecke 2 Raum App."
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1e922835-6c2f-4450-b3ef-7a831deffe76/99/image.jpg",
+      "caption": "Wohnzimmer 2 Raum App."
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/bcc52198-1abf-42fd-b1cc-6f1ae4a76ca0/99/image.jpg",
+      "caption": "WZ 2 Raum App."
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/53dd26b0-ea5e-4dbc-af6f-45d776571126/99/image.jpg",
+      "caption": "WZ 2 Raum App."
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3e98717d-0881-4380-8f2f-36c6ec061552/99/image.jpg",
+      "caption": "WZ 2 Raum App."
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e1a78d11-e536-45fe-91f1-350325593014/99/image.jpg",
+      "caption": "WZ 2 Raum App."
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/dbd68419-60a9-442a-9803-c583100b1ca9/99/image.jpg",
+      "caption": "WZ 2 Raum App."
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/bed2390e-0c79-46b8-9bd9-9352b4773ded/99/image.jpg",
+      "caption": "Südbalkon 2 Raum App."
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3335004062125",
+    "longitude": "11.1869144439697"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 1 Schlafraum",
+      "description": [
+        "Das 2 Raum App. ist für max. 4 Pers. und hat ca. 60 m2. Die Südlage, ein breiter Südbalkon , ein getrenntes extra WC und eine sehr gute Ausstattung sind die Besonderheiten. Ein Garagenplatz mit Funkfernbedienung und eine Breitband-Internetverbindung ist kostenlos. Sauna im Haus. www.suedblick.com",
+        "Das 2 Raum App. ist für max. 4 Pers. und hat ca. 60 m2. Die schöne Südlage, ein breiter Südbalkon und ein getrenntes extra WC sind die Besonderheiten. Aber auch eine sehr gute Ausstattung wie ein kostenloser Garagenplatz mit Funkfernbedienung und eine kostenlose Breitband Internetverbindung. Sauna im Haus. www.suedblick.com"
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/1 Schlafraum/Bad, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 2 Schlafräume",
+      "description": "Das 3-Raum App. ist für max. 6 Personen und hat ca. 90 m². Die Westlage, eine schöne Westterrasse, ein sehr großes Wohnzimmer, 2 Bäder und eine gute Ausstattung sind die Besonderheiten. Ein Garagenplatz ist kostenlos und mit Funkfernbedienung. Sauna im Haus. www.suedblick.com",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/2 Schlafräume/Dusche, Bad, WC",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

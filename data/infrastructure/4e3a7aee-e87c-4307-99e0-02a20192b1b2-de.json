@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure"
+  ],
+  "name": "Karwendelbahn",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3008459770035",
+    "longitude": "11.2006525901436"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "ÖBB",
+    "streetAddress": "Bahnhofsweg 4",
+    "addressLocality": "Reith bei Seefeld",
+    "postalCode": "6103",
+    "addressCountry": "  ",
+    "telephone": "0043 5212 4969 385"
+  },
+  "description": [
+    "Die Eisenbahnstrecke der Karwendelbahn wurde 1913 nach 3 jähriger Bauzeit eröffnet und gilt heute noch als eine der interessanten und kühnsten Strecken in den Alpen. Sie unterlag zur Zeit des 2. Weltkrieges enormen Bombardierungen. Heute stellt Sie ein wichtiges Bindeglied zwischen der Olympiaregion Seefeld und der Landeshauptstadt Innsbruck dar.\n",
+    "Die Eisenbahnstrecke der Karwendelbahn wurde 1913 nach 3 jähriger Bauzeit eröffnet und gilt heute noch als eine der interessanten und kühnsten Strecken in den Alpen. Sie unterlag zur Zeit des 2. Weltkrieges enormen Bombardierungen. Heute stellt Sie ein wichtiges Bindeglied zwischen der Olympiaregion Seefeld und der Landeshauptstadt Innsbruck dar.\n"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a76912a9-a2d0-4ff8-ad7b-44131b42c672/99/image.jpg",
+      "caption": "Karwendelbahn"
+    }
+  ]
+}

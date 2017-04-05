@@ -1,0 +1,19 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Hermannstalstr. 529, Top 40",
+    "addressLocality": "Stuttgart",
+    "postalCode": "70195",
+    "addressCountry": "DE",
+    "telephone": "0049"
+  },
+  "name": "ZW - Adolph Peter",
+  "currenciesAccepted": "EUR"
+}

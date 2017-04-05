@@ -1,0 +1,59 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "24. Internationales Arnspitz Arrowheadturnier",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "",
+    "employee": {
+      "@type": "Person",
+      "givenName": "Walter ",
+      "familyName": "Lechthaler"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Feldweg 309",
+      "addressLocality": "Scharnitz",
+      "postalCode": "6108",
+      "addressCountry": "AT",
+      "telephone": "(0043) 650 5534001",
+      "email": "walter.l@compuvos.com",
+      "url": "http://www.sg-scharnitz.com"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Feldweg 309",
+      "addressLocality": "Scharnitz",
+      "postalCode": "6108",
+      "addressCountry": "AT",
+      "telephone": "(0043) 650 5534001",
+      "email": "walter.l@compuvos.com",
+      "url": "http://www.sg-scharnitz.com"
+    }
+  },
+  "description": "Internationales Feldbogenturnier, bei dem im Gelände auf einem Parcours, 24 Scheiben beschossen werden, die in unterschiedlicher Entfernung stehen. Weitere Information und Anmeldung unter www.sg-scharnitz.com\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/446b567f-72bd-44df-a5b9-d0909f883582/99/image.jpg",
+      "caption": "SG-Scharnitz"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5f30df4b-4760-454f-ae84-cd4408f8179c/99/image.jpg",
+      "caption": "Piktogramm"
+    }
+  ],
+  "url": [
+    "http://www.sg-scharnitz.com"
+  ],
+  "startDate": "2017-07-08T00:00:00",
+  "endDate": "2017-07-09"
+}

@@ -1,0 +1,408 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.imweidach.com"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Im Weidach",
+    "streetAddress": "Weidach 302",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 660 3477206",
+    "email": "office@imweidach.com",
+    "url": "http://www.imweidach.com"
+  },
+  "name": "Im Weidach",
+  "description": [
+    "Neu errichteten Superior Chalets ruhig gelegen und doch mitten im Dorfgeschehen. Die mit natürlichen heimischen Materialien ausgestatteten Ferienhäuser bieten Ihnen jeglichen Komfort – von der eigenen Saunahütte bis zur Fußbodenheizung und 2 PKW Stellplätzen (1 überdacht). Zentraler Punkt der Chalets ist der große Kamin, um den sich eine gemütliche Sitzecke, die Essecke und die Küchenbar gruppieren. Die Schlafzimmer sowie ein Badezimmer mit freistehender Badewanne und Aussicht auf die umliegende Bergwelt befinden sich im Obergeschoss. Riesige Panoramafenster auf beiden Etagen bieten zusätzlich großartige Ausblicke auf die Landschaft des Leutaschtals.\nLEBE TIROL bei uns im „PRIVAT SUPERIOIR IM WEIDACH“\n",
+    "Brennholz kostenlos, Sat-TV, kostenloses WLAN, Küche, Elektroherd mit Backofen, Kühlschrank, Geschirrspüler, Gefrierfach, Diele, Kamin, Fußbodenheizung, freistehende Badewanne mit Panoramablick, Garten, Skiabstellraum, 2 PKW Stellplätze (1 überdacht), Terrasse\n\n\n14 Nächte buchen - 12 Nächte bezahlen",
+    "Check in am Anreisetag ab 14:00 Uhr möglich - Check out am Abreisetag bis 11:00 Uhr",
+    "Chalets Chalet Chaletanlage ruhig zentral gelegen relax private spa alpin superior Ferienhaus"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/bdb5134c-317b-49f5-baee-9c751d6a6843/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/037cbb50-81a8-46f9-bc95-914b73097d02/99/image.jpg",
+      "caption": "Logo"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8023ae62-9de2-4925-85d1-acaef5b49199/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d700241c-b000-490e-a64d-5d5450e6af8a/99/image.jpg",
+      "caption": "Winteransicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/277c0838-dcce-471e-a4d2-be819ebd0f8c/99/image.jpg",
+      "caption": "Lage"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9b365ac1-3f1a-437e-886f-caaa94e5886e/99/image.jpg",
+      "caption": "Erdgeschoss"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e5d70e18-8316-4d51-a8ad-3438139b47b6/99/image.jpg",
+      "caption": "Obergeschoss"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/059d5fad-b5a8-470f-8a42-37d02b2ed6cb/99/image.jpg",
+      "caption": "Haus Winter mit Aussicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c153b7ef-2daa-4474-949b-367736ba5adc/99/image.jpg",
+      "caption": "Häuseransicht Winter"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3689744668168",
+    "longitude": "11.1615744416641"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Ferienhaus, Dusche und Badewanne, 3 Schlafräume",
+      "description": "Neu errichtete, zentral und ruhig gelegene Chalets über 2 Etagen. Stilvoll eingerichtet mit gehobenem Wohnkomfort: Sat-TV, kostenloses WLAN, Küche, Elektroherd mit Backofen, Kühlschrank, Geschirrspüler, Gefrierfach, Diele, Kamin, Fußbodenheizung, freistehende Badewanne mit Panoramablick, Garten, Skiabstellraum, 2 PKW Stellplätze, Terrasse, \nBei uns erleben Sie PRIVATE SUPERIOR umgeben von einer malerischen Bergkulisse!",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Ferienhaus, Dusche und Badewanne, 3 Schlafräume",
+          "description": "",
+          "numberOfRooms": "4.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "225.00",
+          "maxPrice": "295.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "225.00",
+          "maxPrice": "295.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "275.00",
+          "maxPrice": "325.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "275.00",
+          "maxPrice": "325.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "330.00",
+          "maxPrice": "395.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "330.00",
+          "maxPrice": "395.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Ferienhaus, Dusche und Badewanne, 3 Schlafräume",
+      "description": "Chalets über 2 Etagen,\nstilvoll eingerichtet, mit gehobenem Wohnkomfort.\nSat-TV, WLAN. Off. Küche, Elektroherd mit\nBackofen, Kühlschrank, Geschirrspüler. Diele.\nKamin, Fußbodenheizung, Gasheizung. Terrasse.\nHot-Tub. Saunahütte, Skiabstellraum, 2 PKWStellplätze.\nSaunahütte. Skiabstellraum.\n2 PKW-Stellplätze.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Ferienhaus 2, Dusche und Badewanne, 3 Schlafräume",
+          "numberOfRooms": "4.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "225.00",
+          "maxPrice": "295.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "225.00",
+          "maxPrice": "295.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "275.00",
+          "maxPrice": "325.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "275.00",
+          "maxPrice": "325.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "330.00",
+          "maxPrice": "395.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "330.00",
+          "maxPrice": "395.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Ferienhaus, Dusche und Badewanne, 3 Schlafräume",
+      "description": "Chalets über 2 Etagen,\nstilvoll eingerichtet, mit gehobenem Wohnkomfort.\nSat-TV, WLAN. Off. Küche, Elektroherd mit\nBackofen, Kühlschrank, Geschirrspüler. Diele.\nKamin, Fußbodenheizung, Gasheizung. Terrasse.\nHot-Tub. Saunahütte, Skiabstellraum, 2 PKWStellplätze.\nSaunahütte. Skiabstellraum.\n2 PKW-Stellplätze.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Ferienhaus 3, Dusche und Badewanne, 3 Schlafräume",
+          "numberOfRooms": "4.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "225.00",
+          "maxPrice": "295.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "225.00",
+          "maxPrice": "295.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "275.00",
+          "maxPrice": "325.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "275.00",
+          "maxPrice": "325.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "330.00",
+          "maxPrice": "395.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "330.00",
+          "maxPrice": "395.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Ferienhaus, Dusche und Badewanne, 3 Schlafräume",
+      "description": "Chalets über 2 Etagen,\nstilvoll eingerichtet, mit gehobenem Wohnkomfort.\nSat-TV, WLAN. Off. Küche, Elektroherd mit\nBackofen, Kühlschrank, Geschirrspüler. Diele.\nKamin, Fußbodenheizung, Gasheizung. Terrasse.\nHot-Tub. Saunahütte, Skiabstellraum, 2 PKWStellplätze.\nSaunahütte. Skiabstellraum.\n2 PKW-Stellplätze.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Ferienhaus 4, Dusche und Badewanne, 3 Schlafräume",
+          "numberOfRooms": "4.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "225.00",
+          "maxPrice": "295.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "225.00",
+          "maxPrice": "295.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "275.00",
+          "maxPrice": "325.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "275.00",
+          "maxPrice": "325.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "330.00",
+          "maxPrice": "395.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "330.00",
+          "maxPrice": "395.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Ferienhaus, Dusche und Badewanne, 3 Schlafräume",
+      "description": "Chalets über 2 Etagen, stilvoll eingerichtet mit gehobenem Wohnkomfort: Sat-TV, WLAN, Küche, Elektroherd mit Backofen, Kühlschrank, Geschirrspüler, Diele, Kamin, Fußbodenheizung, Terrasse, Skiabstellraum, 2 PKW Stellplätze (1 überdacht).\nWohn- und Esszimmer und ein Bad im EG; 3 Schlafzimmer und ein Bad mit freistehender Panoramabadewanne im OG. Sichtdachstuhl im gesamten Gebäude. Luftraum mit Galerie über Wohnbereich.\nEigene Saunahütte inkl. Hot Tube für jedes Chalet.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Ferienhaus 5, Dusche und Badewanne, 3 Schlafräume",
+          "numberOfRooms": "4.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "225.00",
+          "maxPrice": "295.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "225.00",
+          "maxPrice": "295.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "275.00",
+          "maxPrice": "325.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "275.00",
+          "maxPrice": "325.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "330.00",
+          "maxPrice": "395.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "330.00",
+          "maxPrice": "395.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation",
+    "CivicStructure"
+  ],
+  "name": "Skischule und Skiverleih Mösern",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3123255111418",
+    "longitude": "11.1516967161133"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Möserer Dorfstraße 28",
+    "addressLocality": "Mösern/Buchen",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043)5212 4736",
+    "email": "info@skischule-moesern.com",
+    "url": "http://www.skischule-moesern.com"
+  },
+  "description": "Haben Sie Lust auf Winter und Schnee, dann würden wir Ihnen gerne helfen Ihren Urlaub zu gestalten. Lassen Sie sich die schönsten Seiten des Wintersports von unseren Profis zeigen. Nicht nur Anfänger auch Fortgeschrittene werden von unseren erfahrenen Schilehrern in die Kunst des Skifahrens, Snowboardens und Langlaufens eingeführt. In unserem familiär geführten Betrieb haben wir auch ein großes für Kinder (kostenlose Schnupperstunde am Sonntag).\n\nDa wir Skischule und Skiverleih unter einem Dach haben, können  wir Ihnen kostengünstige Familienpakete schnüren. Weiters bieten wir Halbtageskurse für Kinder und Erwachsene in Kleingruppen an und organisieren Wochenendkurse auf Anfrage. Wir freuen uns Sie !! Lassen Sie sich von unserem fachlichen und top-motiviertem Team beraten, damit Ihr Urlaub zu einem traumhaften und unvergesslichen Erlebnis wird.\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a81de5e0-aac7-4214-8600-7f421c74a7b3/99/image.jpg",
+      "caption": "Skischule Mösern"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/64bdee42-6432-4ecd-8c1f-20bc5728e45a/99/image.jpg",
+      "caption": "Skischule"
+    }
+  ]
+}

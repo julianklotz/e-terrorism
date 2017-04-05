@@ -1,0 +1,238 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.birkegg.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus am Lärchenhang",
+    "streetAddress": "Plaik 95 b",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6854",
+    "faxNumber": "(0043) 5214 6854 190",
+    "email": "laerchenhang@a1.net",
+    "url": "http://www.birkegg.at"
+  },
+  "name": "Haus am Lärchenhang",
+  "description": [
+    "Urlaub in ruhiger und traumhafter Lage mit atemberaubendem Blick auf die Hohe Munde. Ihr Urlaubsdomizil Haus Lärchenhang. Im Sommer wie im Winter sonnig gelegen mit den Wanderwegen und Loipen direkt vor Ihrer Tür.\n\n5 Ferienappartements für 1 - 5 Personen. Gemütlich eingerichtete Wohnungen teilweise mit Balkon, Du/WC, Tel., Sat-TV, Küche. Auf Wunsch täglich frische Brötchen direkt vor Ihrer Wohnungstür; auch mit Frühstück oder Halbpension im Gasthof Birkegg buchbar. Gerne erstellen wir auch für Sie Pauschalangebote für Winter und Sommer.\n\nAuf Ihren besuch freut sich Fam. Kneringer \u0026 Team!",
+    "Parkplatz inklusive.\nHand- \u0026 Geschirrtücher, wöchentlicher Bettwäschewechsel, vollausgestattete Küche.\n\nEndreinigung \u0026 Ortstaxe exlusive.\n\nEs gelten die Allgemeinen Österreichischen Hotel Vertragsbedingungen!\nhttp://portal.wko.at/wk/format_detail.wk?angid\u003d1\u0026stid\u003d254299\u0026dstid\u003d316\u0026opennavid\u003d22665",
+    "- Garagenstellplatz auf Anfrage möglich.\n- Rad- \u0026 Skikeller, sowie Trockenraum.\n\n",
+    "Birkegg, Lärchenhang, "
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ce29015d-f298-4b46-8bd5-1859da046a67/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a116a68e-9ac4-4030-a644-f8705ff6bac7/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/20995fd1-4d45-48d0-bc15-4b167ccf6162/99/image.jpg",
+      "caption": "Sommer2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5bfaea8f-6667-4cef-9823-9da66e194382/99/image.jpg",
+      "caption": "Winterpanorama"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/82fe43a7-3463-4cb6-8e34-47e9fa2e4143/99/image.jpg",
+      "caption": "Terrasse"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.364114852441",
+    "longitude": "11.130905279399"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC",
+      "description": "Geräumige Ferienwohnung im 2. Stock mit Dachschräge, eigenem Balkon, Küche, Wohnschlafraum, Vorzimmer, Schlafzimmer \u0026 2 mal Dusche/WC ; \nsonniger Blick auf die Hohe Munde und den umliegenden Bergen!",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "App. 5 - 1 Schlaf-/1 Wohn-Schlaf, Du",
+          "description": "Familienappartement mit Wohn-Schlafzimmer (Couch), separaten Schlafzimmer, 2xDusche/WC, Küche, Sat-TV, Telefon und Balkon.",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "50.00",
+          "maxPrice": "50.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "50.00",
+          "maxPrice": "50.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "60.00",
+          "maxPrice": "60.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "60.00",
+          "maxPrice": "60.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Gemütlich eingerichtete Appartement. Mit Küche, - Sitzgelegenheit,  Schlafraum, Dusche/WC, Sat/TV und Balkon. Tisch \u0026 Küchenwäsche wird bereitgestellt. Von allen Wohnungen haben Sie einen Traumhaften Blick auf die Berge,und die Hohe Munde.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apart. Nr. 1- 1 Schlafraum/Du-WC",
+          "description": "Appartement mit Wohnraum, Schlafzimmer, Küche, Dusche/WC, Sat-TV, Telefon und Balkon.",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "48.00",
+          "maxPrice": "48.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Gemütlich eingerichtete Appartements. Mit Wohnküche, - Sitzgelegenheit,  Schlafraum, Dusche/WC, Sat/TV und Balkon. Tisch \u0026 Küchenwäsche wird bereitgestellt. Von allen Wohnungen haben Sie einen Traumhaften Blick auf die Berge,und die Hohe Munde.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apart. Nr. 2- 1 Schlafraum/Du-WC",
+          "description": "Appartement mit Wohnraum, Schlafzimmer, Küche, Dusche/WC, Sat-TV, Telefon und Balkon.",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "48.00",
+          "maxPrice": "48.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Gemütlich eingerichtete Appartement. Mit Wohnküche, - Sitzgelegenheit,  Schlafraum, Dusche/WC, Sat/TV und Balkon. Tisch \u0026 Küchenwäsche wird bereitgestellt. Von allen Wohnungen haben Sie einen Traumhaften Blick auf die Berge. Wohnung blickt Richtung Wettersteingebirge und Richtung Ahrnspitze.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apart. Nr. 3- 1 Schlafraum/Du-WC",
+          "description": "Appartement mit Wohnraum, Schlafzimmer, Küche, Dusche/WC, Sat-TV, Telefon und Balkon.",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "48.00",
+          "maxPrice": "48.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "48.00",
+          "maxPrice": "48.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Gemütlich eingerichtete Appartements. Mit Wohnküche, - Sitzgelegenheit,  Schlafraum, Dusche/WC, Sat/TV . Tisch \u0026 Küchenwäsche wird bereitgestellt. Von allen Wohnungen haben Sie einen Traumhaften Blick auf die Berge. Die Ferienwohnung blickt Richtung Wettersteingebirge und Richtung Ahrnspitze.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apart. Nr. 6- 1 Schlafraum/Du-WC",
+          "description": "Appartement mit Wohnraum, Schlafzimmer, Küche, Dusche/WC, Sat-TV, Telefon und Balkon.",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ]
+    }
+  ]
+}

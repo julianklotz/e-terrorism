@@ -1,0 +1,33 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Store",
+    "BookStore"
+  ],
+  "name": "Bahnhofstrafik Othmar Schmid",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Bahnhofstrafik",
+    "streetAddress": "am Bahnhof",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2306"
+  },
+  "description": [
+    "Auch Verkauf von Telefonwertkarten!",
+    "Auch Verkauf von Telefonwertkarten!"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/caa5d437-b07e-48d5-a594-34a35ac0060e/99/image.jpg",
+      "caption": "Bahnhofstrafik Seefeld"
+    }
+  ]
+}

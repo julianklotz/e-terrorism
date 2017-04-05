@@ -1,0 +1,53 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "\"Volkstümlich aufg\u0027spielt\" mit Harfe \u0026 Hackbrett",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Erlebnishotel Kristall",
+    "employee": {
+      "@type": "Person",
+      "givenName": "Theodor",
+      "familyName": "Pfeffel"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Weidach 300 m",
+      "addressLocality": "Leutasch",
+      "postalCode": "6105",
+      "addressCountry": "AT",
+      "telephone": "(0043) 5214 6319",
+      "faxNumber": "(0043) 5214 6319 47",
+      "email": "office@hotel-kristall.at",
+      "url": "http://www.hotel-kristall.at"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Erlebnishotel Kristall",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Weidach 300 m",
+      "addressLocality": "Leutasch",
+      "postalCode": "6105",
+      "addressCountry": "AT",
+      "telephone": "(0043) 5214 6319",
+      "faxNumber": "(0043) 5214 6319 47",
+      "email": "office@hotel-kristall.at",
+      "url": "http://www.hotel-kristall.at"
+    }
+  },
+  "description": "Musik mit Harfe \u0026 Hackbrett. Eintritt frei. Tischreservierung unter Tel. 05214 6319.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5b12c967-5964-412c-81f0-eff96507536b/99/image.png",
+      "caption": "wechselsaitige"
+    }
+  ],
+  "startDate": "2017-01-04T20:30:00",
+  "endDate": "2017-03-15"
+}

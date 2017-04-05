@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "PostOffice",
+    "TouristInformationCenter",
+    "Store",
+    "GovernmentOffice"
+  ],
+  "name": "Informationsbüro Reith",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2991314441174",
+    "longitude": "11.203325125795"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Informationsbüro Reith",
+    "streetAddress": "Römerstraße 52",
+    "addressLocality": "Reith bei Seefeld",
+    "postalCode": "6103",
+    "addressCountry": "AT",
+    "telephone": "(0043)50880530 ",
+    "faxNumber": "(0043)50880831",
+    "email": "info.reith@seefeld.com",
+    "url": "http://www.seefeld.com"
+  },
+  "description": "Reith - Sonne fühlen!\nIm Infobüro Reith erhalten Sie auch Briefmarken und den Honig vom Bienenhotel!\n\nÖffnungszeiten:\nMo-Fr: 9.00-12.00 und 14.00-17.00 Uhr\nSa: 9.00-12.00\nSonn- und Feiertag geschlossen",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5b6f5e83-2f22-4bb1-97ac-73e0100950e7/99/image.jpg",
+      "caption": "Logo"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure"
+  ],
+  "name": "Parkplatz Hochmoos",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3642810953581",
+    "longitude": "11.165125505127"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3c2742f6-4caa-4a00-b423-ecd0aa3b49cc/99/image.jpg",
+      "caption": "Parkplatz"
+    }
+  ]
+}

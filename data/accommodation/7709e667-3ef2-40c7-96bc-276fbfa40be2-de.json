@@ -1,0 +1,93 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.schandl-leutasch.info",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Schandl",
+    "streetAddress": "Lochlehn 242 a",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0049) 8823 2248 ",
+    "faxNumber": "(0049) 8823 2248",
+    "email": "urlaub@schandl-leutasch.info",
+    "url": "http://www.schandl-leutasch.info"
+  },
+  "name": "Haus Schandl",
+  "description": [
+    "Unser gemütliches Ferienhaus liegt in unmittelbarer Nähe zum Rad- und Wanderweg. Wir besitzen 2 gemütliche Ferienwohnungen mit Balkon und großem Garten. Im Winter bieten wir einen direkten Einstieg zur Loipe. Auf Ihr Kommen freut sich Familie Schandl.",
+    "Inklusive: Heizung, Strom, Wasser, Endreinigung\nExklusive: Ortstaxe, Telefongespräche",
+    "von Seefeld: Leutasch - Weidach - Gasse - Richtung Mittenwald - Lochlehn\nvon Mittenwald: Leutasch - Schanz - Unterkirchen - Lochlehn"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/190f4205-9036-47ae-a9ef-a00b0ad7c5ed/99/image.jpg",
+      "caption": "Haus Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/202256a1-8403-4031-b6b5-73d97bf6acc4/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6212137c-9b4e-474e-b436-304440468e46/99/image.jpg",
+      "caption": "Winter"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.404392253373",
+    "longitude": "11.19472943772"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apart Wetterstein 1 Schlaf-/1 Wohn-Sch",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apart. Hohe Munde/1 Schlafraum/Dusch, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

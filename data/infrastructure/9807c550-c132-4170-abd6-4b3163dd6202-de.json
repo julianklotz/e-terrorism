@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation"
+  ],
+  "name": "Freestyle - Landing Pad,  Snowfun, Landingbag, Landing-Pad",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Bergbahnen Rosshütte",
+    "streetAddress": "Rosshütte Seefeld",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 24160",
+    "email": "info@rosshuette.at",
+    "url": "http://www.rosshuette.at"
+  },
+  "description": "Freestyle Landing Pad - der absolute Freestyle- Kick! Das Luftkissen ist 28 Meter lang, dank eines 21 Grad steilen Gefälles sind reale Landungen mit der Möglichkeit des kompletten Ausfahrens möglich. Eine derzeit europaweit einzigartige Anlage (Nutzung kostenlos, Einverständniserklärung obligat) ...und danach in die Schirmbar beim Murmelebau - mitten im Geschehen, herrliches Panorama!",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/dee6968c-cf49-43f4-964a-277137580a87/99/image.jpg",
+      "caption": "Landingpad"
+    }
+  ],
+  "url": [
+    "http://www.rosshuette.at"
+  ]
+}

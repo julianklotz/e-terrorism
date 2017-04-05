@@ -1,0 +1,88 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://web.deskline.net/seefeld/de/show_accommodation/SEE/9d06b3b2-f110-44d0-8694-1ffad40c45b0/haus_m%c3%bcnchen",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus München",
+    "streetAddress": "Andreas-Hofer-Str. 517",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 3523",
+    "faxNumber": "(0043) 5212 3523"
+  },
+  "name": "Haus München",
+  "description": [
+    "Das Haus München liegt ca. 3 Gehminuten vom Ortszentrum von Seefeld entfernt.\nWir verfügen über Studios, und 2-Zimmer Appartements.\nBahnhofsnähe 3min.",
+    "Schikeller kostenlos.\nBettwäsche kann selbst mitgebracht oder vor Ort gemietet werden.\nGarage pro Tag im Sommer 4€.\nGarage pro Tag im Winter 5€.",
+    "Von INNSBRUCK: A12 - Ausfahrt Zirl - auf der B177 nach Seefeld - Seefeld Mitte ausfahren Richtung Seefeld ca. 500m liegt Haus München auf der rechten Seite.\n\nVon DEUTSCHLAND: Garmisch - Mittenwald - B177 bis Seefeld/Nord Münchner Str. bis Hotel Central links in die Andreas-Hofer Str. ca. 150m ist Haus München."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/154955cb-b163-4f4f-9ede-ed035d4f3ce6/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2fb625fb-ca76-4abb-8531-c8924ba2b555/99/image.jpg",
+      "caption": "Sommer "
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.330148252421",
+    "longitude": "11.1896502971649"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 1 Schlafraum",
+      "description": "Wohnzimmer, Schlafzimmer, Küche, Bad - WC, Balkon, SAT TV",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/1 Schlafraum/Bad, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC",
+      "description": "Wohnzimmer mit Wohn- und Essecke, Schrankbetten zum Herausfahren oder Couch zum Ausziehen, Küche, Bad, WC, Balkon, SAT TV",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/Wohn-Schlafraum/Bad, WC",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ]
+    }
+  ]
+}

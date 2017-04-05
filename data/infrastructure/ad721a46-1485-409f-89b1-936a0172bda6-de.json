@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "FastFoodRestaurant",
+    "Restaurant"
+  ],
+  "name": "Hubert\u0027s Stüberl",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3628468891836",
+    "longitude": "11.1396058240509"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Hubert\u0027s Stüberl",
+    "streetAddress": "Platzl 113",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6620",
+    "email": "hubertsstueberl@aon.at",
+    "url": "http://www.huberts-stueberl.at"
+  },
+  "description": "Sitzplätze für ca. 45 Personen\n\nIm Sommer geschlossen!",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/99a8e953-38d0-43c8-b904-3343c6a2ed0a/99/image.jpg",
+      "caption": "huberts stüberl"
+    }
+  ],
+  "url": [
+    "http://www.huberts-stueberl.at"
+  ]
+}

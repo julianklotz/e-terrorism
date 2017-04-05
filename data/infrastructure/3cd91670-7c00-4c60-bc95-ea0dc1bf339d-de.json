@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "HealthAndBeautyBusiness"
+  ],
+  "name": "Kosmetik, Astoria Relax \u0026 Spa Resort*****",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Astoria Relax \u0026 Spa Resort ",
+    "streetAddress": "Geigenbühelstr. 185",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2272-0",
+    "faxNumber": "(0043) 5212 2272 100",
+    "email": "hotel@astoria-seefeld.com",
+    "url": "http://www.astoria-seefeld.com"
+  },
+  "description": "Nur mit Terminvereinbarung",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9f488b35-376b-4739-8f4e-1dc6d6880c60/99/image.jpg",
+      "caption": "Kosmetik"
+    }
+  ],
+  "url": [
+    "http://www.astoria-seefeld.com"
+  ]
+}

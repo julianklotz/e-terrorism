@@ -1,0 +1,305 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "https://v6-moving-pictures.com/central_seefeld/?sprache\u003dde\u0026sessionidp\u003d134\u0026fullscreenMode\u003dyes#.WC73uaormUk",
+    "http://www.central-seefeld.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Hotel Central",
+    "streetAddress": "Münchnerstr. 41",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "+4352123288",
+    "faxNumber": "+435212328866",
+    "email": "central@seefeld.at",
+    "url": "http://www.central-seefeld.at"
+  },
+  "name": "Hotel Central",
+  "description": [
+    "Herzlich Willkommen bei uns im Hotel Central in Seefeld!\n\nDer ideale Ausgangspunkt für Ihren individuellen Urlaub.\n\nWir freuen uns, Sie in der einzigartigen Olympiaregion Seefeld in Tirol Willkommen heißen zu dürfen. Das Seefelder Hochplateau ist eine der außergewöhnlichsten und beeindruckendsten Regionen Tirols. Kultur \u0026 Tradition sowie die einmalige Bergwelt laden ein zu Erholung \u0026 Ruhe sowie zum Aktiv sein.\n\nWährend Ihres Urlaub in Österreich bietet Seefeld in Tirol zahlreiche Möglichkeiten zur Freizeitgestaltung wie z. Bsp. Wandern, Radfahren, Mountainbiken im Sommer oder Langlaufen, Skifahren, Snowboarden im Winter u.v.m.\n\nIm Hotel Central sind wir täglich darum bemüht, Ihren Österreich-Urlaub zu etwas Besonderem werden zu lassen. Das garantieren wir durch unsere individuelle Betreuung, die ausgezeichnete Küche \u0026 traditionelles Essen und gemütliches Wohnen durch den Komfort unserer geräumigen und hellen Zimmer.Unserer Tradition verpflichtet und unseren Gästen verbunden eröffnen wir Ihnen eine neue Dimension des Wohlfühlurlaubs und bereiten Ihnen einmalige Urlaubserinnerungen.\n\nÜberzeugen Sie sich selbst und seien Sie unser Gast! Ob im Sommer oder Winter – bei uns im Wohlfühlhotel Central wird Ihr Urlaub zu einem unvergesslichen Erlebnis.",
+    "kostenlose Benützung unserer Central-Therme mit Finnischer Sauna, römisches Dampfbad, Infrarot-Kabine, Erlebnisduschen und Kneipprondell\nWhirlpool und Solarium kostet € 6,-- pro Person für 15min\nHundepauschale € 12,-- pro Tag ohne Futter\nkostenloser gesicherter Parkplatz",
+    "Im Herzen von Seefeld am Anfang der Fußgängerzone und gegenüber dem Kurpark liegt das Hotel. Geschäfte, Bars und Freizeiteinrichtungen befinden sich in unmittelbarer Nähe."
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "reviewCount": "417"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/66ee11e1-424a-4b1c-8d20-00e045acb8fa/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b51246a2-4a6d-4aa6-99cd-66782a1a0814/99/image.png",
+      "caption": "Neues Bild"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8c8c81f0-93ae-4271-b26f-4c7e16cd0274/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/783eadd1-a087-4fdb-b818-3d511fe5e7c9/99/image.jpg",
+      "caption": "Halle"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e17d7be3-4d6a-403d-90e7-d50863046587/99/image.jpg",
+      "caption": "Restaurant"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/84fb6389-7bf4-45af-b098-7818abfcde7a/99/image.jpg",
+      "caption": "Fitnessraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d9b32015-1bb0-46c1-8a81-ebcdf4b3b675/99/image.jpg",
+      "caption": "Kinderspielzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9b86e9cd-ac98-467b-9630-d9376eda04f5/99/image.jpg",
+      "caption": "Sauna"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9c73935e-a30d-4f83-b246-cc540d40f4bc/99/image.jpg",
+      "caption": "Weinkeller"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2c9067e3-752d-414d-accf-89685df8b744/99/image.jpg",
+      "caption": "Wellness"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3300046358732",
+    "longitude": "11.187689602375"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche oder Bad, WC",
+      "description": "Unsere neu renovierten Zimmer (alle 4-bettig belegbar) sind behindertengerecht mit hellem Birkenholz, Sitzgarnitur, Kabel-TV, Telefon, Safe, Balkon, Bad oder Dusche/WC, Fön und teilweise mit Bidet ausgestattet. Die Appartements haben zusätzlich Kochnische und Sitzecke.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer Wildmoos",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Langlaufpauschale",
+          "description": "•7 Übernachtungen im 24m² Doppelzimmer „Wildmoos“ \n•4-Gang Wahlmenü mit zusätzlichen Salatbuffet\n•ein reichhaltiges Frühstückbuffet mit Bioecke \n•wöchentlich ein Themenbuffet \n•jeden Montag eine Weinverkostung im hauseigenen Weinkeller\n•kostenlose Benützung unsere Central-Therme\n•10% Ermäßigung von Mo.-Fr. auf das Olympia-Hallenbad Seefeld\n•kostenlose Parkplätze für unsere Gäste\n•Loipenkarte für die Olympiaregion Seefeld\n•kostenlose Loipenbenützung\n•einen Obstteller bei der Anreise",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/803e46cd-25c1-4266-8818-bacb435d4a70/99/image.jpg",
+              "caption": "Nachtloipe"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Wandern ohne Grenzen",
+          "description": "•\t7 Nächte im komfortablen Doppelzimmer \n•\treichhaltiges Frühstücksbuffet mit Bioecke \n•\tVier Gang Abendmenü mit Wahlmöglichkeiten \n•\t1x wöchentlich Wein- oder Destillationsverkostung im eigenen Weinkeller \n•\tfreie Benützung unseres Wellnessbereiches \n•\tErmäßigung auf den Eintritt in das Olympiabad (Montag-Freitag) \n•\tumfangreiche Wanderkarte\n•\tLunchpaket für Ihre Tour\n",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/9da20d53-6565-422d-9738-d764218c7d08/99/image.jpg",
+              "caption": "Wandern"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Happy Skicard",
+          "description": "Ab auf die Piste!\nÜbernachtungen im Doppelzimmer\n\nInklusive:\n• 7 Nächte im komfortablen Doppelzimmer\n• reichhaltiges Frühstückbuffet mit Bioecke\n• Vier Gang Abendmenü mit Wahlmöglichkeiten\n• 1 x wöchentlich Wein- oder Destillationsverkostung im eigenen Weinkeller\n• freie Benützung unseres Wellnessbereiches ( Sauna, römisches Dampfbad,\n  Kneipprondell, Erlebnisduschen, etc.)\n• 5 Tage Happy Ski Card (gültig für Rosshütte, Gschwandtkopf und vielem mehr)",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/1b51719e-1089-402e-940f-842d85d2b5ff/99/image.jpg",
+              "caption": "ski"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "5 Tage  Wandern ohne Grenzen  ",
+          "description": "        5 Nächte im komfortablen Doppelzimmer\n \n•\treichhaltiges Frühstücksbuffet mit Bioecke \n•\tVier Gang Abendmenü mit Wahlmöglichkeiten \n•\t1x wöchentlich Wein- oder Destillationsverkostung im eigenen Weinkeller \n•\tfreie Benützung unseres Wellnessbereiches \n•\t35% Ermäßigung auf den Eintritt in das Olympiabad (Montag-Freitag) \n•\tumfangreiche Wanderkarte\n•\tLunchpaket für Ihre Tour\n",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/1994c3da-ea16-4c3a-ac2c-49366e1b7b7a/99/image.jpg",
+              "caption": "Wandern"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "9999.00",
+          "maxPrice": "9999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "54.00",
+          "maxPrice": "5021.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "50.33",
+          "maxPrice": "3361.67",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "48.50",
+          "maxPrice": "2532.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "586.00",
+          "maxPrice": "586.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "586.00",
+          "maxPrice": "586.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "432.00",
+          "maxPrice": "432.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "432.00",
+          "maxPrice": "432.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Einzelzimmer, Dusche, WC",
+      "description": "Freundliche und helle Einzelzimmer mit Balkon, Dusche/WC, Telefon, Kabel-TV und Safe",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Einzelzimmer",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "57.00",
+          "maxPrice": "57.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

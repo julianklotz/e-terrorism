@@ -1,0 +1,41 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Museum"
+  ],
+  "name": "Infozentrum Karwendel",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3892828079804",
+    "longitude": "11.2648916558197"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Informationsbüro Scharnitz",
+    "streetAddress": "Innsbrucker Str. 282",
+    "addressLocality": "Scharnitz",
+    "postalCode": "6108",
+    "addressCountry": "AT",
+    "telephone": "+4350880540 ",
+    "faxNumber": "+4350880541",
+    "email": "info.scharnitz@seefeld.com",
+    "url": "http://www.seefeld.com"
+  },
+  "description": "Schauraum über den Naturpark Karwendel, ein 2300 Jahre altes Elchskelett, das in der Vorderkarhöhle im Karwendel vom Scharnitzer\n„Pleisn´n Toni“ gefunden wurde, eine nachgebaute Isar-Quelle, Infos zum Bergbau, ein hölzernes Geschichtsbuch, Kinderspielecke \u0026 Filmvorführungen. Öffnungszeiten wie das Informationsbüro Scharnitz.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c5f3d763-e186-4f34-96a3-ce6b5a03e01a/99/image.jpg",
+      "caption": "Logo Alpenpark"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0c474c17-082d-4a1c-af4b-6658f7a3a99b/99/image.jpg",
+      "caption": "elch"
+    }
+  ],
+  "url": [
+    "http://www.seefeld.com",
+    "http://www.seefeld.com"
+  ]
+}

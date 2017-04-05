@@ -1,0 +1,220 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.landhaus-irene.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Landhaus Irene",
+    "streetAddress": "Kirchplatzl 128 c",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6747",
+    "faxNumber": "(0043) 5214 6747 10",
+    "email": "mail@landhaus-irene.at",
+    "url": "http://www.landhaus-irene.at"
+  },
+  "name": "Landhaus Irene",
+  "description": [
+    "Unser Landhaus liegt im Ortsteil Kirchplatzl, sehr sonnig, umgeben von Wiesen und Wäldern mit herrlicher Aussicht auf die Bergwelt. Idealer Ausgangspunkt für Wanderungen, direkt an der Langlaufloipe. Wir haben 7 gemütliche Ferienwohnungen und 3 Zimmer.\n \nUnser Sommerangebot I\nGratis-Eintritt in das neue Alpenbad Leutasch\n\nUnser Sommerangebot II in den Ferienwohnungen\ngilt in den Monaten:\nMai- Juni- Juli, September- Oktober\n14 Tage wohnen - 12 Tage bezahlen\n21 Tage wohnen – 18 Tage bezahlen \n\n\nWir freuen uns schon darauf, Sie bei uns begrüßen zu dürfen.",
+    "Haustiere auf Anfrage",
+    "Check-In 15.00 Uhr / Check-Out 11 Uhr\n\nWeg: Unser Landhaus liegt in der Leutasch im Ortsteil Kirchplatzl, gegenüber von der Raiffeisenkasse und Gemeindeamt.",
+    "Leutasch, Landhaus Irene, Ferienwohnung, Appartement, Seefeld, Tirol,Bauer, Josef und Helene Bauer"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3579073f-8474-4cb9-9252-d13997b5ce70/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6f9d8e9d-1469-48a4-a5a0-a5a64afd6f82/99/image.jpg",
+      "caption": "Logo"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3792af45-1bf8-486a-b5d9-2914168b5f5c/99/image.jpg",
+      "caption": "Sommer "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1139e6de-0ed9-45b1-8344-3417f4e93579/99/image.jpg",
+      "caption": "Schneemänner"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c03d9ad6-ce75-4935-8e77-3f6c6197cc44/99/image.jpg",
+      "caption": "Familie Bauer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3688414028833",
+    "longitude": "11.1436772346497"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Doppelzimmer 18m² mit Dusche/WC, Safe, Haarfön, SAT-TV, Radio, Kühlschrank.\nDer Preis von Euro 27,00 im Sommer gilt ab einer Aufenthaltsdauer von 6 Tagen. Preise für Einzelbelegung oder kürzeren Aufenthalt bitte auf Anfrage.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer Nr.4 mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Doppelzimmer 22m² mit Dusche/WC, Safe, Haarfön, SAT-TV, Radio, Kühlschrank, Sitzecke.\nDer Preis von Euro 29,00 im Sommer gilt ab einer Aufenthaltsdauer von 6 Tagen. Preise für Einzelbelegung oder kürzeren Aufenthalt bitte auf Anfrage.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer Nr.5 mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Doppelzimmer 31m² mit Dusche/WC, Safe, Haarfön, SAT-TV, Radio, Kühlschrank, Sitzecke.\nDer Preis von Euro 31,00 im Sommer gilt ab einer Aufenthaltsdauer von 6 Tagen. Preise für 4-Bett, 3-Bett, Einzelbelegung oder kürzeren Aufenthalt bitte auf Anfrage",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer Nr.10 mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Ferienwohnung Type A 2-4 Personen , 53m²\nDiese Ferienwohnung besteht aus:\nVorraum mit Garderobe und Spiegel, Schlafzimmer, Wohnschlafzimmer, komplett eingerichtete Küche mit gemütlich sonnigem Erker mit Bergblick \nDusche mit Doppelwaschbecken, Föhn, getrenntes WC,SAT - TV, Radio, Direktwahltelefon, Safe, Gegensprechanlage,Südterrasse oder Südbalkon\nDer Preis von Euro 56,00 im Sommer gilt ab einer Aufenthaltsdauer von 6 Tagen für bis zu 2 Personen. Kinderermäßigung gibt es für das 3. und 4. Bett. Kinderermäßigung gibt es für das 3. und 4. Bett.\nBis 3 Jahre Gratis\n3 bis 6 Jahre 50 %\n6 bis 14 Jahre 30 %\nPreise für Einzelbelegung oder kürzeren Aufenthalt bitte auf Anfrage.\n\nSOMMERANGEBOT\n\n14 Tage Aufenthalt 12 Tage bezahlen\n21 Tage Aufenthalt 18 Tage bezahlen\nNicht Gültig im August",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment A /1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Ferienwohnung Type B 2–4 Personen , 52m²\n\nDiese Ferienwohnung besteht aus:\nVorraum mit Garderobe und Spiegel, Schlafzimmer, Wohnschlafzimmer,\nkomplett eingerichtete Küche mit Essecke und Bergblick\nDusche mit Doppelwaschbecken, Föhn, getrenntes WC, \nSAT – TV, Radio, Direktwahltelefon, Safe, Gegensprechanlage,\nSüdterrasse\n\nDer Preis von Euro 50,00 im Sommer gilt ab einer Aufenthaltsdauer von 6 Tagen für bis zu 2 Personen. Kinderermäßigung gibt es für das 3. und 4. Bett.\nBis 3 Jahre Gratis\n3 bis 6 Jahre 50 %\n6 bis 14 Jahre 30 %\nPreise für Einzelbelegung oder kürzeren Aufenthalt bitte auf Anfrage.\n\nSOMMERANGEBOT\n\n14 Tage Aufenthalt 12 Tage bezahlen\n21 Tage Aufenthalt 18 Tage bezahlen\nNicht Gültig im August\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment B /1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC",
+      "description": "Ferienwohnung Type C 2–3 Personen , 37m²\n\nDiese Ferienwohnung besteht aus:\nVorraum mit Garderobe und Spiegel, Wohnschlafzimmer,\nkomplett eingerichtete Küche mit Essecke und Bergblick\nDusche mit Doppelwaschbecken, Föhn, getrenntes WC,\nSAT – TV, Radio, Direktwahltelefon, Safe, Gegensprechanlage,\nSüdbalkon oder Terrasse\n\nDer Preis von Euro 42,00 im Sommer gilt ab einer Aufenthaltsdauer von 6 Tagen für bis zu 2 Personen. Kinderermäßigung gibt es  für das 3. Bett.\nBis 3 Jahre Gratis\n3 bis 6 Jahre 50 %\n6 bis 14 Jahre 30 %\nPreise für Einzelbelegung oder kürzeren Aufenthalt bitte auf Anfrage.\n\nSOMMERANGEBOT\n\n14 Tage Aufenthalt 12 Tage bezahlen\n21 Tage Aufenthalt 18 Tage bezahlen\nNicht Gültig im August\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment C /Wohn-Schlafraum/Dusche, WC",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 2 Schlafräume",
+      "description": "Ferienwohnung Type D 2–6 Personen , 85m²\n\nDiese Ferienwohnung besteht aus:\nVorraum mit Garderobe und Spiegel, 2 Schlafzimmer, 1Wohnschlafzimmer,\nkomplett eingerichtete Küche mit Geschirrspüler, Mikrowelle etc.\nsehr gemütliche Essecke mit Bergblick\nGroßes Bad mit Badewanne, Dusche, Doppelwaschbecken, Föhn, getrenntes WC, SAT – TV, Radio, Direktwahltelefon, Safe, Gegensprechanlage, Südwestbalkon und Terrasse\n\nDer Preis von Euro 66,00 im Sommer gilt ab einer Aufenthaltsdauer von 6 Tagen für bis zu 2 Personen. Kinderermäßigung gibt es für das 3.bis 6. Bett. Bis 3 Jahre Gratis\n3 bis 6 Jahre 50 %\n6 bis 14 Jahre 30 %\nPreise für Einzelbelegung oder kürzeren Aufenthalt bitte auf Anfrage.\n\nSOMMERANGEBOT\n\n14 Tage Aufenthalt 12 Tage bezahlen\n21 Tage Aufenthalt 18 Tage bezahlen\nNicht Gültig im August\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment D /2 Schlafräume/Dusche, Bad,",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

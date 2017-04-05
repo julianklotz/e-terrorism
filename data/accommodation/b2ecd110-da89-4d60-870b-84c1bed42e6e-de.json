@@ -1,0 +1,92 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://web.deskline.net/seefeld/de/show_accommodation/SEE/b2ecd110-da89-4d60-870b-84c1bed42e6e/haus_krinzwald",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Krinzwald",
+    "streetAddress": "Krinz 23",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "0043 5212 2082"
+  },
+  "name": "Haus Krinzwald",
+  "description": [
+    "Direkt am Waldrand liegt unsere familiär geführte Frühstückspension. Helle und geräumige Zimmer, einen fantastischen Blick auf unser Bergpanorama und den Tag mit einem kleinen Frühstücksbuffet beginnen. So machen Sie bei uns Urlaub! Leicht zu Fuß erreichbar ist das Wander- und Skigebiet Rosshütte.",
+    "Bleiben Sie auf der Bundesstraße, biegen Sie beim Ortsteil Krinz ein, fahren Sie bis zum Hotel Marthe dann links einbiegen und das zweite Haus ist unser Haus Krinzwald."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/499dd3cd-a256-4c1c-ab55-2a794125b7db/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/174f1362-f430-4d5c-84d4-c1fec166f105/99/image.jpg",
+      "caption": "Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.32766853972",
+    "longitude": "11.2003684043884"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Bad, WC",
+      "description": "Ruhige, geräumige, helle Zimmer mit phantastischem Blick auf die Hohe Munde. Alle mit Bad/WC!",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Bad, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Einzelzimmer, Dusche, WC",
+      "description": "Ruhiges, geräumiges, helles Zimmer!",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Einzelzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ]
+    }
+  ]
+}

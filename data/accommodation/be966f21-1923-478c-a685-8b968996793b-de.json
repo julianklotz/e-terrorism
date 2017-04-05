@@ -1,0 +1,71 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.handl-seefeld.at/"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Bergkristall",
+    "streetAddress": "Hocheggstr. 604 / Top 13",
+    "addressLocality": "Seefeld in Tirol",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043)6503057479",
+    "email": "clemens@handl-seefeld.at",
+    "url": "http://handl-seefeld.at"
+  },
+  "name": "Appartement Handl",
+  "description": [
+    "Das Appartementhaus \"Bergkristall\" liegt in der Hocheggstraße Nr. 604, nur wenige Gehminuten vom pulsierenden Ortszentrum Seefeld (5-7`) entfernt und dennoch in absoluter Ruhelage. Das Haus ist südseitig ausgerichtet. Auf der Sonne zugewandten Seite befindet sich eine große unverbaute Wiese. Sie haben freien Blick auf die herrliche Tiroler Bergwelt, können sich am großzügigen Balkon entspannen und so richtig auftanken.  ",
+    "Inkl.:Kostenloser Autoabstellplatz vor dem Haus \nInkl.: Kostenloses Wäschepaket ( Bettwäsche, Handtücher, Geschirrtücher ) für eine Woche - für die Folgewoche verrechnen wir  € 15.-\n\n",
+    "Check in: 14.00 Uhr - Check out: 10.00 Uhr\n\nSie erreichen uns:\nVon Innsbruck kommend: Abfahrt Seefeld - Richtung Ortszentrum (Bahnhof)- Reitherspitzstraße - links in die Milserstraße - Hocheggstraße 604\nVon Deutschland kommend: 2. Abfahrt Seefeld - dann wie oben!\nBahnhof Seefeld (Strecke Innsbruck - München) - Fußweg ca. 7 \n"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/eb39f534-eef7-4063-be67-7213d8da1174/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1dcfb5dd-7d07-46d4-8ca5-a0bd99633214/99/image.jpg",
+      "caption": "Winter"
+    }
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, Balkon",
+      "description": "Unser Appartement HANDL liegt im 1. Stock des Hauses \"Bergkristall\". Es verfügt über eine voll ausgestattete Küche, über Dusche/WC und einen 42 m² großen lichtdurchfluteten Wohnschlafraum mit moderner Essgruppe, eine großzügige Wohnlandschaft, Sat-TV und einem bequemen Schrank-Doppelbett. Durch die  südseitige Ausrichtung und die große Glasfront zum Balkon (8m²) hin können Sie entspannt das Panaorama und die Ruhe der Tiroler Bergwelt genießen.\nHomepage: handl-seefeld.at ",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement/Fewo, Dusche, WC, Balkon",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "50.00",
+          "maxPrice": "55.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

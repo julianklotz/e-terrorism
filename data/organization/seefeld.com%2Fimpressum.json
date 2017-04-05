@@ -1,0 +1,108 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Seefeld",
+    "legalName": "Tourismusverband Seefeld",
+    "telephone": "+43 508800",
+    "faxNumber": "+43 50880851",
+    "email": "region@seefeld.com",
+    "url": "https://www.seefeld.com/impressum",
+    "logo": "http://www.seefeld.com/portal/assets/images/environment/logo_xl.svg",
+    "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "AT",
+        "streetAddress": "Heilbadstr. 827",
+        "postalCode": "6100",
+        "addressLocality": "Seefeld",
+        "addressRegion": "Tirol"
+    },
+    "contactPoint": [
+        {"@type": "ContactPoint",
+            "email": "info@seefeld.com ",
+            "telephone": "+43 508800",
+            "faxNumber": "+43 50880851",
+            "contactType": "customer service"
+        },
+        {"@type": ["ContactPoint", "TouristInformationCenter"],
+            "name": "INFORMATIONSBÜRO SEEFELD",
+            "image": "http://www.seefeld.com/portal/assets/images/environment/logo_seefeld_weiss.svg",
+            "url": "https://www.seefeld.com/tirol-service/tourist-info#kontakt-seefeld",
+            "contactType": "customer service",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Seefeld",
+                "addressRegion": "Tirol",
+                "postalCode": "6100",
+                "streetAddress": "Klosterstrasse 43"
+            },
+            "email": "mailto:info@seefeld.com",
+            "telephone": "+43 508800",
+            "faxNumber": "+43 50880851"
+        },
+        {"@type": ["ContactPoint", "TouristInformationCenter"],
+            "name": "INFORMATIONSBÜRO SCHARNITZ",
+            "contactType": "customer service",
+            "image": "http://www.seefeld.com/portal/assets/images/environment/logo_scharnitz_weiss.svg",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Scharnitz",
+                "addressRegion": "Tirol",
+                "postalCode": "6108",
+                "streetAddress": "Innsbruckerstrasse 282"
+            },
+            "email": "mailto:info.scharnitz@seefeld.com",
+            "telephone": "+43 50880540",
+            "faxNumber": "+43 50880841",
+            "url": "https://www.seefeld.com/tirol-service/tourist-info#kontakt-scharnitz"
+        },
+        {"@type": ["ContactPoint","TouristInformationCenter"],
+            "name": "INFORMATIONSBÜRO REITH",
+            "contactType": "customer service",
+            "image": "http://www.seefeld.com/portal/assets/images/environment/logo_reith_weiss.svg",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Leutasch",
+                "addressRegion": "Tirol",
+                "postalCode": "6103",
+                "streetAddress": "Römerstraße 12"
+            },
+            "email": "mailto:info.reith@seefeld.com",
+            "telephone": "+43 50880530",
+            "faxNumber": "+43 50880831",
+            "url": "https://www.seefeld.com/tirol-service/tourist-info#kontakt-reith"
+        },
+        {"@type": ["ContactPoint","TouristInformationCenter"],
+            "name": "INFORMATIONSBÜRO MÖSERN/BUCHEN",
+            "contactType": "customer service",
+            "image": "http://www.seefeld.com/portal/assets/images/environment/logo_moesern_weiss.svg",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Mösern",
+                "addressRegion": "Tirol",
+                "postalCode": "6100",
+                "streetAddress": "Möserer Dorfstraße 11"
+            },
+            "email": "mailto:info.moesern@seefeld.com",
+            "telephone": "+43 50880520",
+            "faxNumber": "+43 50880821",
+            "url": "https://www.seefeld.com/tirol-service/tourist-info#kontakt-moesern"
+        },
+        {"@type": ["ContactPoint","TouristInformationCenter"],
+            "name": "INFORMATIONSBÜRO LEUTASCH",
+            "contactType": "customer service",
+            "image": "http://www.seefeld.com/portal/assets/images/environment/logo_leutasch_weiss.svg",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Leutasch",
+                "addressRegion": "Tirol",
+                "postalCode": "6105",
+                "streetAddress": "Weidach 329"
+            },
+            "email": "mailto:info.leutasch@seefeld.com",
+            "telephone": "+43 50880510",
+            "faxNumber": "+43 50880811",
+            "url": "https://www.seefeld.com/tirol-service/tourist-info#kontakt-leutasch"
+        }
+    ],
+    "sameAs": ["https://www.facebook.com/ORSeefeld", "https://plus.google.com/+OlympiaregionSeefeld", "https://twitter.com/seefeldtirol", "https://www.instagram.com/visitolympiaregionseefeld/", "https://www.flickr.com/photos/olympiaregion/", "https://www.youtube.com/user/OlympiaregionSeefeld", "http://seefeld.tv/?p=24JDKEVBky", "https://de.pinterest.com/orseefeld/", "https://vimeo.com/olympiaregionseefeld"]
+}

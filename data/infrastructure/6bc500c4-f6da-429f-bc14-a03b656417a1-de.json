@@ -1,0 +1,49 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BarOrPub"
+  ],
+  "name": "Buffalo und Jeep",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3292792754433",
+    "longitude": "11.1858201026917"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Britannia Pub",
+    "streetAddress": "Olympiastr. 101",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2191",
+    "email": "kaltschmid@kaltschmid.info",
+    "url": "http://www.fundisco.at"
+  },
+  "description": "Sounds von Soul, Rave, Techno, Pop bis hin zum klassischen Rock sorgen für Abwechslung und gute Stimmung. Im „Jeep“ wird die Nacht zum Tag. Erleben Sie Seefeld von seiner heißesten Seite. Let´s rock, let´s dance, let´s party.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7a0f9cdc-a940-4a75-94b1-fcf6b0ab524b/99/image.jpg",
+      "caption": "Jeep1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3b550e93-cade-4321-ab18-7e2565c2e92a/99/image.jpg",
+      "caption": "Jeep"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/777d024d-ac41-4793-aff2-897113083282/99/image.jpg",
+      "caption": "Jeep2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/792dd924-2667-43eb-a30e-cb9a1ca984d1/99/image.jpg",
+      "caption": "Buffalo"
+    }
+  ],
+  "url": [
+    "http://www.fundisco.at"
+  ]
+}

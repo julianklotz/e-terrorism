@@ -1,0 +1,136 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.gemse.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Landhaus Gemsenblick",
+    "streetAddress": "Weidach 344",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6340",
+    "faxNumber": "(0043) 5214 6340",
+    "email": "info@gemse.at",
+    "url": "http://www.gemse.at"
+  },
+  "name": "Landhaus Gemsenblick",
+  "description": [
+    "Ihre Urlaubsunterkunft das Landhaus Gemsenblick liegt im Herzen des Leutaschtales im Ortsteil Weidach. Im Umkreis von 5 Gehminuten befinden sich Restaurants, Supermarkt, Banken, Geschäfte, Sportanlagen. Wir sind eine familär geführte Frühstückspension. Der große Garten mit seinen vielen verschiedenen Blumen sind im Sommer eine Augenweide und ist bei den Gästen sehr beliebt zum Ausspannen und zum Erholen.",
+    "Ihre Urlaubsunterkunft das Haus Gemsenblick liegt im Herzen des Leutaschtales im Ortsteil Weidach. Im Umkreis von 5 Gehminuten befinden sich Restaurants, Supermarkt, Banken, Geschäfte, Sportanlagen. Wir sind eine familiär geführte Frühstückspension. Der große Garten mit seinen vielen verschiedenen Blumen ist im Sommer eine Augenweide und ist bei den Gästen sehr beliebt zum Ausspannen und zum Erholen.",
+    "Gratis  Nordic Walkingstöcke !!\nInternetanschluss in allen Zimmern und Appartements\nGrillabend auf unserem selbstgebauten Grillplatz!",
+    "Anreise ab 13.00 Uhr - Abreise bis 10.00 Uhr\nVon München - Mittenwald - Unterleutasch - Weidach - Bushaltestelle Weidach - links abbiegen - Haus Gemsenblick auf der rechten Seite.\nVon Seefeld - Tankstelle - rechts abbiegen - Supermarkt - Haus Gems."
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "reviewCount": "53"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e5ed3ed0-e973-471d-80fe-90bc56b87ad7/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0246bf00-cc7a-4685-8be7-db1f2d9aed4a/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/15ea9bb0-b2c6-4407-8a7d-0624295fb62f/99/image.jpg",
+      "caption": "Garten"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.372120741308",
+    "longitude": "11.168293660809"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Vier geräumige Doppelzimmer in denen die Sonne den Mittelpunkt bildet. Komfortable Betten, freundlich und hell eingerichtet.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "30.00",
+          "maxPrice": "35.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "2 FW für 2-4 Personen - 1 Schlafzimmer, Schlafwohnraum, große Kochecke, Dusche/WC, Balkon, SAT-TV, Radio, Haarföhn",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "59.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "63.00",
+          "maxPrice": "90.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "70.00",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

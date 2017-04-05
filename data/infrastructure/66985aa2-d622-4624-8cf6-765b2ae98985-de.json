@@ -1,0 +1,37 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "PublicSwimmingPool"
+  ],
+  "name": "Olympia Sport- u. Kongresszentrum, Erlebnisbad/Schwimmbad/Sauna/Solarium",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3273631125078",
+    "longitude": "11.1831915378571"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Olympia Sport- und Kongresszentrum",
+    "streetAddress": "Klosterstr. 600",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "+4352123220",
+    "email": "info@seefeld-sports.at",
+    "url": "http://www.seefeld-sports.at"
+  },
+  "description": [
+    "Öffnungszeiten Hallenbad: \nTäglich von 9.30 - 22.00 Uhr, geänderte Öffnungszeiten in der Zwischensaison, siehe Homepage!\nWeitere Informationen entnehmen Sie bitte der aktuellen Preisliste oder unter www.seefeld-sports.at\nÖffnungszeiten Sauna:\nTäglich von 13.00 - 22.00 Uhr\n\n",
+    "Bitte entnehmen Sie die aktuellen Preise, Öffnungszeiten und weitere Informationen der Homepage www.seefeld-sports.at"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/590754da-670a-4485-87fe-f62c6843ce0c/99/image.jpeg",
+      "caption": "Olympia Sport- \u0026 Kongresszentrum"
+    }
+  ],
+  "url": [
+    "http://www.seefeld-sports.at"
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.pensionholzmann.com",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Holzmann",
+    "streetAddress": "Aue 115 a",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6449",
+    "email": "dagmarholzmann@yahoo.de",
+    "url": "http://www.pensionholzmann.com"
+  },
+  "name": "Haus Holzmann",
+  "description": [
+    "Unser Haus ist ein idealer Ausgangspunkt  für wunderschöne Wanderungen und Radtouren.\nIm Winter verläuft die Loipe hinter dem Haus.\nDie geräumige, gemütliche Ferienwohnung (72m²), die sich über den gesamten 1.Stock mit großem Süd- und Westbalkon erstreckt, besteht aus Wohnküche, Wohnzimmer mit Sat-TV , 1-2 separaten Schlafzimmern, Dusche/WC und einem extra WC .\n",
+    "Inklusive: Heizung, Strom, Wasser, Bettwäsche, Bade- und Handtücher, Tischwäsche und Geschirrtücher\n\nExklusive: Ortstaxe, Brötchen, Endreinigung\n\nAbreise: 10.00 Uhr\nAnreise: 15.00 Uhr",
+    "von Mittenwald: Leutasch - Schanz - Gasse - Kirchplatzl  - Aue\n\nvon Seefeld: Leutasch - Weidach - Kirchplatzl - Aue"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/cff2edbe-6a68-4054-9905-76abbed87f13/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e26fcf77-c3e6-472e-83d0-8db2d8e7a92a/99/image.jpg",
+      "caption": "Winter"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3638771476169",
+    "longitude": "11.1401120812855"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche oder Bad, WC, 2 Schlafräume",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/2 Schlafräume/Du od. Bad, WC",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "39.00",
+          "maxPrice": "79.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "49.00",
+          "maxPrice": "95.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "55.00",
+          "maxPrice": "109.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "HealthAndBeautyBusiness"
+  ],
+  "name": "Brunner Monika, Personal Trainer",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3269267848552",
+    "longitude": "11.1976218223572"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Römerweg 450",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2648"
+  },
+  "description": "Leitung: Monika Brunner - gepr. Lehrwart, Bewegung mit Musik, einfach kommen und mitmachen,  jeden Di 18.30 Uhr bis inkl. Juni 2015, pro Stunde € 4,00 \nOrt: Eingang Bewegungsräume - Neue Mittelschule Seefeld"
+}

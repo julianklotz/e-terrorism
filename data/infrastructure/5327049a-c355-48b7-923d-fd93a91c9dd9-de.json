@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CafeOrCoffeeShop",
+    "Restaurant"
+  ],
+  "name": "Inntalerhof 9er\u0027s",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3115284456817",
+    "longitude": "11.1448097846558"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Panoramahotel Inntalerhof",
+    "streetAddress": "Möserer Dorf Strasse  2",
+    "addressLocality": "Mösern",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "+4352124747",
+    "faxNumber": "+435212474747",
+    "email": "info@inntalerhof.com",
+    "url": "http://www.inntalerhof.at"
+  },
+  "description": "Sitzplätze für ca. 60 Personen",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e97d6741-5b42-40fa-a40a-8191576c3f3e/99/image.jpg",
+      "caption": "Sommer"
+    }
+  ],
+  "url": [
+    "http://www.inntalerhof.com"
+  ]
+}

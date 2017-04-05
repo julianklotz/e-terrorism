@@ -1,0 +1,172 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.adlerkanzel.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Adlerkanzel",
+    "streetAddress": "Innbruckerstr. 260",
+    "addressLocality": "Scharnitz",
+    "postalCode": "6108",
+    "addressCountry": "AT",
+    "telephone": "+4352135274",
+    "faxNumber": "+4352135319",
+    "email": "adlerkanzel@aon.at",
+    "url": "http://www.adlerkanzel.at"
+  },
+  "name": "Haus Adlerkanzel",
+  "description": [
+    "Unser gemütliches Gästehaus in zentraler sonniger Lage bietet Ihnen Tage der Erholung und Entspannung. Die gepflegten Ferienwohnungen oder Zimmer sind in verschiedenen Größen vorhanden. Grillmöglichkeit beim Gartenhaus. Siehe unter: www.adlerkanzel.at\nIn familiärer Atmosphäre fühlen sich auch unsere kleinsten Gäste wohl. \nKinderermäßigung auf Anfrage! Auf Ihren Besuch freut sich Familie Lechner.\n\n",
+    "inklusive:  Bettwäsche, Handtücher\nPreise beziehen sich auf 2 Erwachsene. Kinderermäßigung auf Anfrage!\nexclusive Kurtaxe 2,80 pro Person / Nacht\n\nCheck in: 12:00 Uhr\nCheck out: 10.00 Uhr",
+    "Von Norden kommend, liegt unser Haus ab Ortseingang nach 200 m auf der rechten Seite.",
+    "Haus Adlerkanzel, Fam. Lechner, Scharnitz, Zimmer, Ferienwohnung, Appartment, Frühstück, Seefeld"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "reviewCount": "97"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/290bd701-9e7f-4e90-a799-6d5aa18dd84b/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b8bdec91-765a-409d-9940-a21640a7f9f8/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/cfb787f8-caa7-4c26-a34d-d16afc067c42/99/image.jpg",
+      "caption": "Garten"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/246ec7f4-78f1-4b1d-87c8-9bce9890df59/99/image.jpg",
+      "caption": "Gartenhäuschen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4d3d4ec2-69a6-4193-bb68-d3997074e2a5/99/image.jpg",
+      "caption": "Hausansicht von oben"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/508210dd-9edc-4793-900e-8e60e2c137c1/99/image.jpg",
+      "caption": "Haus Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5ff9c878-00f0-4adc-9058-6a064a562797/99/image.jpg",
+      "caption": "Winter in Scharnitz"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c9abfdfa-e417-42f2-98cb-6170dea0b10d/99/image.jpg",
+      "caption": "Haus Sommer 1"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.39237685621",
+    "longitude": "11.265175878146"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "Gemütlich eingerichtet, 2 getrennte Dreibettzimmer, abgeschlossene Küche, Dusche/WC und WC separat, Mikrowelle, Kaffeemaschine, Gitterbett, Hochstuhl, Balkon, Sat-TV, Internetanschluss, Gartenhaus mit Grillmöglichkeit",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/2 Schlafräume/Dusche/ WC",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "separates Schlafzimmer, kleine Küche mit Essecke, DU/WC, Kaffeemaschine, Eierkocher, Toaster, Sat-TV, Internetanschluss, Gartenhaus mit Grillmöglichkeit",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "37.00",
+          "maxPrice": "43.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, Terrasse",
+      "description": "helle, geräumige Wohnung mit großer Sonnenterrasse, 1 Doppelzimmer mit Zusatzbett, abgeschlossene Küche, Mikrowelle, Kaffeemaschine, Dusche/WC, Vorraum, Sat-TV, Internetanschluss, Gitterbett, Hochstuhl, Gartenhaus mit Grillmöglichkeit, ",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement/1Schlafraum/ Terrasse",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "43.00",
+          "maxPrice": "49.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "53.00",
+          "maxPrice": "59.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

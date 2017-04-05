@@ -1,0 +1,252 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://www.risserhof.com",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Gasthof Risserhof",
+    "streetAddress": "Innsbruckerstr. 26",
+    "addressLocality": "Scharnitz",
+    "postalCode": "6108",
+    "addressCountry": "AT",
+    "telephone": "+4352135240",
+    "faxNumber": "+4352135292 ",
+    "email": "gasthof@risserhof.com",
+    "url": "http://www.risserhof.com"
+  },
+  "name": "Gasthof Risserhof",
+  "description": [
+    "Familiär geführter, gediegener 3* Alpengasthof mit typischer Tiroler Gastlichkeit und schönen Komfortzimmern. Erstes Haus am Platz. An der Isar und der Langlaufloipe gelegen, ruhig und doch zentral mit weitum bekannt guter Küche.",
+    "Haustiere € 2,50 pro Tag\nFahrrad € 13,00",
+    "Anreise von Deutschland über Mittenwald: direkt im Zentrum rechts neben der  RAIKA.\n\nAnreise über Innsbruck - Zirlerberg- Seefeld: direkt im Zentrum links nach der Brücke."
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "reviewCount": "314"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/26a516e9-d760-44a7-a406-310a53c303b4/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/bd33345b-98cb-4738-9b12-d8ee22387495/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/49df8913-5a64-4557-9d7c-118e05d33bfe/99/image.jpg",
+      "caption": "Speisesaal"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/09677c29-5da6-4521-b4cb-9922751c458f/99/image.jpg",
+      "caption": "Speisesaal 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2430e2c2-8aea-4d5d-93a7-8137ea1f6b37/99/image.jpg",
+      "caption": "Reception"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/104e160a-4718-45b2-8ba1-2124773c0991/99/image.jpg",
+      "caption": "Restaurant"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/842c048e-d913-4eb2-9d0a-209765c2837f/99/image.jpg",
+      "caption": "Bar"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/295fcbba-9815-4096-a653-beb49efea2fb/99/image.jpg",
+      "caption": "Aufgang"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/30706676-ebad-4e29-a269-f339d579cbce/99/image.jpg",
+      "caption": "Winterbild"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6433ea22-2177-46cd-be6d-533122326f1e/99/image.jpg",
+      "caption": "Reception 2"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3903927294022",
+    "longitude": "11.2645375728607"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Gemütliches ländliches Doppelzimmer mit allem Komfort, laufen renoviert und schöner Aussicht auf die Gebirgswelt.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Langlaufpauschale",
+          "description": "5 Übernachtung mit Frühstücksbuffet\n1 Flasche Mineral und 1 Überraschungsgeschenk auf dem Zimmer\ninclusive Loipenticket und Loipenplan für insgesamt 279 km ausgezeichnete\nLanglaufloipen in der Region Seefeld!\n\nErfreuen Sie sich an dem Wintertraum Seefeld und verbringen Sie eine wunderbare \nZeit auf unseren perfekt präparierten Loipen.",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/23a0d725-1c0b-4469-8b46-60f414ee0c61/99/image.jpg",
+              "caption": "Langlauf"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Langlauf Wintertraum",
+          "description": "7 Übernachtung mit Frühstücksbuffet\n1 Flasche Wein und 1 Überraschungsgeschenk auf dem Zimmer\ninclusive Loipenticket und Loipenplan für insgesamt 279 km ausgezeichnete\nLanglaufloipen in der Region Seefeld!\n\nErfreuen Sie sich an dem Wintertraum Seefeld und verbringen Sie eine wunderbare \nZeit auf unseren perfekt präparierten Loipen.",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/49958e21-3b65-405e-a13d-f9179888f4f0/99/image.jpg",
+              "caption": "Langlauf"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Winterwandertraum",
+          "description": "5 Übernachtung mit Frühstücksbuffet\n1 Flasche Sekt und 1 Überraschungsgeschenk auf dem Zimmer\ninclusive Busticket und Wanderkarte für insgesamt 142 km ausgezeichnete\nWanderwege in der Region Seefeld!\n\nErfreuen Sie sich an dem Wintertraum Seefeld und verbringen Sie eine wunderbare \nZeit in unserer Region!",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/26c61e47-2d1b-4393-a27e-7d342aab8166/99/image.jpg",
+              "caption": "Wandern"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "43.00",
+          "maxPrice": "48.70",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "29.00",
+          "maxPrice": "36.70",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "29.00",
+          "maxPrice": "34.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Dreibettzimmer, Dusche, WC",
+      "description": "Geräumiges, gemütliches Dreibettzimmer mit allem Komfort, laufend renoviert.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Dreibettzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "29.00",
+          "maxPrice": "36.70",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "29.00",
+          "maxPrice": "36.70",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

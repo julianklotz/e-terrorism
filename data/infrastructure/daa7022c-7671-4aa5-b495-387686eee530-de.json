@@ -1,0 +1,22 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure",
+    "LocalBusiness"
+  ],
+  "name": "Sailer Outlet",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Sailer Outlet",
+    "streetAddress": "Innsbrucker Str. 12",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) (0)5212/253050"
+  }
+}

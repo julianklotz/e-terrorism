@@ -1,0 +1,25 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Store"
+  ],
+  "name": "EG-Energie",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3156879",
+    "longitude": "11.1986997"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "EG- Energie Egger",
+    "streetAddress": "Auland Gstoag 123",
+    "addressLocality": "Reith bei Seefeld",
+    "postalCode": "6103",
+    "addressCountry": "AT",
+    "telephone": "(0043)5212 3345",
+    "email": "ge.egger@eg-energie.at"
+  },
+  "url": [
+    "http://"
+  ]
+}

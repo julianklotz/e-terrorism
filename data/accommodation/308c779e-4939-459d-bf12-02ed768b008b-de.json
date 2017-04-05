@@ -1,0 +1,74 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.wiesenhof-ritz.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Wiesenhof",
+    "streetAddress": "Möserer Seeweg 1",
+    "addressLocality": "Mösern",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "+4352124731",
+    "faxNumber": "+43521252603",
+    "email": "christian-klotz@aon.at",
+    "url": "http://www.wiesenhof-ritz.at"
+  },
+  "name": "Haus Wiesenhof",
+  "description": [
+    "Schönes modernes Bauernhaus, sehr familiär und kinderfreundlich.\nIm 1. Stock befinden sich eine vollausgestattete Ferienwohnung mit elektrischen Kachelofen und Süd-Westbalkon.\nDie Wohnung ist sehr praktisch, gemütlich und komfortabel eingerichtet.\nDirekt am Skilift, zentral gelegen, schöner Berg- und Talblick.\nKinderermäßigung und Familienpreise auf Anfrage!\n\nBeachten Sie aber auch unsere wunderschöne Ferienwohnung mit Romantikblick im Landhaus \"RITZ\", nur 50 m von unserem Hause entfernt, mehr Infos zu beiden Häusern finden Sie nur auf unserer eigenen Homepage unter www.wiesenhof-ritz.at\n\n",
+    "Inklusive: Strom, Bettwäsche, Handtücher, Heizung, Wasser, W-Lan;\n\nExklusive: Ortstaxe, Endreinigung € 30 - € 40, Hund € 6,- pro Tag- ohne Futter\n\n",
+    "Check in: 14.00 Uhr / Check out 10.00 Uhr \n\nvon Seefeld kommend auf der rechten Seite neben dem Schilift"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ab2ba07e-d121-4c3d-aa32-fb91b07dcbeb/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a17fcda8-2e20-4a1d-9dbb-e6f724e066a2/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/616e4452-f4a6-4c7b-91a5-3d9c7f5283d6/99/image.jpg",
+      "caption": "Winter 2"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.311611",
+    "longitude": "11.1507153"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 2 Schlafräume",
+      "description": "Appartement \"Talblick\"\nfür 2 bis 5 Personen, ca. 85 qm, 2 Doppelbettschlafzimmer, kuschelige große Wohnküche mit elektr. Kachelofen, Wohnzimmer mit Schlafgelegenheit, Dusche, 2 WC, 2 Sat-TV, Spielecke, W- Lan, Bücherecke, Süd-Westbalkon,.\nInkl.: Strom, Bettwäsche, Handtücher\nExkl.: Ortstaxe, Endreinigung, Haustiere € 6,-\nKinderermäßigung und Familienpreise auf Anfrage.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement  Talblick",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

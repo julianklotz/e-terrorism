@@ -1,0 +1,435 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://www.olympia.tirol",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Apart Hotel Olympia Tirol",
+    "streetAddress": "Albrecht-Dürer-Weg 7",
+    "addressLocality": "Mösern",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "+43544262086",
+    "faxNumber": "+4308109554133158",
+    "email": "info@olympia-seefeld.at",
+    "url": "http://www.olympia.tirol"
+  },
+  "name": "Apart Hotel Olympia Tirol",
+  "description": [
+    "Am Ortsrand von Mösern erwartet Sie unser schönes, mit Liebe geführtes Apartmenthaus mit traumhaftem Blick über das Inntal und die Bergwelt. \nIn nur wenigen Minuten erreichen Sie den idyllischen Möserer See, der zum Entspannen und Baden einlädt. Ein Übungslift befindet sich direkt vor dem Haus und der Loipeneinstieg liegt ebenfalls in näheren Entfernung.\n\nUnser Haus bietet Zimmer mit Frühstück oder Apartments, Frühstücksbuffet, Brötchenservice, ein kleiner hauseigener Shop für die wichtigsten Dinge und eine große Informationsgalerie für Ausflüge bei Schön- und Schlechtwetter.\n",
+    "Keine tägliche Reinigung in den Zimmern!\n\nZusatzkosten für alle Ferienwohnungen:\nEndreinigung Studio € 26 und Apartments € 36\nKurtaxe derzeit € 2,80 pro Person und Tag\nFrühstück auf Wunsch: € 8 pro Person und Tag\nKurzaufenthalt bis 2 Tage € 6 pro Person und Tag\nHunde € 5 pro Tag ohne Futter\n\nGratis W-LAN im Haus\nParkplatz befindet sich direkt beim Haus und ist kostenlos! \n\n",
+    "Check in 14 Uhr\nCheck out 10 Uhr\n"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "reviewCount": "712"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f59520da-6b60-4b0c-b529-15ad719579cb/99/image.jpg",
+      "caption": "Winter im Hotel Olympia Tirol Mösern / Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8bfcdc50-d82e-4e29-bad3-6a13e8e3a81b/99/image.jpg",
+      "caption": "Logo Olympia"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b351e1e9-96e7-4a1e-9184-77ba8b45876d/99/image.jpg",
+      "caption": "Sommer im Hotel Olympia Tirol in Mösern / Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7728ff1d-d254-4c52-89cb-e376a17fa768/99/image.jpg",
+      "caption": "Sommer im Hotel Olympia Tirol in Mösern / Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/09f03c9a-dedf-4d3c-92df-029326e45c6c/99/image.jpg",
+      "caption": "Sommeransicht von hinten"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/57fc0c66-b678-4ca9-8029-5be92beb1407/99/image.jpg",
+      "caption": "Frühstücks Buffet - Hotel Olympia Tirol"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6be0ae20-990f-4dff-80ca-f8d5db35e6fa/99/image.jpg",
+      "caption": "Frühstücks Buffet Hotel Olympia Tirol"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4e316bad-462f-4546-8460-bf199302b316/99/image.jpg",
+      "caption": "Skifahren - Hotel Olympia Tirol - Mösern -Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6de84fe1-72cc-479c-970e-d2c02ccd96ec/99/image.jpg",
+      "caption": "Infrarot - Relax - Hotel Olympia Tirol"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ae85f3ee-b8de-4497-b022-d296d172035c/99/image.jpg",
+      "caption": "Empfang Hotel Olympia Tirol - Mösern - Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e8c5582d-80dc-414a-81b2-f1716f9f8904/99/image.jpg",
+      "caption": "Skilift - Hotel Olympia Tirol - Mösern - Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/57852cb9-1a8f-4080-882e-7c28d6067726/99/image.jpg",
+      "caption": "Ausblick Sommer - Hotel Olympia - Mösern - Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8604f627-7b27-42b5-81a5-3a999e7def38/99/image.jpg",
+      "caption": "Ausblick - Hotel Olympia Tirol - Mösern / Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4e7241f0-eca8-4691-9434-37da721e2a65/99/image.jpg",
+      "caption": "Frühstücken im Hotel Olympia Tirol in Mösern"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3121423827395",
+    "longitude": "11.1541491576106"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC",
+      "description": "Ca. 27 m2 für 2-3 Personen, \n1 Wohn-Schlafraum, Kochnische, Essecke, Mikrowelle, \nBadezimmer mit Bad oder Dusche/WC, Haarfön, Balkon oder Terrasse, \nFlachbildschirm, W-LAN gratis",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Studio",
+          "description": "Ca. 27 m2 für 2-3 Personen, \n1 Wohn-Schlafraum, Kochnische, Essecke, Mikrowelle, \nBadezimmer mit Bad oder Dusche/WC, Haarfön, Balkon oder Terrasse, \nFlachbildschirm, W-LAN gratis",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Christkindlmarkt erleben!",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "30.40",
+          "maxPrice": "86.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "38.00",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "46.00",
+          "maxPrice": "72.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "170.00",
+          "maxPrice": "170.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Bad, WC, Nord",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer \"Gartenblick\"",
+          "description": "Ca. 27 m2 für 2 Personen mit Frühstück, ohne tägliche Reinigung!\n1 Wohn-Schlafraum,\nBadezimmer mit Bad/WC, Haarfön, Balkon zur - Nordseite, ohne Ausblick!\nFlachbildschirm, W-LAN gratis",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "40.00",
+          "maxPrice": "70.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "28.00",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "28.00",
+          "maxPrice": "71.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Studio, Dusche oder Bad, WC, 1 Schlafraum",
+      "description": "Ca. 32m² für 2-3 Personen\nWohn- Schlafraum, Kochnische, Essecke, Vorraum mit Garderobe, Mikrowelle, Geschirrspülmaschine, \nBadezimmer mit Bad oder Dusche/WC, Balkon oder Terrasse, Telefon, Fön und Tresor. \nFlachbildschirm, W-Lan gratis",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Superior Studio",
+          "description": "Ca. 32m² für 2-4 Personen\nWohn-Schlafraum, Vorraum mit Garderobe, geräumiger Küche, Geschirrspüler, Mikrowelle, Essecke, Badezimmer mit Dusche/WC, Balkon oder Terasse, Telefon, Fön und Tresor. \nFlachbildschirm mit internationalen Programmen\nW-LAN kostenlos!",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "47.00",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "55.00",
+          "maxPrice": "94.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "63.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 1 Schlafraum",
+      "description": "Ca. 51 m2 für 4-6 Personen,\n1 Wohn-Schlafraum mit Ess- und Sitzecke, 1 Schlafzimmer, Kochnische, Badezimmer, Haarfön, Balkon oder Terrasse, Tresor, Telefon, Flachbildschirm, W-LAN gratis",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "One Bed Room Apartment",
+          "description": "Ca. 51 m2 für 4-6 Personen,\n1 Wohn-Schlafraum mit Ess- und Sitzecke, 1 Schlafzimmer mit Sitzecke, Kochnische, \n2 Badezimmer, Haarfön, Balkon oder Terrasse, Tresor, Telefon, Flachbildschirm, W-LAN gratis",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "61.00",
+          "maxPrice": "131.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "61.00",
+          "maxPrice": "131.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "69.00",
+          "maxPrice": "131.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "77.00",
+          "maxPrice": "139.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 2 Schlafräume",
+      "description": "Ca. 61m2 für 4-6 Personen,\n1 Wohn-Schlafraum mit Sitzecke, 1 Doppelzimmer, 1 Zweibettzimmer, Küche, Mikrowelle, Geschirrspüler, 2 Badezimmer mit Dusche/WC, Haarfön, Terrasse, Tresor, Telefon, Flachbildschhirm, W-Lan gratis",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Two Bed Room Apartment",
+          "description": "Ca. 61m2 für 4-7 Personen,\n1 Wohn-Schlafraum mit Sitzecke, 2 Schlafzimmer, Küche, Mikrowelle, Geschirrspüler, 2 Badezimmer mit Bad oder Dusche/WC, Haarfön, Terrasse, Tresor, Telefon, Flachbildschhirm, W-Lan gratis",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "7",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "75.00",
+          "maxPrice": "150.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "75.00",
+          "maxPrice": "147.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "75.00",
+          "maxPrice": "147.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "83.00",
+          "maxPrice": "155.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "91.00",
+          "maxPrice": "163.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 7",
+          "minPrice": "99.00",
+          "maxPrice": "127.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC, Superior",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer, Dusche, WC, Superior",
+          "description": "Ca. 32m² für 2-4 Personen\nWohn-Schlafraum mit geräumiger Küche, Geschirrspüler, Mikrowelle, Essecke, Badezimmer mit Dusche/WC, Balkon, Telefon, Fön und Tresor. \nFlachbildschirm mit internationalen Programmen\nW-LAN kostenlos!",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

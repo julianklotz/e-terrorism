@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Physician"
+  ],
+  "name": "Dr. med. Benedikt Klein/Arzt",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3319079779047",
+    "longitude": "11.188942193985"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Münchner Str. 268",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 20125"
+  },
+  "description": [
+    " Arzt für Allgemein- und Sportmedizin\n\n",
+    "Mo, Di, und Do: 08:30 - 12.00 h und 15:30 - 18.00 h\n\n"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/28d2ffd6-4b74-43af-aca2-95b7ed1b33f0/99/image.jpg",
+      "caption": "Arzt"
+    }
+  ]
+}

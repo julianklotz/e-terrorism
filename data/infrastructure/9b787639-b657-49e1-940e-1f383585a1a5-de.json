@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "GroceryStore",
+    "BookStore",
+    "ToyStore",
+    "Store"
+  ],
+  "name": "Billa",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3254505162377",
+    "longitude": "11.189843416214"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Billa",
+    "streetAddress": "Innsbrucker Str. 272",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 52643",
+    "url": "http://www.billa.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a5400a95-bf20-47c9-915b-5abac275e5fc/99/image.jpg",
+      "caption": "Supermarkt"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/dc433669-1395-4b21-b6bc-27519e043e2e/99/image.png",
+      "caption": "Billa"
+    }
+  ],
+  "url": [
+    "http://www.billa.at"
+  ]
+}

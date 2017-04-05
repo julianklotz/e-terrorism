@@ -1,0 +1,25 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Haselwanter",
+    "streetAddress": "Möserer Dorfstr. 15",
+    "addressLocality": "Mösern",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "+4352124737"
+  },
+  "name": "Haus Haselwanter",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.311266554138",
+    "longitude": "11.1478778220901"
+  },
+  "currenciesAccepted": "EUR"
+}

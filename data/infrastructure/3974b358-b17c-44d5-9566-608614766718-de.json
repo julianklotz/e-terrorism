@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Store"
+  ],
+  "name": "Kunsthandwerk Georg Penz",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3620191061029",
+    "longitude": "11.1296098048936"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Plaik 93",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 222 85 61",
+    "email": "penz.georg@gmx.net",
+    "url": "http://kunsthandwerk-leutasch.com"
+  },
+  "description": "Restaurierung - Schnitzereien - Dekoration - Möbel - Lampen",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/16a343e9-834f-40c6-a596-faa2f2734173/99/image.jpg",
+      "caption": "Geschäft"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1d1c0f0d-b56e-4f4a-9165-7cd4310bb1f3/99/image.jpg",
+      "caption": "Georg Penz"
+    }
+  ],
+  "url": [
+    "http://kunsthandwerk-leutasch.com"
+  ]
+}

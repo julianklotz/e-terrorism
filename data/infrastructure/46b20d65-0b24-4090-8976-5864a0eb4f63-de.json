@@ -1,0 +1,42 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Landform",
+    "Hostel"
+  ],
+  "name": "Gaistalalm",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3698212758392",
+    "longitude": "11.0493334319641"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Gaistalalm",
+    "streetAddress": "Gaistal",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 5190",
+    "email": "gaistalalm@aon.at",
+    "url": "http://www.gaistalalm.at"
+  },
+  "description": "Übernachtungsmöglichkeit für 15 Personen, E-Bike Akkuwechselstation, Stempelstelle",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d3f1cd82-d3bb-4c51-83e2-17dfa449881e/99/image.jpg",
+      "caption": "Gaistalalm vorne"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/04b40469-872d-4271-8b1d-4e330ef61281/99/image.jpg",
+      "caption": "Gaistalalm Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3cd2af4e-d501-45be-ac8c-df438e7d981f/99/image.jpg",
+      "caption": "gaistalalm"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Milserstr. 563 / Top 5",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT"
+  },
+  "name": "Haus Jörg - Appartement Matthies",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d6723acd-8a74-40c0-b32d-f1411df1c65e/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/55bdefd8-1aec-4414-9769-fda02016f83f/99/image.jpg",
+      "caption": "Winter"
+    }
+  ],
+  "currenciesAccepted": "EUR"
+}

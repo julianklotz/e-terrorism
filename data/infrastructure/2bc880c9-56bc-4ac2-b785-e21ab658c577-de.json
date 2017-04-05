@@ -1,0 +1,23 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure"
+  ],
+  "name": "Parkplatz Moos-Rauthhütten",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.34936707644",
+    "longitude": "11.1180902878418"
+  },
+  "description": "Rauthhüttenparkplatz. Gebührenpflichtig.\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ad0cd42f-47fb-4b36-b27a-57fe08b51a4a/99/image.jpg",
+      "caption": "Parkplatz"
+    }
+  ],
+  "url": [
+    "http://www.rauthhuette.at"
+  ]
+}

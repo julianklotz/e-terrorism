@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure"
+  ],
+  "name": "Haus Alpengruss",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Alpengruss",
+    "streetAddress": "Andreas-Hofer-Str. 235",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2626",
+    "faxNumber": "(0043) 5212 262620",
+    "email": "alpengruss@seefeld.at",
+    "url": "http://www.alpengruss-seefeld.at"
+  },
+  "description": "E-Bike Verleih auf Anfrage!\n\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c801ba0b-00c5-492a-95e3-f5b7524c0793/99/image.jpg",
+      "caption": "E-Bike"
+    }
+  ]
+}

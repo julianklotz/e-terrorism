@@ -1,0 +1,707 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "https://www.youtube.com/embed/pZWHIJAaZB4?rel\u003d0",
+    "http://www.interalpen.com",
+    "https://www.youtube.com/embed/3LFbmPoGDlU?rel\u003d0"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Interalpen-Hotel Tyrol GmbH",
+    "streetAddress": "Dr.Hans-Liebherr-Alpenstrasse 1",
+    "addressLocality": "Telfs-Buchen",
+    "postalCode": "6410",
+    "addressCountry": "AT",
+    "telephone": "+4305080930",
+    "faxNumber": "+4305080937190",
+    "email": "reservation@interalpen.com",
+    "url": "http://www.interalpen.com"
+  },
+  "name": "Interalpen-Hotel Tyrol GmbH",
+  "description": [
+    "Interalpen-Hotel Tyrol - Hoch. Genuss. Pur. \nVor der atemberaubende Kulisse von Wetterstein und Karwendel liegt das Interalpen-Hotel Tyrol. Ein Domizil, das darauf ausgerichtet ist, dem Gast das Gefühl für die Kostbarkeiten des Lebens wiederzuschenken. Als Mitglied bei \"The Leading Hotels of the World\" bietet das Hotel ein einzigartiges Ambiente - luxuriös, großzügig, komfortabel und behaglich. Erholung pur finden die Gäste in einem der größten Spabereiche der Alpen auf über 5300 m². Vielseitige Wohlfühl-, Beauty- und Fitnessprogramme verwöhnen die Gäste.",
+    "Kostenlos: reichhaltiges Frühstücksbuffet, Benutzung unseres Spa auf 5.300 m², Highspeed-Internet-Anschluss in den Zimmern, Nutzung der Internetterminals in der Hotelhalle, Stellplatz in unserer Garage, 6-Gang Wahlmenü am Abend und verschiedene Themenabende, Gala-Dinner am Sonntag, Tägliches Aktiv- und Freizeitprogramm.\n",
+    "Anfahrt ab Telfs.\nNehmen Sie die Ausfahrt „Telfs-Ost“ von der Autobahn A12. Den Kreisverkehr verlassen Sie mit der 2. Ausfahrt und gelangen am Ende dieser Straße erneut zu einem Kreisverkehr. Hier nehmen Sie die 1. Ausfahrt folgen dieser Straße bis zur Kreuzung Leutasch – Seefeld/Mösern. Halten Sie sich links in Richtung „Leutasch“. Nach ca. 4,5 km erreichen Sie unsere Einfahrt."
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "reviewCount": "485"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d0a5c2de-546c-4d81-b165-9b45d9edc66e/99/image.jpg",
+      "caption": "Winteransicht im Interalpen-Hptel Tyrol"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/56261c51-fdaa-427d-8f50-5c97736efe26/99/image.jpg",
+      "caption": "Logo 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/19e98200-5a7c-4e11-a5dc-11d3be7acb1f/99/image.jpg",
+      "caption": "Ausblick ins Inntal im Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8af7047e-b1a4-4331-a2d5-6f684b43c509/99/image.jpg",
+      "caption": "Die Umgebung des Interalpen-Hotel Tyrols im Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/891493d8-8f69-4e92-9dba-abbcac7ef008/99/image.jpg",
+      "caption": "Sommeransicht im Interalpen-Hotel Tyrol"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/921a542f-6bee-4f77-b095-b9cd56b63360/99/image.jpg",
+      "caption": "Außenansicht in der Nacht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0c0213b1-6edd-4219-9dc2-bb8586999057/99/image.jpg",
+      "caption": "Aussenpool mit Blick aufs Inntal"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3f8c94d7-16cb-41e4-8369-0dd1238a8c13/99/image.jpg",
+      "caption": "Eingangshalle"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/13af7e3e-4360-4801-a0bd-056c1aa7a183/99/image.jpg",
+      "caption": "Salon Bellevue"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1429a61a-ab47-4d56-93b1-3e8ea9ac2537/99/image.jpg",
+      "caption": "Café Wien"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6dd460de-2262-4e1a-9d6e-89685bc3f3b7/99/image.jpg",
+      "caption": "Die Hofburg im Interalpen-Hotel Tyrol"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/da8f67ec-f0c4-4087-a48c-d32f730b0dcc/99/image.jpg",
+      "caption": "Doppelzimmer Deluxe"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7a054fed-7911-4cf6-a044-fb6f0501c9dd/99/image.jpg",
+      "caption": "Doppelzimmer Deluxe Twin"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7bcdddb9-1fe2-456e-be64-70c32f607c24/99/image.jpg",
+      "caption": "Lodge Deluxe Zimmer Twin"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/73e72fdc-5e27-430a-a009-83f2bd7ba0b3/99/image.jpg",
+      "caption": "A la Carte Restaurant Ambrasstube"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b9d47acc-d89b-48e3-85ce-8dadf35cb9b7/99/image.jpg",
+      "caption": "Das Bad im Tiroler Zimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ea6489da-d99c-4fff-abd7-51c08431c37d/99/image.jpg",
+      "caption": "50 m Panoramapool im Interalpen-Hotel Tyrol"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/79f56404-b5fe-4c19-b96b-f8fd9fcf8c9a/99/image.jpg",
+      "caption": "Hamam"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f497e220-e6ec-4b24-8f6f-d042d357c0d3/99/image.jpg",
+      "caption": "Poolanlage mit Panormablick in die Alpen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d69911b2-cbf7-4eff-a51e-79302d166233/99/image.jpg",
+      "caption": "Die Textilsauna im Interalpen-Hotel Tyrol"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2ad22653-b418-4ec4-a1c9-baf280a8e509/99/image.jpg",
+      "caption": "Indischer Kopfguss"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b20f21de-2c28-4814-ae7a-cefef170d811/99/image.jpg",
+      "caption": "Individual Massage"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/816ecf83-335c-4b50-b0b4-bb2833445e85/99/image.jpg",
+      "caption": "Der Chef´s Table im Interalpen-Hotel Tyrol"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8764ef5d-f615-4af2-8334-1148dd1f8f8e/99/image.jpg",
+      "caption": "Der Küchenchef beim Anrichten"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5bfb1451-0fb2-45dd-ad81-132f9dd33558/99/image.jpg",
+      "caption": "Rote Beete-Butter mit Duftrosenblüten und Fichtenn"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/612e8f8c-5b8b-4b9c-af14-785e71e8fb8c/99/image.jpg",
+      "caption": "Die Loipen im Leutaschtal"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/17cc766f-ed95-4281-b812-35021ae9ab43/99/image.jpg",
+      "caption": "Langlaufen in der Umgebung des Hotels"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/76612c51-30a9-42e0-8e56-efabe26994f0/99/image.jpg",
+      "caption": "Skifahren auf der Rosshütte"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e62c5106-81b2-4aa9-9740-6ed2678918c6/99/image.jpg",
+      "caption": "Die Rosshütte in Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c621bd63-337f-4d9f-90ae-799aaa57eb42/99/image.jpg",
+      "caption": "Wandern im Gaistal"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c1e8ffc4-5993-4c0b-8ff6-0611ba4ceb9e/99/image.jpg",
+      "caption": "Der Alpengarten"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6a876d6f-4d08-45f7-a945-8b31b5b59e2d/99/image.jpg",
+      "caption": "Mountainbiken"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/57597c28-691c-4441-819f-9924a00ffc0f/99/image.jpg",
+      "caption": "E-Biken"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7f68fd4e-866f-4d7f-a00c-5d6d62435d61/99/image.jpg",
+      "caption": "Cabrio Days im Interalpen-Hotel Tyrol"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3325405921593",
+    "longitude": "11.1112976074219"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche und Bad, WC",
+      "description": "Unsere Leistungen:\n \n•       3 Übernachtungen im Premium Zimmer (45 m²)\n•\t1 Softpack Nachtkerzenöl oder Cleopatra in der Schwebeliege (35 Minuten)\n•\t1 Individual Massage (25 Minuten)\n•\t1 Fußreflexzonenmassage (25 Minuten)\n•\tInklusive aller Leistungen des Interalpen-Standards\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Premium Doppelzimmer (45 m²) mit Dusche, Bad, WC",
+          "description": "ca. 45 m²\n\nSchlafraum mit einem Doppelbett, Wohnbereich, Bad mit Dusche.",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "3 Tage Golf Spezial",
+          "description": "Das Green mit Alpenblick: Der Golfplatz Seefeld-Wildmoos gilt unter Kennern als purer 18-Loch-Naturgenuss. Sein abwechslungsreicher Kurs führt durch eine idyllische Almlandschaft, am Horizont umrahmt von majestätischen Gipfeln. Gäste des Interalpen-Hotel Tyrol sind hier gerne willkommen und erhalten 30 % Ermäßigung auf die reguläre Greenfee. Gerne bieten wir einen direkte\n\n* 1 Tiroler Steinölbad\n* 1 Individual-Massage (25 Minuten)\n* Greenfee für Seefeld-Wildmoos (2)\n* 3 Übernachtung im Appartement Typ 2 (68 m2)\n* Inklusive aller Leistungen des Interalpen-Standard\n",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "3 Tage Wintergenuss pur im Interalpen-Hotel Tyrol",
+          "description": "Unsere Leistungen:\n\n    - 3 Übernachtungen im Premiumzimmer (45 m²) \n    - 1 romantische Pferdeschlittenfahrt durch das Wildmoosgebiet (90 min.)\n    - 1 Schneeschuh-, oder Winterwanderung in Begleitung eines Führers(90 min)\n    - 1 Alpines Wannenbad nach Wahl (15 min.)\n    - 1 Hüttenabend \n    - (sollte die Hütte geschlossen sein, wird ein Fondueabend im Hotel angeboten)\n    - Inklusive aller Leistungen des Interalpen-Standards",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Relax Pur",
+          "description": "Unsere Leistungen:\n\n- 3 Übernachtungen im Premium Zimmer (45 m²)\n- 1 Softpack Nachtkerzenöl oder Cleopatra in der Schwebeliege (35 Minuten)\n- 1 Individual Massage (25 Minuten)\n- 1 Fußreflexzonenmassage (25 Minuten)\n- Inklusive aller Leistungen des Interalpen-Standards\n",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "RP, Premium Doppelzimmer (45 m²) mit Dusche, Bad, ",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "249.00",
+          "maxPrice": "9999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "212.00",
+          "maxPrice": "250.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "780.00",
+          "maxPrice": "780.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "780.00",
+          "maxPrice": "780.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "780.00",
+          "maxPrice": "780.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "870.00",
+          "maxPrice": "870.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "723.00",
+          "maxPrice": "723.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "863.00",
+          "maxPrice": "863.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "697.00",
+          "maxPrice": "697.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "909.00",
+          "maxPrice": "985.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "729.00",
+          "maxPrice": "805.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche und Bad, WC",
+      "description": "Ca. 68 m².\nSchlafraum mit Doppelbett, überwiegend Zweitschlafraum mit einem Bett, Ankleidezimmer, Wohnbereich mit Kachelofen, Bad mit Badewanne und separater Dusche, WC, Farbfernseher, Radio, Minibar, Zimmersafe, Balkon.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Deluxe Doppelzimmer (68 m²), Dusche, Bad, WC",
+          "description": "ca. 68 m²\n\nSchlafraum mit einem Doppelbett, überwiegend Zweitschlafraum mit einem Bett, Ankleidezimmer, Wohnbereich mit Kachelofen, Bad mit Badewanne und separater Dusche.",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Langlauf Schnupperpackage",
+          "description": "Unsere Leistungen:\n\n   - 3 Übernachtungen im Doppelzimmer Deluxe (68 m²)\n   - Loipenpass für die Olympiaregion Seefeld\n   - Leihskier und -schuhe für 3 Tage\n   - 2 Trainerstunden (vormittags oder nachmittags)\n   - 1 Individualmassage (50 min)\n   - Inklusive aller Leistungen des Interalpen-Standard\n\n\n",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Relax Pur",
+          "description": "Unsere Leistungen:\n\n   - 1 Individualmassage (50 Minuten)\n   - 1 Fußreflexzonenmassage\n   - 1 Wannenbad nach Wahl\n    (außer plasmaorientiertes Salzbad, 15 Minuten)\n   - 3 Übernachtungen im Deluxe Zimmer Double (68 m²)\n   - Inklusive aller Leistungen des Interalpen-Standard\n",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Ski Alpin",
+          "description": " Unsere Leistungen:\n\n    - 3 Übernachtungen im Doppelzimmer Deluxe (68 m²)\n    - 2 Tageskarten für das Skigebiet Rosshütte/Seefeld oder das Skigebiet\n      Gschwandtkopf/Seefeld   \n    - 1 Individual-Massage (50 Minuten)\n    - Inklusive aller Leistungen des Interalpen-Standard\n",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "3 Tage Golf Spezial",
+          "description": "Unsere Leistungen:\n\n    - 1 Tiroler Steinölbad\n    - 1 Individual Massage (25 Minuten)\n    - 2 x Greenfee für Seefeld-Wildmoos oder Golfpark Mieming\n    - 3 Übernachtungen im Deluxe Zimmer Double (68 m²)\n    - Inklusive aller Leistungen des Interalpen-Standard\n",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "7 Tage Golf Special",
+          "description": " Unsere Leistungen:\n\n   - 1 Tiroler Steinölbad\n   - 1 Individual Massage (25 Minuten)\n   - 4 x Greenfee für Seefeld-Wildmoos oder Golfpark Mieming\n   - 7 Übernachtungen im Deluxe Zimmer Double (68 m²)\n   - Inklusive aller Leistungen des Interalpen-Standard\n",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Ski Alpin Kinder",
+          "description": " Unsere Leistungen:\n\n    - 3 Übernachtungen im Deluxe Zimmer Double (68 m²)\n    - 2 Tageskarten Seefeld Rosshütte oder Seefeld Gschwandkopf (je nach Können)\n    - 2 Tage Skikurs (8 Std. inkl. Mittagsbetreuung)\n    - 1 Massage (25 min)\n    - Alle Leistungen des Interalpen-Standard\n\nAchtung: Package gilt nur für Kinder von 7 bis 14 Jahren, wenn die Kinder im Zimmer der Eltern übernachten! Kinder unter 6 Jahren zahlen nur den Skikurs und die Liftkarten.\n\n",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "\"Bitte nicht stören\"",
+          "description": "Unsere Leistungen:\n\n    - 3 Übernachtungen im Doppelzimmer Deluxe (68 m²)\n    - 1 Tiroler Präsentkorb und 1 Flasche Champagner bei Anreise auf Ihrem   \n      Zimmer                                  \n    - 1 romantische Pferdekutschenfahrt durch das Wildmoosgebiet (90 Minuten)\n    - 1 Alpine Körperpackung mit Massage pro Person (75 Minuten)\n    - Optional servieren wir das Frühstück oder Abendessen ohne Aufpreis auf dem\n      Zimmer \n    - Inklusive aller Leistungen des Interalpen-Standards",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/77a8fd75-c34f-4436-968d-07da8b0df64c/99/image.jpg",
+              "caption": "Bitte nicht stören"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "BNS, Deluxe Doppelzimmer (68 m²), Dusche, Bad, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "300.00",
+          "maxPrice": "9999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "240.00",
+          "maxPrice": "282.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "973.00",
+          "maxPrice": "973.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "868.00",
+          "maxPrice": "868.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "753.00",
+          "maxPrice": "753.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "1039.00",
+          "maxPrice": "1039.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "859.00",
+          "maxPrice": "859.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "1024.00",
+          "maxPrice": "1024.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "844.00",
+          "maxPrice": "844.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "1616.00",
+          "maxPrice": "1616.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "1616.00",
+          "maxPrice": "1616.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "1616.00",
+          "maxPrice": "1616.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "1374.00",
+          "maxPrice": "1374.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "987.00",
+          "maxPrice": "987.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "821.00",
+          "maxPrice": "821.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "1108.00",
+          "maxPrice": "1184.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "859.00",
+          "maxPrice": "934.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche und Bad, WC, 2 Schlafräume",
+      "description": "ca. 78 m²\n\nSchlafraum mit zwei Betten, Zweitschlafraum mit ein bis zwei\nBetten, Ankleidezimmer, Wohnbereich\nmit Kachelofen, Bad mit\nBadewanne und separater Dusche, Bidet.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Deluxe Zimmer Twin (78 m²) 2 Schlafzimmer",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "2"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "310.00",
+          "maxPrice": "9999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "250.00",
+          "maxPrice": "293.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

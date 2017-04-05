@@ -1,0 +1,18 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Residenz Berghof - Appartements Cordier",
+    "streetAddress": "Brochweg 9 / Top 5 und Top 9",
+    "addressLocality": "Mösern bei Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0049) 151 645 9262",
+    "email": "e.cordier@gmx.at"
+  },
+  "name": "ZW - Cordier Emil",
+  "currenciesAccepted": "EUR"
+}

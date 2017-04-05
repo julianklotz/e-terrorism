@@ -1,0 +1,83 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Lück",
+    "streetAddress": "Innsbruckerstraße 27",
+    "addressLocality": "Scharnitz",
+    "postalCode": "6108",
+    "addressCountry": "AT",
+    "telephone": "+491781652457",
+    "email": "LuckyLueck@ymail.com"
+  },
+  "name": "Haus Lück",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4c8a8707-efc4-4a04-8c2b-e6f0ed21aacc/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/73a8918e-d9dd-4cb7-b849-baa80ccef1d9/99/image.jpg",
+      "caption": "Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3904266319847",
+    "longitude": "11.2643632669342"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "69.00",
+          "maxPrice": "69.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "69.00",
+          "maxPrice": "69.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "79.00",
+          "maxPrice": "79.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

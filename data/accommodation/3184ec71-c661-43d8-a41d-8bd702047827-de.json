@@ -1,0 +1,89 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.appartement-haus-winkler.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Winkler",
+    "streetAddress": "Am Klosterwald 662",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 4282",
+    "faxNumber": "(0043) 5212 4282",
+    "email": "haus.winkler@seefeld-in-tirol.net",
+    "url": "http://www.appartement-haus-winkler.at"
+  },
+  "name": "Haus Winkler",
+  "description": [
+    "Unser Haus liegt am Klosterwald in ruhiger Lage mit wundeschöner Aussicht, 10 Gehminuten vom Ortszentrum. Ein kostenloser Shuttlebus, der alle 45 Minuten bis zur Fußgängerzone verkehrt, hält direkt vor dem Haus. Die beiden Wohnungen befinden sich im Parterre,  davor ein kleiner Garten. Pro Wohnung ist ein Autoabstellplatz vorhanden.",
+    "INKLUSIVE: Heizung, Wasser, Bett- und Tischwäsche, Autoabstellplatz, Handtücher, Strom, W-Lan\n"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e998a804-faf7-41a1-91e6-067a1f73c90e/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b99406e3-d702-4a6d-8be6-a80bf2063b10/99/image.jpg",
+      "caption": "Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3330786718831",
+    "longitude": "11.1783957481384"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartment B : 1 Wohnraum, 1 Schlafraum, Dusche/WC",
+          "description": "Freundliche Ferienwohnung für max. 4 Personen. Mit Wohnzimmer, 1 Schlafzimmer mit Doppelbetten, Küche, und Dusche WC.\nIm Wohnzimmer eine einzel ausziehbare Doppelschlafchouch.",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement A: 1 Wohnraum,2 Schlafräume,2 DuscheWC",
+          "description": "Große Ferienwohnung für max. 6 Personen. Mit Wohnzimmer, 2 Schlafzimmern mit Doppelbetten, Küche, und 2 mal Dusche WC.\nIm Wohnzimmer eine einzel ausziehbare Doppelschlafchouch.",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ]
+    }
+  ]
+}

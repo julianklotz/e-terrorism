@@ -1,0 +1,48 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "Sommererlebnis - Meditative Wanderung",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Informationsbüro Leutasch",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Weidach 320",
+      "addressLocality": "Leutasch",
+      "postalCode": "6105",
+      "addressCountry": "AT",
+      "telephone": "+43-50880510",
+      "faxNumber": "+43-50880811",
+      "email": "info.leutasch@seefeld.com",
+      "url": "http://www.seefeld.com"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Informationsbüro Leutasch",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Weidach 320",
+      "addressLocality": "Leutasch",
+      "postalCode": "6105",
+      "addressCountry": "AT",
+      "telephone": "+43-50880510",
+      "faxNumber": "+43-50880811",
+      "email": "info.leutasch@seefeld.com",
+      "url": "http://www.seefeld.com"
+    }
+  },
+  "description": "Welche sind die Erlebnisse, die im Herzen einen Platz finden? Wo und wie haben wir diesen Reichtum dieses ursprünglichen Erlebens gespürt?\nKomm mit auf eine spannende Reise! \nDauer: ca. 2,5 Std. max. 15 Teilnehmer möglich. Mehr Info: www.seefeld.com/erlebnisse\nDie Teilnahme an der geführten Wanderung ist mit der Olympiaregion Seefeld Card KOSTENLOS!\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e998a7c1-eee2-4a2d-8d92-008e76711f62/99/image.jpg",
+      "caption": "medi"
+    }
+  ],
+  "startDate": "2017-05-31T14:00:00",
+  "endDate": "2017-10-01"
+}

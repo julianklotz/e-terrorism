@@ -1,0 +1,78 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.villa-karlsruhe.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Villa Karlsruhe",
+    "streetAddress": "Maximilianweg 155",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "0043 5212 2703",
+    "email": "villa-karlsruhe@aon.at",
+    "url": "https://www.villa-karlsruhe.at"
+  },
+  "name": "Villa Karlsruhe",
+  "description": [
+    "Urlaub genießen - in der komfortablen, hellen und bestausgestatteten Ferienwohnung der Villa Karlsruhe, einem der schönsten Häuser in Seefeld, komplett renoviert im Jahre 2000, mitten im Zentrum und doch in ruhiger Lage idyllisch am Hügel gelegen, mit herrlichem Ausblick auf Natur und Gebirge - ein Geheimtipp für´s ganze Jahr!",
+    "Inklusive: Heizung, Strom, Wassser, Autoabstellplatz\n",
+    "Unser Haus erreichen Sie, indem Sie den Weg zum Olympia Sport-und Kongresszentrum nehmen, bei der Einmündung in die Fußgängerzone beim Gasthof Batzenhäusl führt der Weg schräg rechts hinauf direkt zum gelben Haus Villa Karlsruhe"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/514145d0-b82a-46a2-a256-0f2567509ec2/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/27666ad6-714b-4f1a-bfce-f8e8cbd38786/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/fb9defbf-9c6e-42a7-906e-2a175c1ccff8/99/image.jpg",
+      "caption": "Sommer2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/44ed1b67-4f53-4dff-bb5b-6c864eafa1d7/99/image.jpg",
+      "caption": "Winter2"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3281048612452",
+    "longitude": "11.1845541000366"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 2 Schlafräume",
+      "description": "Komfortable, helle Dreizimmerwohnung, 75 qm, großer Wohnraum, Küche, 2 getrennte Schlafzimmer, Bad, Dusche, 2 WC, 2 Balkone, SAT-TV, Radio, Safe, Geschirrspüler, Mikrowelle.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/2 Schlafräume/Dusche, Bad, WC",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

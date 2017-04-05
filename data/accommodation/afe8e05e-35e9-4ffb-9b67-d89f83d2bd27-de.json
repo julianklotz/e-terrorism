@@ -1,0 +1,605 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.edelweiss-tirol.eu",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Gästehaus Edelweiss",
+    "streetAddress": "Buntsteig 14",
+    "addressLocality": "Reith bei Seefeld",
+    "postalCode": "6103",
+    "addressCountry": "AT",
+    "telephone": "0043 5212 3759",
+    "email": "info@edelweiss-tirol.eu",
+    "url": "http://www.edelweiss-tirol.eu"
+  },
+  "name": "Gästehaus Edelweiss",
+  "description": [
+    "Herzlich Willkommen im \"Edelweiss\"!\n\nFür die schönsten Tage im Jahr haben Sie sich das richtige Ziel ausgesucht!\nUnser Haus in ruhiger, sonniger Südlage bietet neu errichtete und bestens ausgestattete Ferienwohnungen für 1 bis 7 Personen.\nGenießen Sie Ihren Urlaub im Kreise der Familie oder nutzen Sie unseren rustikal eingerichteten Aufenthaltsraum, der Platz für 50 Personen bietet.\nHier können Sie Bekanntschaften pflegen oder einfach nur einen netten Abend verbringen.\nReisegruppen bis 30 Personen willkommen!\n\nOb Sie Ruhe und Erholung im beschaulichen Reith oder Spaß und Unterhaltung im mondänen Seefeld suchen – bei uns liegen Sie immer richtig!\n\nEinen erholsamen Urlaub wünscht\n\nIhre Familie Stingl",
+    "Preise inklusive Kurtaxe (EUR 2,80 pro Person und Nacht) und inklusive Endreinigung (EUR 35,00 bis EUR 50,00).\nGarage auf Anfrage!\nHaustiere auf Anfrage!",
+    "Check-in zwischen 13.00 h und 17.00h\nCheck-out bitte bis spätestens 10.00 h",
+    "Ferienwohnung, Olympiaregion, Seefeld\nApartment, Tyrol, Tirol\nAppartamento, appartement\nÖsterreich"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2153d630-4007-486e-865e-915e440e6772/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/eb601da8-c113-4919-81ae-2005523d5ea5/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2dcd8887-40ea-4c1d-a85b-0b5d7124ca4d/99/image.jpg",
+      "caption": "Gästehaus Edelweiss Reith bei Seefeld Eingang"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5d81061d-8e32-4111-8d7d-c8fa97c4489f/99/image.jpg",
+      "caption": "Gästehaus Edelweiss Reith bei Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/17de2608-cdd4-4769-8a2d-2dfa82c5116e/99/image.jpg",
+      "caption": "Gästehaus Edelweiss Reith bei Seefels Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/90d3a5bf-c69e-46a4-b44d-7d01aa5438b9/99/image.jpg",
+      "caption": "Gästehaus Edelweiss Reith bei Seefeld Aussicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/295bb7b0-5d9e-4b5e-8957-11c8ebfb165b/99/image.jpg",
+      "caption": "Gästehaus Edelweiss Reith bei Seefeld Aussicht WI"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5cdb6d04-938e-4542-9f4b-74b91a273f44/99/image.jpg",
+      "caption": "Gästehaus Edelweiss Reith bei Seefeld Aussicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3a531803-9e47-487a-8b99-1686a7d0d41b/99/image.jpg",
+      "caption": "Gästehaus Edelweiss Reith bei Seefeld Bergblick"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ae98bf90-46d2-4392-a076-717703969cc7/99/image.jpg",
+      "caption": "Sommeransicht Reithb bei Seefeld"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.309577309056",
+    "longitude": "11.199141394272"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Das mit Dusche und WC ausgestattete Doppelzimmer \nist durch einen offenen Durchgang mit dem gemütlichen Wohnbereich verbunden.\nHier finden Sie Küche, Essplatz und SAT-TV.\nSüdseitig gelegene Sonnenterrasse (inkl. Gartenmöbel) und Balkon!\nPREISE INKLUSIVE BETTWÄSCHE, HANDTÜCHER, INTERNETZUGANG, KURTAXE UND ENDREINIGUNG!\nAutoabstellplatz wird zugeteilt, Garage gegen Gebühr möglich!",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Top 1 Apartment/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "28.00",
+          "maxPrice": "28.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "55.00",
+          "maxPrice": "55.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Die südseitig gelegene 2-Zimmer-Wohnung mit Balkon \nbesteht aus einem kleinen Einbettzimmer sowie dem gemütlichen Wohnbereich.\nHier finden Sie außerdem Küche, Essplatz, ausziehbares Tagesbett (2 X 200/90) und SAT-TV.\nEin großzügiges Badezimmer mit Dusche und WC rundet das Erscheinungsbild ab.\nPREISE INKLUSIVE BETTWÄSCHE, HANDTÜCHER, INTERNETZUGANG, KURTAXE UND ENDREINIGUNG!\nAutoabstellplatz wird zugeteilt, Garage gegen Gebühr möglich!",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Top 2 Apartment/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "33.00",
+          "maxPrice": "33.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "55.00",
+          "maxPrice": "55.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "75.00",
+          "maxPrice": "75.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Die südseitig gelegene 2-Zimmer-Wohnung mit Balkon besteht aus einem Doppelzimmer mit Dusche/WC sowie dem hellen Wohnbereich.\nHier finden Sie außerdem Küche, Essplatz, Sofa mit Bettfunktion und SAT-TV.\nPREISE INKLUSIVE BETTWÄSCHE, HANDTÜCHER, INTERNETZUGANG, KURTAXE UND ENDREINIGUNG!\nAutoabstellplatz wird zugeteilt, Garage gegen Gebühr möglich!",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Top 3 Apartment/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "33.00",
+          "maxPrice": "70.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "60.00",
+          "maxPrice": "70.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "75.00",
+          "maxPrice": "75.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "85.00",
+          "maxPrice": "85.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Die 2-Zimmer-Wohnung besteht aus einem Doppelzimmer mit Dusche/WC sowie dem gemütlichen Wohnbereich.\nHier finden Sie außerdem Küche, Essplatz, Sofa mit Bettfunktion und SAT-TV.\nPREISE INKLUSIVE BETTWÄSCHE, HANDTÜCHER, INTERNETZUGANG, KURTAXE UND ENDREINIGUNG!\nAutoabstellplatz wird zugeteilt, Garage gegen Gebühr möglich!",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Top 4 Apartment/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "28.00",
+          "maxPrice": "28.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "55.00",
+          "maxPrice": "55.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "65.00",
+          "maxPrice": "65.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "75.00",
+          "maxPrice": "75.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Das mit Dusche und WC ausgestattete Doppelzimmer ist durch einen offenen Durchgang mit dem gemütlichen Wohnbereich verbunden.\nHier finden Sie Küche, Essplatz, Sofa mit Bettfunktion und SAT-TV.\nBalkon!\nPREISE INKLUSIVE BETTWÄSCHE, HANDTÜCHER, INTERNETZUGANG, KURTAXE, Betriebskosten und ENDREINIGUNG!\nAutoabstellplatz wird zugeteilt, Garage gegen Gebühr möglich!",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Top 5 Apartment/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "28.00",
+          "maxPrice": "28.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "55.00",
+          "maxPrice": "55.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "65.00",
+          "maxPrice": "65.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "75.00",
+          "maxPrice": "75.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Die südseitig gelegene 2-Zimmer-Wohnung mit Balkon besteht aus einem geräumigen Doppelzimmer sowie dem gemütlichen Wohnbereich.\nHier finden Sie außerdem Küche, Essplatz, Sofa mit Bettfunktion und (in beiden Räumen) SAT-TV.\nEin schönes Badezimmer mit Dusche und WC rundet das Erscheinungsbild ab.\nPREISE INKLUSIVE BETTWÄSCHE, HANDTÜCHER, INTERNETZUGANG, KURTAXE UND ENDREINIGUNG!\nAutoabstellplatz wird zugeteilt, Garage gegen Gebühr möglich!",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Top 6 Apartment/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "33.00",
+          "maxPrice": "70.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "60.00",
+          "maxPrice": "70.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "75.00",
+          "maxPrice": "75.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "85.00",
+          "maxPrice": "85.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Die südseitig gelegene 2-Zimmer-Wohnung mit Balkon besteht aus einem geräumigen Doppelzimmer sowie dem gemütlichen Wohnbereich.\nHier finden Sie außerdem Küche, Essplatz, Sofa mit Bettfunktion und (in beiden Räumen) SAT-TV.\nEin schönes Badezimmer mit Dusche und WC rundet das Erscheinungsbild ab.\nPREISE INKLUSIVE BETTWÄSCHE, HANDTÜCHER, INTERNETZUGANG, KURTAXE UND ENDREINIGUNG!\nAutoabstellplatz wird zugeteilt, Garage gegen Gebühr möglich!",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Top 7 Apartment/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "33.00",
+          "maxPrice": "70.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "60.00",
+          "maxPrice": "70.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "75.00",
+          "maxPrice": "75.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "85.00",
+          "maxPrice": "85.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Die 2-Zimmer-Wohnung besteht aus einem Doppelzimmer sowie dem gemütlichen Wohnbereich. \nHier finden Sie außerdem Küche, Essplatz und SAT-TV (in beiden Räumen).\nEin großzügiges Badezimmer mit Dusche und WC rundet das Erscheinungsbild ab.\nPREISE INKLUSIVE BETTWÄSCHE, HANDTÜCHER, INTERNETZUGANG, KURTAXE, BETRIEBSKOSTEN UND ENDREINIGUNG!\nAutoabstellplatz wird zugeteilt, Garage gegen Gebühr möglich!",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Top 8 Apartment/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "28.00",
+          "maxPrice": "28.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "55.00",
+          "maxPrice": "55.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "Die 3-Zimmer-Wohnung mit Balkon besteht aus einem Doppelzimmer (mit Dusche und WC),\neinem Dreibettzimmer (ebenfalls mit Dusche und WC) sowie dem gemütlichen Wohnbereich.\nHier finden Sie außerdem Essplatz, Sofa mit Bettfunktion und SAT-TV.\nSeparate Küche mit E-Herd, Backrohr, Geschirrspülmaschine, etc.!\nPREISE INKLUSIVE BETTWÄSCHE, HANDTÜCHER, INTERNETZUGANG, KURTAXE, BK UND ENDREINIGUNG!\nAutoabstellplatz wird zugeteilt, Garage gegen Gebühr möglich!",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Top 9 Apartment/2 Schlafräume/Dusche, WC",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "7",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "60.00",
+          "maxPrice": "70.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "80.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "85.00",
+          "maxPrice": "90.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "100.00",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "110.00",
+          "maxPrice": "115.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "125.00",
+          "maxPrice": "125.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 7",
+          "minPrice": "140.00",
+          "maxPrice": "145.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "Die 3-Zimmer-Wohnung mit Balkon besteht aus 2 Doppelzimmern, die jeweils mit Dusche und WC ausgestattet sind \nsowie dem gemütlichen Wohnbereich.\nHier finden Sie außerdem Essplatz, Sofa mit Bettfunktion und SAT-TV.\nSeparate Küche mit Ceranherd, Backrohr, etc.!\nPREISE INKLUSIVE BETTWÄSCHE, HANDTÜCHER, INTERNETZUGANG, KURTAXE, BETRIEBSKOSTEN UND ENDREINIGUNG!\nAutoabstellplatz wird zugeteilt, Garage gegen Gebühr möglich!",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Top 10 Apartment/2 Schlafräume/Dusche,WC",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "7",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "60.00",
+          "maxPrice": "70.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "80.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "85.00",
+          "maxPrice": "90.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "100.00",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "110.00",
+          "maxPrice": "115.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "125.00",
+          "maxPrice": "125.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 7",
+          "minPrice": "140.00",
+          "maxPrice": "145.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

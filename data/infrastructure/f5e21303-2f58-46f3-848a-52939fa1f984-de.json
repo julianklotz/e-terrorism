@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Landform",
+    "Hostel"
+  ],
+  "name": "Pleisenhütte",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3944727950877",
+    "longitude": "11.3284090161324"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Pleisenhütte",
+    "streetAddress": "Hinterautalstr. 483",
+    "addressLocality": "Scharnitz",
+    "postalCode": "6108",
+    "addressCountry": "AT",
+    "telephone": "+4352135571"
+  },
+  "description": "Übernachtungsmöglichkeit für 35 Personen, Stempelstelle, Panoramablick\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/116ab671-4728-4aae-a9a7-2b43fc9706a4/99/image.jpeg",
+      "caption": "Pleisenhütte Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/be03c823-32a3-4715-b57d-4d0313625eae/99/image.jpeg",
+      "caption": "Pleisenhütte Winter"
+    }
+  ]
+}

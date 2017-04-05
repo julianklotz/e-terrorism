@@ -1,0 +1,15 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Weidach 364",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT"
+  },
+  "name": "ZW-Neunteufeul, Rainer",
+  "currenciesAccepted": "EUR"
+}

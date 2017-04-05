@@ -1,0 +1,30 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation"
+  ],
+  "name": "Skiset Depot, Ski-Depot",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Skiset Depot",
+    "streetAddress": "Münchner Str. 487 (neben Apotheke)",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 05212 2107",
+    "email": "mail@skirental.at",
+    "url": "http://www.skirental.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/81be0f84-e7fd-4744-8b48-face38890fdf/99/image.jpg",
+      "caption": "Logo"
+    }
+  ]
+}

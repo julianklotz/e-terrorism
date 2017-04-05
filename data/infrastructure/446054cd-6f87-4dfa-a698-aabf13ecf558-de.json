@@ -1,0 +1,48 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant",
+    "CafeOrCoffeeShop"
+  ],
+  "name": "Strandperle Seefeld",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3225051279942",
+    "longitude": "11.1924397945404"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Strandperle Seefeld",
+    "streetAddress": "Innsbrucker Str. 500",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2436",
+    "email": "info@strandperle.at",
+    "url": "http://www.strandperle.at"
+  },
+  "description": [
+    " ",
+    "Sitzplätze für ca. 50 Personen\n\nKöstliche Speisen mit Niveau:\nSaisonale Highlights und Klassiker einmal überraschend anders, viel Frisches aus dem Wasser, mediterrane und heimische Gustostücke - all das hat der Küchenchef zu bieten. Ein ausgedehnter Lunch oder ein exklusives Dinner sind hier zu jeder Jahreszeit ein Hochgenuss. Auch für den kleinen Hunger zwischendurch, für einen raschen Einkehrschwung mit der ganzen Familie, oder für einen gemütlichen Nachmittagskaffee mit hausgemachten Kuchen und Torten ist die Strandperle ideal. Hervorragende Qualität, kreative Kochkunst und ein wunderbares Ambiente machen jeden Besuch in der Strandperle zu einem unvergesslichen Erlebnis. \nUnvergessliche Abende:\nWenn sich der idyllische Wildsee in sein abendliches Gewand hüllt, erwacht die Strandperle zu einem gastlichen Juwel für Kenner. In der atmosphärischen Restaurant-Bar genießt man professionell zubereitete Cocktails, erlesene Weine und Premium Quality Spirituosen.\nBei angenehmer musikalischer Untermalung flackert im Winter ein Kaminfeuer, trägt im Sommer ein lauer Abendwind den Duft des Sees durch die offenen Terrassentüren. Ob alleine, zu zweit oder in gemütlicher Geselligkeit, hier findet jeder Tag zu jeder Jahreszeit seinen perfekten Ausklang."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7013258b-7353-4550-9391-62efc82245f3/99/image.jpg",
+      "caption": "Strandperle Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4141915e-7261-4251-9e95-35fc712f69d8/99/image.jpg",
+      "caption": "Strandperle Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/bd613e75-79de-4dc8-83d7-fcd6fce6e745/99/image.jpg",
+      "caption": "Strandperle"
+    }
+  ],
+  "url": [
+    "http://www.strandperle.at"
+  ]
+}

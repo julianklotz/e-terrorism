@@ -1,0 +1,56 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "Öffentlich zugänglicher Seefelder Bergkräuter Garten",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Hotel Olympia \u0026 Herbs",
+    "employee": {
+      "@type": "Person",
+      "givenName": "Manuela",
+      "familyName": "Walzl"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Milserstr. 433",
+      "addressLocality": "Seefeld",
+      "postalCode": "6100",
+      "addressCountry": "AT",
+      "telephone": "(0043) 5212 2334",
+      "faxNumber": "(0043) 5212 4470 ",
+      "email": "info@hotelolympia-seefeld.at",
+      "url": "http://www.hotelolympia-seefeld.at"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Hotel Olympia \u0026 Herbs",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Milserstr. 433",
+      "addressLocality": "Seefeld",
+      "postalCode": "6100",
+      "addressCountry": "AT",
+      "telephone": "(0043) 5212 2334",
+      "faxNumber": "(0043) 5212 4470 ",
+      "email": "info@hotelolympia-seefeld.at",
+      "url": "http://www.hotelolympia-seefeld.at"
+    }
+  },
+  "description": "Die Kräuterkundige und Hotelierin Manuela Walzl befasst sich seit vielen Jahren mit Kräuterkunde und damit, dass Heilkräuterkunde bis zur Ebene lebenslangen Lernens ein spannendes Gebiet ist. Das Herz des Kräuterhotels ist ein hoteleigener und zugleich öffentlicher Kräutergarten. Ob Seefelder Wildpflanzen essbar sind, oder welche essbaren Berg- und Gartenkräuter es gibt, erfahren Sie hier beim genauen Hinschauen und Entdecken im Seefelder Bergkräuter-Garten. Bei Interesse: Hotel Olympia \u0026 Herbs***, Milserstraße 433, 6100 Seefeld, Tel.: 05212/2334, www.hotelolympia-seefeld.at/index.php/Kraeuterhotel_Gesundheitsurlaub_in_Tirol.html.\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9d1c5cc1-2fbe-4b1f-95e3-9cb9cbc607e5/99/image.jpg",
+      "caption": "Kräutergarten"
+    }
+  ],
+  "url": [
+    "http://www.hotelolympia-seefeld.at"
+  ],
+  "startDate": "2017-06-05T09:00:00",
+  "endDate": "2017-09-10"
+}

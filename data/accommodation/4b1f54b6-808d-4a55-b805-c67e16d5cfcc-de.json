@@ -1,0 +1,225 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.hausmargit.info",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Margit",
+    "streetAddress": "Ostbach 12",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6546",
+    "faxNumber": "(0043) 5214 65464",
+    "email": "info@hausmargit.info",
+    "url": "http://www.hausmargit.info"
+  },
+  "name": "Haus Margit",
+  "description": [
+    "Ruhig,im sonnigen Ortsteil Ostbach am Waldesrand sind unsere 3 geräumigen, mit allem Komfort ausgestatteten Wohnungen für 2-6 Personen. (60 bis 86 m2 groß) mit einem wunderschönen Rundblick auf Hohe Munde und Wettersteingebirge und einer 1000 m2 großen Liegewiese mit Gartenmöbeln, wo Sie herrlich ausspannen können.Die Wohnungen sind mit hellen Vollholzmöbeln und Parkettböden sehr gemütlich und bestens ausgestattet,Geschirrspüler,WIFI-WLAN frei. Zwei unserer Wohnungen haben 2 Schlafzimmer, 2 Duschen und 2 WC\u0027s. Großer breiter Balkon mit Liegestühlen oder eigene Terrasse mit Gartenmöbeln(nur für FEWO Ostbach). Im Winter direkt an der Loipe und im Sommer sehr guter Ausgangspunkt für Wanderungen und Radtouren. Wir würden uns sehr freuen,wenn wir Sie als Gäste begrüßen könnten.Ihre Fam.Neuner",
+    "Inklusive:\nganzjährige Heizung, gratis W-LAN bzw. WI-FI,  kostenlose überdachte Autoabstellplätze, gratis Fahrradverleih (Scott-Mountain- und Citybikes 24 Gänge und auch 1 Kinderrad mit 21 Gängen), Rodelverleih (1 und 2 Sitzer, auch mit Kinderlehne), gratis Eintritt ins neue Leutascher Erlebnisbad. (Mai-Oktober) \nExklusive:\nTelefon und Kurtaxe.",
+    "Von Mittenwald bzw. Seefeld:\nFolgen Sie den Wegweisern Richtung Telfs - zum Ortsteil Ostbach, unser Haus Margit ist das vierte Haus auf der linken Seite, schräg gegenüber ist das Alpenhotel Karwendel.\nVon Telfs: Bis Leutasch - Ortsteil Ostbach- das 1.Haus rechts"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0b6c9f7b-d6e1-48f8-bd04-887656d20b91/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c2d3e235-67ad-41b3-98e2-b1e9124cacea/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/423844cd-b32d-4596-875b-b9e82af8ade7/99/image.jpg",
+      "caption": "Aussicht Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1306627a-0dbd-43dc-bd5d-e24cd2c1199e/99/image.jpg",
+      "caption": "Carport"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.358770780964",
+    "longitude": "11.133844137096"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Mit hellen Vollholzmöbeln und Parkettboden gemütlich und mit allem Komfort ausgestattet. Sie haben einen herrlichen Ausblick auf die Hohe Munde und das Wettersteingebirge, großer Balkon. 1 sehr großes Schlafzimmer mit 3 Betten, Wohnzmmer mit Parkettboden, gemütlicher Essecke und sehr komfortabler Ausziehcouch, SAT-Farb-TV, Telefon und gratis W-Lan/WI-FI. Einbauküche mit 4 Plattenherd, Mikrowelle, Geschirrspüler mit Reinigungspulver, Kaffeemaschine, Toaster, Wasserkocher und sämtlichem Geschirr.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Hohe Munde/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "46.00",
+          "maxPrice": "74.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "46.00",
+          "maxPrice": "78.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "49.00",
+          "maxPrice": "85.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "49.00",
+          "maxPrice": "85.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "Sehr geräumig, mit hellen Vollholzmöbeln, Parkettboden und allem Komfort gemütlich und bestens ausgestattet; 2 gr. Schlafzimmer,2 Duschen,2 WCs, Wohnzimmer mit Essecke u.komfortabler Ausziehcouch, Farb-SAT-TV, Telefon, Stereoanlage und WI-FI. Große Einbauküche mit 4 Plattenherd und Backofen, Geschirrspüler samt Reinigungspulver, Mikrowelle,Kaffeemaschine,Toaster,Wasserkocher,viel Geschirr,ebenerdig,eigener Eingang, Terrasse und Gartenmöbeln nur für Wohnung Ostbach und gr. Liegewiese direkt davor",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Ostbach/2 Schlafräume/Dusche, WC",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "55.00",
+          "maxPrice": "75.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "55.00",
+          "maxPrice": "85.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "79.00",
+          "maxPrice": "85.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "79.00",
+          "maxPrice": "105.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "79.00",
+          "maxPrice": "115.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "Mit hellen Vollholzmöbeln und Parkettboden gemütlich und mit allem Komfort  ausgestattet, herrlicher Ausblick; 2 Schlafzimmer, 2 Duschen und 2 WCs,  Wohnzimmer mit Parkettboden, gemütlicher Essecke und sehr komfortabler Ausziehcouch, SAT- Farb-TV, Telefon und  W-LAN bzw. WI-FI .Einbauküche mit 4 Plattenherd, Mikrowelle und Geschirrspüler inkl. Reinigungspulver,  Kaffeemaschine, Toaster,Wasserkocher, sämtlichem Geschirr, sehr großer, breiter abtrennbarer und überdachter Balkon mit Gartenmöbeln. ",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Ahrnspitze/2 Schlafräume/Dusche, WC",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "62.00",
+          "maxPrice": "75.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "62.00",
+          "maxPrice": "85.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "79.00",
+          "maxPrice": "95.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "79.00",
+          "maxPrice": "105.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "79.00",
+          "maxPrice": "115.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

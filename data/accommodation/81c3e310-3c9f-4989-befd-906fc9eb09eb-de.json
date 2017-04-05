@@ -1,0 +1,290 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast",
+    "Hotel"
+  ],
+  "url": [
+    "http://www.ropferhof.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Ropferhof - alpine Hideaway",
+    "streetAddress": "Buchen 6",
+    "addressLocality": "Buchen/Mösern",
+    "postalCode": "6410",
+    "addressCountry": "AT",
+    "telephone": "+43526265949",
+    "faxNumber": "+435122385701",
+    "email": "office@ropferstubm.com",
+    "url": "http://www.ropferhof.at"
+  },
+  "name": "Ropferhof - alpine Hideaway",
+  "description": [
+    "Kleine, neue Appartementanlage inmitten von Wiesen und Wäldern mit herrlichem Blick über das Inntal, revitalisiertes Jahrhundertwendehaus mit Sauna und Wintergarten direkt an der Olympialoipe; Restaurant gegenüber. Besonderheit: Hausgäste profitieren von einem 10%-Genießerrabatt auf alle Leistungen im Landgashof  Im Sommer: Reiten, Gesundheitsvorsorgeangebote, Natur-Kneipp-Anlage, Nähe zu Bergseen (Lottensee, Möserer See). Im Winter: direkte Lage an der Olympialoipe - Loipengebühr inklusiv! Rodelverleih, Schneeschuhwanderungen.",
+    "Inklusive: TV, Internet, Heizung, Parkgebühren, Steuern\nExklusive: Ortstaxe",
+    "Check-In: 15Uhr / Check-out 10.00 Uhr\nmautfrei von Norden über Garmisch-Mittenwald-Leutasch-Buchen, ca. 350 Meter nach Interalpen-Hotel Richtung Telfs Schild: \"Ropferstub´m\" über Autobahn A 12, Ausfahrt Telfs Ost Richtung Seefeld, in Bairbach abzweigen Richtung Leutasch bis Schild \"Ropferstub´m\" (rechts) ca. 350 Meter vor Einfahrt Interalpen.",
+    "Urlaub;Bauernhof;wandern;Museum;Gasthof;Landgasthof;reiten;Langlauf;Fewos; Ferienwohnung;Kneipp; "
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "reviewCount": "50"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a2d17b8b-2a18-4684-9d9d-c4d371915d64/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ce2d8fef-105f-4994-ad53-efc32b7446ef/99/image.jpg",
+      "caption": "Logo Ropferhof"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ee885e94-9295-44dd-918c-10317ae47836/99/image.jpg",
+      "caption": "SO Wettersteingebirge"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/681e3faf-868d-45aa-a84e-48d95da2b919/99/image.jpg",
+      "caption": "Kneippanlage"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f74ad12e-4b46-4aa8-88d8-cfbcfcb7b9a6/99/image.jpg",
+      "caption": "Aussicht ins Tal"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2e1b525e-38c5-4f54-8ba1-90d8f7acacc7/99/image.jpg",
+      "caption": "Kinderspielplatz"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0b5bb5f9-b732-4a6c-9986-f0e987c2388d/99/image.jpg",
+      "caption": "WI Aussicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/83a9f6af-991f-4c17-8848-026844f310ce/99/image.jpg",
+      "caption": "WI Ropferhof Süd mit Veranda"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/abb2ecd5-c847-43c1-a4c6-16dfd11fcaad/99/image.jpg",
+      "caption": "Sauna"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/03a1b021-1894-4db2-bedc-3c0b16175f65/99/image.jpg",
+      "caption": "Sauna 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d2f1b0e3-d5cc-4de2-b5e0-29c2445e62b4/99/image.jpg",
+      "caption": "SO Aussicht"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.331506659611",
+    "longitude": "11.110182532912"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Neu, modern mit Naturholzmöblierung, in Architektenqualität, viel Licht und Sonne für 2-4 Personen, Doppelzimmer, Wohnzimmer mit Ausziehcouch, Küche mit allem Komfort (z.B. GEschirrspülmaschine), Dusche/WC, Kabel-TV, WLAN, S-W-Balkonterrasse mit 2 Liegestühlen, Tisch und herrlicher Talsicht! Besonderheit: 10% GENUSSRABATT auf alle Leistungen im Landgasthof \"Ropferstub\u0027m\", WLAN und LANGLAUFTICKET INKLUSIV ! ",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement \"Schmuggler\"",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "79.00",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "82.00",
+          "maxPrice": "105.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "83.00",
+          "maxPrice": "110.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 3 Schlafräume",
+      "description": "Neu, modern mit Naturholzmöblierung, in Architektenqualität, viel Licht und Sonne für 4-7 Personen, 2 Doppelschlafzimmer, 1 kleiner Fernsehraum mit Ausziehcouch, geräumiges Wohnzimmer mit Couch, Küche mit allem Komfort (z.B. Geschirrspülmaschine), Dusche/WC, Extra-WC, Kabel-TV, WLAN, S-W-Balkonterrasse mit 2 Liegestühlen, Tisch und traumhafter Talsicht! Besonderheit: 10% GENUSSRABATT auf alle Leistungen im Landgasthof \"Ropferstub\u0027m\", WLAN und LANGLAUFTICKET INKLUSIV ! ",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement \"Bauernfamilie\"",
+          "numberOfRooms": "4.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "7",
+            "minValue": "4"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "0.00",
+          "maxPrice": "165.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "0.00",
+          "maxPrice": "170.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "0.00",
+          "maxPrice": "175.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 7",
+          "minPrice": "0.00",
+          "maxPrice": "180.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Neu, modern mit Naturholzmöblierung, in Architektenqualität, viel Licht und Sonne für 2-4 Personen, Doppelschlafzimmer, geräumiges Wohnzimmer mit Ausziehcouch (die Couch kann auch tagsüber ausgezogen bleiben ohne den Wohnkomfort zu beeinträchtigen),Küche mit allem Komfort (z.B. Geschirrspülmaschine), Dusche/WC, Kabel-TV, WLAN, S-W-Balkonterrasse mit 2 Liegestühlen, Tisch u.Talsicht! Besonderheit: 10% GENUSSRABATT auf alle Leistungen im Landgasthof \"Ropferstub\u0027m\", WLAN und LANGLAUFTICKET INKLUSIV",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement \"Schmuggler Comfort\"",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "85.00",
+          "maxPrice": "110.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "90.00",
+          "maxPrice": "115.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "95.00",
+          "maxPrice": "120.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "Neu, modern mit Naturholzmöblierung, in Architektenqualität, viel Licht und Sonne für 2-4 Personen, Doppelschlafzimmer,\"Juchee\": der Lieblingsraum aller Kinder mit einem Doppelbett - erreichbar im Appartement über eine (gesicherte) Leiter, Wohnzimmer mit Couch, Küche mit allem Komfort (z.B. Geschirrspülmaschine), Dusche/WC, Kabel-TV, WLAN, S-W-Balkonterrasse mit herrlicher Talsicht! Besonderheit: 10% GENUSSRABATT auf alle Leistungen im Landgasthof \"Ropferstub\u0027m\", WLAN und LANGLAUFTICKET INKLUSIV",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartment \"Schmuggler mit Juchee\"",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "85.00",
+          "maxPrice": "110.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "90.00",
+          "maxPrice": "115.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "95.00",
+          "maxPrice": "120.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "100.00",
+          "maxPrice": "125.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

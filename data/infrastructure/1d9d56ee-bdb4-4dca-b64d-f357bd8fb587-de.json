@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Store",
+    "ToyStore",
+    "BookStore",
+    "ClothingStore"
+  ],
+  "name": "Sport \u0026 Mode Albrecht",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3281266772269",
+    "longitude": "11.1875689029694"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Sport \u0026 Mode Albrecht",
+    "streetAddress": "Innsbrucker Str. 24",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2421",
+    "email": "office@sportalbrecht.com",
+    "url": "http://www.sportalbrecht.com"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ec119eed-e182-4e7d-8789-927945d8f3bb/99/image.jpg",
+      "caption": "Sport Albrecht"
+    }
+  ],
+  "url": [
+    "http://www.sportalbrecht.com"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BeautySalon"
+  ],
+  "name": "Schwarz Erich",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 699 17424600",
+    "url": "http://www.agentur-beratung-zoe.at"
+  },
+  "description": [
+    "Massagen, HRV-Messung, Biofeedback, Burnout-Präventions-Training.\n\nTermine nach telefonischer Vereinbarung - Preise auf Anfrage - je nach Behandlung",
+    "Massagen, HRV-Messung, Biofeedback, Burnout-Präventions-Training.\n\nTermine nach telefonischer Vereinbarung - Preise auf Anfrage - je nach Behandlung"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/dcf99d7c-d43e-44b8-9ca6-2dafb3fba699/99/image.jpg",
+      "caption": "Schwarz Erich"
+    }
+  ]
+}

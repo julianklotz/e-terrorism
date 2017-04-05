@@ -1,0 +1,98 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://fernblick.leutasch-tirol.net",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Fernblick",
+    "streetAddress": "Gasse 173 a",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6633",
+    "faxNumber": "(0043) 5214 6633",
+    "email": "Fernblick.rauth@aon.at",
+    "url": "http://fernblick.leutasch-tirol.net"
+  },
+  "name": "Haus Fernblick",
+  "description": [
+    "Unser Haus hat 4 Wohnungen für 2-4 Personen. Mit Schlafzimmer, Wohnschlafzimmer, Küche, DU/WC, Balkon oder Terrasse, SAT-TV. An kühlen Tagen wird geheizt. Täglich frische Milch, Tiere zum Füttern und Streicheln, Pony zum Reiten auf unserem Bauernhof.",
+    "INKLUSIVE: Heizung, Garage, Wasser, Strom\n\nEXKLUSIVE: Endreinigung, Ortstaxe, Telefon",
+    "Seefeld - Leutasch\nWeidach - Gasse - Mittenwald - Leutasch\nGasse"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "reviewCount": "15"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/15c55702-206b-4258-864d-4ad023cda8ac/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/52880991-187b-4e1c-bfac-aee980c29cdf/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/903e5ccb-9283-4919-93df-505bb67c5613/99/image.jpg",
+      "caption": "Sommer2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ed7adb4d-68a9-4f48-9312-80c7fb42cef1/99/image.jpg",
+      "caption": "Spielplatz"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/96b1161b-a533-4b2d-85e7-f39d44290360/99/image.jpg",
+      "caption": "Spielplatz 2"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.37830285439",
+    "longitude": "11.159677944544"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Schlafzimmer, Wohnschlafzimmer, Küche, DU/WC, teilweise Balkon, teilweise Terrasse;",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "40.00",
+          "maxPrice": "65.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Hocheggstr. 489 / Top 15",
+    "addressLocality": "Seefeld in Tirol",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "email": "ilias.papadopoulos@trimet.de"
+  },
+  "name": "ZW - Papadopoulos Ilias und Milena",
+  "currenciesAccepted": "EUR"
+}

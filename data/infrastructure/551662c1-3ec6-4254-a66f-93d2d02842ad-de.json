@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Store",
+    "CafeOrCoffeeShop",
+    "GroceryStore"
+  ],
+  "name": "M-Preis Shop",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.388855",
+    "longitude": "11.2640723"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Innsbruck Str. 195",
+    "addressLocality": "Scharnitz",
+    "postalCode": "6108",
+    "addressCountry": "AT",
+    "telephone": "(0043)05213 20296",
+    "email": "schanzer@aon.at"
+  },
+  "description": "Innsbrucker Straße 195\nTel.: 05213/20296",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e50322e5-dadc-42f1-aee3-b0e97d12c0d8/99/image.jpeg",
+      "caption": "MPreis"
+    }
+  ],
+  "url": [
+    "http://"
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Carinthia",
+    "streetAddress": "Hocheggstr. 432",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2955"
+  },
+  "name": "Haus Carinthia",
+  "description": [
+    "Unser Haus liegt ca. 8 min. vom Zentrum entfernt in der Nähe der Talstation Rosshütte, in ruhiger Lage (Liegewiese).",
+    "Exklusive: Endreinigung, Kurtaxe\nInklusive: Strom",
+    "Weg: Seefeld-Mitte Ausfahrt, Kreisverkehr 3. Abfahrt (links); 1. Querstrasse rechts. Das Haus liegt auf der rechten Seite."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e1891df8-e724-4a11-9fa6-41f0037a856d/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/aa588e90-327e-4712-9e62-05a0ddd0d76b/99/image.jpg",
+      "caption": "Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3281045",
+    "longitude": "11.1964171"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Das Appartement besteht aus einem Schlafzimmer und einer Wohnküche; im 1. Stock und Südbalkon.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

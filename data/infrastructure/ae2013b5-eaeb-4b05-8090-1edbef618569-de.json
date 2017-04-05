@@ -1,0 +1,29 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CafeOrCoffeeShop"
+  ],
+  "name": "Café Elisabeth",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3284066481916",
+    "longitude": "11.1888134479523"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Café Elisabeth",
+    "streetAddress": "Bahnhofsplatz 389",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 3330671"
+  },
+  "description": "Sitzplätze für ca. 25 Personen",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5cd0ae58-9ae4-4ffc-be99-02ac93f4874a/99/image.jpg",
+      "caption": "Café Elisabeth Sommer"
+    }
+  ]
+}

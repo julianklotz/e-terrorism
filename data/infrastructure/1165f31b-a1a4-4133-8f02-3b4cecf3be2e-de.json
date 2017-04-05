@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BikeStore"
+  ],
+  "name": "Fahrradverleih 2-Rad Corner",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3268964",
+    "longitude": "11.1877376"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "2-Rad Corner",
+    "streetAddress": "Innsbrucker Str. 775",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 4144",
+    "email": "ossi@zweirad-ossi.at",
+    "url": "http://www.ossi-niederkircher.at"
+  },
+  "description": "Mountainbike, ½ Tag € 13,00\nMountainbike, 1 Tag € 17,00 - € 25,00\nKinder-Mountainbike, ½ Tag € 7,00\nKinder-Mountainbike, 1 Tag € 12,00\nBei Gruppen auch Zustellung der Räder möglich.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/39ece7aa-03b2-4ce6-a31b-a955f467bf78/99/image.jpg",
+      "caption": "Radverleih"
+    }
+  ],
+  "url": [
+    "http://www.ossi-niederkircher.at"
+  ]
+}

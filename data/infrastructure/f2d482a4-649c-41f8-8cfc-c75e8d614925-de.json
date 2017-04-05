@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "GovernmentOffice",
+    "PostOffice"
+  ],
+  "name": "Gemeindeamt Reith bei Seefeld",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2994351",
+    "longitude": "11.2027494"
+  },
+  "openingHours": [
+    "Mon,Tue,Wed,Thu,Fri 07:00-12:00"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Gemeindeamt Reith bei Seefeld",
+    "streetAddress": "Lauserweg 15",
+    "addressLocality": "Reith bei Seefeld",
+    "postalCode": "6103",
+    "addressCountry": "AT",
+    "telephone": "(0043)5212 3116",
+    "email": "amtsleiter@reith-seefeld.at",
+    "url": "http://www.reith-seefeld.at/"
+  },
+  "description": "Lauserweg 15\nTel.: +43 5212/3116",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9d4c0253-8f09-4f33-9bd9-559bb102f693/99/image.jpg",
+      "caption": "Wappen von Reith"
+    }
+  ]
+}

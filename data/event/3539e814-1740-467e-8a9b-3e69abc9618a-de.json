@@ -1,0 +1,52 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "9. Musiktage der Olympiaregion Seefeld - \"Flying Strings\"",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Faviola",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Walhallastr. 19",
+      "addressLocality": "München",
+      "postalCode": "80639",
+      "addressCountry": "DE",
+      "email": "info@musiktage-seefeld.at",
+      "url": "http://musiktage-seefeld.at"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Faviola",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Walhallastr. 19",
+      "addressLocality": "München",
+      "postalCode": "80639",
+      "addressCountry": "DE",
+      "email": "info@musiktage-seefeld.at",
+      "url": "http://musiktage-seefeld.at"
+    }
+  },
+  "description": "Konzert des „Chamber Orchestras Flying Strings“\nKünstlerische Leitung: Rudens Turku, Solisten: Esther Frey, Andrea Cicalese, Gabriele Ceci, Fabiola Tedesco, Francesca Temporin, Katja Bleijer, Johannes Ascher - alle Violine, Laura Stöger - Violoncello. Programm: Werke von Johann Sebastian Bach (1685 - 1750) und Antonio Vivaldi (1678 - 1741). Eintritt: € 20,--.\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/47a0c057-ea77-4831-9691-45a8675cb887/99/image.jpg",
+      "caption": "Musiktage"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/077df4f7-0988-4dbb-8b69-0f9cab3f6a2a/99/image.jpg",
+      "caption": "Musiktage1"
+    }
+  ],
+  "url": [
+    "http://www.musiktage-seefeld.at"
+  ],
+  "startDate": "2017-08-13T20:30:00",
+  "endDate": "2017-08-13"
+}

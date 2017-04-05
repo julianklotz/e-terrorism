@@ -1,0 +1,26 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Store"
+  ],
+  "name": "Schuhwerk by Alexander, Schuhe",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3276830838289",
+    "longitude": "11.1873972415924"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Schuhwerk by Alexander",
+    "streetAddress": "Innsbrucker Str. 19",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 20173",
+    "email": "alex@schuh-werk.at",
+    "url": "http://www.schuh-werk.at"
+  },
+  "url": [
+    "http://www.schuh-werk.at"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure"
+  ],
+  "name": "Parkplatz Länd, P2",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3852247827594",
+    "longitude": "11.2682367299165"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Parkplatz Länd",
+    "streetAddress": "P2",
+    "addressLocality": "Scharnitz",
+    "postalCode": "6108",
+    "addressCountry": "AT"
+  },
+  "description": "Gebührenpflichtig \nParkdauer: 1 Tag 6,00 € ( sechs Euro), 3 Tage 10,00 € (zehn Euro), 4.-9. Tag 15,00 € (fünfzehn Euro), 1/2 Tag 3,00 € (drei) ohne BON\nAn jedem Parkschein kann ein Bon im Wert von € 2,-- abgetrennt werden, welcher in Scharnitz eingelöst werden kann.\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/be6a4ac4-f727-459a-af03-565dd7c71b24/99/image.jpg",
+      "caption": "Parkplatz"
+    }
+  ],
+  "url": [
+    "http://www.scharnitz.tirol.gv.at",
+    "http://karwendel.org"
+  ]
+}

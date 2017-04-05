@@ -1,0 +1,83 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.almidyll.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Landhaus Almidyll 1",
+    "streetAddress": "Wasserfallweg 712/Top1",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 676 4427571",
+    "email": "therese.prettner@aon.at",
+    "url": "http://www.almidyll.at"
+  },
+  "name": "Landhaus Almidyll 1",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/da359be2-1af9-4e86-b86a-4198feef6f20/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/73b7214d-c56f-4a11-a9cd-d1914b9454c5/99/image.jpg",
+      "caption": "Sommer 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/bb2c7009-58f4-4011-bcf3-475773888c51/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ae6515ab-1215-4842-8a43-a49ad008cd54/99/image.jpg",
+      "caption": "Garten Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4aeda3a6-e143-4e9c-9c86-3ce277a1536d/99/image.jpg",
+      "caption": "Garten "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/950a1be6-5548-42e5-88c8-d77e58ed7b6f/99/image.jpg",
+      "caption": "Haus mit Liegewiese"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3355373053213",
+    "longitude": "11.1924694111145"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 1 Schlafraum",
+      "description": "Wohn-Schlafzimmer mit ausziebahrer Schlafcouch, Küche, grosses Schlafzimmer mit 4 Betten, Badezimmer, Terrasse",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Superior 1 Bedroom-Appartement (1)",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

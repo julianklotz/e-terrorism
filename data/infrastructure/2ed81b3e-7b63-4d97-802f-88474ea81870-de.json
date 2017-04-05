@@ -1,0 +1,61 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CafeOrCoffeeShop",
+    "Restaurant"
+  ],
+  "name": "Camp Alpin Restaurant",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3370756122852",
+    "longitude": "11.178201564418"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Camp Alpin Seefeld",
+    "streetAddress": "Leutascherstrasse 810",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 4848",
+    "faxNumber": "(0043) 5212 4848 10",
+    "email": "info@camp-alpin.at",
+    "url": "http://www.camp-alpin.at"
+  },
+  "description": "Sitzplätze für ca. 100 Personen",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/db2ad103-c106-4b5b-b241-03b9f839699f/99/image.jpg",
+      "caption": "Camp Alpin Sommer 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0704f7af-f27e-4229-b632-c5257d098872/99/image.jpg",
+      "caption": "Restaurant"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ecd0e5fe-4760-48b3-8660-c0f5a4fb4ec5/99/image.jpg",
+      "caption": "Restaurant 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3502b98b-b508-4354-b3e6-1b61818f3080/99/image.jpg",
+      "caption": "Ausblick"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/75e30d66-4173-4d96-a85b-7b135da2739d/99/image.jpg",
+      "caption": "Camp Alpin Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9dc5443c-331e-436c-a0b0-e15c3d3689f5/99/image.jpg",
+      "caption": "Campingplatz"
+    }
+  ],
+  "url": [
+    "http://www.camp-alpin.at"
+  ]
+}

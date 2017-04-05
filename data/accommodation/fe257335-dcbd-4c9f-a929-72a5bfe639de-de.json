@@ -1,0 +1,123 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness",
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.haus-alice.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Alice",
+    "streetAddress": "Geigenbühelstrasse 682",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 3948",
+    "faxNumber": "(0043) 5212 4482",
+    "email": "info@haus-alice.at",
+    "url": "http://www.haus-alice.at"
+  },
+  "name": "Haus Alice",
+  "description": "Unser Ferienhaus Alice ist ein geräumiges, gemütliches Haus, komplett eingerichtet für max. 12 Personen, bestens geeignet für mehrere Familien und auch kleinere Gruppen. Im OG sind 6 Schlafzimmer, 4 mit Du/WC und 2 davon teilen sich ein Bad. Im EG befindet sich eine Tiroler Stube mit Kachelofen, eine große Essküche, eine Sitzdiele und ein zusätzliches WC.",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "reviewCount": "31"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2c2b09e6-dd64-4614-b02e-c5dc0181398f/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3ebf1b00-08bf-42fe-a4a6-48a0a849b9e0/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4ac32b8e-3050-4ff6-b024-8538e0c96675/99/image.jpg",
+      "caption": "Eingang"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3348237575873",
+    "longitude": "11.1890816688538"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Ferienhaus, Bad, WC, 4 oder mehr Schlafräume",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Ferienhaus/4 od. mehr Schlafr./Bad, WC",
+          "numberOfRooms": "9.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "12",
+            "minValue": "6"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Dreibettzimmer, Dusche, WC",
+      "description": "Gemütliches Dreibettzimmer mit DU/WC, Balkon ud TV.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Dreibettzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Gemütliches Doppelzimmer mit DU/WC, Balkon und TV.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

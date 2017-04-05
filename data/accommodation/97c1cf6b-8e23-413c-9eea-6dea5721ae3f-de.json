@@ -1,0 +1,70 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.egerthof.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Johann",
+    "streetAddress": "Reitherspitzstr. 414",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 4444",
+    "faxNumber": "(0043) 5212 4444 60",
+    "email": "info@egerthof.at",
+    "url": "http://www.egerthof.at"
+  },
+  "name": "Haus Johann",
+  "description": [
+    "Zentrale, ruhige, sonnige Lage. Alle Zimmer sind mit Bad, WC und TV ausgestattet. Erweitertes Frühstück. Gemütlicher Aufenthaltsraum. Schöne große Liegewiese sowie eine Ferienwohnung bestehend aus 2 Räumen und Sonnenterrasse.",
+    "Check-In 13.00 Uhr/ Check-Out 11.00 Uhr\nWeg: Von Seefeld Nord - vor den Bahngleisen links der Bahnlinie entlang, am Bahnhof vorbei - links sehen Sie das Haus Egerthof - Haus daneben\nVon Seefeld Süd: den See entlang bis zur Fussgängerzone, rechts 2 Kurven, über die Bahnübersetzung das 1. Haus links - Egerthof- Haus daneben."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b2ec1908-fcba-4690-9699-45197cee2603/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/85f53cc7-9108-4317-8b8d-75fe352b3f60/99/image.jpg",
+      "caption": "Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3274321973889",
+    "longitude": "11.1915546655655"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Bad, WC",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Bad, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

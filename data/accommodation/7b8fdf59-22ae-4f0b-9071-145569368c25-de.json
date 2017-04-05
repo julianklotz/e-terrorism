@@ -1,0 +1,85 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.leutasch-appartement.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Landhaus Föhrenwald",
+    "streetAddress": "Föhrenwald 31",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6985",
+    "faxNumber": "(0043) 5214 6985",
+    "email": "landhausfoehrenwald@gmail.com",
+    "url": "http://www.leutasch-appartement.at"
+  },
+  "name": "Landhaus Föhrenwald",
+  "description": [
+    "Herzlich willkommen im Landhaus Föhrenwald. Sie sind schon in Urlaubsstimmung? Freuen Sie sich auf Ihre verdienten Ferien in Leutasch in unserem Haus. Ihre Wünsche nach Ruhe und Erholung, nach Komfort und Gemütlichkeit werden bei uns erfüllt. Unser Landhaus mit einem neuen Komfort-Appartement liegt in ruhiger aber zentraler Lage nahe am Waldrand und ist ein idealer Ausgangspunkt zum Wandern und Mountainbiken im Sommer \u0026 zum Langlaufen im Winter. Im Umkreis von wenigen Gehminuten befinden sich Restaurants, Banken, Einkaufs- und Freizeiteinrichtungen, Bushaltestelle sowie Loipen und Skilift. Wir würden uns sehr freuen, Sie als unseren Gast zu begrüßen. \nBesuchen Sie uns auch auf Facebook: Landhaus Föhrenwald, Marianne Mair",
+    "Inkl.: Heizung, Wasser, Strom, Tisch- \u0026 Bettwäsche, Handtücher, Sat-TV, W-LAN, Waschmaschine, gratis Eintritt in das Alpenbad Leutasch (im Sommer), gratis Loipenbenützung, Parkplatz vor dem Haus, Einstellplatz für Fahrräder und Ski, Brötchenservice.\nExkl.: Endreinigung € 55.00, Ortstaxe € 2.80/Pers./Tag ab 15 Jahre (basierend auf derzeitiger Kurtaxe - Änderungen vorbehalten).",
+    "Check-Out: bis 09.30 Uhr  Check-In: ca. 15.00 Uhr\n\nAus N kommend fahren Sie bis Mittenwald. Von dort sind es ca. 10 km bis Leutasch-Weidach. Vor dem Infobüro müssen Sie links in den Ortsteil Föhrenwald abbiegen. Unser Haus befindet sich nach 150 m auf der linken Strassenseite.",
+    "Leutasch,Ferienwohnungen,Angebote,Komfort Appartements,Appartements,Tirol,Unterkunft,ganzjährig,"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b134a172-c876-4c5a-9593-eac4f5d90557/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0d1d3a3f-2d52-4353-aca8-c217844f86b4/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1ccbd44d-7530-4767-ad18-1e9173901fd5/99/image.jpg",
+      "caption": "Winter 2"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3740161",
+    "longitude": "11.1672235999999"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "Neues Komfort-Appartement für 2-5 Personen (ideal für 2 befreundete Paare), 80 m² Wohnfläche, 2 getrennte Schlafzimmer, 2 x Dusche/WC,  1 Wohnzimmer mit bestens ausgestatteter Kochnische (Backrohr, Wasserkocher, Geschirrspüler, Mixer, Kühlschrank mit Gefrierfach ...), Waschmaschine, W-LAN, Laminatböden, SAT-TV, großer sonniger Süd/Westbalkon (von jedem Zimmer aus begehbar), Garten mit großer Liegewiese. \n2 Personen \u003d 2 Raum-Appartement",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/2 Schlafräume/Dusche, WC",
+          "description": "Neues Komfort-Appartement für 2-5 Personen (ideal für 2 befreundete Paare), 80 m² Wohnfläche, 2 getrennte Schlafzimmer, 2 x Dusche/WC,  1 Wohnzimmer mit bestens ausgestatteter Kochnische (Backrohr, Wasserkocher, Geschirrspüler, Mixer, Kühlschrank mit Gefrierfach ...), Waschmaschine, W-LAN, Laminatböden, SAT-TV, sonniger Balkon (von jedem Zimmer aus begehbar), Garten mit großer Liegewiese. \n2 Personen \u003d 2 Raum-Appartement",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "60.00",
+          "maxPrice": "110.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

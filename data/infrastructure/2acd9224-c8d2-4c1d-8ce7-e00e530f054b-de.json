@@ -1,0 +1,48 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation"
+  ],
+  "name": "Reitherjoch Alm",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3240719024429",
+    "longitude": "11.2112775950287"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Reitherjoch Alm",
+    "addressLocality": "Reith bei Seefeld",
+    "postalCode": "6103",
+    "addressCountry": "AT",
+    "telephone": "(0043) 0043/ 676 7770501",
+    "email": "reitherjochalm@aon.at",
+    "url": "http://www.reitherjochalm.at"
+  },
+  "description": [
+    " ",
+    "Reither-Jochalm\n\nEinkehr auf der Alm nach einem traumhaften Tag in den Bergen. Oder du kommst unten vom Tal. Schritt für Schritt den Alltag zurücklassend.\n\nOben ist es herrlich - der Blick gleitet über die schneebedeckten Gipfel der Stubaier Alpen, wandert über die Mieminger Kette, verweilt staunend auf dem gleißenden Schneefeld der Zugspitze und sucht rasch das Weite vor dem abweisenden Rücken des Wettersteins.\n\nRundherum erholsame Stille! Nur zartes Kuhglockengebimmel und das rasante Summen von Honigsuchern in einer unvergleichlichen Vielfalt von blühenden, tintenblauen \"Schusternagelen\", goldgelbem Hornklee, betörend duftenden Steinröschen (\"Stoareasl\u0027n\"), ...\n"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ef56cf25-5a52-44c8-90f5-e419d1cb45f6/99/image.jpg",
+      "caption": "Sommeransicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3c7059c0-0854-4e3c-bb17-070e66da6223/99/image.jpg",
+      "caption": "Winteransicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1f80211a-7260-4fc9-a1ac-05f4d38552d9/99/image.jpg",
+      "caption": "Stube"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5b94b042-967f-40f4-bceb-5e020f9e90f7/99/image.jpg",
+      "caption": "Spielplatz"
+    }
+  ]
+}

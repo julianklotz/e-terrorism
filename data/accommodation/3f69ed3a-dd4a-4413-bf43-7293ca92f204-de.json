@@ -1,0 +1,124 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.knechtlhof.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Knechtlhof",
+    "streetAddress": "Weidach 314",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6370",
+    "faxNumber": "(0043) 5214 6370",
+    "email": "info@knechtlhof.at",
+    "url": "http://www.knechtlhof.at"
+  },
+  "name": "Knechtlhof",
+  "description": [
+    "Der Knechtlhof steht in  zentraler, sonniger, freier Lage umgeben von einer grossen Wiese. Gartenhäuschen, überdachter Unterstellplatz für Autos. Idealer Ausgangspunkt für Wanderungen und sportliche Unternehmungen. Die Langlaufloipe führt direkt an unserem Haus vorbei.",
+    "Überdachter Autoabstellplatz kostenlos.",
+    "AUTO:\nVom Norden aus können sie das Leutaschtal über Garmisch - Partenkirchen - Mittenwald - Leutasch (mautfrei) erreichen.\nVom Westen über den Arlberg - Telfs - Leutasch\nVom Süden und Osten aus über Innsbruck - Seefeld"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7d6b2692-89ec-48b9-abbc-8e5d97e550e9/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2e805170-8abc-4e43-81a5-c6df95f7fd15/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/18bb4464-6099-46db-a32e-1a30eedb0ea4/99/image.jpg",
+      "caption": "Schlafraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/94000366-0d92-4a14-ab58-b93678267343/99/image.jpg",
+      "caption": "Aufenthaltsraum"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.370426196438",
+    "longitude": "11.16248046385"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Einzelzimmer, fl. k/w Wasser",
+      "description": "Einzelzimmer mit Fliesswasser, Etagendusche und WC, SAT-TV, überdachter Autoabstellplatz.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Einzelzimmer mit fl. Wasser",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "25.00",
+          "maxPrice": "25.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Doppelzimmer mit Dusche und WC, SAT-TV, teilweise mit Balkon. Überdachter Autoabstellplatz.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "25.00",
+          "maxPrice": "25.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

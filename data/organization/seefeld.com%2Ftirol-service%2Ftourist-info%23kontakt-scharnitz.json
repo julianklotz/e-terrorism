@@ -1,0 +1,103 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "TouristInformationCenter",
+  "@id": "http://www.seefeld.com/tirol-service/tourist-info#kontakt-scharnitz",
+  "name": "INFORMATIONSBÜRO SCHARNITZ",
+  "image": "http://www.seefeld.com/portal/assets/images/environment/logo_scharnitz_weiss.svg",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Scharnitz",
+    "addressRegion": "Tirol",
+    "postalCode": "6108",
+    "streetAddress": "Innsbruckerstrasse 282",
+    "addressCountry": "AT"
+  },
+  "email": "info.scharnitz@seefeld.com",
+  "telephone": "+43 50880540",
+  "faxNumber": "+43 50880841",
+  "url": "http://www.seefeld.com/tirol-service/tourist-info#kontakt-scharnitz",
+  "openingHoursSpecification": [
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ],
+      "opens": "09:00",
+      "closes": "12:00",
+      "validThrough": "2016-12-08"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ],
+      "opens": "09:00",
+      "closes": "12:00",
+      "validFrom": "2016-12-09"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ],
+      "opens": "14:00",
+      "closes": "17:00",
+      "validFrom": "2016-12-09"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "Saturday",
+      "opens": "19:00",
+      "closes": "12:00",
+      "validFrom": "2016-12-09"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "opens": "09:00",
+      "closes": "13:00",
+      "validFrom": "2016-12-24",
+      "validThrough": "2016-12-24"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "opens": "10:00",
+      "closes": "12:00",
+      "validFrom": "2016-12-25",
+      "validThrough": "2016-12-26"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "opens": "10:00",
+      "closes": "12:00",
+      "validFrom": "2017-01-01",
+      "validThrough": "2017-01-01"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "opens": "10:00",
+      "closes": "12:00",
+      "validFrom": "2017-01-06",
+      "validThrough": "2017-01-06"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "opens": "09:00",
+      "closes": "15:00",
+      "validFrom": "2016-12-31",
+      "validThrough": "2016-12-31"
+    }
+  ],
+  "mainEntityOfPage": "http://www.seefeld.com/tirol-service/tourist-info"
+}

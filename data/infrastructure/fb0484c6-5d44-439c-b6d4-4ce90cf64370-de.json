@@ -1,0 +1,33 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportingGoodsStore"
+  ],
+  "name": "Sport Norz Langlauf/Skiroller",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3280929",
+    "longitude": "11.1819473"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Sport Norz",
+    "streetAddress": "Klosterstr. 120",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 6252",
+    "url": "http://www.sport-norz.at"
+  },
+  "description": "Erwachsene Alpin - Tagespreise: Schi und Stocke € 13,00 bis 40,00 Schuhe € 5,00 bis 14,00\nJugend Alpin (Schi 120-140 cm, Schuhe, Stocke) € 8,00 bis 17,00\nKinder Alpin (Schi, Schuhe, Stocke) € 8,00 bis 13,00 Helme ca. € 3,00 bis € 8,00\nLanglauf - Tagespreise:\nKlassisch komplett (Schi, Schuhe, Stocke) € 10,00 bis 15,00\nSkating komplett (Schi, Schuhe, Stocke) € 13,00 bis 26,00\nDiverse Sportgeräte-Tagespreise:\nSchneeschuhe € 12,00 bis 20,00 \nSnowboard Kinder/Jugend inkl. Schuhe € 11,00 bis 38,00\nSnowboard Erwachsene inkl. Schuhe € 20,00 bis 42,00\nSnowblades/ Big Foot € 7,00 bis 12,00 \nRodel € 4,00 bis 15,00\n\n\nIm Sommer: Skiroller Verleih klassisch und skating, incl. Schuhe und Stöcke €25\nKurse und Privatstunden, Buchungen im Geschäft\nSkiroller Testcenter\nTeste Sie unsere neue Rollerstrecke im Nordischen Kompetenzzentrum Seefeld",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ddc66281-f913-437b-b667-c536c177cab3/99/image.jpg",
+      "caption": "Piktogramm"
+    }
+  ],
+  "url": [
+    "http://www.sport-norz.at"
+  ]
+}

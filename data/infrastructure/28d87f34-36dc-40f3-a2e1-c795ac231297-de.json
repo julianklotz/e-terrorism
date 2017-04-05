@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation"
+  ],
+  "name": "Boccia",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3345591",
+    "longitude": "11.1074649"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Landgasthof Ropferstub´m",
+    "streetAddress": "Buchen 6-8, am Jakobsweg",
+    "addressLocality": "Mösern/Buchen",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "+43526265949 ",
+    "email": "info@ropferhof.at",
+    "url": "http://www.pure-natur.at"
+  },
+  "description": [
+    " ",
+    "Platzmiete inkl. Leihgebühr für Bocciakugeln-Satz € 5,00 (Kaution € 10,00).",
+    "Ab Juni bis Ende Oktober (je nacht Witterung) täglich von 10.30 Uhr bis 18.00 Uhr."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/970b1a9b-a19a-4c24-b6e3-06f359d10e6b/99/image.bmp",
+      "caption": "Boccia"
+    }
+  ],
+  "url": [
+    "http://www.pure-natur.at"
+  ]
+}

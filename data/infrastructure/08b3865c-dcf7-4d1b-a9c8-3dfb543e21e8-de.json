@@ -1,0 +1,29 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "EmergencyService",
+    "Physician"
+  ],
+  "name": "Bergrettungsnotarzt",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3695655",
+    "longitude": "11.1585264"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Weidach 293a",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6910"
+  },
+  "description": " ",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a53ad481-47e8-4a2a-b7ff-73c930a84517/99/image.jpg",
+      "caption": "Bergrettung"
+    }
+  ]
+}

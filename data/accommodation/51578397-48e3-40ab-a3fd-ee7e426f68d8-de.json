@@ -1,0 +1,119 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://haus-scholl.webnode.at/",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Scholl",
+    "streetAddress": "Auländer Dorfstraße 35",
+    "addressLocality": "Reith bei Seefeld",
+    "postalCode": "6103",
+    "addressCountry": "AT",
+    "telephone": "0043 6641150800",
+    "email": "haus.scholl@hotmail.com",
+    "url": "http://haus-scholl.webnode.at/"
+  },
+  "name": "Haus Scholl",
+  "description": [
+    "Herzlich Willkommen im Haus Scholl\n\nUnser Haus wurde 1966 erbaut und befindet sich in ruhiger sonniger Lage mit bestens ausgestatteten und neu errichteten Ferienwohnungen für 2 bis 5 Personen.\n\nDiese Ferienwohnungen verfügen über eine wunderbare Aussicht. \nSeefeld bietet ein herrliches Wander- und Mountainbikegebiet. \nDer nette Wildsee in Seefeld (2km) bietet ein schönes Strandbad und Kinderspielplatz. Bekanntes Langlauf und Skigebiet (Nordische WM, Olympische Spiele) in der Umgebung. Die Kultur und Sportstadt Innsbruck ist gut erreichbar.\n\nWir freuen uns auf Sie!\n\nIhre Familie Scholl\n\n",
+    "Gratis Parkplatz\n",
+    "Check in:   ab 15:00 Uhr\nCheck out: bis 10:00 Uhr\n\nMit dem Auto:\n\nVon Innsbruck: Autobahn Innsbruck Richtung Arlberg, bei Zirl Richtung Garmisch abfahren. Nach dem Zirlerberg (durch die Ortschaft Leithen durchfahren) geradeaus weiter fahren bis zum zweiten Ortsschild Reith bei Seefeld/Auland, rechts unter die Unterführung durch. Das erste Haus links, dort befindet sich Ihre Unterkunft.\n",
+    "Haus Scholl Auland Reith bei Seefeld Ferienwohnungen"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/70236e13-df9f-4352-9acb-160b409d5120/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4f900538-6112-4e4b-8b0a-1b8a93578fbc/99/image.jpg",
+      "caption": "Sommer "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/42a2fdfe-a9a5-4dbe-a586-821a058a5b8c/99/image.jpg",
+      "caption": "Sommer Ausblick"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.306087",
+    "longitude": "11.1995856999999"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 3 Schlafräume",
+      "description": "Das Appartement ist ca. 65 m² und befindet sich auf der Rückseite des Hauses.\nEs ist ausgestattet mit 1 Schlafzimmer , 1 Küche, 1 Bad mit Badewanne und WC, Wohn/Essbereich und einem extra Schlafzimmer mit Dusche und Waschbecken.\n\nGenießen Sie eine tolle Aussicht und einen erholsamen Aufenthalt in unserem Appartement.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement/Fewo, Dusche und Bad, WC, 3 Schlafräum",
+          "description": "Das Appartement ist ca. 65 m² und befindet sich auf der Vorderseite des Hauses.\nEs ist ausgestattet mit 1 Schlafzimmer , 1 Küche, 1 Bad mit Badewanne und WC, Wohn/Essbereich und einem extra Schlafzimmer mit Dusche und Waschbecken.\n\nGenießen Sie eine tolle Aussicht und einen erholsamen Aufenthalt in unserem Appartement.",
+          "numberOfRooms": "4.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "7",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "130.00",
+          "maxPrice": "160.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "130.00",
+          "maxPrice": "160.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "130.00",
+          "maxPrice": "160.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "130.00",
+          "maxPrice": "160.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "130.00",
+          "maxPrice": "160.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 7",
+          "minPrice": "130.00",
+          "maxPrice": "160.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

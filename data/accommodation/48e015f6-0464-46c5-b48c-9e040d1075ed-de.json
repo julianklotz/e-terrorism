@@ -1,0 +1,135 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.almidyll.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Landhaus Almidyll - App. Sergi",
+    "streetAddress": "Wasserfallweg 712",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 3367",
+    "faxNumber": "(0043) 5212 3789",
+    "email": "therese.prettner@aon.at",
+    "url": "http://www.almidyll.at"
+  },
+  "name": "Landhaus Almidyll",
+  "description": [
+    "Haus mit 5 Ferienwohnungen verschiedener Größen, ruhige Seitenstraße, ebene Zufahrt, Carport, Parkplatz, Entfernung Zentrum 800m, Schilift 500m, Schibus 200m. Gratis W-Lan, Brötchenservice, Sauna und Infrarot-Kabine 1x pro Woche gratis sowie 1x pro Woche freier Hallenbadeintritt. Garten: 1.500 m² große Liegewiese einschließlich eines bewaldeten Hügels, mehrere Kinderspielgeräte!\n\nRabatte über Anfrage bis 20 % möglich (Langzeitmiete, Kinderermäßigung, last minute Buchungen u.a.).\n\n",
+    "Inkl.: Heizung, Wasser, Strom, Bettwäsche, Hand-Badetücher\n\nExkl.: Telefongesprächskosten, Brötchen ",
+    "Check in 16 Uhr/Check Out 10 Uhr. Wählen Sie die Einfahrt Seefeld Nord. Nach 500m kommt links eine Tankstelle,dann nach 150m rechts Den Wasserfallweg einbiegen. Zu unserem Haus sind es 200m links."
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "reviewCount": "115"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/73e3eb3b-7cfc-4cee-bb35-fc41c6a90881/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/bb010dab-ff43-4fe4-95a2-8458be5c25c0/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ac83a481-f2a5-4e04-ad40-174cad5e9526/99/image.jpg",
+      "caption": "Sommer 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f45afd97-026c-4159-b9f5-4b89e2d2e845/99/image.jpg",
+      "caption": "Garten Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a772ae23-80f6-471d-a6d1-632423905b26/99/image.jpg",
+      "caption": "Garten 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2c06f33b-0cd0-45f7-837d-4356c5c182f2/99/image.jpg",
+      "caption": "Gartenhaus mit Spielwiese"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c303bab0-5171-40e1-b867-7628cc561d11/99/image.jpg",
+      "caption": "Aussicht zum Haus"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d915e18c-ca86-4856-ae4b-4977bacfa342/99/image.jpg",
+      "caption": "Garten 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6bb2ac6e-96fd-4dd5-bc67-094d062f95b0/99/image.jpg",
+      "caption": "Sauna"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/59ba5afa-4059-4a8c-aa0f-84ae150de583/99/image.jpg",
+      "caption": "Grillplatz"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3356744659591",
+    "longitude": "11.1925578117371"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC",
+      "description": "Wohnzimmer mit Schlafraum (Doppelbett), optisch getrennt vom Wohnteil, Kochnische, Dusche, WC",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Studio: (4)",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 2 Schlafräume",
+      "description": "Wohn-Schlafzimmer mit ausziehbarer Schlafcouch (Doppelbett), Essdiele, Küche, Schlafzimmer mit Doppelbett, Schlafzimmer mit 2 getrennten Betten, Badezimmer mit Bad und Dusche, WC getrennt, Balkon",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "2 Bedroom (5)",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

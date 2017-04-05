@@ -1,0 +1,80 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.appartement-seefeld.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Am Sonnenhang",
+    "streetAddress": "Karwendelweg 858, Top 4",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 50371",
+    "faxNumber": "(0043) 5212 50371",
+    "email": "sonnenhang-seefeld@aon.at",
+    "url": "www.appartement-seefeld.at"
+  },
+  "name": "Haus Am Sonnenhang",
+  "description": [
+    "Das neuerbaute \"Haus am Sonnenhang\" ist im rustikalen Tiroler-Landhausstil errichtet und liegt in ruhiger, sonniger Lage mit herrlichem Blick auf die umliegenden Gebirgsketten.\nDas Objekt liegt an einer Privatstrasse und ist völlig frei von Verkehrslärm!",
+    "Bettwäsche und Badetücher werden beigestellt.\nDie Küche ist komplett ausgestattet.\nBenützung der Waschmaschine gratis.\nGratisabholung vom Bahnhof Seefeld.\nBei Interesse zeigt die Vermieterin die nähere Umgebung (Gratisangebot)",
+    "Anreise ab 14:00 Uhr\nAbreise bis spätestens 11:00 Uhr\n\nAbfahrt Seefeld Nord: Biegen Sie vor der AGIP - Tankstelle links auf den Karwendelweg ein und halten Sie sich links.\nVom Ort kommend: auf der Münchnerstr. bis zur AGIP - Tankstelle und danach rechts auf den Karwendelweg einbiegen."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/315bbac9-c9c3-485b-a6f6-f59b9c0987fc/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8eb0fdf8-d6da-49da-9e48-6eae904b9e5f/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/03360845-1fa2-4b96-ad25-7e16d1a00c54/99/image.jpg",
+      "caption": "Sommer Aussicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6c7a14c3-ee85-43a8-8d67-ba8d4f63e2f0/99/image.jpg",
+      "caption": "Winter Aussicht"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3352963750414",
+    "longitude": "11.195240020752"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Das 55 m² große Appartement verfügt über Wohnzimmer, Schlafzimmer, Küche, Bad, Eßecke und Balkon.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/1 Schlafraum/Dusche, WC",
+          "description": "Das in einem Tiroler Landhaus situierte Appartement (55m2) mit Wohnzimmer und integrierter Küche,sowie separiertem Schlafzimmer verfügt über allen Komfort.\nDas Haus am Sonnenhang liegt erhöht über Seefeld und bietet einen grossartigen Blick\nüber den Ort und auf die umliegenden Berge.\nDas an einer Privatstrasse liegende Haus garantiert auch angenehme Ruhe.\nNichtraucherhaus.Keine Haustiere.",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Weidach 290 a",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "email": "hans.siegmann@web.de"
+  },
+  "name": "ZW - Siegmann Hans",
+  "currenciesAccepted": "EUR"
+}

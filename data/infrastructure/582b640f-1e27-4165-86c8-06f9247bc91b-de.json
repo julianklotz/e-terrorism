@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant"
+  ],
+  "name": "Seewaldalm",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3134157988149",
+    "longitude": "11.1618748541443"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Seewaldalm",
+    "streetAddress": "Mösererdorfstr. 40",
+    "addressLocality": "Mösern",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "0043 5212 50398"
+  },
+  "description": "Sitzplätze für ca. 120 Personen\n\nNur im Winter geöffnet! Stempelstelle\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5aadf95f-e47c-4731-a80a-cfbee52a0251/99/image.jpg",
+      "caption": "Seewaldalm"
+    }
+  ],
+  "url": [
+    "http://"
+  ]
+}

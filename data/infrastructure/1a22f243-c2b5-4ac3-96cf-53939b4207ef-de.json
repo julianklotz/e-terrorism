@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Landform"
+  ],
+  "name": "Hochmoos Alm",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3585330285458",
+    "longitude": "11.1618840694427"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Hochmoos Alm",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 676 6643303",
+    "email": "alm@hochmoos-tirol.com",
+    "url": "http://www.hochmoos-tirol.com/"
+  },
+  "description": "Stempelstelle",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a038cc80-aac2-4d30-a80c-2bcae00c2f4f/99/image.jpg",
+      "caption": "Hochmoosalm Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/297fdc43-b51b-4a02-82e5-bd531c364a67/99/image.jpg",
+      "caption": "Hochmoosalm Winter"
+    }
+  ]
+}

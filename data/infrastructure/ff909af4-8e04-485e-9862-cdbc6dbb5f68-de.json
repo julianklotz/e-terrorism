@@ -1,0 +1,20 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "TouristAttraction"
+  ],
+  "name": "Themenweg Achweg",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3727392206348",
+    "longitude": "11.1643530289307"
+  },
+  "description": "Nach der Umsetzung des Hochwasserschutzprojektes\nhat die Gemeinde Leutasch entlang der Leutascher\nAche im Bereich Weidach den Themenweg\n„Lebensraum Ache“ geschaffen. Damit soll das\nInteresse an Natur und Landschaft geweckt werden.\nDer Themenweg wurde vom ZT-Büro für Biologie,\nMag. Traute Scheiber, konzipiert. Spaziergänger\nund Erholungssuchende bekommen anhand von\nzehn Tafeln Informationen über folgende Themenbereiche\nvermittelt: Dynamik des Gebirgsbaches;\nLeben im Wassertropfen; Fischfauna; Leben am\nGewässergrund; Vögel am Gewässer; Ingenieurbiologie;\nPioniervegetation; Auvegetation; Die Deutsche\nTamariske; Ingenieurbiologische Maßnahmen.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/432f4f95-7122-479e-8b32-b9fcf77810c2/99/image.jpg",
+      "caption": "achweg"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "Luftgewehrschießen im Schützenheim",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Schützenverein Leutasch",
+    "employee": {
+      "@type": "Person",
+      "givenName": "Andreas",
+      "familyName": "Neuner"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Kirchplatzl 128a",
+      "addressLocality": "Leutasch",
+      "postalCode": "6105",
+      "addressCountry": "AT"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Schützenheim der Leutascher Schützen",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Kirchplatzl 128a",
+      "addressLocality": "Leutasch",
+      "postalCode": "6105",
+      "addressCountry": "AT"
+    }
+  },
+  "description": "Bei Erreichen einer bestimmten Punktezahl erhält man ein Abzeichen; € 3,00 für fünf Probe- und 10 normale Schüsse (inkl. Abzeichen).",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/34c27592-1d35-4424-b737-59052aa91a73/99/image.jpg",
+      "caption": "luftgewehr"
+    }
+  ],
+  "startDate": "2016-12-29T19:00:00",
+  "endDate": "2017-03-30"
+}

@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Landform"
+  ],
+  "name": "Aumoosalm",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3658148666857",
+    "longitude": "11.1442404985428"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Aue 123 a",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 676 57 23 081"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ed0d849e-2770-4b75-8166-641be20aa04a/99/image.jpeg",
+      "caption": "Aumoosalm"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5ef2a185-b52d-4715-9cf3-692c32a4f991/99/image.jpg",
+      "caption": "Logo"
+    }
+  ]
+}

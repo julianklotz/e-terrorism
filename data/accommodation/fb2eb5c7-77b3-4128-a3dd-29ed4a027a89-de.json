@@ -1,0 +1,1318 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://www.hotelschoenegg.at",
+    "http://www.facebook.com/hotelschoenegg.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Hotel Schoenegg",
+    "streetAddress": "Speckbacherstr. 174",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 23750",
+    "faxNumber": "(0043) 5212 2064 300",
+    "email": "info@hotelschoenegg.at",
+    "url": "http://www.hotelschoenegg.at"
+  },
+  "name": "Hotel Schönegg",
+  "description": [
+    "„3 Sterne zum Wohlfühlen“ erwarten Sie - nur 4 Gehminuten vom Zentrum - in ruhiger und erholsamer Lage! Bei familiärer Bewirtung und gelebter Gastfreundschaft spüren Sie im gesamten 3* Hotel Schönegg in Seefeld in Tirol die Herzlichkeit der Familie Schwenniger, die Sie einlädt, einen erlebnisreichen Urlaub in der Olympiaregion Seefeld zu verbringen.\n\nIm Umkreis von 3 bis 15 Gehminuten ist ab dem Hotel Schönegg von der Seefelder Fußgängerzone über das Regionsbus- und Skibussystem bis hin zu den Einstiegen in top gepflegte Wanderwege und Loipen alles „ums Eck“ zu Fuß erreichbar, was unser Hotel zum idealen Ausgangspunkt für Ihren Sommer- oder Winterurlaub macht.\n\nDie freundlich-hellen Einzel-, Doppel-, Familienzimmer und Suiten schenken eine traumhafte Aussicht auf das beliebte Karwendelgebirge, die markante Hohe Munde oder den nahegelegenen Gschwandtkopf.\n\nAuf einen angenehmen Empfang können Sie sich mit Ihrer Familie bereits in der gemütlichen Hotelhalle freuen, die ebenso wie alle Zimmer mit Gratis W-LAN ausgestattet ist und neben der neuen Hotelbar auch abends Raum für gute Gespräche in geschmackvollem Tiroler Ambiente bietet. Kinder freuen sich über die Spaß versprechende Kinderspielecke. Von den Zimmern über den Speisesaal bis hin zum Garten mit Sonnenterrasse sind alle Stockwerke über einen Personenlift bequem erreichbar. \n\nNehmen Sie Platz in unserem Restaurant, um sich heimischen und internationalen Köstlichkeiten hinzugeben: Verwöhnen Sie Ihren Gaumen mit dem vielseitigen Frühstücksbuffet mit 78 verschiedenen Qualitäts-Produkten oder dem täglichen Wahlmenü am Abend einschließlich Vital-Variante – das schmeckt nach Urlaub! Als extra „Zuckerl“ sorgt unser kostenloses Kuchenbuffet für süße Versuchungen am Nachmittag (im Winter täglich, im Sommer wöchentlich).\n\nEnergie spenden zudem die hauseigene, finnische Sauna, die Physiotherm Infrarotkabine, Erlebnisduschen und unser Ruheraum mit Heuaroma für wunderbare Momente der Entspannung im Hotel Schönegg inmitten Tirols beeindruckender Bergwelt.\n\nZusätzliches Plus: Unsere Gäste haben Sommer wie Winter freien Eintritt in das Olympiabad Seefeld (werktags von Montag bis Donnerstag). Weitere Inklusivleistungen sind im Sommer kostenlos geführte Wanderungen, der Verleih von Fahrrädern sowie die Greenfee Ermäßigung beim Golfclub Seefeld-Reith. Im Winter ist der Seefelder Skilift Geigenbühel mit 3 Gehminuten „zum Greifen nahe“ und optimal für die ersten Skiversuche Ihrer Kinder.\n\nBei Astrid und Martin Schwenniger im 3* Hotel Schönegg in Seefeld in Tirol finden Sie Ihre persönliche Kraftquelle in der Olympiaregion Seefeld, für entspannte Ferien mit Familie oder Freunden!\n",
+    "WICHTIGE INFORMATIONEN:\nDie Anzahlung ist nur notwending wenn Sie das erste Mal zu uns kommen. Bei einem Wiedersehen müssen Sie  KEINE Anzahlung mehr leisten. \n\nSTORNO: (ausgenommen Weihnachten/Silvester)\nBis 1 Monat vor Anreise keine Stornogebühr. 1 Monat bis 11 Tage 70% des Gesamtpreises, 10 Tage - Anreisetag, No Show,verspätete Anreise, vorz. Abreise 100% des Zimmerpreises.\n\n",
+    "Einige Tage vor Ihrer Anreise erhalten Sie eine Email von uns mit allen wichtigen Informationen zu Ihrem Urlaub bei uns. \n\n",
+    "Hotel Seefeld Tirol Unterkunft Zimmer Ferien"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "reviewCount": "285"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b025ac80-5030-4980-a0f0-1256c04ecaf4/99/image.jpg",
+      "caption": "Hotel Schönegg Seefeld Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ebe2b4dc-46a6-4664-b6b0-92890258cd83/99/image.jpg",
+      "caption": "Logo Schönegg"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/570fc233-86e2-4b11-be1d-d46101b51cdb/99/image.jpg",
+      "caption": "Hotel Schönegg Seefeld Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/df04f617-a99e-4bc0-9573-57ebd4e15f54/99/image.jpg",
+      "caption": "Hotel Schönegg Seefeld Familie Schwenniger"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7a373c28-f5d4-4ded-98b7-8d5c63ffe065/99/image.jpg",
+      "caption": "Hotel Schönegg Hotelbar vorne"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a147440e-896f-4a19-8403-955d7b361983/99/image.jpg",
+      "caption": "Hotel Schönegg Seefeld Bar groß"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b21c3661-9e4b-400c-a49f-8d87ee4685e3/99/image.jpg",
+      "caption": "Hotel schönegg seefeld Kaminfeuer sch"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6aa3d1c8-e626-4101-b5e3-bdedf895db01/99/image.jpg",
+      "caption": "Hotel Schönegg Seefeld HH + Rezeption "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/cc8baba2-a610-4f5d-b3e6-d1e65ada6723/99/image.jpg",
+      "caption": "Hotel Schönegg Seefeld Hotelhalle Speisesaal"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a3dd8a84-7bc7-4371-a5b2-64bdfd89abab/99/image.jpg",
+      "caption": "Hotel Schönegg Seefeld Speisesaal"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3be7df5e-648f-4273-b35b-4d30cb56bdbf/99/image.jpg",
+      "caption": "Hotel Schönegg Seefeld Sauna"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d61097c9-c364-463a-bc18-7d821273e42c/99/image.jpg",
+      "caption": "Infrarot"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/45afaee9-f162-489a-bd36-64c72f380eaa/99/image.jpg",
+      "caption": "Hotel Schönegg Seefeld Herzlich Willkommen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a1f6de17-6125-4dd1-9140-c75297047bd6/99/image.jpg",
+      "caption": "Hotel Schönegg Seefeld Garten"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b6ab634d-1dea-4dcf-a243-b516072b5cc6/99/image.jpg",
+      "caption": "Hotel Schönegg Seefeld Garten"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/21120050-81a3-498b-8b6f-facbedbf0b53/99/image.jpg",
+      "caption": "Hotel Schönegg Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/513cf7c4-3aca-496f-ae14-4dba8bce0180/99/image.jpg",
+      "caption": "Hotel Schönegg Seefeld Garten"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/bad83f66-6b9b-4c57-8f24-1600b2d61fad/99/image.jpg",
+      "caption": "Hotel Schönegg Seefeld  Jonny"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e07c1907-5062-4335-85ff-596787418fb2/99/image.jpg",
+      "caption": "Hotel Schoenegg Hotelbar "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/30d5970c-5baf-405d-91ed-26e67f5647bd/99/image.jpg",
+      "caption": "Hotel Schönegg Seefeld Bar"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/92a8222a-2d5c-424a-8dad-16a9c744d163/99/image.jpg",
+      "caption": "Hotel Schönegg Seefeld Hotelhalle"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c9f4bed1-60fd-475b-bab6-e9a6101bedca/99/image.jpg",
+      "caption": "Hotel Schönegg Seefeld Speisesaal"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e3f74640-d2e5-4eb1-882e-00f0cea0425d/99/image.jpg",
+      "caption": "Hotel schoenegg Seefeld 208"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/90b5b3e4-378e-48b9-8697-5a74b61462d4/99/image.jpg",
+      "caption": "Hotel Schönegg Seefeld Juniorsuite A"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/eaf12e7c-e45d-4e4d-ab28-64f1b05f05d8/99/image.jpg",
+      "caption": "Hotel Schönegg Seefeld Doppel B"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7858aed3-0473-4e74-9ab2-ed60629114bd/99/image.jpg",
+      "caption": "Hotel Schönegg Seefeld Beispiel Badezimmer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3322397377619",
+    "longitude": "11.1900942027569"
+  },
+  "paymentAccepted": [
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Junior Suite, Dusche und Bad, WC, Balkon",
+      "description": "Helle, geräumige und gemütliche Zimmer mit Blick auf Seefelds Hausberge. \n\nAusstattung: Badewanne mit integrierter Dusche/WC, Fön, Balkon, Telefon, Kabel Flat TV, Radio, Safe, gratis WLan und ein gemütlicher Wohnteil. \n\nIdeal für Familien mit bis zu 2 Kindern und wenn Sie es gerne größer haben. Besonders Balkongenießer lieben diese Zimmer, da Sie einen fantastischen Blick auf Seefelds Hausberge Hohe Munde und Hocheder haben. Ca. 25-32 m2 für 2 - 4 Pers.\n\n.\n\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Juniorsuite mit Balkon",
+          "description": "Helle, geräumige und gemütliche Zimmer mit Blick auf Seefelds Hausberge. \n\nAusstattung: Badewanne mit integrierter Dusche/WC, Fön, Balkon, Telefon, Kabel Flat TV, Radio, Safe, gratis WLan und ein gemütlicher Wohnteil. \n\nIdeal für Familien mit bis zu 2 Kindern und wenn Sie es gerne größer haben. Besonders Balkongenießer lieben diese Zimmer, da Sie einen fantastischen Blick auf Seefelds Hausberge Hohe Munde und Hocheder haben. Ca. 25-32 m2 für 2 - 4 Pers.\n\n.\n\n",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Langlaufpauschale 5 Nächte/ Juniorsuite mit Balkon",
+          "description": "Langlaufurlaub mit Loipenbenützung\n\n- 5 Nächte in der Juniosutie mit Bad/WC, Balkopn, Wohnteil und Wifi\n- 5 x Halbpension mit tägl. Salatbuffet und Themenabenden\n- wöchentlich Bauern- und Dessertbuffet\n- jeden Nachmittag Plausch in der Hotelhalle bei unserem Kuchen- oder Tortenbuffet \n- die Sauna und Infrarotkabine im Hotel\n- Eintritt ins Erlebnishallenbad OLYMPIA (Mo-Do)\n- Kostenlose Loipenbenützung\n- Kostenlose Nutzung des Busses zu allen Loipen in der Region",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/19af9f6e-dd01-440f-b3b0-fa5807348aad/99/image.jpg",
+              "caption": "Hotel Schönegg Seefeld Loipenpauschale"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/02295cdc-9463-450f-9395-42bba6ca7bac/99/image.jpg",
+              "caption": "Hotel Schönegg Seefeld Hotel Winter"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Langlaufpauschale 7 Nächte / Juniorsuite Balkon",
+          "description": "Langlaufurlaub mit Loipenbenützung\n\n- 7 Nächte in der Juniorsuite mit Bad/WC, Balkon, Wohnteil und Wifi\n- 7 x Halbpension mit tägl. Salatbuffet und Themenabenden\n- wöchentlich Bauern- und Dessertbuffet\n- jeden Nachmittag Plausch in der Hotelhalle bei unserem Kuchen- oder Tortenbuffet \n- die Sauna und Infrarotkabine im Hotel\n- Eintritt ins Erlebnishallenbad OLYMPIA (Mo-Do)\n- Kostenlose Loipenbenützung \n- Kostenlose Nutzung des Busses zu allen Loipen in der Region",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/5c7c5a89-b187-435b-8bb9-2d2c603a3915/99/image.jpg",
+              "caption": "Hotel Schönegg Seefeld Loipenpauschale"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/70a996ed-46b1-4da3-b2ab-7953560bb1e4/99/image.jpg",
+              "caption": "Hotel Schönegg Seefeld Hotel Winter"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Familie + Berge / 7 Nächte  Juniorsuite mit Balkon",
+          "description": "FAMILIENWANDERFERIEN\n\n- 7 x Halbpension und Themenabende\n- wöchentlich Kuchenbuffet am Nachmittag\n- Eintritt ins Olympiaerlebnisschwimmbad (werktags, MO-DO)\n- Minigolf\n- hauseigene geführte Wanderungen\n- detaillierte Wanderkarte der gesamten Olympiaregion\n- Regionsbusticket für das gesamte Seefelder Plateau\n           ",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/c1e0ed57-c29e-47a6-a57c-83c6a1752d14/99/image.jpg",
+              "caption": "Hotel Schönegg Seefeld Hotel Sommer"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "7 Nächte Hotel + 3 x Green Fee Seefeld Wildmoos",
+          "description": "Hotel + Golf 3 x Green Fee inklusive\n\n•  7 Nächte Juniorsuite mit Balkon\n•  7 x Halbpension und Themenabende\n•  wöchentlich Kuchenbuffet am Nachmittag\n•  Eintritt ins Olympiaerlebnisschwimmbad \n•  3 x Green Fee am Golfplatz Seefeld Wildmoos (18 Loch)\n",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/226db9af-e7cd-4c4a-b28d-2bf5e8ee76d3/99/image.jpg",
+              "caption": "Hotel Schönegg Seefeld Golfpauschale"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/9ea22198-d501-4ac1-bb98-fe3786983edb/99/image.jpg",
+              "caption": "Hotel Schönegg Seefeld Hotel Sommer"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Junior Suite, Dusche und Bad, WC, Balkon",
+          "description": [
+            "EINFACH MAL WEG\n\n•\thelle, freundliche Zimmer mit Aussicht auf Seefelds schöne Bergwelt \n•\treichhaltiges Frühstücksbuffet sowie Müsliecke\n•\tausgewählte Wahlmenüs am Abend plus Salatbuffet \n•\tverschiedene Themenabende\n•\twöchentlich Kuchenbuffet am Nachmittag\n•\tSeefeld entdecken mit unserem hauseigenen Wanderführer\n•\tErholung beim schwimmen im Olympia Erlebnisschwimmbad (MO-DO) \n•\tunterhaltsames Minigolfen \n•\tfamiliäre Atmosphäre und gelebte Gastfreundschaft die man spürt",
+            "3 TAGE SEEFELD zum ERHOLEN und GENIESSEN\n\n•\t3 Nächte im Doppelzimmer Ihrer Wahl\n•\t3 x Halbpensione und/oder versch. Themenabende\n•\tKuchenbuffet am Nachmittag (Im WI täglich, im SO wöchentlich)\n•\tSchwitzen in unserer hoteleigenen finnischen Sauna \n•\tund Tiefenwärme von innen in unserer Infrarotkabine\n•\tErholung beim Schwimmen im Olympia Erlebnisschwimmbad (MO-DO) \n•\tfamiliäre Atmosphäre und gelebte Gastfreundschaft die man spürt -überall"
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Junior Suite, Dusche und Bad, WC, Balkon",
+          "description": "Skiurlaub mit Skipass inkludiert\n7 Nächte Hotel - 6 Tage Skipass\n\n- 7 Nächte im Doppelzimmer Ihrer Auswahl\n- 7 x Halbpension mit tägl. Salatbuffet und Themenabenden\n- wöchentlich Bauern- und Dessertbuffet\n- jeden Nachmittag Plausch in der Hotelhalle bei unserem Kuchen- oder Tortenbuffet \n- die Sauna und Infrarotkabine im Hotel\n- Eintritt ins Erlebnishallenbad OLYMPIA (Mo-Do)\n- Skipass HAPPY SKI CARD (gültig für Seefeld (Rosshütte, Gschwandtkopf,  \n  Geigenbühel, Birkelnlift, Neuleutasch)",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "7 N Wandern für Alle, Juniorsuite mit Balkon",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "7 N Golfpauschale, Juniorsuite mit Balkon",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "7 N Langlaufpauschal, Juniorsuite mit Balkon",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "64.00",
+          "maxPrice": "160.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "64.00",
+          "maxPrice": "160.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "64.00",
+          "maxPrice": "160.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "426.00",
+          "maxPrice": "426.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "426.00",
+          "maxPrice": "426.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "426.00",
+          "maxPrice": "426.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "582.00",
+          "maxPrice": "582.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "582.00",
+          "maxPrice": "582.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "582.00",
+          "maxPrice": "582.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "460.00",
+          "maxPrice": "523.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "460.00",
+          "maxPrice": "523.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "460.00",
+          "maxPrice": "523.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "664.00",
+          "maxPrice": "727.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "664.00",
+          "maxPrice": "727.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "664.00",
+          "maxPrice": "727.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "460.00",
+          "maxPrice": "523.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "460.00",
+          "maxPrice": "523.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "509.00",
+          "maxPrice": "509.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "685.00",
+          "maxPrice": "727.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "685.00",
+          "maxPrice": "727.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "685.00",
+          "maxPrice": "727.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "596.00",
+          "maxPrice": "722.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "596.00",
+          "maxPrice": "722.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "596.00",
+          "maxPrice": "722.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche und Bad, WC, Balkon",
+      "description": "Helle und sehr gemütliche Zimmer mit Aussicht auf Seefelds Hausberge Hohe Munde, Gschwandtkopf und Hocheder. \n\nEntweder als Doppel, Dreibett oder mit getrennten Betten buchbar. Unsere meist gebucht Kategorie. Ausstattung: Badewanne mit integrierter Dusche, WC, Fön, Balkon, Telefon, Kabel Flat TV, Radio, Safe und gratis WLan.\n\nIdeal für Familien mit einem kleineren Kind oder wenn Sie kein riesiges Zimmer brauchen aber doch eine bestimmte Wohlfühlgröße möchten. 18-24 m² für 2 - 3 Personen.\n\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Balkon",
+          "description": "Helle und sehr gemütliche Zimmer mit Aussicht auf Seefelds Hausberge Hohe Munde, Gschwandtkopf und Hocheder. \n\nEntweder als Doppel, Dreibett oder mit getrennten Betten buchbar. Unsere meist gebucht Kategorie. Ausstattung: Badewanne mit integrierter Dusche, WC, Fön, Balkon, Telefon, Kabel Flat TV, Radio, Safe und gratis WLan.\n\nIdeal für Familien mit einem kleineren Kind oder wenn Sie kein riesiges Zimmer brauchen aber doch eine bestimmte Wohlfühlgröße möchten. 18-24 m² für 2 - 3 Personen.\n\n\n\n",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Langlaufpauschale 3 Nächte/ Doppelzimmer Balkon",
+          "description": "Langlaufurlaub mit Loipenbenützung\n\n- 3 Nächte im Doppelzimmer mit Bad/WC, Balkon und Wifi\n- 3 x Halbpension mit tägl. Salatbuffet und Themenabenden\n- wöchentlich Bauern- und Dessertbuffet\n- jeden Nachmittag Plausch in der Hotelhalle bei unserem Kuchen- oder Tortenbuffet \n- die Sauna und Infrarotkabine im Hotel\n- Eintritt ins Erlebnishallenbad OLYMPIA (Mo-Do)\n- Kostenlose Loipenbenützung\n- Kostenlose Nutzung des Busses zu allen Loipen in der Region",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/d40bda5c-bf3d-4719-ab25-92e93d132ccf/99/image.jpg",
+              "caption": "Hotel Schönegg Seefeld Hotel Winter"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Langlaufpauschale 7 Nächte Doppelzimmer Balkon",
+          "description": "Langlaufurlaub mit Loipenbenützung\n\n- 7 Nächte im Doppelzimmer mit Bad/WC, Balkon und Wifi\n- 7 x Halbpension mit tägl. Salatbuffet und Themenabenden\n- wöchentlich Bauern- und Dessertbuffet\n- jeden Nachmittag Plausch in der Hotelhalle bei unserem Kuchen- oder Tortenbuffet \n- die Sauna und Infrarotkabine im Hotel\n- Eintritt ins Erlebnishallenbad OLYMPIA (Mo-Do)\n- Kostenlose Loipenbenützung\n- Kostenlose Nutzung des Busses zu allen Loipen in der Region",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/ed655ede-ad04-4247-bada-5d0e6ed26f97/99/image.jpg",
+              "caption": "Hotel Schönegg Seefeld Langlaufpauschale"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/51ab2f87-d21c-424c-817d-74cb4a852d22/99/image.jpg",
+              "caption": "Hotel Schöengg Seefeld Hotel Winter"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Skipasspauschale Doppelzimmer Balkon",
+          "description": "Skiurlaub mit Skipass inkludiert\n7 Nächte Hotel - 6 Tage Skipass\n\n- 7 Nächte im Doppelzimmer Ihrer Auswahl\n- 7 x Halbpension mit tägl. Salatbuffet und Themenabenden\n- wöchentlich Bauern- und Dessertbuffet\n- jeden Nachmittag Plausch in der Hotelhalle bei unserem Kuchen- oder Tortenbuffet \n- die Sauna und Infrarotkabine im Hotel\n- Eintritt ins Erlebnishallenbad OLYMPIA (Mo-Do)\n- Skipass HAPPY SKI CARD (gültig für Seefeld (Rosshütte, Gschwandtkopf,  \n  Geigenbühel, Birkelnlift, Neuleutasch)",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/5f286341-c697-4188-a547-9b9e309d2479/99/image.jpg",
+              "caption": "Hotel Schöengg Seefeld Skipauschale"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/02a8e4ad-521e-4deb-8640-e4a72b975405/99/image.jpg",
+              "caption": "Hotel Schönegg Seefeld Hotel Winter"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "7 Nächte Wandern für Alle + Regiobuskarte inkl",
+          "description": "7 Nächte - WANDERN FÜR ALLE \n\n- 7 Nächte im Doppelzimmer mit Bad/WC, Bakon und Wifi\n- 7 x Halbpension und Themenabende, wöchentlich Kuchenbuffet am Nachmittag\n- Busticket für den Regionsbus am gesamten Seefelder Plateau\n- hauseigene geführte Wanderungen (MO-FR)\n- detaillierte Wanderkarte der gesamten Olympiaregion\n- Eintritt ins Olympiaerlebnisschwimmbad(werktags,MO-DO)\n- freier Eintritt zum Minigolfen\n              ",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/343534a5-f4cd-4162-a8df-e72d49f6202c/99/image.jpg",
+              "caption": "Hotel Schönegg Seefeld Wanderpauschale"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/2b21afa5-6de0-4985-a073-08d40e818d4c/99/image.jpg",
+              "caption": "Hotel Schönegg Sommer Hotel Sommer"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "5 Nächte Hotel + 2 x Green Fee Seefeld Wildmoos",
+          "description": "Hotel +  2 x Green Fee\n\n•  5 Nächte Doppelzimmer mit Balkon\n•  5 x Halbpension und Themenabende\n•  wöchentlich Kuchenbuffet am Nachmittag\n•  Eintritt ins Olympiaerlebnisschwimmbad \n•  2 x Green Fee am Golfplatz Seefeld Wildmoos (18 Loch)\n",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/01bf6b79-17e4-4420-9ddb-6906c8db3d67/99/image.jpg",
+              "caption": "Hotel Schönegg Seefeld Golfpauschale"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/69c13938-aa81-4121-9fd2-9374f4de7fe5/99/image.jpg",
+              "caption": "Hotel Schönegg Sommer Hotel Sommer"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "7 Nächte Hotel und E-Bike inklusive",
+          "description": "Hotel + E Bike inklusive\n\n- 7 Nächte im Doppelzimmer mit Balkon und Wifi\n- 7 x Halbpension mit Wahlmenü, wöchentlich Kuchenbuffet am Nachmittag\n- 2 x Mountain E-Bike ganztags\n- freie Nützung unserer Citybikes\n- hauseigene geführte Wanderungen\n- detaillierte Wanderkarte der gesamten Olympiaregion\n- Eintritt ins Olympiaerlebnisschwimmbad(werktags, MO-DO)\n- freier Eintritt zum Minigolfen",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/89b8c3c8-33f1-40a9-80fa-bb9825f032bb/99/image.jpg",
+              "caption": "Hotel Schönegg Seefeld E Bike Pauschale"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/b2e9f494-a6a1-4de1-9159-e6fa741ca2e3/99/image.jpg",
+              "caption": "Hotel Schönegg Seefeld Sommer"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "3 Nächte Wandern mit Regionsbuskarte inklusive",
+          "description": "3 Tage WANDERN in SEEFELD mit Regionsbuskarte inklusive\n\n3 Nächte im Doppelzimmer mit Balkon\n3 x Halbpension mit Wahlmenü, wöchentlich Kuchenbuffet am Nachmittag\nRegionsbuskarte für das gesamte Seefelder Plateau\nhauseigene geführte Wanderungen (MO-FR)\ndetaillierte Wanderkarte der gesamten Olympiaregion\nEintritt ins Olympiaerlebnisschwimmbad(werktags,MO-DO)\nfreier Eintritt zum Minigolfen",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/4416a5f2-9c75-47b2-9933-01075d83eb4b/99/image.jpg",
+              "caption": "Hotel Schönegg Seefeld Wanderpauschale"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/0fc4ff97-f013-4840-a90b-751c481cb30d/99/image.jpg",
+              "caption": "Hotel Schönegg Sommer Seefeld"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer, Dusche und Bad, WC, Balkon",
+          "description": "Langlaufurlaub mit Loipenbenützung\n\n- 5 Nächte im Doppelzimmer Ihrer Auswahl\n- 5 x Halbpension mit tägl. Salatbuffet und Themenabenden\n- wöchentlich Bauern- und Dessertbuffet\n- jeden Nachmittag Plausch in der Hotelhalle bei unserem Kuchen- oder Tortenbuffet \n- die Sauna und Infrarotkabine im Hotel\n- Eintritt ins Erlebnishallenbad OLYMPIA (Mo-Do)\n- Kostenlose Loipenbenützung mit Ihrer Gästekarte",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "3 N Langlaufpauschale, Doppelzimmer mit Balkon",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "7 N Wandern für Alle, Doppelzimmer mit Balkon",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "7 N Golfpauschale, Doppelzimmer mit Balkon",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "7 N  E-Bike Pauschal, Doppelzimmer mit Balkon",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "3 N Wandern für Alle, Doppelzimmer mit Balkon",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "7 N Langlaufpauschal, Doppelzimmer mit Balkon",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "59.00",
+          "maxPrice": "151.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "270.00",
+          "maxPrice": "270.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "546.00",
+          "maxPrice": "546.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "966.00",
+          "maxPrice": "966.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "425.00",
+          "maxPrice": "481.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "439.00",
+          "maxPrice": "479.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "480.00",
+          "maxPrice": "544.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "189.00",
+          "maxPrice": "215.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "298.00",
+          "maxPrice": "298.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "425.00",
+          "maxPrice": "495.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "629.00",
+          "maxPrice": "685.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "468.00",
+          "maxPrice": "544.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "177.00",
+          "maxPrice": "201.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "554.00",
+          "maxPrice": "666.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Freundliche Zimmer mit Aussicht auf das beeindruckende Karwendelgebirge. Diese Zimmer sind als Doppel- oder mit getrennten Betten buchbar. \n\nAusstattung: Dusche/WC, Fön, Telefon, Kabel Flat TV, Radio, Safe und gratis WLan.\n\nIdeal wenn Sie aktiv sind und sich wenig im Zimmer aufhalten, wenn Sie günstig Urlaub machen möchten oder für Einzelreisende die sich den Luxus eines Doppelzimmers zur Alleinbenützung gönnen (gegen Aufpreis). Ca. 20-22 m².\n\n.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer Karwendel",
+          "description": "Freundliche Zimmer mit Aussicht auf das beeindruckende Karwendelgebirge. Diese Zimmer sind als Doppel- oder mit getrennten Betten buchbar. \n\nAusstattung: Dusche/WC, Fön, Telefon, Kabel Flat TV, Radio, Safe und gratis WLan.\n\nIdeal wenn Sie aktiv sind und sich wenig im Zimmer aufhalten, wenn Sie günstig Urlaub machen möchten oder für Einzelreisende die sich den Luxus eines Doppelzimmers zur Alleinbenützung gönnen (gegen Aufpreis). Ca. 20-22 m².\n\n.",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Kurzaufenthalte / Doppelzimmer B2",
+          "description": [
+            "FEIERTAGSANGEBOTE oder EINFACH MAL WEG\n\n•\t3 Nächte im Doppelzimmer Ihrer Wahl \n•\t3 x Halbpension und versch. Themenabende\n•\tKuchenbuffet am Nachmittag (täglich im winter, wöchentlich im Sommer)\n•\tSeefeld entdecken mit unserem hauseigenen Wanderführer\n•\tErholung beim Schwimmen im Olympia Erlebnisschwimmbad (MO-DO) \n•\tunterhaltsames Minigolfen \n•\tfamiliäre Atmosphäre und gelebte Gastfreundschaft die man spürt",
+            "PACKAGE TAGE\n\n•\thelle, freundliche Zimmer mit Aussicht auf Seefelds schöne Bergwelt \n•\treichhaltiges Frühstücksbuffet sowie Müsliecke\n•\tausgewählte Wahlmenüs am Abend plus Salatbuffet \n•\ttäglich Kuchenbuffet am Nachmittag\n•\tSchwitzen in unserer hoteleigenen finnischen Sauna \n•\tund Tiefenwärme von innen in unserer Infrarotkabine\n•\tErholung beim schwimmen im Olympia Erlebnisschwimmbad (MO-DO) \n•\tfamiliäre Atmosphäre und gelebte Gastfreundschaft die man spürt - überall"
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Langlaufurlaub 7 Tage",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "73.00",
+          "maxPrice": "290.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "45.00",
+          "maxPrice": "146.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC, Balkon",
+      "description": "Günstige Zimmer die direkt oberhalb des Gartens liegen. Südbalkon mit Aussicht auf die Hohe Munde und den Gschwandtkopf und einer Sonne bis sie untergeht! \n\nAusstattung: Dusche, WC, Fön, Balkon, Telefon, Kabel Flat TV, Radio, Safe und gratis WLan. \n\nIdeal wenn Sie aktiv sind, viel im Freien und wenig am Zimmer, wenn Sie eine Dusche einer Badewanne vorziehen oder sich den Luxus eines Doppelzimmers zur Alleinbenützung gönnen (gegen Aufpreis). Ca. 18 m². \n\n.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer C Balkon",
+          "description": "Günstige Zimmer die direkt oberhalb des Gartens liegen. Südbalkon mit Aussicht auf die Hohe Munde und den Gschwandtkopf und einer Sonne bis sie untergeht! \n\nAusstattung: Dusche, WC, Fön, Balkon, Telefon, Kabel Flat TV, Radio, Safe und gratis WLan. \n\nIdeal wenn Sie aktiv sind, viel im Freien und wenig am Zimmer, wenn Sie eine Dusche einer Badewanne vorziehen oder sich den Luxus eines Doppelzimmers zur Alleinbenützung gönnen (gegen Aufpreis). Ca. 18 m². \n\n.",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer, Dusche, WC, Balkon",
+          "description": "Langlaufurlaub mit Loipenbenützung\n\n- 7 Nächte im Doppelzimmer Ihrer Auswahl\n- 7 x Halbpension mit tägl. Salatbuffet und Themenabenden\n- wöchentlich Bauern- und Dessertbuffet\n- jeden Nachmittag Plausch in der Hotelhalle bei unserem Kuchen- oder Tortenbuffet \n- die Sauna und Infrarotkabine im Hotel\n- Eintritt ins Erlebnishallenbad OLYMPIA (Mo-Do)\n- Kostenlose Loipenbenützung mit Ihrer Gästekarte",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer, Dusche, WC, Balkon",
+          "description": "5 Tage WANDERN in SEEFELD mit Bergbahnkarte inklusive\n\n5 Nächte im Doppelzimmer mit Balkon\n5 x Halbpension und Themenabende, wöchentlich Kuchenbuffet am Nachmittag\n1 x Rosshütten Bergticket Topkarte alle 3 Bergbahnen hin und retour\nhauseigene geführte Wanderungen (MO-FR)\ndetaillierte Wanderkarte der gesamten Olympiaregion\nEintritt ins Olympiaerlebnisschwimmbad(werktags,MO-DO)\nfreier Eintritt zum Minigolfen",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "3 N Wandern für Alle, Doppelzimmer C Balkon",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "80.00",
+          "maxPrice": "290.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "45.00",
+          "maxPrice": "146.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "280.00",
+          "maxPrice": "280.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "162.00",
+          "maxPrice": "186.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Suite, Dusche und Badewanne, Balkon",
+      "description": "Hotelsuite mit getrenntem Wohnzimmer und Schlafraum (2 Räume) und herrlichem Blick über das eindrucksvolle Karwendelgebirge. \n\nAusstattung: Badewanne mit integrierter Dusche, WC, Fön, eigener Balkon, Telefon, Kabel Flat TV, Radio, Safe und gratis WLan.\n\nIdeal für Familien mit 2 Kindern, wenn Sie es komfortabel lieben oder Sie es sich gerne im Wohnzimmer gemütlich machen. Und ganz besonders für Schnarcher, wo 1 Person dann im Wohnzimmer schlafen kann. Ca. 34 m² für 2 - 4 Personen.\n\n.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Hotelsuite mit Balkon",
+          "description": "Hotelsuite mit getrenntem Wohnzimmer und Schlafraum (2 Räume) und herrlichem Blick über das eindrucksvolle Karwendelgebirge. \n\nAusstattung: Badewanne mit integrierter Dusche, WC, Fön, eigener Balkon, Telefon, Kabel Flat TV, Radio, Safe und gratis WLan.\n\nIdeal für Familien mit 2 Kindern, wenn Sie es komfortabel lieben oder Sie es sich gerne im Wohnzimmer gemütlich machen. Und ganz besonders für Schnarcher, wo 1 Person dann im Wohnzimmer schlafen kann. Ca. 34 m² für 2 - 4 Personen.\n\n\n.",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "67.00",
+          "maxPrice": "165.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "67.00",
+          "maxPrice": "165.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "67.00",
+          "maxPrice": "165.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Junior Suite, Dusche und Bad, WC, Balkon",
+      "description": "Große und helle Zimmer mit Blick auf Hohe Munde und Gschwandtkopf. Diese Zimmer liegen direkt über dem Hotelgarten und haben einen „rundum“ Balkon. \n\nAusstattung: Badewanne mit integrierter Dusche, WC, Fön, Balkon, Telefon, Kabel Flat TV, Radio, Safe, gratis WLan und ein gemütlicher Wohnteil. \n\nIdeal für Familien mit bis zu 3 Kindern, wenn Sie es gerne großzügig haben oder wenn Sie sich viel im Zimmer aufhalten. Ca. 37 m² für 2 - 5 Personen.\n\n.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Junior Suite groß mit Rundumbalkon",
+          "description": "Große und helle Zimmer mit Blick auf Hohe Munde und Gschwandtkopf. Diese Zimmer liegen direkt über dem Hotelgarten und haben einen „rundum“ Balkon. \n\nAusstattung: Badewanne mit integrierter Dusche, WC, Fön, Balkon, Telefon, Kabel Flat TV, Radio, Safe, gratis WLan und ein gemütlicher Wohnteil. \n\nIdeal für Familien mit bis zu 3 Kindern, wenn Sie es gerne großzügig haben oder wenn Sie sich viel im Zimmer aufhalten. Ca. 37 m² für 2 - 5 Personen.\n\n.",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "67.00",
+          "maxPrice": "165.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "67.00",
+          "maxPrice": "165.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "67.00",
+          "maxPrice": "165.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Einzelzimmer, Dusche oder Bad, WC",
+      "description": "Helle Zimmer mit beeindruckendem Blick über das Karwendelgebirge. Ausgestattet mit Badewanne oder Dusche/WC, Fön, Radio, Safe, Telefon und Kabel Flachbildfernseher. 12 - 16 m². Gratis WLAN in allen Zimmern.\n\nIdeal für: Alleinreisende, die Oma oder den Opa, die im Urlaub nicht fehlen dürfen oder Ihren Sohn oder Ihre Tochter, die zu groß sind, um bei Mama und Papa im Zimmer zu übernachten.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Einzelzimmer mit Dusche od. Bad, WC",
+          "description": "Helle Zimmer mit beeindruckendem Blick über das Karwendelgebirge. Ausgestattet mit Badewanne oder Dusche/WC, Fön, Radio, Safe, Telefon und Kabel Flachbildfernseher. 12 - 15 m². Gratis WLAN in allen Zimmern.\n\nIdeal für: Alleinreisende, die Oma oder den Opa, die im Urlaub nicht fehlen dürfen oder Ihren Sohn oder Ihre Tochter, die zu groß sind, um bei Mama und Papa im Zimmer zu übernachten.",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "64.00",
+          "maxPrice": "160.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

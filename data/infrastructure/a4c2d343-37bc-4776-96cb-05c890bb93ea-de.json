@@ -1,0 +1,37 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportingGoodsStore"
+  ],
+  "name": "Modern Ski",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3324969638333",
+    "longitude": "11.187686920166"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Modern Ski",
+    "streetAddress": "Geigenbühel Str. 209",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 3606",
+    "url": "http://www.modern-ski.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e8459374-4684-47c3-962e-3048e24763ad/99/image.jpg",
+      "caption": "Modern Ski 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b754b307-80e8-46c1-bbf4-451af72c68b6/99/image.jpg",
+      "caption": "Modern Ski"
+    }
+  ],
+  "url": [
+    "http://www.modern-ski.at"
+  ]
+}

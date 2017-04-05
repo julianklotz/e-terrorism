@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "HealthAndBeautyBusiness"
+  ],
+  "name": "Pelikan/Kosmetik",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3287447929625",
+    "longitude": "11.188952922821"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Pelikan Friseursalon",
+    "streetAddress": "Bahnhofsplatz389/Citypassage",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2650"
+  },
+  "description": [
+    " ",
+    "nur Kosmetik"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f0c4a49a-793d-443e-9087-99d8a85d29a1/99/image.jpg",
+      "caption": "Pelikan"
+    }
+  ]
+}

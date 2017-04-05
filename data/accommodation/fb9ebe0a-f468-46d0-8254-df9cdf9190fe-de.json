@@ -1,0 +1,20 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Via Pezzentelle, 29",
+    "addressLocality": "Torre del Greco",
+    "postalCode": "80059",
+    "addressCountry": "IT",
+    "telephone": "(0039) 0347 9043587",
+    "email": "marilena.bonito@hotmail.it"
+  },
+  "name": "ZW - Bonito Maria",
+  "currenciesAccepted": "EUR"
+}

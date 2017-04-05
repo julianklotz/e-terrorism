@@ -1,0 +1,181 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.pension-caecilia.com",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Cäcilia",
+    "streetAddress": "Föhrenwald 21",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6630",
+    "faxNumber": "(0043) 5214 20190",
+    "email": "caecilia@aon.at",
+    "url": "http://www.pension-caecilia.com"
+  },
+  "name": "Haus Cäcilia",
+  "description": "KOMMEN SIE ALS GÄSTE UND GEHEN SIE ALS FREUNDE...\nunter diesem Motto würden wir uns freuen, Sie bei uns begrüßen zu dürfen.\nWohlfühlen ist keine Frage des Preises. Bereits ab € 21,- pro Person und Tag entspannen Sie in gemütlichen Doppelzimmern, ganz im Tiroler Stil, mit Sat-TV, Dusche/WC inkl. Frühstücksbuffet. Seit 2010 erstrahlt unser Haus in neuem Glanz - Highlight: unsere neue 2-Zimmer-Wohnung, ein Schmuckstück in puncto rustikaler Eleganz. Besonderheiten: großer Garten mit Grill, Gartenhaus, Fahrradverleih (gratis), ruhige und dennoch sehr zentrale Lage. Selbstverständlichkeit: kleine Aufmerksamkeiten und jederzeit gerne für den Gast da zu sein. Urlaub schon überfällig? Kleine Vorfreude gefällig? WWW.PENSION-CAECILIA.COM. Wir freuen uns auf Ihren Besuch.\nIhre Fam. Neuner",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5.0",
+    "reviewCount": "13"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e2214886-3dd6-49fe-b36c-c827cb368928/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/13716ed6-1531-452d-ae64-2b50ae2a6e24/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/da6e7671-7209-414b-b91e-ca94eea442a3/99/image.jpg",
+      "caption": "Außenansicht Sommer 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/62abae33-adcc-468c-a1b4-b721d3d65a79/99/image.jpg",
+      "caption": "Außenansicht Sommer 3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a24e55f0-b674-43cd-80c5-706e49dfa430/99/image.jpg",
+      "caption": "unsere Familie"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3f4b81d5-ca98-4a26-bd5a-a8277ca27098/99/image.jpg",
+      "caption": "Gartenhaus"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e2bf0d04-ae00-49a7-b48f-43930e3f2eb8/99/image.jpg",
+      "caption": "Aufenthaltsraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e3e7136c-e495-4563-afb0-c43d3e003322/99/image.jpg",
+      "caption": "Balkon"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1e567ee4-f551-4191-b84e-a9c2d666745b/99/image.jpg",
+      "caption": "Tiroler Gastlichkeit"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.373315261186",
+    "longitude": "11.166257047164"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "kostenlos: Handtuchwechsel, Bettwäschenwechsel, Brötchenservice\n\nzu bezahlen: Endreinigung, Ortstaxe, Frühstück",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC",
+      "description": "kostenlos: Handtücher und Bettwäsche, zu bezahlen: Endreinigung, Ortstaxe; Frühstück oder Brötchenservice möglich",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/Wohn-Schlafraum/Dusche, WC",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Einzelzimmer, Dusche, WC",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Einzelzimmer",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "32.00",
+          "maxPrice": "38.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

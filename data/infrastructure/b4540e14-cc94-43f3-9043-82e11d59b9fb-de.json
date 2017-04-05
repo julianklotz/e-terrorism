@@ -1,0 +1,21 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportingGoodsStore"
+  ],
+  "name": "Ski-Point",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3322061074056",
+    "longitude": "11.1882662773132"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Ski-Point",
+    "streetAddress": "Münchner Str. 487",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 699 15990073"
+  }
+}

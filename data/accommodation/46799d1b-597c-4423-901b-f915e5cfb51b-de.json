@@ -1,0 +1,126 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.fewo-leutasch-tirol.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Landhaus Manuela",
+    "streetAddress": "Lehner 192a",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6078",
+    "faxNumber": "(0043) 5214 6078",
+    "email": "landhaus-manuela@aon.at",
+    "url": "http://www.fewo-leutasch-tirol.at"
+  },
+  "name": "Landhaus Manuela",
+  "description": [
+    "Unser Landhaus Manuela liegt idyllisch im Ortsteil Lehner am Waldrand und bietet Ihnen 3 gemütliche Nichtraucher-Ferienwohnungen für 2-4 Personen. Familien mit Kinder sind herzlich Wilkommen. Wir haben ganzjährig geöffnet.",
+    "inklusive: Heizung, Wasser, Strom, Geschirrtücher, Bettwäsche, Handtücher\nexklusive: Ortstaxe, Endreinigung\nPreis auf Anfrage.",
+    "aus Deutschland: Münschen - A95 - Garmisch/Patenkirchen - Mittenwald - Scharnitz - Leutasch/Gasse\n\naus Italien: Brenner - A13 - Innsbruck - A12 - Zirl - Seefeld - Leutasch/Gasse\n\naus der Schweiz: Arlberg - A12 - Telfs - Bairbach - Seefeld - Leutasch/Gasse"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "reviewCount": "29"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c66bdfe4-516b-4072-8a21-5d01d7124a73/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c9162d44-bfac-4d4b-8c32-5f47889f70da/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5d79b46d-ab16-475a-9de2-baf95abe642e/99/image.jpg",
+      "caption": "Sommer Hausansicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/db7a0474-caa9-43ec-844d-47653afe235f/99/image.jpg",
+      "caption": "Haus Manuela Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3820284",
+    "longitude": "11.16146"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Das Appartement im zweiten Stock ist ideal für 4 Personen ausgelegt. In dieser 65 m2 großen Wohnung mit getrenntem Schlafzimmer, Wohnschlafzimmer mit SAT-TV und sonnigem Balkon sowie einer Wohnküche mit gemütlicher Essecke sollen Sie sich ganz wie zu Hause fühlen. (Nichtraucher-Wohnung)",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment Typ A/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Dieses Appartement liegt im ersten Stock und ist für 2 - 4 Personen ausgelegt. Neben einem getrennten Schlafzimmer, Wohnschlafzimmer, SAT-TV und Wohnküche mit einladender Essecke hat diese 50 m2 Wohnung zusätzlich noch einen kleinen Vorraum und als Besonderheit einen traumhaften, riesengroßen Balkon, der Sie garantiert zum Sonnenbaden einlädt.(Nichtraucher-Wohnung)",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment Typ B/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Das Appartement C ( 40 m², 2 Personen ) bietet ein getrenntes Schlafzimmer, Dusche/WC, SAT-TV, sonnigen Balkon, Wohnzimmer und eine Wohnküche mit Essecke. (Nichtraucher-Wohnung)",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment Typ C/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ]
+    }
+  ]
+}

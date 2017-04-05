@@ -1,0 +1,158 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Appartementhaus Hochegg",
+    "streetAddress": "Hocheggstr. 372",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 23270",
+    "faxNumber": "(0043) 5212 2327 11",
+    "email": "hochegg@seefeld-in-tirol.net"
+  },
+  "name": "Appartementhaus Hochegg",
+  "description": [
+    "Familiäres Appartementhaus in ruhiger Lage, 5 Gehminuten vom Zentrum entfernt, Bushaltestelle (Gratis-Skibus) 100 m, Rezeption, Skiraum, Parkplatz. Golfgründerhotel Wildmoos, Ermäßigung beim Golfen und auch Schwimmen im Sportzentrum Seefeld.",
+    "Inklusive: Wäsche, Strom, Endreinigung\nExklusive: Haustiere, Kinderbett,",
+    "Von Innsbruck kommend Richtung Seefeld - Ausfahrt Seefeld MITTE - Richtung Zentrum bis zum Kreisverkehr, dann am Römerweg (3. Abzweigung) bis Abbiegung rechts Hocheggstraße 372.\nWir wünschen Ihnen schon jetzt eine gute Anreise und einen schönen Aufenthalt in Seefeld!"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.8",
+    "reviewCount": "47"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4e634c47-d974-4402-86d9-27973095cb73/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a51dd3af-6fdb-4f9f-9774-3a66a6d2205c/99/image.jpg",
+      "caption": "Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3279339690773",
+    "longitude": "11.1958515644073"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche oder Bad, WC",
+      "description": "Die gemütlich eingerichteten Wohnungen verfügen alle über Telefon, Kabel-TV, Radio",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Ap. 105, N212, 208, /Wohn-Schlafraum/",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche oder Bad, WC, 1 Schlafraum",
+      "description": "Die gemütlich, rustikal eingerichteten Wohnungen verfügen alle über Telefon, Kabel-TV, Radio",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Ap. 106, 214, 207, 209/1 Schlafraum",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC",
+      "description": "Die gemütlich, rustikal eingerichteten Wohnungen verfügen alle über Telefon, Kabel-TV, Radio!",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Ap. 101, 103, 104, 203, 204, 205, 206",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche oder Bad, WC, 2 Schlafräume",
+      "description": "Die gemütlich, rustikal eingerichtete WOhnung verfügt über Telefon, Kabel-TV, Radio",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment 202/2 Schlafräume/Du od. Bad,",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "4"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "70.00",
+          "maxPrice": "110.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "75.00",
+          "maxPrice": "110.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "80.00",
+          "maxPrice": "110.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

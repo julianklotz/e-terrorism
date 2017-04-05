@@ -1,0 +1,21 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http.//",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Bergkristall (Klima)",
+    "streetAddress": "Hocheggstr. 604/11",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "url": "http.//"
+  },
+  "name": "Haus Bergkristall (Klima)",
+  "currenciesAccepted": "EUR"
+}

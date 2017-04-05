@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation"
+  ],
+  "name": "Snowtubing-Schlauchrodeln beim Brandlift",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.384607091698",
+    "longitude": "11.2637598624267"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Brandlift",
+    "streetAddress": "Brand 390",
+    "addressLocality": "Scharnitz",
+    "postalCode": "6108",
+    "addressCountry": "AT",
+    "telephone": "(0043)664 9175135 ",
+    "email": "info@brandlift.at",
+    "url": "http://www.brandlift.at"
+  },
+  "description": "Tel.: 0664/9175135, www.brandlift.at\nMindestteilnehmerzahl: 10  Personen, täglich nach telefonischer Vereinbarung. Snowtubing am Brandlift mit Flutlicht,  ca. 1 1⁄2 Std., inkl. Schlauch, Liftfahrten und 1 Getränk im Brandliftstüberl € 13,00\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d2927cc5-1e24-4a69-8e8b-f9d8a209cfda/99/image.jpg",
+      "caption": "Snowtubing"
+    }
+  ]
+}

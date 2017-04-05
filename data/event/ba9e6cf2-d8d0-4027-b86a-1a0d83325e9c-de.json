@@ -1,0 +1,48 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "Skitest bei Sport Günter",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Sport Günter",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Weidach 318c",
+      "addressLocality": "Leutasch",
+      "postalCode": "6105",
+      "addressCountry": "AT",
+      "telephone": "(0043) 5214 6305",
+      "faxNumber": "(0043) 810 9554 445 584",
+      "email": "info@nordicshop.at",
+      "url": "http://www.nordicshop.at"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Sport Günter",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Weidach 318c",
+      "addressLocality": "Leutasch",
+      "postalCode": "6105",
+      "addressCountry": "AT",
+      "telephone": "(0043) 5214 6305",
+      "faxNumber": "(0043) 810 9554 445 584",
+      "email": "info@nordicshop.at",
+      "url": "http://www.nordicshop.at"
+    }
+  },
+  "description": "Mit TOKO Wachsservice für den Ganghoferlauf. Von 10:00 bis 15:30 Uhr. Testen Sie kostenlos die neuesten Klassik- und Skatingski der Fa. ATOMIC.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a8bb1c8d-7740-47c1-84b7-ca097168fe6b/99/image.jpg",
+      "caption": "Sport Günter"
+    }
+  ],
+  "startDate": "2017-03-03T10:00:00",
+  "endDate": "2017-03-03"
+}

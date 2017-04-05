@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure",
+    "LocalBusiness"
+  ],
+  "name": "Gratis W-Lan beim Musikpavillon in Weidach",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3697927195847",
+    "longitude": "11.1655123219513"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Musikpavillon",
+    "streetAddress": "Weidach 337",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c5f00be9-67cd-4821-92d2-39d0d3df770a/99/image.jpg",
+      "caption": "wlan"
+    }
+  ],
+  "url": [
+    "http://www.leutasch.at"
+  ]
+}

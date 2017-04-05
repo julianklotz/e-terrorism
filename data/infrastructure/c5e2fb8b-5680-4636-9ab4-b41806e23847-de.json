@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation"
+  ],
+  "name": "Geocaching/ Bergbahnen Rosshütte Seefeld-Tirol-Reith AG",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Bergbahnen Rosshütte Seefeld-Triol-Reith AG",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043)5212 24160",
+    "url": "http://www.rosshuette.at"
+  },
+  "description": "Finden Sie die Caches in einem der schönsten Wandergebiete und genießen Sie dabei die herrliche Aussicht - z.B. „Rosshütten Wanderung I-X“ von „Team T.O.M.“! Infos und Koordinaten unter www.geocaching.com.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/446344b6-383b-46aa-a1b5-caf47f54578e/99/image.jpg",
+      "caption": "Geocaching Rosshütte"
+    }
+  ],
+  "url": [
+    "http://www.rosshuette.at"
+  ]
+}

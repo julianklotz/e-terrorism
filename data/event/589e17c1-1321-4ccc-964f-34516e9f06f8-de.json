@@ -1,0 +1,59 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "Osterball der Jungbauernschaft Leutasch",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Leutascher Jungbauern",
+    "employee": {
+      "@type": "Person",
+      "givenName": "Obmann Simon",
+      "familyName": "Krug"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Leutasch",
+      "postalCode": "6105",
+      "addressCountry": "AT",
+      "url": "http://www.jungbauern-leutasch.at"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Saal Hohe Munde ",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "ErlebnisWelt Alpenbad Leutasch",
+      "addressLocality": "Leutasch",
+      "postalCode": "6105",
+      "addressCountry": "AT",
+      "telephone": "(0043) 5214 6380",
+      "faxNumber": "(0043) 5214 6380 16",
+      "email": "info@alpenbad-leutasch.com",
+      "url": "http://www.alpenbad-leutasch.com"
+    }
+  },
+  "description": "Auftanz mit der Luitascher Tanzlmusi und den Leutascher Kinderplattlern um 20.30 Uhr, anschließend musikalische Unterhaltung durch die Band \"Rosskogelbuam\". Entritt: Abendkassa € 8,50, Vorverkauf € 6,50 (erhältlich unter Tel. 0664-2127781). Trachtige Kleidung erwünscht. Einlass ab 16 Jahren!",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3c5f82ee-22b0-47ed-a384-a981be078009/99/image.jpg",
+      "caption": "Jungbauernschaft Leutasch"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/57db00b7-07d5-466f-88a5-edf90cab196c/99/image.jpg",
+      "caption": "Osterball"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/73ce7137-873f-43b5-b646-d431b100a8f4/99/image.jpg",
+      "caption": "Osterball_"
+    }
+  ],
+  "startDate": "2017-04-16T20:00:00",
+  "endDate": "2017-04-16"
+}

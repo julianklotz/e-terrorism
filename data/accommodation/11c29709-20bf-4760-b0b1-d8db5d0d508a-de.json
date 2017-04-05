@@ -1,0 +1,159 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.members.aon.at/kuehrer",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Kührer",
+    "streetAddress": "Hocheggstr. 250",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2328",
+    "faxNumber": "(0043) 5212 2328 4",
+    "email": "kuehrer-seefeld@aon.at",
+    "url": "http://landhaus-kuehrer.at"
+  },
+  "name": "Haus Kührer",
+  "description": [
+    "Ruhiges, sehr zentral gelegenes Landhaus mit 2 Wohnungen. Die Wohnungen sind gemütlich und komplett eingerichtet mit SAT-TV und kostenlosen W-Lan. Die Parkplätze sind überdacht. Wir bieten Ihnen auch einen großen Garten mit Kinderspielplatz.\nIns Zentrum sind es ca. 4 Gehminuten, zum kostenlosen Schi- und Shuttlebus 200m.",
+    "Inklusive: Heizung, Wasser, Strom, Wäsche\n",
+    "Vom Bahnhof ca. 500m am Golfplatz vorbei.\nVon D. kommend, Ausfahrt Seefeld Mitte, ca. 500m westlich."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b949dc3b-0ffd-4d1d-a016-43185effae71/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d3405e65-3560-4e3c-a8b7-05d507c4045b/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7c04ee7b-e8d7-4c5f-840e-2c0c3bfd9950/99/image.jpg",
+      "caption": "Sommer 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e7e7f5bc-a1bf-48ca-8593-f9958f9a6a68/99/image.jpg",
+      "caption": "Garten"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3dcff898-66b3-45b6-ad5b-8c540dde38b9/99/image.jpg",
+      "caption": "Garten 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7d16e250-9f00-4d35-b015-b07b05daf729/99/image.jpg",
+      "caption": "Gartenhäuschen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4ae6bd55-6452-4758-9051-e5b9b7d5672f/99/image.jpg",
+      "caption": "überdachter Parkplatz"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e2cc3ef1-baf2-459c-b128-cffb4b434c2c/99/image.jpg",
+      "caption": "Spielplatz"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3276867198555",
+    "longitude": "11.1935287714005"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "Komplett eingerichtet (Wäsche, Geschirr), Westbalkon, Liegewiese mit Kinderspielplatz, überdachter Parkplatz, 4 Gehminuten ins Zentrum.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Wohnung B/2 Schlafräume/Dusche, WC",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "65.00",
+          "maxPrice": "72.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "65.00",
+          "maxPrice": "72.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "70.00",
+          "maxPrice": "79.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Komplett eingerichtet (Wäsche, Geschirr), Süd-SW. Balkon, Liegewiese m. Kinderspielplatz, überdachter Parkplatz, 4 Gehminuten ins Zentrum.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment A /1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "52.00",
+          "maxPrice": "62.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "52.00",
+          "maxPrice": "62.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

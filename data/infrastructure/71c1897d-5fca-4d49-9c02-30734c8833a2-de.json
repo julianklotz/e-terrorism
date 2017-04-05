@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "HealthAndBeautyBusiness"
+  ],
+  "name": "Bettinas Kosmetikstudio \u0026 podologische Fußpflegepraxis",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.328512091417",
+    "longitude": "11.1867964267731"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Bettinas Kosmetikstudio",
+    "streetAddress": "Claudiastrasse 368/Ecke Haspingerstr.",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 650 4163404",
+    "email": "bettina@seefeld-kosmetik.at",
+    "url": "http://www.seefeld-kosmetik.at"
+  },
+  "description": "Bettina Ellmerer: Ich bin Kosmetikerin aus Leidenschaft, mein sonniges Gemüt und die Liebe zum Beruf schaffen für Sie eine gemütliche, entspannte Atmosphäre. Ihre gesunde Haut ist mir wichtig! Deshalb verwende ich nur natürliche, hochwirksame Qualitätsprodukte für meine Arbeit.\nNeugierig? Termine und Terminvereinbarung von Di bis Fr",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/dbbfa96a-ca76-4da5-abf9-918d5b03b06f/99/image.jpg",
+      "caption": "Ellmerer 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4497ad68-5ac6-46a4-98bf-af08d3384f60/99/image.jpg",
+      "caption": "Ellmerer 2"
+    }
+  ],
+  "url": [
+    "http://www.seefeld-kosmetik.at"
+  ]
+}

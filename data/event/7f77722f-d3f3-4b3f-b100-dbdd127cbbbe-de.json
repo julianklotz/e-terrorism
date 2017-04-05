@@ -1,0 +1,54 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "Rock in der Mühle mit  \"Hank Davison\"",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Alte Mühle",
+    "employee": {
+      "@type": "Person",
+      "givenName": "Richard",
+      "familyName": " Wagner"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Schanzweg 29",
+      "addressLocality": "Scharnitz",
+      "postalCode": "6108",
+      "addressCountry": "AT",
+      "telephone": "(0043)5213/20047",
+      "email": "ritschi-event@scharnitz.net",
+      "url": "http://www.altemuehle-scharnitz.at"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Alte Mühle",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Schanzweg 29",
+      "addressLocality": "Scharnitz",
+      "postalCode": "6108",
+      "addressCountry": "AT",
+      "telephone": "(0043)5213/20047",
+      "email": "ritschi-event@scharnitz.net",
+      "url": "http://www.altemuehle-scharnitz.at"
+    }
+  },
+  "description": "Erleben Sie den Altmeister des Biker Rocks auf Solopfaden! Mit seiner charismatischen Stimme und seinem puristischen, blueslastigen Gitarrenspiel gelingt es ihm auch ohne Band sein Publikum immer wieder aufs Neue zu überraschen und zu begeistern. Eintritt 10,-- €. ",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/45a4820a-2e6b-47da-ab27-9e232b49ded2/99/image.jpg",
+      "caption": "Mühle"
+    }
+  ],
+  "url": [
+    "http://www.altemuehle-scharnitz.at"
+  ],
+  "startDate": "2017-04-08T20:30:00",
+  "endDate": "2017-04-08"
+}

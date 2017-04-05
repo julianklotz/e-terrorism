@@ -1,0 +1,173 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://www.engl-hof.com",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Cafe Pension Englhof",
+    "streetAddress": "Gstoaweg 13",
+    "addressLocality": "Reith bei Seefeld",
+    "postalCode": "6103",
+    "addressCountry": "AT",
+    "telephone": "0043 5212 3138",
+    "faxNumber": "(0043) 5212 3138 15",
+    "email": "englhof@engl-hof.com",
+    "url": "http://www.engl-hof.com"
+  },
+  "name": "Cafe Pension Englhof",
+  "description": [
+    "Der Engl-Hof liegt zentral und dennoch in sehr schöner und ruhiger Lage in Reith bei Seefeld. Als Familienbetrieb kümmern wir uns bereits seit 1960 um das Wohlbefinden unserer Gäste. Ob auf unserer Sonnenterasse, in der großen Liegewiese, im Waldschwimmbad Sonja oder auch zurückgezogen auf einem Balkon mit herrlichem Ausblick auf die Kalkkögel. Genuss und Entspannung stehen immer im Mittelpunkt. Tiroler Gastlichkeit und angenehmer Komfort begleiten dabei Sie im ganzen Haus.\n\nWas Sie noch wissen sollten\n• hauseigene Konditorei\n• kostenlose Benützung des Strandbades\n• nur 2 km vom Zentrum Seefeld entfernt\n• Langlaufloipe in unmittelbarer Nähe",
+    "Hund € 7.- pro Tag ( ohne Futter). Unsere Preise gelten pro Person und Tag mit Frühstücksbuffet, inkl. MwSt. \n\n",
+    "check in: 14.00 Uhr\ncheck out: 10.00 Uhr"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/aab7f9d4-bb5b-4663-a5dd-cb7112c7baff/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e6b389e5-0dbe-4852-8f99-0b934495e7bf/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c9f4ae41-39b5-458d-b9a8-be1307194a63/99/image.jpg",
+      "caption": "Haus Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d52bcfed-5389-4254-89b3-06694943c609/99/image.jpg",
+      "caption": "Hausansicht mit Härmelekopf"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3a1d88a1-ed8f-4839-8be0-335c6e226f7a/99/image.jpg",
+      "caption": "Eingang"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a424ede3-d5f7-4548-926e-c35c775763a8/99/image.jpg",
+      "caption": "Terrasse"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ee3c9112-467f-499e-bd1a-27efbcc35b83/99/image.jpg",
+      "caption": "Frühstücksraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b2bd2015-10c5-4a43-899f-dc5550df0b99/99/image.jpg",
+      "caption": "Terrasse Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e5e94f75-ebcb-4e4b-9b74-b0298e01af33/99/image.jpg",
+      "caption": "Stube"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5dc1ea93-d5da-42c4-bb51-6a83e0be441f/99/image.jpg",
+      "caption": "Kuchenbuffet"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0987ca2c-70df-49cb-a163-31a1f940695c/99/image.jpg",
+      "caption": "Schweinsbraten"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3100259864674",
+    "longitude": "11.1982363703613"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche oder Bad, WC",
+      "description": "Unsere vier Doppelzimmer sind geschmackvoll und modern eingerichtet und verfügen alle über einen eigenen Wohnraum, Bad oder Dusche/WC, Flachbildschirm, Radio, Selbstwähltelefon, Gratis W-Lan und einen sonnigen Balkon auf den sie sich jederzeit zurückziehen können.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer Standard",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "40.00",
+          "maxPrice": "55.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "45.00",
+          "maxPrice": "55.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche oder Bad, WC",
+      "description": "Unsere zwei  De luxe Doppelzimmer sind geschmackvoll und modern eingerichtet und verfügen alle über einen eigenen Wohnraum, Bad oder Dusche/WC, Flachbildschirm, Radio, Selbstwähltelefon, Gratis W-Lan und einen sonnigen Balkon auf den sie sich jederzeit zurückziehen können.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer de luxe",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "50.00",
+          "maxPrice": "65.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "50.00",
+          "maxPrice": "65.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

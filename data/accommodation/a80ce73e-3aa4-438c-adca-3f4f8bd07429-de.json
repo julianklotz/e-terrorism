@@ -1,0 +1,154 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://fischerhof.leutasch-tirol.net",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Fischerhof",
+    "streetAddress": "Gasse 173",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6633",
+    "faxNumber": "(0043) 5214 6633",
+    "email": "fischerhof.rauth@aon.at",
+    "url": "http://fischerhof.leutasch-tirol.net"
+  },
+  "name": "Fischerhof",
+  "description": [
+    "Bauernhaus mit Tieren im Winter Zugang zur Loipe. \nAusgangspunkt für Wanderungen.",
+    "Inkl.: Heizung, Strom, Wasser\nExkl.: Endreinigung, Ortstaxe, Telefon",
+    "über Seefeld, Leutasch-Weidasch Gasse richtung Mittenwald\nvon Mittenwald Leutasch Unterleutasch - Gasse"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "reviewCount": "11"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/19dafac2-552b-449b-b340-dc8a6f10a3a5/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6d5d3e97-bfe1-4fcb-bafb-ec4580d7ad0c/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/bc650983-2fb0-49e5-b731-ac954b327268/99/image.jpg",
+      "caption": "Pony Napoleon"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/827b8039-62a5-4a14-8450-b70cc4a795fe/99/image.jpg",
+      "caption": "Spielplatz"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e1ed3e00-1117-4fdd-8b6a-cd082fdea311/99/image.jpg",
+      "caption": "Spielplatz 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/24e49219-5b29-4790-b9dc-5b563747dbbd/99/image.jpg",
+      "caption": "Geweihe"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f86b5a60-4cc2-4158-ae84-c4a158ed50fb/99/image.jpg",
+      "caption": "Glocken"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.378529642831",
+    "longitude": "11.159297544421"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apart.1 Schlafraum/Dusche, WC 1.ST",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apart.1 Schlafraum/Dusche, WC 2.ST",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/2 Schlafräume/Dusche, WC",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "50.00",
+          "maxPrice": "90.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "55.00",
+          "maxPrice": "90.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

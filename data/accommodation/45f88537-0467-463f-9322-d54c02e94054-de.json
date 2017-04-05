@@ -1,0 +1,124 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.tiscover.at/sonnbichl.leutasch",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Pension Sonnbichl",
+    "streetAddress": "Weidach 374 a",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6414",
+    "faxNumber": "(0043) 5214 6414",
+    "email": "haus_sonnbichl@aon.at",
+    "url": "http://www.tiscover.at/sonnbichl.leutasch"
+  },
+  "name": "Pension Sonnbichl",
+  "description": [
+    "Gut geführte, familiäre Pension in sonniger Lage für erholsame Urlaubstage - liegt am Waldrand mit herrlichem Panoramablick. Ruhig gelegen, im Ortsteil Weidach. Gemütliche Zimmer, teils mit Balkon, Aufentshaltsraum mit SAT-TV, Gästekühlschrank und Frühstücksbuffet. Beide Fe-Wo sind 50 m² groß, eigener Balkon mit guter Aussicht. \nAusstattung: Wohnschlafzimmer, separates Zimmer, getrennte Küche, Du/WC, Vorraum, Radio, SAT-TV, komplett eingerichtete Küche, Backofen, teilweise Geschirrspüler,  Wachsraum, Wäsche vorhanden. Ganzjährig beheizt. Auf Wunsch täglich frische Brötchen. Sehr kinderfeundlich. Terrasse mit Gartenmöbeln u. Grill.",
+    "exkl.: Ortstaxe",
+    "Von Seefeld: Leutasch - Weidach - vor Tankstelle rechts\n\nVon Mittenwald oder Telfs: Leutasch - Weidach - nach der Tankstelle links"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/deefce55-3ba6-4665-ad19-31c64b950fed/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/344a5403-364c-4fea-be92-ec7682a0f2aa/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0f087551-8cc8-420e-975b-e15148f5d64e/99/image.jpg",
+      "caption": "Haus Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e2ea9b14-8355-4677-b65e-865149e2c111/99/image.jpg",
+      "caption": "Winter 2"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.369157884781",
+    "longitude": "11.167739656429"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "19.00",
+          "maxPrice": "25.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "19.00",
+          "maxPrice": "25.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "19.00",
+          "maxPrice": "25.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation"
+  ],
+  "name": "Verleih Nordic Walking Stöcke",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3890727785439",
+    "longitude": "11.2660832354431"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Scharnitz",
+    "postalCode": "6108",
+    "addressCountry": "AT",
+    "telephone": "(0043) 05213 5386"
+  },
+  "description": "Verleih von Nordic Walking Stöcken\nPreis auf Anfrage, Fam. Angerer, Tel.:\n05213/5386",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/84c1040f-4201-47b0-96b8-e240cbc64a3a/99/image.jpg",
+      "caption": "Nordic Walking"
+    }
+  ],
+  "url": [
+    "http://"
+  ]
+}

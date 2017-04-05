@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CafeOrCoffeeShop"
+  ],
+  "name": "Café Corso",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3289720395762",
+    "longitude": "11.1877217888832"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Café Corso",
+    "streetAddress": "Bahnhofstr. 163a",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2262"
+  },
+  "description": "Sitzplätze für ca. 200 Personen",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7105d94f-c6aa-4475-8eb3-4edeccf4366f/99/image.jpg",
+      "caption": "Café Corso Sommer"
+    }
+  ],
+  "url": [
+    "http://www.cafe-corso.com"
+  ]
+}

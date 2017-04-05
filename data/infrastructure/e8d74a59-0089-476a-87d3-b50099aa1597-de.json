@@ -1,0 +1,30 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "HairSalon"
+  ],
+  "name": "Friseur - Salon Mary",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.372439",
+    "longitude": "11.1637451"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Salon Mary",
+    "streetAddress": "Weidach 318a",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6422",
+    "faxNumber": "(0043) "
+  },
+  "description": "Weidach 318 a\nTel.: +43 5214/6422",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d8b0c921-1f65-46b6-93ba-0a594b51b4a7/99/image.jpg",
+      "caption": "foto"
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.klosterarkaden.com",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Kloster Arkaden",
+    "streetAddress": "Klosterstr. 608",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 52828",
+    "email": "info@klosterarkaden.com",
+    "url": "http://www.klosterarkaden.com"
+  },
+  "name": "Kloster-Arkaden",
+  "description": [
+    "Ferienwohnungen in der Fußgängerzone- im Herzen von Seefeld.\nGehobener Standard. Elegant-rustikale Einrichtung: TV (30 Programme), CD-Anlage, Internet-Anschluss, Safe und Balkon.\nModerne Küche mit Geschirrspüler, Lift, Parkplatz. \nGanzjährig geöffnet!\n",
+    "inkl.: Heizung, Wasser, Strom, Skistall, Fahrrad-Keller\n\n\n",
+    "Ausfahrt Seefeld Mitte, immer geradeaus, nach den Klosterbräu-Parkplätzen links in die \"Hohe-Munde-Str.\" abbiegen.\n\nCheck in: ab 14.00 Uhr oder nach Vereinbarung\nCheck out: bis 11.00 Uhr oder nach Vereinbarung\n"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/88996b2e-3a5e-4823-8807-674c56084866/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/19e07c92-1287-412e-bf22-f59ee6a73c1b/99/image.jpg",
+      "caption": "Appartements Kloster-Arkaden Seefeld Winteransicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c1ad442b-bd1d-4f52-b4d0-14c67b5990d7/99/image.jpg",
+      "caption": "Winter"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.32905748405",
+    "longitude": "11.1847150325775"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 1 Schlafraum",
+      "description": "SCHLAFZIMMER, GROSSZÜGIGES WOHNZIMMER MIT AMERIKANISCHER KÜCHE MIT GESCHIRRSPÜLER, 2 SAT-TV, CD-ANLAGE, INTERNET-ANSCHLUSS, SAFE UND BALKON",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Typ B, Apartment/1 Schlafraum/Bad, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "100.00",
+          "maxPrice": "130.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "120.00",
+          "maxPrice": "150.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "140.00",
+          "maxPrice": "170.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC",
+      "description": "EINRAUM- APPARTEMENT- 35 m², GEHOBENER STANDART- KÜCHE MIT GESCHIRRSPÜLER. SAT-TV, CD-ANLAGE, INTERNETANSCHLUSS, SAFE UND BALKON",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Typ A, Apartment/Wohn-Schlafraum/Bad, WC",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Berhaus Paradies",
+    "streetAddress": "Weidach 373 a",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 676 3827073",
+    "email": "nuvolina27@virgilio.it"
+  },
+  "name": "ZW-Bulleri Sandro",
+  "currenciesAccepted": "EUR"
+}

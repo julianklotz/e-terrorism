@@ -1,0 +1,149 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://www.hotel-dietrich.at/",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Hotel Garni Dietrich",
+    "streetAddress": "Münchnerstr. 103",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2780",
+    "faxNumber": "(0043) 5212 2780 4",
+    "email": "info@hotel-dietrich.at",
+    "url": "www.hotel-dietrich.at"
+  },
+  "name": "Hotel Garni Dietrich",
+  "description": [
+    "Unser Haus liegt ca. 5 Gehminuten vom Ortszentrum entfernt. Mit schönen geräumigen Zimmern mit Du oder Bad/WC, Balkon, Kabel-TV, Aufenthalts- bzw. Fernsehraum sowie einem reichhaltigen Frühstücksbuffet möchten wir unseren Gästen den Aufenthalt so angenehm wie möglich machen. Auf Ihren Besuch freut sich Familie Dietrich!\n",
+    "Kostenloser Parkplatz",
+    "Check-In 13.00 Uhr / Check-Out 11.00 Uhr",
+    "Zimmer mit Frühstück, Herberge, Familienhotel"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "reviewCount": "23"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ff222d2a-209b-41c8-9b85-ceb43ba07d74/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/aa698ecc-5852-4c5a-a7be-87fd602cb1ec/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4e5c96db-a7d5-4052-a08f-9ca5ea5f9827/99/image.jpg",
+      "caption": "Frühstück 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e03fff9e-ea7b-4a77-95a2-efd0a29e2676/99/image.jpg",
+      "caption": "Frühstück"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4c5e3b1b-252f-46a5-9a36-6987529d7337/99/image.jpg",
+      "caption": "Stüberl"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3335476693326",
+    "longitude": "11.1902269721031"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Einzelzimmer, Dusche, WC",
+      "description": "Einzelzimmer Sitzgelegenheit Kabel TV Dusche WC",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Einzelzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "45.00",
+          "maxPrice": "45.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche oder Bad, WC",
+      "description": "Zimmer mit Wohnteil Du od Bad WC Balkon Kabel TV",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Dusche od. Bad, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "45.00",
+          "maxPrice": "45.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "45.00",
+          "maxPrice": "45.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "45.00",
+          "maxPrice": "45.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,565 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://www.hotel-tyrol.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Hotel Pension Tyrol",
+    "streetAddress": "Brochweg 28",
+    "addressLocality": "Mösern",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "+4352124729",
+    "faxNumber": "+435212472931",
+    "email": "info@hotel-tyrol.at",
+    "url": "http://www.hotel-tyrol.at"
+  },
+  "name": "Hotel Pension Tyrol",
+  "description": [
+    "Unsere 3* Hotel Pension Tyrol in Mösern liefert die besten Zutaten für einen genussvollen Aktiv- oder Erholungsurlaub in der Olympiaregion Seefeld! In sonnig-ruhiger Lage erwartet Sie - umgeben von mehrfach ausgezeichneten Loipen im Winter und hitverdächtigen Wanderwegen im Sommer - ein einmaliger Ausblick auf die umliegende Bergkulisse und das weite Oberinntal. Und das ist nur eine der vielen Bonus-Leistungen für unsere Gäste…\n\nEin kleiner Vorgeschmack gefällig? Die Hotel Pension Tyrol erfüllt in familiärer Atmosphäre und überschaubarer Vielfalt vom Einzel- und Doppelzimmer über Dreibett- und Familienzimmer bis hin zum Studio und Hotelappartement alle Unterkunftswünsche.\n\nEinmal angekommen lockt das hauseigene Panoramarestaurant nicht nur mit dem wörtlich zu nehmenden aussichtsreichen Rundblick, sondern auch mit der saisonal-aromatischen Küche. Tipp: Küchenchef Christian verwöhnt ebenso Liebhaber der vegetarischen sowie veganen Küche und sorgt für sorgenfreie Allergiker-Kost. \n\nDas frisch zubereitete 3-Gang-Wahlmenü am Abend findet seinen Ausklang an der gemütlichen Hausbar, wo Sie schon einen entspannten Tag im Tyrol-Wellnessbereich planen können: Finnische Sauna, Kräuterdampfbad und sich anschließend im Hängestuhl „fallen lassen“ - hier finden Sie die perfekte Wohlfühl-Kombination.\n\n„Bewegende“ Momente sichern direkt vor der Tür romantisch-verschlungene Waldwege rund um den Möserer See, der als einer der wärmsten Badeseen Tirols im Sommer genauso zum Schwimmen einlädt und nur 5 Gehminuten von unserem Haus entfernt liegt. Zusätzlicher Bonus in der Hotel Pension Tyrol: Ein Urlaub mit Hund ist ein Erlebnis für Zwei- und Vierbeiner gleichermaßen. Unsere Zimmer mit Gartenzugang, spezielle Bereiche im Restaurant, Hundebar und mehr überraschende Extras lassen Herrchen- und Hunde-Herzen höher schlagen.\n\nOlympisch gute Ferien verspricht darüber hinaus das „Tyrol-Plus“ im Winter: Unsere Gäste können die Loipen der Olympiaregion Seefeld inklusive Regionsbus im Winter gratis nutzen. Der nächste Loipeneinstieg ist nur 250 m oberhalb der Hotel Pension Tyrol gelegen. Seefeld in Tirol bietet mit 4 km Entfernung in unmittelbarer Nähe weitere Einstiegsmöglichkeiten in das über 270 km umfassende Loipennetz - Laufen Sie schon jetzt auf der WM Loipe 2019! \n\nSie suchen nach dem besten Urlaubsrezept? Dann sind Sie in der 3* Hotel Pension Tyrol in Mösern auf dem Seefelder Hochplateau genau richtig, wo Ihnen die Familie Wolters Ihren Urlaub in Tirol schmackhaft macht.\n",
+    "Anreise ab 15:00, Abreise bis 10:00\nBezahlung möglich in bar, EC, MC, Visa\nEinzelzimmer, Doppel-und Dreibettzimmer, Familienzimmer \nÜbernachtung mit Frühstück\nÜbernachtung mit Halbpension (3-Gang Wahlmenü, Buffetabende)\nSaunabereich mit finnischer Sauna, Dampfbad und Ruhezone\nHaustiere willkommen\nWLAN gratis \nUrlaub mit Hund\nVegetarische Küche, Vegane Küche, Allergikerkost (laktosefrei, glutenfr",
+    "Check In ab 15.00 Uhr\nCheck Out bis 10.00 Uhr\n\nRezeption von 07:30 bis 22:00",
+    "Wandern, Winterwandern, Mountainbiken, Skilanglauf, Alpinski, Urlaub mit Hund, Vegetarisch, Vegan, "
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "reviewCount": "226"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d26b2ca1-851a-42bc-906e-1f5a2a384ee9/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/69bb5268-a8b1-4085-83c9-dfa760008bf8/99/image.jpg",
+      "caption": "VK_Hotel Tirol-p1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/99ae1bee-aaa0-4d16-b6b3-e41541ad0721/99/image.jpg",
+      "caption": "Außenansicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/49490c31-a1b6-4edc-aac5-0c7c264c07d6/99/image.jpg",
+      "caption": "Garten"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d09e4649-70d4-4f06-9514-5475a0360da0/99/image.jpg",
+      "caption": "Gartenzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/190c1458-289a-4df4-8dea-9e6668308950/99/image.jpg",
+      "caption": "Bar"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c75d60ae-10a7-490b-9a5e-cfc4d07e30fb/99/image.jpg",
+      "caption": "Restaurant"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/526eef0c-9af8-465f-b25d-37a199e9d150/99/image.jpg",
+      "caption": "Restaurant"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/35c8217d-f828-4013-85e8-aaa3cd85b26b/99/image.jpg",
+      "caption": "Rezeption"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/04809ecd-aeb2-4fa0-aeb5-49cb9e978349/99/image.jpg",
+      "caption": "Sauna"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f49d0f5c-f7e0-4a02-a493-d19a72e88e2b/99/image.jpg",
+      "caption": "Zimmer Seefeld Garten"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2bdcc80a-55c5-4a67-8fbb-16ac4a6a5113/99/image.jpg",
+      "caption": "Dopppelzimmer Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ad21507a-3f4d-4906-957a-04e45d43c123/99/image.jpg",
+      "caption": "Bäder Zimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b03e17fc-a2f1-49b5-86d9-6e2f54cdb148/99/image.jpg",
+      "caption": "Hund im Urlaub"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/48555aea-1a93-40cc-9f23-40389207b7b7/99/image.jpg",
+      "caption": "Möserer See mit Hund"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5045aca9-cef3-4a76-8d08-91b03af8e8e9/99/image.jpg",
+      "caption": "Hund am See"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/898dc9e4-d5ea-498c-9116-2d5caaa65dff/99/image.jpg",
+      "caption": "Herbstzeit am Möserer See"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a11efd73-6bb3-4761-83d4-459ec61c9804/99/image.jpg",
+      "caption": "Möserer SeeI"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/507cdc00-df5b-4218-80bf-27464fcab9ec/99/image.jpg",
+      "caption": "Möserer SeeII"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1d9e2ab3-ae0c-4a1c-b92b-da6184a8d6d2/99/image.jpg",
+      "caption": "Seefeld im Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/bcbd7be8-eae3-43d4-b71a-a2e857dfd0ef/99/image.jpg",
+      "caption": "Mösern"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/360a0c46-5757-4b39-bbf0-59b0f4bfd1c9/99/image.jpg",
+      "caption": "Bild Möserer See2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8accbd56-db85-4c99-8b18-9809dbc6eea2/99/image.jpg",
+      "caption": "Möserer Dorfkirche"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3b4a0ce8-7c7e-4580-a37e-27a70ac9c9be/99/image.jpg",
+      "caption": "Möserer See"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/35830ffa-f7be-4dfd-8383-21b6c5308761/99/image.jpg",
+      "caption": "Genuß auf der Terrasse"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4e6a8ba8-5b62-4074-a94a-a98547dd5f7e/99/image.jpg",
+      "caption": "Hunde Willkommen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1c1f713b-72cf-467f-8b8c-4e2225a8b7c7/99/image.jpg",
+      "caption": "Seefeld Rosshütte Bahn"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/dc19c288-ced4-4048-b79f-91a654f43eca/99/image.jpg",
+      "caption": "Aussicht nach Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ade41ec4-8f21-41d3-8fa4-2e9628622508/99/image.jpg",
+      "caption": "Friedensglocke Mösern"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3f9f7624-c0ce-4629-ae54-a07a4a60a7b0/99/image.jpg",
+      "caption": "Impression"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3133067683508",
+    "longitude": "11.1459326031494"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Hotelappartement, Dusche, WC",
+      "description": "Das Hotelappartement \"Hocheder\", 38m², bietet Platz für bis zu 5 Personen.\nEs besteht aus einem Schlafzimmer mit Balkon sowie einem weiteren kleineren Schlafraum dem eine Küchenzeile angeschlossen ist.\nDas Badezimmer ist ausgestattet mit WC und Dusche. Beide Schlafräume haben ein LED/LCD TV Gerät.\nDer Zimmerpreis beinhaltet die Nutzung des Saunabereiches zu den ausgeschriebenen Öffnungszeiten sowie WLAN in den öffentlichen Bereichen.\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement HOCHEDER",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "47.00",
+          "maxPrice": "49.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "47.00",
+          "maxPrice": "49.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC, waldseitig",
+      "description": "Die Doppelzimmer „Seefeld ZB“ haben eine Größe von 24m² und Balkon. Sie sind ausgestattet mit WC/Dusche, Telefon und Flachbild-TV.\nSie bieten ausreichend Platz für ein Zustellbett.\nDer Zimmerpreis beinhaltet die Nutzung des Saunabereiches zu den ausgeschriebenen Öffnungszeiten sowie WLAN in den öffentlichen Bereichen.\n\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer SEEFELD ZB",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "39.00",
+          "maxPrice": "49.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "39.00",
+          "maxPrice": "45.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Studio, Dusche, WC, 1 Schlafraum",
+      "description": "Das Studio „Inntalblick“ hat eine Größe von 34m².\nEs liegt auf der obersten Etage und ist ausgestattet mit einem Balkon, großzügigem Badezimmer mit WC/Dusche, Sitzecke sowie Telefon und LCD-TV.\nVom Zimmer selbst bietet sich Ihnen ein einmaliger Ausblick in das weite Oberinntal.\nDer Zimmerpreis beinhaltet die Nutzung des Saunabereiches zu den ausgeschriebenen Öffnungszeiten sowie WLAN in den öffentlichen Bereichen.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Studiozimmer INNTALBLICK",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "75.00",
+          "maxPrice": "79.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "49.00",
+          "maxPrice": "59.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Familienzimmer, Dusche und Bad, WC, 1 Schlafraum",
+      "description": "Das Familienzimmer „Hohe Munde“ hat eine Größe von 28m². \nEs ist ausgestattet mit Bad mit WC/Dusche , Telefon und Flachbild-TV. Das Zimmer bietet zusätzliche Schlafmöglichkeiten für 1 bis 2 Kinder in einem Etagenbett.\nDer Zimmerpreis beinhaltet die Nutzung des Saunabereiches zu den ausgeschriebenen Öffnungszeiten sowie WLAN in den öffentlichen Bereichen.\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Familienzimmer HOHE MUNDE",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "45.00",
+          "maxPrice": "49.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "41.00",
+          "maxPrice": "49.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "41.00",
+          "maxPrice": "49.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Die Doppelzimmer „Inntal“ haben eine Größe von 18m².\nSie sind ausgestattet mit Balkon,WC/Dusche, Kingsizebed, Telefon und Flachbild-TV.\nVom Balkon bietet sich Ihnen ein einmaliger Ausblick in das weite Oberinntal.\nDer Zimmerpreis beinhaltet die Nutzung des Saunabereiches zu den ausgeschriebenen Öffnungszeiten sowie WLAN Zugang.\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer INNTAL",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "55.00",
+          "maxPrice": "69.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "43.00",
+          "maxPrice": "47.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC, 1 Schlafraum",
+      "description": "Die Zimmer \"Seefeld\" haben eine Größe von 24m² und einen Balkon.\nSie sind ausgestattet mit einem Doppelbett, Flachbild TV mit Kabelanschluss,  kostenfreiem WLAN Anschluss und Telefon.\nDie Ende 2016 komplett sanierten Badezimmer bieten Haarfön, WC und Dusche.\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer SEEFELD",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "45.00",
+          "maxPrice": "75.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC, gartenseitig",
+      "description": "Die sehr ruhigen Doppelzimmer \"Seefeld Garten\" liegen im Erdgeschoss mit Terrasse zum Garten.\nMit einer Größe von 28m² bieten sie Platz für ein Zustellbett, Bad mit WC /Dusche und Badewanne, Telefon und Flachbild-TV sowie einen Wintergarten mit Sitzecke.\n\nDer Zimmerpreis beinhaltet die Nutzung des Saunabereiches zu den ausgeschriebenen Öffnungszeiten sowie WLAN in den öffentlichen Bereichen.\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer SEEFELD GARTEN",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "49.00",
+          "maxPrice": "53.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "45.00",
+          "maxPrice": "49.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Studio, Dusche, WC",
+      "description": "Das Studiozimmer \"Ursula\" hat eine Größe von 38m² und bietet Platz für bis zu 4 Personen.\nSchlaf- und Wohnbereich sind durch einen Flur getrennt.\nDas Wohnzimmer kann auch als weiterer Schlafraum für 1-2 Personen genutzt werden und hat eine kleine Küchenzeile sowie einen Balkon. Das WC ist hier separat und das Bad ist ausgestattet mit einer Dusche.\nDer Zimmerpreis beinhaltet die Nutzung des Saunabereiches zu den ausgeschriebenen Öffnungszeiten sowie WLAN in den öffentlichen Bereichen.\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Studiozimmer URSULA",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "49.00",
+          "maxPrice": "59.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "47.00",
+          "maxPrice": "49.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "41.00",
+          "maxPrice": "49.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Familienzimmer, Dusche, WC",
+      "description": "Das Familienzimmer „Wildspitze“ hat eine Größe von 28m²  und verfügt über einen großen Balkon.\nDas Zimmer ist ausgestattet mit Bad mit WC/Dusche, Telefon und LED/LCD-TV.\nEs bietet zusätzlich Platz für 1-2 Kinder auf einem großzügigen Schlafsofa.\nDer Zimmerpreis beinhaltet die Nutzung des Saunabereiches zu den ausgeschriebenen Öffnungszeiten sowie WLAN in den öffentlichen Bereichen.\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Familienzimmer WILDSPITZE",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "47.00",
+          "maxPrice": "50.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "41.00",
+          "maxPrice": "45.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "41.00",
+          "maxPrice": "45.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

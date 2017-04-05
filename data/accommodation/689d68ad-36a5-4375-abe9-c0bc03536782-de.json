@@ -1,0 +1,84 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.seefeld-reisen.de",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Isabell",
+    "streetAddress": "Reitherspitzstr. 863",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0049) 2347 93209",
+    "faxNumber": "(0049) 2347 93601",
+    "email": "info@seefeld-reisen.de",
+    "url": "www.seefeld-reisen.de"
+  },
+  "name": "Haus Isabell",
+  "description": [
+    "Erholen Sie sich in unserem komfortablen Feriendomizil. Wir bieten Ihnen Erholung “pur” für die schönste Zeit des Jahres in unserer großzügigen und gemütlichen Ferienwohnung, in bester Lage in Seefeld/Tirol. Das 2007 im ursprünglichen Tiroler Stil gebaute Haus bietet Ihnen eine sehr komfortable Ferienwohnung für 4 Personen. Es liegt an der Reitherspitzstrasse 863 direkt gegenüber der Golf Academy, wo im Winter ein direkter Einstieg in die Loipe geboten wird. Auch das Skigebiet Rosshütte ist schnell zu erreichen. Zum Ortszentrum und zum Bahnhof sind es nur 3 Gehminuten.\nOb Sie allein, zu zweit oder mit der ganzen Familie reisen - wir bieten für jeden individuellen Wunsch die passende Ferienwohnung.\nBesuchen Sie unser gemütliches Ferienhaus - Es lohnt sich !\n",
+    "incl. Strom, Heizung, Wasser\nexcl. Garage, ",
+    "Check in: ab 14.00 Uhr (bei Ankunft später als 20.00 Uhr bitte vorab tel. Kontakt aufnehmen)\nCheck out: 10.30 Uhr\nAnfahrt: Aus Richtung München /Garmisch- Abfahrt Seefeld Zentrum bis Anfang Fußgängerzone, dort links, nächste Straße rechts, hinter dem Bahnhof links nach ca. 500m liegt das Haus auf der linken Seite.\nAus Innsbruck - Ausfahrt Seefeld, Kreisverkehr -3. Ausfahrt, am nächsten Kreisverkehr 1. Ausfahrt. Das Haus liegt nach ca. 200m auf der rechten Seite."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a7acc776-fdec-4659-8f34-16d14187129e/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4acd12b1-be28-4cfa-8f94-743c013ada0d/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f0a19670-b274-467e-ac4c-5bf008dbc4fc/99/image.jpg",
+      "caption": "Sommer 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/236ebf6c-885c-4c79-936e-8d4aa6b097e8/99/image.jpg",
+      "caption": "Aussicht Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/53d07f14-0f17-48f0-9dc2-e82826aebc41/99/image.jpg",
+      "caption": "Sommer 2"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3266904392052",
+    "longitude": "11.1955189704895"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "Das 2007 neu erstellte 110 qm große Appartement mit 2 Schlafzimmern ist äußerst komfortabel eingerichtet. In sonniger Lage befindet es sich gegenüber der Golf Academy und dem Loipeneinstieg.\nca. 110 m² große Wohnung, 2 Schlafzimmer, großes Bad  mit getrenntem WC, Flur, Wohnzimmer mit Sitzecke, Essecke, Küchenzeile, SAT-TV, SAT-Radio, Terrasse, Ski- und Golfraum.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/2 Schlafräume/Dusche, WC",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

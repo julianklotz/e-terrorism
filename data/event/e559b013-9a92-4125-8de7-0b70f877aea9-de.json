@@ -1,0 +1,55 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "Tiroler Buffetabend mit traditioneller Musik (ohne Tanzvorführung)",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Hotel Seefelderhof",
+    "employee": {
+      "@type": "Person",
+      "familyName": "Seefelderhof GmbH"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Münchnerstr. 146",
+      "addressLocality": "Seefeld",
+      "postalCode": "6100",
+      "addressCountry": "AT",
+      "telephone": "+435212237340",
+      "faxNumber": "+435212237341",
+      "email": "hotel@seefelderhof.com",
+      "url": "http://www.seefelderhof.com"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Hotel Seefelderhof",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Münchnerstr. 146",
+      "addressLocality": "Seefeld",
+      "postalCode": "6100",
+      "addressCountry": "AT",
+      "telephone": "+435212237340",
+      "faxNumber": "+435212237341",
+      "email": "hotel@seefelderhof.com",
+      "url": "http://www.seefelderhof.com"
+    }
+  },
+  "description": "Genießen Sie einheimische Spezialitäten mit Live Musik. Reservierung unter Tel. 05212/2373 erbeten!",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/26d4ddb5-7c38-4bb0-adaf-30ce938ad44e/99/image.jpg",
+      "caption": "Seefelderhof"
+    }
+  ],
+  "url": [
+    "http://www.seefelderhof.com"
+  ],
+  "startDate": "2017-05-29T18:30:00",
+  "endDate": "2017-10-09"
+}

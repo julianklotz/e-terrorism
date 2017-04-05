@@ -1,0 +1,68 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://web.deskline.net/seefeld/de/show_accommodation/SEE/9ad52c45-6e24-409b-b95f-07fd9c1a4875/haus_neuner_anni",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Neuner Anni",
+    "streetAddress": "Moos 17 b",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043)  664 4838417",
+    "faxNumber": "(0043) 5214 6175",
+    "email": "neuner.anni@aon.at"
+  },
+  "name": "Haus Neuner Anni",
+  "description": [
+    "Einfamilienhaus mit geräumiger und gemütlicher Ferienwohnung in sonniger und ruhiger Lage, eingebettet in einem Garten mit Ruheplätzen zum Sonnen. Die Wohnung ist im einfachen, ländlichen Stil, jedoch großzügig von den Räumlichkeiten, und sehr gemütlich durch zusätzlich beheiztem Holzofen im Wohnzimmer, kleine Kochnische, Dusche/ WC, Vorraum mit Garderobenschrank, Abstellraum. Brötchenservice, Einstieg in die Loipe, ganz in der Nähe ca. 3-4 Gehminuten. Idealer Ausgangspunkt für vielen Wanderungen. Lebensmittelgeschäft  ca. 7 Gehminuten entfernt.\nSommer € 45 - € 55, Winter € 80 - € 90.",
+    "Inklusive: Strom, Wasser, Endreinigung, Ortstaxe\nExclusive: Brötchenservice",
+    "von Telfs - über Buchen - erste Ortschaft nach Leutasch\nvon Mittenwald - Gasse - Kirchplatzl - Oberleutasch\nvon Seefeld: Weidach - Kirchplatzl - Oberleutasch - Moos"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/63b274d2-4959-41ad-bf37-369b9bf560c7/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b5d2686c-9e24-4679-9334-3da0b1edbe7e/99/image.jpg",
+      "caption": "Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.353489674216",
+    "longitude": "11.122328948115"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Sonnige ruhige Lage, eingebettet in einem Garten mit Ruheplätzen zum Sonnen. Die Wohnung ist im einfachen, ländlichen Stil, jedoch großzügig von den Räumlichkeiten, und sehr gemütlich durch zusätzlich beheiztem Holzofen im Wohnzimmer, kleine Kochnische, Dusche/ WC, Vorraum mit Garderobenschrank, Abstellraum. Brötchenservice, Einstieg in die Loipe, ganz in der Nähe ca. 3-4 Gehminuten.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

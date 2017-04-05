@@ -1,0 +1,88 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.appartement-haslwanter.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Haslwanter Claudia",
+    "streetAddress": "Kreuzweg 28",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "0043 5212 3572",
+    "email": "info@appartement-haslwanter.at",
+    "url": "http://www.appartement-haslwanter.at"
+  },
+  "name": "Haus Haslwanter Claudia",
+  "description": [
+    "Unser Haus liegt am Waldrand, direkt an einem Wanderweg mit herrlichem Blick auf die umliegenden Berge. Die Golfakademie befindet sich gegenüber und im Winter bietet diese den Einstieg in eine unserer zahlreichen Loipen.",
+    "Exklusive: Endreinigung, Ortstaxe",
+    "Weg: Seefeld Mitte bis zum Kreisverkehr, dort links bis zum nächsten Kreisverkehr. Diesen geradeaus verlassen und nach ca. 500m liegt  unser Haus auf der linken Straßenseite."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1b28b6d5-1de5-4b46-9575-95fd292d7946/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d63bd988-7c9e-4bc5-bdba-6bb70b5bfbd5/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8c17c51f-a3d2-4ab7-9978-da2b6c8c164c/99/image.jpg",
+      "caption": "Haus Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3ed312c4-1574-4ded-9771-f818308181f2/99/image.jpg",
+      "caption": "Liegewiese SO"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/80ef7b1b-73ba-4c15-be71-e124e622f46f/99/image.jpg",
+      "caption": "Spielplatz"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9e03105f-d86e-40f7-953f-a8e53efd7f1e/99/image.jpg",
+      "caption": "Aussicht Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3233669437721",
+    "longitude": "11.1974716186523"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "ca. 50m² Appartement, ca. 14m² Balkon",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

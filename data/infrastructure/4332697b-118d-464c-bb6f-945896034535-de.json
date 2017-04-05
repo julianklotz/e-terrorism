@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation"
+  ],
+  "name": "Rodelbahn Wettersteinhütte",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Wettersteinhütte",
+    "streetAddress": "Gaistal",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 8958227",
+    "email": "hone.schuetz@drei.at",
+    "url": "http://www.wettersteinhuette.at"
+  },
+  "description": "Aufstieg vom Stupferparkplatz/Gaistal zur Wettersteinhütte. Höchster Punkt: 1.717 m. Länge: ca. 3 km. Höhenunterschied: 577 m. Schwierigkeit: schwer. Bewirtschaftete Hütte: Wettersteinhütte Tel. 0664 4153747.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4c1af70c-1f19-4814-927b-f2b839f2ac84/99/image.jpg",
+      "caption": "wettersteinhütte"
+    }
+  ],
+  "url": [
+    "http://www.wettersteinhuette.at"
+  ]
+}

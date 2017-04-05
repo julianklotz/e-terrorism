@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure"
+  ],
+  "name": "Karosserie- u. Unfallreparatur Wetterstein/Autowerkstatt",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3767987835364",
+    "longitude": "11.171475300647"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Wettersteinreisen",
+    "streetAddress": "Gasse 162",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6777",
+    "faxNumber": "(0043) ",
+    "email": "info@wetterstein-leutasch.at",
+    "url": "http://www.wettersteinreisen.at"
+  },
+  "description": "Karosserie und Unfallreparatur (kein Abschleppdienst)\nJosef Zausnig\nWeidach 363g\nTel.: +43 664/52 51 918\n\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5ef90a3d-6ac5-455a-ae8b-6a623a1d30a7/99/image.jpg",
+      "caption": "Wetterstein"
+    }
+  ],
+  "url": [
+    "http://www.wettersteinreisen.at"
+  ]
+}

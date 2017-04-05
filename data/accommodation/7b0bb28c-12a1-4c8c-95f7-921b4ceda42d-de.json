@@ -1,0 +1,73 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.ahrn.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Bergesblick",
+    "streetAddress": "Ahrn 209",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6880",
+    "email": "landhaus.ahrn@aon.at",
+    "url": "http://www.ahrn.at"
+  },
+  "name": "Haus Bergesblick",
+  "description": [
+    "Unser Haus Bergesblick steht inmitten blühender Wiesen und ist umgeben von einer atemberaubenden Bergwelt.Im Winter führt die Langlaufloipe direkt am Haus vorbei und im Sommer bietet unser Haus einen idealen Ausganspunkt für zahlreiche Wanderungen sowie Berg- und Klettertouren. Ein großer Ski- und Wachsraum ist vorhanden.",
+    "incl. Heizung, Strom, Wasser.\n\nexl. Ortstaxe, Endreinigugn.",
+    "Innsbruck - Seefeld - Leutasch - Weidach - Ahrn\n\nMittenwald - Leutasch - Schanz - Ahrn"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "reviewCount": "14"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/144d218e-c7cb-4612-8e5f-33d21f15d8c0/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d0f0fc2b-f70a-416d-b2ca-16e8207eda63/99/image.jpg",
+      "caption": "Winter"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3829417729865",
+    "longitude": "11.1694872933458"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "5 FW für 2-3 Personen. Gemütliche Ausstattung, großes Wohnzimmer, Kochnische mit Essecke, separate Schlafzimmer, Du/WC. Idealer Ausgangspunkt für Wanderungen. Loipe direkt am Haus.Loipengebühr incl. ",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ]
+    }
+  ]
+}

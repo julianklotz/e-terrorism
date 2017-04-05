@@ -1,0 +1,56 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "47. Euroloppet Ganghoferlauf",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Ski Club Leutasch",
+    "employee": {
+      "@type": "Person",
+      "givenName": "Obmann Siegfried",
+      "familyName": "Klotz"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Leutasch",
+      "postalCode": "6105",
+      "addressCountry": "AT",
+      "email": "info@skiclub-leutasch.at",
+      "url": "http://www.skiclub-leutasch.at"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Festhalle Wetterstein",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Weidach 275 b",
+      "addressLocality": "Leutasch",
+      "postalCode": "6105",
+      "addressCountry": "AT",
+      "email": "info@alpenbad-leutasch.com",
+      "url": "http://www.alpenbad-leutasch.com"
+    }
+  },
+  "description": "SKATING: Samstag, 4.3.: 09:00 Uhr, 20 km Skating (2 Runden á 10km), Preisverteilung: 12.00 Uhr, Sonntag, 5.3.: 9:30 Uhr, 40 km Skating (4 Runden á 10km). KLASSIK: Die klassischen Bewerbe sind abgesagt! Alle, die sich für die 25km Klassisch angemeldet haben, sind automatisch für die 20 km Skating registriert. Die 50 km Klassik-Läufer sind nun für den 40 km Skating-Lauf gemeldet. MINIGANGHOFERLAUF: Der Miniganghoferlauf findet wie geplant statt. Alle Startzeiten werden um eine Stunde nach vorne verlegt. Alle Informationen und Streckenpläne unter www.ganghoferlauf.at",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1f08e99a-016e-45ad-aa22-170e5cd556c7/99/image.jpg",
+      "caption": "Start_GHL"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a8a9ce9a-b9df-4636-9604-bd72f84476a9/99/image.jpg",
+      "caption": "ghl"
+    }
+  ],
+  "url": [
+    "http://www.ganghoferlauf.at"
+  ],
+  "startDate": "2017-03-04T09:00:00",
+  "endDate": "2017-03-05"
+}

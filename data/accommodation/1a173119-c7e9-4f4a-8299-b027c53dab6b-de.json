@@ -1,0 +1,264 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.seefeld.com/de/unterkunft/haus-bergwelt_dad-29815_accommodation",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Bergwelt",
+    "streetAddress": "Ahrn 216",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6609",
+    "faxNumber": "(0043) 5214 6609",
+    "email": "hausbergwelt@gmx.at"
+  },
+  "name": "Haus Bergwelt",
+  "description": [
+    "Unser Haus liegt in Waldnähe, Ausgangspunkt von schönen Wanderwegen, Berg und Radrouren sowie Klettergelegenheiten und einen Erlebnisspielplatz. Loipe direkt vor dem Haus, zentrale Lage, morgens Brötchenservice für Ferienwohnung, Frühstücksbuffet für Zimmer.\n\n",
+    "Hund pro Tag € 4,00",
+    "Unser Haus liegt in Weiler Ahrn, Richtung Unterleutasch"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7c9f7622-2bd6-42ba-9287-de41c70540ec/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e060792a-7baa-4cb6-8734-6eeed12e35e8/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6b788fa7-4a85-40ca-b25a-9d6e153b4444/99/image.jpg",
+      "caption": "Hausgang"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ba8e013e-3661-462d-a0f9-b0b76383954f/99/image.jpg",
+      "caption": "Frühstücksraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e697ee30-7b7b-410a-a139-270a5f944a8b/99/image.jpg",
+      "caption": "Frühstücksraum1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e32118f6-8d7d-4c35-93cd-a2f84f098244/99/image.jpg",
+      "caption": "DSCN5701"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/db1c2486-343e-435c-bed1-1507dd372194/99/image.jpg",
+      "caption": "DSCN5660 haus motiv preisprospekt"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5e8c60ae-89db-45ba-9e71-46ab6fee71cc/99/image.jpg",
+      "caption": "DSCN5705"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/df301033-acf1-4898-8df3-cddc86564d17/99/image.jpg",
+      "caption": "Kopie von DSCN4279 - Kopie"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b16658c7-628a-43a1-adc7-db51d9e93a90/99/image.jpg",
+      "caption": "kücheFW"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1c2a4c9d-ca67-42fc-8a0d-f21907914493/99/image.jpg",
+      "caption": "wohnschlafraumFW"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0ecffba7-e040-4ffe-83c2-a1fe462fbbfc/99/image.jpg",
+      "caption": "leutasch tut mir gut 006"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3837006",
+    "longitude": "11.1692132"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "\n1 Zimmer m. Etagendusche und Balkon,\n1 Zimmer m.Dusche im Zimmer-WC am Gang,\n1 Zimmer m.Dusche WC.\nAlle Zimmer sind mit Fernseher ausgestattet.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Dusche, WC",
+          "description": "Zimmer  nr.4  ist ausgestattet mit Dusche/WC,\nFernseher und Sitzecke\n",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "34.00",
+          "maxPrice": "34.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "27.00",
+          "maxPrice": "27.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche",
+      "description": "Doppelzimmer NR.5\nist mit Dusche im Zimmer und Fernseher ausgestattet,\ndas WC befindet sich am Flur.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Dusche",
+          "description": "Zimmer 5 ist ausgestattet mit Dusche im Zimmer -/das WC am Flur\nSitzecke und Fernseher",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "32.00",
+          "maxPrice": "32.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "25.00",
+          "maxPrice": "25.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "\nAppartment-Ausstattung:\nKüche komplett, Wohnschlafraum, 1 Schlafzimmer, DU/WC, Balkon, ab 3 Personen stellen wir gerne, wenn vom Gast erwünscht, ein 2 Schlafzimmer zur Verfügung.\nFernseher, Geschirr-/Hand und Duschtücher, sowie Bettwäsche sind vorhanden.\nAuf Wunsch tägliches Brötchenservice.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "65.00",
+          "maxPrice": "65.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "72.00",
+          "maxPrice": "72.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "79.00",
+          "maxPrice": "79.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, fl. k/w Wasser",
+      "description": "Doppelzimmer NR. 3\nist mit Waschgelegenheit im Zimmer, Balkon und Ferseher ausgestattet.\nDusche und WC befinden sich am Flur.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit fl. Wasser",
+          "description": " Zimmer 3 ist mit Waschgelegenheit im Zimmer -/Dusche/WC am Flur\n Sitzecke, Fernseher und Balkon ausgestattet.",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "29.00",
+          "maxPrice": "29.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "22.00",
+          "maxPrice": "22.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

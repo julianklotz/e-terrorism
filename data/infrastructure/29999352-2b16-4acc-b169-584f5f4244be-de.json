@@ -1,0 +1,47 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "FastFoodRestaurant"
+  ],
+  "name": "Delikatessengeschäft \"tre.culinaria\", Imbiss",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.329108387075",
+    "longitude": "11.1866810917854"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Plangger Delikatessen tre.culinaria",
+    "streetAddress": "Klosterstr. 43",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 52955",
+    "email": "info@plangger.net",
+    "url": "http://www.plangger.net"
+  },
+  "description": [
+    " ",
+    "Sitzplätze für ca. 40 Personen\n\nUnser Unternehmen kann auf eine bis in das Jahr 1915 reichende Tradition zurückblicken. Seit damals steht unser Name für ein qualitativ hochwertiges Sortiment an feinen Delikatessen, erlesenen Getränken sowie süßen und sauren Köstlichkeiten.\nTreten Sie ein und überzeugen Sie sich selbst von unserem reichhaltigen Angebot an nationalen und internationalen Spezialitäten!"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a7acb72a-cf99-4b5d-a83a-b1012ddb4231/99/image.jpg",
+      "caption": "Tre Culinaria 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5e421d7a-759a-44be-936a-56c75d21628e/99/image.jpg",
+      "caption": "Tre Culinaria 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4a150365-22e2-493f-821e-582516b4af01/99/image.jpg",
+      "caption": "Tre Culinaria 3"
+    }
+  ],
+  "url": [
+    "http://www.plangger.net"
+  ]
+}

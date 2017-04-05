@@ -1,0 +1,37 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant"
+  ],
+  "name": "Cafe Wildsee",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3210112534901",
+    "longitude": "11.1904242225066"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Cafe Wildsee",
+    "streetAddress": "Gschwandtweg 9",
+    "addressLocality": "Reith bei Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043)6765113475"
+  },
+  "description": "Nur im Sommer geöffnet! Stempelstelle, Kinderspielplatz, bei Schönwetter grillen \n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0614da68-5281-4e28-b8ac-2ec70a755a21/99/image.jpg",
+      "caption": "Cafe Sonja"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8725f897-ee9d-4b86-b3e4-6b19e8db033e/99/image.jpg",
+      "caption": "Cafe Sonja 1"
+    }
+  ],
+  "url": [
+    "http://"
+  ]
+}

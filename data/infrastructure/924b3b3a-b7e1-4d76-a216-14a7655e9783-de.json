@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Florist",
+    "Store"
+  ],
+  "name": "Blumen/Fleurop Moser\u0026Co OHG",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3282503009527",
+    "longitude": "11.1889958381653"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Blumen/Fleurop Moser \u0026 CO OHG",
+    "streetAddress": "Citypassage/Bahnhofsplatz 613",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2315"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e9eff230-6947-4584-8147-83d00aeffe85/99/image.jpg",
+      "caption": "Fleurop"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c03c65ed-34c5-4628-bbff-f4d0aca00672/99/image.jpg",
+      "caption": "Piktogramm"
+    }
+  ]
+}

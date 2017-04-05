@@ -1,0 +1,104 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": [
+      "Event"
+    ],
+    "name": "Evangelischer Abendmahlgottesdienst",
+    "eventStatus": "http://schema.org/EventScheduled",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Evangelisches Gemeindezentrum",
+      "employee": {
+        "@type": "Person",
+        "givenName": "Pastor",
+        "familyName": "Groß"
+      },
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Technikerstr. 50",
+        "addressLocality": "Innsbruck",
+        "postalCode": "6020",
+        "addressCountry": "AT",
+        "email": "gross@innsbruck-christuskirche.at",
+        "url": "http://www.innsbruck-christuskirche.at"
+      }
+    },
+    "location": {
+      "@type": "Place",
+      "name": "Evangelisches Gemeindezentrum",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Technikerstr. 50",
+        "addressLocality": "Innsbruck",
+        "postalCode": "6020",
+        "addressCountry": "AT",
+        "email": "gross@innsbruck-christuskirche.at",
+        "url": "http://www.innsbruck-christuskirche.at"
+      }
+    },
+    "image": [
+      {
+        "@type": "ImageObject",
+        "url": "http://resc.deskline.net/images/SEE/1/913a45e4-f302-4390-a31d-917acb608463/99/image.jpg",
+        "caption": "Gottesdienst"
+      }
+    ],
+    "url": [
+      "http://www.innsbruck-christuskirche.at"
+    ],
+    "startDate": "2016-03-25T11:15:00",
+    "endDate": "2016-03-25"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": [
+      "Event"
+    ],
+    "name": "Evangelischer Abendmahlgottesdienst",
+    "eventStatus": "http://schema.org/EventScheduled",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Evangelisches Gemeindezentrum",
+      "employee": {
+        "@type": "Person",
+        "givenName": "Pastor",
+        "familyName": "Groß"
+      },
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Technikerstr. 50",
+        "addressLocality": "Innsbruck",
+        "postalCode": "6020",
+        "addressCountry": "AT",
+        "email": "gross@innsbruck-christuskirche.at",
+        "url": "http://www.innsbruck-christuskirche.at"
+      }
+    },
+    "location": {
+      "@type": "Place",
+      "name": "Evangelisches Gemeindezentrum",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Technikerstr. 50",
+        "addressLocality": "Innsbruck",
+        "postalCode": "6020",
+        "addressCountry": "AT",
+        "email": "gross@innsbruck-christuskirche.at",
+        "url": "http://www.innsbruck-christuskirche.at"
+      }
+    },
+    "image": [
+      {
+        "@type": "ImageObject",
+        "url": "http://resc.deskline.net/images/SEE/1/913a45e4-f302-4390-a31d-917acb608463/99/image.jpg",
+        "caption": "Gottesdienst"
+      }
+    ],
+    "url": [
+      "http://www.innsbruck-christuskirche.at"
+    ],
+    "startDate": "2017-04-16T11:15:00",
+    "endDate": "2017-04-16"
+  }
+]

@@ -1,0 +1,33 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Landform"
+  ],
+  "name": "Engalm",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3995192666248",
+    "longitude": "11.5593865497008"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Agrargemeinschaft Engalm",
+    "streetAddress": "Eng Nr. 11",
+    "addressLocality": "Hinterriß",
+    "postalCode": "6215",
+    "addressCountry": "AT",
+    "telephone": "+43(0)5245226",
+    "email": "info@engalm.at",
+    "url": "http://www.engalm.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9a5f57f9-47b8-4488-9158-1a3ba4c900d1/99/image.jpg",
+      "caption": "Engalm"
+    }
+  ],
+  "url": [
+    "http://www.engalm.at"
+  ]
+}

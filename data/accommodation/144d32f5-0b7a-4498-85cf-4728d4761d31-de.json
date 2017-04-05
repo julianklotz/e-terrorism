@@ -1,0 +1,149 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.karwendel.net",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Leismüller Irene",
+    "streetAddress": "Feldweg 401",
+    "addressLocality": "Scharnitz",
+    "postalCode": "6108",
+    "addressCountry": "AT",
+    "telephone": "+4352135656",
+    "email": "irene.leismueller@a1.net",
+    "url": "http://www.karwendel.net"
+  },
+  "name": "Haus Leismüller Irene",
+  "description": [
+    "Die komfortable Ferienwohnung im gemütlichen Haus mit Garten ist sehr geräumig, freundlich und verfügt über einen Balkon. Größe: 65m² groß. Die Wohnung ist für 2-5 Pers., hat einen Wohn- und Schlafraum mit abgeteilter Küche und schöner Eßecke, ein 3-Bett Schlafzimmer, DU/WC und Vorraum. Für Kinder können wir Ihnen auf Wunsch ein Kinderbett sowie einen Kinderstuhl zur Verfügung stellen.\nDas alles bieten wir Ihnen in einer ruhigen unverbauten Lage mit herrlicher Aussicht, direkt am Eingang in die einzigartigen Karwendeltäler und trotzdem nur 5 Gehminuten vom Ortszentrum entfernt. ",
+    "inklusive: Strom, Bett- und Tischwäsche, Handtücher, Wasser\nexklusive: Ortstaxe, Endreinigung",
+    "aus Deutschland kommend nach der Kirche links, über Bahnübergang, den Feldweg entlang nach letztem Haus rechts abbiegen."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c64f8fac-4627-4fdc-9588-59865865deb1/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/67512984-c982-4955-b4cb-0e0a0fdded1f/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f292b4f7-bd9f-43f6-b47f-a140ee894e02/99/image.jpg",
+      "caption": "Wohnzimmer1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d09f6ba2-585f-4525-90ea-cb1f61552c63/99/image.jpg",
+      "caption": "P1010083"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0b63eb2d-2061-4b97-adca-c19e5e1cda3b/99/image.jpg",
+      "caption": "P1010107"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5f3f62d1-119d-44e3-99f0-350f78e10c67/99/image.jpg",
+      "caption": "Tisch Küche2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7735d8e1-54db-44c5-bc3d-eb980b214852/99/image.jpg",
+      "caption": "Wohnzimmer1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2cc5789a-74bd-4ba8-9164-c975c51155c7/99/image.jpg",
+      "caption": "P1010101"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/bd062fc4-cba0-40ac-af4a-d443fe1d423d/99/image.jpg",
+      "caption": "PICT0089"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4b981c40-197a-4cfc-80cf-ed5a96cb2ccf/99/image.jpg",
+      "caption": "Schlafzimmer2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/42d73031-8913-4e5c-ad62-35b45633b51b/99/image.jpg",
+      "caption": "Wohnzimmer2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ad1e5d88-d8eb-4582-9a30-06c0fae61428/99/image.jpg",
+      "caption": "Schlafzimmer1"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.385060727042",
+    "longitude": "11.265754616963"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "für 2-5 Pers., Wohn-Schlafraum mit Küche, komplette Kücheneinrichtung mit schöner Essecke, 3-Bett Schlafzimmer,Balkon",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/1 Schlafraum/Dusche, WC",
+          "description": "für 2-5 Pers., 65 m², Wohn-Schlafraum mit Küche, mit schöner ausziehbarer Couch 2m x 1,8m, großer Bauernschrank und Wäscheschrank, Farb-TV Kabelfernsehen mit 20-Programmen,Stereoanlage mit Fernbedienung,komplette Kücheneinrichtung, Essecke,Herd mit 4 Platten, Backrohr, Kühlschrank mit Gefrierfach, Toaster, Wasserkocher, Kaffeemaschine, \n3-Bett Schlafzimmer, Bettwäsche, Handtücher und Geschirrtücher werden kostenlos zur Verfügung gestellt.",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "44.00",
+          "maxPrice": "55.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "54.00",
+          "maxPrice": "65.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "64.00",
+          "maxPrice": "75.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "74.00",
+          "maxPrice": "85.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://web.deskline.net/seefeld/de/show_accommodation/SEE/37f0388a-d418-4344-8708-e87c320ad73b/g%c3%a4stehaus_stefan",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Gästehaus Stefan",
+    "streetAddress": "Weidach 358",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6584",
+    "faxNumber": "(0043) 5212 2093",
+    "email": "stefan-leppert@aon.at"
+  },
+  "name": "Gästehaus Stefan",
+  "description": [
+    "Unser Haus liegt in sonniger und ruhiger Lage, ca. 4 Gehminuten vom Zentrum in Weidach entfernt. Idealer Ausgangspunkt für Wanderungen und Radtouren. Nahe Langlaufloipe.Wir bieten im Sommer: Gartengrill, Tischtennis, Federball. Im Winter: kostenloser Schlittenverleih.",
+    "INKLUSIVE: Parkplatz, Strom, Wasser, Heizung, Haustiere kostenlos;frische Bett-, Tisch- u. Geschirrwäsche sowie Handtücher, Toilettenpapier und Putzmittel.\nEXKLUSIVE: Endreinigung, Ortstaxe;\n\n"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a89f9a6c-b2a3-4b34-af71-4508deb6dc5e/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/90392b4a-4e50-4359-8753-04a991d5c155/99/image.jpg",
+      "caption": "Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.373641858705",
+    "longitude": "11.169715211527"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "1 Ferienwohnung (ca. 60 m²) für 2-6 Personen, mit 2 separaten Schlafzimmern, DU/WC, Wohnschlafzimmer, komplett eingerichtete Küche mit Eßecke, Vorraum eigene Sonnenterasse, Sat-TV und geräumter Parkplatz.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/2 Schlafräume/Dusche, WC",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "1 Ferienwohnung (ca. 30 m²) für 2-3 Personen, mit  separatem Schlafzimmern, DU/WC, Wohnschlafzimmer, komplett eingerichtete Küche mit Eßecke, Vorraum, Sonnenterasse vor dem Haus, Sat-TV und geräumter Parkplatz.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ]
+    }
+  ]
+}

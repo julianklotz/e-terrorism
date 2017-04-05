@@ -1,0 +1,25 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation"
+  ],
+  "name": "Sportis Kinderland bzw. Anfänger-Ski-Areal im Skigebiet Rosshütte",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "description": "Anfänger, Familien, Kinder sowie Wiedereinsteiger in den Skisport werden sich über drei überdachte Zauberteppiche und einen großen\nTeller-Skilift, im über 20.000 m2 großen Skiareal freuen! Weitere Informationen auf www.seefeld-sports.at.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/26b2915c-81d5-4c2d-8dce-391b3cfa67e8/99/image.jpeg",
+      "caption": "Sportis 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/18b9469e-d1ad-4a78-93d2-0d9f58f24d74/99/image.jpg",
+      "caption": "sportis 2"
+    }
+  ]
+}

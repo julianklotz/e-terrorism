@@ -1,0 +1,28 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure"
+  ],
+  "name": "Parkplatz gegenüber der Feuerwehr",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3010086145221",
+    "longitude": "11.2016031476074"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Parkplatz gegenüber der Feuerwehr",
+    "streetAddress": "Römerstraße 70",
+    "addressLocality": "Reith bei Seefeld",
+    "postalCode": "6103",
+    "addressCountry": "AT"
+  },
+  "description": "Gebührenfrei",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/19b94bc9-ca78-4e5d-8269-5d692e49405c/99/image.jpg",
+      "caption": "Parkplatz"
+    }
+  ]
+}

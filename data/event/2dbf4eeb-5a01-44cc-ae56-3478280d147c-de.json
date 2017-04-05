@@ -1,0 +1,54 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "Biathlon für Einsteiger",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Cross Country Academy",
+    "employee": {
+      "@type": "Person",
+      "givenName": "Martin",
+      "familyName": "Tauber"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Klosterstr. 120",
+      "addressLocality": "Seefeld",
+      "postalCode": "6100",
+      "addressCountry": "AT",
+      "telephone": "+43521250300",
+      "email": "info@xc-academy.com",
+      "url": "http://www.xc-academy.com"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Cross Country Academy",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Klosterstr. 120",
+      "addressLocality": "Seefeld",
+      "postalCode": "6100",
+      "addressCountry": "AT",
+      "telephone": "+43521250300",
+      "email": "info@xc-academy.com",
+      "url": "http://www.xc-academy.com"
+    }
+  },
+  "description": "Langlauf im klassischen oder Skating Stil, Erwachsene und Jugendliche ab 15 Jahren schießen mit originalem Biathlon-Kleinkalibergewehr, Kinder ab einer Körpergröße von 140 cm schießen mit einem Biathlon-Luftdruckgewehr, volle Kurszeit \n(120 min.) ab 4 Personen (bis 3 Personen 60 min.), Preis: € 60,00 pro Person. Detaillierte Informationen auf\nwww.xc-academy.com.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0f48c7c7-a556-4425-bacc-ffa2356a3342/99/image.jpg",
+      "caption": "Biathlon"
+    }
+  ],
+  "url": [
+    "http://www.xc-academy.com"
+  ],
+  "startDate": "2016-12-16T12:00:00",
+  "endDate": "2017-03-27"
+}

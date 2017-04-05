@@ -1,0 +1,23 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "TouristAttraction"
+  ],
+  "name": "Kikl Fabian (geprüfter Bergwanderführer u. Mountainbike Guide)",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Mösern",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 5465556",
+    "email": "fabiankikl@gmx.at"
+  },
+  "url": [
+    "http://"
+  ]
+}

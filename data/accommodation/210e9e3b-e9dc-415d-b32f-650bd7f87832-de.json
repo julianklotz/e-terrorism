@@ -1,0 +1,89 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.haus-hohemunde.net",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Hohe Munde",
+    "streetAddress": "Obern 33",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6931",
+    "email": "thomas9er@aon.at",
+    "url": "http://www.haus-hohemunde.net"
+  },
+  "name": "Haus Hohe Munde",
+  "description": [
+    "Unser familiär geführtes Haus, liegt im Ortsteil Obern, in einer besonders schönen, ruhigen, sonnigen und doch zentralen Lage, direkt an der Langlaufloipe. Am Eingang des Almenparadieses Gaistal gelegen können Sie alle Tagesunternehmungen auch ohne Auto beginnen. Im Sommer, ist unser Haus ein idealer Ausgangspunkt für ausgedehnte Tal- bzw. Bergwanderungen. Da wir selbst alle Wanderungen und Bergtouren in der umliegenden Gegend gemacht haben, stehen wir Ihnen gerne mit Rat und Tat zur Seite. Überdachter Parkplatz, hauseigene Fahrräder oder im Winter Rodelschlitten stehen Ihnen kostenlos zur Verfügung. Die bis zu fünfzig jährige Gästetreue spricht für die Gastlichkeit unseres Hauses! Ihre Gastgeberfamilie Neuner. ",
+    "Inklusive: Unterstellplatz, Fahrräder, Rodeln",
+    "Von Seefeld: Leutasch - Weidach - Richtung Telfs - Obern\n\nVon Mittenwald: Leutasch - Schanz - Richtung Telfs - Obern"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/49fb2cb7-5a88-455e-8974-560c6ce8a0cc/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b3933193-4b4d-4531-aa5d-772677c87291/99/image.jpg",
+      "caption": "Winter"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.359830930948",
+    "longitude": "11.125811917776"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Südöstlich gelegen, Sicht zum Karwendel",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment Karwendel/1 Schlafraum/Du, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Südwestlich gelegen, Sicht zur Hohen Munde",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment Hohe Munde/1 Schlafraum/Du, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

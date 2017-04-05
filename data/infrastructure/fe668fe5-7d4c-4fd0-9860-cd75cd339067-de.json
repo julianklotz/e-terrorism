@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "TennisComplex"
+  ],
+  "name": "\"Casino\"-Tennishalle (WM-Halle)",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3262141086048",
+    "longitude": "11.1765718460083"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Casino WM-Halle",
+    "streetAddress": "Möserer Str. 632",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2095 ",
+    "email": "info@seefeld-sports.at",
+    "url": "http://www.seefeld-sports.at"
+  },
+  "description": "8 Platze, Bross-Slide-Belag, Duschen, Garderoben, Loungis Bar Restaurant, täglich 9.00 - 16.00 Uhr (geänderte Öffnungszeiten in der Zwischensaison)\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/69e94896-7e3a-4a84-9257-e416fb16da24/99/image.jpg",
+      "caption": "Piktogramm Tennis"
+    }
+  ],
+  "url": [
+    "http://www.seefeld-sports.at"
+  ]
+}

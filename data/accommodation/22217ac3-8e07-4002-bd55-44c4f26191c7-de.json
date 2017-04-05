@@ -1,0 +1,105 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.moosbichl-seefeld.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Moosbichl",
+    "streetAddress": "Lärchenweg 637",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0049) 171 2843467",
+    "faxNumber": "(0043) 5212 4028",
+    "email": "info@moosbichl-seefeld.at",
+    "url": "http://www.moosbichl-seefeld.at"
+  },
+  "name": "Haus Moosbichl",
+  "description": [
+    "Das Haus Moosbichl befindet sich in ruhige Lage am schönen und sonnigen Geigenbühel mit herrlichem Ausblick auf die Bergketten. Ein idyllisches Fleckchen, das zum Entspannen einlädt.\n\nAlle Ferienwohnungen haben Südlage mit Balkon oder Terrasse. Parkplätze befinden sich direkt am Haus. Ca. 10 Minuten zu Fuß bis ins Ortszentrum. Es verkehrt alle 30 Minuten ein kostenloser Shuttelbusservice, der Sie zu den wichtigsten Stationen Seefelds bringt.",
+    "",
+    "So finden Sie das Haus Moosbichl:\nAusf.Seefeld Mitte - Andreas Hofer Str.- über die Bahngleise bis Hotel Central, rechts Münchenerstr. ca. 500m folgen bis zur Apotheke, links in die Geigenbühelstr. biegen (ca.500m über eine kleine Brücke)- rechts in den Panoramaweg, auf die Anhöhe -vor dem Prachenskyhof links abbiegen, Haus rechts -Lärchenweg 637, Helga Mayr, Tel. 05212/3902 oder 0664/3121553"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/cb03bd52-ae29-4df1-8c19-b3defa5942de/99/image.jpg",
+      "caption": "Winter "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4043bb18-2f08-42bb-a40a-2473588495ab/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/28f55037-5e14-4e56-99a5-09fae9b5c364/99/image.jpg",
+      "caption": "Sommer 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3a0dcba2-96dd-4f3c-9544-ff63c5f067cc/99/image.jpg",
+      "caption": "Winter 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/57dc18a1-b3a9-4562-8f69-a417316c2fff/99/image.jpg",
+      "caption": "Sommer 2"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3371613549451",
+    "longitude": "11.1888349056244"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "Die folgenden Preise verstehen sich pro Appartement bis zu 4 Personen,Aufschlag für jede weitere Person € 7,-- pro Tag,Aufschlag pro Hund € 4,-- pro Tag. Im 1.Stock gelegen, Südbalkon, Garderobe, Wohnraum mit Tiroler Essecke und offenem Dachstuhl (mit Spiel- und Schlafgelegenheit), Elternschlafzimmer mit Doppelbett, Kinderzimmer mit 2 seperaten Betten, Bad mit Dusche/Doppelwaschbecken/WC/kleiner Waschmaschine, Küche mit Geschirrspüler, ausreichend Töpfen, Filterkaffeemaschine, Geschirr, Besteck ",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "3-Raum-Ferienwohnung",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC",
+      "description": "im Erdgeschoß gelegen, mit Südterrasse, \nWohn- Schlafraum mit kleinem Esstisch, Küchenzeile, ausreichend Kochtöpfe, Geschirr, Besteck und Gläser, \nBad mit Dusche/WC/Badewanne/Doppelwaschbecken, Hand- Bade- Geschirrhandtücher und Bettwäsche inkl.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Wohn-Schlafraum/Dusche, Bad,WC",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ]
+    }
+  ]
+}

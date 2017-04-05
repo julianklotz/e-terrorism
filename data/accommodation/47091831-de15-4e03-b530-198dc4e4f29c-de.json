@@ -1,0 +1,56 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.holiday-seefeld.at"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Swallows Nest",
+    "streetAddress": "Claudiastr. 830",
+    "addressLocality": "Seefeld in Tirol",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "0043 699 17866781",
+    "email": "info@holiday-seefeld.at",
+    "url": "http://www.holiday-seefeld.at"
+  },
+  "name": "Swallows Nest",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d2fde434-f38a-469f-9969-6e70b735e647/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4ccd475a-cbe2-400e-a5fd-d43f9ad6bdbe/99/image.jpg",
+      "caption": "Sommer"
+    }
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Ferienhaus, Dusche und Bad, WC, 4 oder mehr Schlafräume",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Ferienhaus, Dusche und Bad, WC, 4 oder mehr Schlaf",
+          "numberOfRooms": "6.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "9",
+            "minValue": "6"
+          }
+        }
+      ]
+    }
+  ]
+}

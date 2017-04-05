@@ -1,0 +1,27 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BarOrPub"
+  ],
+  "name": "Ωmega Blue/Bar",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3287520648693",
+    "longitude": "11.1890816688538"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Ωmega Blue",
+    "streetAddress": "Bahnhofsplatz 389",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c36b1992-5164-4da2-8fd7-c73b18361d35/99/image.jpg",
+      "caption": "Ωmega Blue Sommer"
+    }
+  ]
+}

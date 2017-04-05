@@ -1,0 +1,28 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "FastFoodRestaurant"
+  ],
+  "name": "Fiakerstüberl",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3614636895504",
+    "longitude": "11.1221739649773"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Klamm 80",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 9106838"
+  },
+  "description": "Sitzplätze für ca. 30 Personen!",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4af10485-0ca4-469c-bc93-1d5b7bdfc9a5/99/image.jpg",
+      "caption": "Fiakerstüberl"
+    }
+  ]
+}

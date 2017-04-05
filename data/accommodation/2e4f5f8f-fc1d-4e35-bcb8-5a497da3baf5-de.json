@@ -1,0 +1,309 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel",
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.gasthofrustical.com",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Gasthof Rustical",
+    "streetAddress": "Weidach 277",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 676 6206007",
+    "email": "gasthof.rustical@gmail.com",
+    "url": "http://www.gasthofrustical.com"
+  },
+  "name": "Gasthof Rustical",
+  "description": [
+    "GASTHAUS RUSTICAL ... so lebt sich Tirol!\nDie Lässigkeit Tirols, sowie Natürlichkeit der Leutasch in der Olympiaregion Seefeld spiegeln sich im Urlaub wieder!\nIm Rustical erwartet Sie die Herzlichkeit, einer familiären Führung.\nWir liegen Zentrumsnah, ruhig und bieten ausreichende Parkplätze am Haus!\nUnser Haus liegt direkt an der Loipe und nur 200 m vom Alpenbad Leutasch entfernt. Das Anglerparadies Weidachsee ist in nur 5 Gehminuten zu erreichen.\nEs gelten unsere Allgemeine Geshäftbedingungen. Angebote basierend auf derzeitiger Ortstaxe.\n\nIn jeder Saison können Sie bei uns, das perfekte Angebot finden!\n\nAb 01.05.2016 - 31.10.2016 bekommen Sie für Ihre gesamten Aufenthalt (nach 3 Nächte) die Schwimmbadkarte für Alpenbad Leutasch!\n",
+    " \nKinderermäßigung:\n0 - 4  Jahre: - 70%\n5 - 7 Jahre: -50%\nAb 8 Jahren: mit Frühstück € 28,-/ € 33,-\n\nHaustiere nach Absprache erlaubt!\n\n\n",
+    "Anreise zwischen 17:30 - 22:00 Uhr! Für eine Frühere Anreise-zeit bitten wir unsere Gäste, dass Sie mit uns kontaktien!\n\nDen Gasthof Rustical erreicht man mautfrei über :       Garmisch - Mittenwald - Leu!tasch-Weidach,\noder über :                                                                         Innsbruck - Seefeld - Weidach.\n\nAuch die Bahnanreise bis Mittenwald oder Seefeld ist zu empfehle",
+    "Gasthof,Tirol,Rustical, Balkon,Frühstück,Restaurant,Pizza,Halbpension,Leutasch,Langlauf Haus,Menü"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.0",
+    "reviewCount": "202"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9113df57-ba58-42cd-a2cd-2d74baf30295/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/66032477-afeb-4ab3-8435-6499a8c1fe2a/99/image.jpg",
+      "caption": "Gasthof Rustical"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/292a2f3c-8efc-4ca6-b101-d05578935442/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8de320ee-d63d-4e66-87a3-215a5f173892/99/image.jpg",
+      "caption": "Saal1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/cc1f9e47-9ce5-4043-96fa-445f1e215d14/99/image.jpg",
+      "caption": "Saal2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8c65b1b0-81ae-410e-9bcb-c6d64c2857f0/99/image.jpg",
+      "caption": "Saal"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/77fb4f29-2a10-494f-b988-0f400df4e93d/99/image.jpg",
+      "caption": "Stube1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/695fb8f8-c477-41e6-b9b0-a763370868c0/99/image.jpg",
+      "caption": "Bar"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9aeb5cb9-b91d-421c-889b-b980f176cf9d/99/image.jpg",
+      "caption": "Saal3"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3721304",
+    "longitude": "11.1543489000001"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Einzelzimmer, Dusche, WC, Standard",
+      "description": "Einzelzimmer mit Dusche/WC, Parkplatz, W-Lan (WIFI), ruhige Lage",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Einzelzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "42.80",
+          "maxPrice": "42.80",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC, Standard",
+      "description": "Doppelzimmer, Dusche/WC, TV, Wifi, schöne Aussicht, Parkplatz",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "75.60",
+          "maxPrice": "75.60",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "75.60",
+          "maxPrice": "75.60",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC, Balkon",
+      "description": "Doppelzimmer, Dusche/WC, TV, Wifi, schöne Aussicht, Parkplatz und Balkon.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Balkon, Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "75.60",
+          "maxPrice": "75.60",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Dreibettzimmer, Dusche, WC, Standard",
+      "description": "Doppelzimmer + 1 Bett, Dusche/WC, TV, Wifi, ruhige Lage, Parkplatz.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Dreibettzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "3"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "88.40",
+          "maxPrice": "88.40",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Suite, Dusche, WC, Komfort",
+      "description": "Dachgeschoss Suite, Schlafzimmer, Wohnraum, TV, WIFI, Dusche/WC, Zusatzbetten, Parkplatz.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Suite, Dusche, WC, Komfort",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "85.60",
+          "maxPrice": "85.60",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, Standard",
+      "description": "1 Doppelzimmer, Wohnraum, Dusche/WC, Küche mit Einrichtung, SB-Waschmaschine, eig. Eingang, Parkplatz, ruhige Lage, Zusatzbett auf Anfrage.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement/Fewo, Dusche, WC, Standard",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "75.60",
+          "maxPrice": "75.60",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, Komfort",
+      "description": "1 Doppelzimmer, Wohnraum, Bad/WC, Küche mit Einrichtung, Minibar, TV, WIFI, Waschküche, eig. Eingang, Parkplatz, Zusatzbett auf Anfrage.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement/Fewo, Bad, WC, Komfort",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation",
+    "IceCreamShop"
+  ],
+  "name": "Eislaufplatz Olympia Sport- und Kongresszentrum, Eislaufen",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3272903914826",
+    "longitude": "11.1825799942017"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "SCHIMEIER",
+    "streetAddress": "Klosterstr. 600/Olympia Sport- und Kongresszentrum",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "+4352123050",
+    "email": "info@schimeier.at",
+    "url": "http://www.schimeier.at"
+  },
+  "description": "Kunsteisbahn, Umkleidemöglichkeiten, Schlittschuhverleih, Eisen schleifen.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6a7388a9-e3ba-4e9b-819d-04a6b9dd1445/99/image.jpg",
+      "caption": "Eislauf"
+    }
+  ],
+  "url": [
+    "http://www.schimeier.at"
+  ]
+}

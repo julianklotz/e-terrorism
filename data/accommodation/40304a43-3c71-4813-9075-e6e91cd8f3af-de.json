@@ -1,0 +1,271 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.austria-seefeld.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Austria",
+    "streetAddress": "Milserstr. 405",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2450",
+    "email": "haus@austria-seefeld.at",
+    "url": "http://www.austria-seefeld.at"
+  },
+  "name": "Haus Austria",
+  "description": [
+    "Gepflegtes Haus mit großem Garten, in ruhiger, sonniger Lage, mit Aussicht auf die herrliche Bergwelt.\n5 Gehminuten zum Ortszentrum, zur \"Golfacademy\", zur Langlaufloipe und zur Haltestelle für den \"Gratis-Ski-Bus\".",
+    "Inklusive: Heizung, Strom, Wasser, W-LAN\nExklusive: Garage (Winter € 6, Sommer € 4) und Brötchenservice",
+    "Check-In: 14 Uhr, Check-Out: 10 Uhr, \nWeg: Ausfahrt Seefeld-Mitte, Andreas-Hofer-Str. --\u003e Richtung Ortszentrum, nach dem Birkenwald links in die Milserstraße einbiegen, 2. Haus auf der rechten Seite"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f376e2b1-2db0-4f28-8bd7-cc63e356daa3/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2c8b3b92-6c6c-466e-8025-f7903a48e2ed/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/60558301-a6e4-4aca-a7a3-134cb85db6ee/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ac35d956-01ba-4210-9089-24a9dbdfa4e6/99/image.jpg",
+      "caption": "Sommer Nordseite"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f4643391-8e7e-4095-b3ef-41ce0885c873/99/image.jpg",
+      "caption": "Sommer Westseite"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/55e0772f-0623-4843-97cb-5dcfdb509aca/99/image.jpg",
+      "caption": "Winter mit Garten"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9526d642-1b4e-407c-951e-844d72671b33/99/image.jpg",
+      "caption": "Winter Nordseite"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/01bd40ca-2d86-4054-a31f-b0d3b4efe44d/99/image.jpg",
+      "caption": "Ostseite Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ee19f1a5-a47d-48d2-8782-f9dd407822a8/99/image.jpg",
+      "caption": "Winter mit Garten"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/687504fc-ed4d-470f-b071-04a99ba357c9/99/image.jpg",
+      "caption": "Winter mit Garten Südseite"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d4acba8c-3604-4376-8689-e6f4d3e18e5e/99/image.jpg",
+      "caption": "Sommer Hausansicht Nord"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d29aafc8-57c6-4580-93f9-f48c30be0fb0/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/fe1fee5c-4b1f-4213-b741-e4d63ddd706e/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/89a53abd-fdc6-401c-8f06-fda1f2bc2c27/99/image.jpg",
+      "caption": "Aussicht Sommer App. 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ebaac070-736b-4438-94ca-1cf760b83b93/99/image.jpg",
+      "caption": "Sommer Ausblick von App. 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6e331d0b-3d0c-49aa-b5e4-8ccf195cd158/99/image.jpg",
+      "caption": "Sommer Ostseite"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6595044a-7856-4b54-8aa6-858f4fd4cb9d/99/image.jpg",
+      "caption": "Eingang Nordseite"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3d5a1e5a-7450-4170-9268-f9c1d3c858bf/99/image.jpg",
+      "caption": "Aussicht App. 2"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3283521085097",
+    "longitude": "11.192193031311"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Gemütliche Ferienwohnung, Wohnzimmer (mit ausziehbarer Doppelbettcouch), Schlafzimmer, komplett eingerichtete Küche, Dusche/WC, großer Süd-West-Balkon, mit freiem Blick auf die umliegende Bergwelt. W-LAN kostenlos!",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "App. 1/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Wandern \"7 Tage\"",
+          "description": "Genießen Sie 7 Tage in unserem schönen Appartement!\nInklusive einer Wanderkarte, einer Flasche Wein und frischem Obst zur Begrüßung! ",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "55.00",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "55.00",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "60.00",
+          "maxPrice": "105.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "399.00",
+          "maxPrice": "399.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "449.00",
+          "maxPrice": "449.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "499.00",
+          "maxPrice": "499.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 1 Schlafraum",
+      "description": "Wohnraum mit kompletter Küchenzeile und Essecke, Sofa, Schlafzimmer, über dem Gang (ca.  1 1/2 Meter) befindet sich das Bad/WC - nur zu Ihrer alleinigen Benutzung, Abstellraum, großer West-Balkon (ab Mittag bis zum Sonnenuntergang - Sonne), mit freiem Ausblick auf Seefeld und die umliegende Bergwelt. W-LAN kostenlos!",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "App. 2/1 Schlafraum/Bad, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Wandern \"7 Tage\"",
+          "description": "Genießen Sie 7 Tage in unserem schönen Appartement!\nInklusive einer Wanderkarte, einer Flasche Wein und frischem Obst zur Begrüßung! ",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "50.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "50.00",
+          "maxPrice": "85.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "349.00",
+          "maxPrice": "349.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "349.00",
+          "maxPrice": "349.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

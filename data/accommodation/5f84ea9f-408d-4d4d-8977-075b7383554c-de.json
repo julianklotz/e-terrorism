@@ -1,0 +1,758 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://web.deskline.net/seefeld/de/show_accommodation/SEE/5f84ea9f-408d-4d4d-8977-075b7383554c/haus_panorama",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Panorama",
+    "streetAddress": "Hohe-Munde-Str. 590/591",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2556",
+    "faxNumber": "(0043) 5212 2556",
+    "email": "fam.gufler@seefeld-in-tirol.net"
+  },
+  "name": "Haus Panorama",
+  "description": [
+    "Das Haus Panorama liegt in ausgezeichneter, ruhiger Lage nahe der Fußgängerzone und des Ortszentrums von Seefeld. Sie genießen einen herrlichen Ausblick auf die Bergwelt des Seefelder Plateaus.\nLanglaufloipen sowie Schibus und Olympia-Hallenbad befinden sich in unmittelbarer Nähe. Alle Wohnungen besitzen einen großen südseitigen Balkon.\nEs sind kostenlose Parkplätze vorhanden. FÜR EINEN FREIEN STELLPLATZ KÖNNEN WIR KEINE GARANTIE GEBEN!!!!!",
+    "EXKLUSIVE: Tiefgaragenplatz, Bettwäsche kann selbst mitgebracht oder vor Ort gemietet werden (Der Preis für Bettwäsche Hand- und Badetücher beträgt pro Person und Aufenthalt Euro 4,00),\nDer Preis für die Endreinigung bezieht sich auf 2 Personen. Für jede weitere Person erlauben wir uns Euro 2,00 zuzüglich zu verlangen. Brötchenservice im Winter.",
+    "Anreise: ab 14.00 Uhr bis spätestens 18.00 Uhr\nBei späterer Anreise bitte Telefonisch melden.\nAbreise: bis spätestens 10.00Uhr\nStornogebühren:\nBis 3 Monate: keine Stornogebühren\nBis 1 Monat: 40 % \nBis 1 Woche: 70 %\nWeniger als 1 Woche: 90 %\n\n"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5693594c-168a-4319-a141-1d5926b760a2/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e21db8a2-aa4a-43c4-adc3-50b30cb6b4aa/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/08e7a19d-0728-4f63-8612-4325e2bbb06e/99/image.jpg",
+      "caption": "Bilder Panorama 011"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6ec4afe0-64bb-4833-b029-74996800a660/99/image.jpg",
+      "caption": "Haus 590"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d7bb62df-1602-49a1-8bd4-0e58aa3fd75c/99/image.jpg",
+      "caption": "Haus 591"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b49c070d-4496-442b-9a77-b694b7bdda69/99/image.jpg",
+      "caption": "Tiefgarage Abstellplatz kann gemietet werden."
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/70f1ce72-b4e2-4bbd-a56a-053ecd4f270f/99/image.jpg",
+      "caption": "dokument-im-haus-panorama 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d09305f9-612d-4bda-a383-d9209c970981/99/image.jpg",
+      "caption": "dokument-im-haus-panorama"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/898e7410-8e0a-45fe-a931-8e12550d7d7a/99/image.jpg",
+      "caption": "kaltsee-auf-dem-weg-zur-rosshuette"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6afbf31d-de9f-4fd8-9230-95d50de41226/99/image.jpg",
+      "caption": "olympiaregion-seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/209b84f4-242c-4c48-b06d-6afa3c62928c/99/image.jpg",
+      "caption": "wildsee-in-der-naehe-der-ferienwohnung"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2f733a49-e2b1-4d0d-8577-6d8612a9fde9/99/image.jpg",
+      "caption": "Parkplatz"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f398f6cb-8268-47ca-a889-e549daa6851e/99/image.jpg",
+      "caption": "Haus 591"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a6ffeefc-cacb-43ac-a9ec-0f48a39a7758/99/image.jpg",
+      "caption": "Forderes Haus"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b4171840-7875-44ea-a692-68a731da7b20/99/image.jpg",
+      "caption": "Forderes Haus"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b8fb10b3-3a3e-4ebf-ac7e-764eb132a2cd/99/image.jpg",
+      "caption": "Bilder Panorama 008"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1fd424c6-f041-4da0-ad0d-9b1e9727aa50/99/image.jpg",
+      "caption": "Bilder Panorama 010"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6b4e3b8e-0086-4e18-96d4-4d326452d344/99/image.jpg",
+      "caption": "Bilder Panorama 012"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f6f6206d-8ce5-4016-8b7c-8819764e7d77/99/image.jpg",
+      "caption": "Bilder Panorama 013"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f8c956dd-931f-406d-81f5-9c26b94a89cf/99/image.jpg",
+      "caption": "Bilder Panorama 009"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b2899d3f-b289-4efe-8ee6-3d5217b2dcd2/99/image.jpg",
+      "caption": "20161114_093231"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/233fbd59-eff6-45a4-901c-44ec94ae7c49/99/image.jpg",
+      "caption": "20161114_093502"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9d233d76-0528-4ca6-9d97-d1f5eae61700/99/image.jpg",
+      "caption": "20161114_093517"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/595311a0-949a-4084-80dd-27d39e914918/99/image.jpg",
+      "caption": "20161114_093241"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5f95e57d-c2fd-43b5-8ac7-c2ff90daf857/99/image.jpg",
+      "caption": "20161114_093557"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f25c6dcc-3c64-40cb-89c4-69f334b6a459/99/image.jpg",
+      "caption": "20161114_093640"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7d6a3bfd-384c-4985-80f1-2d475ed9b288/99/image.jpg",
+      "caption": "Möserer See 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4516a377-98e0-4c05-b9c5-050bc87473e9/99/image.jpg",
+      "caption": "Möserer See 3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/82b3fa62-f64b-4fd5-b3b2-be8aaa3feb7e/99/image.jpg",
+      "caption": "Möserer See"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3302209695114",
+    "longitude": "11.182633638382"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 1 Schlafraum",
+      "description": "Wohnraum mit Kochnische, Schlafzimmer mit Ehebetten, Bad, Vorraum, Parterre, Balkon.\nDer Preis für die Endreinigung bezieht sich auf 2 Personen. Für jede weitere Person erlauben wir uns Euro 2,00 zuzüglich zu verlangen.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement 6",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "50.00",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "50.00",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "50.00",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 1 Schlafraum",
+      "description": "Wohnzimmer, Schlafzimmer, Küche, Bad, Balkon, Vorraum, 1. Stock, Telefon\nDer Preis für die Endreinigung bezieht sich auf 2 Personen. Für jede weitere Person erlauben wir uns Euro 2,00 zuzüglich zu verlangen.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement 8",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 1 Schlafraum",
+      "description": "Vorraum, Bad, Küche, Schlafzimmer Betten getrennt, Wohnzimmer mit Schrankbetten, Balkon, 1. Stock.\nDer Preis für die Endreinigung bezieht sich auf 2 Personen. Für jede weitere Person erlauben wir uns Euro 2,00 zuzüglich zu verlangen.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement 9",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 3 Schlafräume",
+      "description": "Küche, Wohnzimmer, 3 Schlafzimmer,Ein SZ mit 2 Doppelbetten, ein SZ mit zwei getrennten Betten, ein SZ mit einem Bett. 1 Bad mit Dusche /WC, 1 Bad mit Badewanne/ WC, großer Balkon; 2. Stock. Der Preis für die Endreinigung bezieht sich auf 2 Personen. Für jede weitere Person erlauben wir uns Euro 2,00 zuzüglich zu verlangen. 1 Parkplatz in der Garage ist inklusive.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement 15 /2 Bäder",
+          "numberOfRooms": "4.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "7",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "70.00",
+          "maxPrice": "180.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "70.00",
+          "maxPrice": "200.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "70.00",
+          "maxPrice": "200.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "70.00",
+          "maxPrice": "200.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "70.00",
+          "maxPrice": "200.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 7",
+          "minPrice": "200.00",
+          "maxPrice": "200.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Wohnzimmer mit 2 Schlafmöglichkeiten, Küche, Bad, Schlafzimmer, Vorraum, Balkon, 2.Stock.\nDer Preis für die Endreinigung bezieht sich auf 2 Personen. Für jede weitere Person erlauben wir uns Euro 2,00 zuzüglich zu verlangen.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartemnt 18",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 3 Schlafräume",
+      "description": "Vorraum, Küche, Badezimmer, Wohnzimmer, 3 Schlafzimmer, 2. Stock.Über eine Wendeltreppe kommen Sie in die zweite Etage, wo sich zwei Mansardenzimmer befinden.\nDer Preis für die Faschingswoche beträgt pro Tag Euro 150,00. Der Preis für die Endreinigung bezieht sich auf 2 Personen. Für jede weitere Person erlauben wir uns Euro 2,00 zuzüglich zu verlangen.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement 19",
+          "numberOfRooms": "4.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 3 Schlafräume",
+      "description": "Nette Wohnung im Zentrum, für 5/6 Personen, im 2 Stock. drei Schlafzimmer, großer Balkon Richtung Süden, komfortables Wohnzimmer mit eleganter Verkleidung aus hellem Holz auf den Wänden und Decke eine Küche mit Spülmaschine und Backofen,ein Badezimmer mit Badewanne, eines der drei Schlafzimmer hat eine Ecke mit eigenem Waschbecken,Fernseher mit LCD Bildschirm, Über eine Wendeltreppe kommen Sie in die 2 Etage wo sich 2 Mansardenzimmer befinden.inkl.Garage.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement 20 Bad mit WC, 3 Schlafzimmer",
+          "numberOfRooms": "4.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Wohnzimmer mit Schlafsofa, Schlafzimmer, Vorraum, Bad, Küche,2.Stock, Balkon. Der Preis für die Endreinigung bezieht sich auf 2 Personen. Für jede weitere Person erlauben wir uns Euro 2,00 zuzüglich zu verlangen.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement 21",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 1 Schlafraum",
+      "description": "Wohnzimmer mit Schlafsofa, Schlafzimmer mit Ehebetten, Vorraum, Bad, Küche, Hochparterre, Balkon.\nDer Preis für die Endreinigung bezieht sich auf 2 Personen. Für jede weitere Person erlauben wir uns Euro 2,00 zuzüglich zu verlangen.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement 23",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 1 Schlafraum",
+      "description": "Wohnzimmer mit Schlafsofa, Schlafzimmer, Betten getrennt, Küche, Bad, Vorraum, Hochparterre, Balkon.\nDer Preis für die Endreinigung bezieht sich auf 2 Personen. Für jede weitere Person erlauben wir uns Euro 2,00 zuzüglich zu verlangen.\n\nAPPARTEMENT IST UMFASSEND RENOVIERT!",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement 25",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "50.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "50.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "50.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 1 Schlafraum",
+      "description": "Wohnzimmer mit Schrankbett, Schlafzimmer, Betten getrennt, Bad, Küche, Hochparterre, Balkon,\nHaustiere sind in diesem Appartement leider nicht erlaubt!!! Der Preis für die Endreinigung bezieht sich auf 2 Personen. Für jede weitere Person erlauben wir uns Euro 2,00 zuzüglich zu verlangen.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement 26",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "40.00",
+          "maxPrice": "75.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "40.00",
+          "maxPrice": "75.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "40.00",
+          "maxPrice": "75.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Wohnzimmer, Ausziehsofa, Schlafzimmer, Ehebetten, Küche, Bad, Vorraum, Hochparterre, Balkon.\nDer Preis für die Endreinigung bezieht sich auf 2 Personen. Für jede weitere Person erlauben wir uns Euro 2,00 zuzüglich zu verlangen. Vorwiegend wird nur an 2 Personen vermietet. Es sind keine Haustiere erlaubt.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement 28",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 1 Schlafraum",
+      "description": "Wohnzimmer Schlafsofa, Schlafzimmer, Betten getrennt, Bad, Küche, Vorraum, 1.Stock, Balkon.\nDer Preis für die Endreinigung bezieht sich auf 2 Personen. Für jede weitere Person erlauben wir uns Euro 2,00 zuzüglich zu verlangen.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement 29",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "40.00",
+          "maxPrice": "75.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "40.00",
+          "maxPrice": "75.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "40.00",
+          "maxPrice": "75.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Schlafzimmer, Ehebetten, Wohnzimmer, Schlafsofa, Küche, Bad, Vorraum, 1. Stock, Balkon; Telefon.\nDer Preis für die Endreinigung bezieht sich auf 2 Personen. Für jede weitere Person erlauben wir uns Euro 2,00 zuzüglich zu verlangen.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement 30",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "50.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 1 Schlafraum",
+      "description": "Wohnzimmer mit Schlafsofa, Schlafzimmer, Ehebett, Küche, Bad, Vorraum, Balkon, 1. Stock, Tiefgarage inklusive",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement 31",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 1 Schlafraum",
+      "description": "Vorraum, Bad, Küche, Wohnzimmer mit Schrankbetten, Schlafzimmer, getrennte Betten, Telefon, Balkon, 1. Stock.\nDer Preis für die Endreinigung bezieht sich auf 2 Personen. Für jede weitere Person erlauben wir uns Euro 2,00 zuzüglich zu verlangen.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement 32",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "40.00",
+          "maxPrice": "75.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "40.00",
+          "maxPrice": "75.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "40.00",
+          "maxPrice": "75.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 1 Schlafraum",
+      "description": "Wohnzimmer, 2 Schlafzimmer, Küche, Bad, Essraum, Vorraum,2. Stock, Balkon, Telefon.\nÜber eine Wendeltreppe kommen Sie in die zweite Etage, wo sich zwei Mansardenzimmer und ein WC befinden.  Der Preis für die Endreinigung bezieht sich auf 2 Personen. Für jede weitere Person erlauben wir uns Euro 2,00 zuzüglich zu verlangen.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement 37",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Wohnzimmer mit Schlafsofa, Schlafzimmer mit Ehebetten, Vorraum, Bad, Küche, 2. Stock, Balkon.\nDer Preis für die FASCHINGSWOCHE beträgt pro Tag Euro 95,00.- Der Preis für die Endreinigung bezieht sich auf 2 Personen. Für jede weitere Person erlauben wir uns Euro 2,00 zuzüglich zu verlangen.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement 41",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "58.00",
+          "maxPrice": "105.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "40.00",
+          "maxPrice": "105.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "40.00",
+          "maxPrice": "105.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "40.00",
+          "maxPrice": "105.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

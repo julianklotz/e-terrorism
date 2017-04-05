@@ -1,0 +1,388 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.gaestehaus-lasser.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Gästehaus Lasser",
+    "streetAddress": "Wiesenweg  251",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 680 120 66 13",
+    "email": "info@gaestehaus-lasser.at",
+    "url": "http://www.gaestehaus-lasser.at"
+  },
+  "name": "Gästehaus Lasser",
+  "description": [
+    "\nDas familiär geführte Gästehaus Lasser liegt im Herzen von Seefeld in ruhiger Lage und doch nur 5 Gehminuten von der Fußgängerzone entfernt.\nDas im Tiroler Stil eingerichtete Gästehaus besticht durch traditionelle Moderne und unvergleichbaren Wohlfühlambiente. Die großteils renovierten Doppel-, Dreibett- und Familienzimmer sind mit warmen, klassischen Holzmöbeln eingerichtet und bieten Platz für 2-4 Personen. Die Badezimmer sind mit hellen Fliesen, Dusche, WC, Waschbecken und Fön ausgestattet. Die Balkonzimmer ermöglichen Ihnen einen atemberaubenden Blick auf die umliegende Seefelder Bergwelt. Genießen Sie am Morgen das liebevoll zubereitete Frühstück und starten Sie mit viel Energie in einen neuen Urlaubstag.\nDas erneuerte 3-Raum Appartement bietet ausreichend Platz für eine 6-köpfige Familie. 2 getrennte Schlafzimmer, eines mit Durchgang in ein Zimmer mit Stockbetten für die Kinder, sorgen für einen erholsamen Schlaf. Ein großzügiges, neuwertiges Badezimmer mit Dusche/WC, Waschbecken und Fön zählt zu einem weiteren Ausstattungsmerkmal. In der separaten, top ausgestatteten Küche können Sie Ihre Lieblingsgerichte zaubern. Damit Sie die Zeit nicht mit langem Abwaschen vergeuden, befindet sich in der kleinen Küche auch eine Geschirrspülmaschine. In dem rustikal bequemen Wohnzimmer mit Esstisch verbringen Sie schöne gemeinsame Stunden beim Essen und Pläne für den nächsten Tag schmieden.\nDamit Sie auch in Ihrem Urlaub stets top informiert sind, bieten wir Ihnen im ganzen Haus kostenloses W-Lan und einen SAT-Flachbildschirm in den Zimmern.\nDer Ort Seefeld bietet seinen Gästen alle neuzeitlichen Annehmlichkeiten und Abwechslung, ohne dabei von seiner Ursprünglichkeit abzukommen. Bestens geeignet für einen Familien-, Erholungs- oder Kurzurlaub. Für Sportler bietet die unberührte Natur der Olympiaregion Seefeld einen guten Mix aus Wander- und Radmöglichkeiten, Nordic Walking/Laufen, Golfen, Schwimmen und vieles mehr im Sommer. Im Winter können sich Gäste auf 271 km top präparierten Loipen vergnügen. Romantische Winterwanderwege und idyllische Schneeschuhtouren, sowie einfache Skipisten für Beginner und rasante Abfahrten für Ski-Alpin Profis machen Ihren Winterurlaub spannend. Gelangen Sie zu Fuß oder mit den kostenlosen Ski- und Dorfbussen bequem zu den infrastrukturellen Einrichtungen.\nEinfach mal abhängen … im Gästehaus Lasser in Seefeld in Tirol!\nWir freuen uns auf Sie!\nDie Gastfamilie Christian und Christina mit Lukas und Lilli",
+    "Check in: 12.00 bis 20.00 Uhr\nCheck out: 11.00 Uhr\n\nHunde nur auf Anfrage (Euro 5,- pro Hund und Tag)\n",
+    "Bahnhof Seefeld, Olympiastraße (durch die Fußgängerzone), rechts Hotel Metropol, links ca. 50m Haus Lasser!"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "reviewCount": "54"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/dc30d243-9d06-4329-b300-45407f5db73d/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4924aa8c-5ac0-4ceb-80a5-fbff5766fc14/99/image.jpg",
+      "caption": "Hausansicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/15e3b7b3-a00a-4e64-b6ce-8c9238bb7d83/99/image.jpg",
+      "caption": "Eingang"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2e2e8d0d-330e-4c84-88b2-4206a76209a5/99/image.jpg",
+      "caption": "Aufenthaltsraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/dcfd6fb9-d41b-4733-82e0-f5308f0db7b2/99/image.jpg",
+      "caption": "Frühstücksraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2566cb18-93ec-45e6-be45-c0b73c5f17d1/99/image.jpg",
+      "caption": "Garten"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/23d48646-e133-40cb-9210-f66f4d41051f/99/image.jpg",
+      "caption": "Hausansicht Herbst"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2af038cf-78a0-47ee-973b-fa0d378cdbf2/99/image.jpg",
+      "caption": "Aussicht Herbst"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d53f2481-7a34-44dd-bb0d-dd9ca4f2e4d5/99/image.jpg",
+      "caption": "Morgenstimmung"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b3e50aeb-7f4b-43ad-8f60-011472c268fe/99/image.jpg",
+      "caption": "Aussicht auf Gschwandtkopf"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1973f225-a188-47b9-af5c-71bcd9128233/99/image.jpg",
+      "caption": "Aussicht auf Reitherspitze"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6c98dfc4-4b02-4ee3-9deb-1c6272bf3dc0/99/image.jpg",
+      "caption": "Aussicht auf Seefeldspitze"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/693b4c9f-f109-4f1a-a731-1100c8c417bc/99/image.jpg",
+      "caption": "Aussicht auf Härmelekopf und Seefelderspitze"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b0eeba5a-ea47-487c-ae88-d36ba20489bb/99/image.jpg",
+      "caption": "Einfahrt"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3310862952032",
+    "longitude": "11.1811101436615"
+  },
+  "paymentAccepted": [
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC, Standard",
+      "description": "\nGemütliches Doppelzimmer mit traumhaften Ausblick auf unsere schöne Bergwelt, das sollte über den nicht vorhandenen Balkon hinwegtrösten (15-20m²) mit Dusche/WC, SAT-TV,W-Lan",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer Standard",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "34.00",
+          "maxPrice": "44.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "27.00",
+          "maxPrice": "84.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC, Balkon",
+      "description": "gemütliches Doppelzimmer mit Balkon und wunderschönen Ausblick auf unsere Bergwelt(15-20m²) mit Dusche/WC, SAT-TV,W-Lan",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Balkon",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "36.00",
+          "maxPrice": "46.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "28.00",
+          "maxPrice": "90.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Familienzimmer, Dusche, WC, Balkon",
+      "description": "schönes neu renovietes Familienzimmer mit Balkon und toller Aussicht (25-30m²) mit Dusche, WC und SAT-TV, W-Lan",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Familienzimmer mit Balkon",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "28.00",
+          "maxPrice": "90.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "28.00",
+          "maxPrice": "135.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "28.00",
+          "maxPrice": "180.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Dreibettzimmer, Dusche, WC, Balkon",
+      "description": "schönes Dreibettzimmer mit Balkon ,mit sensationellen Ausblick auf die tiroler Bergwelt  (20-25m²), Dusche, WC und SAT-TV, W-Lan",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Dreibettzimmer mit Balkon",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "28.00",
+          "maxPrice": "90.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "28.00",
+          "maxPrice": "135.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Dreibettzimmer, Dusche, WC, Standard",
+      "description": "geräumiges Dreibettzimmer neu renoviert ohne Balkon, dafür wunderschönen Ausblick auf die umliegenden Berge(20-25m²), Dusche, WC und SAT-TV,W-Lan",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Dreibettzimmer Standard",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "42.00",
+          "maxPrice": "42.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "84.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "28.00",
+          "maxPrice": "126.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "Neurenovierte Ferienwohnung, ruhig gelegen, mit komplett eingerichteter Küche, Badezimmer mit Dusche/WC, Aufenthaltsraum mit Essecke und SAT-TV, W-Lan.\nZwei getrennte Schlafzimmer, in einem dieser Schlafzimmer besteht ein offener Durchgang zum Stockbettzimmer.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "75.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "75.00",
+          "maxPrice": "85.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "90.00",
+          "maxPrice": "110.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "100.00",
+          "maxPrice": "120.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "110.00",
+          "maxPrice": "130.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

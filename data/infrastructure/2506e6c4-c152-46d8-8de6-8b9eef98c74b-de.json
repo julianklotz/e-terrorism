@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation"
+  ],
+  "name": "Rodelbahn Rauthhütte",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3455101386474",
+    "longitude": "11.1038273722138"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Rauthhütte",
+    "streetAddress": "Moos 7",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 2815611",
+    "faxNumber": "(0043) 5262 64670",
+    "email": "info@rauthhuette.at",
+    "url": "http://www.rauthhuette.at"
+  },
+  "description": "Aufstieg von Rauthhütten Parkplatz in Moos oder Obern/Gästehaus Sabine auf die Rauthhütte Höchster Punkt: 1.605 m. Länge: ca. 3 km. Höhenunterschied: 420 m. Schwierigkeit: schwer. Bewirtschaftete Hütte: Rauthhütte Tel. 0664 2815611. ",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/005a27a4-e418-4892-90f1-39c6ee5b158a/99/image.jpg",
+      "caption": "rauthhütte"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2a541b13-3bf9-4ca9-9076-f00f6b6a6362/99/image.jpg",
+      "caption": "Nacht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b04f8c79-b809-4933-9fee-1fa0cda18c1f/99/image.jpg",
+      "caption": "Skifahrer"
+    }
+  ],
+  "url": [
+    "http://www.rauthhuette.at"
+  ]
+}

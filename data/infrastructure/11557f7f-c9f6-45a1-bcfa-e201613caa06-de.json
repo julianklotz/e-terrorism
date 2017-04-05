@@ -1,0 +1,28 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation"
+  ],
+  "name": "Bogenschießanlage Scharnitz/Gießenbach, Bogenschießen",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3800548750022",
+    "longitude": "11.2341481666565"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Bogenschießanlage",
+    "streetAddress": "Gießenbach",
+    "addressLocality": "Scharnitz/Gießenbach",
+    "postalCode": "6108",
+    "addressCountry": "AT"
+  },
+  "description": "Bogenschießanlage\nAlle 3 Parcours können von geübten Schützen benützt werden, ohne vorherige Anmeldung zum Tagespreis von 10,00€.\nNähere Informationen: Walter Lechthaler, Tel.: 0650/5534001",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/81c4a242-e091-4603-a5e4-637b9ef53939/99/image.jpg",
+      "caption": "Bogen"
+    }
+  ]
+}

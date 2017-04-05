@@ -1,0 +1,20 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation"
+  ],
+  "name": "Spielplatz Weidach",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3723504963327",
+    "longitude": "11.1642001430168"
+  },
+  "description": "gegenüber Hotel Marcati",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/002e875d-10cb-4a01-8301-6ecbe7c3d42f/99/image.jpg",
+      "caption": "Spielplatz"
+    }
+  ]
+}

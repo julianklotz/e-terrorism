@@ -1,0 +1,18 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Hocheggstr. 720 / Top 10",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100 ",
+    "addressCountry": "AT"
+  },
+  "name": "ZW - Günther Olga",
+  "currenciesAccepted": "EUR"
+}

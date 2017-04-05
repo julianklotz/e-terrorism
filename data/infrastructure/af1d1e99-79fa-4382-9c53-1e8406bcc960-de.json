@@ -1,0 +1,28 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BarOrPub"
+  ],
+  "name": "La Bamba",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3698621759766",
+    "longitude": "11.1669028981476"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "La Bamba",
+    "streetAddress": "Weidach 373 b",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6028"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/bab187ef-d900-4a8f-9018-aef2774bad31/99/image.jpg",
+      "caption": "la bamba"
+    }
+  ]
+}

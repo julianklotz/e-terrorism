@@ -1,0 +1,165 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.schoenherr-seefeld.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Schönherr",
+    "streetAddress": "Am Kirchwald 350",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 660 4630109",
+    "email": "doris@seefeldnet.at",
+    "url": "http://www.schoenherr-seefeld.at"
+  },
+  "name": "Haus Schönherr",
+  "description": [
+    "Familiär geführtes Haus in ruhiger, sonniger Lage oberhalb Seefelds Wahrzeichen, dem Seekirchl u. nur wenige Gehminuten vom Zentrum entfernt.\nIdealer Ausgangspunkt für Wanderungen, Langlauf, Tennis und vieles mehr.",
+    "INKLUSIVE: Parkplatz, Brötchenservice",
+    "Umfahrungsstraße Seefeld - Ausfahrt Seefeld Mitte - geradeaus durch die Olympiastraße bis zur Kreuzung - links abbiegen Richtung Mösern-Telfs, vorbei am Seekirchl, dann die 1.Straße rechts, nach der Rechtskurve 100m geradeaus das 2. Haus rechts."
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "reviewCount": "33"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ca96e8c7-5cac-42f8-b73c-ba821460f83c/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/711fb2f2-420a-48f2-9b6e-ee2c43f1a326/99/image.jpg",
+      "caption": "Winter Aussicht Nacht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b7cf3bc2-45ef-4fc8-9ed7-e08582bcc1ff/99/image.jpg",
+      "caption": "Winter Seekirchl"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/85ba0717-9395-4aad-9be8-8916a2494b72/99/image.jpg",
+      "caption": "Winter Aussicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1c24e754-9d9c-4896-b5db-253d33e4431e/99/image.jpg",
+      "caption": "Winter "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/15170e6d-1d48-4d6e-b960-5e92b0cd0ba2/99/image.jpg",
+      "caption": "Winter 1"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.327806708593",
+    "longitude": "11.1791574954987"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Nr. 5 /Wohn-Schlafraum/Dusche, WC",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "50.00",
+          "maxPrice": "70.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Das Appartement besteht aus einem Wohnraum mit Küchenteil und aus einem Schlafzimmer verbunden mit Dusche/WC, sowie aus einem Südbalkon.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Nr. 2 + 4 /1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "60.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "65.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "70.00",
+          "maxPrice": "90.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 2 Schlafräume",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement/Fewo, Bad, WC, 2 Schlafräume",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

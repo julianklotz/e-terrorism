@@ -1,0 +1,41 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation",
+    "AmusementPark"
+  ],
+  "name": "Bike Pumptrack",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3267378",
+    "longitude": "11.1822666"
+  },
+  "openingHours": [
+    "Mon,Tue,Wed,Thu,Fri,Sat,Sun 10:00-20:00"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Olympia Sport- und Kongresszentrum",
+    "streetAddress": "Klosterstr. 600",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "+4352123220",
+    "email": "info@seefeld-sports.at",
+    "url": "http://www.seefeld-sports.at"
+  },
+  "description": [
+    "Bike Action Bahn für Kinder \u0026 Erwachsene auf dem Sportareal vor dem Olympia Sport- und Kongresszentrum (Eislaufplatz) zum Testen, Trainieren und Spaß haben, Eintritt frei!",
+    "14.7. - 1.8.2016, täglich von 10:00 - 20:00 Uhr."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/69d1d0ef-cb0d-454f-a44f-382300b9f484/99/image.jpg",
+      "caption": "Pumptrack"
+    }
+  ],
+  "url": [
+    "http://www.seefeld-sports.at/de/sport-kongresszentrum/veranstaltungen/pump-track"
+  ]
+}

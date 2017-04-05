@@ -1,0 +1,233 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.ferienhaus-tannenblick.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Ferienhaus Tannenblick",
+    "streetAddress": "Weidach 285",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6215",
+    "email": "info@ferienhaus-tannenblick.at",
+    "url": "http://www.ferienhaus-tannenblick.at"
+  },
+  "name": "Ferienhaus Tannenblick",
+  "description": [
+    "Mit Tiroler Herzlichkeit empfangen wir unsere Gäste  in 3. Generation und bieten ihnen einen unvergesslichen Urlaub vom ersten Augenblick an.\n\nUnsere Nichtraucherwohnungen sind gemütlich, in heller Fichte eingerichtet und sehr liebevoll dekoriert. Die optimale Lage unseres Hauses ermöglicht Ihnen den sofortigen Einstieg in die Loipe (kostenfrei für unsere Hausgäste) sowie die Benützung des Alpenbades, das sie in 5 Gehminuten erreichen (im Sommer kostenfrei für unsere Hausgäste). \n\nIhre Wanderungen im Sommer und auch im Winter können Sie direkt vom Hause starten.",
+    "Im Preis inkludiert: Strom, Wasser, Heizung\n- kostenlose Loipenbenützung \n- kostenlose Benützung des Regionsbusses für die gesamte Dauer Ihres Aufenthaltes (Winter)\n- kostenloser Eintritt ins Alpenbad Leutasch (Sommer)\n- kostenlose Fahrräder und Bikes (bei Bedarf mit Kindersitz und Kinderhelm)\n- Haustiere kostenfrei\n\noptional: Garage EUR 5,-- / Tag\n\nExklusive Endreinigung, Ortstaxe;",
+    "Unser Haus liegt im Ortsteil Weidach in unmittelbarer Nähe des Alpenbades\n\nSie erreichen uns über Seefeld - Leutasch - Ortsteil Weidach - Richtung Alpenbad\noder von Mittenwald: Leutasch - Schanz - Gasse - Weidach - Richtung Alpenbad"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/38fdc5ba-36f4-4548-b390-8a420cefbcf4/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8fb5edaa-e33e-47e1-8491-f0f8a395e666/99/image.jpg",
+      "caption": "Logo"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/44154e73-84ea-42d3-a5cc-5bd3ec0a4f64/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e7d96863-a1ee-4415-ae48-0cc260096183/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/880aa71e-7ec8-478d-b32a-7ba76105b668/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/895fe0ed-569c-4f79-860c-0110d6ff31e2/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2ada838d-935a-49d9-b006-65d18b32ab42/99/image.jpg",
+      "caption": "Sommer Garten"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4c25e96c-b0a0-4541-b167-b928cdcb0090/99/image.jpg",
+      "caption": "Kinderspielplatz"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3eed0c0d-15fc-4cf3-af2e-b9d75c19ac2e/99/image.jpg",
+      "caption": "Kinderspielplatz mit Sitzmöglichkeit"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1f368953-02b4-4cd4-916b-a783a54b945e/99/image.jpg",
+      "caption": "Garten"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/22d40870-29fb-4b51-b634-ed482ef48d01/99/image.jpg",
+      "caption": "Garten"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/aef555bd-e542-4ca8-9cbf-230d0b79bbb9/99/image.jpg",
+      "caption": "Garten"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.370490718995",
+    "longitude": "11.155468762366"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche oder Bad, WC",
+      "description": "Die Wohnung verfügt über Diele mit eingebauter Kochnische,Schlafraum mit integriertem Wohnteil,Dusche,getrenntes WC,Garderrobenraum, Balkon",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Amalia/Wohn-Schlafraum/Dusche ,",
+          "description": "Die Wohnung verfügt über eine Kochnische mit gemütlichem Eßplatz, Schlafraum durch optische Trennwand geteilt, Bad mit Dusche und WC, Balkon.",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "48.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Die Wohnung verfügt über Diele mit Garderobe, Wohnzimmer mit großzügiger Kochecke und Essplatz, getrenntes Schlafzimmer, Bad mit Dusche - WC, Balkon. Wohnung für 2 Personen",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Anna/1 Wohn-Schlafraum/Dusche,WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "51.00",
+          "maxPrice": "83.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 1 Schlafraum",
+      "description": "Die Wohnung verfügt über Vorraum mit Garderobe, ein getrenntes Schlafzimmer, Wohnzimmer mit gemütlichem Bauernofen, Küche mit großzügigem Eßplatz, Bad mit Dusche, getrenntes WC, Terrasse und Garten.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "\"alte Backstube\" 1 Schlafraum/Dusche, Bad, WC",
+          "description": "Die Wohnung verfügt über Vorraum mit Garderobe, ein getrenntes Schlafzimmer, Wohnzimmer mit gemütlichem Bauernofen, Küche mit großzügigem Eßplatz, Bad mit Dusche, getrenntes WC, Terrasse und Garten. Wohnung für 2 bis 4 Personen",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "73.00",
+          "maxPrice": "103.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "73.00",
+          "maxPrice": "103.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "83.00",
+          "maxPrice": "118.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC",
+      "description": "Die Wohnung verfügt über einen großzügigen Küchenblock, Schlafraum mit integriertem Wohnteil, Garderobe, Bad mit Dusche, getrenntes WC, Balkon, teilweise Terrasse.\nWohnung für 2 Personen",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Emma/Wohn-Schlafraum/Dusche,WC",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "51.00",
+          "maxPrice": "84.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

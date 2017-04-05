@@ -1,0 +1,37 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "TennisComplex"
+  ],
+  "name": "Tennis Club Seefeld",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Tennisstüberl, Tennis Club Seefeld",
+    "streetAddress": "Möserer Str. 561",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2888",
+    "email": "info@tennisclub-seefeld.com",
+    "url": "http://tennisclub-seefeld.com"
+  },
+  "description": [
+    "6 Sandplätze, Trainingswand, Garderoben, Duschen, Clubhaus mit öffentlichem Restaurant, Kiinderspielplatz, Trainerstunden, internationale Tennisturniere. ",
+    "Spielbetrieb ab 8.00 Uhr"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0ec47c95-54f0-4dde-994d-b54eb33fd2e1/99/image.jpg",
+      "caption": "Tennis Club Seefeld"
+    }
+  ],
+  "url": [
+    "http://tennisclub-seefeld.com"
+  ]
+}

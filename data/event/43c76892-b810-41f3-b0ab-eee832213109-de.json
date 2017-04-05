@@ -1,0 +1,52 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "Dirndljägerball 2017",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Kristallzauber GesnBr",
+    "employee": {
+      "@type": "Person",
+      "givenName": "Armin",
+      "familyName": "Wanner u. Mitges."
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Gschwandtweg 21",
+      "addressLocality": "Reith bei Seefeld",
+      "postalCode": "6103",
+      "addressCountry": "AT",
+      "telephone": "+436605767773 ",
+      "url": "http://www.gregorglanz.at"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Kristallzauber GesnBr",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Gschwandtweg 21",
+      "addressLocality": "Reith bei Seefeld",
+      "postalCode": "6103",
+      "addressCountry": "AT",
+      "telephone": "+436605767773 ",
+      "url": "http://www.gregorglanz.at"
+    }
+  },
+  "description": "Der legendäre Dirndljägerball hat sich zum absoluten Sommerhighlight in Tirol etabliert. Am Fuße des Gschwandtkopfs in der urigen Sportalm mit dem eigens aufgebauten größten Almstadl Österreichs wird dieses Jahr erneut der „Pink Carpet“ für alle Dirndl- und Lederhosenfans ausgerollt. Zahlreiche Stars geben sich geben sich rund um Entertainer Gregor Glanz die Klinke in die Hand. Die „Dirndlkönigin“ und der „Dirndlkönig“ erwarten attraktive Preise.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2fa6f96d-dfa2-45a4-b6d2-37ffb49ded78/99/image.jpg",
+      "caption": "DJB"
+    }
+  ],
+  "url": [
+    "http://www.sportalm-seefeld.at"
+  ],
+  "startDate": "2017-06-10T19:00:00",
+  "endDate": "2017-06-10"
+}

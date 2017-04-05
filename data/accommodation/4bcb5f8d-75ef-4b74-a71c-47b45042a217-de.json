@@ -1,0 +1,551 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://www.aalto-panorama-hotel.at"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Aalto Panorama Hotel",
+    "streetAddress": "Am Kirchwald 391",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2527",
+    "faxNumber": "(0043) 5212 2527 73",
+    "email": "info@aalto-panorama-hotel.at",
+    "url": "http://www.aalto-panorama-hotel.at"
+  },
+  "name": "Aalto Panorama Hotel",
+  "description": [
+    "Herzlich willkommen im Aalto Panorama Hotel garni in Seefeld in Tirol. Wie der Name schon sagt, genießen Sie bei uns ein unvergessliches Panorama über ganz Seefeld sowie auf das Karwendel- und Wettersteingebirge.\n\nDas Frühstückshotel Aalto Panorama Hotel liegt nur 10 Gehminuten vom Ortszentrum Seefeld entfernt, wo Sie in der Fußgängerzone eine Vielzahl von Geschäften, Supermärkten und Restaurants finden. Für Familien, Erholungssuchende und Sportbegeisterte bietet der Standort unseres Hotels den optimalen Ausgangspunkt für verschiedenste Sommer- und Winteraktivitäten. Die Haltestelle des kostenlosen Ski- und Shuttlebusses befindet sich nur 1 Gehminute vom Hotel entfernt, welcher Sie, alle 45 Minuten, bequem zu den Liften oder ins Zentrum bringt.\n\nDie mit Holzvertäfelung großzügig gestalteten Zimmer, Suiten und Appartements bieten Ihnen eine heimelige Atmosphäre. Alle Zimmer verfügen über einen Balkon. Kostenlose Parkplätze, eine Sauna und Infrarotkabine, ein Fahrradraum und ein Skiraum mit Wachsttisch stehen Ihnen in unserem Aalto Panorama Hotel garni zur Verfügung. Am reichhaltigen Frühstücksbuffet gestärkt, starten Sie gut gelaunt und voller Energie in einen erlebnisreichen Wander- oder Skitag. Unser gemütlicher Aufenthaltsraum steht Ihnen jederzeit für gesellige Stunden mit Ihren Lieben zur Verfügung.\n\nIhr Sommerurlaub bei uns, im Aalto Panorama Hotel garni, bietet Ihnen Wander- und Mountainbikewege direkt ab dem Haus. Für den Traum vom kühlen Nass liegt in nur 8 Gehminuten Entfernung, das Olympia Sport- und Kongresszentrum. Naturliebhaber können sich im, nur 15 Gehminuten, entfernten Seefelder Wildsee eine Abkühlung gönnen. 200 Meter neben unserem Hotel befindet sich ein Reiterhof, Kinder können sich hier beim Ponyreiten erfreuen. Lust auf eine Partie Billard oder Tischtennis? Auch das steht Ihnen in unserem Hotel zur Verfügung.\n\nIhr Winterurlaub bei uns, im Aalto Panorama Hotel garni, bietet Ihnen pures Langlaufvergnügen auf 271 km Loipen. Der Einstieg der Loipen ist nur 8 Gehminuten entfernt. Geräumte Winterwanderwege ab unserem Hotel laden Sie ein die zauberhafte Winterlandschaft der Olympiaregion Seefeld zu Fuß zu erkunden. Die bestens präparierten Skipisten der Bergbahnen Rosshütte und der Gschwandtkopflifte können Sie bequem mit dem kostenlosen Skibus erreichen. Auch der Rodelspaß kommt hier nicht zu kurz, den Schlitten können Sie sich gerne im Hotel ausleihen.\n\nDas Team vom Aalto Panorama Hotel garni in Seefeld in Tirol freut sich, Sie bald begrüßen zu dürfen!",
+    "Preise sind exklusive Ortstaxe.\nPreise Appartements sind inklusive Endreinigung, exklusive Ortstaxe.",
+    "Check-In 14:00 - 18:00 Uhr (später Schlüsselsafe)\nCheck-Out 11:00 Uhr\n"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.1",
+    "reviewCount": "143"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/47de6b3b-6895-48ba-bbfc-f4a6c566a6a1/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9dd6e97e-70fe-4842-9521-ba73e6465c55/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/25af4476-c990-4a30-b64c-a40e101e278a/99/image.jpg",
+      "caption": "Frühstücksraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/fdce8d55-f5f9-499b-9856-6a6fcd73e87e/99/image.jpg",
+      "caption": "Frühstücksraum 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c0fd01c9-3b97-4a05-b916-3da1c97b294b/99/image.jpg",
+      "caption": "Panorama"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/35f28266-34a5-49e3-94be-2b50efae6964/99/image.jpg",
+      "caption": "Aussicht"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3305852476894",
+    "longitude": "11.1794987656067"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Einzelzimmer, Dusche, WC",
+      "description": "3 Einzelzimmer: Dusche/WC, Kabel-TV Flatscreen, Telefon\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Einzelzimmer mit Frühstück",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Einzelzimmer ohne Frühstück",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "49.00",
+          "maxPrice": "9999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "42.00",
+          "maxPrice": "9999.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC, Balkon",
+      "description": "5 Doppelzimmer: Dusche/WC, Kabel-TV Flatscreen, Telefon, Internetanschluss, Safe und Südbalkon\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Frühstück",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer ohne Frühstück",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "49.50",
+          "maxPrice": "82.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "42.50",
+          "maxPrice": "75.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Suite, Dusche, WC, Balkon",
+      "description": "2 Suiten (2-4 Personen): Schlafzimmer mit Doppelbett, Bad mit Dusche, Wohnzimmer mit Couchgarnitur, Kabel-TV Flatscreen, Telefon, Internetanschluss, Safe und Südbalkon\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Suite mit Frühstück",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Suite ohne Frühstück",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "59.50",
+          "maxPrice": "177.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "52.00",
+          "maxPrice": "92.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "48.25",
+          "maxPrice": "75.33",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "52.50",
+          "maxPrice": "170.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "45.00",
+          "maxPrice": "85.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "41.25",
+          "maxPrice": "68.33",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Junior Suite, Dusche, WC, Balkon",
+      "description": "2 Suiten (2-4 Personen): Schlafzimmer mit Doppelbett, Bad mit Dusche, Wohnzimmer mit Couchgarnitur, Kabel-TV Flatscreen, Telefon, Internetanschluss, Safe und Südbalkon\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Junior Suite mit Frühstück",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Junior Suite ohne Frühstück",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "57.00",
+          "maxPrice": "172.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "50.33",
+          "maxPrice": "89.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "47.00",
+          "maxPrice": "73.67",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "50.00",
+          "maxPrice": "165.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "43.33",
+          "maxPrice": "82.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "40.00",
+          "maxPrice": "66.67",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "3 Appartements 30/33 m2 (2-4 Personen): Schlafzimmer mit Doppelbett, Bad mit Dusche, Wohnzimmer mit ausziehbarer Couchgarnitur, Küchenzeile, Essecke, Kabel-TV Flatscreen, Telefon, Internetanschluss, Safe, Dusche/WC und Südbalkon.\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Ferienwohnung mit Frühstück",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Ferienwohnung ohne Frühstück",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "64.50",
+          "maxPrice": "186.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "55.67",
+          "maxPrice": "97.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "51.25",
+          "maxPrice": "79.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "56.50",
+          "maxPrice": "178.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "47.67",
+          "maxPrice": "89.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "43.25",
+          "maxPrice": "71.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 1 Schlafraum",
+      "description": "2 Appartements 36 m2 (2-4 Personen): Schlafzimmer mit Doppelbett, Bad mit Dusche, Wohnzimmer mit ausziehbarer Couchgarnitur, Küchenzeile, Essecke, Kabel-TV Flatscreen, Telefon, Internetanschluss, Safe, Dusche/WC und Südbalkon.\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Superior Ferienwohnung mit Frühstück",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Superior Ferienwohnung ohne Frühstück",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "69.50",
+          "maxPrice": "196.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "59.00",
+          "maxPrice": "102.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "53.75",
+          "maxPrice": "82.33",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "61.50",
+          "maxPrice": "188.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "51.00",
+          "maxPrice": "94.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "45.75",
+          "maxPrice": "74.33",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Ferienhaus, Dusche und Bad, WC, 4 oder mehr Schlafräume",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Ferienhaus, Dusche und Bad, WC, 4 oder mehr Schlaf",
+          "numberOfRooms": "0.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "10",
+            "minValue": "4"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "110.00",
+          "maxPrice": "177.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "88.00",
+          "maxPrice": "142.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "73.33",
+          "maxPrice": "118.33",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

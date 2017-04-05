@@ -1,0 +1,179 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.sankt-oswald.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Villa St. Oswald",
+    "streetAddress": "Münchnerstr. 123",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "0043 664 11333 40",
+    "faxNumber": "0043 5212 2530 76",
+    "email": "villa@sankt-oswald.at",
+    "url": "http://www.sankt-oswald.at"
+  },
+  "name": "Villa St. Oswald",
+  "description": [
+    "Sie schätzen es auch im Urlaub Ihr eigenes luxuriöses aber doch gemütliches Reich zu haben? Dann ist die Villa St. Oswald in Seefeld in Tirol die perfekte Urlaubsunterkunft zu zweit oder für die ganze Familie!\n\nEines der schönsten Häuser im ursprünglich erhaltenen Seefelder Baustil, wurde gänzlich renoviert und mit jedem Komfort ausgestattet. Sehr zentral und doch ruhig gelegen befindet sich die Villa St. Oswald nur 3 Gehminuten von der Seefelder Fußgängerzone entfernt. Optimal ist die Lage unseres Appartementhauses auch für Gäste die auf öffentliche Verkehrsmittel angewiesen sind. Der Bahnhof und Busterminal liegen ebenfalls nur 3 Gehminuten entfernt, die Haltestelle für den kostenlosen Ski- und Dorfbus befindet sich neben unserem Haus.\n\nUnsere 5 Ferienwohnungen zeichnen sich durch Helligkeit und Liebe zum Detail aus. Antike Möbel und elektrisch bedienbare Kachelöfen sorgen für ein traditionelles, stilvolles und kuscheliges Ambiente. Die Appartement 1-4 eignen sich für 2-3 Personen und sind zwischen 45 und 50 m² groß. Das Appartement 5, unser Penthouse, bietet Platz für 4 Personen und verfügt über 2 Schlafzimmer sowie einen getrennten Wohn- und Essraum. Vom Südbalkon der 95 m² großen Ferienwohnung haben Sie einen grandiosen Blick auf die umliegende Seefelder Bergwelt. Alle Wohnungen sind mit Marmorbädern, Kochnischen mit Geschirrspüler und Kochutensilien, Safe sowie kostenloses Highspeed Internet ausgestattet. Kleine Hunde sind in unserer Villa St. Oswald gerne willkommen.\n\nIhr Sommerurlaub auf 1.200 m! Die zentrale Lage unseres Hauses ist der ideale Ausgangspunkt für eine abwechslungsreiche Freizeitgestaltung. Der nahegelegene Geigenbühel bietet Ihnen einfache gut ausgeschilderte Wander- und Radwege. Anspruchsvollere Touren mit fantastischem Bergpanorama finden Sie zum Beispiel im Bereich der Bergbahnen Rosshütte. Ein gemütlicher Spaziergang von nur 15 Minuten bringt Sie zum herrlichen Wildsee, der zum Plantschen einlädt.\n\nDie Olympiaregion Seefeld - ein wahres Paradies für Ihren Winterurlaub! Langläufer und Biathleten können sich auf 271 km top gespurten Loipen und 30 Schießständen austoben. Alpin Ski-Sportler erwartet in der Region eine gemütliche, überschaubare Skiarena mit bestens präparierten Pisten und modernen Liftanlagen. Für ein unvergessliches Erlebnis zusammen mit der ganzen Familie sorgen zahlreiche Naturrodelbahnen in Verbindung mit einer traumhaften Winterwanderung.\n\nAuf Ihren baldigen Besuch freut sich Familie Schönegger!\n",
+    "Inklusive: Heizung, Wasser, Kurtaxe, Drahtloser Internetzugang\nExklusive:  Telefon",
+    "Check In: 15:00/ Check out: 11:00"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "reviewCount": "15"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/305cc9dc-41f5-41c4-8aea-b316ade5d3fa/99/image.jpg",
+      "caption": "Winter Hausansicht Villa St. Oswald Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/fd46e018-6089-4018-89ff-4f1087375a78/99/image.jpg",
+      "caption": "Sommer Hausansicht Villa St. Oswald Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1685dc2d-ffc1-4032-84e7-c8d400a3de37/99/image.jpg",
+      "caption": "Winter Abendansicht Haus Villa St. Oswald Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/260bff02-55ee-4251-a34b-b59a98f6ba88/99/image.jpg",
+      "caption": "Winter Abendansicht Villa St. Oswald Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/941c65d6-2d5c-4ff4-9532-f477b367b1b7/99/image.jpg",
+      "caption": "Statue St. Oswald Villa St. Oswald Seefeld"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3316243897445",
+    "longitude": "11.1889314651489"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 1 Schlafraum",
+      "description": "Die Appartements 1+2 zeichnen sich durch helles, luxuriöses und gemütliches Inventar aus. Sie wurden ländlich mit antiken Möbeln, Kachelofen, viel Liebe und Komfort eingerichtet. Sie befinden sich im Hochparterre, Bilder und Grundriss anbei.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment Typ 1+2, /1 Schlafraum/Dusche, B",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "30.00",
+          "maxPrice": "85.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "25.00",
+          "maxPrice": "85.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 1 Schlafraum",
+      "description": "Das App. zeichnet sich durch helles, luxuriöses und gemütliches Inventar aus. Es wurde ländlich mit antiken Möbeln, Kachelofen, viel Liebe und Komfort eingerichtet. Es befindet sich im Ersten Stock.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment Typ 3+4, /1 Schlafraum/Dusche, B",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "47.50",
+          "maxPrice": "75.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "36.67",
+          "maxPrice": "75.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 2 Schlafräume",
+      "description": "Das App. zeichnet sich durch helles, luxuriöses und gemütliches Inventar aus. Es wurde ländlich mit antiken Möbeln, Kachelofen, viel Liebe und Komfort eingerichtet. Es befindet sich im gesamten zweiten (obersten) Stockwerk mit Balkon und bietet einen grandiosen Blick auf die umliegende Berglandschaft. Zwei Schlafzimmer, großes Bad mit Eckbadewanne und eine weitere, separate Toilette und ein Geschirrspüler gehören zur Grundausstattung.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment Typ 5, /2 Schlafräume/Dusche,",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "4"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "38.75",
+          "maxPrice": "135.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "34.00",
+          "maxPrice": "135.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

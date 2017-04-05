@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "TouristAttraction"
+  ],
+  "name": "Nach Mittenwald / Weg Nr. 21 und 58",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Informationsbüro Scharnitz",
+    "streetAddress": "Innsbrucker Str. 282",
+    "addressLocality": "Scharnitz",
+    "postalCode": "6108",
+    "addressCountry": "AT",
+    "telephone": "+4350880540 ",
+    "faxNumber": "+4350880541",
+    "email": "info.scharnitz@seefeld.com",
+    "url": "http://www.seefeld.com"
+  },
+  "description": [
+    "Strecke: Scharnitz / Informationsbüro – Mittenwald\nGehzeit: ca. 2 Stunden\nGegenüber dem Informationsbüro gehen Sie der Isar entlang zum Ortsende. Dort überqueren\nSie links die Brücke und wandern weiter in Richtung Mittenwald. Bei einer Weggabelung halten\nSie sich rechts und spazieren der Isar entlang bis zur Riedbodenalm (nicht bewirtschaftet). Nach\nScharnitz zurück geht es dann entlang eines schattigen Spazierweges über die Almböden",
+    "Strecke: Scharnitz / Informationsbüro – Mittenwald\nGehzeit: ca. 2 Stunden\nGegenüber dem Informationsbüro gehen Sie der Isar entlang zum Ortsende. Dort überqueren\nSie links die Brücke und wandern weiter in Richtung Mittenwald. Bei einer Weggabelung halten\nSie sich rechts und spazieren der Isar entlang bis zur Riedbodenalm (nicht bewirtschaftet). Nach\nScharnitz zurück geht es dann entlang eines schattigen Spazierweges über die Almböden"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/72ad94c0-90b0-43b2-a9d4-654b6e6865f4/99/image.jpg",
+      "caption": "Riedboden"
+    }
+  ]
+}

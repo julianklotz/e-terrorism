@@ -1,0 +1,154 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://www.hotel-hochland.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Hotel Hochland",
+    "streetAddress": "Weidach 375 c",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6391",
+    "faxNumber": "(0043) 5214 6391 5",
+    "email": "info@hotel-hochland.at",
+    "url": "http://www.hotel-hochland.at"
+  },
+  "name": "Hotel Hochland",
+  "description": [
+    "Unser Hotel ist das ideale Ferienzuhause für erholsame Urlaubstage in einer wunderbaren Umgebung. In schönster Aussichtslage im Ortsteil Weidach gelegen, findet man alles, was man für einen schönen Urlaub in den Bergen braucht.\nBettenanzahl gesamt \t47\t\nEZ: 3 | DZ: 22 | App.: -\n\n\n",
+    "Kostenlos: Saunabenützung, Fahrradverleih, Hunde bei Selbstverpflegung.\nzu bezahlende Leistungen: Solarium, Massagewanne jeweils 5,90 €",
+    "Check in 14.00 Uhr / Check out 11.00 Uhr\nWeg: Unser Haus liegt im Ortsteil Weidach. Aus Mittenwald kommend ca. 7 0 m nach der Tankstelle auf der linken Seite und von Seefeld kommend nach der Ortseinfahrt Weidach ca. 150 m auf der rechten Seite."
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "reviewCount": "109"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9e6f8118-4db5-426b-b4a6-63e764dd3151/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/118e8cc8-1578-4de0-93ce-0fea5adfe322/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/996cc4bf-9d02-4326-9525-8e8f2caf1186/99/image.jpg",
+      "caption": "Stüberl"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.368230446352",
+    "longitude": "11.167247802166"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Einzelzimmer, Dusche, WC",
+      "description": "Unser Einzelzimmer ist mit Dusche/WC, Balkon, Telefon, Haartrockner, SAT/TV, Radiowecker und Zimmersafe ausgestattet.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Gehrnspitze-Einzelzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche oder Bad, WC",
+      "description": "Unser Zimmer sind mit Badewanne bzw. Dusche/WC, Balkon Telefon,Haartrockner, Zimmersafe, SAT/TV, Radiowecker ausgestattet. (18 Zimmer)\n\nEs gibt ach noch Komfortzimmer (Neubau) mit Dusche/WC.\nDie sind ausgerüstet mit Dusche/WC,Telefon, Haarföhn, SAT/TV, Radiowecker un Zimmersafe. Die Preise sind die gleichen wie im Doppelzimmer mit Dusche od. Badewanne/WC.(4 Zimmer",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Hohe Munde-Doppelzimmer mit Dusche od. B",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Unsere Doppelzimmer im Neubau sind mit Dusche/WC, Balkon Telefon, Haartrockner, SAT/TV, Radiowecker und Zimmersafe ausgestattet.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Gehrnspitze-Doppelzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche oder Bad, WC",
+      "description": "Unsere Zimmer sind mit Badewanne bzw. Dusche/WC, Telefon, Haartrockner, Zimmersafe, SAT/TV und Radiowecker ausgestattet. (5 Zimmer)",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Ahrnspitze-Doppelzimmer mit Dusche od. B",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ]
+    }
+  ]
+}

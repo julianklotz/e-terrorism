@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "PublicSwimmingPool",
+    "SportsActivityLocation"
+  ],
+  "name": "Strandbad (Strandperle) Seefeld, Freibad, geheitztes Freibad am Wildsee",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3225633100926",
+    "longitude": "11.1918497085571"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Strandperle Seefeld",
+    "streetAddress": "Innsbrucker Str. 500",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2436",
+    "email": "info@strandperle.at",
+    "url": "http://www.strandperle.at"
+  },
+  "description": "Eine Perle zu jeder Jahreszeit: Die Strandperle am Seefelder Wildsee ist elegante Bar, erstklassiges Restaurant und gemütliches Cafe in einem. Inmitten der idyllischen Tiroler Bergwelt gelegen bietet das atmosphärische Strandlokal dem Erholung Suchenden Ruhe nach der Hektik, Entspannung nach dem Sport und Stille nach dem Lärm des Alltags.  Geheiztes Freibad am Wildsee: Umkleidekabinen, Liegewiese, Sonnenterrasse, großer Spielplatz, Kinderplanschbecken, Hüpfburg, Beachvolleyballplatz, Tretboote, Verleih von SUP-Boards, Unterricht im Stand Up Paddling.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/324e372a-b459-40ac-b81d-772d107c3c3a/99/image.gif",
+      "caption": "Strandperle Logo"
+    }
+  ],
+  "url": [
+    "http://www.strandperle.at"
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.landhausthoeni.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Landhaus Thöni",
+    "streetAddress": "Schulweg 744",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 3791",
+    "faxNumber": "(0043) 5212 3791 4",
+    "email": "landhaus.thoeni@gmx.at",
+    "url": "http://www.landhausthoeni.at"
+  },
+  "name": "Landhaus Thöni",
+  "description": [
+    "Unser Landhaus liegt zentral, in schöner und ruhiger Lage des Grüngürtels von Seefeld (3 Gehminuten zum Ortszentrum) mit herrlichem Ausblick auf die Bergwelt des Seefelder Plateaus.\n\nWas wir Ihnen bieten:\n- Dorfzentrum (Füßgängerzone) nur 3 Gehminuten entfernt\n- Ermäßigter Eintritt in das neu renovierte Hallenbad des OLYMPIA Sport + Kongresszentrums Seefeld\n- Gratis Liegestühle für die Terrasse oder den Balkon im Landhaus Thöni\n- Brötchenservice werktags früh im Landhaus Thöni\n- Parkmöglichkeit (gratis) vor dem Landhaus Thöni\n- Skibushaltestelle (Linien Rosshütte und Gschwandtkopf) in Gehdistanz\n- Langlaufloipen zu Fuß erreichbar\n- Hohe Greenfeeermäßigung auf der nahegelegenen (300m) Golfakademie Seefeld\n- WLAN Internetanschluss in den Wohnungen im Landhaus Thöni",
+    "INKLUSIVE: Heizung, Wasser, Strom, Bettwäsche, Tischwäsche, Geschirr, Dusch - \u0026 Handtücher, 40% Ermäßigung bei der Golfacademy ganz in unserer Nähe\n\n\nEXCLUSIVE: Telefongebühren\nCHECK IN: 13.00 Uhr\nCHECK OUT: 10.00 Uhr",
+    "Ausfahrt Seefeld Mitte, Andreas-Hofer Str., vor Bahnübergang link, Riehlweg, vor Kegelbahn links Zufahrt-Schulweg 744/ Landhaus Thöni\n"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/90eb6c37-e40c-47d1-bd5c-5713ece5bffc/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a97a79b7-0b32-43c4-bcd8-e86fb44acbc1/99/image.jpg",
+      "caption": "Logo"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/cd9603ee-8bf6-4f7f-8223-70a17d362304/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/846225c0-ca2d-4fd0-9ba1-3aba6904e334/99/image.jpg",
+      "caption": "Aussicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a7210fd3-68d9-439f-a3f2-2385e7b434de/99/image.jpg",
+      "caption": "Wohnung Unten"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8b9ad3a5-ce66-461b-9030-e351daa3051e/99/image.jpg",
+      "caption": "Wohnung Oben"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0ee6bfc4-4dad-42d4-a67f-a5a4170366fe/99/image.jpg",
+      "caption": "Terrasse 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7c783359-2aa2-49e4-9f53-a29570956160/99/image.jpg",
+      "caption": "Schlafzimmer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.328646622123",
+    "longitude": "11.1909806728363"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Die 2 Zimmerwohnung liegt im Parterre unseres Landhauses. Sie verfügt über ein Wohnzimmer, mit integrierter Essecke, Sitzcouchkombination, TV, Radio und Telefon, 1 Schlafzimmer, 1 getrennter Kleinküche (voll ausgestattet) und Dusche/WC. Zudem bietet die Wohnung eine sonnige Terrasse mit netter Sitzecke sowie Liegewiese.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Nr.1 Apartment/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "58.00",
+          "maxPrice": "75.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "68.00",
+          "maxPrice": "85.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Die 2 Zimmerwohnung liegt im 1. Stock unseres Landhauses. Sie verfügt über ein Wohnzimmer mit integrierter Essecke, Sitzcouchkombination, TV, Radio und Telefon, 1 Schlafzimmer, 1 getrennter Kleinküche (voll ausgestattet) und Dusche/WC. Die Wohnung ist von Süd nach Nord gerichtet. Zur Wohnung gehören 2 Balkone (1 Süd mit bequemer Sitzecke, 1 Nord) mit schönem, unverbautem Ausblick auf die Bergwelt des Seefelder Plateaus.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Nr.2 Apartment/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "58.00",
+          "maxPrice": "75.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "68.00",
+          "maxPrice": "85.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

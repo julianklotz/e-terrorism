@@ -1,0 +1,15 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Ostbach 1 a",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT"
+  },
+  "name": "ZW-Rettmeyer, Emmerich und Uta",
+  "currenciesAccepted": "EUR"
+}

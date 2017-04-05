@@ -1,0 +1,172 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.taxi-seefeld.at/",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Autoreisen Haslwanter",
+    "streetAddress": "Haspingerstr. 396",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043)52122267",
+    "email": "info@taxihaslwanter.at",
+    "url": "http://www.taxi-seefeld.at"
+  },
+  "name": "Haus Haslwanter",
+  "description": [
+    "Unser Haus liegt ca. 7 Minuten von der Fußgängerzone Seefeld entfernt, mit dirketem Blick auf den Geschwandtkopf sehr ruhig gelegen.Wir würden uns freuen, wenn Sie Ihren Urlaub bei uns verbringen würden. ",
+    "Inkl.: Strom, Frühstück, W-LAN, \nExcl.: Abholservice;",
+    "Check in: 14.00 Uhr\nCheck out: 11.00 Uhr\nSie finden uns von D- kommend: Ausfahrt Seefeld Süd, gerade aus,nach dem Hotel Tyrol auf der linken Seite (davor ist die Garage) 2. Haus."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/67e6c187-80ef-4bff-90fb-2d6970730e3a/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/504fbbda-b981-4c01-9c7f-b3f7e0393a61/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9e5a08c2-579a-477c-a2c0-63bdceea3724/99/image.jpg",
+      "caption": "Esszimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0b17d21f-d9bd-41ad-9469-d71ff42d6303/99/image.jpg",
+      "caption": "Zimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/991daef4-379e-47ad-b5e2-b1019a4b1052/99/image.jpg",
+      "caption": "Bad"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9b431449-8afd-46a6-abad-15e089aaadf2/99/image.jpg",
+      "caption": "Bett"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3334857",
+    "longitude": "11.1912276"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Einzelzimmer, fl. k/w Wasser",
+      "description": "EZ ohne Balkon mit Waschbecken im Zimmer.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Einzelzimmer mit fl. Wasser",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Dreibettzimmer, Dusche, WC",
+      "description": "Großes Dreibettzimmer liegt im 2. Stock mit getrennten Betten. das 3. Bett befindet sich  in einem eigenen Raum.Südlage und begehbaren Schrank.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Dreibettzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Zweibettzimmer, Dusche, WC",
+      "description": "DZ im 1. Stock gelegen mit Badewanne und Balkon.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Zweibettzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "28.00",
+          "maxPrice": "35.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Zweibettzimmer, fl. k/w Wasser",
+      "description": "DZ mit Balkon Südseite, Toilette am Gang.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Zweibettzimmer mit fl. Wasser",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

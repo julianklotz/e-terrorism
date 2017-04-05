@@ -1,0 +1,30 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation"
+  ],
+  "name": "Skiset Seefeld, Skiverleih",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Skiset Seefeld",
+    "streetAddress": "Münchner Str. 143",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 05212 2107",
+    "email": "mail@skirental.at",
+    "url": "http://www.skirental.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a75cf706-6a9f-4e0d-b589-96d590f01f8b/99/image.jpg",
+      "caption": "Skiset Seefeld"
+    }
+  ]
+}

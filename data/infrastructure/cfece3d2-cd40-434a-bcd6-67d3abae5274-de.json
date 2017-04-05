@@ -1,0 +1,28 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant"
+  ],
+  "name": "Bodenalm",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3496582922907",
+    "longitude": "11.2123230099678"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Bodenalm",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043)699 12360458"
+  },
+  "description": "Nur im Sommer geöffnet! Stempelstelle",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/73409e1f-8307-471a-b82f-862cf19abed8/99/image.jpg",
+      "caption": "Bodenalm Sommer"
+    }
+  ]
+}

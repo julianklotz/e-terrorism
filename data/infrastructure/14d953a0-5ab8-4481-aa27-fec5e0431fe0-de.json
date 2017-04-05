@@ -1,0 +1,30 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation",
+    "TravelAgency",
+    "TouristAttraction"
+  ],
+  "name": "Christian Klotz-Fiaker-Kutschen",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3115209631976",
+    "longitude": "11.1507605793762"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Wiesenhof",
+    "addressLocality": "Mösern",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 4731",
+    "faxNumber": "(0043) "
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5aee899b-68bb-4640-81a3-f8ce8077bed7/99/image.jpg",
+      "caption": "Christian Klotz"
+    }
+  ]
+}

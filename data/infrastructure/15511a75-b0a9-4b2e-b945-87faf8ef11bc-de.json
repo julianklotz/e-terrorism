@@ -1,0 +1,41 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Church"
+  ],
+  "name": "Frau Häusl",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2998772271608",
+    "longitude": "11.2108460398728"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Frau Häusl",
+    "streetAddress": "Rosenkranzweg",
+    "addressLocality": "Reith bei Seefeld",
+    "postalCode": "6103",
+    "addressCountry": "AT"
+  },
+  "description": [
+    " ",
+    "ROSENKRANZWEG in Reith bei Seefeld \nDie Schützenkompanie Reith unter Hptm. Friedl Berger hat den Rosenkranzweg zum Landesgedenkjahr 2009 als Kulturgut geschaffen. Der Rosenkranzweg mit seinen aus Lärchenholz gefertigten fünf Bildstöcken samt Ruhebänken wurde von den Reither Schützen mit großem Fleiß angelegt und soll zu Gebet und Besinnung einladen. Die 15 Relieftafeln, welche die Gesätzchen des freudenreichen, schmerzhaften und glorreichen Rosenkranzes zum Ausdruck bringen, wurden von der Künstlerin Annemarie Beiler aus Inzing nach eigenen Entwürfen aus Lafarge-Beton gestaltet und auch bemalt. Der Rosenkranzweg führt östlich der Pfarrkirche Reith, beim Bichlweg in den Wald abzweigend, entlang eines erfrischenden Bächleins an den Bildstöcken vorbei zur Frau-Häusl-Kapelle hinauf. Die Wanderung kann auch als Rundweg, mit kleinem Wasserfall gleich nach der Kapelle, fortgesetzt werden. Gutes Schuhwerk ist empfehlenswert. Der Rosenkranzweg ist wie ein Juwel in der Olympiaregion Seefeld. "
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/160aecb1-5cc5-4b56-b7a0-d81cd64619b7/99/image.jpg",
+      "caption": "Frau Häusl Kapelle"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4496fb5f-b8f5-4ff4-ab19-67cba5d7e48c/99/image.jpg",
+      "caption": "Rosenkranzweg"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5506003a-90df-4b8d-a872-33fa2e88a599/99/image.jpg",
+      "caption": "Kreuzweg Station"
+    }
+  ]
+}

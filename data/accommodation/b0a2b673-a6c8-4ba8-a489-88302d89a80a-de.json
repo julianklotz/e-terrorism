@@ -1,0 +1,88 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Panorama / Top 45",
+    "streetAddress": "Hohe Munde Str. 591",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0039) 03389773589",
+    "faxNumber": "(0039) 0916832075",
+    "email": "stefy3665@alice.it"
+  },
+  "name": "Haus Panorama - Top 45 (Angrisano)",
+  "description": [
+    "Schöne Wohnung mit einem Schlafzimmer im Zentrum in der Nähe der Fußgängerzone, geeignet für eine Familie max 3 kinder.Ok kleine Tiere, im  eines typischen Tiroler haus : ein Zimmer mit zwei Betten und neue Matratzen, einem Wohnzimmer mit einem großen Fenster mit Blick auf den Garten,  mit ,Eckbank und Tisch Tiroler einen neuen Zweisitzer-Sofa mit Matratze MemoryFoam mehr \"Sesselbett, Sat-TV 2poltrone Küche mit Backofen Bad, heiße Dusche Stühle für den Garten.",
+    "Excl.: Bettwäsche kann selbst mitgebracht werden, parking inside Euro 5,- pro Tag;\nIncl.: Strom, Heizung, parkingplatz outside;",
+    "Anreise: ab 14.00 Uhr bis spätestens 18.00 Uhr\nBei späterer Anreise bitte Telefonisch melden.\nAbreise: bis spätestens 10.00Uhr\n"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/223aa09c-8ba9-4eb7-a40f-04ee84f2cc14/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5d946f81-dedd-454d-8245-89a257a5b572/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5d6f5ae7-40d6-46e5-9cdc-ff16818351e0/99/image.jpg",
+      "caption": "Anfahrt"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3304180620419",
+    "longitude": "11.1823026079346"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 1 Schlafraum",
+      "description": "schönes Appartement für eine Familie mit max. 3 Kindern.Grose fenester mit blik auf den garten Ein Zimmer mit 2 Betten mit neuen Matrazen,ein schönes Wohnzimmer mit tiroler Eckbank, Tisch und neuem ausziehbarem Sofa für 2 Personen, Kabel-TV, DVD, Küche separat, Bad mit Badewann und Dusche.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement/Fewo, Bad, WC, 1 Schlafraum",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "50.00",
+          "maxPrice": "200.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "50.00",
+          "maxPrice": "200.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant",
+    "CafeOrCoffeeShop"
+  ],
+  "name": "Tiroler Stub\u0027n",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3587453354356",
+    "longitude": "11.1235286951065"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Tiroler Stub\u0027n",
+    "streetAddress": "Obern 28 a",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 20006",
+    "email": "tiroler.stube@gmail.com",
+    "url": "http://tiroler-stub-n.webnode.at"
+  },
+  "description": "Sitzplätze für ca. 50 Personen",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7b9ab3a5-eaf8-449e-a455-76902021191c/99/image.jpg",
+      "caption": "tiroler stubn"
+    }
+  ],
+  "url": [
+    "http://tiroler-stub-n.webnode.at"
+  ]
+}

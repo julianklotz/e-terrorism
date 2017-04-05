@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure",
+    "LocalBusiness"
+  ],
+  "name": "Hundepension und Hundeschule",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.350124875875",
+    "longitude": "11.122056653373"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Hundepension / Hundeschule",
+    "streetAddress": "Moos 13",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 66473587404",
+    "email": "info@hundeschule-tirol.at",
+    "url": "http://www.hundepensio-tirol.at"
+  },
+  "description": "NEUNER Martin\nMoos 13\n+43 664/735 874 04\n+43 5214/ 6256\ninfo@hundeschule-tirol.at\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/15c31f29-a398-4a33-a54d-9d8276d49923/99/image.jpg",
+      "caption": "Hundepension"
+    }
+  ],
+  "url": [
+    "http://www.hundepensio-tirol.at"
+  ]
+}

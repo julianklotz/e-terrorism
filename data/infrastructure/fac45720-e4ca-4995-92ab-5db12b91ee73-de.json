@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CafeOrCoffeeShop",
+    "IceCreamShop"
+  ],
+  "name": "Peintner, Konditorei, Café",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3288484175397",
+    "longitude": "11.1887893080711"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Peintner ",
+    "streetAddress": "Bahnhofstr. 389",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2539",
+    "email": "info@peintner-seefeld.at",
+    "url": "http://www.konditorei-peintner.at"
+  },
+  "description": [
+    " ",
+    "Sitzplätze für ca. 45 Personen\n\nLassen Sie sich von den hausgemachten, süßen Leckerbissen der Konditorei Peintner verzaubern.\nIn unserer Filiale in Seefeld, in der Ladenstraße beim Bahnhof, können Sie selbstgemachte Kuchen, Eis und unsere Spezialitäten wie Trüffelpralinen, Lebkuchen, handgeschöpfte Schokolade und Rohkost genießen. Nur die hochwertigsten Produkte werden verarbeitet, ganz ohne chemische Zusätze und Konservierungsstoffe. Für süßen Genuss in allen Varianten. Mit Liebe zubereitet.\nErleben Sie wahre Geschmacksexplosionen mit den zartschmelzenden Köstlichkeiten und Torten, die Sie auch jederzeit nach individuellen Vorstellungen\nbei uns bestellen können."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/739e0fac-0dca-4bb4-94de-16b5ac8ada93/99/image.jpg",
+      "caption": "Peintner"
+    }
+  ],
+  "url": [
+    "http://www.konditorei-peintner.at"
+  ]
+}

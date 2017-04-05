@@ -1,0 +1,533 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://www.vitalhotel-kaiserhof.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Vitalhotel Kaiserhof",
+    "streetAddress": "Albrecht-Dürer-Weg 9",
+    "addressLocality": "Mösern",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "+43521252509",
+    "faxNumber": "+435212525099",
+    "email": "info@vitalhotel-kaiserhof.at",
+    "url": "http://www.vitalhotel-kaiserhof.at"
+  },
+  "name": "Kaiserhof",
+  "description": [
+    "Unser Vitalhotel Kaiserhof mit seiner wunderschöne Wellnessanlage und dem Schwimmbad, ab Winter 2015/16 auch eine neue Panoramasauna und eine neue Bernsteinlounge verfügt über sehr große Zimmer und eine \"ausgezeichnete\" Küche.  \nSchlemmen wie ein Kaiser . . . mit unserem Verwöhnpension-Frühstücksbuffet, Mittags Salat- und Suppenbuffet, Nachmittags Kuchen-, Kaffee- und Teebuffet, Abendmenü, wöchentlich ein Welcome-Gourmet-Dinner, Gala Dinner und ein Themenbuffet. \n \nMega ist das Jugendsommerprogramm: Golfschule oder Tennisschule, Rafting. Jeden Tag ist was los! Auch das ist im Preis alles enthalten. ... und das Beste - der Preis! \nVon jedem Zimmer aus Blick ins Inntal. Großzügig, eingerichtete Zimmer.",
+    "check in ab 15.00 Uhr\ncheck out bis 11.00 Uhr\nHund € 10,-- pro Tag ohne Futter"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "reviewCount": "628"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/53a4dce6-2b9e-41a7-805d-96f5efee3dee/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/669a48fd-b6f4-407c-ada7-ceb80d6f0b17/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a1fefd94-8bee-4db6-8df5-c45b90065407/99/image.jpg",
+      "caption": "Sommer 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9f47e8d1-70e1-4182-8fdc-b36b39cb6653/99/image.jpg",
+      "caption": "Restaurant"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/86db0b71-7b0e-4f32-84a0-7059ff9a5a4f/99/image.jpg",
+      "caption": "Terasse mit Aussicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7e2705fd-dc3b-46b8-9736-0f32e85750cf/99/image.jpg",
+      "caption": "Bernsteinlounge"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/738b9ca4-3ef8-408b-a64e-07d7c801387a/99/image.jpg",
+      "caption": "Panorama Sauna"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9b3db158-c59e-4234-b18b-26f1099a167c/99/image.jpg",
+      "caption": "Schwimmbad"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4e69630d-171f-47cf-a7f2-12779cbde4fe/99/image.jpg",
+      "caption": "Spa Bereich"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/fc004358-d5b6-4f22-863e-2e662119ac46/99/image.jpg",
+      "caption": "Terrasse"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6fd8f86a-cc31-4a69-93e3-b93259170edd/99/image.jpg",
+      "caption": "Ausblick Herbst"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/bd4bf74e-2823-4034-9a3b-c0d2161cc3ac/99/image.jpg",
+      "caption": "Restauranttische"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3123269821091",
+    "longitude": "11.153383935582"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer, Dusche, WC",
+          "description": "Von jedem Zimmer aus Blick ins Inntal. Großzügig eingerichtete Zimmer.",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Sommer und Herbst  Wochen 2016",
+          "description": "Wirklich schon eine große Tradition sind unsere Stammgästewochen! \nHöhepunkt in dieser Woche wird der große Tanzabend mit dem \"lustigen Willi\" sein.\nWir bieten: Frühstücksbuffet, Mittags Brunch, nachmittags Kuchen und Kaffee, Abendmenü, Hallenbad, Sauna, Dampfbad uvm. Massagen gegen Aufpreis!",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/78e9b8f6-fca6-48ba-a10f-be649bb3a305/99/image.jpg",
+              "caption": "Wandern"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Winter Stammgästewoche 2016",
+          "description": "Winterstammgästewoche Die Märzsonne....die hat Kraft! Holen Sie sich die schöne Winterbräune...auf der Rosshütte! Seefeld hat 279 km Loipen in 3 Schwierigkeitsstufen und 143 km geräumte Winterwanderwege!",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/9a462bf9-bf77-4b10-bfcc-6ba9b3f7401c/99/image.jpg",
+              "caption": "Loipen"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Kaiserhof \"Adventwoche\"",
+          "description": "Traumhaft, der erste Winterschnee, die verschneite Landschaft und dazu der Hauch von Weihnachten. Highlights: Eine Wanderung nach Seefeld zum Christkindl-Markt oder das Keksbacken mit unserem Küchenchef David, diese Kekse dürfen Sie in einer schönen Keksdose mit nach Hause nehmen!\nSelbstverständlich ist im Preis auch wieder unsere Verwöhnpension enthalten:\nFrühstücksbuffet\nMittags Brunch\nNachmittagstee und Kuchen\nAbendmenü\nSauna, Dampfbad\ngratis Langlaufskiverleih\nSkibusticket \nLoipenticket",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/934f7030-35ae-45f7-895a-ab0bc5b03e11/99/image.jpg",
+              "caption": "Advent in Seefeld"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "März Schnee Wochen 2016",
+          "description": "März-Schnee-Wochen! Genießen Sie dschon die Frühlingssonne, aber doch noch SUPER-Loipen! Seefeld hat 279 km Loipen! Seefeld wurde zum 3.Mal als das beste Langlaufgebiet der Welt von ADAC ausgezeichnet!",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/1cb9efa1-45ee-45c5-9b38-10c4d8ebdc47/99/image.jpg",
+              "caption": "Winter"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Februar Schnee Wochen 2016",
+          "description": "Februarschneewochen!",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/728edc4f-c47e-4d73-8783-9cb18cbb8d9c/99/image.jpg",
+              "caption": "Kirche mit Inntalblick"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Weihnachtswoche",
+          "description": "Weihnachtswoche! Feiern Sie Weihnachten in den Tiroler Bergen! ...und ein besonderer Tag ist wieder die Wanderung nach Seefeld zum Weihnachtsmarkt und dann die Heimfahrt mit den Pferdekutschen!",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/6abdb658-4236-45a5-bc36-e9d3480870c6/99/image.jpg",
+              "caption": "Winter"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Jänner Schnee Wochen 2016",
+          "description": "Jänner-Schneewochen....der Jännerschnee..Traum-Pulverschnee...keine Hektik an den Liften oder Loipen..und Sie wandern durch den zauberhaften Winterwald, wo dann so hin und wieder eine \"Ladung\" Schnee von den Bäumen auf Sie herunter fällt..das ist der Jänner in den Tiroler Bergen!",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/c83d12c9-ec58-446a-b87b-983838ad1baf/99/image.jpg",
+              "caption": "Loipen"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Silvesterwoche ",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Deutschland Woche",
+          "description": "1 Woche erholsamen Urlaub mit reichhaltigem Frühstücksbuffet, Mittagsbrunch, Nachmittagstee, Kaffe, Kuchen und Abendmenü! Kaiserbad Hallenbad, Panoramasauna, Bernsteinlounge mit Physiotherme....",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Internationale Woche ",
+          "description": "1 Woche erholsamen Urlaub mit reichhaltigem Frühstücksbuffet, Mittagsbrunch, Nachmittagstee, Kaffe, Kuchen und Abendmenü! Kaiserbad Hallenbad, Panoramasauna, Bernsteinlounge mit Physiotherme....",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Steinölwoche",
+          "description": "1 Woche erholsamen Urlaub mit reichhaltigem Frühstücksbuffet, Mittagsbrunch, Nachmittagstee, Kaffe, Kuchen und Abendmenü! Kaiserbad Hallenbad, Panoramasauna, Bernsteinlounge mit Physiotherme....\nIn diesem Preis sind 3 Steinölbäder und 3 Massagen enthalten!",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Gesundheitswoche NEU!",
+          "description": "1 Woche erholsamen Urlaub mit reichhaltigem Frühstücksbuffet, Mittagsbrunch, Nachmittagstee, Kaffe, Kuchen und Abendmenü! Kaiserbad Hallenbad, Panoramasauna, Bernsteinlounge mit Physiotherme....\nIn diesem Preis sihd 2 Massagen, 2 Jaccuzzi Bäder und 2 Steinölbäder enthalten!",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Herbst Stammgästewoche!",
+          "description": "1 Woche erholsamen Urlaub mit reichhaltigem Frühstücksbuffet, Mittagsbrunch, Nachmittagstee, Kaffe, Kuchen und Abendmenü! Kaiserbad Hallenbad, Panoramasauna, Bernsteinlounge mit Physiotherme....",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Schweizer Wochen",
+          "description": "1 Woche erholsamen Urlaub mit reichhaltigem Frühstücksbuffet, Mittagsbrunch, Nachmittagstee, Kaffe, Kuchen und Abendmenü! Kaiserbad Hallenbad, Panoramasauna, Bernsteinlounge mit Physiotherme....",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "80.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "80.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "80.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "525.00",
+          "maxPrice": "525.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "560.00",
+          "maxPrice": "560.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "490.00",
+          "maxPrice": "490.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "630.00",
+          "maxPrice": "630.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "770.00",
+          "maxPrice": "770.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "770.00",
+          "maxPrice": "770.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "630.00",
+          "maxPrice": "630.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "1050.00",
+          "maxPrice": "1050.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "490.00",
+          "maxPrice": "490.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "490.00",
+          "maxPrice": "490.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "560.00",
+          "maxPrice": "560.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "560.00",
+          "maxPrice": "560.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "490.00",
+          "maxPrice": "490.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "490.00",
+          "maxPrice": "490.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.hausabendsonne.wordpress.com",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Abendsonne",
+    "streetAddress": "Emmat 371a",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0049) 179 5151541",
+    "email": "haus-abendsonne@gmx.de",
+    "url": "http://www.hausabendsonne.wordpress.com"
+  },
+  "name": "Haus Abendsonne",
+  "description": [
+    "Ruhige, sonnige Ferienwohnung (ca. 90m², 1 Wohnzimmer, 3 Schlafzimmer, Terrasse mit Außenkamin u. Grill, Garten)Neben dem individuellen Komfort (großes Wohnzimmer mit Eßecke und Sitzecke, Zentralheizung, Tiroler Kachelofen, Sat TV und CD, Stereo-Anlage, Internet-Anschluss,Terrasse, Garten, Küche mit Spülmaschine und Mikrowelle, 2 Badezimmer mit WC, Waschmaschine und Trockner), besticht die einmalig ruhige Hanglage mit Blick über das ganze Leutaschtal und auf das Bergpanorama (Hohe Munde, Gehrenspitze). im Ortsteil Emmat, 10 min. zum nächsten Lebensmittelmarkt,5 Min. zur Loipe oder Rodelbahn. Günstiger Ausgangspunkt zum Bergwandern.\n",
+    "\nInklusive: Heizung, Strom, Waschmaschine, Trockner, Internet, PKW-Stellplatz, Kurtaxe, Endreinigung\nCheck-In ab 15.00 Uhr oder nach Absprache Check-Out bis 10.00 Uhr oder nach Absprache",
+    "Das Haus liegt im Ortsteil Emmat Nr. 371 a. \nAnreise mit PKW von München über Garmisch-Partenkirchen  und Mittenwald (bitte nicht nach Scharnitz fahren), weiter nach Leutasch. Nach dem alten Grenzübergang noch ca. 8 km im Ortsteil Ahrn ca. 50 m nach dem Ortsschild nach links abbiegen, über eine kleine Brücke, dann scharf rechts und nach etwa 200 m nach links einbiegen.\n"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/58236a18-0435-4a37-80ad-cd72cbffae73/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/df320c06-da59-4bab-8752-97e2b84ffd7c/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ea8dde57-33b6-4006-966b-4cb276e5eed9/99/image.jpg",
+      "caption": "seitliche Hausansicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5b343531-d635-43f7-8037-b732e548c472/99/image.jpg",
+      "caption": "Seitenansicht Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ff28e9d8-9ea5-4c0e-914e-d603a03e54f4/99/image.jpg",
+      "caption": "Terrasse"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/cfa4ffd9-fde6-4ed5-b0ae-07ae37cfd555/99/image.jpg",
+      "caption": "Aussicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f0dd907c-d195-4d76-82d2-fbd4ab54746c/99/image.jpg",
+      "caption": "Leutaschtal"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b623ef9f-7c36-4259-916e-0b2daf5cae75/99/image.jpg",
+      "caption": "Sicht"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3777845822617",
+    "longitude": "11.1740317920147"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Ferienhaus, Dusche und Bad, WC, 3 Schlafräume",
+      "description": "Neben dem individuellen Komfort (großes Wohnzimmer mit Eßecke und Sitzecke, Tiroler Kachelofen, Sat TV und CD, Stereo-Anlage, Internet-Anschluss,Terrasse mit Außenkamin u. Grill, Garten, Küche mit Spülmaschine und Mikrowelle, 2 Badezimmer mit WC, Waschmaschine und Trockner), besticht die einmalig ruhige Hanglage mit Blick über das ganze Leutaschtal und auf das Bergpanorama (Hohe Munde, Gehrenspitze).\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Ferienhaus/3 Schlafräume/Dusche, Bad, WC",
+          "description": "Neben dem individuellen Komfort (großes Wohnzimmer mit \nEßecke und Sitzecke, Tiroler Kachelofen, Sat TV und CD, Stereo-Anlage, Internet-Anschluss,Terrasse mit Außenkamin u. Grill, Garten, Küche mit Spülmaschine und Mikrowelle, 2 Badezimmer mit WC, Wasch-maschine und Trockner), besticht die einmalig ruhige Hanglage mit Blick über das ganze Leutaschtal und auf das Bergpanorama (Hohe Munde, Gehrenspitze).\n",
+          "numberOfRooms": "4.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "7",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "65.00",
+          "maxPrice": "120.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "75.00",
+          "maxPrice": "120.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "75.00",
+          "maxPrice": "120.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "85.00",
+          "maxPrice": "120.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "85.00",
+          "maxPrice": "120.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

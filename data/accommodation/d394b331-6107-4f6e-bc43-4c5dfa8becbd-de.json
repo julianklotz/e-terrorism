@@ -1,0 +1,109 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.haus-paula.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Paula",
+    "streetAddress": "Moos 17 c",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 20246",
+    "faxNumber": "(0043) 5214 20247",
+    "email": "paula.draxl@aon.at",
+    "url": "http://www.haus-paula.at"
+  },
+  "name": "Haus Paula",
+  "description": [
+    "Das neuerbaute Landhaus Paula liegt im Ortsteil Moos am Fuße der Hohen Munde. In sonniger Hanglage genießen Sie einen herrlichen Überblick über prachtvolle Blumenwiesen und das Leutascher Wettersteingebirge. Das Haus Paula ist der ideale Ausgangspunkt zu den Wanderzielen ins nahe Almenparadies Gaistal oder zu den zahlreichen Almen und Hütten im Wildmoosgebiet.  \n\nIn wenigen Minuten erreichen Sie bequem die Bushaltestelle, Gastronomiebetriebe sowie einen Supermarkt. Den Zugang zur Langlaufloipe finden Sie unmittelbar vor dem Haus Paula. ",
+    "Kinder bis inkl. 5 Jahre wohnen gratis!\n(weitere Kinderermäßigung bitte auf Anfrage)\nZusatzbett Erwachsene € 10,- / Tag\nEndreinigung: € 30,00"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c7304eb6-4a78-422b-851c-ff7434f4f806/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/fe0212c5-d28e-4e68-8eff-eab187efa262/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/71dbbc0f-5a90-4ad7-9ac4-8828d793b009/99/image.jpg",
+      "caption": "Sommer 2"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.352857535279",
+    "longitude": "11.122223003726"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 1 Schlafraum",
+      "description": "Die großzügige Ferienwohnung (ca. 70 m²) ist im Tiroler Stil mit allem Komfort, einer schönen Sonnenterasse und einer eigenen Liegewiese ausgestattet. Das gemütliche Wohnzimmer mit dem wärmenden Kachelofen, getrennte Räume für Du/Bad u. WC, die komplett ausgestattete Küche mit Sitzecke und Durchreiche zum Wohnzimmer sowie das Schlafzimmer mit den Gesundheitsbetten verbreiten eine heimelige Atmosphäre in der man sich sofort wohlfühlt. Moderne Küchengeräte und eine Sat-TV-Anlage gehören ebenso zur Grundausstattung wie die zahlreichen Accessoires mit Garderobe und Schuhschrank. Auf Wunsch liefern wir Ihnen täglich frisches Brot und Gebäck.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement/1 Schlafraum/Dusche, Bad, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 1 Schlafraum",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "App. (Alpenglühn) Dusche und Bad, WC, 1 Schlafraum",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "45.00",
+          "maxPrice": "45.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "55.00",
+          "maxPrice": "55.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

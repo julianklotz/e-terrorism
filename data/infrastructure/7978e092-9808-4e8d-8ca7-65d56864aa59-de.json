@@ -1,0 +1,30 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportingGoodsStore"
+  ],
+  "name": "Sailer - Fashion \u0026  Sport",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3284218195675",
+    "longitude": "11.1867895753937"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Sailer-Fashion \u0026 Premium Sports",
+    "streetAddress": "Dorfplatz 96",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2530",
+    "email": "service@sailer.cc",
+    "url": "http://www.sailerseefeld.com"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/41307336-9d53-4188-a081-285e2d261859/99/image.jpg",
+      "caption": "Sailer - Fashion "
+    }
+  ]
+}

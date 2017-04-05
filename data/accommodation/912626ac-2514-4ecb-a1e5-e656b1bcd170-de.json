@@ -1,0 +1,265 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.pensionpanorama.info",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Pension Panorama",
+    "streetAddress": "Möserer-Dorf-Str. 28",
+    "addressLocality": "Mösern",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "+4352124739",
+    "faxNumber": "+4352124739",
+    "email": "panorama@moesern.net",
+    "url": "http://www.pension-panorama.webnode.at"
+  },
+  "name": "Pension Panorama",
+  "description": [
+    "Unsere Pension liegt in ruhiger und zentraler Lage und bietet Ihnen 3 Komfort-Ferienwohnungen für 2-6 Personen, ausgestattet mit Wohnschlafraum, 1-2 Schlafzimmer, Dusche/WC ,Südbalkon, Küche und Wlan.",
+    "+ Kurtaxe € 2,80\n+ Endreinigung € 35,-",
+    "Check-In ab 15.00 Uhr bis 18:00 Uhr / Check-Out 10.00 Uhr\nStandort: von Seefeld kommend am Ortsanfang gegenüber Schilift, 3. Haus links."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/417083bb-bba7-4a3a-b864-47f055cec1de/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5e94b67f-b612-4ecd-ad6c-971662049d0e/99/image.jpg",
+      "caption": "Sommer "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e309cb11-a749-4d96-b00f-d3845525958e/99/image.jpg",
+      "caption": "Sommer 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4a981122-ffd9-4da3-8371-89d5d2d7479c/99/image.jpg",
+      "caption": "Ausblick"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7df1641d-ee7f-4e31-9408-b6366a53829d/99/image.jpg",
+      "caption": "Frühstücksbüffet"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f439ff62-5374-4044-950a-1c1ad0b1bc8f/99/image.jpg",
+      "caption": "Rezeption"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4cdfe8e7-45ef-43c3-a19b-f5bcb4a1674e/99/image.jpg",
+      "caption": "WP_20161207_16_32_16_Pro_LI"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8ca02c66-0a64-4b8a-8fb8-dc7abdf76117/99/image.jpg",
+      "caption": "WP_20161207_13_57_27_Pro_LI"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/706a0a61-b40f-4fc8-a8be-9228183d74b7/99/image.jpg",
+      "caption": "IMG-20161123-WA0001"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/96daf551-3e63-416c-b076-f120186f05e5/99/image.jpg",
+      "caption": "WP_20161202_17_14_23_Pro_LI"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a8274d33-277a-45f2-8150-d7867c9790b3/99/image.jpg",
+      "caption": "FW 5/6"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/11934b77-d147-4e4e-8657-216c9fd1a2bc/99/image.jpg",
+      "caption": "WP_20161219_08_57_25_Pro_LI"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5db409ec-9220-48bc-9b23-00d94c6bd9aa/99/image.jpg",
+      "caption": "WP_20161219_08_56_54_Pro_LI"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b2530fac-30f2-4a49-93fa-aedd4b91ddf3/99/image.jpg",
+      "caption": "WP_20161219_08_56_02_Pro_LI"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/04f600fc-6594-4aa5-9482-9828d3a42888/99/image.jpg",
+      "caption": "WP_20161219_08_55_24_Pro_LI"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e7d88bc4-3f52-4226-a0c1-ae309bcd1a76/99/image.jpg",
+      "caption": "WP_20161219_08_55_07_Pro_LI"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/bff22138-962b-4c55-9770-4b7ec2271208/99/image.jpg",
+      "caption": "WP_20161219_08_57_43_Pro_LI"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.310984709839",
+    "longitude": "11.151731021094"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "DZ mit DU/WC und Balkon, Südlage, ruhig, TV, Radio. Waschmögichkeit im Haus!!",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "35.00",
+          "maxPrice": "35.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "35.00",
+          "maxPrice": "35.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "35.00",
+          "maxPrice": "35.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 1 Schlafraum",
+      "description": "Wohnraum mit Küche, großen Esstisch, Sofa, TV, Radio, sep. Schlafzimmer, Du/Wc und Balkon. Südlage. Waschmöglichkeit!",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/1 Schlafraum/Bad, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "60.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "60.00",
+          "maxPrice": "90.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 2 Schlafräume",
+      "description": "Wohnraum mit großer Essecke, Sofa (auch als Bett umwandelbar)und Küche, 2 Balkone, 2 TV, Radio, 2 Schlafzimmer, Südbalkon, Du/Wc. Waschmöglichkeit!!",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/2 Schlafräume/Bad, WC",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "60.00",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "75.00",
+          "maxPrice": "130.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "75.00",
+          "maxPrice": "130.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "130.00",
+          "maxPrice": "130.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "130.00",
+          "maxPrice": "130.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

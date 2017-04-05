@@ -1,0 +1,30 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "TrainStation",
+    "CivicStructure"
+  ],
+  "name": "Birkenlift",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Birkenlift",
+    "streetAddress": "Leutascher Str. 634",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 0664/3371375"
+  },
+  "description": "2 Schlepplifte und 2 Zauberteppiche mit 20 und 135 m Länge, nur im Winter geöffnet.\nHöhe Skigebiet: 1.190 m - 1.230 m, \n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6f835d48-0e1b-4156-ba96-b5cef578a3d1/99/image.jpg",
+      "caption": "Birkenlift"
+    }
+  ]
+}

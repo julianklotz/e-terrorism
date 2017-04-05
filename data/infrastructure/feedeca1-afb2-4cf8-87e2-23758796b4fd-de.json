@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant",
+    "FoodEstablishment"
+  ],
+  "name": "Alte Mühle - Pizzeria - Bar",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.391053174146",
+    "longitude": "11.2641035"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Alte Mühle",
+    "streetAddress": "Schanzweg 29",
+    "addressLocality": "Scharnitz",
+    "postalCode": "6108",
+    "addressCountry": "AT",
+    "telephone": "(0043)5213/20047",
+    "email": "ritschi-event@scharnitz.net",
+    "url": "http://www.altemuehle-scharnitz.at"
+  },
+  "description": "Montag Ruhetag",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/edb2b705-cade-4e59-b55d-34598b20524d/99/image.jpg",
+      "caption": "Alte Mühle"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6d45d417-2470-4096-b133-bc60a4e195fe/99/image.jpg",
+      "caption": "Winter"
+    }
+  ],
+  "url": [
+    "http://www.altemuehle-scharnitz.at"
+  ]
+}

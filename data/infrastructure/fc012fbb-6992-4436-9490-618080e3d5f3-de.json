@@ -1,0 +1,33 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BarOrPub"
+  ],
+  "name": "DANCINGBar \"Kännchen\"",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.328991011693",
+    "longitude": "11.1856956048935"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "DANCINGBar",
+    "streetAddress": "Klosterstr. 30",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "+4352122621168",
+    "url": "http://www.klosterbraeu.com"
+  },
+  "description": "In der Fußgängerzone",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/cb328d0a-f1ed-419d-88df-da27d19ca617/99/image.jpg",
+      "caption": "Bar"
+    }
+  ],
+  "url": [
+    "http://www.klosterbraeu.com"
+  ]
+}

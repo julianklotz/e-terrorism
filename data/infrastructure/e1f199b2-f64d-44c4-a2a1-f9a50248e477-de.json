@@ -1,0 +1,42 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure",
+    "LocalBusiness"
+  ],
+  "name": "Eltern Kind Zentrum Reith",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "openingHours": [
+    "Wed 10:00-12:00",
+    "Mon 15:00-18:00"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Eltern Kind Zentrum Reith",
+    "streetAddress": "Lauserweg 15 (Vereinshaus)",
+    "addressLocality": "Reith bei Seefeld",
+    "postalCode": "6103",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 4282229",
+    "email": "info@ekiz-reith-seefeld.at",
+    "url": "http://www.ekiz-reith-seefeld.at/"
+  },
+  "description": [
+    "Das Eltern-Kind-Zentrum ist ein Ort der Begegnung für Eltern\nmit Kleinkindern. Ziel dieser Einrichtung ist es, Eltern in ihrer\nElternrolle zu unterstützen. Weiters sollten Kindern frühzeitig\nKontakte und Gruppenerlebnisse ermöglicht werden.\nAnmeldung zu den Veranstaltungen\nBei den jeweiligen Gruppenleiterinnen. Aufgrund der begrenzten\nTeilnehmerInnenzahl ist eine Anmeldung unbedingt\nerforderlich!\nZahlungsmodalitäten\nDer Kursbeitrag wird am zweiten Kurstag von der\nGruppenleiterin bar kassiert. Bei Krankheit, oder wenn du aus\neinem anderen Grund den Kurs nicht in vollem Umfang\nbesuchen kannst, können wir keinen Kostenersatz leisten.\nKursbeiträge\nWir bemühen uns, die Kursbeiträge so niedrig wie möglich\nanzusetzen – als gemeinnütziger Verein sind wir nicht\ngewinnorientiert, es ist jedoch notwendig, dass wir unsere\nKosten decken.\n",
+    "Infos\n\nOrt:\n    Lauserweg 15, Reith bei Seefeld\nZeit:\n    Montag von 15.00 – 18.00 Uhr\n    Mittwoch von 10.00 – 12.00 Uhr\n\nNatürlich bieten wir die offenen Treffpunkte kostenfrei an. "
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3cc19047-da40-4b8c-99d5-d1ee5898146b/99/image.jpg",
+      "caption": "EKZ"
+    }
+  ],
+  "url": [
+    "http://www.ekiz-reith-seefeld.at/"
+  ]
+}

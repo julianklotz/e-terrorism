@@ -1,0 +1,114 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.zurbruecke-leutasch.com",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Gasthaus Brücke",
+    "streetAddress": "Burggraben 257",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6930 ",
+    "faxNumber": "(0043) 5214 6275",
+    "email": "zur.bruecke@aon.at",
+    "url": "http://www.zurbruecke-leutasch.com"
+  },
+  "name": "Gasthaus Zur Brücke",
+  "description": [
+    "Großzügige, urgemütliche Ferienwohnungen für 2-4 Personen für einen gelungenen Urlaub an einem der schönsten Plätze des Sefelder Plateaus. Idealer Ausgangspunkt für Wanderungen und Mountainbike-Touren, direkt an der Loipe und an der Bushaltestelle gelegen. Original Tiroler Restaurant im Haus. Eintritt ins Leutascher Alpenbad im Sommer frei.",
+    "Check in: 15.00 Uhr / Check out: 11.00 Uhr\n\nLeutasch - Ortsende Richtung Mittenwald\nKinder bis 10 Jahre frei!\nDer angeführte Preis verringert sich um € 8,80/Kind/Tag, falls Ihr(e) Kind(er) nicht älter als 10 Jahre sind."
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "reviewCount": "13"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f4912029-701b-4a29-81c5-9bb0eb97906c/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2caf4798-5e62-4d1c-9205-1eb831131743/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9d4ee8b4-ae90-4dd1-8fc2-66a8dae8c164/99/image.jpg",
+      "caption": "Impressionen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b872312b-b2f3-47ad-a3d2-761ea81a4f5a/99/image.jpg",
+      "caption": "FW"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/40531865-fc42-4c02-b3fd-0a0187f82b5e/99/image.jpg",
+      "caption": "vom Balkon"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ae7495d0-4f46-4419-82a5-35f3b6eab9f3/99/image.jpg",
+      "caption": "vom Balkon 1"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.418982891293",
+    "longitude": "11.21941338812"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 1 Schlafraum",
+      "description": "ca, 55 m2, im Landhausstil eingerichtet, verfügt über ein Schlafzimmer, ein Wohnschlafzimmer mit ausziehbarer Doppelcouch, eine bestens ausgestattete Küche (Geschirrspüler, Mikrowellenherd, Elektroherd, Kühlschrank mit Gefriermöglichkeit, Mixer, Wasserkocher, Kaffeemaschine, Toaster..), ein Badezimmer mit Badewanne, eine separate Toilette sowie einen großen Balkon. Das Apartment ist mit einem Fernseher (sowohl im Wohnzimmer als auch im Schlafzimmer) mit SAT-Anschluss ausgestattet. \nW-LAN!",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/1 Schlafraum/Dusche, Bad, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 1 Schlafraum",
+      "description": "ca. 59 m2,im Landhausstil eingerichtet, verfügt über ein Schlafzimmer, ein Wohnschlafzimmer mit ausziehbarer Doppelcouch, eine bestens ausgestattete Küche (Mikrowellenherd, Elektroherd, Mixer, Wasserkocher, Kaffeemaschine, Toaster..), ein Badezimmer (mit Badewanne und separater Dusche, Haarföhn), und eine separate Toilette. Fernseher mit SAT-Anschluss im Wohn- und im Schlafzimmer.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/1 Schlafraum/Dusche, Bad, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

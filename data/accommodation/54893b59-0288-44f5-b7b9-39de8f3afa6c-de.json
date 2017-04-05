@@ -1,0 +1,64 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.haus-sandra.at/index.shtml",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Sandra",
+    "streetAddress": "Weidach 314 b",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 5100",
+    "faxNumber": "(0043) 5214 5100",
+    "email": "info@haus-sandra.at",
+    "url": "http://www.haus-sandra.at/index.shtml"
+  },
+  "name": "Haus Sandra",
+  "description": "Unser Haus ist mit zwei Ferienwohnungen im gemütlichen Tiroler Landhausstil ausgestattet. Unsere Lage ist zentral und doch ruhig gelgen, Einkaufgelegenheiten in nächster nähe. Die Langlaufloipe führt direkt an unserem Haus vorbei.\nIm Sommer haben Sie als unsere Gäste freien Eintritt in das Alpenbad Leutasch.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ddf42296-34c2-4e47-9db9-f5df744af89b/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/97f767f3-5a05-46bf-9346-ef86f2ad78a2/99/image.jpg",
+      "caption": "Winter"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.370832690321",
+    "longitude": "11.16255646856"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "FoodEstablishment",
+    "CafeOrCoffeeShop",
+    "Restaurant"
+  ],
+  "name": "Kracherlemoos Alm, Restaurant",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3310862952032",
+    "longitude": "11.1859059333801"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Kracherlemoos Alm",
+    "streetAddress": "Moosweg 758",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 53223",
+    "email": "info@kracherlemoos.at",
+    "url": "http://www.kracherlemoos.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3ee59a4d-a079-4351-abe6-60370838d92d/99/image.jpg",
+      "caption": "KMA"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f315840c-b634-4067-8e7c-2f2e656e485f/99/image.jpg",
+      "caption": "KMA innen"
+    }
+  ],
+  "url": [
+    "http://www.kracherlemoos.at"
+  ]
+}

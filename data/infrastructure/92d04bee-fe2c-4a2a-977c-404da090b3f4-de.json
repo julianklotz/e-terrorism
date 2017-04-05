@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation"
+  ],
+  "name": "Bootsfahrten, Tretboote, Verleih",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3227233105329",
+    "longitude": "11.1914420127869"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Strandperle Seefeld",
+    "streetAddress": "Innsbrucker Str. 500",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2436",
+    "email": "info@strandperle.at",
+    "url": "http://www.strandperle.at"
+  },
+  "description": "neue Tretboote, Verleih von SUP-Boards, Unterricht im Stand Up Paddling",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c967a2b2-5bea-46c8-9741-d46c57985ef1/99/image.jpg",
+      "caption": "Wildsee"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/42e9860c-5f95-45ce-87b3-e63ac25b0c04/99/image.jpg",
+      "caption": "Boot fahren"
+    }
+  ],
+  "url": [
+    "http://www.strandperle.at"
+  ]
+}

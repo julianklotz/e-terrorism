@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "TouristAttraction"
+  ],
+  "name": "Ausflugsfahrten: Busfahrt von Seefeld zur Wildmoosalm",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Wettersteinreisen",
+    "streetAddress": "Gasse 162",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6777",
+    "faxNumber": "(0043) ",
+    "email": "info@wetterstein-leutasch.at",
+    "url": "http://www.wettersteinreisen.at"
+  },
+  "description": [
+    "Busfahrt von Leutasch zur Wildmoosalm\nTäglich (ab 15.05.2016)\nFahrplan Leutasch: Abfahrt ab Alpenhotel zum See / Weidach: 9.30 Uhr  Fahrpreis (einfache Fahrt) € 6,00 und Kinder (6 - 12 Jahre) € 3,00\nFahrplan Seefeld: Apothekenparkplatz, Hotel Metropol/Leutascher Str., Reitstall/Leutascher Str. Abfahrt: 10.00/11.00/12.00/13.00*/ 14.00*/15.00/\n16.00 Uhr. \nRückfahrt von der  Alm: 10.30/11.30/12.30/13.30*/14.30*/ 15.30/16.30 Uhr *Zusatzfahrten von 09.07. bis 11.09.2016\nFahrpreis (einfache Fahrt) € 2,60 und Kinder (6 - 12 Jahre) € 1,30 Fahrplan in allen Informationsbüros erhältlich.\n",
+    "Täglich (ab 18.12.2016) von 9.30 - 16.30 Uhr (vormittags jede ½ Stunde, ab 12.00 Uhr zu jeder vollen Stunde, letzte Fahrt zur Alm um 16.30 Uhr), Preis/Fahrt: Erwachsener € 2,60, Kinder 6-12 Jahre € 1,30\nHaltestellen: Apotheken-Parkplatz - Hotel Metropol/Leutascher Straße - Reitstall/Leutascher Straße"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7c7e5a3a-608e-44bc-9157-a1bcb47cb032/99/image.jpg",
+      "caption": "Wetterstein Reisen "
+    }
+  ],
+  "url": [
+    "http://www.wettersteinreisen.at"
+  ]
+}

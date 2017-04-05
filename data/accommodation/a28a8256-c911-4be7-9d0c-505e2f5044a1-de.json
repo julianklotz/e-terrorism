@@ -1,0 +1,485 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.landhausweisl.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Landhaus Weisl",
+    "streetAddress": "Ostbach 22",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 699 19055431",
+    "faxNumber": "(0043) 5214 6976 11",
+    "email": "info@landhausweisl.at",
+    "url": "http://www.landhausweisl.at"
+  },
+  "name": "Landhaus Weisl",
+  "description": [
+    "Herzlich Willkommen in einem Haus der besonderen Art!\n\nEintauchen in eine Welt der Erholung und Entspannung, am Waldrand gelegen, ruhig, sonnig, umgeben von Wiesen mit traumhaftem Panoramablick auf unsere Bergwelt. Im Sommer idealer Ausgangspunkt für Ihre Radtouren und Wanderungen, im Winter, direkt am Landhaus die Langlaufloipen-Arena mit 260 km gespurter Loipen und 70 km geräumter Wanderwege. Nach einem bewegten Tag verspricht unsere großzügig neu gestaltete Wellness-Oase Entspannung und Regeneration. Wir würden uns freuen, Sie schon bald als unsere Hausgäste begrüßen zu dürfen.",
+    "\nInklusive: Heizung, Wasser, Stromkosten,GRATIS Wireless-Lan, großzügige Wellness-Oase,vom Mai bis Ende Oktober Zutritt zum Alpenbad Leutasch, wenn vom Tourismusverband angeboten, geführte Wanderungen mit Bantl Hans Exklusive: Endreinigung, Telefongesprächskosten, Ortstaxe",
+    "Check-In 16.00 Uhr, Check-Out 10.00 Uhr\n\nMittenwald - Richtung Oberleutasch - Ostbach\n\nSeefeld - Leutasch - Richtung Oberleutasch - Ostbach"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/fd725db5-589c-4db0-b568-50c35cedcd11/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7a651d90-0b32-475c-b9e0-e450183ecbde/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9514f96f-7d55-4f2f-b46d-2fedaf1ebf85/99/image.jpg",
+      "caption": "Ruheraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/bcdb4046-5e72-4599-8ecf-1e10862d6bcf/99/image.jpg",
+      "caption": "Wellness-Oase"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/16b76a1f-b2a6-476a-9a55-53ac15aec61d/99/image.jpg",
+      "caption": "Sauna"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8678e882-4fce-48c4-892f-4d4e4dba1346/99/image.jpg",
+      "caption": "Ruheraum 1"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3566033910124",
+    "longitude": "11.1315429210663"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 2 Schlafräume",
+      "description": "Sehr schönes, komfortabel eingerichtetes Appartment,im Parterre, südwestseitig, für 2-6 Personen, ( ohne Stufen ), deshalb ideal auch für Rollstuhlfahrer , am Frühstückstisch im Erker zususammensitzen und genießen Sie den wunderschönen Fernblick auf unsere Berge fast bis zur Zugspitze (Deutschlands höchstem Berg )",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Leutasch/2 Schlafräume/Dusche, Bad, WC",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "100.00",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "100.00",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "100.00",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "100.00",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "100.00",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Diese 2-Raum-Appartements sind für 2 bis 4 Personen geeignet und wie die Appartements der Type C ausgestattet, jedoch sind die Räume etwas kleiner. Das Appartement Karwendel hat einen geräumigen möblierten Balkon mit direkten Blick auf die Berge. Zum Appartement Gaistal gehört eine Terrasse, ideal für Rollstuhlfahrer und direkt vor Ihrem Appartement die wunderschöne Bergkulisse!",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Gaistal/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "103.00",
+          "maxPrice": "103.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "103.00",
+          "maxPrice": "103.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "103.00",
+          "maxPrice": "103.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "103.00",
+          "maxPrice": "103.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "2-Raum-Appartements für 2 bis 4 Personen mit hochwertigen Möbeln aus heimischen Fichtenholz. Vorraum mit Garderobe, Dusche und WC. Großzügiges Wohnzimmer mit bequemen Polstermöbeln und geräumigen Essplatz samt Küche. 1 seperates Schlafzimmer. Die Wohnungen verfügen über große Balkone, die eine wunderschöne Aussicht auf die umliegende Bergwelt bieten.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Wetterstein/ 1 Schlafraum/Dusche,WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "116.00",
+          "maxPrice": "116.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "116.00",
+          "maxPrice": "116.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "116.00",
+          "maxPrice": "116.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Diese 2-Raum-Appartements sind für 2 bis 4 Personen geeignet und wie die Appartements der Type C ausgestattet, jedoch sind die Räume etwas kleiner. Das Appartement Karwendel hat einen geräumigen möblierten Balkon mit direkten Blick auf die Berge. Zum Appartement Gaistal gehört eine Terrasse, ideal für Rollstuhlfahrer und direkt vor Ihrem Appartement die wunderschöne Bergkulisse!",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Karwendel/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "103.00",
+          "maxPrice": "103.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "103.00",
+          "maxPrice": "103.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "2-Raum-Appartements für 2 bis 4 Personen mit hochwertigen Möbeln aus heimischen Fichtenholz. Vorraum mit Garderobe, Dusche und WC. Großzügiges Wohnzimmer mit bequemen Polstermöbeln und geräumigen Essplatz samt Küche. 1 seperates Schlafzimmer. Die Wohnungen verfügen über große Balkone, die eine wunderschöne Aussicht auf die umliegende Bergwelt bieten.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Hohe Munde/1 Schlafraum/Dusche,WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "116.00",
+          "maxPrice": "116.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "116.00",
+          "maxPrice": "116.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "116.00",
+          "maxPrice": "116.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "2-Raum-Appartements für 2 bis 4 Personen mit hochwertigen Möbeln aus heimischen Fichtenholz. Vorraum mit Garderobe, Dusche und WC. Großzügiges Wohnzimmer mit bequemen Polstermöbeln und geräumigen Essplatz samt Küche. 1 seperates Schlafzimmer. Die Wohnungen verfügen über große Balkone, die eine wunderschöne Aussicht auf die umliegende Bergwelt bieten.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Zugspitze/1 Schlafraum/Dusche,WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "116.00",
+          "maxPrice": "116.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC",
+      "description": "Dieses 1-Raum-Appartement ist für 1 bis 3 Personen geeignet. Die Austattung ist gleich den Appartements Typ C / D. Dieses Appartement besteht aus einem Vorraum mit Garderobe sowie einer Küche, Dusche mit WC und einem kombinierten Wohnschlafraum mit Essecke und zusätzlicher Couch. Geräumiger möblierter Balkon.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Ahrnspitze/Wohn-Schlafraum/Dusche, WC",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "93.00",
+          "maxPrice": "93.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "93.00",
+          "maxPrice": "93.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 1 Schlafraum",
+      "description": "Sehr schönes, komfortabel eingerichtetes Appartment,im 2. Stock, mit 2 Balkonen-westseitig und südostseitig, vom Frühstückstisch aus haben Sie einen traumhaften Panoramablick auf unsere Tiroler Berge,",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Rotmoos/1 Schlafraum/Dusche, Bad, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "134.00",
+          "maxPrice": "134.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "134.00",
+          "maxPrice": "134.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "134.00",
+          "maxPrice": "134.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "134.00",
+          "maxPrice": "134.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "134.00",
+          "maxPrice": "134.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 1 Schlafraum",
+      "description": "Sehr schönes, komfortabel eingerichtetes Appartment,im 2. Stock, mit 2 Balkonen-westseitig und südostseitig, vom Frühstückstisch aus haben Sie einen traumhaften Panoramablick auf unsere Tiroler Berge,",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Hämmermoos/1 Schlafraum/Dusche, Bad, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "134.00",
+          "maxPrice": "134.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "134.00",
+          "maxPrice": "134.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "134.00",
+          "maxPrice": "134.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "134.00",
+          "maxPrice": "134.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "134.00",
+          "maxPrice": "134.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

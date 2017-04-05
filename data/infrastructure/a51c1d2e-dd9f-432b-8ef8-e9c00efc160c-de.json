@@ -1,0 +1,33 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure"
+  ],
+  "name": "Funsport Frank",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3292284",
+    "longitude": "11.184981"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Funsport Frank",
+    "streetAddress": "Klosterstraße 608",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043)6645162863",
+    "url": "http://www.seefeld-skiverleih.com"
+  },
+  "description": "E-Bike Verleih und Akkuladestation\nMontag - Sonntag: 9.30 - 12.30 und 13.30 - 18.00 Uhr",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8b03a0eb-cbe2-4809-97e7-e5f0b231c069/99/image.jpg",
+      "caption": "Außenansicht"
+    }
+  ],
+  "url": [
+    "http://"
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "Musik und Tanz mit flottem Alleinunterhalter",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Am Kurpark",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Olympiastraße 101",
+      "addressLocality": "Seefeld",
+      "postalCode": "6100",
+      "addressCountry": "AT",
+      "telephone": "+4352122191",
+      "url": "http://www.kaltschmid.info"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Am Kurpark",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Olympiastraße 101",
+      "addressLocality": "Seefeld",
+      "postalCode": "6100",
+      "addressCountry": "AT",
+      "telephone": "+4352122191",
+      "url": "http://www.kaltschmid.info"
+    }
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/03d9bd8d-25d4-4311-9002-5ea7e24f0514/99/image.jpg",
+      "caption": "Café am Kurpark"
+    }
+  ],
+  "url": [
+    "http://www.kaltschmid.info"
+  ],
+  "startDate": "2017-05-24T16:00:00",
+  "endDate": "2017-10-15"
+}

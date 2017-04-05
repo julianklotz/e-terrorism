@@ -1,0 +1,116 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://web.deskline.net/seefeld/de/show_accommodation/SEE/fb3c55e5-eb8e-4846-89da-aeb36d46ef72/haus_krug_elisabeth",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Krug Elisabeth",
+    "streetAddress": "Platzl 107 c",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6758",
+    "faxNumber": "(0043) 5214 6758",
+    "email": "krug@netway.at"
+  },
+  "name": "Haus Krug Elisabeth",
+  "description": [
+    "3 DZ, mit Dusche, davon 1 DZ mit Kochgelegenheit und SAT-TV, Aufenthaltsraum mit SAT-TV, erweitertes Frühstück, Sonnenterrasse, Sommer und Winter idealer Ausgangspunkt für Wanderungen, in ruhiger Lage ohne Durchzugsverkehr, an Langlaufloipe gelegen. Gratis Eintritt ins Alpenbad Leutasch im Sommer. 2 FW für 2-4 Pers. mit kompletter Küche, SAT-TV, Schlafzimmer, DU/WC, Balkon, Bettwäsche.",
+    "inkl.: Heizung, Strom, Wasser, Wäsche, großer Parkplatz\nGarage auf Anfrage.",
+    "Von Seefeld: Leutasch - Weidach - Richtung Kirchplatzl - weiter nach Platzl - unser Haus liegt auf der linken Seite\n\nVon Mittenwald: Leutasch - Schanz - Gasse - Richtung Kirchplatzl - weiter nach Platzl - unser Haus liegt auf der linken Seite"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ca7b3b91-f9e1-4ea4-a9ee-80f854aa6085/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/18ac29cc-a5a6-4654-bed6-fe68d3f084af/99/image.jpg",
+      "caption": "Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.361732738886",
+    "longitude": "11.136211085858"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, fl. k/w Wasser",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit fl. Wasser",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "21.00",
+          "maxPrice": "21.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Schlafzimmer, Wohnküche, Dusche, WC, Balkon",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "42.00",
+          "maxPrice": "42.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "48.00",
+          "maxPrice": "48.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "Einblicke in die olympische Geschichte Seefelds",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Seefelder Heimatmuseum",
+    "employee": {
+      "@type": "Person",
+      "givenName": "Heinz",
+      "familyName": "Strasser"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Gießenbach",
+      "addressLocality": "Scharnitz",
+      "postalCode": "6108",
+      "addressCountry": "AT",
+      "telephone": "+436641216621",
+      "email": "heimatmuseum-seefeld@gmx.at"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Seefelder Heimatmuseum",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Gießenbach",
+      "addressLocality": "Scharnitz",
+      "postalCode": "6108",
+      "addressCountry": "AT",
+      "telephone": "+436641216621",
+      "email": "heimatmuseum-seefeld@gmx.at"
+    }
+  },
+  "description": "Liebevoll zusammengestellte Ausstellung mit \"Relikten\" der Olympischen Spiele aus den Jahren 1964 und 1976, geöffnet jeden Donnerstag von 16:00-18:00 Uhr. Weitere Informationen bei Hr. Strasser, Tel. 0664 1216621.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ecfcd0a8-02b2-4a97-b0d4-f2a0d26b7f90/99/image.jpg",
+      "caption": "Olympische Geschichte"
+    }
+  ],
+  "startDate": "2017-01-12T16:00:00",
+  "endDate": "2017-03-16"
+}

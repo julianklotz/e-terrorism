@@ -1,0 +1,232 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.appartement-tirol.com",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus St. Martin",
+    "streetAddress": "Münchnerstr. 777",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043)5212 4034",
+    "email": "stmartin@aon.at",
+    "url": "http://www.appartement-tirol.com"
+  },
+  "name": "Haus St. Martin",
+  "description": [
+    "Das Appartementhaus St. Martin in Seefeld in Tirol - ein Landhaus mit Stil und Geschmack!\nUmgeben von saftig grünen Wiesen und einem herrlichen Bergpanorama liegt unser Haus sehr ruhig aber doch nicht weit vom Schuss. Ohne Steigung erreichen Sie in nur 10 Gehminuten das Ortszentrum Seefeld, in welchem Restaurants, Cafés und Geschäfte mit Tiroler Gastlichkeit auf Sie warten.\n\nDas Appartementhaus St. Martin verfügt über ein 2- und zwei 3-Raum-Appartements für 1-6 Personen. Die geschmackvoll und im Tiroler Landhausstil eingerichteten Ferienwohnungen mit ein oder zwei Schlafzimmern, bieten kostenloses WLAN und einen eigenen sonnigen Balkon bzw. Terrasse. Die Küchen sind mit allen notwendigen Utensilien ausgestattet, damit Ihren Kochkünsten keine Grenzen gesetzt sind. Für das Frühstück wird Ihnen auf Wunsch frisches Brot bestellt. Unser hauseigener bunter Garten kann von allen Gästen benützt werden. Die Haltestellen für den kostenlosen Ski- und Dorfbus befindet sich nur wenige Gehminuten von unserem Haus entfernt. Ihr Auto können Sie während Ihres Urlaubs auf unserem überdachten Autoabstellplatz parkieren.\n\nEin Sommerurlaub im Zeichen der Natur. Ob Wandern, Bergsteigen, Radfahren, Schwimmen oder Golfen in Seefeld erwartet Sie all dies vor der Tür. Als Golf-Partnerbetrieb steht unseren Gästen eine Ermäßigung von ca. 35% bei der Golfacademie Seefeld-Reith zur Verfügung. Genießen Sie mit der ganzen Familie einen Sommerurlaub voller Abenteuer und begeben Sie sich auf Entdeckungsreise durch die eindrucksvolle Landschaft der Olympiaregion Seefeld.\n\nFür Ihren Winterurlaub bietet Ihnen die Olympiaregion Seefeld ein umfangreiches Langlaufgebiet, Winterwanderwege und Schneeschuhtouren in jedem Schwierigkeitsgrad, Pferdeschlittenfahrten durch verschneite Wälder oder bestens präparierte Skipisten mit urigen Einkehrmöglichkeiten. Profitieren Sie nach einem kalten Wintertag von dem ermäßigten Eintritt mit Gästekarte in das öffentliche Hallenbad im „Olympia“ in Seefeld.  \n\nDa wir selbst, zu jeder Jahreszeit, sehr viel in unserer schönen Region unterwegs sind, freuen wir uns stets unsere Gäste mit persönlichen Tipps zu beraten, damit sie ihren Urlaub so abwechslungsreich wie möglich gestalten können.\n\nEin Urlaub ganz nach Ihrem Geschmack - überzeugen Sie sich selbst! Daniela und Kurt Neurauter freuen sich auf Ihren Besuch!",
+    "Preis pro Tag/Appartement in Euro - \nInklusive : Strom, Heizung, Wasser, überdachter Autoabstellplatz;\n\nCheck in: 14.00 Uhr oder nach Absprache\nCheck out: 10.00 Uhr oder nach Absprache",
+    "Aus Deutschland oder Italien : Ausfahrt Seefeld-Nord Münchnerstrasse nach ca. 100m auf der rechten Seite befindet sich das Appartementhaus St. Martin\n\nAus der Schweiz : Mösererstrasse bis Kreuzung Olympiastrasse - nächste Kreuzung links auf die Münchnerstrasse abbiegen - weiter bis rechts eine Esso Tankstelle kommt - nach ca. 100m links befindet sich das Appartementhaus St. Martin."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c6d7fa9b-78ca-4d4d-a4df-49f4b18bd63b/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/acca4073-c4ff-4464-a232-da1368343c14/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/078612bf-5ac0-48b6-8015-c2fa3fe70d83/99/image.jpg",
+      "caption": "Hausansicht SO"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ba0461cd-e457-44dc-a9c5-0237c885df53/99/image.jpg",
+      "caption": "Winter 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f9b13321-ad84-4596-abdc-0545fe5f53ce/99/image.jpg",
+      "caption": "Haus mit Garten"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/46aff53c-cd49-4d61-b4aa-7411dc67c997/99/image.jpg",
+      "caption": "Wintergarten"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7a497e0d-dc5b-4b2a-a73a-72543e4d3df6/99/image.jpg",
+      "caption": "Wintergarten 2"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3364897152884",
+    "longitude": "11.194259673357"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 1 Schlafraum",
+      "description": "Es steht Ihnen ein 2-Raum Appartement für 2-3 Personen zur Verfügung. Unsere Appartements   bestehen aus einem Schlafzimmer, einem Wohnzimmer mit Essecke, ausziehbarer Couch, Kabel- TV, Radio und schönem Südbalkon, einer komplett ausgestatteten Küche mit Geschirrspüler, Badezimmer mit Badewanne, WC separat.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Gschwandtkopf",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "65.00",
+          "maxPrice": "65.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "75.00",
+          "maxPrice": "75.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "80.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 2 Schlafräume",
+      "description": "Es stehen ihnen zwei 3-Raum Appartements für 4-6 Personen zur Verfügung. Unser 3- Raum Appartement\"Wetterstein\" besteht aus einem Doppelbett- Schlafzimmer,einem Schlafzimmer mit 2 getrennten Betten, einem geräumigen Wohnzimmer mit Essecke, ausziehbarer Doppelcouch, Kabel- TV, Stereoanlage und Balkon mit Bergblick, einer komplett ausgestatteten Küche mit Geschirrspüler, Backofen, Badezimmer mit Badewanne, WC separat. Bettwäsche, Hand- und Küchentücher sind vorhanden. Benützung der Liegewiese.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Wetterstein",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "80.00",
+          "maxPrice": "110.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "80.00",
+          "maxPrice": "110.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "95.00",
+          "maxPrice": "120.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "100.00",
+          "maxPrice": "125.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "110.00",
+          "maxPrice": "133.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 2 Schlafräume",
+      "description": "Es stehen ihnen zwei 3-Raum Appartements für 4-6 Personen zur Verfügung. Unser 3- Raum Appartement\"Hohe Munde\" besteht aus zwei Doppelbett -Schlafzimmer, einem geräumigen Wohnzimmer mit Essecke, ausziehbarer Doppelcouch, Kabel- TV, Stereoanlage,Pelletofen, verglaste Terrasse, einer komplett ausgestatteten Küche mit Geschirrspüler, Backofen, Badezimmer mit Badewanne, WC separat. Bettwäsche, Hand- und Küchentücher sind vorhanden.Gartenbenutzung!",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Hohe Munde",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "80.00",
+          "maxPrice": "90.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "80.00",
+          "maxPrice": "90.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "95.00",
+          "maxPrice": "120.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "100.00",
+          "maxPrice": "125.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "110.00",
+          "maxPrice": "130.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

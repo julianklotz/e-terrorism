@@ -1,0 +1,126 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Campground"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Casa Alegria",
+    "streetAddress": "Gasse 182a",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 4696983",
+    "email": "lisa.walzl@gmx.at"
+  },
+  "name": "Casa Alegria",
+  "description": [
+    "\nUnser Haus mitten in der malerischen Umgebung der Leutasch, zeichnet sich durch seine Lage am Wiesenrand aus. Wir sind nur Minuten von allem entfernt, was man während eines entspannten Urlaubs braucht.\nLoipeneinstieg vor der Tür\n500 m Bushaltestelle\n500 m von Restaurants (Al Cavallino + Naturwirt)\n1,6 km (3Min) Alpenbad Leutasch - Erlebnishallenbad und Sauna\n1,6 km (3 Min) Supermarkt\n10 km Skigebiete Rosshütte und Gschwandtkopf\n\n",
+    "Inkl. Parkplatz, Heizung, Wasser, W-Lan Internet\nHaustiere € 3,- pro Tag",
+    "Check-in: Mo-Do: ab 17.00 Uhr, Fr-So: ab 14.00 Uhr\nCheck-out: bis 12.00 Uhr\nAnreise: Biegen Sie bei Landhaus Rauth (Gasse 182) ein und fahren Sie bis zum grünen Haus"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/78251683-a82c-40d4-b4a4-6bfa175b4314/99/image.jpg",
+      "caption": "Wohn- / Schlafraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/472aaa15-bb06-4216-8e37-614c8472618b/99/image.jpg",
+      "caption": "Wohn-/ Schlafraum 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0d9304bc-338f-4af8-87bf-6a32c59abce4/99/image.jpg",
+      "caption": "Wohn-/ Schlafraum  Eingang Bad und Küche"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1763a48e-c5bf-4f9f-a344-17ed4c8aff7d/99/image.jpg",
+      "caption": "Begehbarer Kleiderschrank"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4085231e-6c79-4a3b-ab1b-767a1bcdecfd/99/image.jpg",
+      "caption": "Badezimmer WC"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/84d1bff8-5c99-43a8-a3db-e6add15a4f0f/99/image.jpg",
+      "caption": "Küche"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/49667fcd-79d8-4d20-a6c7-e01e2f90292d/99/image.jpg",
+      "caption": "Suit Dreams mit eigener Terrasse"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ceee9c2a-da2f-448e-bea7-02bfa62b1ed4/99/image.jpg",
+      "caption": "IMG_20170305_151732230_HDR"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0ce6c12d-d4a4-406e-a75d-40d2cd386caa/99/image.jpg",
+      "caption": "IMG-20170301-WA0003"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/62820a73-1a11-4242-987e-1b3bd531c074/99/image.jpg",
+      "caption": "IMG_20170121_140651395"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3804517591495",
+    "longitude": "11.1624274423278"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, Wohn-/Schlafraum",
+      "description": "\nFerienwohnung \"Suite Dreams\" mit eigenem Zugang, Küche, Badezimmer und Terrasse direkt an der Loipe.\nDie einzigartige Lage macht diese Wohnung zur Traumdestination eines jeden Langläufers. Aber auch im Sommer hat sie ihre Vorzüge ... absolute Ruhe und der Blick auf die Berge und offene Felder, wo uns nicht selten Rehe und Hirsche einen kurzen Besuch abstatten.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Ferienwohnung Suite Dreams, Bad/WC, Wohn-Schlafr.",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "0.00",
+          "maxPrice": "55.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "55.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "0.00",
+          "maxPrice": "55.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

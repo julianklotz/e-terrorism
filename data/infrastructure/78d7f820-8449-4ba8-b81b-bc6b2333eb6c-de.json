@@ -1,0 +1,21 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Church",
+    "CatholicChurch"
+  ],
+  "name": "Friedhöfe in Leutasch",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "description": "bei der Kirche St. Magdalena in Kirchplatzl und \nbei der Kirche zum Hl. Johannes dem Täufer in Unterkirchen",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d2aba3e2-b37b-404d-974d-1082900fa499/99/image.jpg",
+      "caption": "Kirche Unterleutasch"
+    }
+  ]
+}

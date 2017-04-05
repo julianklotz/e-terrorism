@@ -1,0 +1,371 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://www.sonnen-alp.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Sonnen-Alp Hotel Garni",
+    "streetAddress": "Lärchenweg 423",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "0043 5212 2529",
+    "faxNumber": "0043 5212 2529 18",
+    "email": "info@sonnen-alp.at",
+    "url": "http://www.sonnen-alp.at"
+  },
+  "name": "Sonnen-Alp Hotel Garni",
+  "description": [
+    "Unser Haus, ein gemütliches, kleines familiengeführtes Hotel,liegt am Südhang des Geigenbühls in absolut ruhiger und sonniger Lage  -  umgeben von Wald und Wiese und doch zentrumsnah.\n\nEin großzügiges Frühstücksbuffet mit frisch zubereiteten Eierspeisen und regionalen Produkten, sorgt für einen guten Start in den Tag.\nGerne bieten wir am Abend Kleinigkeiten aus unserer Küche an.\n\nHunde Willkommen - Infos unter: www.sonnen-alp.at\n\nUnsere Preise verstehen sich inclusive Frühstücksbuffet,Sauna, Dampfbad, kostenlose Parkplätze und Mwst.\nExclusive Kurtaxe von 2,80 € pro Person, pro Nacht. (Stand 14/2014 - Änderungen vorbehalten) \n\nEin Shuttle-Service 3 Minuten von unserem Haus, bringt Sie gratis ins Zentrum und von dort zu verschiedenen Anlaufpunkten in Seefeld und Umgebung.\n \nGolfgründerhotel 15% Greenfeeerm.",
+    "Stornobedinungen:\nEs gelten die allgemeinen Geschäftsbedinungen der Hotellerie. Das bedeutet, dass bei Stornierungen ab 3 Monaten vor Urlaubsantritt bis 1 Monat vor Urlaubsantritt 40%, ab 1 Monat 70% und in der letzten Woche vor Reiseantritt 90% Stornogebühren anfallen. Bei vorzeitiger Abreise oder nicht Anreise müssen wir leider 100% des Reisepreises in Rechnung stellen.",
+    "Anzahlung\n\nBei einer fixen Reservierung bitten wir um eine Anzahlung von 30% pro Buchung. \nEine Reservierung ist erst dann verbindlich, wenn eine beidseitige schriftliche Bestätigung und eine Anzahlung von 30% pro Buchung innerhalb von 8 Tagen vorliegt.",
+    "Bed\u0026Breakfast\nGarni\nHotel\nFrühstückspension\nPension\nUrlaub\nSeefeld Urlaub\nTirol\nHerz\nSchifahren\n"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "reviewCount": "32"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/03e47583-0557-4463-a842-b3f6eb6ea1e3/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a0162f0c-b8eb-4b22-9ea4-bb49d23e1c8c/99/image.jpg",
+      "caption": "Hotel Sonnen-Alp garni, Seefeld in Tirol"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9f2a6b55-314c-47db-b678-63be957e9d98/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/afc81f94-e43e-43cc-9238-472bdf9435e1/99/image.jpg",
+      "caption": "Sauna"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/52a1a6b0-c72e-4fa4-8c9f-177fc5e19e71/99/image.jpg",
+      "caption": "Frühstücksraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d5e3a154-0f3d-4c51-93c4-9dce9f416f97/99/image.jpg",
+      "caption": "Sommeransicht Sonnen-Alp, Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3e85f163-de1f-4aa1-b8bb-1ec9928867d9/99/image.jpg",
+      "caption": "Kutschenfahrt mit unseren Gästen zur Alm,Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4c79cf7e-63cd-44b4-9bfa-3173d1b8fcec/99/image.jpg",
+      "caption": "Segwaytour, Sonnen-Alp,Seefeld Tirol"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b1a52ad1-881a-43c0-9a58-0e5f9096531a/99/image.jpg",
+      "caption": "Blick aus dem Frühstücksraum,Sonnen-Alp"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5de5902a-cfaa-4943-9b11-29ac3024b3cb/99/image.jpg",
+      "caption": "Eisstockschießen mit Gästen, Sonnen-Alp"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/90ab05bb-d4bd-429b-bd48-fcc6f0087d36/99/image.jpg",
+      "caption": "Bar Sonnen-Alp,Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/582dd595-a0c2-4806-be51-ae6d50ff8673/99/image.jpg",
+      "caption": "Bar,Sonnen-Alp,Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0b061b9e-2f8c-4509-95fc-05fecc1edbe4/99/image.jpg",
+      "caption": "Frühstücksbuffet,Sonnen-Alp,Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f7832754-bf0e-4550-ac73-25841785d129/99/image.jpg",
+      "caption": "Frühstücksbuffet,Sonnen-Alp,Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/bcf01c87-ff0c-45f1-98d2-6df9457a6f02/99/image.jpg",
+      "caption": "Seelische im Winter,Seefeld,Tirol"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/45f6fe2d-97a3-48b5-83b8-f7185c76c242/99/image.jpg",
+      "caption": "Vogelhotel,Sonnen-Alp,Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/86a5b95a-aeac-46b3-b430-66f98aa71949/99/image.jpg",
+      "caption": "Hoteleingang,Sonnen-Alp,Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1e76bc91-320e-42c4-8f16-139b994c48cb/99/image.jpg",
+      "caption": "Blick von der Terrasse, Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6089bcc4-a5f7-46a4-baaf-e5a35556e9c3/99/image.jpg",
+      "caption": "Gartenansicht, Sonnen-Alp,Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4086b89a-f6dc-4364-a58d-756f3cef6df0/99/image.jpg",
+      "caption": "Unser Haus und Hofkutscher OTTO"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b823a80c-638c-488c-b7ed-0cdd0843e4df/99/image.jpg",
+      "caption": "Mit Gästen Hax´n essen auf der Wildmoosalm"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3370304813114",
+    "longitude": "11.1884701251984"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Einzelzimmer, Dusche, WC",
+      "description": "Das Einzelzimmer ist mit DU/WC, Radio, Kabel-TV und kleinem Kühlschrank ausgestattet.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Einzelzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "54.00",
+          "maxPrice": "59.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Die Doppelzimmer sind mit DU/WC, Safe, Radio, Kabel-TV und Minibar ausgestattet.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "52.00",
+          "maxPrice": "85.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "49.00",
+          "maxPrice": "54.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "48.00",
+          "maxPrice": "52.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Bad, WC",
+      "description": "Die Doppelzimmer sind mit DU/WC, Safe, Radio, Kabel-TV und Minibar ausgestattet.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Bad, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "75.00",
+          "maxPrice": "85.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "49.00",
+          "maxPrice": "54.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "48.00",
+          "maxPrice": "54.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC",
+      "description": "Das Studio besteht aus einem Schlafzimmer mit Wohnteil, 2-4 Personen, Bad/WC, Terrasse, Telefon, Kabel-TV, Minibar.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Studio mit Bad, WC",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "85.00",
+          "maxPrice": "95.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "54.00",
+          "maxPrice": "59.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "48.00",
+          "maxPrice": "59.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "48.00",
+          "maxPrice": "59.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC",
+      "description": "Das Appartement ist mit Schlafzimmer und Wohnzimmer (2-4 Personen,) Bad/WC, Südbalkon, Safe, Telefon, Kabel-TV, Minibar ausgestattet.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Hotelappartement mit Bad, WC",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "60.00",
+          "maxPrice": "65.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "48.00",
+          "maxPrice": "65.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "48.00",
+          "maxPrice": "65.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "8. Internationale Porsche Karwendel Trophy",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Porsche Club Tirol",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Templstr. 8",
+      "addressLocality": "Innsbruck",
+      "postalCode": "6020",
+      "addressCountry": "AT",
+      "telephone": "0043 512 5813670",
+      "email": "h.demanega@porscheclubtirol.at",
+      "url": "http://www.karwendel-trophy.at"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Porsche Club Tirol",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Templstr. 8",
+      "addressLocality": "Innsbruck",
+      "postalCode": "6020",
+      "addressCountry": "AT",
+      "telephone": "0043 512 5813670",
+      "email": "h.demanega@porscheclubtirol.at",
+      "url": "http://www.karwendel-trophy.at"
+    }
+  },
+  "description": "Schnurrende Motoren und schnittige Optik: die Fahrzeuge aus dem Hause Porsche beeindrucken nachhaltig. Stolze Liebhaber der heißen Eisen treffen sich in der Region, um bei einer Rundfahrt nach Roadbook (u.a. ins alpine Kühtai) sowohl Geschicklichkeit als auch Sportlichkeit am Lenker unter Beweis zu stellen. Der Concours Elegance durch Seefelds Zentrum bietet auch Zuschauern die Gelegenheit, die attraktiven Automobile zu bewundern. Unterschiedliche Side-Events runden das Wochenende ab und laden zum geselligen Beisammensein. \nProgramm: Freitag: Bis 17:00 Uhr, Anreise/Check-in im Krumers Post Hotel, Briefing der Fahrer (Unterlagen \u0026 Startnummern); 19:00 Uhr, Begrüßung mit Aperitif an der Bar; 19:30 Uhr, Abendessen; 21:00 Uhr, Empfang im Casino Seefeld. Samstag: ab 9:30 Uhr, Aufstellung der Fahrzeuge; 9:45 Uhr, Minutenstart zur Roadbook geführten Rundfahrt; 16:00-17:00 Uhr: Zieleinlauf Parkplatz Krumers Post Hotel; 19:30 Uhr, Porsche Night mit Siegerehrung im Hotel. Sonntag: 9:00 Uhr, Aufstellung zum Concours-Elégance, 10:00 Uhr, Porsche Parade rund um Seefeld, ab 11:30 Uhr: Frühschoppen, Ausklang und Heimreise. Detaillierte Informationen: www.karwendel-trophy.at.\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6a20217c-972b-42c2-ad94-864777f5edef/99/image.jpg",
+      "caption": "Porschetreffen"
+    }
+  ],
+  "url": [
+    "http://www.karwendel-trophy.at"
+  ],
+  "startDate": "2017-05-19T09:30:00",
+  "endDate": "2017-05-21"
+}

@@ -1,0 +1,29 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Landform"
+  ],
+  "name": "Lottenseehütte",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3241770245305",
+    "longitude": "11.1282598038574"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Lottenseehütte",
+    "streetAddress": "Brand 7",
+    "addressLocality": "Telfs-Buchen",
+    "postalCode": "6410",
+    "addressCountry": "AT",
+    "telephone": "(0043) 6644003132"
+  },
+  "description": "Periodischer Badesee, Stempelstelle",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7c20cc80-f3ea-46d1-ba88-2da62e91b038/99/image.jpg",
+      "caption": "Lottensee- \u0026 -hütte"
+    }
+  ]
+}

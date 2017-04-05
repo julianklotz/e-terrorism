@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure"
+  ],
+  "name": "Parkplatz Schraffelbrücke P3",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3840189237794",
+    "longitude": "11.2717343304719"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Gemeinde Scharnitz",
+    "streetAddress": "Adolf-Klinge-Platz 72",
+    "addressLocality": "Scharnitz",
+    "postalCode": "6108",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5213 5204 0",
+    "email": "gemeinde@scharnitz.tirol.gv.at",
+    "url": "http://www.scharnitz.tirol.gv.at"
+  },
+  "description": "Gebührenpflichtig \nParkplatz Schraffelbrücke:\nParkdauer:  Tag 6,00 € ( sechs Euro), 3 Tage 10,00 € (zehn Euro), 4.-9. Tag 15,00 € (fünfzehn Euro)\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/77c0e179-f59c-4bf7-8362-a45451ff3b7a/99/image.jpg",
+      "caption": "Parkplatz"
+    }
+  ],
+  "url": [
+    "http://www.scharnitz.tirol.gv.at",
+    "http://www.karwendel.org"
+  ]
+}

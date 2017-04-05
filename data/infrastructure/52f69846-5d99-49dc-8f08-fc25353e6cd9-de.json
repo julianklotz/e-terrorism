@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportingGoodsStore"
+  ],
+  "name": "Schuh \u0026 Sport Rödlach",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3676511",
+    "longitude": "11.1424589"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Ferienwohnung Spar-Markt",
+    "streetAddress": "Kirchplatzl 128",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "0043 5214 6312",
+    "faxNumber": "0043 5214 6488",
+    "email": "roedlach@aon.at",
+    "url": "http://www.haus-tanneck.at"
+  },
+  "description": "Kirchplatzl 128 b\nTel.: +43 5214/6488",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9bbc9498-11d8-408c-acfd-c0b87d1dcbec/99/image.jpg",
+      "caption": "schuh"
+    }
+  ]
+}

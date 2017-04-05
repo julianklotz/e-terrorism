@@ -1,0 +1,89 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://web.deskline.net/seefeld/de/show_accommodation/SEE/0f0790b2-53e8-40bc-9b45-d620d0580c08/haus_andreas_hofer",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Andreas Hofer",
+    "streetAddress": "Unterkelle 386 a",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0049) 4352 5300",
+    "faxNumber": "(0049) 4352 5263",
+    "email": "cvogel1@aon.at"
+  },
+  "name": "Haus Andreas Hofer",
+  "description": [
+    "Abseits gelegen - nahe Wald - zwischen Seefeld und Leutasch - sehr ruhige Lage, Stellplätze für PKW vorhanden - großer Garten",
+    "Inklusive: Heizung, Wasser, Stromkosten, Stellplatz für PKW\nExklusive: Ortstaxe, Endreinigung",
+    "München nach Garmisch-Partenkirchen, weiter nach Mitterwald und von dort Richtung Seefeld. Seefeld in Richtung Leutasch und ca: nach 2,5 km rechts in die Unterkelle abbiegen. 1. Haus auf der rechten Seite!"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4d0ea27d-b08b-447f-a279-c8c79d4a70d6/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3ac6156c-0469-4973-bcfe-75f3b4cad1e6/99/image.jpg",
+      "caption": "Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.349444028441",
+    "longitude": "11.185766870305"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 2 Schlafräume",
+      "description": "große FW - 2 Schlafzimmer - Wohnzimmer - 1 Bad - 1 Küche - Balkon",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/2 Schlafräume/Dusche, Bad, WC",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 1 Schlafraum",
+      "description": "Große FW - 1 Schlafzimmer - 1 Wohnraum - 1 Küche - 3 separate Bäder (WC, Dusche, Badewanne) - Terrasse",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/1 Schlafraum/Dusche, Bad, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

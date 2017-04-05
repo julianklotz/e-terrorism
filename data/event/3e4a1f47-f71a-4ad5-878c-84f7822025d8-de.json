@@ -1,0 +1,108 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": [
+      "Event"
+    ],
+    "name": "Kultur im Wirtshaus - \"Aufgetischt wie zu Ganghofers Zeiten\"",
+    "eventStatus": "http://schema.org/EventScheduled",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Gasthaus Brücke",
+      "employee": {
+        "@type": "Person",
+        "givenName": "Gabi",
+        "familyName": "Sponring"
+      },
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Burggraben 257",
+        "addressLocality": "Leutasch",
+        "postalCode": "6105",
+        "addressCountry": "AT",
+        "telephone": "(0043) 5214 6930 ",
+        "faxNumber": "(0043) 5214 6275",
+        "email": "zur.bruecke@aon.at",
+        "url": "http://www.zurbruecke-leutasch.com"
+      }
+    },
+    "location": {
+      "@type": "Place",
+      "name": "Gasthaus Brücke",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Burggraben 257",
+        "addressLocality": "Leutasch",
+        "postalCode": "6105",
+        "addressCountry": "AT",
+        "telephone": "(0043) 5214 6930 ",
+        "faxNumber": "(0043) 5214 6275",
+        "email": "zur.bruecke@aon.at",
+        "url": "http://www.zurbruecke-leutasch.com"
+      }
+    },
+    "description": "Leutascher Schmankerln aus der G\u0027wölb\u0027n Kuchl von Franz garniert mit Volksmusik, Informationen und Reservierung Tel. 05214/6930.",
+    "image": [
+      {
+        "@type": "ImageObject",
+        "url": "http://resc.deskline.net/images/SEE/1/5694e224-4ac2-4c7a-b8b4-12df7fa0e38f/99/image.jpg",
+        "caption": "kiwi"
+      }
+    ],
+    "startDate": "2017-06-04T18:00:00",
+    "endDate": "2017-06-04"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": [
+      "Event"
+    ],
+    "name": "Kultur im Wirtshaus - \"Aufgetischt wie zu Ganghofers Zeiten\"",
+    "eventStatus": "http://schema.org/EventScheduled",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Gasthaus Brücke",
+      "employee": {
+        "@type": "Person",
+        "givenName": "Gabi",
+        "familyName": "Sponring"
+      },
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Burggraben 257",
+        "addressLocality": "Leutasch",
+        "postalCode": "6105",
+        "addressCountry": "AT",
+        "telephone": "(0043) 5214 6930 ",
+        "faxNumber": "(0043) 5214 6275",
+        "email": "zur.bruecke@aon.at",
+        "url": "http://www.zurbruecke-leutasch.com"
+      }
+    },
+    "location": {
+      "@type": "Place",
+      "name": "Gasthaus Brücke",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Burggraben 257",
+        "addressLocality": "Leutasch",
+        "postalCode": "6105",
+        "addressCountry": "AT",
+        "telephone": "(0043) 5214 6930 ",
+        "faxNumber": "(0043) 5214 6275",
+        "email": "zur.bruecke@aon.at",
+        "url": "http://www.zurbruecke-leutasch.com"
+      }
+    },
+    "description": "Leutascher Schmankerln aus der G\u0027wölb\u0027n Kuchl von Franz garniert mit Volksmusik, Informationen und Reservierung Tel. 05214/6930.",
+    "image": [
+      {
+        "@type": "ImageObject",
+        "url": "http://resc.deskline.net/images/SEE/1/5694e224-4ac2-4c7a-b8b4-12df7fa0e38f/99/image.jpg",
+        "caption": "kiwi"
+      }
+    ],
+    "startDate": "2017-09-10T18:00:00",
+    "endDate": "2017-09-10"
+  }
+]

@@ -1,0 +1,118 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": [
+      "Event"
+    ],
+    "name": "Konzert der Zarewitsch Don Kosaken",
+    "eventStatus": "http://schema.org/EventScheduled",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Raskov Musik Management",
+      "employee": {
+        "@type": "Person",
+        "familyName": "Rasinski"
+      },
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Bayerhamerstr. 31",
+        "addressLocality": "Salzburg",
+        "postalCode": "5020",
+        "addressCountry": "AT",
+        "telephone": "+43662870438",
+        "email": "raskovmusic@utanet.at",
+        "url": "http://www.raskovmusic.com"
+      }
+    },
+    "location": {
+      "@type": "Place",
+      "name": "Raskov Musik Management",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Bayerhamerstr. 31",
+        "addressLocality": "Salzburg",
+        "postalCode": "5020",
+        "addressCountry": "AT",
+        "telephone": "+43662870438",
+        "email": "raskovmusic@utanet.at",
+        "url": "http://www.raskovmusic.com"
+      }
+    },
+    "description": "Erleben Sie das Konzert der ZAREWITSCH DON KOSAKEN in Seefeld! Das Ensemble wird mit geistlichen Gesänge, russischen Volksweisen, aber auch klassischen Kunstliedern das Publikum in den Bann von Mütterchen Russland ziehen. Kartenvorverkauf: Infobüro Seefeld, Restkarten an der Abendkasse, 1 Stunde vor Konzertbeginn.   ",
+    "image": [
+      {
+        "@type": "ImageObject",
+        "url": "http://resc.deskline.net/images/SEE/1/0794795d-8694-4ee2-9838-6f51c5415a7f/99/image.jpg",
+        "caption": "Kosaken"
+      },
+      {
+        "@type": "ImageObject",
+        "url": "http://resc.deskline.net/images/SEE/1/7293aee3-c9db-4176-a719-0bbb5f50b5d5/99/image.jpg",
+        "caption": "Pfarrkirche"
+      }
+    ],
+    "url": [
+      "http://www.seefeld.com"
+    ],
+    "startDate": "2017-06-18T20:30:00",
+    "endDate": "2017-06-18"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": [
+      "Event"
+    ],
+    "name": "Konzert der Zarewitsch Don Kosaken",
+    "eventStatus": "http://schema.org/EventScheduled",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Raskov Musik Management",
+      "employee": {
+        "@type": "Person",
+        "familyName": "Rasinski"
+      },
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Bayerhamerstr. 31",
+        "addressLocality": "Salzburg",
+        "postalCode": "5020",
+        "addressCountry": "AT",
+        "telephone": "+43662870438",
+        "email": "raskovmusic@utanet.at",
+        "url": "http://www.raskovmusic.com"
+      }
+    },
+    "location": {
+      "@type": "Place",
+      "name": "Raskov Musik Management",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Bayerhamerstr. 31",
+        "addressLocality": "Salzburg",
+        "postalCode": "5020",
+        "addressCountry": "AT",
+        "telephone": "+43662870438",
+        "email": "raskovmusic@utanet.at",
+        "url": "http://www.raskovmusic.com"
+      }
+    },
+    "description": "Erleben Sie das Konzert der ZAREWITSCH DON KOSAKEN in Seefeld! Das Ensemble wird mit geistlichen Gesänge, russischen Volksweisen, aber auch klassischen Kunstliedern das Publikum in den Bann von Mütterchen Russland ziehen. Kartenvorverkauf: Infobüro Seefeld, Restkarten an der Abendkasse, 1 Stunde vor Konzertbeginn.   ",
+    "image": [
+      {
+        "@type": "ImageObject",
+        "url": "http://resc.deskline.net/images/SEE/1/0794795d-8694-4ee2-9838-6f51c5415a7f/99/image.jpg",
+        "caption": "Kosaken"
+      },
+      {
+        "@type": "ImageObject",
+        "url": "http://resc.deskline.net/images/SEE/1/7293aee3-c9db-4176-a719-0bbb5f50b5d5/99/image.jpg",
+        "caption": "Pfarrkirche"
+      }
+    ],
+    "url": [
+      "http://www.seefeld.com"
+    ],
+    "startDate": "2017-09-16T20:30:00",
+    "endDate": "2017-09-16"
+  }
+]

@@ -1,0 +1,204 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://www.hotel-wetterstein-seefeld.com",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Hotel Wetterstein",
+    "streetAddress": "Mösererstraße 120",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 50326",
+    "email": "info@wetterstein-seefeld.com",
+    "url": "http://www.hotel-wetterstein-seefeld.com"
+  },
+  "name": "Hotel Wetterstein",
+  "description": [
+    "Das komplett neu renovierte Hotel Wetterstein befindet sich nur 2 Gehminuten vom Ortszentrum entfernt. Mit seiner wunderbaren Sonnenterasse und atemberaubenden Blick auf das Seekirchl und die Tiroler Berwelt, bietet das Hotel Wetterstein Erholung vom Anfang bis zum Ende Ihres Urlaubs. \n",
+    "Unser Hotel ist durch eine Tunnel mit dem Olympia-Sport und Kongresszentrum verbunden.\nIm Erdgeschoß befindet sich eine Langlaufschule sowie ein Skiverleih. Direkter Loipeneinstieg. ",
+    "Check in : 14.00 Uhr\nCheck out: 11:00 Uhr\n"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "reviewCount": "152"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0c6ea429-7144-41e2-af00-1291766f3ed7/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e5b4bbe2-b7a1-4c40-a1dc-870e45bb698c/99/image.jpg",
+      "caption": "Wetterstein"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c123a1fc-c48a-48aa-99aa-b0353bb698c0/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/928040ca-f1f8-4a99-b449-dedfbb8fe1bf/99/image.jpg",
+      "caption": "Sommer Aussicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2779446d-d105-445c-aa73-85651f41e361/99/image.jpg",
+      "caption": "Aussicht Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9b6d93b0-0a14-447d-8a9f-b2cff82af779/99/image.jpg",
+      "caption": "Woods Restaurant"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5e199d30-3802-4454-b47a-641f16fc7c73/99/image.jpg",
+      "caption": "Bar"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a7799166-176e-40f5-8a6d-31377b34be62/99/image.jpg",
+      "caption": "Restaurant Woods"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1e242cd1-d735-4062-ba2c-3d387aa6c0e9/99/image.jpg",
+      "caption": "Rezeption "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/095465c2-7cf9-4ebd-a671-60deafaef262/99/image.jpg",
+      "caption": "Eingang"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b6355fce-7992-4b0c-8ba8-0d8600cc5b73/99/image.jpg",
+      "caption": "Das Hotel"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3283848323256",
+    "longitude": "11.1824351549149"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Familienzimmer, Dusche und Bad, WC, Deluxe",
+      "description": "Suite, modernes Design, neu ausgestattet im Dezember 2007. 2 Doppelzimmer,2 Badezimmer mit Toiletten, Bad oder Dusche. Wohnzimmer mit Küchenzeile (komplett ausgestattet), LCD-TV, Internetanschluss sowie\nZustellmöglichkeit für Babybett.\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Familienzimmer Deluxe",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "3"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche und Bad, WC, Deluxe",
+      "description": [
+        "Luxus Suite, hochklassisches Mobiliar, neu ausgestattet im Dezember 2007.",
+        "Deluxe zimmer, hochklassisches Mobiliar, neu ausgestattet im Dezember 2007. Doppel Deluxe Zimmer: ein Schlafzimmer für 2 Personen, Badezimmer mit Toilette, Bad oder Dusche.\nWohnzimmer mit Küchenzeile (komplett ausgestattet), LCD-TV\nInternetanschluss"
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer Deluxe",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "120.00",
+          "maxPrice": "120.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "95.00",
+          "maxPrice": "95.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche oder Bad, WC",
+      "description": "Ein Schlafzimmer für 2 Personen. Die Doppelzimmer wurden im November 2014 neu renoviert. \nBadezimmer mit Toilette, Bad oder Dusche, LCD-TV\nInternetanschluss.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Standard Zimmer",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "80.00",
+          "maxPrice": "160.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "55.00",
+          "maxPrice": "110.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

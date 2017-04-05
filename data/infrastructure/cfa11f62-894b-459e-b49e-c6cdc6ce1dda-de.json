@@ -1,0 +1,27 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "TouristAttraction"
+  ],
+  "name": "Möserer Höhe",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Infobüro Mösern",
+    "streetAddress": "Möserer Dorfstraße 11",
+    "addressLocality": "Mösern/Buchen",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "+4350880520",
+    "email": "info.moesern@seefeld.com",
+    "url": "http://www.seefeld.com"
+  },
+  "description": "Stempelstelle",
+  "url": [
+    "http://www.seefeld.com"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure"
+  ],
+  "name": "Parkplatz Kirchplatzl",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3690480406676",
+    "longitude": "11.1443330208435"
+  },
+  "description": "Gebührenpflichtig.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8faa5a3f-2e95-4af2-ac08-cd006c4f286b/99/image.jpg",
+      "caption": "Parkplatz"
+    }
+  ]
+}

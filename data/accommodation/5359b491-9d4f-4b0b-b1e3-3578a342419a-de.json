@@ -1,0 +1,89 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.boeckenhof.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Gästehaus Böckenhof",
+    "streetAddress": "Puitbach 218a",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 20294",
+    "faxNumber": "(0043) 5214 20294",
+    "email": "boeckenhof@aon.at",
+    "url": "http://www.boeckenhof.at"
+  },
+  "name": "Gästehaus Böckenhof",
+  "description": [
+    "Unser Haus liegt in einer ruhigen Lage am Waldrand und ist Ausgangpunkt für Wanderungen. Ideal für Kinder. Loipennähe.Schulklassen herzlich willkommen. Ideales Haus für Ihre Gruppenfreizeit.\n\nWir freuen uns auf Ihre Anfrage!\nFamilie Heis\n",
+    "Solarium: pro halbe Stunde 4,00 €",
+    "Check in 14.00 Uhr - Check out 11.00 Uhr\nMautfrei über Mittenwald",
+    "Gruppenhaus,Gruppenhaus Tirol,Selbstversorgerhaus Tirol,Klassenfahrt Tirol,Skilager Tirol,Jugendgrup"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0df52e8e-4719-4024-b787-f29543ad7f8b/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/14794c98-2dde-46ab-9e00-77e06efeae92/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f1d44aee-2073-4a48-9928-94ebadffe0c4/99/image.jpg",
+      "caption": "Grundriss EG"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9460503a-d2a4-460d-af34-518765a71d4c/99/image.jpg",
+      "caption": "Grundriss 1. Stock"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/bbb0c2f6-1c40-4839-98e1-5011938db455/99/image.jpg",
+      "caption": "Grundriss 2. Stock"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.389088178505",
+    "longitude": "11.173547564985"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, fl. k/w Wasser",
+      "description": "Neu renovierte Zimmer, teilweise mit Balkon.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit fl. Wasser",
+          "description": "Ideales Haus für Ihre Gruppenfreizeit, Skilager, Klassenfahrt nach Tirol. Das Haus wird immer nur an eine Gruppe vermietet!\nDas Haus wird ab 20 Personen vermietet. Kleinere Gruppen auf Anfrage!",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

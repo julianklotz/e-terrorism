@@ -1,0 +1,289 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://www.tirolerweinstube.at",
+    "http://www.culinarium-alpentraum.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Gasthof Tiroler Weinstube",
+    "streetAddress": "Dorfplatz 130",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "0043 5212 2208",
+    "faxNumber": "0043 5212 2208 22",
+    "email": "info@tirolerweinstube.at",
+    "url": "http://www.tirolerweinstube.at"
+  },
+  "name": "Tiroler Weinstube",
+  "description": [
+    "Im Herzen von Seefeld laden unsere neu gestalteten, geräumigen Appartements zum Entspannen und Genießen ein. Exklusive Materialien wie Holz- und Steinböden, komfortable Betten und Couchen, hochwertige Küchen und unsere Liebe zum Detail machen unsere 15 Appartements einzigartig - da bleiben keine Wünsche offen.Die Tiroler Weinstube ist durch seine zentrale Lage der perfekte Ausgangspunkt für unzählige Aktivitäten in und um Seefeld. Ihr Auto können Sie auf unserem Gratis Parkplatz \"in Urlaub schicken\" während Sie entspannt Ihre Freizeitaktivitäten planen. Sollten Sie nach einem ereignisreichen Tag nicht selbst kochen wollen, so lassen Sie sich im hauseigenen Restaurant verwöhnen. Das Restaurant Tiroler Weinstube rundet unser Angebot perfekt ab. Ob Sie typische Tiroler Schmankerl oder Gerichte mit einem Hauch Moderne genießen möchten, unser Küchenchef Michael Seyrling und sein Team verwöhnt unsere Gäste mit Leib und Seele bei ganztägig warmer Küche.\nDie gemütlichen Räumlichkeiten verbinden Gastlichkeit mit Tradition und es zeigt sich auch hier wieder die Liebe zum Detail, welche im Familienbetrieb groß geschrieben wird. Der Außenbereich lädt zum Verweilen ein und lässt unsere Gäste das Dorfgeschehen hautnah miterleben.\n\nAuthentischer kann Ihr Urlaub in der Olympiaregion Seefeld wohl kaum sein: Direkt am Dorfplatz gelegen, moderne, gemütliche Appartements, traditionelle Tiroler Küche vom Chef des Hauses zubereitet. Und vielleicht lauschen Sie auch der ein oder anderen interessanten Dorfgeschichte, die am legendären Stammtisch erzählt wird.",
+    "Parkplatz kostenlos\nGarage: Winter € 10,- Sommer €5.-",
+    "Check-Out 11.00 Uhr\nWeg: Folgen Sie den gelben Hotelwegweisern. Unser Haus liegt mitten im Dorfzentrum. Fußgängerzone Zufahrt bei An- und Abreise erlaubt."
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "reviewCount": "13"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a3d2020e-37bb-4d23-a486-d793552b7a49/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/87d5be75-3334-4f18-a2a8-0596df84e599/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b92b425c-fd1b-4971-bd24-82a3281ab605/99/image.jpg",
+      "caption": "Weinstube-Seefeld-ausen-2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/cfe6b91a-9f18-4576-99fe-e89ee68c2068/99/image.jpg",
+      "caption": "Restaurant 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8470c50f-5d0f-47ee-8fc6-6eea7221b859/99/image.jpg",
+      "caption": "Restaurant"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/137fe503-1d8e-429e-b573-97644a4ee498/99/image.jpg",
+      "caption": "Stammtisch"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a5cf26ab-9748-4df0-9f4c-c015ffcee456/99/image.jpg",
+      "caption": "Stube"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3289520419135",
+    "longitude": "11.1871826648712"
+  },
+  "paymentAccepted": [
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, 2 Schlafräume",
+      "description": "Familien\nAppartement\nWohnraum mit Küche, Essplatz, 2 Schlafzimmer, 2 Bäder mit Dusche, WC separat, Flat TV, Balkon\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Familien Appartement",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "249.00",
+          "maxPrice": "249.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "249.00",
+          "maxPrice": "249.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "249.00",
+          "maxPrice": "249.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, 2 Schlafräume",
+      "description": "Wohn-Schlafraum, Essplatz, Küche, Bad mit Dusche und Infrarotkabine, WC separat, Balkon, 1 Schlafzimmer mit Dusche und WC, rollstuhlgerecht, Flat TVs",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Komfort Appartement",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "295.00",
+          "maxPrice": "295.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "295.00",
+          "maxPrice": "295.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "295.00",
+          "maxPrice": "295.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "295.00",
+          "maxPrice": "295.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Standard plus\nAppartement\nWohnraum mit Küche, Essplatz, Couch mit Ausziehfunktion, Schlafzimmer, Bad mit Dusche und WC, Flat TV, Balkon\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Standard Plus Appartement",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "235.00",
+          "maxPrice": "235.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "235.00",
+          "maxPrice": "235.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, 1 Schlafraum",
+      "description": "Deluxe\nAppartement\nWohnraum mit Küche, Essplatz, Couch mit Ausziehfunktion, Schlafzimmer, Bad mit Dusche und Infrarotkabine, WC separat, Flat TV, Balkon ",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Deluxe Appartement",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "295.00",
+          "maxPrice": "295.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "295.00",
+          "maxPrice": "295.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Standard\nAppartement\nWohn - Schlafraum mit Küche, Essplatz, Bad mit Dusche und WC, Flat TV\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Standard Appartement",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "225.00",
+          "maxPrice": "225.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "225.00",
+          "maxPrice": "225.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

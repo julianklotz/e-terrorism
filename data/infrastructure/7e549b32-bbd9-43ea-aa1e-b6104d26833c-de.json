@@ -1,0 +1,33 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure"
+  ],
+  "name": "Tillfussalm",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3716256873066",
+    "longitude": "11.0401830362549"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Tillfussalm",
+    "streetAddress": "Wettersteingebirge Leutasch",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 5516344",
+    "url": "http://www.tillfussalm.at"
+  },
+  "description": "Akkuladestation\n\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/be402676-a991-4784-8cff-2856901c2d52/99/image.jpg",
+      "caption": "Akkuladestation"
+    }
+  ],
+  "url": [
+    "http://www.tillfussalm.at"
+  ]
+}

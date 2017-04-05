@@ -1,0 +1,42 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CafeOrCoffeeShop"
+  ],
+  "name": "Mocca-Mühle, Hotel Elite",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3300537200537",
+    "longitude": "11.1884164810181"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Moccamühle, Hotel Elite",
+    "streetAddress": "Andreas Hofer Str. 39",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2901",
+    "email": "office@elite-seefeld.at",
+    "url": "http://www.elite-seefeld.at"
+  },
+  "description": [
+    " ",
+    "Sitzplätze für ca. 150 Personen\n\nWir verwöhnen Sie in unserem Tagescafe \"Mocca-Mühle\", einem Treffpunkt in Seefeld, mit ausgezeichneten Torten von unserem Konditor und kleinen Speisen. \nGenießen Sie auch einen exquisiten Tropfen aus unserem Weinkeller. "
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c005fe81-2459-4291-8581-e5a9933805f1/99/image.jpg",
+      "caption": "Maccamühle, Hotel Elite Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7508e3ca-5f1c-415a-a664-4898a8a73f01/99/image.jpg",
+      "caption": "Moccamühle, Hotel Elite Winter"
+    }
+  ],
+  "url": [
+    "http://www.elite-seefeld.at"
+  ]
+}

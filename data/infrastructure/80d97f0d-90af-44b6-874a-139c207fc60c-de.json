@@ -1,0 +1,30 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Store"
+  ],
+  "name": "Tiroler Bio Alpakas, Bauernladen",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.337619",
+    "longitude": "11.1798584000001"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Tiroler Bio Alpakas",
+    "streetAddress": "Triendlsäge Weg 925",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043)676 7507575",
+    "url": "http://www.bioalpakas.at"
+  },
+  "description": "Freitag, 13.00 - 17.00 Uhr, Samstag, 09.00 - 12.00 Uhr und auf Anfrage. Ausnahmen Öffnungszeiten siehe Hompepage.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7f07cfbc-1e1b-417a-9e9f-23abdd692308/99/image.jpg",
+      "caption": "Alpakas"
+    }
+  ]
+}

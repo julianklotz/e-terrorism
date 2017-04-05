@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SkiResort",
+    "BarOrPub",
+    "FastFoodRestaurant"
+  ],
+  "name": "Campingstüberl / Bar/ Café",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3847414892368",
+    "longitude": "11.2625232338905"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Karwendelcamp",
+    "streetAddress": "Oberdorf 390",
+    "addressLocality": "Scharnitz",
+    "postalCode": "6108",
+    "addressCountry": "AT",
+    "telephone": "+4369910109009 ",
+    "faxNumber": "+4352135119",
+    "email": "office@karwendelcamp.at",
+    "url": "http://www.karwendelcamp.at"
+  },
+  "description": "Sitzplätze für ca. 39 Personen",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8c82746f-8e87-443f-9622-4a46d5141e8b/99/image.jpg",
+      "caption": "Campstüberl Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3ef107d1-5725-4b51-a0a1-acf2758ef39a/99/image.jpg",
+      "caption": "Campstüberl Winter"
+    }
+  ],
+  "url": [
+    "http://www.karwendelcamp.at",
+    "http://www.karwendelcamp.at",
+    "http://www.seefeld.com"
+  ]
+}

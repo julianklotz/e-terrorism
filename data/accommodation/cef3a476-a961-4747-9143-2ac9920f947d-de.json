@@ -1,0 +1,20 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Giessenbach 338",
+    "addressLocality": "Scharnitz",
+    "postalCode": "6108",
+    "addressCountry": "AT",
+    "telephone": "(0049) 15776834699",
+    "email": "isa.charles@gmail.com"
+  },
+  "name": "ZW - Charles Isabelle",
+  "currenciesAccepted": "EUR"
+}

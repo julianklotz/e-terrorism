@@ -1,0 +1,51 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "Maria Heimsuchung",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Pfarramt Reith",
+    "employee": {
+      "@type": "Person",
+      "givenName": "Ernst",
+      "familyName": "Ranalter"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Römerstraße 24",
+      "addressLocality": "Reith bei Seefeld",
+      "postalCode": "6103",
+      "addressCountry": "AT",
+      "telephone": "(0043)521252782 ",
+      "email": "Pfarre.Reith@dibk.at",
+      "url": "http://www.dibk.at"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Pfarramt Reith",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Römerstraße 24",
+      "addressLocality": "Reith bei Seefeld",
+      "postalCode": "6103",
+      "addressCountry": "AT",
+      "telephone": "(0043)521252782 ",
+      "email": "Pfarre.Reith@dibk.at",
+      "url": "http://www.dibk.at"
+    }
+  },
+  "description": "Gemeinsame Wanderung zum \"Frau Häusl\" \nBei schlechtem Wetter in der Pfarrkirche.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0c874e06-4929-4303-8a9c-89d680ede90e/99/image.jpg",
+      "caption": "Maria Heimsuchung"
+    }
+  ],
+  "startDate": "2017-07-02T17:00:00",
+  "endDate": "2017-07-02"
+}

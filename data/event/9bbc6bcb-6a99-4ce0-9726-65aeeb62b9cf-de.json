@@ -1,0 +1,50 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "Winter-Erlebnisse - Ich lern´s in Seefeld - Eisstockschießen",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "ESK Seefeld",
+    "employee": {
+      "@type": "Person",
+      "givenName": "Walter",
+      "familyName": "Krieglsteiner"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Alte Leutascher Str. 617",
+      "addressLocality": "Seefeld",
+      "postalCode": "6100",
+      "addressCountry": "AT",
+      "telephone": "+436641010201"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "ESK Seefeld",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Alte Leutascher Str. 617",
+      "addressLocality": "Seefeld",
+      "postalCode": "6100",
+      "addressCountry": "AT",
+      "telephone": "+436641010201"
+    }
+  },
+  "description": "Das Winter-Erlebnisprogramm bietet 15 einzigartige Abenteuer für Jung und Alt! Exklusiv mit der Olympiaregion Seefeld Card! Gründliche Einweisung in die Technik und ein wenig Regelkunde - Dauer: 15-30 Minuten, anschließend werden Mannschaften gebildet, die gegeneinander spielen. Kosten für die Stock- und Bahnmiete: € 9,00. Anmeldung erforderlich!",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/fa9caa6d-2a79-4bc7-a124-a3faa6b5273b/99/image.jpg",
+      "caption": "Eisschießen1"
+    }
+  ],
+  "url": [
+    "http://http://www.seefeld.com/tirol-service/gaeste-karte"
+  ],
+  "startDate": "2016-12-07T17:00:00",
+  "endDate": "2017-03-08"
+}

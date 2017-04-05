@@ -1,0 +1,28 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Store"
+  ],
+  "name": "Traum \u0026 Heim",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3300137255397",
+    "longitude": "11.1871933937073"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Traum \u0026 Heim ",
+    "streetAddress": "Innsbruckerstr. 14",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 4036651"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/cd8d6ea7-bbe0-41d6-b4e2-5c2ae778c2f0/99/image.jpg",
+      "caption": "Traum \u0026 Heim"
+    }
+  ]
+}

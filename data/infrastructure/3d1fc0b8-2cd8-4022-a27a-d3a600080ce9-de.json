@@ -1,0 +1,27 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "TouristAttraction"
+  ],
+  "name": "Panorama Rundwanderweg",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Infobüro Mösern",
+    "streetAddress": "Möserer Dorfstraße 11",
+    "addressLocality": "Mösern/Buchen",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "+4350880520",
+    "email": "info.moesern@seefeld.com",
+    "url": "http://www.seefeld.com"
+  },
+  "description": "Panorama Rundwanderweg\nStrecke: Mösern/Möserer See – Brunschkopf – retour\nGehzeit: 2 Stunden\nAb dem Parkplatz Möserer See geradeaus (60) in den Wald dann links der Nr. 61 Richtung\nBrunschkopf/Panoramaweg folgen und über den Weg Nr. 63 wieder retour. Auf dem Weg befinden\nsich 3 Aussichtspunkte mit einem grandiosen Ausblick auf die umliegenden Bergketten, die\nauf Schautafeln erklärt werden.",
+  "url": [
+    "http://www.seefeld.com"
+  ]
+}

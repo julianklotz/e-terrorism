@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Church"
+  ],
+  "name": "Cäcilien Kapelle",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3169993570271",
+    "longitude": "11.1944782733917"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Cäcilienkapelle",
+    "streetAddress": "Gschwandtweg",
+    "addressLocality": "Reith bei Seefeld",
+    "postalCode": "6103",
+    "addressCountry": "AT"
+  },
+  "description": [
+    " \n\n",
+    "Einweihung der Kapelle im Jahr 1989\nDie Kapelle wurde 1989  durch die Initiative des damaligen Musik-Obmanns Joseph Saurwein errichtet. An der Errichtung waren Mitglieder der Musikkapelle (z.B.: allen voran Saurwein Peppi, aber auch Armin Lechner, Griesser Markus, Norz Franz), sowie Reither Bürger und damalige HTL-Schüler (oder Berufsschüler, ich bin mir nicht mehr sicher) beteiligt. Die finanziellen Mittel wurden u.a. durch Spenden der Reither Bürger aufgebracht.  Die Kapelle ist der Heiligen Cäcilia gewidmet - der Schutzpatronin der Musikkapellen. Dies erkennt man insbesondere an der goldenen Lyra an der Vorderseite die dafür extra von Nairz Alois geschmiedet wurde. Auffallend an der Kapelle ist auch das moderne, asymmetrische Dach.\n\n"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b439888d-d69a-4382-9e2c-5d74a564950e/99/image.jpg",
+      "caption": "Kapelle"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d52cdd37-53cd-4231-9fc0-828aee53e279/99/image.jpg",
+      "caption": "Cäciliakapelle"
+    }
+  ]
+}

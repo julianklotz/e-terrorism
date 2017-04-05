@@ -1,0 +1,717 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://www.schoenruh.kaltschmid.info",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Hotel Stefanie",
+    "streetAddress": "Reitherspitzstr. 384",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 50480",
+    "faxNumber": "(0043) 5212 235843",
+    "email": "stefanie@kaltschmid.info",
+    "url": "www.haus-stefanie-seefeld.com"
+  },
+  "name": "Hotel Stefanie",
+  "description": [
+    "Sie suchen ein etwas kleineres und gemütliches Haus für Ihre schönsten Tage im Jahr und wollen dennoch alle Annehmlichkeiten eines großen Hauses nicht missen? Dann sind Sie bei uns genau richtig, denn als unser Gast können Sie alle Einrichtungen des Wellnesshotels Schönruh - gegenüber - mitbenutzen, aber auch in der angenehm, behaglichen Atmosphäre unseres Hauses entspannen. Im Haus Stefanie bieten wir ihnen Hallenbad, Sauna, Solarium, Hausbar, Sonnenterrasse, Parkplatz. Unsere Zimmer sind ausgestattet mit Bad oder Dusche, WC, Radio, Telefon, Kabel-TV, Safe, großteils mit Balkon oder Terrasse. Großzügiges Frühstücksbuffet im Haus Stefanie, Abendessen im Rahmen der Verwöhnpension im Wellnesshotel Schönruh möglich! (Kinder sind ab 16 Jahren willkommen!)\n",
+    "Kostenlos: Teilnahme am wöchentlich wechselnden Animationsprogramm im Wellnesshotel Schönruh mit Tanz- und Musikabenden, Gymnastik, freie Benützung von Hallenbad und Sauna, Fitnessecke, sowie die Benützung des Wellnessbereichs im Wellnesshotel Schönruh, Gästeshuttle zum Bahnhof in Seefeld.\nKostenpflichtig: Haustiere (€9.-/Tag), Solarium (€5.-)",
+    "Aus Richtung Garmisch: Ausfahrt Seefeld Mitte-\u003eRichtung Zentrum-\u003eKreisverkehr 3.Ausfahrt -\u003eRömerweg-\u003ekreisverkehr 1.Ausfahrt-\u003eReitherspitzstr.-\u003eHotel nach ca. 60 m auf der linken Seite\nAus Richtung Innsbruck: Selbe Ausfahrt\nAus Richtung Telfs/Mösern: Bei der WM-Tennishalle rechts auf die Südumfahrung (durch den Tunnel), nächste links, in die Innsbruckerstraße-\u003eStraße folgen-\u003eGerade aus über den Bahnübergang in die Reitherspitzstraße-\u003eHotel nach ca. 400 m auf der rechten Seite"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "reviewCount": "291"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4d0f64fa-805f-44c2-a2dd-4be00b0e04bb/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/00a344df-d556-4435-a5a6-eed57ba69604/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c855877d-1a29-49a3-b8bc-18ddedd73bb9/99/image.jpg",
+      "caption": "Sommer 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6961ca2b-ccde-4192-9b05-a4d9edbad38c/99/image.jpg",
+      "caption": "Pool"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c6d9511d-a286-416c-95c8-b27258c2e47a/99/image.jpg",
+      "caption": "Familie Kaltschmid"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3116565c-adf7-4479-b337-96c29d96cac3/99/image.jpg",
+      "caption": "Wellness"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/19a40978-7ab7-45e3-903a-6745151d3020/99/image.jpg",
+      "caption": "Garten"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/fae1594d-787d-43fe-8145-89b12544bdac/99/image.jpg",
+      "caption": "Teich"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/aaa7fb08-890a-4883-a2ac-51363a078592/99/image.jpg",
+      "caption": "Terrasse"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f6199d7b-a588-4891-b83e-146086c92de4/99/image.jpg",
+      "caption": "Frühstück"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ba626e32-ef2e-497d-837a-4c974b74186b/99/image.jpg",
+      "caption": "Bar"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/892d84f9-42c7-4496-9f55-a2e017c1d799/99/image.jpg",
+      "caption": "Stube"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4b09411e-63c8-4638-94ec-5b37548447bb/99/image.jpg",
+      "caption": "Wellness Liegen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/88bcbbbf-9a28-4932-aec5-65c3d561f0c2/99/image.jpg",
+      "caption": "Pool mit Liegen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ed69f8b2-7502-410b-bd67-f18897c3664a/99/image.jpg",
+      "caption": "Wellness Ruheraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1a3c997a-4a78-4a60-80ac-0a563abebe0c/99/image.jpg",
+      "caption": "Wellness Entspannen "
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3264977258156",
+    "longitude": "11.1952292919159"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche oder Bad, WC",
+      "description": [
+        "Bad oder Dusche, WC, Haarföhn, Kosmetikspiegel, TV, Telefon und Zimmersafe, ca. 18-22m² ...",
+        "Gemütliche Zimmer, individuell eingerichtet, ca. 18 - 22 m2"
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "DZ ohne Balkon \"Enzian\" mit HP",
+          "description": "Bad oder Dusche, WC, Haarföhn, Kosmetikspiegel, TV, Telefon und Zimmersafe, ca. 18-22m² ...\n\n",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "DZ ohne Balkon \"Enzian\" mit FÜ",
+          "description": "Bad oder Dusche, WC, Haarföhn, Kosmetikspiegel, TV, Telefon und Zimmersafe, ca. 18-22m² ...\n\n",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "DZ ohne Balkon \"Enzian\" ohne",
+          "description": "Bad oder Dusche, WC, Haarföhn, Kosmetikspiegel, TV, Telefon und Zimmersafe, ca. 18-22m² ...\n\n",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "101.00",
+          "maxPrice": "999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "83.00",
+          "maxPrice": "999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "61.00",
+          "maxPrice": "999.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche oder Bad, WC",
+      "description": [
+        "Bad oder Dusche, WC, Haarföhn, Kosmetikspiegel, TV, Telefon und Zimmersafe, ca. 23-30m² ...",
+        "Gemütliche Zimmer, individuell eingerichtet, ca. 23 - 30m2"
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "DZ ohne Balkon \"Wildsee\" mit HP",
+          "description": "Bad oder Dusche, WC, Haarföhn, Kosmetikspiegel, TV, Telefon und Zimmersafe, ca. 23-30m² ...",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "DZ ohne Balkon \"Wildsee\" mit FÜ",
+          "description": "Bad oder Dusche, WC, Haarföhn, Kosmetikspiegel, TV, Telefon und Zimmersafe, ca. 23-30m² ...",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "DZ ohne Balkon \"Wildsee\" ohne",
+          "description": "Bad oder Dusche, WC, Haarföhn, Kosmetikspiegel, TV, Telefon und Zimmersafe, ca. 23-30m² ...",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "106.00",
+          "maxPrice": "999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "216.00",
+          "maxPrice": "999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "88.00",
+          "maxPrice": "999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "162.00",
+          "maxPrice": "999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "66.00",
+          "maxPrice": "999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "137.70",
+          "maxPrice": "999.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche oder Bad, WC",
+      "description": [
+        "Bad oder Dusche, WC, Haarföhn, Kosmetikspiegel, TV, Telefon und Zimmersafe, ca. 18-22m² ...",
+        "Gemütliche Zimmer, individuell eingerichtet, ca. 18 - 22 m2"
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "DZ mit Balkon \"Birkenwald\" mit HP",
+          "description": "Bad oder Dusche, WC, Haarföhn, Kosmetikspiegel, TV, Telefon und Zimmersafe, ca. 18-22m² ...",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "DZ mit Balkon \"Birkenwald\" mit FÜ",
+          "description": "Bad oder Dusche, WC, Haarföhn, Kosmetikspiegel, TV, Telefon und Zimmersafe, ca. 18-22m² ...",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "DZ mit Balkon \"Birkenwald\" ohne",
+          "description": "Bad oder Dusche, WC, Haarföhn, Kosmetikspiegel, TV, Telefon und Zimmersafe, ca. 18-22m² ...",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "110.00",
+          "maxPrice": "999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "92.00",
+          "maxPrice": "999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "70.00",
+          "maxPrice": "999.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche oder Bad, WC",
+      "description": [
+        "Bad oder Dusche, WC, Haarföhn, Kosmetikspiegel, TV, Telefon und Zimmersafe, ca. 23-30m² ...",
+        "Gemütliche Zimmer, individuell eingerichtet, ca. 23 - 30 m2"
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "DZ mit Balkon \"Karwendel\" mit HP",
+          "description": "Bad oder Dusche, WC, Haarföhn, Kosmetikspiegel, TV, Telefon und Zimmersafe, ca. 23-30m² ...",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "DZ mit Balkon \"Karwendel\" mit FÜ",
+          "description": "Bad oder Dusche, WC, Haarföhn, Kosmetikspiegel, TV, Telefon und Zimmersafe, ca. 23-30m² ...",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "DZ mit Balkon \"Karwendel\" ohne",
+          "description": "Bad oder Dusche, WC, Haarföhn, Kosmetikspiegel, TV, Telefon und Zimmersafe, ca. 23-30m² ...",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "116.00",
+          "maxPrice": "999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "237.60",
+          "maxPrice": "999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "98.00",
+          "maxPrice": "999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "183.60",
+          "maxPrice": "999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "76.00",
+          "maxPrice": "999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "156.60",
+          "maxPrice": "999.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Studio, Bad, WC",
+      "description": [
+        "Badewanne, WC, Haarföhn, Kosmetikspiegel, TV, Telefon, Zimmersafe, Kochecke, ca. 70m² ...",
+        "Gemütliches Studio, Ausziehcouch für die 3. und 4. Person, Kochecke, gr. Südbalkon mit Aussicht auf die Golfakademy, 5. Person: Campingbett"
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Studio \"Panorama\" mit HP",
+          "description": "Badewanne, WC, Haarföhn, Kosmetikspiegel, TV, Telefon, Zimmersafe, Kochecke, ca. 70m² ...",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Studio \"Panorama\" mit FÜ",
+          "description": "Badewanne, WC, Haarföhn, Kosmetikspiegel, TV, Telefon, Zimmersafe, Kochecke, ca. 70m² ...",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Studio \"Panorama\" ohne",
+          "description": "Badewanne, WC, Haarföhn, Kosmetikspiegel, TV, Telefon, Zimmersafe, Kochecke, ca. 70m² ...",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "166.00",
+          "maxPrice": "999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "297.00",
+          "maxPrice": "999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "999.00",
+          "maxPrice": "999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "148.00",
+          "maxPrice": "999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "243.00",
+          "maxPrice": "999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "999.00",
+          "maxPrice": "999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "126.00",
+          "maxPrice": "999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "218.70",
+          "maxPrice": "999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "999.00",
+          "maxPrice": "999.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Einzelzimmer, Dusche oder Bad, WC",
+      "description": [
+        "Bad oder Dusche, WC, Haarföhn, Kosmetikspiegel, TV, Telefon und Zimmersafe, ca. 15m² ...",
+        "Gemütliche Zimmer, individuell eingerichtet, ca. 15m2"
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Einzelzimmer mit HP",
+          "description": "Bad oder Dusche, WC, Haarföhn, Kosmetikspiegel, TV, Telefon und Zimmersafe, ca. 15m² ...",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Einzelzimmer mit FÜ",
+          "description": "Bad oder Dusche, WC, Haarföhn, Kosmetikspiegel, TV, Telefon und Zimmersafe, ca. 15m² ...",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Einzelzimmer ohne",
+          "description": "Bad oder Dusche, WC, Haarföhn, Kosmetikspiegel, TV, Telefon und Zimmersafe, ca. 15m² ...",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "55.00",
+          "maxPrice": "999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "46.00",
+          "maxPrice": "999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "35.00",
+          "maxPrice": "999.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

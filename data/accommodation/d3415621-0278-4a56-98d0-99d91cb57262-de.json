@@ -1,0 +1,18 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Gießenbach 314",
+    "addressLocality": "Scharnitz",
+    "postalCode": "6108",
+    "addressCountry": "AT"
+  },
+  "name": "ZW-Raffeiner Claudia",
+  "currenciesAccepted": "EUR"
+}

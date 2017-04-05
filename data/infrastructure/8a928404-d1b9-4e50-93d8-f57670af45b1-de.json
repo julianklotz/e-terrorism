@@ -1,0 +1,30 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Landform",
+    "Hostel"
+  ],
+  "name": "Meilerhütte",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.4123667882572",
+    "longitude": "11.128926412262"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Wettersteingebirge",
+    "addressLocality": "Garmisch-Partenkirchen",
+    "postalCode": "82467",
+    "addressCountry": "DE",
+    "telephone": "(0049) 171 5227897",
+    "url": "http://www.meilerhuette.de"
+  },
+  "description": "Nur im Sommer geöffnet! Übernachtungsmöglichkeit für 180 Personen, Stempelstelle",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/eba3d1e8-91d4-440a-b02a-2a3646e887d9/99/image.jpeg",
+      "caption": "Meilerhütte"
+    }
+  ]
+}

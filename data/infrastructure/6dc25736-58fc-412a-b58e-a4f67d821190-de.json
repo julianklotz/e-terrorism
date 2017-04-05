@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation"
+  ],
+  "name": "Bergwanderführer Büro Erlebnis Gebirge",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3795861",
+    "longitude": "11.1740754558197"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Emmat 370r",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 20210",
+    "email": "info@erlebnis-gebirge.at",
+    "url": "http://www.erlebnis-gebirge.at"
+  },
+  "description": "Bergwanderführerbüro Leutasch, Sabine und Jochem Müller\nTel.: 05214/20210, \nwww.erlebnis-gebirge.at\nFührungen nach individueller Absprache, kleine\nGruppen, Touren unterschiedlicher Schwierigkeits-grade",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1cb0fb1c-d74c-432d-8195-4b945c7d3472/99/image.jpg",
+      "caption": "erlebnis1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e945b583-847c-4111-9ba5-eeaad3302fef/99/image.jpg",
+      "caption": "Erlebnis Gebirge"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9fa6528e-b9c8-41c6-8267-38b73db90639/99/image.jpg",
+      "caption": "erlebnis"
+    }
+  ],
+  "url": [
+    "http://www.erlebnis-gebirge.at"
+  ]
+}

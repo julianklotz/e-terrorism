@@ -1,0 +1,193 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.haus-witting.com",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Witting",
+    "streetAddress": "Obern 29 b",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6924",
+    "faxNumber": "(0043) 5214 6355",
+    "email": "haus-witting@aon.at",
+    "url": "http://www.haus-witting.com"
+  },
+  "name": "Haus Witting",
+  "description": [
+    "Ruhige, sonnige Lage abseits der Straße. Schöne Aussicht in die unverbaute Landschaft. 5 gemütlich und komfortabel eingerichtete Ferienwohnungen. Alle mit Südbalkon oder Terrasse. Im Sommer ideal zum Wandern und ausspannen, im Winter direkt an der Loipe.\nWir würden uns freuen, Sie kennenzulernen!",
+    "Inklusive: Heizung, Strom, Wasser, Saunabenutzung im Haus, Bettwäsche, Handtücher\nExklusive: Telefonkosten",
+    "Von Mittenwald kommend fahren Sie durch das gesamte Leutaschtal bis zum Ortsteil Obern (Moos ist der letzte Ortsteil). Auf der rechten Seite liegt ein SPAR Geschäft, dort müssen Sie direkt links abbiegen in einen schmalen Weg. Unser Haus ist das letzte auf der rechten Seite."
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "reviewCount": "11"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e02ed6c9-e794-4bb3-a400-a12c9d3039a8/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d3de286e-bd23-432f-bb77-5bfd0ad9ba74/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7d4dba88-8870-4920-ad07-13d0b7b2f3ee/99/image.jpg",
+      "caption": "Carport"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/767ca601-b545-4d97-86e4-43cb2e42d960/99/image.jpg",
+      "caption": "Sauna"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f0b8c305-d712-42e7-8984-71033da49ba0/99/image.jpg",
+      "caption": "Sauna 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/43e906fe-5717-45ff-9538-aac5d1ff93bc/99/image.jpg",
+      "caption": "Spielplatz"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/db29e4c8-abdd-482c-be11-1c8199de0470/99/image.jpg",
+      "caption": "Aussicht vom Balkon Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d13d3a4b-e5e5-4a41-b766-e76a308c126d/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f84f86cb-3ce6-414e-92ca-b14599ab656d/99/image.jpg",
+      "caption": "Aussicht Balkon/Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a824f80e-ac82-44c2-9cd0-2c2d7adef36a/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6c29e4df-1172-48b0-a947-929812e20205/99/image.jpg",
+      "caption": "Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.357522151638",
+    "longitude": "11.124650175195"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Appartement mit 1 seperaten Schlafzimmer, Wohnzimmer mit Küchenzeile, DU/WC und Südbalkon.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "55.00",
+          "maxPrice": "95.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "70.00",
+          "maxPrice": "110.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "85.00",
+          "maxPrice": "125.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "Appartement mit Südbalkon, 1 Doppel- und 1 Einzelzimmer und 1 Wohn- Schlafzimmer für max. 5 Personen.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/2 Schlafräume/Dusche, WC",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "53.00",
+          "maxPrice": "98.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "63.00",
+          "maxPrice": "108.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "73.00",
+          "maxPrice": "118.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "83.00",
+          "maxPrice": "128.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

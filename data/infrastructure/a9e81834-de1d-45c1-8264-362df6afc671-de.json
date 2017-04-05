@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "ToyStore",
+    "Store",
+    "Florist"
+  ],
+  "name": "Raiffeisen Lagerhaus",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3690099",
+    "longitude": "11.1447577"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Lagerhaus",
+    "streetAddress": "Kirchplatzl 128a",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 625017",
+    "faxNumber": "(0043) ",
+    "url": "http://www.lagerhaus.at"
+  },
+  "description": "Kirchplatzl 128 a\nTel.: +43 5214/62 50 17\n\nMo-Fr 07.30 - 12.00 und 14.00 - 17.00 Uhr\nSa 09.00 - 12.00 Uhr\nSonn- und feiertags geschlossen\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0cdf5783-e5a6-4d8d-bb63-2f21fc16c0d9/99/image.jpg",
+      "caption": "logo"
+    }
+  ],
+  "url": [
+    "http://www.lagerhaus.at"
+  ]
+}

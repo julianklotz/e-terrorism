@@ -1,0 +1,157 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.gaestehaus-nocker.at/index.htm",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Gästehaus Nocker",
+    "streetAddress": "Kreuzweg 15",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "0043 5212 2915",
+    "faxNumber": "(0043) 5212 3259",
+    "email": "office@gaestehaus-nocker.at",
+    "url": "http://www.gaestehaus-nocker.at"
+  },
+  "name": "Gästehaus Nocker",
+  "description": [
+    "Erleben Sie einen Urlaub voller Natur, Entspannung und Erholung in unserem mit 3 Edelweiss ausgezeichneten Haus Nocker in Reith bei Seefeld im Ortsteil Krinz - Herzlich Willkommen!\nDie Lage am Ortsrand von Seefeld macht uns zum idealen Ausgangspunkt für Wanderungen, Mountainbike Touren und andere Aktivitäten. Das Ortszentrum von Seefeld, die Fußgängerzone befindet sich ca. 10 Gehminuten von unserem Haus Nocker entfernt. Mit dem 100m entfernten Supermarkt, dem 200m entfernten Skigebiet Rosshütte und die 150m entfernte Loipeneinstiegstelle bieten wir den Gästen ein perfekter Standort für Ihre Erholung.\nUnsere vier komfortablen, hellen und gemütlichen Appartements für 2 Personen verfügen über eine volleingerichtete Küche, Kabel-TV, gratis W-Lan, Fön und eine traumhafte Aussicht auf die umliegende Bergkulisse. Der Garten mit der Liegewiese kann von unseren Gästen gerne mitbenützt werden. Hunde sind bei uns willkommen.\nDer herrliche Bergsommer in unserer Olympia Region besticht mit guter Höhenluft und 650 km Wanderwege davon 266 km Nordic Walking Routen. Die kostenlos geführten Erlebniswanderungen geben nochmals einen Einblick in die sagenhafte Schönheit der Natur auf unserem Seefelder Plateau. Sommersportbegeisterte Gäste haben die Möglichkeit mit dem Rad die zahlreichen Hütten und Almen in unserer Region zu besuchen oder wer nicht so viel treten möchte, probiert es mit dem Segway unter fachkundiger Anleitung. Wer es lieber etwas luftiger hat bucht einfach einen Tandemsprung vom Härmelekopf - Adrenalin pur!\nIn der kalten Jahreszeit stehen Ihnen 271 km täglich frisch gespurte Loipen in verschiedenen Schwierigkeitsgraden zur Verfügung - ein Traum auf zwei schmale Bretter. Wer die schnellere Variante bevorzugt, der schnallt sich die Alpin Ski an und rauf auf die Rosshütte oder dem Gschwandtkopf und genießt das weiße Gold in vollen Zügen. Den Urlaub eher gemütlicher angehen können Sie beim Eisstockschießen, Schlittschuhlaufen oder beim Rodel. Wie Sie auch immer Ihre kostbare Urlaubszeit verbringen wollen, unser Haus Nocker und die Olympiaregion Seefeld stehen für Sie bereit.\nWir würden uns freuen, Sie bald kennenlernen zu dürfen, Ihre Familie Nocker\n\n",
+    "Inkl.: Bettwäsche,Handtücher,Strom, W-LAN,Mikrowelle,Kaffeemaschine,Fön,Kabel-TV,\nExl.: Endreinigung,Kurtaxe;",
+    "Bleiben Sie auf der B 177 und zwischen Seefeld- Süd und Seefeld Mitte befindet sich der Supermarkt M-Preis. Unsere Hauseinfahrt ist genau gegenüber"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/bb3e30e1-1f9b-460c-bc5b-dece293b982c/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3933608d-4aed-45b7-92e9-b657f818bea7/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/01ad1031-7d94-4598-bd7f-a8b297623346/99/image.jpg",
+      "caption": "Sommer 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/20323f16-6065-4020-a8a9-5d55ca89e722/99/image.jpg",
+      "caption": "Sommer 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/66f0ff5f-e868-436f-98d3-72d2bb6c7be1/99/image.jpg",
+      "caption": "Winter Eingang"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1ca4e18c-de58-40c4-b348-47776065769f/99/image.jpg",
+      "caption": "Winter 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1c2a27d0-602d-4bdf-b8e4-818b4119d380/99/image.jpg",
+      "caption": "Terrasse Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/29db5f57-62ed-472b-8ef7-29b7cd1b54d1/99/image.jpg",
+      "caption": "Aussicht Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c201f1bd-4cb6-4619-91b8-62f3c1444156/99/image.jpg",
+      "caption": "Stiegenaufgang"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3253414307128",
+    "longitude": "11.1980509757996"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC",
+      "description": "Gemütliches Appartement für 2 Personen, ohne Balkon, Kabel-TV, volleingerichtete Küche,gratis W-Lan,Fön",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment Top 1 und 2",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "52.00",
+          "maxPrice": "55.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "52.00",
+          "maxPrice": "55.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, gartenseitig",
+      "description": "Gemütliches Appartement für 2 Personen, mit Balkon, Kabel-TV, volleingerichtete Küche,gratis W-Lan,Fön",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment Top 4 und 5",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "55.00",
+          "maxPrice": "59.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "55.00",
+          "maxPrice": "59.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure",
+    "LocalBusiness"
+  ],
+  "name": "Tirol Klassik und Motorrad Klassik, Oldtimer",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3942769341194",
+    "longitude": "11.2664465239426"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Tirol Klassik \u0026 Motorrad Klassik",
+    "streetAddress": "Innsbruckerstr. 42 - 47",
+    "addressLocality": "Scharnitz",
+    "postalCode": "6108",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 1000030",
+    "faxNumber": "(0043) 5212 4317",
+    "email": "info@tirol-klassik.at",
+    "url": "http://www.tirol-klassik.at"
+  },
+  "description": "Tirol Klassik und Motorrad Klassik\nHerr Manfred Griesser\n\nInnsbrucker Str. 42 + 47\nTel.: +43 664/10 00 030",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b51f7398-06f6-4eb7-9977-9fd7550543aa/99/image.jpg",
+      "caption": "Tirol Klassik"
+    }
+  ],
+  "url": [
+    "http://www.tirol-klassik.at"
+  ]
+}

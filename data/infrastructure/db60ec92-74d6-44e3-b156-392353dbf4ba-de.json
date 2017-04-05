@@ -1,0 +1,27 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure"
+  ],
+  "name": "Taxi Haas",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3287884243882",
+    "longitude": "11.1891460418701"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Taxi Haas",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2500"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/04e1abb9-70f2-47e3-87d4-2823773a9822/99/image.jpg",
+      "caption": "Taxi Haas"
+    }
+  ]
+}

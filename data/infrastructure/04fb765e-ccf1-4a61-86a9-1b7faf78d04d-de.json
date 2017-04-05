@@ -1,0 +1,29 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Landform"
+  ],
+  "name": "Kristenalm",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3251032598671",
+    "longitude": "11.3140162825584"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Kristenalm",
+    "streetAddress": "Gleirschtal",
+    "addressLocality": "Scharnitz",
+    "postalCode": "6108",
+    "addressCountry": "AT",
+    "telephone": "(0043)5238 54516"
+  },
+  "description": "Nur im Sommer geöffnet! Stempelstelle",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e4cf6903-aebf-4b08-9440-7e0855553114/99/image.jpg",
+      "caption": "Kristenalm"
+    }
+  ]
+}

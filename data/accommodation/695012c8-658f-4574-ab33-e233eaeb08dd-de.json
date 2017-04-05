@@ -1,0 +1,22 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Ellner",
+    "streetAddress": "Ahrn 212",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0049) 7111 8895 365"
+  },
+  "name": "Haus Ellner",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3825548710109",
+    "longitude": "11.1715549423279"
+  },
+  "currenciesAccepted": "EUR"
+}

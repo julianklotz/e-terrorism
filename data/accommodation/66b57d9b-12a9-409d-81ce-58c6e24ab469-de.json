@@ -1,0 +1,91 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://members.aon.at/haus.seelos",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Seelos",
+    "streetAddress": "Weidach 366",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6839",
+    "faxNumber": "(0043) 5214 6839",
+    "email": "haus.seelos@aon.at",
+    "url": "http://members.aon.at/haus.seelos"
+  },
+  "name": "Haus Seelos",
+  "description": [
+    "Familiäres, gemütliches Nichtraucher-Haus in sonniger, ruhiger, jedoch zentraler Lage. 3 DZ mit DU/WC, SAT-TV mit integr. Radio u. Kaffeemaschine. Frühstücks- bzw. Aufenthaltsraum mit Kühlschrank auf gleicher Etage. Gutes reichhaltiges Frühstück.",
+    "Seelos,Leutasch,Weidach,Nichtraucher,Frühstück,Privat"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/83de5772-2d69-4743-855c-83cf293ebef6/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b5466b1f-2b76-43be-81d3-898d2231aaa7/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a5b905fa-cd65-426d-855e-52e48ecde870/99/image.jpg",
+      "caption": "Haus Winter 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6eb99975-13dd-48fa-840b-2000aaffd092/99/image.jpg",
+      "caption": "Haus Winter 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/14c28fa3-1f70-4f53-ab1e-d01fe11973c7/99/image.jpg",
+      "caption": "Hausansicht Sommer 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/cc293b64-6471-46ed-99f3-c4bd5f4a841d/99/image.jpg",
+      "caption": "Frühstücksraum"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3743050239041",
+    "longitude": "11.1690498267897"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Gemütliches Doppelzimmer mit DU/WC, eigener Kaffeemaschine und Geschirr; SAT-TV mit integrierten Radio.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://web.deskline.net/seefeld/de/show_accommodation/SEE/3a1ddef9-fae9-4bac-9350-cf0a3b8736eb/haus_berta",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Berta",
+    "streetAddress": "Weidach 368 e",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 660 8170747",
+    "email": "christinawaldhart@gmail.com",
+    "url": "http://www.hausberta.com"
+  },
+  "name": "Haus Berta",
+  "description": [
+    "Die  Wohnung (ca. 70 m²) umfasst einen separaten Eingang und Gartenteil, voll ausgestattete Küche mit Spülmaschine, Waschmaschine, Herd mit Backofen, Microwelle und Kühlschrank sowie eine Essecke. Weiters besteht die Wohnung aus einem Schlafzimmer, Bad mit Dusche und Badewanne sowie ein großzügiges Wohnzimmer mit Sat-TV. Unsere Gäste können kostenlos unser WLAN benützen.\n\nUnser Haus liegt sehr ruhig und sonnig , dennoch zentral in Weidach/Leutasch gelegen. Bis zu dem weiten Wanderweg- und Loipennetz der Olympiaregion Seefeld sind es nur wenige Schritte. Gäste unseres Hauses können die Langlaufloipen kostenlos benützen. Im Sommer gratis Eintitt ins Alpenbad Leutasch.",
+    "inklusive: Strom, Heizung, Wasser\nexklusive: Endreinigung, Ortstaxe, Garage\nIm Sommer Gratis Eintritt ins Alpnebad Leutasch.\nIm Winter gratis Langlauf.",
+    "Innsbruck-Seefeld-Leutasch oder München-Mittenwald-Leutasch:\nUnser Haus liegt im Ortszentrum (Weidach), ab Supermarkt M-Preis Straße nach Osten, 3. Seitenweg rechts.\n\nCheck-In: 15.00 Uhr\nCheck-Out: 10.00 Uhr\n"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/53a6cebe-5f67-4610-bf44-6eb4c844a936/99/image.jpg",
+      "caption": "Haus Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b6364a58-5ef3-44d6-99b2-1f5555c24e1c/99/image.jpg",
+      "caption": "hauswinter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/983d28fb-1254-472f-9184-ed8e90e4716f/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7a26010c-4965-4fc1-8129-1725b4394687/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/73731e38-e13d-4be1-9986-6d27d01a9cd3/99/image.jpg",
+      "caption": "Schild"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/55c4e09e-3bb7-4f00-bb1c-fb8f062747f2/99/image.jpg",
+      "caption": "Eingang"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3745477",
+    "longitude": "11.1706389"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 1 Schlafraum",
+      "description": "Das 70m2 große Appartment ist ausgestattet, mit einer komplett ausgestatten\nKüche, Waschmaschine, Geschirrspülmaschine, Mikrowelle,4 Plattenherd,Toaster,Radio usw. einem Schlafzimmer, Baderaum mit Wanne und Dusche, Föhn, extra WC,einem Wohnzimmer mit Sat TV, Radio, Wlan,eigener Terrasse,und Liegewiese. Haus Berta liegt in ruhiger Lage  ca.300 Meter vom Zentrum entfernt, auch zum Loipeneinstieg ca.300 Meter.Sommer gratis Eintitt ins Alpenbad Leutasch, Winter gratis Langlauf.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/1 Schlafraum/Dusche, Bad, WC",
+          "description": "Haus Berta liegt in Leutsch Weidach mit nur einer Wohnung, in sehr ruhiger und doch zentraler Lage. Die Wohnung ist gut ausgestattet, Küche mit Essecke, Waschmaschine,4 Plattenherd mit Backrohr,großen Kühlschrank, Mikrowelle, Geschirrspülmaschine,Radio usw. getrenntes Schlafzimmer, Baderaum mit Dusche und Wanne,Föhn getrenntes WC, Wohnzimmermit Sat TV, CD Player und Radio, eigener Terrasse und eigener Eingang.\nIm Sommer gratis Eintritt ins Alpenbad Leutasch, im Winter kostenlose Loipenbenützung. ",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "58.00",
+          "maxPrice": "105.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "68.00",
+          "maxPrice": "115.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

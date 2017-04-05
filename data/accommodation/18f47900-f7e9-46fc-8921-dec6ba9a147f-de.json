@@ -1,0 +1,163 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.members.aon.at/leutasch-bergkristall",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Bergkristall",
+    "streetAddress": "Weidach 298 a",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6859",
+    "faxNumber": "(0043) 5214 6859",
+    "email": "nairz.bergkristall@aon.at",
+    "url": "http://www.members.aon.at/leutasch-bergkristall"
+  },
+  "name": "Haus Bergkristall",
+  "description": [
+    "Herzlich Willkommen im Haus Bergkristall!\n\nDas gemütliche Haus verfügt über 2 neue Ferienwohnungen für 2 - max. 5 Personen.\nDie Appartements im Landhauslook überzeugen mit liebevollen Details und komfortabler Ausstattung.\nIn der Nähe: Supermarkt, Bushaltestelle, Schilift, viele Gaststätten, sowie das Alpenbad Leutasch, direkter Loipeneinstieg.\nUnser Konzept lautet: Naturverbunden wohnen, Natur erleben, Naturbegeisterung, Erholen in und durch die Natur.",
+    "Parkplatz kostenlos, Haus ist direkt an der Loipe, Skiraum mit Wachsgelegenheit, gratis W-Lan, gratis Loipenbenützung, kostenloser Eintritt in die ErlebnisWelt Alpenbad Leutasch im Sommer.",
+    "Von Seefeld: Leutasch - Weidach - in Zentrumsnähe\n\nVon Mittenwald: Leutasch - Schanz - Gasse - Weidach - in Zemtrumsnähe\n\nVon Telfs: Richtung Seefeld - Telfer Berg - Buchenmoos - Kirchplatztl - Weidach - in Zentrumsnähe\n\nCheck-in: ab 14.00 Uhr\nCheck-out: bis 10.00 Uhr"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "reviewCount": "25"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/645eb843-452e-4310-9a8c-147b8c4f57b9/99/image.jpg",
+      "caption": "Haus Bergkristall Leutasch Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9397f506-2638-4eed-83c5-67fa49900eb6/99/image.jpg",
+      "caption": "Haus Bergkristall Leutasch Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3c4f2052-039a-4499-ba41-50911d6a86ad/99/image.jpg",
+      "caption": "Haus Bergkristall Hausansicht Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/955911c4-f1b9-4929-92e7-deba4fb4581b/99/image.jpg",
+      "caption": "Haus Bergkristall Leutasch Sommer Hausansicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/83891577-5d3d-4fd8-aec3-7f2f192d49c2/99/image.jpg",
+      "caption": "Haus Bergkristall Winter Hausansicht"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.369649658103",
+    "longitude": "11.160458792883"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "Ca. 60 m² für 2-5 Personen. Moderne Küche mit Cerankochfeld, Backrohr, Geschirrspüler, Toaster, Kaffeemaschine, Wasserkocher, Kühlschrank mit Gefrierfach, komplettes Ess- und Kochgeschirr. Ausreichend Geschirr- \u0026 Handtücher werden gestellt.\nWohn/Schlafzimmer, 2 Doppelschlafzimmer, Doppelcouch, Sat-TV, gratis WLAN, Nichtraucherwohnung, Haustiere nicht erlaubt. Die Bettwäsche wird selbstverständlich von uns gestellt.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Sterngucker Suite, FEWO, Dusche, WC, 2 Schlafr.",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "65.00",
+          "maxPrice": "95.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "75.00",
+          "maxPrice": "105.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "85.00",
+          "maxPrice": "120.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "ca. 65 m² für 2-5 Personen. Küche: Herd mit Ceranfeld, Backrohr, Geschirrspüler, Kaffeemaschine, Wasserkocher, Toaster, Kühlschrank mit Gefrierfach, komplettes Ess- und Kochgeschirr. Ausreichend Geschirr- \u0026 Handtücher werden gestellt.\nWohn/Schlafzimmer, Doppelzimmer, 1 Ein-Bettzimmer, Doppelcouch, Sat-TV, gratis WLAN, 2 Bäder, Nichtraucherwohnung, Haustiere nicht erlaubt. Allergikerwohnung. Die Bettwäsche wird selbstverständlich von uns gestellt. ",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Sonnenschein Suite, Dusche, WC, 2 Schlafräume",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "65.00",
+          "maxPrice": "90.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "75.00",
+          "maxPrice": "105.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "85.00",
+          "maxPrice": "120.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "95.00",
+          "maxPrice": "135.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

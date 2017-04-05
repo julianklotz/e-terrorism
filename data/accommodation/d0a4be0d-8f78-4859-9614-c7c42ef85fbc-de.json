@@ -1,0 +1,136 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.fewo-leutasch-tirol.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Michael",
+    "streetAddress": "Lehner 192",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6078",
+    "faxNumber": "(0043) 5214 6078",
+    "email": "landhaus-manuela@aon.at",
+    "url": "http://www.fewo-leutasch-tirol.at"
+  },
+  "name": "Haus Michael",
+  "description": [
+    "In unserem Haus Michael lernen Sie echte Tiroler Gemütlichkeit kennen. In familiärer Atmosphäre mit entsprechendem Komfort finden Sie sicher die Ruhe, Erholung und Geborgenheit, die Sie in Ihrem Urlaub suchen, da unser Haus ruhig am Waldrand liegt. Das Haus bietet Nichtraucher-Ferienwohnungen für 2 - 4 Personen und ist ganzjährig geöffnet.",
+    "inklusive: Heizung, Wasser, Strom, Geschirrtücher, Bettwäsche, Handtücher\nexklusive: Ortstaxe, Endreinigung\nPreis auf Anfrage!",
+    "aus Deutschland: München - A95 - Garmisch/Patenkirchen - Mittenwald - Scharnitz - Leutasch/Gasse\naus Italien: Brenner - A13 - Issnbruck - A12 - Zierl - Seefeld - Leutasch/Gasse\naus der Schweiz: Arlberg - A12 - Telfs - Bairbach - Seefeld - Leutasch/Gasse"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "reviewCount": "29"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8d4e78f5-59f1-422f-80eb-1ef6d0e1219f/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6ff12088-846b-4ccc-b013-53af37f1c097/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/fbb808f6-e0b7-4832-9990-efa11e7327a0/99/image.jpg",
+      "caption": "Stube"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1b16bc5c-c4a0-436f-a019-eb1d11ef7995/99/image.jpg",
+      "caption": "Stube mit Kamin"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0f2c2ffb-f6e8-45bc-8fc3-d02997823166/99/image.jpg",
+      "caption": "Spielplatz"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4d6f54da-76b2-4a0b-9dbd-de712733e794/99/image.jpg",
+      "caption": "Liegewiese"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3820113",
+    "longitude": "11.1621698"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "Diese sehr geräumige 60 m² große Ferienwohnung im ersten Stock ist ideal für 2 - 4 Personen. Ausgestattet mit einem Vorraum, getrenntem Schlafzimmer, geräumiges Wohnzimmer mit Sofaecke und SAT-TV, großes Badezimmer sowie einer komplett eingerichteten Küche ist sie für einige Tage Ihr neues Zuhause. Wenn Sie diese Ferienwohnung für 4 Personen buchen steht Ihnen die gemütlich Stube mit Kachelofen, SAT-TV und Sitzecker zur freien Verfügung.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment Hoher Sattel/2 Schlafräume/Dus",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Eine kleine Familie ( Eltern und ein Kind) kann in dieser 42 m² großen Wohnung ideal Ihren Urlaub verbringen. Das Appartement bietet einen kl. Vorraum, gr. Badezimmer, getrenntes Schlafzimmer mit Ausziehcouch und eine Wohnküche mit gemütlicher Kuschelecke und SAT-TV",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment Hohe Munde/1 Schlafraum/Dusche",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Eine kleine Familie ( Eltern und ein Kind) kann in dieser 42 m² großen Wohnung ideal Ihren Urlaub verbringen. Das Appartement bietet einen kl. Vorraum, gr. Badezimmer, getrenntes Schlafzimmer mit Ausziehcouch und eine Wohnküche mit gemütlicher Kuschelecke und SAT-TV.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment Öfele/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ]
+    }
+  ]
+}

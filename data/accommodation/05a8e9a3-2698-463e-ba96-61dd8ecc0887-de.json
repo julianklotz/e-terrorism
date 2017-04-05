@@ -1,0 +1,159 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.kluckner.net",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Olmarausch",
+    "streetAddress": "Ahrn 204",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6909",
+    "email": "olmarausch@kluckner.net",
+    "url": "http://www.kluckner.net"
+  },
+  "name": "Haus Olmarausch",
+  "description": [
+    "Unser Haus liegt in schöner, sonniger Lage inmitten von Leutasch. Wir bieten ein gut ausgestattetes heimeliges Haus und herzliche Gastfreundschaft. Wir wollen vor allem eines: Dass Sie sich von Anfang an wie zu Hause fühlen.\nDer Loipeneinstieg und befestigte Winterwanderwege sind direkt vis a vis vom Haus.  \nIm Sommer Ausgangspunkt für herrliche Wanderungen und Radtouren auf schönen und sicheren Wander - und Radwegen in den Bergen von Leutasch. Das Ortszentrum, Gasthöfe und Bäckerei sind in kurzer Zeit erreichbar.",
+    "inklusive: Stromkosten, Heizung, Bettwäsche, Hand - und Badetücher, Brötchenservice;",
+    "Anreise ab 14.00 Uhr\nAbreise bis 10.00 Uhr\nAnreise mit dem Auto über Garmisch-Mittenwald mautfrei;\nüber Innsbruck Autobahn A12-Ausfahrt Zirl-Seefeld-Leutasch-Weidach -Gasse-Ahrn;\nüber Telfs Autobahn A12 - Ausfahrt Telfs Ost-Buchen-Leutasch-Gasse-Ahrn",
+    "Leutasch,Haus Olmarausch,Sommer,Winter,Ferienwohnung,Urlaub,Berge,Langlauf,Wandern,Gemütlich,Zuhause"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "reviewCount": "19"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/cdde3205-8cc0-4457-bfca-68561c665c22/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3de562f6-1e20-4b89-8fc6-b6915ba2340f/99/image.jpg",
+      "caption": "Haus Olmarausch 3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/32f5c696-d36d-41fd-ac09-e833b9fc7dbc/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4321bda9-b2c2-4009-8d58-c0874ebfe9db/99/image.jpg",
+      "caption": "Ausblick Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/149652d0-67dc-4488-a18c-f2f855d22529/99/image.jpg",
+      "caption": "Ausblick Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/df879cd7-689d-4873-9b3d-24a623cf87ea/99/image.jpg",
+      "caption": "Ausblick Sommer 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/472d237a-c4e5-470e-a8d3-51be428bb746/99/image.jpg",
+      "caption": "Gartenhaus"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/75e17b5c-b451-4215-bfdc-6a5a0cedd7a9/99/image.jpg",
+      "caption": "Marterl"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/89525d91-aa96-4d08-82b0-f0e11e09f660/99/image.jpg",
+      "caption": "Carport"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/274f1ba0-e12f-4fad-abe5-ea25defd6949/99/image.jpg",
+      "caption": "Spielplatz"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/74383343-f706-4c0f-a37e-9b5e446f79cc/99/image.jpg",
+      "caption": "Ausblick vom Balkon Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6bbef1a2-822a-4474-8bc0-60443af3019b/99/image.jpg",
+      "caption": "Ausblick Winter 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2e2f394a-e6f5-4a29-946d-6a92ce0d0cb7/99/image.jpg",
+      "caption": "Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.382435330103",
+    "longitude": "11.166836156797"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Nach Süd-Ost oder Süd-West ausgerichtete Wohnungen mit Wohn - Schlafraum, Südbalkon mit herrlichem Ausblick auf die Leutascher Bergwelt, Schlafzimmer, Kleine Küche, Dusche - WC, Zentralheizung, SAT-Farb-TV, Carport, Bettwäsche, Hand- und Badetücher, Gartengrill, Brötchenservice;",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Hohe Munde o. Ahrnspitze /1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "44.00",
+          "maxPrice": "59.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "22.00",
+          "maxPrice": "29.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "18.00",
+          "maxPrice": "25.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "16.00",
+          "maxPrice": "22.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

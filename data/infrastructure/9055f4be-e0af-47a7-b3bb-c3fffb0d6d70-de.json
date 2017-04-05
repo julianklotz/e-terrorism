@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure"
+  ],
+  "name": "Taxi Heis",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3539909",
+    "longitude": "11.123019"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Pension Heis*",
+    "streetAddress": "Moos 17 a",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6323",
+    "faxNumber": "(0043) 5214 6323 5",
+    "email": "pension.heis@gmail.com",
+    "url": "http://www.pension-heis.at"
+  },
+  "description": "Moos 17 a\nTel.: +43 5214/63 230 oder +43 664/43 20 984\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1f8e788e-4faf-41e1-8f4f-b7483a66799d/99/image.jpg",
+      "caption": "Taxi"
+    }
+  ],
+  "url": [
+    "http://www.pension-heis.at"
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.ganghofer.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Landhaus Ganghofer",
+    "streetAddress": "Klamm 56 a",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6788",
+    "faxNumber": "(0043) 5214 6788 7",
+    "email": "ganghofer@aon.at",
+    "url": "http://www.ganghofer.at"
+  },
+  "name": "Landhaus Ganghofer",
+  "description": [
+    "Unser Appartementhaus befindet sich in Oberleutasch im Ortsteil Klamm direkt am Ludwig Ganghofer Platz, ca.100 m von der Strasse entfernt umgeben von Wiesen und der herrlichen Bergwelt mit dem Wettersteingebirge und dem Hausberg, die Hohe Munde.\nUnsere neu umgebauten Wohnungen sind hell und auf dem neuesten Stand mit dem allerbesten Komfort, W-LAN kostenlos in jedem Appartement!\n\nHund und Katzen sind bei uns immer willkommen.",
+    "INKLUSIVE: SAT-TV, Strom, Heizung, Wasser, Bettwäsche, Dusch- und Handtücher, Tresor, überdachte Garage und Endreinigung!\n\nEXKLUSIVE: Telefongesprächskosten, Ortstaxe, Haustiere",
+    "Unser Haus liegt in Oberleutasch, Ortsteil Klamm, direkt neben dem neuerrichteten Ganghoferplatz, ruhig gelegen.\n\nCheck-In 13.00 Uhr / Check-Out 9.00 Uhr"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5a38394b-e75a-4d88-825d-698ef2dca30d/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f194ccd5-f70a-4277-88f6-bbcf5e119dd3/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/64b2c6d5-54c6-40d3-a973-90d98054e72b/99/image.jpg",
+      "caption": "Liegewiese"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6ab7c16a-4f3f-454e-acd7-3468441ca7e0/99/image.jpg",
+      "caption": "Parkplatz"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/33711230-ca4f-424b-a54a-7c7f98bc8039/99/image.jpg",
+      "caption": "Haus Vorplatz"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/45456174-205b-4182-8e68-b4b7b8b7fc28/99/image.jpg",
+      "caption": "Bücherei"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.362716799194",
+    "longitude": "11.116338087738"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC",
+      "description": "Das Appartement hat eine Größe von ca. 41m², Wohn- Schlafraum, Vorraum, Küche, Bad und Balkon oder Terrasse.\nPreise inkl. Endreinigung!!!",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement A /Wohn-Schlafraum/Dusche, WC",
+          "description": "Das Appartement hat eine Größe von ca. 45 qm, Wohn- Schlafraum, Vorraum, Küche, Bad und Balkon.",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "73.00",
+          "maxPrice": "73.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "73.00",
+          "maxPrice": "73.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Das Appartement hat eine Grösse von ca. 46m² und besteht aus Wohnraum mit Flat-TV, Küche, Schlafzimmern, Badezimmer mit Dusche, Balkon oder Terrasse und Vorraum. Auch im Schlafzimmer finden Sie einen Flat-TV mit vielen 100 Programmen.\nDie Preise sind inkl. Endreinigung!!",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement B /1 Schlafraum/Dusche, WC",
+          "description": "Das Appartement hat eine Grösse von ca. 56 qm und besteht aus Wohnraum mit Flat-TV, Küche, zwei Schlafzimmern, Badezimmer mit Badewanne, Balkon oder Terrasse und Vorraum. Auch im Schlafzimmer finden Sie einen Flat-TV mit vielen 100 Programmen.",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "78.00",
+          "maxPrice": "78.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "78.00",
+          "maxPrice": "78.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "98.00",
+          "maxPrice": "98.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 2 Schlafräume",
+      "description": "Das Appartement hat eine Grösse von ca. 56m² und besteht aus Wohnraum mit Flat-TV, Küche, zwei Schlafzimmern, Badezimmer mit Dusche, Balkon oder Terrasse und Vorraum. Auch im Schlafzimmer finden Sie einen Flat-TV mit vielen 100 Programmen.\nPreise sind inkl. Endreinigung!",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement C /2 Schlafräum, Dusche und Bad/WC",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "84.00",
+          "maxPrice": "84.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "104.00",
+          "maxPrice": "104.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "124.00",
+          "maxPrice": "124.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "Das Appartement hat eine Größe von ca. 56 qm und besteht aus Wohnraum mit Flat-TV, Küche, zwei Schlafzimmern, Badezimmer mit Dusche, Balkon oder Terrasse und Vorraum. Auch im Schlafzimmer finden Sie einen Flat-TV mit vielen 100 Programmen. ",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement D/ 2 Schlafräume",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "89.00",
+          "maxPrice": "89.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "109.00",
+          "maxPrice": "109.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "129.00",
+          "maxPrice": "129.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "149.00",
+          "maxPrice": "149.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "169.00",
+          "maxPrice": "169.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

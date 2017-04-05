@@ -1,0 +1,50 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CafeOrCoffeeShop",
+    "BarOrPub"
+  ],
+  "name": "All Reith",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2988469787025",
+    "longitude": "11.2040859460831"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "All Reith",
+    "streetAddress": "Römerstraße 22",
+    "addressLocality": "Reith bei Seefeld",
+    "postalCode": "6103",
+    "addressCountry": "AT",
+    "telephone": "(0043)52123859",
+    "email": "ramona.hanser@hotmail.com"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/92043308-1d5c-41cb-b975-4c6c5e175b39/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1183bb41-d8ab-42db-9d54-dc3626c38098/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ff4b3e46-97c1-4f23-96e0-1bd18cb9c4d6/99/image.jpg",
+      "caption": "Bar"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/aee5c656-7eaf-4398-bc85-fb45f59a6267/99/image.jpg",
+      "caption": "Cafe"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5c186ba2-3ea8-41b9-9db0-c143fdccea2d/99/image.jpg",
+      "caption": "Tischfußball"
+    }
+  ]
+}

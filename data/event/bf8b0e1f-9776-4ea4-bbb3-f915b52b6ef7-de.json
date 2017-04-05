@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "Almabtrieb der Kühe",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Agrar Rotmoos",
+    "employee": {
+      "@type": "Person",
+      "givenName": "Günter",
+      "familyName": "Krug"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Plaik",
+      "addressLocality": "Leutasch",
+      "postalCode": "6105",
+      "addressCountry": "AT"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Agrar Rotmoos",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Plaik",
+      "addressLocality": "Leutasch",
+      "postalCode": "6105",
+      "addressCountry": "AT"
+    }
+  },
+  "description": "Die Kühe werden von der Gaistalalm über Klamm, Plaik und Platzl nach Kirchplatzl nahe der Kirche getrieben. \n11.00 Uhr: Genießen Sie bei echter Volksmusik Speis und Trank, nahe der Kirche St. Magdalena in Kirchplatzl.\nca. 12.00 Uhr: Eintreffen der Kühe. \nFür das leibliche Wohl ist gesorgt. ",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a621a9f2-ab40-49b6-bea9-bb36874fdb3a/99/image.jpg",
+      "caption": "kühe"
+    }
+  ],
+  "startDate": "2017-09-23T11:00:00",
+  "endDate": "2017-09-23"
+}

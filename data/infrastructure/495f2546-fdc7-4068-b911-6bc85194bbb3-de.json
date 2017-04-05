@@ -1,0 +1,33 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CafeOrCoffeeShop",
+    "BarOrPub"
+  ],
+  "name": "Zeitlos, Bar, Café",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Hotel Hocheder",
+    "streetAddress": "Bar-Café Zeitlos im Hotel Hocheder",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) (0)5212 53200",
+    "url": "http://www.hotel-hocheder.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e9e1d13c-805d-430c-a264-8c2569279d0e/99/image.jpg",
+      "caption": "Piktogramm Kulinarik"
+    }
+  ],
+  "url": [
+    "http://www.hotel-hocheder.at"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Appartements Antoni",
+    "streetAddress": "Olympiastr. 494",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0031) 4332 12867",
+    "faxNumber": "(0031) 43 7850 111",
+    "email": "htjmtheunissen01@hotmail.com"
+  },
+  "name": "ZW-Theunissen Antoni",
+  "currenciesAccepted": "EUR"
+}

@@ -1,0 +1,246 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.ivos-sonnenpension.com",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Ivos Sonnenpension",
+    "streetAddress": "Klamm 74",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6378",
+    "faxNumber": "(0043) 5214 6378",
+    "email": "ivossonnenpension@aon.at",
+    "url": "http://www.ivos-sonnenpension.com"
+  },
+  "name": "Ivos Sonnenpension",
+  "description": [
+    "Ruhig gelegene Pension am Fuße der Hohen Munde, direkt an der Loipe. 5 Komfortzimmer mit DU/WC, SAT-TV, teilweise Südbalkon, reichhaltiges Frühstück. 2 Komfortwohnungen für 2-4 Pers. und 2 Ferienwohnungen für 2 Pers., komplett ausgestattet, SAT-TV und Balkon.",
+    "Zimmerbelegung ab 14.00 Uhr\nAbreise bis 9.30 Uhr\nLage: 4 km vom Zentrum, im Ortsteil Klamm"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "reviewCount": "43"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/903e52eb-f2a3-4747-b632-7c2b653054b2/99/image.jpg",
+      "caption": "Sommer ivos_sonnenpension_Leutasch 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/54b8abf7-9f4c-4de2-a7b3-d7b1da7fc734/99/image.jpg",
+      "caption": "ivos_sonnenpension_terrasse"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6c81b678-d66f-4ded-a6d7-558f377de320/99/image.jpg",
+      "caption": "Sommer ivos_sonnenpension_´leutasch"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d48236cc-06a5-41dc-a020-013f92caa5bd/99/image.jpg",
+      "caption": "ivos_sonnenpension_carport"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/12489107-1811-4638-939e-d506df0e6acc/99/image.jpg",
+      "caption": "ivos_sonnenpension_fruehjahr"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e2888385-24b0-462f-95ab-bd8d84dde0a8/99/image.jpg",
+      "caption": "Sommer ivos_sonnenpension_garten"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3b436694-8f4b-4ccd-9448-7aadb69d2022/99/image.jpg",
+      "caption": "ivos_sonnenpension_winter_gaistal"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9fb7c7c1-ab07-4da2-965a-8f965c648778/99/image.jpg",
+      "caption": "ivos_sonnenpension_winter_Einfahrt"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1e142c0d-9f78-4219-81d1-e4d7717c7933/99/image.jpg",
+      "caption": "ivos_sonnenpension_winter_bäume"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e2a3dee2-a815-467b-b87e-bc11829be3fa/99/image.jpg",
+      "caption": "ivos_sonnenpension_winter_carport"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c79fc685-f8a8-475f-810f-e867b7453d60/99/image.jpg",
+      "caption": "ivos_sonnenpension_winter_eingang"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/39f24be7-2e85-41a5-8bfb-547361246439/99/image.jpg",
+      "caption": "ivos_sonnenpension_winter_frontale"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/47006e2c-ba96-4fdd-a4bd-e477642ba21e/99/image.jpg",
+      "caption": "ivos_sonnenpension_winter_haus"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/25302e74-85b5-4430-9dc5-b6b61ef0534d/99/image.jpg",
+      "caption": "IMG_7884"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b0b83c70-8089-4945-b186-56a6c4c09e25/99/image.jpg",
+      "caption": "ivos_sonnenpension-trampolin"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/30dcfe9c-c56f-4f0f-b650-758fece6a6d0/99/image.jpg",
+      "caption": "ivos_sonnenpension_FW_6_balkon"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a6c247d1-c8e1-4cff-8aeb-1ec3b5952aaf/99/image.jpg",
+      "caption": "ivos_sonenpension_almabtrieb"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/43ef9c75-7726-45ca-b1bd-57a14dc787d1/99/image.jpg",
+      "caption": "ivos_sonenpension_herbst"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3620583",
+    "longitude": "11.1213733"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Doppelzimmer im 1. Stock, Größe 24 m², TV-Couch, mit DU/WC, SAT-TV, teilw. Balkon",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "38.20",
+          "maxPrice": "50.60",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "23.20",
+          "maxPrice": "30.50",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC",
+      "description": "im 2. Stock, Wohnschlafraum mit Kochnische (inkl. Toaster, Wasserkocher, Kaffeemaschine, etc.), Sitzecke, SAT-TV, DU/WC, Südbalkon;",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/Wohn-Schlafraum/Dusche, WC",
+          "numberOfRooms": "10.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "41.40",
+          "maxPrice": "61.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Schlafzimmer, Wohnküche mit Sitzgruppe, Balkon, SAT-TV, kompl. ausgestattet",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "43.40",
+          "maxPrice": "84.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "53.90",
+          "maxPrice": "83.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "64.40",
+          "maxPrice": "96.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "Erntedank Matinee mit dem Duo Gruber-Eschke",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Interalpen-Hotel Tyrol GmbH",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Dr.Hans-Liebherr-Alpenstrasse 1",
+      "addressLocality": "Telfs-Buchen",
+      "postalCode": "6410",
+      "addressCountry": "AT",
+      "telephone": "+4305080930",
+      "faxNumber": "+4305080937190",
+      "email": "reservation@interalpen.com",
+      "url": "http://www.interalpen.com"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Interalpen-Hotel Tyrol GmbH",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Dr.Hans-Liebherr-Alpenstrasse 1",
+      "addressLocality": "Telfs-Buchen",
+      "postalCode": "6410",
+      "addressCountry": "AT",
+      "telephone": "+4305080930",
+      "faxNumber": "+4305080937190",
+      "email": "reservation@interalpen.com",
+      "url": "http://www.interalpen.com"
+    }
+  },
+  "description": "Rainer Gruber (Akkordeon und Gitarre) und Jan Eschke (Klavier) zeichnen mit ihrer Musik Bilder und Filme und es gelingt den beiden Instrumentalisten dabei außergewöhnliche Stimmungen zu erzeugen, die ähnlich wie Filmmusik die Bilder des Hörers im Kopf untermalen. Ein unglaubliches Erlebnis, wenn man als Zuhörer zum Komponisten wird. Information: www.interalpen.com. ",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/48db2f09-4ae0-4aa4-a0d6-b1429c195c92/99/image.jpg",
+      "caption": "Gruber-Eschke"
+    }
+  ],
+  "url": [
+    "http://www.interalpen.com"
+  ],
+  "startDate": "2017-10-01T11:00:00",
+  "endDate": "2017-10-01"
+}

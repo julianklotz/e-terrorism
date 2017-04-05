@@ -1,0 +1,69 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.appartement-leutasch.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Ferienwohnung Wackerle",
+    "streetAddress": "Ostbach 15",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6810",
+    "faxNumber": "(0043) 5214 6810",
+    "email": "g.wackerle@tsn.at",
+    "url": "http://www.appartement-leutasch.at"
+  },
+  "name": "Ferienwohnung Wackerle",
+  "description": [
+    "Urlaub bei uns ist Erholung pur, in absolut ruhiger Lage, ideal für Kinder und Naturliebhaber. Im Winter finden Sie die Loipe direkt vor dem Haus. Im Sommer befindet sich beim Haus eine große Liegewiese mit Gartenmöbel, Grillplatz, Kinderspielplatz und Tischtennis.\nIn unimttelbarer Nähe befindet sich eine Reitanlage, Streichelzoo und Tennisplatz. \n\nWohnung für 2-6 Personen Du/WC, Küche, Essplatz, 2 Schlafzimmer, Wohnraum mit TV und Radio, Terrasse oder Balkon.",
+    "Inklusive: Heizung, Strom, Wasser, PKW-Parkplatz, Fahrräder\n\nExklusive: Ortstaxe, Endreinigung",
+    "München - Garmisch - Mittenwald - Leutasch Ostbach \n\nSeefeld - Leutasch Waidach - Ostbach"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/81662d8c-b35f-498d-81b0-b035e6280be0/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7e38f9fd-424d-433c-8c2e-bab1fb7dd206/99/image.jpg",
+      "caption": "Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3595553",
+    "longitude": "11.1357231"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "Gemütliche Wohnung in ruhiger Lage, abseits des Verkehrs, mitten in der Natur, Reitanlage, Streichelzoo in der Nachbarschaft, Winter direkt an der Loipe",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/2 Schlafräume/Dusche, WC",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

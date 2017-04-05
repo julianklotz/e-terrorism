@@ -1,0 +1,279 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.rupitsch.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Rupitsch",
+    "streetAddress": "Ostbach 19",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6823",
+    "faxNumber": "(0043) 5214 6823",
+    "email": "rupitsch.p@aon.at",
+    "url": "http://www.rupitsch.at"
+  },
+  "name": "Haus Rupitsch",
+  "description": [
+    "Unser Haus liegt in einem besonders sonnigen und landschaftlich reizvollen Teil des Leutaschtales. Ohne Ihr Auto benützen zu müssen, erreichen Sie mehrere Restaurants, sowie ein Lebensmittelgeschäft. Wanderwege, direkt an der Loipe, eigener Wachsraum, Rodel. Wir bieten \"Kennenlern-Abende\" im gemütlichen Kellerstübchen.\nKomplett ausgestattete Ferienwohnungen für 2-4 Personen, gesamte Wäsche vorhanden, Radio, SAT-TV-Digital. Teilw. Balkon. ",
+    "Inklusive: Wasser, Heizung, Strom, 1 x Sauna/Woche, Rodel, Tischtennis, Fahrräder,Loipenbenützung\n\nZuschlag bei Kurzaufenthalt unter einer Woche\nAbschlag bei Lang-Aufenthalt ab 3 Wochen",
+    "Check-In: ab 14.00 Uhr\nCheck-Out: bis 10.00 Uhr\n\nUnser Haus befindet sich am südlichen Ortsrand von Leutasch, im Ortsteil Ostbach. Folgen Sie dem Wegweiser Richtung \"Telfs\"."
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "reviewCount": "14"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f3cb3925-b477-44c1-954f-639d5931ed54/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/bb3e3c62-5371-474c-a3fd-6c8bca19aa30/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/abf1058f-d244-4f41-98c3-38f6a7de8554/99/image.jpg",
+      "caption": "Eingangsbereich"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/73ee2b12-104d-4acf-9376-53057beea504/99/image.jpg",
+      "caption": "Eingangsbeireich 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/141fa3c5-00dc-4474-a541-4af7d66782e9/99/image.jpg",
+      "caption": "Spielbereich"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8af77490-dd59-4e3f-8c26-f8851fd90bff/99/image.jpg",
+      "caption": "Spielbereich 1"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.357747965331",
+    "longitude": "11.132615142932"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Toilette und Bad/Dusche getrennt, Balkon",
+      "description": "Wohnzimmer mit Ausziehcouch, extra Küche, Schlafzimmer, Badewanne mit Dusche, WC extra, Balkon,\nNEU RENOVIERT!",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment Nr. 5/1 Schlafraum/Dusche, Bad",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "48.00",
+          "maxPrice": "75.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "55.00",
+          "maxPrice": "82.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "62.00",
+          "maxPrice": "89.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, Erdgeschoß/Parterre",
+      "description": "Wohn- Schlafraum mit Schrankbetten, Essecke, 2 Polstersessel, Kochzeile, DU/WC",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment Nr. 3/Wohn-Schlafraum/Dusche,",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "45.00",
+          "maxPrice": "45.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "34.00",
+          "maxPrice": "45.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, Balkon",
+      "description": "Wohnzimmer mit Kochnische u. Ausziehcouch, Schlafzimmer, DU/WC, Balkon\nNEU RENOVIERT!",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment Nr. 6/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "45.00",
+          "maxPrice": "65.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "52.00",
+          "maxPrice": "72.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "59.00",
+          "maxPrice": "79.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, Balkon",
+      "description": "Wohn- Schlafraum mit Schrankbetten, Essecke, 2 Polstersessel, Kochzeile, Balkon, DU/WC",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment Nr. 7/Wohn-Schlafraum/Dusche,",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "50.00",
+          "maxPrice": "50.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "38.00",
+          "maxPrice": "50.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Wohnzimmer mit Kochnische, Schlafzimmer, DU/WC, Ausziehcouch",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment Nr. 4 + 8/1 Schlafraum/Dusche,",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "42.00",
+          "maxPrice": "60.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "49.00",
+          "maxPrice": "60.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "56.00",
+          "maxPrice": "60.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

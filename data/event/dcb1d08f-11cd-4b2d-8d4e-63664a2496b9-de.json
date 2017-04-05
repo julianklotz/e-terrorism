@@ -1,0 +1,51 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "Lange Nacht der Kirchen",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Pfarramt Reith",
+    "employee": {
+      "@type": "Person",
+      "givenName": "Ernst",
+      "familyName": "Ranalter"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Römerstraße 24",
+      "addressLocality": "Reith bei Seefeld",
+      "postalCode": "6103",
+      "addressCountry": "AT",
+      "telephone": "(0043)521252782 ",
+      "email": "Pfarre.Reith@dibk.at",
+      "url": "http://www.dibk.at"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Pfarramt Reith",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Römerstraße 24",
+      "addressLocality": "Reith bei Seefeld",
+      "postalCode": "6103",
+      "addressCountry": "AT",
+      "telephone": "(0043)521252782 ",
+      "email": "Pfarre.Reith@dibk.at",
+      "url": "http://www.dibk.at"
+    }
+  },
+  "description": "\nGeschichtliche Erkundung und freie Begehung der Pfarrkirche St. Nikolaus in Reith",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/95dbf964-981b-4951-81dc-637509222d97/99/image.jpg",
+      "caption": "Pfarrkirche"
+    }
+  ],
+  "startDate": "2017-06-09T00:00:00",
+  "endDate": "2017-06-09"
+}

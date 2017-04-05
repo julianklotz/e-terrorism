@@ -1,0 +1,152 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.seefeld-st-hubertus.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus St. Hubertus",
+    "streetAddress": "Schulweg 516",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 3983",
+    "faxNumber": "(0043) 5212 2663",
+    "email": "st.hubertus@seefeld-in-tirol.net",
+    "url": "http://www.seefeld-st-hubertus.at"
+  },
+  "name": "Haus St. Hubertus",
+  "description": [
+    "Unser Haus liegt zentral (ca. 2 Gehminuten vom Zentrum entfernt) abseits der Straße und ist daher vollkommen ruhig gelegen mit einem herrlichen Rundblick auf die Seefelder Berge. Genießen Sie die wunderschöne Landschaft und die reine Bergluft. Ihnen steht ein großer Garten zur Verfügung. Auf Wunsch bieten wir auch täglich Brötchenservice an. (Fremdsprachen: Holländisch und Englisch)\nSie können uns das ganze Jahr über besuchen.",
+    ""
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2cc03367-13c6-468d-a2fc-4594806d8865/99/image.gif",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c0314265-d1f0-47a6-b027-a5ce326ee711/99/image.jpg",
+      "caption": "Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3284539158704",
+    "longitude": "11.1904764175415"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 2 Schlafräume",
+      "description": "Neu in Seefeld, absolut in allen Bereichen rollstuhlgerechtes Appartement (100 m²), willkommen bei Familie Hiltpolt - müheloses Urlaubsvergnügen, grenzenlose Barrierefreiheit!!! Nur 2 Rolli-Minuten von Zentrum entfernt.\nFür Rollstuhlfahrer, für Gehbehinderte, für pflegebedürftige Menschen mit körperlicher Behinderung bestens geeignet. Gerne stehen wir Ihnen auch persönlich für gewisse Hilfeleistungen zur Verfügung. Das Appartement ist ebenerdig und verfügt über ein gemütlich eingerichtetes Wohnzimmer mit Erker, Kabel-TV und Internetanschluss, große Terrasse Richtung Süden, Küche komplett eingerichtet mit Geschirrspüler, 2 Schlafzimmer, Garderobe, 2 WC´s, Badezimmer mit Dusche und Badewanne. \n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement 1",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 2 Schlafräume",
+      "description": "Appartement Nr. 2 (85 m²) im 1. Stock mit Südbalkon. Es verfügt über zwei Schlafzimmer, ein gemütliches großes Wohnzimmer mit ausziehbarer Doppelcouch, Kabel-TV und Internetanschluss, Garderobe, komplett eingerichtete Küche mit Geschirrspüler, Bad mit Doppelwaschbecken und WC, ein WC separat.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement 2",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 2 Schlafräume",
+      "description": "Appartement Nr. 3 (75 m²) im 1. Stock mit Südbalkon. Es verfügt über zwei Schlafzimmer, ein gemütliches Wohnzimmer mit ausziehbarer Doppelcouch, Kabel-TV und Internetanschluss, Garderobe, komplett eingerichtete Küche mit Geschirrspüler, Bad mit Doppelwaschbecken und WC, ein WC separat.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement 3",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 2 Schlafräume",
+      "description": "Appartement Nr. 4 (80 m²) im 2. Stock mit Südbalkon. Es verfügt über zwei Schlafzimmer, ein gemütliches Wohnzimmer mit ausziehbarer Doppelcouch, Kabel-TV, Internet-Anschluss, Garderobe, komplett eingerichtete Küche mit Geschirrspüler, Bad/WC mit Doppelwaschbecken - 1 weiteres WC separat.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement 4",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 1 Schlafraum",
+      "description": "Appartement Nr. 5 (50 m²) im 2. Stock mit Südbalkon. Es verfügt über einem Schlafzimmer, ein gemütliches Wohnzimmer mit ausziehbarer Doppelcouch, Kabel-TV, Internet-Anschluss, komplett eingerichtete Küche mit Geschirrspüler, Garderobe, Bad und WC separat.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement 5",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,268 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.lindauer.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Lindauer",
+    "streetAddress": "Wettersteinstr. 575",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2042",
+    "faxNumber": "(0043) 5212 20420",
+    "email": "info@lindauer.at",
+    "url": "http://www.lindauer.at"
+  },
+  "name": "Haus Lindauer",
+  "description": [
+    "HAUS LINDAUER\n… das heißt hervorragendes Frühstück, nachmittags Kaffee- und Teebuffet, aufmerksamer, liebenswürdiger Service, solide Tiroler Gastlichkeit in einem gediegenen, stilvoll  eingerichteten Haus mit jahrzehntelanger Tradition.\n",
+    "Bargeldlos bezahlen: \nMAESTRO bzw. VPAY (Karte und PIN),  \nKreditkarten (Visa, Mastercard, DC, Amex, JCB)\nsowie Mastercard Electronic und Visa Electron\n\nKostenlos und inklusive:\nPrivatparkplatz am Haus \nTee- und Kaffeebuffet am Nachmittag\nInternet-Surfstation bzw. WLAN\nSonnenterrasse",
+    "Anreisetag: Die Zimmer stehen spätestens ab 14.00 Uhr zur Verfügung\nAbreisetag: Wir bitten, die Zimmer bis 10.30 Uhr freizugeben"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0be1a652-362e-4d36-b8af-385f3f6e1c7d/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0ff714b3-93b6-46cb-90bf-2649617e0e35/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1b0f5cb1-5256-4ff9-99e0-df0e8c7e4f69/99/image.jpg",
+      "caption": "Liegewiese Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/52259ff4-8ec1-4bb8-a068-2c79d1439c9b/99/image.jpg",
+      "caption": "Frühstückstisch"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.331435330125",
+    "longitude": "11.1833524703979"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC, Nichtraucher",
+      "description": "Gemütliches Komofort Doppelzimmer mit Dusche/WC (Bademantel, Slipper, Haarfön, Kosmetikspiegel), Digital-Kabel-TV, Radio, Telefon, WLAN und Balkon inklusive reichhaltigem und abwechslungsreichen Buffetfrühstück mit Sekt, nachmittags Kaffee- und Teebuffet mit Gebäck und Snacks",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer A",
+          "description": "Doppelzimmer mit Dusche/WC (Bademantel, Slippers, Haarfön, Kosmetikspiegel), Digital-Kabel-TV/Radio, Telefon, WLAN und Balkon mit reichhaltigem, abwechslungsreichen Buffetfrühstück sowie nachmittags Kaffee- und Teebuffet mit Gebäck und weiteren Snacks und täglich eine Flasche Mineralwasser aufs Zimmer. ",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC, Nichtraucher",
+      "description": "Gemütliches Doppelzimmer mit Dusche/WC (Bademantel, Slipper, Haarfön, Kosmetikspiegel), Digital-Kabel-TV, Radio, Telefon, WLAN und Balkon inklusive reichhaltigem und abwechslungsreichen Buffetfrühstück mit Sekt, nachmittags Kaffee- und Teebuffet mit Gebäck und Snacks",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer B",
+          "description": "Doppelzimmer mit Dusche/WC (Bademantel, Slippers, Haarfön, Kosmetikspiegel), Digital-Kabel-TV/Radio, Telefon, WLAN und Balkon mit reichhaltigem, abwechslungsreichen Buffetfrühstück sowie nachmittags Kaffee- und Teebuffet mit Gebäck und weiteren Snacks und täglich eine Flasche Mineralwasser aufs Zimmer. ",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "0"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "50.00",
+          "maxPrice": "50.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC, Nichtraucher",
+      "description": "Doppelzimmer mit Dusche/WC (Bademantel, Slippers, Haarfön, Kosmetikspiegel), Digital-Kabel-TV/Radio, Telefon, WLAN und Balkon mit reichhaltigem, abwechslungsreichen Buffetfrühstück sowie nachmittags Kaffee- und Teebuffet mit Gebäck und weiteren Snacks und täglich eine Flasche Mineralwasser aufs Zimmer.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer C",
+          "description": "Doppelzimmer mit Dusche/WC (Bademantel, Slipper, Haarfön, Kosmetikspiegel), Digital-Kabel-TV, Radio, Telefon, WLAN und Balkon inklusive reichhaltigem und abwechslungsreichen Buffetfrühstück mit Sekt, nachmittags Kaffee- und Teebuffet mit Gebäck und Snacks",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "0"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "50.00",
+          "maxPrice": "50.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche und Bad, WC, Nichtraucher",
+      "description": "Doppelzimmer mit Dusche/Bad/WC (Bademantel, Slipper, Haarfön, Kosmetikspiegel), Digital-Kabel-TV, Radio, Telefon, WLAN und Balkon inklusive reichhaltigem und abwechslungsreichen Buffetfrühstück mit Sekt, nachmittags Kaffee- und Teebuffet mit Gebäck und Snacks",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer D",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "0"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Einzelzimmer, Dusche, WC, Nichtraucher",
+      "description": "Großzügiges Komfort-Einzelzimmer mit Dusche/WC (Bademantel, Slipper, Haarfön, Kosmetikspiegel), Digital-Kabel-TV, Radio, Telefon, WLAN und Balkon inklusive reichhaltigem und abwechslungsreichen Buffetfrühstück mit Sekt, nachmittags Kaffee- und Teebuffet mit Gebäck und Snacks",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Einzelzimmer A",
+          "description": "Großzügiges Einzelzimmer mit Dusche/WC (Bademantel, Slippers, Haarfön, Kosmetikspiegel), Digital-Kabel-TV/Radio, Telefon, WLAN und Balkon mit reichhaltigem, abwechslungsreichen Buffetfrühstück sowie nachmittags Kaffee- und Teebuffet mit Gebäck und weiteren Snacks und täglich eine Flasche Mineralwasser aufs Zimmer. ",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "0"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "65.00",
+          "maxPrice": "65.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Einzelzimmer, Dusche, WC, Nichtraucher",
+      "description": "Gemütliches Standard-Einzelzimmer mit Dusche/WC (Bademantel, Slipper, Haarfön, Kosmetikspiegel), Digital-Kabel-TV, Radio, Telefon, WLAN und Balkon inklusive reichhaltigem und abwechslungsreichen Buffetfrühstück mit Sekt, nachmittags Kaffee- und Teebuffet mit Gebäck und Snacks",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Einzelzimmer B",
+          "description": "Einzelzimmer mit Dusche/WC (Bademantel, Slippers, Haarfön, Kosmetikspiegel), Digital-Kabel-TV/Radio, Telefon, WLAN und Balkon mit reichhaltigem, abwechslungsreichen Buffetfrühstück sowie nachmittags Kaffee- und Teebuffet mit Gebäck und weiteren Snacks und täglich eine Flasche Mineralwasser aufs Zimmer. ",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "0"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "50.00",
+          "maxPrice": "50.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Einzelzimmer, Bad, WC, Nichtraucher",
+      "description": "Gemütliches Mansarden-Einzelzimmer mit Bad/WC (Bademantel, Slipper, Haarfön, Kosmetikspiegel), Digital-Kabel-TV, Radio, Telefon, WLAN inklusive reichhaltigem und abwechslungsreichen Buffetfrühstück mit Sekt, nachmittags Kaffee- und Teebuffet mit Gebäck und Snacks",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Einzelzimmer C",
+          "description": "Gemütliches Mansarden-Einzelzimmer mit Bad/WC (Bademantel, Slipper, Haarfön, Kosmetikspiegel), Digital-Kabel-TV, Radio, Telefon, WLAN und Balkon inklusive reichhaltigem und abwechslungsreichen Buffetfrühstück mit Sekt, nachmittags Kaffee- und Teebuffet mit Gebäck und Snacks",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "0"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ]
+    }
+  ]
+}

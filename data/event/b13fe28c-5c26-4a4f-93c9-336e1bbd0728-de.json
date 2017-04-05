@@ -1,0 +1,114 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": [
+      "Event"
+    ],
+    "name": "Dancing \u0026 Evergreen Party mit Live Band \u0026 DJ",
+    "eventStatus": "http://schema.org/EventScheduled",
+    "organizer": {
+      "@type": "Organization",
+      "name": "DANCINGBar",
+      "employee": {
+        "@type": "Person",
+        "familyName": "im Hotel Klosterbräu \u0026 SPA"
+      },
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Klosterstr. 30",
+        "addressLocality": "Seefeld",
+        "postalCode": "6100",
+        "addressCountry": "AT",
+        "telephone": "+4352122621168",
+        "url": "http://www.klosterbraeu.com"
+      }
+    },
+    "location": {
+      "@type": "Place",
+      "name": "DANCINGBar",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Klosterstr. 30",
+        "addressLocality": "Seefeld",
+        "postalCode": "6100",
+        "addressCountry": "AT",
+        "telephone": "+4352122621168",
+        "url": "http://www.klosterbraeu.com"
+      }
+    },
+    "description": "Live Musik mit der Band \"Rythm \u0026 Heels\" und ab Mitternacht musikalische Unterhaltung mit DJ STEREO_pan. Details auf www.klosterbraeu.com.",
+    "image": [
+      {
+        "@type": "ImageObject",
+        "url": "http://resc.deskline.net/images/SEE/1/a5caf988-c854-4312-872a-41e5e1841eb1/99/image.jpg",
+        "caption": "Party im Kännchen"
+      },
+      {
+        "@type": "ImageObject",
+        "url": "http://resc.deskline.net/images/SEE/1/c001052f-7896-4c8d-96a4-3b277ede118a/99/image.jpg",
+        "caption": "Hotel Klosterbräu"
+      }
+    ],
+    "url": [
+      "http://www.klosterbraeu.com"
+    ],
+    "startDate": "2017-02-25T21:30:00",
+    "endDate": "2017-02-25"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": [
+      "Event"
+    ],
+    "name": "Dancing \u0026 Evergreen Party mit Live Band \u0026 DJ",
+    "eventStatus": "http://schema.org/EventScheduled",
+    "organizer": {
+      "@type": "Organization",
+      "name": "DANCINGBar",
+      "employee": {
+        "@type": "Person",
+        "familyName": "im Hotel Klosterbräu \u0026 SPA"
+      },
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Klosterstr. 30",
+        "addressLocality": "Seefeld",
+        "postalCode": "6100",
+        "addressCountry": "AT",
+        "telephone": "+4352122621168",
+        "url": "http://www.klosterbraeu.com"
+      }
+    },
+    "location": {
+      "@type": "Place",
+      "name": "DANCINGBar",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Klosterstr. 30",
+        "addressLocality": "Seefeld",
+        "postalCode": "6100",
+        "addressCountry": "AT",
+        "telephone": "+4352122621168",
+        "url": "http://www.klosterbraeu.com"
+      }
+    },
+    "description": "Live Musik mit der Band \"Rythm \u0026 Heels\" und ab Mitternacht musikalische Unterhaltung mit DJ STEREO_pan. Details auf www.klosterbraeu.com.",
+    "image": [
+      {
+        "@type": "ImageObject",
+        "url": "http://resc.deskline.net/images/SEE/1/a5caf988-c854-4312-872a-41e5e1841eb1/99/image.jpg",
+        "caption": "Party im Kännchen"
+      },
+      {
+        "@type": "ImageObject",
+        "url": "http://resc.deskline.net/images/SEE/1/c001052f-7896-4c8d-96a4-3b277ede118a/99/image.jpg",
+        "caption": "Hotel Klosterbräu"
+      }
+    ],
+    "url": [
+      "http://www.klosterbraeu.com"
+    ],
+    "startDate": "2017-03-11T21:30:00",
+    "endDate": "2017-03-11"
+  }
+]

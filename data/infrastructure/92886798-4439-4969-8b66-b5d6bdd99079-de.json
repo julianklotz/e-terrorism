@@ -1,0 +1,22 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "JewelryStore",
+    "Store"
+  ],
+  "name": "Nostalgie - individueller Steinschmuck",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3290065809758",
+    "longitude": "11.1887168884277"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Nostalgie-individueller Steinschmuck",
+    "streetAddress": "Bahnhofstr. 124",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 52649"
+  }
+}

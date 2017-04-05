@@ -1,0 +1,169 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.lippenhof-leutasch.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Lippenhof",
+    "streetAddress": "Kirchplatzl 150",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6755",
+    "email": "lippenhof@utanet.at",
+    "url": "http://www.lippenhof-leutasch.at"
+  },
+  "name": "Lippenhof",
+  "description": [
+    "Familienfreundlicher Bauernhof in ruhiger sonniger Lage.\nZwei gemütliche gut ausgestattete Ferienwohnungen sind ganzjährig geöffnet.\nHerrlicher Ausgangspunkt für Spaziergänge und Wanderungen.\nIm Winter Loipennähe\nNichtraucherhaus",
+    "Inklusive Heizung, Wasser, Strom, Bettwäsche, Handtücher, \nim Sommer FREIER EINTRITT in die neue ErlebnisWelt Alpenbad Leutasch \nim Winter GRATIS LOIPENBENÜZUNG\n\nExklusive Endreinigung, Ortstaxe, Brötchen\n\nEs gelten die Allgemeinen Österreichischen Hotel Vertragsbedingungen!\nhttp://portal.wko.at/wk/format_detail.wk?angid\u003d1\u0026stid\u003d254299\u0026dstid\u003d316\u0026opennavid\u003d22665",
+    "1.) Entweder über Garmisch, Mittenwald, Unterleutasch - Oberleutasch - Kirche \noder\n2.) über Seefeld nach Weidach, Ober - Leutasch - Kirche \noder\n3.) über den Fernpass Richtung Telfs über Buchen nach Leutasch",
+    "1.) Entweder über Garmisch, Mittenwald, Unterleutasch - Oberleutasch - Kirche \noder\n2.) über Seefeld nach Weidach, Oberleutasch - Kirche \noder\n3.) über den Fernpass Richtung Telfs über Buchen nach Leutasch",
+    "Urlaub am Bauernhof\nUrlaub in Tirol\nLanglaufen\nWandern\nFerienwohnung Leutasch\nUrlaub mit Kindern"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/bd317399-851e-4e3f-ac6c-ac0ba63c9d67/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9ad0d561-b04e-4023-8cbc-56d9685626c2/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0ba1d54b-d854-438b-a580-5552546cb82c/99/image.jpg",
+      "caption": "Blick auf die Hohe Munde"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5c587a43-d0d6-4df6-a06a-993ef19b23bd/99/image.jpg",
+      "caption": "Winterlandschaft"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3f2cd205-44f9-47b8-ae9b-bb5a948ddfe3/99/image.jpg",
+      "caption": "Lippenhof Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0a5cf3af-e6c7-45ea-b062-cd22c228d5ed/99/image.jpg",
+      "caption": "Sommerlandschaft"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c309b2b4-cbc6-48f1-8371-bb20634071c7/99/image.jpg",
+      "caption": "Sommerlandschaft 2"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.370744185761",
+    "longitude": "11.142367563145"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "für 2 bis 4 Personen, im 1. Stock, 40 m² groß, ein seperates Schlafzimmer, Dusche/WC, ein Wohn-Schlafzimmer, praktische Küchenzeile mit Mikrowelle, große Sonnenterrasse",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment Nr. 2/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "40.00",
+          "maxPrice": "60.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "48.00",
+          "maxPrice": "68.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "55.00",
+          "maxPrice": "75.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "für 2 bis 5 Personen, im Parterre, 50 m² groß, ein seperates Schlafzimmer, ein Wohn-Schlafraum, Küche mit Backrohr, Dusche/WC, Vorraum, gemütliche Sitzecke im Freien",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment Nr. 1/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "40.00",
+          "maxPrice": "60.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "48.00",
+          "maxPrice": "68.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "55.00",
+          "maxPrice": "75.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "62.00",
+          "maxPrice": "64.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

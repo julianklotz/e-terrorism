@@ -1,0 +1,80 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.ostbach.at"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Pension Ostbach",
+    "streetAddress": "Ostbach 2",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 417 3059",
+    "email": "zimmer@ostbach.at",
+    "url": "http://www.ostbach.at"
+  },
+  "name": "Pension Ostbach",
+  "description": [
+    "Familien Frühstückspension.",
+    "Flat Screen Fernseher, WIFI Internet, kostenloses parken.",
+    "Check-in: ab 14.00 Uhr bis 21.00 Uhr\n"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9717261d-ccbc-496b-a6c5-5cad4102d28b/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/74e96dc9-549d-4b73-9c26-cb5c987701c2/99/image.jpg",
+      "caption": "Sommer"
+    }
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC, Balkon",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer, Dusche, WC, Balkon",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "70.00",
+          "maxPrice": "70.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "70.00",
+          "maxPrice": "70.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Church"
+  ],
+  "name": "Birzelkapelle",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3891615661047",
+    "longitude": "11.2803518772125"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Informationsbüro Scharnitz",
+    "streetAddress": "Innsbrucker Str. 282",
+    "addressLocality": "Scharnitz",
+    "postalCode": "6108",
+    "addressCountry": "AT",
+    "telephone": "+4350880540 ",
+    "faxNumber": "+4350880541",
+    "email": "info.scharnitz@seefeld.com",
+    "url": "http://www.seefeld.com"
+  },
+  "description": "Birzelkapelle\nKnapp eine Gehstunde oberhalb von Scharnitz, am alten Weg ins Karwendeltal in Richtung Karwendelhaus, steht einsam und versteckt im Wald eine Kapelle, die der Muttergottes geweiht ist. Das erste Mal erwähnt wurde die Kapelle bereits 1809, allerdings ist nicht bekannt von wem und zu welchem Anlass sie erbaut wurde. Durch den Bau dieser Kapelle stellte man das gesamte Gebiet unter den Schutz des Festes „Maria Heimsuchung“ – Kirchtag der Inrainer Familien (Agrargemeinschaft Inrain) – welches auf Grund der Fürsprache der Gottesmutter vor Unwetter und Blitzschlag, der im Hochgebirge besonders gefährlich ist, schützen sollte. Im Jahre 1956 wurde anstelle der alten, baufällig gewordenen Kapelle die jetzige Kapelle durch die Agrargemeinschaft Inrain unter Obmann Albert Heiß neu errichtet. Die Pläne stammten vom Innsbrucker Baumeister Kelderer. Das Altarbild schuf der akademische Maler Max Spielmann. Die Glocke wurde von der Fa. Graßmayr in Innsbruck gegossen. Die Gesamtkosten betrugen damals ca. 50.000,- Schilling, für welche die kleine Gemeinschaft der Inrainer Familien\nselber aufkam (15 Anteile). Für die würdige Betreuung sorgten die Familien des Inrain selbst, derzeit liegt diese in den Händen von Frau Eva\nStahlberg geb. Mimm. Es ist erfreulich, wie diese kleine Gemeinschaft die alten Traditionen selbstlos pflegt und durch Generationen weitergibt.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/255f5de6-d631-4a49-aa8d-847464fae67b/99/image.jpg",
+      "caption": "Kapelle"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3440f2ef-c0aa-4231-a7bd-bdda55c3010f/99/image.jpg",
+      "caption": "Birzelkapelle"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2bd3656e-3770-4e1b-9d99-cf1633d09fd8/99/image.jpg",
+      "caption": "Altarbild Birzlkapelle"
+    }
+  ]
+}

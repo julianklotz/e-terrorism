@@ -1,0 +1,18 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Hohe Munde Str. 590 / Top 7",
+    "addressLocality": "Seefeld in Tirol",
+    "postalCode": "6100",
+    "addressCountry": "AT"
+  },
+  "name": "ZW - Hacker Hans Jürgen",
+  "currenciesAccepted": "EUR"
+}

@@ -1,0 +1,84 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://haus.woduschegg.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Woduschegg",
+    "streetAddress": "Gschwandt 19",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "0043 5212 4237",
+    "faxNumber": "0043 5212 4237",
+    "email": "haus_woduschegg@gmx.at",
+    "url": "http://haus.woduschegg.at"
+  },
+  "name": "Haus Woduschegg",
+  "description": [
+    "Unser Haus liegt in ruhiger Waldlage direkt an der Loipe. 2 Gehminuten vom Wildsee und 7 Minuten vom Ortszentrum. Alle App. mit Dusche, WC, Balkon, Farb TV, Radiowecker, Parkplatz, Liegewiese, Gartengrill.",
+    "Im Tages-Appartement-Preis ist beinhaltet:\nHeizung, Wasser, Badetücher, Handtücher, Geschirrtücher, Strom, Bettwäsche, Liegewiese, Gartengrill\nNicht im Tages-Appartement-Preis beinhaltet: Endreinigung und Kurtaxe",
+    "Check -  In : 16:00 Uhr\nCheck  - Out : 10.00 Uhr\nVon Garmisch kommend durch Seefeld bis Hotel Bergland, dann abbiegen, rechts und nach 150m links abbiegen ( vor Transformatorhaus ) ca. noch 80m halbrechts weiterfahren bis zum Haus Woduschegg.\nVon Innsbruck kommend - Innsbrucker Hauptstrasse bis Hotel Berghof, dann links abbiegen und nach ca. 180m links abbiegen ( vor dem Transformatorhaus )ca. noch 80m halbrechts weiterfahren bis zum Haus Woduscheg."
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "reviewCount": "13"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/38275f6e-15a0-4187-b84e-067db084d794/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c7769dbd-b89d-4bc2-a8c1-9f0d13c88332/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e601eb57-9ccd-4a0b-88bb-1ec524848c0a/99/image.jpg",
+      "caption": "Aussicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a55d606d-718f-4865-8de2-b11368572110/99/image.jpg",
+      "caption": "Garten"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3223523996809",
+    "longitude": "11.1880195140839"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Gemütliche 2 - Zimmer Appartements in ruhiger Waldlage, direkt an der Loipe, 2 Gehminuten vom Wildsee, 7 Minuten vom Ortszentrum.\nSchlafzimmer separat. Wohn - Esszimmer, Dusche, WC, Waschbecken, Küchenblock, eigener Balkon, Farb TV, Radio-Wecker. usw.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

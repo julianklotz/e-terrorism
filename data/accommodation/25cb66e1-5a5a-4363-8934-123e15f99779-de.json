@@ -1,0 +1,104 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Gästehaus Paula",
+    "streetAddress": "Porta Claudia Str. 227",
+    "addressLocality": "Scharnitz",
+    "postalCode": "6108",
+    "addressCountry": "AT",
+    "telephone": "+4352135247",
+    "faxNumber": "+4352135393 4",
+    "email": "gaestehaus.paula@aon.at"
+  },
+  "name": "Gästehaus Paula",
+  "description": [
+    "Ein familienfreundliches Haus in zentraler, sonniger und sehr ruhiger Lage. Es stehen Ihnen geräumige Doppelzimmer mit Du/WC und Süd-/Ostbalkon zur Verfügung. Frühstücksraum mit TV, großer Parkplatz, großer Garten mit Kinderspielplatz, Schiraum,  Rodel- und Fahrradverleih gratis!\nAuf Ihren Besuch freut sich Familie Vonmetz.",
+    "von Deutschland kommend bei der Kirche rechts abbiegen in die Porta Claudia Strasse über die Brücke und dann gleich rechts Gästehaus Paula."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d360326e-e0b0-4c72-acda-cd0dcbd503a0/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/17176c27-3607-4542-9050-e89fb977b54c/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2f78d8b6-86ca-43e8-ab76-6e4c9feee553/99/image.jpg",
+      "caption": "Winter 1"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3906962396833",
+    "longitude": "11.2625481879738"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Grossräumige, gemütliche und ruhige Doppelzimmer mit leichtem Fließwassergeräuch von Aussen - Bachnähe!",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "21.00",
+          "maxPrice": "21.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 2 Schlafräume",
+      "description": "2 getrennte Schlafzimmer, Wohnküche Bad/WC, Balkon, Südwestseite.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/2 Schlafräume/Bad, WC",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

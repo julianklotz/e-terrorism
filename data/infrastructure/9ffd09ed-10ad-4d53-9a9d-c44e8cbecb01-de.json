@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "TouristAttraction"
+  ],
+  "name": "Hochleithenkopf",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3020854108737",
+    "longitude": "11.1940500470215"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Hochleithenkopf",
+    "streetAddress": "Mühlbergweg",
+    "addressLocality": "Reith bei Seefeld",
+    "postalCode": "6103",
+    "addressCountry": "AT"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/50d08a7c-4059-46ee-9694-3b30a19e0d0c/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c147eaa7-099d-474e-8248-62c4aea1d9bd/99/image.jpg",
+      "caption": "Winter"
+    }
+  ],
+  "url": [
+    "http://www.seefeld.com"
+  ]
+}

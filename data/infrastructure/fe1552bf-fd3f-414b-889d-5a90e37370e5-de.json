@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "TouristAttraction",
+    "LandmarksOrHistoricalBuildings"
+  ],
+  "name": "\"Rotes\" Kreuz am Wildsee",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3215658155835",
+    "longitude": "11.1957881184632"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "\"Rotes\" Kreuz am Wildsee",
+    "streetAddress": "Kreuzweg",
+    "addressLocality": "Reith bei Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT"
+  },
+  "description": "An der Pfarr- und Gemeindegrenze zu Seefeld steht dieses bekannte Feldkreuz,\ndas seinen Namen wohl von einem Anstrich bekommen hat.\nAn dieser Stelle hat früher der See bis an den Weg herangereicht und diesen\nauch zeitweise überflutet, sodass er mit der „Loba“ dem Sumpf- und Seegebiet\nnördlich der Straße, verbunden war. Das Kreuz soll der Überlieferung\nnach daran erinnern, dass hier Reither Burschen ertrunken seien. Sie hatten\nversucht, bei hohem Wasserstand durchzuwaten, und dabei den Boden unter\nden Füßen verloren.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a19fd796-0973-48c2-b2ab-6ff65c240674/99/image.jpg",
+      "caption": "\"Rotes Kreuz\" am Wildsee"
+    }
+  ],
+  "url": [
+    "http://www.seefeld.com"
+  ]
+}

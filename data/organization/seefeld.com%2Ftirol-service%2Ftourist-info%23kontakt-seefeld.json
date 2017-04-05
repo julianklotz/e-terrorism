@@ -1,0 +1,141 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "TouristInformationCenter",
+  "@id": "http://www.seefeld.com/tirol-service/tourist-info#kontakt-seefeld",
+  "name": "INFORMATIONSBÜRO SEEFELD",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Seefeld",
+    "addressRegion": "Tirol",
+    "postalCode": "6100",
+    "streetAddress": "Klosterstrasse 43",
+    "addressCountry": "AT"
+  },
+  "email": "info@seefeld.com",
+  "image": "http://www.seefeld.com/portal/assets/images/environment/logo_seefeld_weiss.svg",
+  "telephone": "+43 508800",
+  "faxNumber": "+43 50880851",
+  "url": "http://www.seefeld.com/tirol-service/tourist-info#kontakt-seefeld",
+  "openingHoursSpecification": [
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday"
+      ],
+      "opens": "08:30",
+      "closes": "18:00",
+      "validThrough": "2016-11-24"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday"
+      ],
+      "opens": "08:30",
+      "closes": "18:30",
+      "validFrom": "2016-11-25"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "Sunday",
+      "opens": "10:00",
+      "closes": "12:30",
+      "validFrom": "2016-11-25"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "Sunday",
+      "opens": "15:00",
+      "closes": "17:00",
+      "validFrom": "2016-11-25"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "opens": "08:30",
+      "closes": "16:00",
+      "validFrom": "2016-12-24",
+      "validThrough": "2016-12-24"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "opens": "10:00",
+      "closes": "13:00",
+      "validFrom": "2016-12-25",
+      "validThrough": "2016-12-26"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "opens": "14:00",
+      "closes": "17:00",
+      "validFrom": "2016-12-25",
+      "validThrough": "2016-12-26"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "opens": "10:00",
+      "closes": "13:00",
+      "validFrom": "2017-01-01",
+      "validThrough": "2017-01-01"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "opens": "14:00",
+      "closes": "17:00",
+      "validFrom": "2017-01-01",
+      "validThrough": "2017-01-01"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "opens": "10:00",
+      "closes": "13:00",
+      "validFrom": "2017-01-06",
+      "validThrough": "2017-01-06"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "opens": "14:00",
+      "closes": "17:00",
+      "validFrom": "2017-01-06",
+      "validThrough": "2017-01-06"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "opens": "10:00",
+      "closes": "13:00",
+      "validFrom": "2017-01-08",
+      "validThrough": "2017-01-08"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "opens": "14:00",
+      "closes": "17:00",
+      "validFrom": "2017-01-08",
+      "validThrough": "2017-01-08"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "opens": "10:00",
+      "closes": "13:00",
+      "validFrom": "2017-02-26",
+      "validThrough": "2017-02-26"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "opens": "14:00",
+      "closes": "17:00",
+      "validFrom": "2017-02-26",
+      "validThrough": "2017-02-26"
+    }
+  ],
+  "mainEntityOfPage": "http://www.seefeld.com/tirol-service/tourist-info"
+}

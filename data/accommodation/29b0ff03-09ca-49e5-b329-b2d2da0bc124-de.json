@@ -1,0 +1,155 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.landhaus-anna.com",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Landhaus Anna",
+    "streetAddress": "Moos 23 a",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6668",
+    "faxNumber": "(0043) 5214 6668",
+    "email": "info@landhaus-anna.com",
+    "url": "http://www.landhaus-anna.com"
+  },
+  "name": "Landhaus Anna",
+  "description": [
+    "Umgeben von Wiesen und der herrlichen Bergwelt mit dem Wettersteingebirge und dem Hausberg, die Hohe Munde. Iealer Ausgangspunkt vieler Spaziergänge, Wanderungen und Radtouren im Sommer. Im Winter direkt an der Loipe. Bei uns finden Sie, Gemütlichkeit, Komfort und Erholung.\nIm Sommer gratis Eintritt ins Schwimmbad Alpenbad Leutasch. Brötchenservice möglich.",
+    "INKLUSIVE: Heizung, Strom, Wasser, Garage, Wäsche, Endreinigung\nEXKLUSIVE: Ortstaxe, Brötchenservice ",
+    "Durchfahren bis Ortsteil Obern, bei der Kapelle, links abbiegen 400 Meter bei Haus Sabine, rechts einbiegen 50 Meter bis Landhaus Anna",
+    "ferienwohnung,leutasch,urlaub,langlauf,wandern,ski,zimmer,bergtour,tirol,mountainbike,tourenski,neuk"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f2355331-a29e-4d8e-bbda-f8c5157c58ec/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3ffe3fdf-0d15-4a72-b858-f836deae80cd/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/713759dc-9119-489c-8114-8ef5733389e4/99/image.png",
+      "caption": "Anreise Plan"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3486a63b-3b71-44bb-9e1c-e5805282a1b3/99/image.jpg",
+      "caption": "Aussicht Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d8fe8f39-8739-4e35-b94e-0ac86b79d63a/99/image.jpg",
+      "caption": "Aussicht Winter "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/158d00cb-a631-40da-8303-e8ae33cb419f/99/image.jpg",
+      "caption": "Balkon"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4a302438-f85c-4337-a176-d0073142eab4/99/image.jpeg",
+      "caption": "Haus im Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.356070910743",
+    "longitude": "11.12268431122"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche oder Bad, WC, 1 Schlafraum",
+      "description": "Unsere zwei hell eingerichteten, sonnigen Ferienwohnungen (West/Ost) mit 55m² Wohnfläche befinden sich im ersten Stock mit separaten Schlafzimmer und komplett eingerichteter Küche mit Geschirrspüler.Beide Wohnungen haben Südbalkon mit Liegestühlen. Nichtraucherwohnung, gemütliche Wohnung mit Naturholzmöbel.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/1 Schlafraum/Dusche od. Bad,WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "46.00",
+          "maxPrice": "82.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "46.00",
+          "maxPrice": "82.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 2 Schlafräume",
+      "description": "Unsere zwei hell eingerichtete, sonnige Ferienwohnungen (West/Ost) mit 55m² Wohnfläche befinden sich im ersten Stock mit separaten Schlafzimmer und komplett eingerichteter Küche mit Geschirrspüler. Das zweite Schlafzimmer mit Dusche/WC ist auf der selben Etage mit Westbalkon vorhanden. Beide Wohnungen haben Südbalkon mit Liegestühlen. Nichtraucher gerne gesehen! Sonnige Feriewohnung mit 55m² Wohnfläche im ersten Stock. SAT/TV und Südenbalkon Appartement für 2 Personen mit zusätzlichem Schlafzimmer bis 4 Personen.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/2 Schlafräume/Dusche, Bad, WC",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "49.00",
+          "maxPrice": "82.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "58.00",
+          "maxPrice": "58.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "67.00",
+          "maxPrice": "67.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

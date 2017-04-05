@@ -1,0 +1,244 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.steinroeschen.com",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Steinröschen",
+    "streetAddress": "Am Kirchwald 320",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "0043 5212 3393",
+    "faxNumber": "0043 5212 3393",
+    "email": "info@steinroeschen.com",
+    "url": "http://www.steinroeschen.com"
+  },
+  "name": "Haus Steinröschen",
+  "description": [
+    "Erika Friesser freut sich, Sie im Haus Steinröschen in Seefeld in Tirol mit einem herzlichen „Grüß Gott“ willkommen zu heißen! Genießen Sie Ihren Urlaub in einem der beiden mit Liebe eingerichteten Appartements inmitten der wunderschönen Olympiaregion Seefeld.\n\nErholungssuchende kommen durch die idyllisch und ruhig gelegenen Ferienwohnungen in Seefeld bereits auf ihre Kosten. Aktivurlauber können in nur 5 Gehminuten das Seefelder Zentrum bequem erreichen, um den Ort und die gesamte Olympiaregion zwischen Wetterstein- und Karwendelgebirge zu entdecken - gerne auch mit Hund. \n\nDas mit 3 Edelweiß ausgezeichnete Haus Steinröschen verfügt über ein 2-Raum- und ein 3-Raum-Appartement. Jedes der beiden Appartements ist mit Sat-TV, W-Lan, einer gemütlichen Sitzecke, einer Küchenzeile, einem Badezimmer mit Dusche sowie einem Balkon ausgestattet. Damit Sie gut gestärkt in Ihren Wander- oder Skitag starten können, werden auf Wunsch täglich frische Brötchen vom heimischen Bäcker geliefert. Im nur 50 m entfernten Restaurant können Sie bei guten italienischen Spezialitäten die Erlebnisse des Urlaubstages rund um Seefeld in Tirol Revue passieren lassen. Selbstversoger finden im nur 5 Gehminuten entfernten Supermarkt alles für eine „g’schmackige Jause“ und eine gesunde Brotzeit.\n\nIm Sommer bietet das Haus Steinröschen einen gepflegten Garten mit Liegewiese und Kinderspielplatz, eine wahre Seefelder Ferienoase für Familien, inklusive Hund. Spazier- und Wanderwege können Sie direkt vor der Haustür beginnen und die eigenen Tennisqualitäten auf einem der nur 500 m entfernten Tennisplätze bei der WM-Halle Seefeld testen. Dem Traum vom kühlen Nass kann man sich nach 3 Minuten zu Fuß im Olympiabad des Sport- und Kongresszentrums Seefeld hingeben - einschließlich Ermäßigung für Gäste des Haus Steinröschen.\n\nIm Winter finden Sie nach dem Skivergnügen im hauseigenen Skiabstellraum Platz für Ihre Ausrüstung. Zu den Seefelder Skigebieten Bergbahnen Rosshütte und Gschwandtkopflifte gelangt man bequem mit dem kostenlosen Skibus. Die Skibus- und Dorfbushaltestellen sind in nur 3 Gehminuten erreichbar, ebenso der Loipeneinstieg.\nKostenlose Parkplätze sind beim Haus vorhanden und auch Ihr Hund ist willkommen.\n\nFamilie Friesser erwartet Sie und Ihre Lieben mit Freude im Haus Steinröschen in Seefeld in Tirol - das ist Urlaub pur!\n",
+    "Inklusive: Heizung/Wasser, Bettwäsche und Handtücher\nExklusive: Telefon, Hund: € 10,-, \n\nCheck-in: von 14.30 bis 18.00 Uhr\nCheck-out: bis 10.30 Uhr\nBei früherem Check-in / späterem Check-out: Bitte um Benachrichtigung der Gastgeber!",
+    "Check-in: von 14.30 bis 18.00 Uhr\nCheck-out: bis 10.30 Uhr\nBei früherem Check-in / späterem Check-out: Bitte um Benachrichtigung der Gastgeber!"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "reviewCount": "42"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7410914b-4181-4913-961c-2e119cc6282c/99/image.jpg",
+      "caption": "Haus Steinröschen Sommer Seefeld in Tirol"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/20648cc9-30e1-4b80-aa56-483b8d0d9af0/99/image.jpg",
+      "caption": "Haus Steinröschen Winter Seefeld in Tirol"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2f94895f-b891-4150-a4a8-e93aba5a7629/99/image.jpg",
+      "caption": "Eingang Haus Steinröschen Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0e62e1ff-fa6a-458f-bf4b-374cea8bbd96/99/image.jpg",
+      "caption": "Haus Steinröschen Spielplatz Seefeld in Tirol"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/06dda516-11ae-4583-89bb-37c511e855a7/99/image.jpg",
+      "caption": "Haus Steinröschen Garten Seefeld in Tirol"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/26533812-189e-4e45-9951-ee029e8a8217/99/image.jpg",
+      "caption": "Haus Steinröschen Sommer Garten"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/208c3d6a-f78b-4b8f-84ec-b0b53ed22ba5/99/image.jpg",
+      "caption": "Haus Steinröschen Seefeld Außenansicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9b2665c8-8ddb-47be-b3e1-bea5dfd9ede4/99/image.jpg",
+      "caption": "Haus Steinröschen Seefeld Sommer Spielplatz"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/641bb8e9-5773-46c4-bd10-bbfe1f019d62/99/image.jpg",
+      "caption": "Haus Steinröschen Seefeld Außenansicht Garten"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/24ea233d-6337-4dfa-a3e8-88c35d7bbcab/99/image.jpg",
+      "caption": "Garage Haus Steinröschen Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0bd9fbee-58dd-4026-a294-7b6a5cedb947/99/image.jpg",
+      "caption": "Vogelhäuschen Garten Haus Steinröschen Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a8fcb3df-b387-4a8d-ad91-74002dbbe107/99/image.jpg",
+      "caption": "Winteransicht Haus Steinröschen Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0d225763-ddae-42c7-8257-c7363b3a2c27/99/image.jpg",
+      "caption": "Nordansicht Haus Steinröschen Seefeld"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3289265903317",
+    "longitude": "11.1793291568756"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "Unser gemütliches, neues App. ist komplett ausgestattet, Wohnraum mit Küchenblock und Geschirrspüler, Südterrasse mit Blick auf den Hocheder + Nordbalkon mit Blick auf das Wettersteingebirge, SAT/TV mit internationalen Programmen: ital. franz. holl. engl., Telefon, Internet - kostenloses WLAN,  2 Schlafzimmer, Wohnküche, Dusche/WC, Föhn\ngroßer Garten mit Spielmöglichkeit für die Kinder,\nGarage, Wäsche wird gestellt;",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement A - Steinröschen",
+          "description": "Unser privates Familienhaus befindet sich in einer sehr ruhigen und sonnigen Lage ca. 3 Gehminuten vom Sport- und Kongreßzentrum sowie 7 Gehminuten vom Ortszentrum entfernt. Die Nähe der Langlaufloipen, Schipisten, Tennishalle und den Wanderwegen nach Mösern und Wildmoos ermöglicht es Ihnen den Urlaub zu genießen. Kinderbett und Hochstuhl, sowie unser großer Garten mit Kinderspielplatz kann gerne von unseren kleinen Gästen benützt werden. Haustiere erlaubt, Garage und Loipenbenützung gratis.",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Winter Wander- und Langlaufpauschale",
+          "description": "Diese Pauschale beinhaltet: eine Woche Aufenthalt in unserem gemütlichen, ruhigen Appartement (inkl. Garage), in unmittelbarer Nähe der schönsten Wanderwege und Ausflugsziele. Im Preis inkludiert sind weiters eine detaillierte Wander- und Loipenkarte der Region sowie der tägliche Verleih von Nordic Walking Stöcken.",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/e7ae8703-4da2-480f-af60-39e9f8e9bfa4/99/image.jpg",
+              "caption": "Langlauf"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/7513cd6c-fbe9-4302-9808-2da51b329cd9/99/image.jpg",
+              "caption": "Wandern"
+            }
+          ],
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "54.00",
+          "maxPrice": "96.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "54.00",
+          "maxPrice": "98.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "54.00",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "60.00",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "495.00",
+          "maxPrice": "495.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "495.00",
+          "maxPrice": "495.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "495.00",
+          "maxPrice": "495.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Im ersten Stock betreten Sie die Wohnung durch eine kleine Diele und stehen im Wohnraum mit einer Kochgelegenheit. Hier steht Ihnen auch ein Farbfernseher mit Sat zur Verfügung. Im Schlafraum befindet sich ein Doppelbett. Im Badezimmer sind Dusche und WC. Handtücher, Bettwäsche kostenlos. Nordseitiger Balkon, mit Blick auf das Wettersteingebirge.\nGratis Parkplatz. Brötchenservice möglich.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement B - Alpenröschen",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "43.00",
+          "maxPrice": "57.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "43.00",
+          "maxPrice": "57.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

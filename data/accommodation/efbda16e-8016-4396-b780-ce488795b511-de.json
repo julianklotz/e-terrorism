@@ -1,0 +1,697 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://www.aktivhotel-veronika.at/de/",
+    "http://www.aktivhotel-veronika.at/de/",
+    "http://www.aktivhotel-veronika.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Aktivhotel Veronika-Travel GmbH",
+    "streetAddress": "Riehlweg 161",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2105",
+    "faxNumber": "(0043) 5212 3787",
+    "email": "veronika@seefeld.at",
+    "url": "http://www.aktivhotel-veronika.at"
+  },
+  "name": "Aktivhotel Veronika",
+  "description": [
+    "Das Aktivhotel Veronika**** finden Sie im Herzen der Olympiaregion Seefeld. Modernes Design vermischt mit Tiroler Tradition und rustikaler Bauweise - das AktivHotel Veronika als Oase der Tiroler Gastfreundschaft und Gemütlichkeit. Alle unsere Zimmer sind individuell und mit viel Liebe im Tiroler Landhausstil eingerichtet. Wer einen ganzen Tag im AktivHotel verbringen möchte, ist bei uns gut aufgehoben, denn Hallenbad, Sauna, Fitnessraum, Solarium, Massagen, Kaminlounge, Internetstation sowie Billard.",
+    "Garage pro Tag: 5€ -€ 10,-\nHunde pro Tag ohne Futter: € 10,-\nSolarium: € 1,- pro Minute\nKostenfrei:\nSat-TV (GB, I, E, F, D, NL,RU), Safe, Bademantel, Hallenbad, Sauna, W-Lan, Gitterbett, Baby-phone, DVD-Verleih\nKiddy´s Club inkl. Mittags-und Abendessen mit Saftbar für unsere kleinen Gäste (4-12 Jahre)\nStornierungsbedingungen:\n30-15 Tage \u003d 30%´; 14-8 Tage 50%; 7-4 Tage 70%; 03-00 Tage 9",
+    "Anreise-Auto:\nAutobahn A95 München - Garmisch Partenkirchen - B2 Mittenwald - B 313 Seefeld Mitte Abfahrt Seefeld Mitte\nAutobahn A8 / A 93 München - Kufstein - A 12 Innsbruck, B 313 - Ausfahrt Seefeld Mitte vor dem Bahnübergang links abbiegen.\n\nStornierungsbedingungen:\n30-15 Tage \u003d 30%´; 14-8 Tage 50%; 7-4 Tage 70%; 03-00 Tage 90%"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "reviewCount": "851"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e93e83f3-8682-40fd-92a5-85c5d549fade/99/image.jpg",
+      "caption": "Winter-Veronika Neu 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2cd653f8-fcaa-4761-a336-6d47b3bdee8c/99/image.jpg",
+      "caption": "8518-1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e29e3c8f-0bcc-46d6-935b-a83047318caf/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4b5922c8-7d3c-4fb2-bb03-19a93fb037be/99/image.jpg",
+      "caption": "Wellness Hallenbad"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a351c787-cc4c-44d0-9f21-71286a0fc557/99/image.jpg",
+      "caption": "Fitnessraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f46f12e3-3042-4472-b707-3b63686c5c0b/99/image.jpg",
+      "caption": "Kiddyclub"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1c8c71a2-be22-4ea9-bea4-ea06af73cfb5/99/image.jpg",
+      "caption": "Tagungsraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/43d9d905-ad01-4d43-9c3e-a75fef7ee87e/99/image.jpg",
+      "caption": "Aufenthaltsaum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f3cc5c1b-61c3-4549-92d5-e5f64fc2ebf0/99/image.jpg",
+      "caption": "Sauna"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/dd4567c1-f384-4834-80ca-d7025db53225/99/image.jpg",
+      "caption": "Kinder"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/32102eaf-e277-4257-a49c-9aeab6b633d0/99/image.jpg",
+      "caption": "7381"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b1416d94-f45c-4fb6-92b0-13ccca478b87/99/image.jpg",
+      "caption": "Veronika-Suite 02"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5a900b99-a7af-4c48-863e-566442d430a3/99/image.jpg",
+      "caption": "Zimmer Deluxe #101+102+103"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/41b5c130-eeaf-4384-8f3f-76957db0be19/99/image.jpg",
+      "caption": "03e-Panorama-RGB-Gross"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f0871221-390c-4480-842b-4b9de4557739/99/image.jpg",
+      "caption": "222-1103_1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/09ee4637-dd4f-47eb-8d94-865ce76bb784/99/image.jpg",
+      "caption": "314-1542"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ed573db5-ac62-45a1-9384-b0c676ee8531/99/image.jpg",
+      "caption": "7225_1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/72aab6e7-f185-4dad-8e2c-89371e6da25a/99/image.jpg",
+      "caption": "7376"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/203ebc4f-9071-4929-88f3-39922741b8d6/99/image.jpg",
+      "caption": "7381"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0e93aaf6-92a0-4552-92e9-4d999230a438/99/image.jpg",
+      "caption": "7731"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/bba650d9-6629-4fcc-94c7-0e8efcabcac4/99/image.jpg",
+      "caption": "7746"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d461b7e5-8eeb-4d1e-82e4-6bfff71d0da6/99/image.jpg",
+      "caption": "7749"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ad315090-5279-454b-913b-d36de05e484a/99/image.jpg",
+      "caption": "03a"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/be987cc2-5e5f-4c00-bd4e-c57e3b1c076c/99/image.jpg",
+      "caption": "Sommer 4"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/763d0405-ee79-46af-9d7e-c0ba72cd0462/99/image.jpg",
+      "caption": "DZ-Deluxe 119"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4cc402fd-07f0-4e74-aa7b-1f1b7175a27c/99/image.jpg",
+      "caption": "hotel-veronika-previews-web14"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/56c1a874-379a-4841-bac7-175c8f611fea/99/image.jpg",
+      "caption": "123-Kinder-Zimmer-1"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3310308493393",
+    "longitude": "11.1899654567242"
+  },
+  "paymentAccepted": [
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Bad, WC, Nichtraucher",
+      "description": "Doppelzimmer mit Bad/WC, SAT-TV, Telefon, Minbar, Radio-Wecker, Safe, Haarfön, Bademantel;",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer \"Veronika\"",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "700.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Bad, WC, Nichtraucher",
+      "description": "Doppelzimmer mit Wohn-Schlafbereich, Balkon, DVD- /CD-Player, Bad/WC, SAT-TV, Telefon, Minibar, Radio-Wecker, Safe, Haarfön, Bademantel;",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer \"Deluxe\"",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Osterpackage 4 Tage",
+          "description": "•4 Nächte im komfortablen Doppelzimmer\n•Begrüßungscocktail in unserer Hotelbar\n•Vitalisierendes Frühstücksbuffet von 08:00 bis 12:00 Uhr\n•Kaffee-, Tee- und Kuchen von 16:00 bis 17:00 Uhr\n•4-Gang-Gourmet-Abendmenü mit Wahlmöglichkeit\n••5-Gang-Gala-Osterdegustationsmenü\n•Osterprogramm vom 21. April bis 30. April 2011 für Groß und Klein\n•Ostereiermalen sowie Basteln von Osterdekoration\n•Ostereiersuche im Veronika Garten am Morgen des Ostersonntag\n•Besuch des Osterhasen\n",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "188.00",
+          "maxPrice": "700.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Bad, WC",
+      "description": "Doppelzimmer mit Bad/WC, Balkon, SAT-TV, Telefon, Minibar, Radio-Wecker, Safe, Haarfön, Bademantel;",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer \"Superior\"",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Teeny-Erlebniswoche August",
+          "description": "7 Tage Teeny-Erlebnis\n(Eltern mit Kindern von 7 bis 16 Jahren)\n \n•7 Tage im Familienzimmer Superior\n•Kletterkurs an der hauseigenen Kletterwand\n•Body - Painting\n•Fußballturnier\n•Fackelwanderung\n•Kanufahren auf dem Wildsee\n•Kinoabend\n•Cityreally\n•Umfangreiche Kinderanimation von 10-22 Uhr \n",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Bergadvent",
+          "description": "Genießen Sie den Bergadvent in Seefeld bei folgenden Aktivitäten:\n\n-Malerische Zugfahrt zum Christkindlmarkt in Innsbruck inkl. Stadtführung\n-Nostalgische Pferdekutschenfahrt durch die Seefelder Winterlandschaft\n-Fackelwanderung um den Wildsee",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Ostertage in den Bergen",
+          "description": "•Ostereiermalen und Basteln von Osterdekoration\n•Ostereiersuche im Veronika-Garten am Morgen des Ostersonntag\n•Besuch des Osterhasen am Ostersonntag\n•Familienkutschenfahrt\n•Fackelwanderung\n",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Schi-Alpin-Woche",
+          "description": "Genießen Sie unsere Schi-Alpin-Woche:\n\n-Schipass für 6 Tage (Rosshütte und Gschwandtkopf)\n-1 Teilkörpermassage\n-Kostenfreier Skibus",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Familienwoche",
+          "description": "Verbringen Sie mit der ganzen Familie eine Woche im Aktivhotel Veronika und erleben Sie:\n\n-Besuch der einzigartigen Swarovski Kristallwelten in Wattens\n-Nostalgische Pferdekutschenfahrt durch die Seefelder Winterlandschaft\n-Unvergessliche Familienfackelwanderung rund um den Wildsee\n-Familienrodelabend mit anschießendem Aufwärmen am offenen Kamin\n-1 geführte Familienwanderung durch die Seefelder Winterwelt",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "3"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Mountainbike-Erlebniswoche",
+          "description": "•Ostereiermalen und Basteln von Osterdekoration\n•Ostereiersuche im Veronika-Garten am Morgen des Ostersonntag\n•Besuch des Osterhasen am Ostersonntag\n•Familienkutschenfahrt\n•Fackelwanderung\n",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer \"Superior\" copy",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "176.00",
+          "maxPrice": "700.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "220.00",
+          "maxPrice": "555.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "176.00",
+          "maxPrice": "700.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "176.00",
+          "maxPrice": "700.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "176.00",
+          "maxPrice": "949.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "176.00",
+          "maxPrice": "700.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "220.00",
+          "maxPrice": "1696.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "176.00",
+          "maxPrice": "700.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Junior Suite, Bad, WC, 1 Schlafraum",
+      "description": "Die Juniorsuite Familie \"Wildsee\" bietet Ihrer Familie einen schönen Wohnraum/Schlafraum mit eigenem Balkon und Marmorbad. Highlight der Suite ist das Kinderzimmer mit Etagenbett (200x80cm und 200x80cm), das mit Playstation und LCD-TV ausgestattet ist.\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Junior Suite Familie Wildsee",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "3"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Suite, Dusche und Bad, WC",
+      "description": "geräumige Suite über 2 Etagen mit 2 Schlafzimmern und Balkon, DVD-CD-Player, Sitzgruppe, DU/Bad/WC, SAT-TV, Telefon, Minibar, Radio-Wecker, Safe, Haarfön, Bademantel;",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Suite \"Penthouse\"",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Suite, Dusche und Bad, WC",
+      "description": "Rustikale Suite mit 2 Schlafzimmern \u0026 2 Bäder, Wohnzimmer mit offenem Kamin, eigenem Balkon, DVD/CD Player, LCD TV, Haarfön, Minibar, Safe, Bademäntel",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Suite \"Edelweiss\"",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Suite, Bad, WC",
+      "description": "Suite mit seperatem Wohn- \u0026 Schlafzimmer, Marmorbad/WC, Balkon, DVD-CD-Player, SAT-TV, Telefon, Minibar, Radio-Wecker, Safe, Haarfön, Bademantel;",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Suite \"Enzian\"",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Junior Suite, Bad, WC",
+      "description": "Suite mit geräumigen Wohn-/Schlafraum, Marmorbad,/WC, Balkon, DVD-CD-Player, SAT-TV, Telefon, Minibar, Safe, Haarfön, Bademantel;",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "\"Juniorsuite\"",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Einzelzimmer, Dusche oder Bad, WC",
+      "description": "Einzelzimemr teilweise mit Balkon, Dusche oder Bad/WC, Radio-Wecker, Safe, Telefon, SAT-TV, Minibar, Haarfön, Bademantel;",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Einzelzimmer \"Veronika\"",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "0.00",
+          "maxPrice": "114.80",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Junior Suite, Bad, WC, 1 Schlafraum",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Junior Suite Familie Hohe Munde",
+          "description": "Die Juniorsuite Familie \"Hohe Munde\" ist mit dem Wohnschlaufraum und dem separaten Kinderzimmer mit eigenem WC das Perfekte Zimmer für Ihren Aufenthalt. ",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "3"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

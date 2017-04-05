@@ -1,0 +1,20 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "TouristAttraction"
+  ],
+  "name": "Nordic Walking Strecke: Berglauf Rotmoos 11,5 km",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "description": "Ausgangspunkt: Leutasch / Alpenbad\nStreckenverlauf: Der Berglauf Rotmoos führt an der Ache talaufwärts bis zum Eingang ins Gaistal. Von hier aus geht es stetig bergauf, bis man unter den Südwänden von Leutasch`s höchstem Berg, dem Hochwanner auf die grandios gelegene Rotmoosalm gelangt.\nStreckenprofil: schwierige Berglaufstrecke auf Steigen mit sehr starker Steigung\nUntergrund: Schotterweg, Forststraße, Waldweg",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/934de3d0-3b59-447e-877c-d4603b9f98c1/99/image.jpg",
+      "caption": "Nordic Walking"
+    }
+  ]
+}

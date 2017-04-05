@@ -1,0 +1,18 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "Herz-Jesus Prozession",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "description": "Hl. Messe mit anschließender Prozession aller Vereine und der Bevölkerung von Scharnitz (Prozession nur bei gutem Wetter).",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/dd1b0eb1-2ce7-4d2d-a163-f7a64f3c78ae/99/image.jpg",
+      "caption": "Herzjesu"
+    }
+  ],
+  "startDate": "2017-06-25T08:30:00",
+  "endDate": "2017-06-25"
+}

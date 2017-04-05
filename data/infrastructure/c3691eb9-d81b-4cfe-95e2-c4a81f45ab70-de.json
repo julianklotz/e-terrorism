@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant"
+  ],
+  "name": "Brunelle",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3701197",
+    "longitude": "11.1663599"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Gasthof Brunelle",
+    "streetAddress": "Weidach 337",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 20042",
+    "faxNumber": "(0043) 5214 20083",
+    "email": "Info@gasthof-pension-brunelle.com",
+    "url": "http://www.gasthof-pension-brunelle.com"
+  },
+  "description": "Sitzplätze für ca. 90 Personen",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a2b13947-b791-48c6-94d1-f5c0f567a2b5/99/image.jpg",
+      "caption": "brunelle"
+    }
+  ],
+  "url": [
+    "http://www.gasthof-pension-brunelle.com"
+  ]
+}

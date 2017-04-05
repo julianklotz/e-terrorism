@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Store",
+    "ToyStore"
+  ],
+  "name": "Holzartikel - s\u0027Holzladele",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3780788",
+    "longitude": "11.1585447"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Landhaus A. Baur",
+    "streetAddress": "Gasse 172",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6057",
+    "email": "baur.anton@aon.at",
+    "url": "http://www.leutasch-landhaus.at"
+  },
+  "description": "Gasse 172\nTel.: +43 5214/6057",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d8029f42-0ae3-4e07-8c48-fa6bdf1219d9/99/image.jpg",
+      "caption": "s\u0027 Holzladele"
+    }
+  ],
+  "url": [
+    "http://www.leutasch-landhaus.at"
+  ]
+}

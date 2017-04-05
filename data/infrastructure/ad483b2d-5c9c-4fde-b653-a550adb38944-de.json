@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "TouristAttraction"
+  ],
+  "name": "Durch das Karwendeltal zum Karwendelhaus / Weg Nr. 28, 201",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Informationsbüro Scharnitz",
+    "streetAddress": "Innsbrucker Str. 282",
+    "addressLocality": "Scharnitz",
+    "postalCode": "6108",
+    "addressCountry": "AT",
+    "telephone": "+4350880540 ",
+    "faxNumber": "+4350880541",
+    "email": "info.scharnitz@seefeld.com",
+    "url": "http://www.seefeld.com"
+  },
+  "description": [
+    "Strecke: Scharnitz– Karwendelhaus – Scharnitz Gehzeit: ca. 8 Stunden\nVor dem Informationsbüro links der Straße entlang über den Inrain bis zur Isarbrücke. Hier biegen\nSie links ab, kurzer Anstieg vorbei am Gästehaus Helga bis zur Abzweigung Birzelkapelle. Diesem\nschönen, teilweise steilen Steig folgen Sie, bis Sie zur Birzelkapelle kommen. Vorbei an der Kapelle\nerreichen Sie die Forststraße ins Karwendeltal. Diesem Weg folgen Sie bis zum Karwendelhaus, zum\nSchluss etwas steiler Anstieg in Serpentinen an der Hochalm vorbei zum Karwendelhaus. Auf derselben\nForststraße durch das Karwendeltal kommen Sie wieder zurück nach Scharnitz.",
+    "Strecke: Scharnitz –Karwendelhaus – Scharnitz\nGehzeit: ca. 8 Stunden\nVor dem Informationsbüro links der Straße entlang über den Inrain bis zur Isarbrücke. Hier biegen\nSie links ab, kurzer Anstieg vorbei am Gästehaus Helga bis zur Abzweigung Birzelkapelle. Diesem\nschönen, teilweise steilen Steig folgen Sie, bis Sie zur Birzelkapelle kommen. Vorbei an der Kapelle\nerreichen Sie die Forststraße ins Karwendeltal. Diesem Weg folgen Sie bis zum Karwendelhaus, zum\nSchluss etwas steiler Anstieg in Serpentinen an der Hochalm vorbei zum Karwendelhaus. Auf derselben\nForststraße durch das Karwendeltal kommen Sie wieder zurück nach Scharnitz."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/941eb419-161f-47be-9bca-b12fd4bbf004/99/image.jpg",
+      "caption": "Karwendeltal"
+    }
+  ],
+  "url": [
+    "http://www.seefeld.com",
+    "http://www.karwendelmarsch.info"
+  ]
+}

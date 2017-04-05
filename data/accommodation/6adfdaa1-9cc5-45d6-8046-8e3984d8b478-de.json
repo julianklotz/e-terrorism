@@ -1,0 +1,115 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Gästehaus Annelies",
+    "streetAddress": "Feldweg 281",
+    "addressLocality": "Scharnitz",
+    "postalCode": "6108",
+    "addressCountry": "AT",
+    "telephone": "+4352135359"
+  },
+  "name": "Gästehaus Annelies",
+  "description": [
+    "Das Haus mit persönlicher Atmosphäre bietet Ihnen in ruhiger Lage einen gemütlichen Aufenthaltsraum mit TV, schöne Zimmer mit Bad, WC, Balkon, Liegewiese und eine aufmerksame Betreuung für den richtigen Urlaub im Winter und Sommer.",
+    "Von Deutschland über Mittenwald kommend über die Isarbrücke. Nach Kirche und Benediktinum links, über die Bahngleise, dann geradeaus weiter, das 6. Haus auf der rechten Straßenseite."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/210e355c-aa8c-4e03-8483-b78d9f83cedb/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1b2ea370-cb03-418d-97a2-88e6e2b7a36f/99/image.jpg",
+      "caption": "Winter"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3858091804861",
+    "longitude": "11.2654162391826"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Dreibettzimmer, Bad, WC",
+      "description": "Geräumiges Eckzimmer mit eingebauten Eichenmöbeln, 3 Betten, Tisch, 3 Stühle, Südwestbalkon, Teppichboden",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Dreibettzimmer mit Bad, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Bad, WC",
+      "description": "Geräumige Zimmer mit eingebauten Eichenmöbeln, Tisch, 2 Stühle, \n1 x Süd- und 2x Westbalkon, Teppichboden",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Bad, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Einzelzimmer, Dusche, WC",
+      "description": "Geräumiges Zimmer mit eingebauten Eichenmöbeln, Tisch, 2 Stühle, Westbalkon, Teppichboden.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Einzelzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.villalionhill.com"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Villa Lion Hill mit privatem Wellnessbereich",
+    "streetAddress": "Brochweg 13",
+    "addressLocality": "Mösern bei Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "email": "welcome@villalionhill.com",
+    "url": "http://www.villalionhill.com"
+  },
+  "name": "Villa Lion Hill mit privatem Wellnessbereich",
+  "currenciesAccepted": "EUR"
+}

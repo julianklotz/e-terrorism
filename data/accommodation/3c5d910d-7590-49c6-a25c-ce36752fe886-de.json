@@ -1,0 +1,307 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.haus-bacher-seefeld.at/",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Bacher",
+    "streetAddress": "Riehlweg 132",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2161",
+    "email": "info@haus-bacher.at",
+    "url": "http://www.haus-bacher-seefeld.at/"
+  },
+  "name": "Haus Bacher",
+  "description": [
+    "\"Grias euch\" und \"Herzlich Willkommen\" im familiär u. professionell geführten Haus \n   \nBESCHLEUNIGEN Sie Ihren Alltag - durch ENTSCHLEUNIGUNG \n \nbei uns finden Sie viele Vorteile, wie ..\n \u003e FREIER BLICK auf die Seefelder Berge\n \u003e ZENTRUM ebenerdig BINNEN 1 bis 2 Minuten leicht zu erreichen\n \u003e VARIANTENREICHES FRÜHSTÜCK mit heimischen Produkten / an den Tisch serviert \n \u003e SPÄT - FRÜHSTÜCK nach Vereinbarung möglich\n \u003e gediegene Tiroler Stube jederzeit zur Verfügung\n \u003e WIRELESS - LAN jederzeit auch im GARTEN und der TERRASSE nutzbar\n \u003e BAHNHOFSNÄHE / dennoch geräuscharm\n \u003e zusätzlich Parkplatz, Trockenraum für die Wander - bzw. Schischuhe, \n   Abstellraum für mitgebrachte Fahrräder / Schier",
+    "Inklusive bei den Appartements ... Wäsche, Strom, Wasser, Heizung und alle         \n                               anderen Abgaben und Steuern\n\nBONUS die Benutzung : Parkplatz, Trockenraum, Garten und Terrasse, Abstellraum, \n                     W-Lan und Sat TV;\nExklusive bei den Appartements... Brötchenservice und Morgenzeitung \n                        ( Vorort zu bestellen und zahlen )\n",
+    "Check - In : nach 15.00 Uhr oder nach Vereinbarung\nCheck - Out : spätestens 11.00 Uhr\n\nGenaue Anreise - Route auf Homepage  www.haus-bacher.at  ausdruckbar.\n",
+    "Zentrumsnähe \nVariantenreiches Frühstück\nWireless  Lan\nGarten und Terrasse\nfreie Sicht auf die Berge"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "reviewCount": "136"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ffcb872a-345f-4817-b202-41145c905327/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/edd1c619-566c-478e-96ea-9f05051c7687/99/image.jpg",
+      "caption": "Haus Bacher"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d59c4892-f811-4349-bb96-2f66513a06f8/99/image.jpg",
+      "caption": "Sommerfoto"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/dd01c6a1-23f3-4c2c-bef8-67f068961a91/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6b950f00-1dae-4acc-bfd8-2bb3cd997d03/99/image.jpg",
+      "caption": "Garten"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a7a779c3-8154-4fbf-8ec8-d1dcbcd6121f/99/image.jpg",
+      "caption": "Garten 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b7aa894f-74b8-4fc8-8728-02b71797d138/99/image.jpg",
+      "caption": "Frühstücksraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1d26bac3-ad3f-4093-b4de-20fbfcbc9985/99/image.jpg",
+      "caption": "Aussicht Hohe Munde"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/109bd77c-2b08-467d-ad42-694abbc336d4/99/image.jpg",
+      "caption": "Aussicht Wetterstein"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/abb7c74b-49ff-4448-a3d5-5bf8398c3de2/99/image.jpg",
+      "caption": "Tischgedeck Gästeeinladung"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3315625818664",
+    "longitude": "11.1896234750748"
+  },
+  "paymentAccepted": [
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Einzelzimmer, Dusche, WC",
+      "description": "Ca. 16 m² groß, plus Westbalkon mit herrlich freien Blick auf die Seefelder       \n                Berge, Sitzmöglichkeiten / Aschenbecher\n                SAT - TV, Sitz - und Leseecke, \n                Alle Zimmer mit Wireless-Lan-Verbindung,\n                Badezimmer / Dusche / WC / Haarfön, Kosmetikartikeln, \n                im 1. Stock unseres Hauses\n                variantenreiches Frühstück in unserer Stube an den Tisch serviert ",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Einzelzimmer Nr.1",
+          "description": " im 1. Stock mit Westbalkon und Sitzmöglichkeiten außen \n herrlich freien Blick auf die Seefelder Berge\n / Aschenbecher\n mit kleiner Sitz - und Leseecke innen, SAT - TV und Wireless - lan\n Badezimmer / Dusche / WC, Haarfön, Kosmetikartikeln, Abluft\n ",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Einzelzimmer, Dusche, WC, 1 Schlafraum",
+      "description": "Ca. 16 m² groß / Parkettboden,\n         SAT - TV, Schreibtisch mit Sitzmöglichkeit, \n         großes Badezimmer mit Dusche / WC,Föhn, Kosmetikartikeln, Tageslichtfenster. \n         Alle Zimmer mit Wireless-Lan-Verbindung,\n         variantenreiches Frühstück an den Tisch serviert in unserer Stube\n         ...  befindet sich im 1. Stock unseres Hauses",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Einzelzimmer Nr.3",
+          "description": "im 1. Stock unseres Hauses\nParkettboden\ngroßes Badezimmer / Dusche / WC / Haarfön, Kosmetikartikeln, Tageslichtfenster\nSchreibtisch und Sitzmöglichkeit\nWireless - lan und SAT - TV\nostseitig  / Morgensonne",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "ca. 22 m2 groß plus Süd - Ost- Balkon mit Sitzgelegenheiten / Aschenbecher\n          geräumiges Badezimmer / Dusche / WC, Haarfön, Kosmetikartikeln,  \n          Tageslichtfenster\n          kleine Sitzecke, SAT - TV, Wireless - Lan\n          .. befindet sich im 1. Stock unseres Hauses\n          mit variantenreichen Frühstück / an den Tisch serviert in unserer Stube\n  ",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer Nr. 2",
+          "description": " .. befindet sich im 1. Stock unseres Hauses\n .. mit Süd - Ost - Balkon und Sitzmöglichkeiten / Aschenbecher\n .. SAT - TV und Wireless - Lan\n .. großes Badezimmer mit Dusche / WC, Haarfön, Kosmetikartikeln, Tageslichtfenster\n .. kleiner Schreibtisch mit Sitzmöglichkeiten dabei\n .. variantenreiches Frühstück an den Tisch serviert in unserer Stube",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Ca. 24 m² groß, plus Westbalkon mit herrlich freien Blick auf die Seefelder\n                Berge, \n                Parkettboden, SAT - TV, Kühlschrank,\n                Sitzecke, Badezimmer / Dusche / Wc, Haarfön, Kosmetikartikeln, \n                elektrische Heizung im Bad und Abluft\n                variantenreiches Frühstück an den Tisch serviert in unserer Stube    \n                Wire - Less - Lan überall erreichbar",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer Nr. 4",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Studio, Dusche, WC",
+      "description": "ca. 35 m2;  über 3 Stufen erreichbar, \n            komfortabel eingerichtet; \n            helle Räumlichkeiten / viel Tageslicht -\u003e \n            freier Ausblick Hocheder/Hohe Munde, und Wettersteingebirge, \n            alle Appartements mit Wireless-Lan Anschluss, SAT - TV,\n            mit eigener Terrasse und Sitzmöglichkeiten\n            Kaffeemaschine und Kühlschrank gerne zu verwenden, Badezimmer/Dusche/WC,Haarfön,Kosmetikartikeln,Tageslichtfenster, Wohn - und Schlafbereich in Einem",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Studio Nr. 1",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "ca. 60 m2 Wohnfläche plus Balkone und Sitzmöglichkeiten außen;\n          komfortabel eingerichtet,\n          2 Badezimmer mit Dusche/WC/Haarföne, Kosmetikartikeln, teilweise  \n            Tageslichtfenster oder Abluft; 2 dazu gehörende Schlafzimmer plus \n            Wohnbereich\n          helle Räumlichkeiten, viel Tageslicht,\n          freier Blick auf die Seefelder Berge \n          Alle Appartements mit Wireless-Lan-Anschluss, Sat TV.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment Nr. 2",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Studio, Dusche, WC",
+      "description": "ca. 25 m2 Wohnfläche plus Westbalkon mit Sitzgelegenheiten / Aschenbecher\n          -\u003e freie Sicht zum Hocheder, Hohe Munde, Wettersteingebirge,\n          gemütlich eingerichtet mit Massiv - Möbeln. \n          Alle Appartements mit Wireless-Lan-Anschluss.\n          Sitz - und Leseecke SAT - TV, Kühlschrank und Kaffeemaschine, Badezimmer / Dusche / WC, Haarfön, Kosmetikartikeln, Abluft",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Studio Nr. 4",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 2 Schlafräume",
+      "description": "ca. 66 m2 Wohnfläche plus Westbalkon mit Sitzmöglichkeiten und dem\n          herrlich freien Blick auf die Seefelder Berge; \n          Wohnzimmer mit Sitz- und Essecke, TV-SAT, Wireless - Lan\n          Badezimmer / Badewanne / Duschwand, Waschbecken / Toilette,\n                       Haarfön, Kosmetikartikeln / Tageslichtfenster und Abluft.\n          Küche komplett eingerichtet / Geschirrspülbecken\n          2 Schlafzimmer , Vorraum mit der Garderobe\n          Alle Appartements mit Wireless-Lan-",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment Nr. 5",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 2 Schlafräume",
+      "description": "im 2. Stock ca. 64 m2 große Wohnfläche plus Westbalkon / Sitzmöglichkeiten und\n      herrlich freier Blick auf die Seefelder Berge\n      Wohnzimmer mit Sitz- und Essecke, SAT - TV, Wireless - lan  \n      2 Schlafzimmer / jeweils Doppelbetten\n      Badezimmer mit Badewanne/Duschwand, Doppelwaschbecken/ \n      Toilette / Kosmetiktücher, Haarfön, Tageslichtfenster\n      große Küche komplett / Geschirrspülbecken  \n      Flur mit der Garderobe   ",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment Nr. 6",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

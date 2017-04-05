@@ -1,0 +1,78 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.excellenceapartments.com",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Appartement Lundsör",
+    "streetAddress": "Milserstraße 563 / Top 4",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 699 178 66781",
+    "email": "info@holiday-seefeld.at",
+    "url": "http://www.holiday-seefeld.com"
+  },
+  "name": "Haus Jörg - Appartement Lundsör",
+  "description": [
+    "Gemütliches Reihenhaus mit Garten und Terrasse Richtung Süden in sehr zentraler Lage. Im Erdgeschoss gibt es eine voll ausgestattete Küche, eine attraktive Essecke sowie eine gemütliche Sitzecke. Die obere Etage hat 3 Schlafzimmer für max. 5 Erwachsene, 2 Badezimmer mit Dusche/WC und Waschmaschine.",
+    "Inklusive: Heizung, Wasser, Skiabstellmöglichkeit, Bettwäsche.",
+    "Check-In: ab 15.00 Uhr | Check-Out: bis 11.00 Uhr\n\nUnser Haus liegt zwischen Bahnhof und Talstation Rosshütte."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ffbe669a-7d35-4601-adb1-8518d5c98bd1/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/224a2090-8f52-4083-80e4-bf3c45fd3f14/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a241afe1-5751-440e-9c05-b1bfd6e959cf/99/image.jpg",
+      "caption": "Ausblick"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0501b890-3294-4de1-a5b9-f9d86748fd0d/99/image.jpg",
+      "caption": "Terrasse"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.329617451534",
+    "longitude": "11.1925232460327"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Ferienhaus, Dusche, WC, 3 Schlafräume",
+      "description": "Unser Ferienhaus hat 3 Schlafzimmer (1x Doppelbett, 2x breites Stockbett), ist ein Nichtraucher-Haus und sehr geeignet für Familien (leider sind Haustiere nicht erlaubt).",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement Lundsör",
+          "numberOfRooms": "4.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

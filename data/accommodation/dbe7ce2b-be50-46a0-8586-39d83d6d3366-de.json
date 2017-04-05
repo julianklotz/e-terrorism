@@ -1,0 +1,195 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.hausbergsonne.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Bergsonne",
+    "streetAddress": "Klamm 69",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6474",
+    "faxNumber": "(0043) 5214 6474",
+    "email": "info@hausbergsonne.at",
+    "url": "http://www.hausbergsonne.at"
+  },
+  "name": "Haus Bergsonne",
+  "description": [
+    "Im Ortsteil Klamm, in sonniger ruhiger Lage, liegt unser Haus \"Bergsonne\". Im Haus befinden sich 2 Ferienwohnungen -FW Hohe Munde und FW Gehrnspitz. FW Hohe Munde - 50,75m²  für 2-4 Pers. besteht aus 2 Schlafzimmern, Wohnküche mit Balkon, Dusche/WC, Sat-TV. FW Gehrnspitz - 67,95m² für 2-6 Pers. besteht aus 2 Schlafzimmern, Wohnschlafzimmer, Küche mit Essplatz, Südbalkon (10m²), Dusche/WC, Sat-TV.",
+    "Im Ortsteil Klamm, in sonniger ruhiger Lage, am oberen Wiesenweg, liegt unser Haus \"Bergsonne\". Im Haus befinden sich 2 Ferienwohnungen -FW Hohe Munde und FW Gehrnspitz. FW Hohe Munde - 50,75m²  für 2-4 Pers. besteht aus 2 Schlafzimmern, Wohnküche mit Süd-Westbalkon, Dusche/WC, Sat-TV. FW Gehrnspitz - 67,95m² für 2-6 Pers. besteht aus 2 Schlafzimmern, Wohnschlafzimmer, Küche mit Essplatz, Südbalkon (10m²), Dusche/WC, Sat-TV.",
+    "Incl.: Strom, Heizung, Wasser, überdachter Parkplatz\nExcl.: Ortstaxe und Endreinigung",
+    "Check-In 16.00 Uhr\nCheck-Out 10.00 Uhr\n\nDurch das ganze Leutaschtal Richtung Gaistal bis Ortsteil \"Klamm\". Nach dem Fiakerstüberl(direkt an der Strasse)rechts abbiegen - auf der Anhöhe erstes Haus - gelbe Fassade, grünes Dach"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1146c847-41dc-45a4-a2d4-9c08d8d17391/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5a2f8099-d817-467d-b5f0-ef2746854281/99/image.jpg",
+      "caption": "Logo"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4a49dddb-ed5b-407d-809d-decb95c736d4/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2d61945b-73ac-4863-a172-b45bb55113b8/99/image.jpg",
+      "caption": "Garten"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a2e47d33-69be-4a9d-9666-48b149991ad2/99/image.jpg",
+      "caption": "Spielplatz"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/62755e9e-5aba-406a-a166-7999044e736a/99/image.jpg",
+      "caption": "Liegewiese"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.364708135995",
+    "longitude": "11.122944750681"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "Sonnige Ferienwohnung mit Balkon.\n1. Etage im \"Haus Bergsonne\"",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Gehrnspitz/2 Schlafräume/Dusche, WC",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Herbstaktion 7 Tage - Gehrnspitze",
+          "description": "Erleben Sie die Bergwelt in ihrem farbenprächtigsten Kleid und wandern oder biken Sie durch die klare Luft und schöne Natur. Wir haben deshalb für Sie ein Aktionspaket geschnürt, welches Sie sich nicht entgehen lassen sollten!\n\nWOCHENPAUSCHALEN – FÜR 1 WOCHE od. 2 WOCHEN\nZeitraum: vom Sonntag den 09.10.2011 bis Sonntag den 30.10.2011\n\nDie Wochenpauschale beinhaltet:\n\n   *  kostenlos zur Verfügung gestellte Fahrräder\n   *  inklusive Ortstaxe (€ 1,50 pro Person / Tag)\n   *  inklusive Endreinigungsgebühr (€ 35,-)\n   *  inklusive 1 Gratis Brötchen pro Tag / pro Person durch unser Brötchenservice im Hause\n   *  inklusive einem Geschenk des Hauses\n\nFerienwohnung „Gehrnspitze\"\nFür 1 Woche Aufenthalt:\nPauschalpreis für 2 Personen: komplett nur €uro 270,-\nPauschalpreis für 3 Personen: komplett nur €uro 310,-\nPauschalpreis für 4 Personen: komplett nur €uro 350,-\nPauschalpreis für 5 Personen: komplett nur €uro 390,-\nPauschalpreis für 6 Personen: komplett nur €uro 430,-\n\nFür 2 Wochen Aufenthalt:\nPauschalpreis für 2 Personen: komplett nur €uro 520,-\nPauschalpreis für 3 Personen: komplett nur €uro 590,-\nPauschalpreis für 4 Personen: komplett nur €uro 660,-\nPauschalpreis für 5 Personen: komplett nur €uro 730,-\nPauschalpreis für 6 Personen: komplett nur €uro 800,-\n",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Herbstaktion 14 Tage - Gehrnspitze",
+          "description": "Erleben Sie die Bergwelt in ihrem farbenprächtigsten Kleid und wandern oder biken Sie durch die klare Luft und schöne Natur. Wir haben deshalb für Sie ein Aktionspaket geschnürt, welches Sie sich nicht entgehen lassen sollten!\n\nWOCHENPAUSCHALEN – FÜR 1 WOCHE od. 2 WOCHEN\nZeitraum: vom Sonntag den 09.10.2011 bis Sonntag den 30.10.2011\n\nDie Wochenpauschale beinhaltet:\n\n   *  kostenlos zur Verfügung gestellte Fahrräder\n   *  inklusive Ortstaxe (€ 1,50 pro Person / Tag)\n   *  inklusive Endreinigungsgebühr (€ 35,-)\n   *  inklusive 1 Gratis Brötchen pro Tag / pro Person durch unser Brötchenservice im Hause\n   *  inklusive einem Geschenk des Hauses\n\nFerienwohnung „Gehrnspitze\"\nFür 1 Woche Aufenthalt:\nPauschalpreis für 2 Personen: komplett nur €uro 270,-\nPauschalpreis für 3 Personen: komplett nur €uro 310,-\nPauschalpreis für 4 Personen: komplett nur €uro 350,-\nPauschalpreis für 5 Personen: komplett nur €uro 390,-\nPauschalpreis für 6 Personen: komplett nur €uro 430,-\n\nFür 2 Wochen Aufenthalt:\nPauschalpreis für 2 Personen: komplett nur €uro 520,-\nPauschalpreis für 3 Personen: komplett nur €uro 590,-\nPauschalpreis für 4 Personen: komplett nur €uro 660,-\nPauschalpreis für 5 Personen: komplett nur €uro 730,-\nPauschalpreis für 6 Personen: komplett nur €uro 800,-\n",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Bergweihnacht - Gehrnspitze",
+          "description": "AKTION: ADVENTSZEIT - BERGWEIHNACHT\n\nLeutasch und Seefeld bietet gerade in der Vorweihnachtzeit zu Advent ein interessantes Programm. Vom Krampustreiben, Kapellenwanderungen, Kutschenfahrten, Christkindlmärkten bis hin zu \"Bergweihnachtsevents\" wird diese stille Zeit seid neuestens bei uns gerne gebucht. Ob Ausflüge zu den Christkindlmärkten nach Innsbruck, Garmisch, aber auch Seefeld und Leutasch - oder der Besuch eines Events der Bergweihnacht in Seefeld - dieses Jahr wieder mit den Stargästen Kastelruther Spatzen \u0026 Andreas Gabalier - es gibt immer etwas interessantes zu unternehmen. Wir haben deshalb für Sie ein Aktionspaket geschnürt, welches Sie sich nicht entgehen lassen sollten!\nBei Buchung eines Urlaubes (Mindestaufenthaltsdauer - 3 Tage) in der Zeit 29.11.2011 bis 17.12.2011 in unserem Haus, bekommen Sie:\n\n\t* den Sommernachsaisonspreis  - siehe unter www.hausbergsonne.at / Preise\n\t* inklusive Ortstaxe (1,50 € pro Person / Tag)\n\t* inklusive Endreinigung (35,- €)\n\t* inklusive 1 Gratis Brötchen pro Tag / pro Person durch unser Brötchenservice im Hause \n\t* inklusive einem Geschenk des Hauses\n\ndie Möglichkeit einer Vorreservierung im Kartenvorverkauf der Veranstaltung „Bergweihnacht“ durch uns - siehe dazu Info unter www.klingende-bergweihnacht.at \n\n\n\n\n",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "Sonnige Ferienwohnung mit Balkon. 1. Etage im \"Haus Bergsonne\"",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Hohe Munde/2 Schlafräume/Dusche, WC",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Herbstaktion 7 Tage - Hohe Munde",
+          "description": "Erleben Sie die Bergwelt in ihrem farbenprächtigsten Kleid und wandern oder biken Sie durch die klare Luft und schöne Natur. Wir haben deshalb für Sie ein Aktionspaket geschnürt, welches Sie sich nicht entgehen lassen sollten!\n\nWOCHENPAUSCHALEN – FÜR 1 WOCHE od. 2 WOCHEN\nZeitraum: vom Sonntag den 09.10.2011 bis Sonntag den 30.10.2011\n\nDie Wochenpauschale beinhaltet:\n\n   *  kostenlos zur Verfügung gestellte Fahrräder\n   *  inklusive Ortstaxe (€ 1,50 pro Person / Tag)\n   *  inklusive Endreinigungsgebühr (€ 35,-)\n   *  inklusive 1 Gratis Brötchen pro Tag / pro Person durch unser Brötchenservice im Hause\n   *  inklusive einem Geschenk des Hauses\n\n\nFerienwohnung „Hohe Munde\"\nFür 1 Woche Aufenthalt:\n\nPauschalpreis für 2 Personen: komplett nur €uro 260,-\nPauschalpreis für 3 Personen: komplett nur €uro 300,-\nPauschalpreis für 4 Personen: komplett nur €uro 340,-\n\nFür 2 Wochen Aufenthalt:\nPauschalpreis für 2 Personen: komplett nur €uro 500,-\nPauschalpreis für 3 Personen: komplett nur €uro 570,-\nPauschalpreis für 4 Personen: komplett nur €uro 640,-\n\n",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Herbstaktion 14 Tage - Hohe Munde",
+          "description": "Erleben Sie die Bergwelt in ihrem farbenprächtigsten Kleid und wandern oder biken Sie durch die klare Luft und schöne Natur. Wir haben deshalb für Sie ein Aktionspaket geschnürt, welches Sie sich nicht entgehen lassen sollten!\n\nWOCHENPAUSCHALEN – FÜR 1 WOCHE od. 2 WOCHEN\nZeitraum: vom Sonntag den 09.10.2011 bis Sonntag den 30.10.2011\n\nDie Wochenpauschale beinhaltet:\n\n   *  kostenlos zur Verfügung gestellte Fahrräder\n   *  inklusive Ortstaxe (€ 1,50 pro Person / Tag)\n   *  inklusive Endreinigungsgebühr (€ 35,-)\n   *  inklusive 1 Gratis Brötchen pro Tag / pro Person durch unser Brötchenservice im Hause\n   *  inklusive einem Geschenk des Hauses\n\n\nFerienwohnung „Hohe Munde\"\nFür 1 Woche Aufenthalt:\n\nPauschalpreis für 2 Personen: komplett nur €uro 260,-\nPauschalpreis für 3 Personen: komplett nur €uro 300,-\nPauschalpreis für 4 Personen: komplett nur €uro 340,-\n\nFür 2 Wochen Aufenthalt:\nPauschalpreis für 2 Personen: komplett nur €uro 500,-\nPauschalpreis für 3 Personen: komplett nur €uro 570,-\nPauschalpreis für 4 Personen: komplett nur €uro 640,-\n\n",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Bergweihnacht - Hohe Munde",
+          "description": "AKTION: ADVENTSZEIT - BERGWEIHNACHT\n\nLeutasch und Seefeld bietet gerade in der Vorweihnachtzeit zu Advent ein interessantes Programm. Vom Krampustreiben, Kapellenwanderungen, Kutschenfahrten, Christkindlmärkten bis hin zu \"Bergweihnachtsevents\" wird diese stille Zeit seid neuestens bei uns gerne gebucht. Ob Ausflüge zu den Christkindlmärkten nach Innsbruck, Garmisch, aber auch Seefeld und Leutasch - oder der Besuch eines Events der Bergweihnacht in Seefeld - dieses Jahr wieder mit den Stargästen Kastelruther Spatzen \u0026 Andreas Gabalier - es gibt immer etwas interessantes zu unternehmen. Wir haben deshalb für Sie ein Aktionspaket geschnürt, welches Sie sich nicht entgehen lassen sollten!\nBei Buchung eines Urlaubes (Mindestaufenthaltsdauer - 3 Tage) in der Zeit 29.11.2011 bis 17.12.2011 in unserem Haus, bekommen Sie:\n\n\t* den Sommernachsaisonspreis  - siehe unter www.hausbergsonne.at / Preise\n\t* inklusive Ortstaxe (1,50 € pro Person / Tag)\n\t* inklusive Endreinigung (35,- €)\n\t* inklusive 1 Gratis Brötchen pro Tag / pro Person durch unser Brötchenservice im Hause \n\t* inklusive einem Geschenk des Hauses\n\ndie Möglichkeit einer Vorreservierung im Kartenvorverkauf der Veranstaltung „Bergweihnacht“ durch uns - siehe dazu Info unter www.klingende-bergweihnacht.at \n\n\n\n",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

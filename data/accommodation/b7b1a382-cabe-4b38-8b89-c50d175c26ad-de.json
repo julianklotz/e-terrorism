@@ -1,0 +1,94 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Appartementhaus Antonia",
+    "streetAddress": "Innsbruckerstr. 775",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "faxNumber": "(0043)521252961"
+  },
+  "name": "Appartementhaus Antonia",
+  "description": [
+    "Herzlich willkommen im Appartementhaus Antonia in Seefeld in Tirol! Hier finden Sie in einem der 4 gemütlichen Appartements Ihre persönliche Ruheoase direkt im Seefelder Zentrum, umgeben von der traumhaften Bergkulisse der Olympiaregion Seefeld.\n\nAm Eingang zur Seefelder Fußgängerzone sind Sie stets mitten im Geschehen und doch ganz für sich. Das sind die besten Voraussetzungen, um unterhaltsame Vielfalt und wohltuende Entspannung in Einklang zu bringen. Ob Shoppingtour, Gaumenfreuden oder Glücksmomente: Die zahlreichen Geschäfte, Restaurants und auch das Casino Seefeld sorgen neben den verschiedenen Veranstaltungen für ein abwechslungsreiches Angebot - wann immer Sie bei uns aus dem Haus gehen.\n\nUnsere Gäste im Appartementhaus Antonia verbringen Ihren Aufenthalt in gepflegten und geräumigen 1-Raum-Appartements, jeweils bestehend aus liebevoll gestaltetem Wohn-Schlafraum (teilweise mit Erker!) einschließlich einladender Sitzecke, Küche, Dusche/WC oder Bad/WC und zwei der Ferienwohnungen verfügen ebenfalls über einen Balkon mit schönem Blick auf den Seefelder Pfarrhügel und Gschwandtkopf. Die hochwertige und mit viel Holz gefertigte Einrichtung sowie gediegene Ausstattung vermitteln Urlaubsstimmung im traditionell-ländlichen Stil. \n\nWenn Sie die Natur im Sommer nicht nur zu Fuß, sondern auch auf 2 Rädern erkunden möchten, bietet unser Fahrradverleih inklusive Fachwerkstatt „2-Rad Corner“, direkt neben dem Appartementhaus Antonia, z. B. eine wunderbare Auswahl an geländegängigen Mountainbikes – exklusiv für Sie gratis im Verleih! Ihr Auto können Sie gerne auf dem kostenlosen Parkplatz beim Appartementhaus Antonia abstellen. \n\nDie kostenlose Ski- und Dorfbushaltestelle vor der Tür ist ein weiterer Pluspunkt für rasches Skivergnügen auf den Seefelder Pisten im Winter. Nutzen Sie außerdem unseren kostenfreien Skiabstellraum direkt im Haus! Die bei Langlauf-(Wieder-)Einsteigern beliebte Loipe Lenerwiese in Seefeld kann in nur 350 m erreicht werden. Knapp 4 Gehminuten trennen unsere Gäste vom Seefelder Bahnhof, wo ebenso die Regionsbusse in alle Richtungen verkehren. Die bequeme und sorgenfreie Anreise ist Ihnen garantiert. Vor Ort steht Ihnen ein umfassendes Reise- und Freizeitangebot zur Verfügung.\n\nDie Gastgeberfamilie Niederkircher freut sich auf Ihren Besuch im Appartementhaus Antonia in Seefeld in Tirol, wo Sie Ihren Urlaub so richtig genießen können!\n",
+    "Inklusive: Kostenloser PKW-Parkplatz, Skiabstellraum, W-LAN, Fahrrad-Verleih.\n"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/177cfc1d-d9de-4d82-b54f-ed6f106d4562/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5fd5c45c-f481-4d28-830c-df1937b25aa2/99/image.jpg",
+      "caption": "Winter"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3269376930905",
+    "longitude": "11.187863945961"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC",
+      "description": "2 Appartements sind mit Erker rustikal Eingerichtet mit Küche und Bad und WC (separat).",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/Wohn-Schlafraum/Bad, WC",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "80.00",
+          "maxPrice": "90.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC",
+      "description": "Mit Balkon und mit Erker und Küche. Es ist rustkal Eingerichtet",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/Wohn-Schlafraum/Dusche, WC",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

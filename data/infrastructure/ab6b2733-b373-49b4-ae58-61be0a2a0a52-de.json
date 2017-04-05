@@ -1,0 +1,28 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure"
+  ],
+  "name": "Parkplatz Salzbach im Gaistal",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3654583383729",
+    "longitude": "11.093628541626"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Parkplatz Salzbach / Gaistal",
+    "streetAddress": "Gaistal",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT"
+  },
+  "description": "Gebührenpflichtig",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2567fbda-c74f-42ad-b997-0d040dbce352/99/image.jpg",
+      "caption": "Parkplatz"
+    }
+  ]
+}

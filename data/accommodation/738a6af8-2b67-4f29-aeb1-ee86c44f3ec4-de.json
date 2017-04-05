@@ -1,0 +1,29 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.landhaus-woehlke.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Landhaus Wöhlke",
+    "streetAddress": "Klamm 70",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6223",
+    "faxNumber": "(0043) 5214 6606",
+    "email": "lh.woehlke@gmx.at",
+    "url": "http://www.landhaus-woehlke.at"
+  },
+  "name": "Landhaus Wöhlke",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3645914",
+    "longitude": "11.1221112000001"
+  },
+  "currenciesAccepted": "EUR"
+}

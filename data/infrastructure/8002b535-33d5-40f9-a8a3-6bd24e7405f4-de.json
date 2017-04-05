@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation",
+    "TrainStation",
+    "TravelAgency",
+    "TouristAttraction"
+  ],
+  "name": "Kinder Erlebnisspielplatz auf der Rosshütte",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Bergbahnen Rosshütte",
+    "streetAddress": "Talstation 419",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "+43521224160",
+    "email": "info@rosshuette.at",
+    "url": "http://www.rosshuette.at"
+  },
+  "description": [
+    "Erlebnisspielplatz zum Thema „Bergbau in Seefeld“ beim Bergrestaurant Rosshütte",
+    "Erlebnisspielplatz zum Thema „Bergbau in Seefeld“ beim Bergrestaurant Rosshütte"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9db3464a-f30d-4e76-81cc-27c58b459131/99/image.jpg",
+      "caption": "Spielplatz  neu"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0aaf898f-78c2-4a66-a9d0-ba3038307622/99/image.jpg",
+      "caption": "pdf Spielplatz"
+    }
+  ],
+  "url": [
+    "http://www.rosshuette.at"
+  ]
+}

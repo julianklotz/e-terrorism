@@ -1,0 +1,72 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Reindl",
+    "streetAddress": "Am Wiesenhang 5",
+    "addressLocality": "Mösern",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "0043 5212 4809",
+    "email": "a.reindl@moesern.net"
+  },
+  "name": "Haus Reindl",
+  "description": "Unser Haus ist auf einer Anhöhe gelegen, herrlicher Gebirgsblick, umgeben von Wiesen und ganztags Sonne.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/cc3259e7-94bf-4906-b809-bd547edc3b91/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d0c0a8ae-96c9-4d85-80cd-159a946bea7d/99/image.jpg",
+      "caption": "Winter 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a14587cd-24e4-47f7-aa3f-6680aa73aa9b/99/image.jpg",
+      "caption": "Aussicht Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/bf0a5ce2-d590-49fb-a679-621394d1b780/99/image.jpg",
+      "caption": "Aussicht Winter"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.311918",
+    "longitude": "11.1483086000001"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 1 Schlafraum",
+      "description": "Exclusiv ausgestattetes Appartement in ganztags sonniger Aussichtslage mit Terrasse.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/1 Schlafraum/Bad, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ]
+    }
+  ]
+}

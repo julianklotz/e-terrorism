@@ -1,0 +1,21 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure",
+    "LocalBusiness"
+  ],
+  "name": "Toilette Weidach",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3696093637256",
+    "longitude": "11.1655144254341"
+  },
+  "description": "Musikpavillon",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0cb0593e-4f2a-4ffe-9f21-9e030c9d024c/99/image.jpg",
+      "caption": "WC"
+    }
+  ]
+}

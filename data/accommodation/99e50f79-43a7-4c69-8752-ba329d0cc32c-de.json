@@ -1,0 +1,147 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.kluckner-bergruh.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Gästehaus Kluckner",
+    "streetAddress": "Weidach 363 c",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6670",
+    "faxNumber": "(0043) 5214 6670",
+    "email": "margit.kluckner@aon.at",
+    "url": "http://www.kluckner-bergruh.at"
+  },
+  "name": "Gästehaus Kluckner",
+  "description": [
+    "Das Gästehaus Kluckner im Herzen von Leutasch in Tirol. Unsere gemütliche Frühstückspension in sonniger und ruhiger Lage eignet sich perfekt für Ihren Wanderurlaub oder Langlaufurlaub in der Olympiaregion Seefeld.\n\nIn nur 8 Gehminuten erreichen Sie das Zentrum von Leutasch. Kaufen Sie Ihr Proviant im Supermarkt oder lassen Sie sich bei einem Glaserl Wein mit typischen Tiroler Schmankerln in einen der verschiedenen Restaurants in Weidach verwöhnen. Nur zwei Minuten vom Ferienhaus entfernt führen die Langlaufloipen der Olympiaregion Seefeld sowie die Rad- u. Wanderwege vorbei. \n\nUnser Gästehaus Kluckner in Leutasch verfügt über 2 Doppelzimmer, 1 Einzelzimmer und einem modernen Appartement. Unsere rustikal eingerichteten Doppelzimmer und Einzelzimmer sind alle mit Dusche/WC, Sat-TV und Balkon mit einem überwältigendem Blick auf Hohe Munde \u0026 Gehrenspitze . Stärken Sie sich bei einem reichhaltigen Frühstück im gemütlichen Frühstückraum und schmieden Sie Pläne für den anstehenden Tag. \n\nIn unserem 2012 errichteten Appartement mit gemütlicher Wohnküche, separatem Schlafzimmer, einem großzügigem Badezimmer mit Dusche/WC werden Sie sich wie zuhause fühlen. Voll ausgestattetes Küchenteil sowie Sat-TV und WLAN im ganzen Haus gehören natürlich auch dazu. Genießen Sie am Balkon die Ruhe und die beeindruckende Naturkulisse des Leutaschtales. Bei Bedarf können Sie auch das Doppel oder Einzelzimmer dazubuchen. Gerne bieten wir auch Frühstück zum Appartement an.\n\nWachsen Sie Ihre Ski in unserem großem Ski- und Wachsraum und starten Sie direkt los auf die nur 300 m entfernte Loipe. Laufen Sie auf den 271 km Langlaufloipen der Olympiaregion Seefeld-Leutasch oder begeben Sie sich auf eine gemütliche Winterwanderung und lassen Sie sich von der einmaligen Landschaft verzaubern. Wärmen Sie sich nach einem erlebnisreichen Wintertag mit einer heißen Tasse Tee in unserer Teeküche auf.\n\nDas Leutaschtal bietet unzählige Möglichkeiten zum Wandern und Mountainbiken. Holen Sie sich die Wandertipps bei Ihrer Gastgeberin Margit \u0026 starten Sie die Wanderung direkt von unserer Frühstückspension oder lassen Sie sich von Hansi mit dem Traktor zum geselligen Beisammensein auf der Hämmermoosalm fahren! Einstellmöglichkeit für Fahrräder und Mountainbikes sind vorhanden. Die große Liegewiese, ausgestattet mit Gartenmöbeln lädt im Sommer zum Verweilen ein. \n\nWir freuen uns sehr auf Ihren Besuch bei uns im Gästehaus Kluckner! Ihre Gastfamilie Kluckner.",
+    "Parkplatz für Autos kostenlos",
+    "Von Seefeld: Leutasch-Weidach- nach der Tankstelle rechts.\n\nVon Mittenwald: Leutasch- Schanz- Gasse- Weidach- erste Strasse links.\n"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a1830f93-d7da-4313-a66f-e1fcbc53f95d/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/bb869e26-85d9-403d-b197-bd3be39f3075/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/125b77ab-a647-4f84-8e91-ec9c203aee46/99/image.jpg",
+      "caption": "Frühstücksraum"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.374755908652",
+    "longitude": "11.169319152832"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Gemütliche Zimmer mit DU/WC, SAT-TV und Balkon.\nFrühstücksraum mit Teeküche.\nSonnige ruhige Lage ca.5min vom Zentrum entfernt.Wanderwege\nund Loipe 500m vom Haus entfernt.\nAuf Ihr kommen freut sich Fam.Kluckner",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "26.00",
+          "maxPrice": "26.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "26.00",
+          "maxPrice": "26.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Einzelzimmer, Dusche, WC",
+      "description": "gemütliches ruhiges Zimmer mit DU/WC, Balkon und SAT-TV.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Einzelzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Gerne können Sie zum Appartement ein Doppelzimmer oder Einzelzimmer dazubuchen.\nZusätzlich bieten wir Ihnen Frühstück zum Appartement an.\nKinderermäßigung auf Anfrage!",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "45.00",
+          "maxPrice": "72.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

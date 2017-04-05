@@ -1,0 +1,101 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.haustoniseelos.com",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Seelos Toni",
+    "streetAddress": "Am Kirchwald 540",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2359",
+    "faxNumber": "(0043) 5212 2359",
+    "email": "lydiamoessmer@yahoo.de",
+    "url": "http://www.haustoniseelos.com"
+  },
+  "name": "Haus Toni Seelos",
+  "description": [
+    "Familiär geführte Frühstückspension in Zentrumsnähe. Die gemütlichen, neu renovierten Komfortzimmer mit traumhaftem Panoramablick laden zum Verweilen ein. Idealer Ausgangspunkt für Ihre sportlichen Aktivitäten - Sommer wie Winter. Nichtraucherhaus, reichhaltiges Frühstücksbuffet, überdachter Autoabstellplatz.",
+    "Inklusive: Parkplatz vorhanden.",
+    "Check-In 15.00 / Check-Our 10.00\nAusfahrt Seefeld-Mitte, Richtung Zentrum, Bahnübergang Olympiastraße, links (Richtung Mösern) 1. Straße rechts, 1. Hauseinfahrt rechts (Haus Nr. 540 - Haus Toni Seelos) Ortsplan B 5"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1df150c3-e534-4ff9-b064-e34df4dd4bbc/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0b03a8a4-8629-4fe8-81c2-9c8ad5725984/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/367ee6db-f228-4d85-ad29-b01e19450bfe/99/image.jpg",
+      "caption": "Frühstückraum"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.329210192978",
+    "longitude": "11.1817860603333"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Einzelzimmer, Dusche, WC",
+      "description": "Modernes EZ mit Sitzecke, SAT-TV, Radio, Safe, Dusche/WC, Fön, Balkon, reichhaltiges Frühstücksbuffet, Parkplatz",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Einzelzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Modernes, geräumiges DZ mit gemütlicher Sitzecke, SAT-TV, Radio, Safe, Dusche/WC, Fön, Balkon, reichhaltiges Frühstücksbuffet, Parkplatz",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

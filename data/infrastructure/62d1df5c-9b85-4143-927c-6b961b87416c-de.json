@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "TouristAttraction",
+    "LandmarksOrHistoricalBuildings"
+  ],
+  "name": "Die Friedensglocke",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3103886786145",
+    "longitude": "11.1434837174438"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Möserer Dorfstraße 2",
+    "addressLocality": "Mösern",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "+43050880520"
+  },
+  "description": [
+    " ",
+    "In Mösern, auf einem der schönsten Plätze Tirols, läutet täglich um 17.00 Uhr die Friedensglocke und erinnert an Frieden und gute Nachbarschaft. Gleichzeitig ist sie ein Denkmal für 25 Jahre grenzüberschreitende Zusammenarbeit der \"ARGE-ALP\" - Ländern. Sie steht frei in einer grandiosen Alpenlandschaft und ist die größte Glocke Tirols. Ihre Höhe beträgt 2,51 Meter, sie hat einen Durchmesser von 2,54 Meter und wiegt über 10 Tonnen. Zu dieser Glocke führt seit dem Jahr 2003 der \"Friedensglocken-Wanderweg\". Die Friedensglocke auf dem äußeren Westhügel von Mösern, dem Schwalbennest Tirols, bietet einen imposanten Anblick mit einem herrlichen Panorama über das Tiroler Inntal. Frei in einer grandiosen Alpenlandschaft stehend, erklingt sie täglich um 17.00 Uhr und ist dabei bis weit ins Tiroler Oberland zu hören. Folder zur Friedensglocke erhalten Sie in jedem Informationsbüro der Olympiaregion Seefeld bzw. auch als Download auf www.seefeld.com"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/961dabb0-246b-421d-82fd-91dd2a635fe8/99/image.jpg",
+      "caption": "Friedensglocke"
+    }
+  ],
+  "url": [
+    "http://www.seefeld.com"
+  ]
+}

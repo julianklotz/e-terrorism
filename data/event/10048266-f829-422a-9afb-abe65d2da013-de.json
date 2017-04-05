@@ -1,0 +1,98 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": [
+      "Event"
+    ],
+    "name": "Heilige Messe",
+    "eventStatus": "http://schema.org/EventScheduled",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Pfarrkirche Maria Heimsuchung",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Kirchweg 4",
+        "addressLocality": "Mösern",
+        "postalCode": "6100",
+        "addressCountry": "AT",
+        "telephone": "+4350880520",
+        "faxNumber": "+4350880521",
+        "email": "info.moesern@seefeld.com",
+        "url": "http://www.seefeld.com"
+      }
+    },
+    "location": {
+      "@type": "Place",
+      "name": "Pfarrkirche Maria Heimsuchung",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Kirchweg 4",
+        "addressLocality": "Mösern",
+        "postalCode": "6100",
+        "addressCountry": "AT",
+        "telephone": "+4350880520",
+        "faxNumber": "+4350880521",
+        "email": "info.moesern@seefeld.com",
+        "url": "http://www.seefeld.com"
+      }
+    },
+    "description": "jeden Sonntag um 8.30 Uhr",
+    "image": [
+      {
+        "@type": "ImageObject",
+        "url": "http://resc.deskline.net/images/SEE/1/d1328b52-9900-4755-a612-e5b74bf6fdcb/99/image.jpg",
+        "caption": "Kirche"
+      }
+    ],
+    "startDate": "2016-04-03T08:30:00",
+    "endDate": "2016-11-27"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": [
+      "Event"
+    ],
+    "name": "Heilige Messe",
+    "eventStatus": "http://schema.org/EventScheduled",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Pfarrkirche Maria Heimsuchung",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Kirchweg 4",
+        "addressLocality": "Mösern",
+        "postalCode": "6100",
+        "addressCountry": "AT",
+        "telephone": "+4350880520",
+        "faxNumber": "+4350880521",
+        "email": "info.moesern@seefeld.com",
+        "url": "http://www.seefeld.com"
+      }
+    },
+    "location": {
+      "@type": "Place",
+      "name": "Pfarrkirche Maria Heimsuchung",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Kirchweg 4",
+        "addressLocality": "Mösern",
+        "postalCode": "6100",
+        "addressCountry": "AT",
+        "telephone": "+4350880520",
+        "faxNumber": "+4350880521",
+        "email": "info.moesern@seefeld.com",
+        "url": "http://www.seefeld.com"
+      }
+    },
+    "description": "jeden Sonntag um 8.30 Uhr",
+    "image": [
+      {
+        "@type": "ImageObject",
+        "url": "http://resc.deskline.net/images/SEE/1/d1328b52-9900-4755-a612-e5b74bf6fdcb/99/image.jpg",
+        "caption": "Kirche"
+      }
+    ],
+    "startDate": "2017-04-02T08:30:00",
+    "endDate": "2017-11-26"
+  }
+]

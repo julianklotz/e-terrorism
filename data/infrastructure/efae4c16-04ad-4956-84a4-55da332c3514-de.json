@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "TouristAttraction"
+  ],
+  "name": "Rundwanderung über Nederweg - Gleirschhöhe - Scharnitz / Weg. Nr. 27",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Informationsbüro Scharnitz",
+    "streetAddress": "Innsbrucker Str. 282",
+    "addressLocality": "Scharnitz",
+    "postalCode": "6108",
+    "addressCountry": "AT",
+    "telephone": "+4350880540 ",
+    "faxNumber": "+4350880541",
+    "email": "info.scharnitz@seefeld.com",
+    "url": "http://www.seefeld.com"
+  },
+  "description": [
+    "Strecke: Scharnitz – Nederweg – Gleirschhöhe – Scharnitz\nGehzeit: ca. 3 Stunden\nVom Informationsbüro über die Isarbrücke vor der Kirche links abbiegen und der Hinterautalstraße\nRichtung Wiesenhof folgen. Vor dem Schotterwerk Gaugg biegen Sie rechts über die Isarbrücke\nab und gelangen auf den Nederweg. Diesem Weg folgen Sie vorbei an der Scharnitzer Alm\nzum Einstieg zur Gleirschklamm. Gegenüber des Einstieges zweigt links ein Steig ab, welcher gut\nmarkiert zur Gleirschhöhe führt. Auf dem Forstweg halten Sie sich talauswärts und kommen am\nGasthof Wiesenhof vorbei zurück nach Scharnitz.",
+    "Strecke: Scharnitz – Nederweg – Gleirschhöhe – Scharnitz\nGehzeit: ca. 3 Stunden\nVom Informationsbüro über die Isarbrücke vor der Kirche links abbiegen und der Hinterautalstraße\nRichtung Wiesenhof folgen. Vor dem Schotterwerk Gaugg biegen Sie rechts über die Isarbrücke\nab und gelangen auf den Nederweg. Diesem Weg folgen Sie vorbei an der Scharnitzer Alm\nzum Einstieg zur Gleirschklamm. Gegenüber des Einstieges zweigt links ein Steig ab, welcher gut\nmarkiert zur Gleirschhöhe führt. Auf dem Forstweg halten Sie sich talauswärts und kommen am\nGasthof Wiesenhof vorbei zurück nach Scharnitz."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f4771c2c-4f91-448e-929a-56d8f434ace4/99/image.jpg",
+      "caption": "Gleirschhöhe"
+    }
+  ]
+}

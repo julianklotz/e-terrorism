@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "InternetCafe"
+  ],
+  "name": "GRATIS W-LAN Seefeld",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3287811524864",
+    "longitude": "11.1870753765106"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Olympiaregion Seefeld",
+    "streetAddress": "Heilbadstr. 827",
+    "addressLocality": "Seefeld ",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 050 8800",
+    "faxNumber": "(0043) 050 880851",
+    "email": "region@seefeld.com",
+    "url": "http://www.seefeld.com"
+  },
+  "description": "Seefeld: Fußgängerzone, Casino Seefeld, Olympia Sport- \u0026 Kongresszentrum, Areal rund um das Seekirchl,\nTal- \u0026 Bergstation Rosshütte, Hochegg-Alm. Zudem bieten die meisten Vermietungsbetriebe der Olympiaregion Seefeld ihren Gästen gratis W-LAN/WiFi an.\n\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e1c76690-3c38-4463-8a3c-6f6a58e1ce99/99/image.jpg",
+      "caption": "Piktogramm"
+    }
+  ],
+  "url": [
+    "http://www.seefeld.com"
+  ]
+}

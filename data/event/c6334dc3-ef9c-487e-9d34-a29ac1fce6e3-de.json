@@ -1,0 +1,51 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "Kirchenpatrozinium Maria Hilf in Auland",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Pfarramt Reith",
+    "employee": {
+      "@type": "Person",
+      "givenName": "Ernst",
+      "familyName": "Ranalter"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Römerstraße 24",
+      "addressLocality": "Reith bei Seefeld",
+      "postalCode": "6103",
+      "addressCountry": "AT",
+      "telephone": "(0043)521252782 ",
+      "email": "Pfarre.Reith@dibk.at",
+      "url": "http://www.dibk.at"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Pfarramt Reith",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Römerstraße 24",
+      "addressLocality": "Reith bei Seefeld",
+      "postalCode": "6103",
+      "addressCountry": "AT",
+      "telephone": "(0043)521252782 ",
+      "email": "Pfarre.Reith@dibk.at",
+      "url": "http://www.dibk.at"
+    }
+  },
+  "description": "Feldmesse mit Kräutersegnung",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f9fce223-dd7d-4ad0-9453-f1e81b4c0025/99/image.jpg",
+      "caption": "Maria- Hilf Kirche in Auland"
+    }
+  ],
+  "startDate": "2017-08-15T10:00:00",
+  "endDate": "2017-08-15"
+}

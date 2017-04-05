@@ -1,0 +1,437 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Krumers Alpin Resort \u0026 Spa",
+    "streetAddress": "Krins 32",
+    "addressLocality": "Seefeld in Tirol",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "0043521253333",
+    "email": "urlaub@krumers-resort.com",
+    "url": "http://krumers-resort.com"
+  },
+  "name": "Krumers Alpin Resort \u0026 Spa",
+  "description": [
+    "\nWohnen und Wohlfühlen in Seefeld\nHochgefühl und tiefer Schlaf im 4-Sterne-Superior-Wellnesshotel\n\n„Wie man sich bettet, so liegt man“, heißt es in einem altbekannten Sprichwort. Wir im KRUMERS ALPIN Resort \u0026 Spa betten Sie so, dass Sie Nacht für Nacht schön entspannt ins Land der Träume reisen – auf 1.200 Metern Seehöhe dem Himmel in Seefeld ganz nah, in gemütlich-luxuriöser Tirol-Atmosphäre, mit Platz zum (Auf-)Atmen auf höchstem Niveau – allein, zu zweit oder mit der ganzen Familie, von Junior bis Senior …\n\n126 Zimmer und Suiten von 25 bis 78 m² stehen Ihnen in KRUMERS ALPIN Resort \u0026 Spa zur Wahl, komfortabel ausgestattet und großteils mit Balkon oder Terrasse. Einige der Suiten und Zimmer lassen sich miteinander verbinden, sodass auf Wunsch familiengerechte Wohn- und Schlafmöglichkeiten entstehen. Wir wünschen Ihnen „suite dreams“!",
+    "Wir weisen darauf hin, dass bei einer Reservierung kein Rücktrittsrecht binnen 14 Tagen besteht. Es gelten statt dessen folgende Stornobedingungen:\n\nbis 3 Wochen vor dem Ankunftstag kostenlose Stornierung möglich\nbis 1 Woche vor dem Ankunftstag 70 % vom gesamten Arrangementpreis\nin der letzten Woche vor dem Ankunftstag 90 % vom gesamten Arrangementpreis\nWeihnachten und Silvester: bis 4 Wochen vor "
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c56b9faa-7ca6-4a64-a853-bd157bcd82b2/99/image.jpg",
+      "caption": "Krumers Alpin Resort"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f6a9502b-4c59-47f1-83ea-07d4c63908bd/99/image.png",
+      "caption": "Logo"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3cb06168-0954-4b4a-a772-540cbff613d4/99/image.jpg",
+      "caption": "Krumers Alpin Resort"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a70bafe1-e715-429c-a324-9e56c9de87f2/99/image.jpg",
+      "caption": "Krumers Alpin Resort Seefeld Lobby"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4aa61a79-e25e-4a24-b8c2-4664d52d56f0/99/image.jpg",
+      "caption": "Krumers Alpin Resort Seefeld Pool"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/bd9b66ad-48f1-44d1-9fb1-8f964a88f008/99/image.jpg",
+      "caption": "Krumers Alpin Resort Seefeld Zirbenstube"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/97d8eb68-06aa-41f3-8e2f-ce29f440d638/99/image.jpg",
+      "caption": "Aussenpool"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f7d3d44f-924c-4f59-8dd3-f6416505bb97/99/image.jpg",
+      "caption": "Krumers Alpin Resort"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/df0329d7-9fde-4f14-974c-eb9ef29e64f8/99/image.jpg",
+      "caption": "Innenpool"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/15d08e7e-5adc-4977-85e9-7e6cbd1b2a18/99/image.jpg",
+      "caption": "Wellnessbereich"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/84e677dd-8e12-4b2c-ab2f-0c59ed8bded4/99/image.jpg",
+      "caption": "Doppelzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3e2c25e7-0d88-4649-95a9-c8eaf60d3280/99/image.jpg",
+      "caption": "Junior Suite"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/08b4cd0a-f7bb-4ffa-873f-df0e5481888c/99/image.jpg",
+      "caption": "Badezimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/13e9b853-6d59-4323-8b21-0255b3fbe710/99/image.jpg",
+      "caption": "Lobby"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/783553d7-82ff-4687-8cd7-6934f6063851/99/image.jpg",
+      "caption": "Massagezimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c9861696-6fc9-472e-b292-f0ac574b83ef/99/image.jpg",
+      "caption": "Pool"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/852d3fd8-d3a7-47df-88f2-df1bfb7cbcf3/99/image.jpg",
+      "caption": "Pool"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1a9a529a-ab24-47c7-be90-1fba3b196d9d/99/image.jpg",
+      "caption": "Pool"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/da64aef4-7d2b-40ee-8e8b-b50ea3d6f5e4/99/image.jpg",
+      "caption": "Pool"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7dcdd203-93d6-410c-8b7c-4d964b446a58/99/image.jpg",
+      "caption": "Doppelzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/eddcc320-92c7-447c-9e06-40a36b132c3b/99/image.jpg",
+      "caption": "Sommer in Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4132ff94-86e7-4e29-a185-bef78cfff6e8/99/image.jpg",
+      "caption": "Zirbenstube"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/60398634-b8a2-4091-873f-09bc64ed1999/99/image.jpg",
+      "caption": "Rosshütte"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d6511dec-de8a-4b9d-aa4a-20c61c7d6b00/99/image.jpg",
+      "caption": "Rosshütte"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2da2375b-c156-4600-87f1-2ac7711bf4db/99/image.jpg",
+      "caption": "Doppelzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/cde09487-2773-4087-b705-bae2e8f4ad00/99/image.jpg",
+      "caption": "Suite"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9647971b-8ffa-4ab8-810b-86a554e9a980/99/image.jpg",
+      "caption": "Suite"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e126e3cb-2084-4b31-9721-302fcc0b791e/99/image.jpg",
+      "caption": "Suite"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e7e562f9-819e-4445-a68f-3d16b99121c6/99/image.jpg",
+      "caption": "Senior Suite"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/38513b07-8f5a-4649-b43d-79d429824333/99/image.jpg",
+      "caption": "Zirben Alpin Spa"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d89708ff-2951-46f6-acd8-7b6241c1e69a/99/image.jpg",
+      "caption": "Wellnessbereich"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3255447",
+    "longitude": "11.1993085"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Bad, WC, Standard",
+      "description": "ca. 25-28m² für 2 Erwachesene im Queensize Bett, Ruhelage\nBademantel, Bad mit Badewanne, Balkon, W-Lan, Kabel- TV, Minibar, Sitzecke, Safe, Haarfön",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "DZ STANDARD",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "313.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Bad, WC, Superior",
+      "description": "\nDoppelzimmer Superior (ca. 29 m²)\nfür 2 Personen:\nDoppelbett, Bad mit Badewanne, teilweise Balkon, WLAN (kostenlos), Kabel-Flat-TV, Minibar, Sitzecke, Safe,  Haarfön\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "DZ SUPERIOR",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "320.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Bad, WC, Deluxe",
+      "description": "\nDoppelzimmer Deluxe (ca. 35 m²)\nfür 2 Personen:\nDoppelbett, Bad mit Badewanne, Bidet, Balkon oder Terrasse, WLAN (kostenlos), Kabel-Flat-TV, Minibar, Sitzecke, Safe, Haarfön, \n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "DZ DELUXE",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "340.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Junior Suite, Bad, WC, Balkon",
+      "description": "\n\nJunior Suite (ca. 40 m²)\nfür 2 Personen:\n Doppelbett, Bad mit Badewanne, Bidet, Balkon,WLAN (kostenlos), Kabel-Flat-TV, Minibar, Schreibtisch, Sitzecke, Safe, Haarfön\n Geeignet für Familien\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "JUNIOR SUITE",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "400.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "0.00",
+          "maxPrice": "400.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Suite, Dusche und Badewanne, Balkon",
+      "description": "Suite (ca. 45 m²)\nfür 2 Personen:\n\n    Schlafzimmer mit Doppelbett\n    separates Wohnzimmer\n    Schlafcouch\n    Bad mit Badewanne und Dusche\n    Gäste-WC\n    Balkon oder Terrasse\n    WLAN (kostenlos)\n    Kabel-Flat-TV\n    Minibar\n    Schreibtisch\n    Sitzecke\n    Safe\n    Haarfön\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "SUITE",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "296.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "0.00",
+          "maxPrice": "296.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Suite, Dusche und Bad, WC, 1 Schlafraum",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "SENIOR SUITE",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "404.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "0.00",
+          "maxPrice": "404.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Einzelzimmer, Bad, WC, Balkon",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "EZ",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "0.00",
+          "maxPrice": "319.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

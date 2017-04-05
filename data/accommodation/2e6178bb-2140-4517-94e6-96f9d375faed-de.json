@@ -1,0 +1,46 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.sportalm-seefeld.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Sportalm",
+    "streetAddress": "Gschwandtkopf 277",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "0043 5212 2689",
+    "faxNumber": "0043 5212 268934",
+    "email": "info@sportalm-seefeld.at",
+    "url": "http://www.sportalm-seefeld.at"
+  },
+  "name": "Sportalm",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "reviewCount": "13"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/075e7449-a872-458f-91c8-29ef2839c4c2/99/image.jpg",
+      "caption": "Hausfoto Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/02321201-d8ac-4d11-b7c1-dff69016749e/99/image.jpg",
+      "caption": "Hausfoto Winter"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3243814683796",
+    "longitude": "11.1782455444336"
+  },
+  "currenciesAccepted": "EUR"
+}

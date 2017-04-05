@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Store"
+  ],
+  "name": "Atelier Bornhak",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3636372697383",
+    "longitude": "11.1176901779098"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Atelier Bornhak",
+    "streetAddress": "Klamm 61",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6113"
+  },
+  "description": "Atelier Bornhak \n(ausschließlich Keramik und Malerei)\nKlamm 64, Tel.: 05214/6113",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c02d0c51-f75c-4dc1-b087-cd533adf5c6e/99/image.jpg",
+      "caption": "Altlier"
+    }
+  ],
+  "url": [
+    "http://"
+  ]
+}

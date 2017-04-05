@@ -1,0 +1,42 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "Johanni Kirchtag Unterleutasch",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Pfarrkirche Hl. Johannes",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Unterkirchen",
+      "addressLocality": "Leutasch",
+      "postalCode": "6105",
+      "addressCountry": "AT",
+      "telephone": "(0043)52146235"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Pfarrkirche Hl. Johannes",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Unterkirchen",
+      "addressLocality": "Leutasch",
+      "postalCode": "6105",
+      "addressCountry": "AT",
+      "telephone": "(0043)52146235"
+    }
+  },
+  "description": "Patrozinium Hl. Johannes des Täufer. Programm: 10.00 Uhr: Festgottedienst, anschl. Prozession, ca. 11.00 Uhr: Frühschoppenkonzert der Musikkapelle Leutasch und den Steinrösler Sängern. Kinderprogramm und kostenloses Promilletaxi!\nAuch für Speis\u0026Trank ist bestens gesorgt.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3baf9fbb-b775-461b-8a4d-3f8251e1c7f8/99/image.jpg",
+      "caption": "kirchtag"
+    }
+  ],
+  "startDate": "2017-06-25T10:00:00",
+  "endDate": "2017-06-25"
+}

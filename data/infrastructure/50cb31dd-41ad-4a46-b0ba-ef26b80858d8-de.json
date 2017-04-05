@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Church"
+  ],
+  "name": "Maria-Hilf Kapelle",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3084450001963",
+    "longitude": "11.1999821662903"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Maria-Hilf Kapelle",
+    "streetAddress": "Auländer Dorfstraße 27",
+    "addressLocality": "Reith bei Seefeld",
+    "postalCode": "6103",
+    "addressCountry": "AT"
+  },
+  "description": [
+    " \n",
+    "Die Auländer Kirche wurde 1856 in einer beispielgebenden Gemeinschaftsarbeit der Bewohner errichtet. In den Katastrophenjahren nach 1892 und 1945 wurden die Gemeindegottesdienste vornehmlich in dieser Filialkirche gehalten. 1898 erfuhr sie aus Anlass des 50jährigen Regierungsjubiläums Kaiser Franz Josephs eine Renovierung. Daran erinnert die Gedenktafel an der Außenwand. Es ist darin eine Anzahl von wertvollen Kunstgegenständen zu finden. Neben dem Hochaltar mit dem Mariahilf-Bild sind die beiden Seitenaltäre, Schränke mit Statuen sowie Fresken im Gewölbe bemerkenswert. 1995/96 erfuhr die Filialkirche eine Generalsanierung.\n\n"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/db0ce165-d786-4ebf-9777-5f00577e5e48/99/image.jpg",
+      "caption": "Kapelle"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c4af8643-b42c-4660-a058-1bfbfc10c3fd/99/image.jpg",
+      "caption": "Maria-Hilf Kapelle"
+    }
+  ]
+}

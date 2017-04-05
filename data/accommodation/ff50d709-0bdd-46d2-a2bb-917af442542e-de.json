@@ -1,0 +1,23 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Brugger",
+    "streetAddress": "Weidach 319 a",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 20199",
+    "email": "mariasbrugger@gmail.com"
+  },
+  "name": "Haus Brugger",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3729902859275",
+    "longitude": "11.1645516424667"
+  },
+  "currenciesAccepted": "EUR"
+}

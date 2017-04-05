@@ -1,0 +1,68 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.toniboeck.at/",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Böck",
+    "streetAddress": "Porta-Claudia-Strasse 223",
+    "addressLocality": "Scharnitz",
+    "postalCode": "6108",
+    "addressCountry": "AT",
+    "telephone": "004352135419",
+    "email": "toniboeck@gmx.at",
+    "url": "http://www.toniboeck.at"
+  },
+  "name": "Haus Böck",
+  "description": [
+    "Unsere Ferienwohnung für 2-3 Personen mit komplett eingerichteter Küche mit Sitzecke, Schlafzimmer, Du/WC, Farb-TV und Terrasse liegt in ruhiger Lage direkt am Waldrand. Garten, Parkplatz, Garage gegen Aufpreis.",
+    "inklusive: Heizung, Wasser, Handtücher, Tisch- und Küchenwäsche\nexklusive: Endreinigung, Ortstaxe",
+    "aus Deutschland kommend vor der Raiffeisenkasse rechts dann am Kindergarten vorbei und dann links über Brücke, 1. Haus auf der rechten Seite."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/78b5d203-9279-46aa-ab10-989c0501a600/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b4f93bd6-c64e-4ad4-b75f-f4cc7e14bb57/99/image.jpg",
+      "caption": "Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3929547872434",
+    "longitude": "11.2637532960653"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Ferienwohnung für 2-3 Personen , ruhige Lage am Waldrand, Liegewiese, Parkplatz.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "TouristAttraction"
+  ],
+  "name": "Bienenlehrpfad/Themenweg",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3159301381478",
+    "longitude": "11.2022352218628"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Andreas Hoferstraße 606",
+    "addressLocality": "Seefeld ",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "email": "kurtkriegl@gmx.at",
+    "url": "http://www.bienenhotel.at"
+  },
+  "description": [
+    "Der Reither Bienenlehrpfad mit seinem Bienenhotel ist einzigartig und gibt Wanderern und Interessierten einen Einblick in das geheimnisvolle Leben\nder Honigbiene sowie deren Verwandten, der Solitärbiene und der Hummel.Entlang des Reither Waldweges, beginnend bei der Kneippanlage St. Florian, vorbei am Kaltwasserbach und endend am Niederbach und dem Ichthyolwerk, geben 10 Schautafeln anschauliche Informationen über die Honigbiene. Im Bienenhotel, Unterkunft für Wildbienen, Solitärbiene und Hummel und Dauermietplatz für Honigbienen, kann durch ein Glasfenster das bunte Treiben im Bienenstock gefahrlos beobachtet werden. Zu sehen sind frühzeitliche und aktuelle Bienenbehausungen, Imkereigeräte und Bienenprodukte. Die Biene dürfte das älteste Tier sein, das der Mensch in Pflege genommen hat. Zu allen Zeiten haben sich Dichter, Naturforscher, Ärzte und Philosophen mit den Bienen und ihren Produkten befasst. Auch heute noch können wir sagen, dass die Biene eines der wichtigsten Nutztiere des Menschen darstellt. So gehört der Honig seit jeher zu einem sehr kostbaren Gut. Durch Gärung von Honig, Wasser und Hefe wurde bereits 5500 v. Chr. Met (oder auch Honigwein genannt) eines der ältesten alkoholischen Getränke, hergestellt. In der nordischen Mythologie wurde dieses berauschende Getränk zum Trank und Geschenk der Götter ernannt, so sagt man auch, dass Met den Göttern Unsterblichkeit verlieh und auf die Menschen belebend, stärkend, gesundheitsfördernd und lebensverlängernd wirken soll. Die Beziehung zwischen Bienen und Blumen ist eine über Jahrmillionen fortlebende Fortpflanzungssymbiose. Die Biene nimmt den Nektar der Blüten als Nahrung auf, dabei bleiben die Pollen der Blüte an ihr hängen, welche die Biene dann weiter trägt und damit eine andere Blüte bestäubt, sodass diese sich vermehren kann. Auch der Fortbestand der Menschheit ist eng mit Bienen und deren „Fortpflanzungstätigkeiten“ für Pflanzen verbunden: Schon Albert Einstein soll einst bemerkt haben: „Wenn die Biene von der Erde verschwindet, dann hat der Mensch nur noch 4 Jahre zu leben; keine Bienen mehr, keine Pflanzen mehr, keine Tiere mehr, keine Menschen mehr ...“ Auf Anfrage beim Informationsbüro Reith werden auch Führungen von einem Imker angeboten, der mit Hilfe von Lehrtafeln und Imkereigeräten die Besonderheiten der verschiedenen Bienenarten erklärt. Unter anderem kann bei dieser Führung durch ein Glasfenster das bunte Treiben im Bienenhotel beobachtet werden. Spannende Naturkunde für die ganze Familie ist garantiert!",
+    "Der Bienenlehrpfad ist Winter wie Sommer geöffnet.\nDie Bienen kommen ca aANfang Juni bis Ende September ins Bienenhotel!\nJeden Donnerstag um 10.00 Uhr findet eine Führung durch den Bienenlehrpfad mit Besichtungung des Bienenhotels statt.\nBitte um Voranmeldung unter: 05 0880 30 Kosten pro Person 7,- Euro Kinder sind frei!"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c3deda03-0970-4a5b-bb1d-0f1bff691a34/99/image.jpg",
+      "caption": "Bienenhotel"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/38ba74cc-8296-44eb-a8ba-204504d459cc/99/image.jpg",
+      "caption": "Wildbienenbehausung"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/cd10e912-3ba2-4783-a351-e495dfedd01a/99/image.jpg",
+      "caption": "Wanderung"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8206e476-26b6-4820-8fa6-876383caeb08/99/image.jpg",
+      "caption": "Bienenhotel neu"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/98e7d558-99e4-46b5-a253-8f1fe0e4a9ed/99/image.jpg",
+      "caption": "Auszeichnung"
+    }
+  ],
+  "url": [
+    "http://www.bienenhotel.at/"
+  ]
+}

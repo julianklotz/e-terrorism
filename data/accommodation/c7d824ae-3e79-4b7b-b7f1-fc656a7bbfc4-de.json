@@ -1,0 +1,221 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://www.hotel-diana.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Hotel Diana",
+    "streetAddress": "Klosterstr. 97",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2060",
+    "faxNumber": "(0043) 5212 2188",
+    "email": "info@hotel-diana.at",
+    "url": "http://www.hotel-diana.at"
+  },
+  "name": "Hotel Diana",
+  "description": [
+    "Beliebtes Familienhotel in der Fußgängerzone, komfortabel und gemütlich eingerichtet - ein Haus der Kategorie \"A\". Im Wintergarten servieren wir Hausmannskost und internationale Spezialitäten. 1. Bier-Bottich-Bad Tirols, Heusprudelbad - gönnen Sie sich eine erholsame Zeit in unserem Wellnessbereich.",
+    "Wellnessbereich: Haferstrohbett, Heubett u. Infrarotkabinen f. Hausgast kostenlos, Bierbottichbad € 44.-, Heusprudelbad € 28.-, Solarium € 7.-, Massagen € 24.- bis € 66, Hund € 7,50",
+    "Ausfahrt Seefeld Mitte - geradeaus nach den Klosterbräu - Parkplätzen links in die Hohe Munde Straße - Fussgängerzonenanfang - Klosterstraße\nCheck-In: ab 12/Check-Out: 11 Uhr (oder nach Vereinbarung)"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "reviewCount": "204"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e8089cbe-75c9-452c-81f6-cb512a7d3814/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4e1461c6-55a7-4f46-81e1-2da0f5407c3b/99/image.jpg",
+      "caption": "Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3287584277869",
+    "longitude": "11.1842738091946"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Bad, WC",
+      "description": "geräumiges Doppelzimmer mit Sitzecke, Bad/WC, Föhn, Sat-TV, Telefon, Minibar, Safe und Südbalkon;",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Bad, WC / Superior",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Einzelzimmer, Dusche, WC",
+      "description": "geräumiges Einzelzimmer mit Sitzecke, Dusche/WC, Föhn, Sat -TV, Telefon, Minibar, Safe;",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Einzelzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Doppelzimmer mit Sitzecke, Dusche/WC, Fön, TV, Minibar, Telefon und Safe",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Dusche, WC / Komfort",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Familienzimmer, Dusche oder Bad, WC",
+      "description": "für 2-4 Personen, Schlafzimer mit Doppelbett, Wohnraum mit Sitzecke und Kachelofen, TV, Telefon, Minibar, Safe, Bad/WC, Föhn, Vorraum und Balkon;",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Familienzimmer / Hubertussuite",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Suite, Dusche oder Bad, WC",
+      "description": "für 2-4 Personen, Schlafzimmer mit begehbarem Schrank, großer Wohnraum mit Sitzecke und Kachelofen, TV, Telefon, Minibar, Safe, Bad u. WC getrennt, Föhn, Balkon.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Familiensuite \"Diana\"",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Suite, Dusche oder Bad, WC",
+      "description": "Schlafzimmer mit Doppelbett, Schrankraum, Bad/WC, Föhn, Wohnraum mit Sitzecke und offenem Kamin, Sat-TV, Telefon, Minibar, Safe und Balkon",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Kaminsuite",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Junior Suite, Dusche oder Bad, WC",
+      "description": "Juniorsuite für 2-4 Personen. Schlafzimmer mit Doppelbett, Wohnraum mit Sitzecke, Sat-TV, Telefon, Minibar, Safe, Bad und WC getrennt, Föhn, Vorraum und Balkon.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Juniorsuite \"Seefelder Spitze\"",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ]
+    }
+  ]
+}

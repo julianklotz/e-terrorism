@@ -1,0 +1,112 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.amskihuegel.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Am Skihügel",
+    "streetAddress": "Münchnerstr. 200",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 50438",
+    "faxNumber": "(0043) 5212 50438",
+    "email": "sigidraxl@gmx.at",
+    "url": "http://www.amskihuegel.at"
+  },
+  "name": "Haus Am Skihügel",
+  "description": [
+    "Unsere Appartements liegen in sehr sonniger, ruhiger und zentraler Lage,\ndirekt am Fuße des \"Geigenbühel\". Der Ortskern, die Fußgängerzone, ist ca. 3 Gehminuten entfernt. Ortsbushaltestelle in Hausnähe.\n",
+    "Unsere Appartements liegen in sehr sonniger, ruhiger und zentraler Lage,\u2028direkt am Fuße des \"Geigenbühel\", dem Seefelder Schischultreffpunkt und Anfänger-Schihang mit Lift. Der Ortskern, die Fußgängerzone, ist ca. 3 Gehminuten entfernt. Ski- und Ortsbushaltestelle in Hausnähe.\n",
+    "Inklusive : Heizung, Wasser, Stromkosten\n",
+    "Check - In : 15.00 Uhr\nCheck - Out : 10.00 Uhr"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/68a85718-be75-4bf0-824d-71931ad2c981/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e55f7c24-6437-46eb-9995-a30adacae3a7/99/image.jpg",
+      "caption": "Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3320243213248",
+    "longitude": "11.1878854036331"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Unser 2-Raum Appartements bestehen aus Wohnschlafzimmer,  komplett eingerichtete Küche, Mikrowelle,  Du/WC, Balkon, Sat- TV.\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartement  Enzian",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "Unsere 3-Raum Appartements bestehen aus Wohnschlafzimmer, 1 Schlafzimmer mit Doppelbetten, 1 Schlafzimmer mit Stockbetten,  komplett eingerichtete Küche, Mikrowelle, Du/WC, Balkon, Sat-TV.\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartement Edelweiss",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Unser 2-Raum Appartements bestehen aus Wohnschlafzimmer,  komplett eingerichtete Küche, Mikrowelle,  Du/WC, Balkon, Sat- TV.\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartement Alpenrose",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

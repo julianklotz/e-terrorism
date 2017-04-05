@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant"
+  ],
+  "name": "Golfrestaurant Seefeld-Wildmoos",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3343159196383",
+    "longitude": "11.1456304772156"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Golfrestaurant Seefeld-Wildmoos",
+    "streetAddress": "Wildmoos 11",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 0664 2616647"
+  },
+  "description": "Sitzplätze für ca. 180 Personen",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/04a49495-5410-4344-a477-711492100d7f/99/image.jpg",
+      "caption": "Golfrestaurant Seefeld-Wildmoos"
+    }
+  ],
+  "url": [
+    "http://"
+  ]
+}

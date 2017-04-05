@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure"
+  ],
+  "name": "Tiefgarage Eurospar",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Eurospar",
+    "streetAddress": "Olympiastr. 882",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 22291",
+    "url": "http://www.albrecht-betriebe.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/be618a7d-3805-4572-8cac-9670cb9febfc/99/image.jpg",
+      "caption": "parken"
+    }
+  ],
+  "url": [
+    "http://www.albrecht-betriebe.at"
+  ]
+}

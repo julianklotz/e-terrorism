@@ -1,0 +1,192 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://www.kronenhotel.com",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Kronenhotel",
+    "streetAddress": "Karwendelweg 732",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 50349",
+    "email": "office@kronenhotel.com",
+    "url": "http://www.kronenhotel.com"
+  },
+  "name": "Kronenhotel",
+  "description": [
+    "Unser großzügiges Hotel liegt ca. 600 m vom Dorfzentrum entfernt, auf ebener Strecke und in ruhiger Lage.",
+    "Kostenlos: Parkplatz nach Verfügbarkeit, vor dem Hotel.\nHigh Speed Wifi: EUR 5,00 - EUR 10,00 pro Aufenthalt\nHaustier: EUR 10,00 pro Tag\n",
+    "Check-In 15:00 / Check-Out 10:00\nWeg: Folgen Sie von München kommend ca. 300 m in Richtung Ortsmitte, die 1. Straße links einbiegen in den Karwendelweg ca. 20 m \u003d Kronenhotel-Einfahrt."
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.3",
+    "reviewCount": "166"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0d6024fd-f484-4517-85b9-7bc54773a14d/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/89565d30-4f5a-4125-85db-7dde3ac2027e/99/image.jpg",
+      "caption": "Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3349328235291",
+    "longitude": "11.1939525604248"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Bad, WC",
+      "description": "DOPPELZIMMER - 32 m², Balkon Süd, Bad/Bidet/WC - separat, Fön, kombinierter Wohn- und Schlafbereich mit Doppelbett, Sitzecke, Schreibtisch, Safe, TV, Radio, Teppichboden.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Bad, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Familienzimmer, Dusche, WC",
+      "description": "Familienzimmer mit 4 Betten, davon 2 Betten in Nischen, 38 m², Balkon Ost, Dusche/Bidet/WC getrennt, Schreibtisch, Sitzecke, Balkonstühle mit Auflagen, TV, Fön",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Familienzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Festes stabiles Doppelbett, Sitzecke, Schreibtisch, Safe, Radio, DZ - 29 m², Balkon Ost, Dusche/Bidet/WC - getrennt, Fön, Balkonstühle mit Auflagen, Teppichboden, TV",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Einzelzimmer, Dusche, WC",
+      "description": "EZ 14 m² mit Dusche/WC, Schrank, Bett, Schreibtisch, Hocker, Stehlampe, Telefon, TV, Safe, Fön, Radio, Sessel",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Einzelzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC",
+      "description": "45 m², Hotelappartement 2-Räume, Balkon Süd mit Dusche/WC und Bad- WC getrennt, 1 Schlafzimmer, 1 Wohn-Schlafraum, Teppichboden, Sitzecke, Balkonstühle mit Auflagen",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Hotelappartement mit Dusche, Bad, WC",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "3"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "80.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "80.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "80.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

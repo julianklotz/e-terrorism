@@ -1,0 +1,78 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://web.deskline.net/seefeld/de/show_accommodation/SEE/d83b85c8-27bd-4bdb-9407-c54991f1cca9/haus_scheiring",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Scheiring",
+    "streetAddress": "Emmat 371",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6635",
+    "faxNumber": "(0043) 5214 6635",
+    "email": "haus-scheiring-leutasch@web.de"
+  },
+  "name": "Haus Scheiring",
+  "description": [
+    "Ruhig und sonnig gelegenes Haus am Waldrand. \nAusgangspunkt für unzählige Wanderungen zu jeder Jahreszeit. Berg- und Radtouren ab Haustüre. Lauschige Platze am Wasser (Leutascher Ache) unterhalb des Hauses.\n\nNaturrodelbahn im Wlad hinter dem Haus. Langlaufloipe 5 Min. Fußweg.",
+    "INKLUSIVE: Endreinigung, Strom, Wasser, Heizung, PKW-Parkplatz, Bett- und Tischwäsche, Hand- und Geschirrtücher\nEXKLUSIVE: Telefon, Ortstaxe",
+    "über Seefeld: Seefeld - Leutasch - Weidach - Emmat\nüber Mittenwald: Mittenwald - Leutasch - Weidach - Emmat"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2a3d3fb2-df10-4683-812e-90746d62b9c2/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/01295a13-e2d6-47f4-8ec0-9dc527179353/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ea23cf03-42ba-4c07-8f6f-bd920a6698dc/99/image.jpg",
+      "caption": "Aussicht Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/84acf71d-aef1-4043-bf77-09cba66c7332/99/image.jpg",
+      "caption": "Bergpanorama"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.378053165544",
+    "longitude": "11.173085483292"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "Ermäßigung für Kinder bis 15 Jahre.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/2 Schlafräume/Dusche, WC",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

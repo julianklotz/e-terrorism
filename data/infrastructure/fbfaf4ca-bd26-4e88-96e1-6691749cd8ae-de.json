@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Store",
+    "BookStore",
+    "ToyStore",
+    "Florist",
+    "GroceryStore"
+  ],
+  "name": "M-Preis",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3296610453324",
+    "longitude": "11.1860132217407"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "M-Preis",
+    "streetAddress": "Klosterstr. 276",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 626221",
+    "url": "http://www.mpreis.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/10dccc73-4745-4959-96f7-57595c1f8f1d/99/image.jpg",
+      "caption": "Supermarkt"
+    }
+  ],
+  "url": [
+    "http://www.mpreis.at"
+  ]
+}

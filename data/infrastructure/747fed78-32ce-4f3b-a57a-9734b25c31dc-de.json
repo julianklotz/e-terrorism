@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation"
+  ],
+  "name": "Wanderreiten",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "openingHours": [
+    "Mon,Tue,Wed,Thu,Fri,Sat,Sun 00:00-00:00"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Telfs-Buchen",
+    "postalCode": "6410",
+    "addressCountry": "AT",
+    "telephone": "(0043)6769773222",
+    "email": "info@wanderrreiten-tirol.at",
+    "url": "http://wanderrreiten-tirol.at"
+  },
+  "description": "Dreher Ranch/Wanderreiten\nBuchen\ndirekt über der Ropferstubm\nwww.wanderreiten-tirol.at\ninfo@wanderreiten-tirol.at\nTel:: +43(0)676/9773222\n        +49(0)172/8976043\n-Ausritte (von 2-5 Stunden)\n-Wanderritte\n-Ausritte (mit Übernachtung)\n-Individuelle Reittouren\n-Tagesausritt\n-Treking Touren mit Pferd",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7761cdc2-56a2-40ae-af9f-e0ee141981ea/99/image.jpg",
+      "caption": "Wanderreiten"
+    }
+  ]
+}

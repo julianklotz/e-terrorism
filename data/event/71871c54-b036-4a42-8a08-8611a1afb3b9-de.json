@@ -1,0 +1,48 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "Sommererlebnis - Johannas Kräutergarten mit Johanna Krug",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Informationsbüro Leutasch",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Weidach 320",
+      "addressLocality": "Leutasch",
+      "postalCode": "6105",
+      "addressCountry": "AT",
+      "telephone": "+43-50880510",
+      "faxNumber": "+43-50880811",
+      "email": "info.leutasch@seefeld.com",
+      "url": "http://www.seefeld.com"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Joslhof",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Lochlehn 232",
+      "addressLocality": "Leutasch",
+      "postalCode": "6105",
+      "addressCountry": "AT",
+      "telephone": "(0043) 5214 6046"
+    }
+  },
+  "description": "„Es gibt keine Unkräuter, jedes Kraut hat seinen\nNutzen.“ Als Abschluss der Kräutergartenführung gibt es für\nDich die Möglichkeit, hausgemachte Produkte zu\nverkosten. Dauer: 2,5 Stunden, max. 20 Teilnehmer möglich. Mehr Info: www.seefeld.com/erlebnisse\nDie Teilnahme an den geführten Wanderungen ist mit der\nOlympiaregion Seefeld Card kostenlos.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7ba09bce-af3e-42c3-90ec-47966f0be8e4/99/image.jpg",
+      "caption": "kräutergarten"
+    }
+  ],
+  "url": [
+    "http://www.seefeld.com/urlaub-tirol-wandern/wanderwege/a-sommererlebnisse-johannas-kraeutergarten"
+  ],
+  "startDate": "2017-05-31T10:00:00",
+  "endDate": "2017-10-01"
+}

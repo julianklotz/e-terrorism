@@ -1,0 +1,33 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation"
+  ],
+  "name": "Langlaufschule Seefeld",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Langlaufschule Seefeld",
+    "streetAddress": "Olympia Sport- und Kongresszentrum",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 3060",
+    "url": "http://www.schi-seefeld.at"
+  },
+  "description": "Büro: Olympia Sport- und Kongresszentrum Tel.: 05212/3060, www.schi-seefeld.at\nÖffnungszeiten: Mo - Sa 9.30 - 16.30 Uhr, So 9.30 - 16.00 Uhr Sammelplatz: Olympia Sport- u. Kongresszentrum; Gruppeneinteilung fur Anfänger und Fortgeschrittene in klassischer und Skating-Technik, geführte Tagestouren. Langlauf Klassisch und Skating: 1-5 Tageskurse a 2 h, auf Anfrage auch Tagestouren. Privatunterricht Langlauf (Skating oder klassisch): Termine auf Anfrage von 60 bis zu 120 Minuten, Unterricht in jeder Technik.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/32c6ffc4-2923-404b-8163-ded1be811175/99/image.jpg",
+      "caption": "Piktogramm"
+    }
+  ],
+  "url": [
+    "http://www.schi-seefeld.at"
+  ]
+}

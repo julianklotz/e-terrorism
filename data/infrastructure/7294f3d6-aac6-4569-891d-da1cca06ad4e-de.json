@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation"
+  ],
+  "name": "Gasthaus-Cafe Wiesenhof, Schneeschuhverleih",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3812459505983",
+    "longitude": "11.2918270375038"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Gasthof Wiesenhof",
+    "streetAddress": "Hinterautalstr. 283",
+    "addressLocality": "Scharnitz",
+    "postalCode": "6108",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5213 5380",
+    "email": "gasthofwiesenhof@aon.at",
+    "url": "http://www.gasthof-wiesenhof.at"
+  },
+  "description": [
+    "Tel.: 05213/5380, www.gasthof-wiesenhof.at\nPreis pro Tag € 9,00\nSollten Sie mit den geliehenen Schneeschuhen die\nsamstags und sonntags geoffnete Pleisenhutte besuchen,\nwerden Sie mit einem Begrusungsschnaps\nbelohnt",
+    "Tel.: 05213/5380, www.gasthof-wiesenhof.at\nPreis pro Tag € 9,00\nSollten Sie mit den geliehenen Schneeschuhen die\nsamstags und sonntags geoffnete Pleisenhutte besuchen,\nwerden Sie mit einem Begrusungsschnaps\nbelohnt"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/402873b5-3301-4204-b41b-80b326cb50b3/99/image.jpg",
+      "caption": "Winter Wiesenhof"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/26754036-fd78-4871-9d07-1bb919656f35/99/image.jpg",
+      "caption": "Sommer Wiesenhof"
+    }
+  ]
+}

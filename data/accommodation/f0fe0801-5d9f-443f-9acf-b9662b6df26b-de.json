@@ -1,0 +1,96 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://www.meilerhof.at"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Restaurant Meilerhof",
+    "streetAddress": "Meilerweg 67",
+    "addressLocality": "Reith bei Seefeld",
+    "postalCode": "6103",
+    "addressCountry": "AT",
+    "telephone": "0043 5212 3225",
+    "faxNumber": "(0043) 5212 3225 25",
+    "email": "info@meilerhof.at",
+    "url": "http://www.meilerhof.at"
+  },
+  "name": "Restaurant Meilerhof",
+  "description": [
+    "Einzigartige Panoramalage mit Blick auf das Inntal und die Stubaier Berge. \nHaubengekrönte Rindfleischküche, Sonnenterrasse.\n2-Raum Komfortzimmer, Limousinenservice.\n",
+    "Kostenlos -  Parkplatz, Garage",
+    "Check in: 15.00 Uhr\nCheck out: 12.00 Uhr\n\nAnreise: von Deutschland kommend-direkt an der Bundesstraße B177 Richtung IBK. Ca. 4 km nach Seefeld - unterhalb des Feriendorfes Reith\n"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "reviewCount": "37"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9a81a272-4c2f-48a2-9828-26a6bc5ca332/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f512e403-e51a-45f8-8b97-89eeb901bae9/99/image.png",
+      "caption": "Logo Meilerhof"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2df7c462-a2b1-4318-a845-ca19369a3dae/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3e155d04-cddc-4284-a1e8-b663dd1bed5b/99/image.jpg",
+      "caption": "Winter 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/47d362c6-d21d-4b90-ac6f-6a8e3f17b5c6/99/image.jpg",
+      "caption": "Restaurant 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d53b2202-f145-4976-8372-db33560ca3d6/99/image.jpg",
+      "caption": "Restaurant 2"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2956196",
+    "longitude": "11.2061707"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche und Bad, WC",
+      "description": "2-Raum Komfortzimmer, die mit heimischen Hölzern und ausgewählten Detail ausgestattet sind, seperater Wohnraum, Südbalkon.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer, Dusche und Bad, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

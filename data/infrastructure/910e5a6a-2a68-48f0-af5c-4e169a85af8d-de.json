@@ -1,0 +1,28 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "TouristAttraction"
+  ],
+  "name": "O\u0027Hara Mary (staatl. geprüfte Bergführerin)",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Geigenbühelstr. 207",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 699 19246442",
+    "email": "mary@tirolguide.com"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9f4ca23e-1cb0-4819-8690-49ab50a4ab50/99/image.gif",
+      "caption": "Wandern"
+    }
+  ]
+}

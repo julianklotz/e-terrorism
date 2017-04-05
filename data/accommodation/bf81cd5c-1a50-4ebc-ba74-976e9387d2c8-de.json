@@ -1,0 +1,228 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.leismueller.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Leismüller",
+    "streetAddress": "Klamm 72",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6315",
+    "faxNumber": "(0043) 5214 6315",
+    "email": "hhleism@aon.at",
+    "url": "http://www.leismueller.at"
+  },
+  "name": "Haus Leismüller",
+  "description": [
+    "Unser Haus liegt auf einer leichten Anhöhe, ruhig und sonnig, am Eingang ins Alpenparadies Gaistal \nHerrlicher Blick auf die umliegende Bergwelt von den Südbalkonen und von unserer Sonnenterrasse aus. \nGartengrill,  eine Laube und Liegewiese steht den Gästen zur Verfügung. \nAusgangspunkt zu schönen Wander- und Radtouren.   \nRuhe- und Naturliebhaber schätzen die Lage des Hauses, da wir abseits von der Straße sind.\n\nIn unseren Ferienwohnungen \" Tirol\" (ab 2 Personen (bis 5 Personen möglich)) oder\n\"Hocheder\" (ab 2 Personen), mit gemütlicher Ausstattung werden Sie sich rundum wohlfühlen\nund Ihre Ferien in vollen Zügen geniesen können.\n\nFreie Loipen-Benutzung im Winter.\nIm Sommer freier Eintritt ins Erlebnis-Alpenbad von Leutasch.",
+    "Bei weniger als 3 Nächtigungen 20% Aufschlag.",
+    "Check-In: 15.00 Uhr / Check-Out 10.00 Uhr\n\nWeg: Folgen Sie den Wegweisern Klamm - Richtung Gaistal. Beim Fiaker-Stüberl bzw. Hinweistafel Klamm rechts abbiegen und den Haus-Hinweisschildern folgen.",
+    "Privatpension, Ferienwohnungen, Appartement, Zimmer\nPension, Nächtigung"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5a1653e1-c086-459c-b397-d41355334dad/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b507fafe-ec30-4644-8ab0-f86b425303eb/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/bf9db91a-e45a-4b6d-b422-a95d305c7948/99/image.jpg",
+      "caption": "Ausblick Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6f68e10e-2554-49ed-8c20-d9cfd50dad3a/99/image.jpg",
+      "caption": "Ausblick Winter Süden"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ed654274-3a05-4944-853d-8d11f0255a91/99/image.jpg",
+      "caption": "Ausblick Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a63b8b00-0e73-4bda-b803-624cf410cc82/99/image.jpg",
+      "caption": "Panorama Umgebung"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5e533fea-78d9-48b3-b28d-ebcf1a724448/99/image.jpg",
+      "caption": "Ausblick in die Berge"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/061dd92f-aa0e-49ed-84fa-dbc38ede6de9/99/image.jpg",
+      "caption": "\"Tirol\" Wohnzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e5a44359-a443-4563-9229-2cad18308149/99/image.jpg",
+      "caption": "\"Tirol\" Wohnzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/614682cf-f5fb-4f37-8c9f-4999b4c97299/99/image.jpg",
+      "caption": "\"\u0027Tirol\" Küche"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d4138c84-75ab-4b40-8ac1-afbe93506499/99/image.jpg",
+      "caption": "\"Tirol\" Dusche/WC"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1550802a-ad7d-4b55-82e1-6339b9479187/99/image.jpg",
+      "caption": "\"Tirol\" Dusche/WC"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b237e743-6fd9-4118-9d3f-1065d485df10/99/image.jpg",
+      "caption": "\"Tirol\"  Zirbenzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/36568d64-0071-44cd-8a64-3357acc0ab4d/99/image.jpg",
+      "caption": "\"Hocheder\" Wohnküche"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3c607531-aeb6-4e3c-a642-1abc325d491d/99/image.jpg",
+      "caption": "\"Hocheder\" Wohnküche"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7f106e05-4005-4be5-bd25-37345388712a/99/image.jpg",
+      "caption": "\"Hocheder\" Schlafzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f9f599cb-ebb7-4fb2-9882-20db8316c018/99/image.jpg",
+      "caption": "\"Hocheder\" 2. Schlafraum"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.364134424237",
+    "longitude": "11.120743111615"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, Süd",
+      "description": "Appartement \"Tirol\" neu;       \n50 m² mit 1 Schlafzimmer bzw.\n70 m² mit 2 Schlafzimmern und 2 Dusche/WC   NEU  renoviert\n              mit 1 oder 2 Schlafzimmern\n              jeweils mit Dusche/WC\n              (vermieten wir auch mit 1 Schlaf-und Badezimmer)\n              Wohnraum mit SAT-TV, W-LAN\n              separate Küche mit Geschirrspüler u. sämtl. Inventar\n              kleiner Vorraum\n               großer Südbalkon (und Westbalkon) mit\nBlick in die Berge ,freier Eintritt ins Alpenbad ",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "\"Tirol\", Dusche, WC, 1 oder 2  Schlafräume",
+          "description": "Appartement \"Tirol\"\n\n 50m² mit 1 sep. Schlafzimmer, Du/WC\n 70m² mit 2 sep. Schlafzimmern, 2 x Du/WC\nWohnzimmer mit Auszieh-Couch, Essplatz, SAT-TV\nsep. Küche mit kompl. Ausstattung\nDusche/WC (9 m²)\nFlur (4.40 m²)\ngroßer Südbalkon mit herrlicher Aussicht\nIm Sommer freier Eintritt ins Alpenbad (nur Schwimmen)\nIm Winter freie Loipen- und Busnutzung",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "65.00",
+          "maxPrice": "75.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "75.00",
+          "maxPrice": "95.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "85.00",
+          "maxPrice": "105.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "95.00",
+          "maxPrice": "105.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "Sehr geräumige, gemütliche Appartements mit ein oder zwei Schlafräumen, Wohnküche separat. Balkon oder Terasse. Gartengrill mit Sitzplatz, Liegewiese. Parkplatz direkt am Haus.\n\nIm Sommer GRATIS: Fahrrad-Verleih und freier Eintritt ins Alpenbad Leutasch\n  \nIm Winter kostenlose Loipenbenutzung GRATIS Rodelverleih.\nExclusive Endreinigung!",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "\"Hocheder\" /2 Schlafräume/Dusche, WC",
+          "description": "Ferienwohnung mit 2 separaten Schlafzimmern, Dusche/WC, Südbalkon.\nWohnküche mit kompletter Ausstattung, Flachbild-SAT-TV. Vorraum\n\nGRATIS im Sommer: freier Eintritt ins Alpenbad, Fahrrad-Verleih\n",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "63.00",
+          "maxPrice": "63.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "49.00",
+          "maxPrice": "63.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "56.00",
+          "maxPrice": "70.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "63.00",
+          "maxPrice": "75.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

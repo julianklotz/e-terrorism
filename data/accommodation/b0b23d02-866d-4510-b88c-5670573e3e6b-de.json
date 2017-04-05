@@ -1,0 +1,436 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://www.seefelderhof.com"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Hotel Seefelderhof",
+    "streetAddress": "Münchnerstr. 146",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "+435212237340",
+    "faxNumber": "+435212237341",
+    "email": "hotel@seefelderhof.com",
+    "url": "http://www.seefelderhof.com"
+  },
+  "name": "Hotel Seefelderhof",
+  "description": [
+    "Herzlich willkommen im 4* Hotel Seefelderhof in Seefeld in Tirol! Geselligkeit und persönliche Betreuung unserer Gäste sind uns wichtig – das spüren Sie in Ihrem Urlaub bei uns!\n\nUnser familiär geführtes Hotel inmitten der wunderschönen Olympiaregion Seefeld bietet Ihnen den idealen Ausgangspunkt für Ihren Sommer- und Winterurlaub. Ein gemütlicher Spaziergang von 5 Minuten bringt Sie in die bezaubernde Fußgängerzone Seefelds. Die Haltestelle für den kostenlosen Ski- und Dorfbus befindet sich direkt vor dem Hotel.\n\nDas Hotel Seefelderhof mit gemütlichem Ambiente und familiärer Atmosphäre, verwöhnt Sie mit kuscheligen Zimmern, wohltuende Wellness und genüsslicher Kulinarik. Unsere Doppel- und Familienzimmer sind überaus gemütlich mit heimischen Hölzern ausgestattet. Für einen besonders tiefen und entspannten Schlaf sorgen unsere Bio-Holzzimmer aus Zirbe. Der Großteil unserer Zimmer verfügt über einen Balkon. Pure Erholung finden Sie in unserer Wellnessoase mit Hallenbad, Sauna, Dampfbad, Infrarotkabinen und Vitalduschen, NEU ab Herbst eine Biofasselsauna im Garten. Erkundigen Sie sich auch nach unserem klassischen Massage und energetischen Balance Angebot.\n\nLassen Sie sich bei uns kulinarisch verwöhnen! Im Rahmen der Verwöhnpension starten unsere Hausgäste schon mit einem gesunden, abwechslungsreichen Frühstück in einen perfekten Tag. Nach einem tollen Ski- oder Wandertag warten am Nachmittag hausgemachte Kuchen, Kaffee und Tee auf Sie! Genießen Sie am Abend Ihr 6-Gang-Wahlmenü oder lassen Sie sich von unseren Themenabenden begeistern. Auch Vegetarier und Gäste mit Nahrungsmittelunverträglichkeit erleben bei uns einen kulinarischen Hochgenuss!\n\nBergsommer im Seefelderhof in der Olympiaregion Seefeld! Entdecken Sie über 600 km markierte Wanderwege zu urigen Hütten und Almen. Für bikeaffine Gäste bietet die Olympiaregion Seefeld tolle Mountainbikestrecken – Fahrräder können Sie gerne im Hotel ausleihen. Erholen Sie sich nach einem aktiven Bergtag in unserem Garten. Ihren Kindern steht ein Kinderspielplatz zum Toben zur Verfügung.\n\nWinterzauber im Seefelderhof in der Olympiaregion Seefeld! 271 km täglich gespurte Loipen, frisch präparierte Skipisten bei den Bergbahnen Rosshütte und Gschwandtkopfliften, 145 km geräumte Winterwanderwege – all dies und noch vieles mehr, erreichen Sie in nur 10 Gehminuten vom Seefelderhof. Nützen Sie den Komfort und nehmen Sie den kostenlosen Ski- und Dorfbus zu Ihrem gewünschten Ziel. Actionhungrige Kids können sich nach einem erlebnisreichen und kalten Wintertag in unserem warmen Indoor-Kinderspielzimmer weiter austoben.\n\nErleben Sie Verwöhnmomente bei uns im Hotel Seefelderhof in Seefeld in Tirol!\n\nWir freuen uns auf Sie!\n\nIhre Familie Ralser und Frau Holzknecht mit Team!",
+    "Kostenlos: Hallenbad, Sauna, Dampfbad, Kneipp Fußbecken, Wärmetherapiesitzbank, Erfrischungs-Teebar, Infrarotkabine, Vitaldusche, Tischtennis, Tanzabend, Parkplätze, spez. Buffet, Begrüßungscocktail, geführte Wanderungen, Nordic Walking Training mit Instruktoren.\nZu bezahlen: Massagen, physikalische Therapien, Billiard, Tischfussball, Solarium, Eisstockschießen.\n\nCheck-In: 14:00 Uhr / Check-Out: 11:00 Uhr\nWeg: Folgen Sie den braunen Hotelwegweisern, unser Haus liegt ca. 500 m vom Zentrum/Bahnhof, in nördlicher Richtung\n"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "reviewCount": "242"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/86e7f858-05e9-4e2e-b4c8-85ce969f8a8d/99/image.jpg",
+      "caption": "Außenansicht Sommer Seefelderhof Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a940d665-f5fb-43e0-a0cd-250480f897de/99/image.jpg",
+      "caption": "Außenansicht Winter Seefelderhof Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f0b6cc08-d979-4e38-94d3-c2998b0b7104/99/image.jpg",
+      "caption": "Rezeption Seefelderhof Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/22681229-aa2e-4a4b-bd36-0bf6522918c9/99/image.jpg",
+      "caption": "Dekoration Eingang Seefelderhof Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/759c6975-586f-49ce-a572-051f88f0772a/99/image.jpg",
+      "caption": "Aufenthaltsraum Seefelderhof Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0d23f210-5d60-4875-ad76-ae40ea25d30c/99/image.jpg",
+      "caption": "Barbereich Seefelderhof Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/dfee1a32-78f2-4ce0-9ce6-99ab5d2616aa/99/image.jpg",
+      "caption": "Frühstücksraum Seefelderhof Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/238689cf-354d-4feb-a177-910b80abfe0e/99/image.jpg",
+      "caption": "Garten Seefelderhof Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/00481c67-0377-44ca-ab45-e08daea3b119/99/image.jpg",
+      "caption": "Gartendeko Seefelderhof Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f86230fe-68cc-420a-8ac6-966b9062eb9e/99/image.jpg",
+      "caption": "Terrasse Seefelderhof Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5a271203-a5b6-44d6-b89d-b582574a9643/99/image.jpg",
+      "caption": "Stube Seefelderhof Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ce01068d-97bb-45f8-971f-920284b0e220/99/image.jpg",
+      "caption": "Speisesaal Seefelderhof Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b6b868e8-804e-4353-8938-1f752ce20007/99/image.jpg",
+      "caption": "Kulinarik Seefelderhof Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a2c2b995-3766-4eba-93bc-c725e9c21117/99/image.jpg",
+      "caption": "Wellnessoase Seefelderhof Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0aa43270-09f5-405e-88c1-d8724554510b/99/image.jpg",
+      "caption": "Sauna Seefelderhof Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f4e030d4-990e-429e-8bb8-0f7ffd681d3b/99/image.jpg",
+      "caption": "Ruheraum Seefelderhof Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/cde8ed86-b11e-43c0-919b-d88876c925ba/99/image.jpg",
+      "caption": "Hallenbad Seefelderhof Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/887a3c28-1f23-4fb5-b511-b4fbfed6c14e/99/image.jpg",
+      "caption": "Dampfbad Seefelderhof Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d707a799-a244-44ac-8fb5-e7de3ba29e9d/99/image.jpg",
+      "caption": "Vitaminbar Seefelderhof Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ecdbc17f-6368-4ccf-9e13-4d1819e29052/99/image.jpg",
+      "caption": "Spielraum Seefelderhof Seefeld"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3333295315022",
+    "longitude": "11.1904120445251"
+  },
+  "paymentAccepted": [
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Bad, WC",
+      "description": "neu gestaltetes Doppelzimmer im Tiroler Landhausstil, ca 23m²-27m² mit Naturholzboden in Zirbelkiefer, Couch,\nBad/ WC, Radio, Telefon,  Kabel- TV, Safe, Föhn, teilweise mit Balkon \n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "DZ Bionest",
+          "description": "neu gestaltetes Doppelzimmer im Tiroler Landhausstil, ca 23m² - 27m² mit Naturholzboden in Zirbelkiefer, Couch,\nBad/ WC, Radio, Telefon,  Kabel- TV, Safe, Föhn, teilweise mit Balkon \n",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "67.00",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "67.00",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "67.00",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Bad, WC",
+      "description": "Doppelbettzimmer, ca. 24 m², mit Bad/WC, Balkon, TV, Radio, Telefon, Safe, Föhn",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "DZ Tirol",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "64.00",
+          "maxPrice": "88.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "64.00",
+          "maxPrice": "88.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "64.00",
+          "maxPrice": "88.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche oder Bad, WC",
+      "description": "Doppelbettzimmer, mit Dusche oder Bad/WC, Balkon, TV, Radio, Telefon, Safe, Föhn",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "DZ Bergfeuer",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "52.00",
+          "maxPrice": "52.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "52.00",
+          "maxPrice": "52.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "52.00",
+          "maxPrice": "52.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Einzelzimmer, Dusche oder Bad, WC",
+      "description": "Einzelzimmer, mit Dusche oder Bad/WC, TV, Radio, Telefon, Safe, Föhn, teilweise mit Balkon oder Terrasse",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Einzelzimmer mit Dusche od. Bad, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "58.00",
+          "maxPrice": "97.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "58.00",
+          "maxPrice": "96.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Bad, WC",
+      "description": "Doppelbettzimmer, ca. 30 m², mit Wohnteil, Bad/WC, Balkon, TV, Radio, Telefon, Safe, Föhn, Minibar",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Juniorsuite Seefeld",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "81.00",
+          "maxPrice": "103.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "68.00",
+          "maxPrice": "103.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "68.00",
+          "maxPrice": "103.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "68.00",
+          "maxPrice": "103.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Bad, WC",
+      "description": "Doppelbettzimmer, ca. 27 m², mit Wohnteil, Bad/WC, Balkon, TV, Radio, Telefon, Safe, Föhn, Minibar",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "DZ Comfort",
+          "description": "ca. 27m² Doppelzimmer mit Wohnteil, Bad/WC, Süd-Balkon, Radio, Telefon, TV, Safe, Minibar, Föhn",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "58.00",
+          "maxPrice": "97.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "58.00",
+          "maxPrice": "97.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "58.00",
+          "maxPrice": "97.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "58.00",
+          "maxPrice": "97.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

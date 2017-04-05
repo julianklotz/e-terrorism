@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BeautySalon",
+    "HealthAndBeautyBusiness"
+  ],
+  "name": "Hotel Quellenhof (Wellness)",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3701971",
+    "longitude": "11.1584618"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Hotel Quellenhof Leutasch",
+    "streetAddress": "Weidach 288",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6782",
+    "faxNumber": "(0043) 5214 6369 ",
+    "email": "info@quellenhof.at",
+    "url": "http://www.quellenhof.at"
+  },
+  "description": " ",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/fdb4bc7a-8b8b-416b-b500-2c686563afbd/99/image.jpg",
+      "caption": "Quellenhof"
+    }
+  ],
+  "url": [
+    "http://www.quellenhof.at"
+  ]
+}

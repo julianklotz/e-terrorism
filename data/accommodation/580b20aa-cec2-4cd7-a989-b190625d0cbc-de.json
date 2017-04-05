@@ -1,0 +1,227 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.leutascherhof.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Appartement Leutascherhof",
+    "streetAddress": "Weidach 305",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6208",
+    "faxNumber": "(0043) 5214 6978",
+    "email": "info@leutascherhof.at",
+    "url": "http://www.leutascherhof.at"
+  },
+  "name": "Appartement Leutascherhof",
+  "description": [
+    "Leutascherhof Appartements! Direkt neben dem Hotel mit eigener Saunalandschaft mit Dampfbad, Kraxenofen und Sauna. Nutzen Sie das Leutascherhof Aktivprogramm gratis mit. Unsere Ferienwohnungen sind auch mit Halbpension oder auch mit Frühstück buchbar.",
+    "Inklusive: Strom, Wasser, Heizung, Sat-TV (17 Programme), Wäsche - Hand- u. Badetücher, Tischdecken, geheizter Schuh- u. Skiraum, Wachstisch\nExklusive: Telefon, Brötchen, Endreinigung, Kurtaxe",
+    "Check-In 15:00 UHR\nCheck-Out 10:00 UHR\nÜber Seefeld: Seefeld - Leutasch - Zentrum Weidach\nÜber Mittenwld: Garmisch - Mittenwald - Leutasch - Zentrum Weidach (Mautfrei)"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8fa52b5a-1cf8-45ed-b2aa-acfdcb49ee49/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ce6eed0d-36b6-4e7a-8fd2-1242de0fff64/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ec924768-91cd-450c-b7d2-ba26e6e78db2/99/image.jpg",
+      "caption": "Sauna"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1c597b92-cb35-405a-b4cb-466f4b843de3/99/image.jpg",
+      "caption": "Ruheraum 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/27ca72a0-8f58-4f2e-8639-6d6230dd5f84/99/image.jpg",
+      "caption": "Ruheraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/61e93ebf-3ff2-41b4-9532-90be77486c15/99/image.jpg",
+      "caption": "Getränke"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d6aa382b-e8c8-4cdc-a5b8-1b022c82d14a/99/image.jpg",
+      "caption": "Brunnen"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.36995077007",
+    "longitude": "11.162566293112"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche oder Bad, WC, 1 Schlafraum",
+      "description": "ca. 45 m²\n\nAppartement für 2-4 Personen. \nWohnzimmer mit Schlafsofa, Küchenblock, Schlafzimmer, Bad oder Dusche/WC, Balkon\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment TYP A/1 Schlafraum/Dusche od.",
+          "description": "Appartement mit 45m² für 2-4 Personen. Doppelzimmer, Wohnzimmer mit Schlafsofa, Küchenzeile, Bad oder Dusche/WC, Balkon, TV, Safe, W-Lan",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "150.00",
+          "maxPrice": "150.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "150.00",
+          "maxPrice": "150.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "150.00",
+          "maxPrice": "150.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "150.00",
+          "maxPrice": "150.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche oder Bad, WC, 1 Schlafraum",
+      "description": "ca 40m²\n\nAppartement für 2-3 Personen. \nWohnzimmer mit Schlafsofa, Küchenblock, Schlafzimmer, Bad oder Dusche/WC, Balkon\n\n \n\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment TYP B/1 Schlafraum/Dusche od.",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "150.00",
+          "maxPrice": "150.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "150.00",
+          "maxPrice": "150.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "150.00",
+          "maxPrice": "150.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 1 Schlafraum",
+      "description": "ca. 85m²\n\nAppartement für 4-6 Personen. \nWohnzimmer mit Schlafsofa, Küche, 2xSchlafzimmer, Bad/WC, Balkon\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment TYP C/1 Schlafraum/Dusche, Bad",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "200.00",
+          "maxPrice": "200.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "200.00",
+          "maxPrice": "200.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "200.00",
+          "maxPrice": "200.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "200.00",
+          "maxPrice": "200.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "200.00",
+          "maxPrice": "200.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

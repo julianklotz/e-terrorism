@@ -1,0 +1,174 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.haus-loipe.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Appartementhaus Loipe",
+    "streetAddress": "Obern 25",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043)664 5333625",
+    "email": "aggstein@goingnet.at",
+    "url": "http://www.haus-loipe.at"
+  },
+  "name": "Appartementhaus Loipe",
+  "description": [
+    "Ein sehr ruhig und sonnig gelegenes Haus mit großem Garten. Das  Haus bietet sich im Winter sowie im Sommer für  Familen als Erholungsheim mit Sport verbunden. Auch bietet sich das Haus  als Trainingshaus für Extremsportler wie im Winter für Skiläufer - Langläufer - Skitourengeher und im Sommer für Montainbiker - Straßenradfahrer - Läufer - Wanderer und Bergsteiger an.",
+    "Sporttrainingskosten individuell auf Anfrage.\nSporttraining: auf Anfrage.\n\nUnser Haus liegt in Obern 25, nähe der Kapelle, Autobahnausfahrt Telfs Ost - Leutasch - Moos - Obern \nODER\nSeefeld-Leutasch Weidach-Kirchplatzl- nach Hotel Zugspitze rechts-Obern",
+    "Check-In: 15.00 Uhr\nCheck-Out: 10.00 Uhr"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "reviewCount": "16"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/941514e9-527e-4a78-afd3-5970bc7456f1/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9098387d-0f69-49e5-ba0a-4febc003a858/99/image.jpg",
+      "caption": "Winter "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c85a31ed-33c1-439a-b5e7-8a78419e4e40/99/image.jpg",
+      "caption": "Aussicht vom Haus auf die Loipe"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/99bcef56-63b3-477c-bc8e-1be1614a1b61/99/image.jpg",
+      "caption": "Winter 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c6b503c4-ba9f-489b-bccd-af02555f0831/99/image.jpg",
+      "caption": "Sommerfrontansicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/226d0473-6eec-44d1-a25f-7e01b589d76b/99/image.jpg",
+      "caption": "Essecke"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e01a4ba3-e118-4791-be07-eca1de57d549/99/image.jpg",
+      "caption": "Küche und Essplatz"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/be988af6-95ba-4040-a12e-5e070d0f1214/99/image.jpg",
+      "caption": "Schlafzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/947c1c88-218d-451f-87ce-c25c912042c9/99/image.jpg",
+      "caption": "Sauna"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3577499",
+    "longitude": "11.123969"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Einzelzimmer, Dusche, WC",
+      "description": "Ruhig gelegene, rustikal eingerichtete Einzelzimmer.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Einzelzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Wohnschlafraum und ein separates Schlafzimmer, Kochnische, Dusche/WC. Eine Ferienwohnung ist mit Bad/WC.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Nr. 7 - Apartment/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Wohnschlafraum und ein separates Schlafzimmer, Kochnische, Dusche/WC. Eine Ferienwohnung ist mit Bad/WC.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Nr. 3 \u0026 4 - Apartment/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Wohnschlafraum und ein separates Schlafzimmer, Kochnische, Dusche/WC. Eine Ferienwohnung ist mit Bad/WC.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Nr. 2, 5 \u0026 6 - Apartment/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

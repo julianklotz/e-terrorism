@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant"
+  ],
+  "name": "Family Restaurant Tenne",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Ferienhotel Kaltschmid",
+    "streetAddress": "Olympiastr. 101",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "+4352122191",
+    "faxNumber": "+4352122191116",
+    "email": "ferienhotel@kaltschmid.info",
+    "url": "http://www.kaltschmid.info"
+  },
+  "description": "Genießen Sie in Ruhe zusammen ihr Essen und sehen Sie Ihren Kindern beim Spielen zu. ",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6c788ed8-a194-46ba-bd37-c0a9de19ba39/99/image.jpg",
+      "caption": "Tenne"
+    }
+  ],
+  "url": [
+    "http://www.kaltschmid.info"
+  ]
+}

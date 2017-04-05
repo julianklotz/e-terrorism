@@ -1,0 +1,136 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.residenzen-maximilian.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Residenzen Maximilian",
+    "streetAddress": "Albrecht Dürer Weg 1+1a",
+    "addressLocality": "Mösern",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "+4352124747700",
+    "faxNumber": "+4352124747710",
+    "email": "info@residenzen-maximilian.at",
+    "url": "http://www.residenzen-maximilian.at"
+  },
+  "name": "Residenzen Maximilian",
+  "description": [
+    "Am Ortseingang von Mösern in der Olympiaregion Seefeld befindet sich das Appartementhaus Maximilian. Starke Akzente, bodenständige Einrichtungen gepaart mit innovativen Elementen und der Duft heimischer Hölzer wirken anregend auf die Sinne. Große Glasfronten, hohe Räume und großzügige Balkone erlauben unvergessliche Ausblicke über die faszinierende Bergwelt und das Inntal\nDie Residenzen Maximilian befinden sich direkt neben dem Übungshang Hinterfeldlift mit Skischule, Kinderskischule und Skiverleih. Der Einstieg in die Loipe ist ca. 50 Meter entfernt, ebenfalls die Bus- bzw. die Skibushaltestelle und im Sommer gelangen Sie direkt vom Haus aus das weitläufige Wander- und Wegenetz der Olympiaregion.",
+    "Preise excl. Ortstaxe. Inklusive: Bereitstellung von Wäsche und Handtüchern, Internet-Zugang, Nutzung Tiefgarage + Skiraum, alle Betriebskosten ausgen. Telefon. Preise zuzüglich Endreinigung € 55,-/80,-.",
+    ""
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "reviewCount": "26"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3bbba23c-2cc9-4ad5-9850-a0efb13761e4/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/85d1bc38-446f-49ce-ac8f-279e9737d28a/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ea0bc88a-ae1a-40c8-9e27-d328c4263f67/99/image.jpg",
+      "caption": "Terrasse"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1c156b40-e1a2-4182-8f3a-cee3c2696bd9/99/image.jpg",
+      "caption": "Sommeransicht Nord"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/78e4fb49-32c0-406e-8d45-e4b660586f38/99/image.jpg",
+      "caption": "Friedensglocke"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d0b2e922-8300-4f6a-9bd6-793b1127f292/99/image.jpg",
+      "caption": "Inntalerhof Sauna"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c74ccb6b-aa34-4336-9899-330691a63d44/99/image.jpg",
+      "caption": "Inntalerhof Pool"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3111074739498",
+    "longitude": "11.1535584926605"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 3 Schlafräume",
+      "description": "Ferienwohnung \"Hocheder\" (für 4 - 6 Personen, ca. 130 qm):\nBestehend aus 2 Doppelzimmern, 1 Badezimmer mit Badewanne und WC,\n1 weiterer Schlafraum für 1 Person mit Platz für ein Zustellbett im Bedarfsfall \nmit 1 Badezimmer mit Dusche/WC\nHeller und großer Wohnraum mit Flat-TV, kleine Hifi-Anlage \u0026 Schreib-Arbeitsplatz\nOffen zur voll ausgestatteten Küche mit Sitz-Essecke.\nGroßzügiger Südbalkon mit herrlichem Blick auf das Inntal und die Tiroler Berge\nBelegung: min. 4 Personen - max. 6 Personen und",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Typ Hocheder für 5, max. 6 Personen",
+          "numberOfRooms": "4.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "155.00",
+          "maxPrice": "210.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "155.00",
+          "maxPrice": "210.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "155.00",
+          "maxPrice": "210.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "155.00",
+          "maxPrice": "210.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "165.00",
+          "maxPrice": "230.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

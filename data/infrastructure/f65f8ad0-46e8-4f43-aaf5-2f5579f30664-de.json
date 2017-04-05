@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant"
+  ],
+  "name": "Tiroler Weinstube",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3289556778527",
+    "longitude": "11.187142431736"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Gasthof Tiroler Weinstube",
+    "streetAddress": "Dorfplatz 130",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "0043 5212 2208",
+    "faxNumber": "0043 5212 2208 22",
+    "email": "info@tirolerweinstube.at",
+    "url": "http://www.tirolerweinstube.at"
+  },
+  "description": [
+    " ",
+    "Sitzplätze für ca. 80 Personen\n\nIn unserem Restaurant, im Zentrum der Fußgängerzone, bieten wir Ihnen gediegene Tiroler Gastlichkeit in gemütlichen Räumen.(auch für kleine Familien- oder Firmenfeiern geeignet).\nWir sind bemüht Ihren Aufenthalt in freundlicher, familiärer Atmosphäre zu ihrer Zufriedenheit zu gestalten.\nDer sonnige Gastgarten lädt ein zu einer gemütlichen Rast mit Blick auf die belebte Fußgängerzone."
+  ],
+  "url": [
+    "http://www.tirolerweinstube.at"
+  ]
+}

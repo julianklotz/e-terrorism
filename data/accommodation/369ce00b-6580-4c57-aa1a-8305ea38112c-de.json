@@ -1,0 +1,146 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.seefeld-appartement.at/",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Nistler",
+    "streetAddress": "Wiesenweg 236",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 3809170",
+    "email": "ernstreiter@A1.net",
+    "url": "http://www.seefeld-appartement.at/"
+  },
+  "name": "Haus Nistler",
+  "description": [
+    "Unser Haus Nistler liegt an einem ruhigen und sonnigen Plätzchen nur 5 Gehminuten vom Zentrum entfernt. In unserem Familienhaus gibt es zwei Appartements im Dachgeschoß, modern, hell und freundlich mit viel Holz. Unser Garten steht auch Ihnen zur Verfügung. Unser Motto: Ihr Urlaub soll Ihnen unvergesslich bleiben, wir helfen gerne mit, wenn wir können.  ",
+    "Inklusive: Waschmaschine, Trockner, Gartenbenützung\nHunde willkommen!",
+    "Anreise ab 12 Uhr, Abreise bis 10 Uhr"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/89b13e30-4015-4540-bd5e-97ecce359f7c/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2e005539-bc3f-4f1c-93f9-f7e72becbe49/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7a5ec5a7-5ea0-46f9-bac4-31e3958c539e/99/image.jpg",
+      "caption": "Winter 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/03ab0f20-52a6-47df-abca-f73a0db8866c/99/image.jpg",
+      "caption": "Haus Nistler-Seefeld-Ferienwohnung"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3314553268475",
+    "longitude": "11.1811745166779"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Unser Appartement 1 liegt im Dachgeschoß südseitig mit Balkon, hell, modern und mit viel Holz eingerichtet. Es hat 42 m2 , ein Schlafzimmer mit Doppelbett (160/200), ein Wohnschlafraum mit Ausziehcouch (140/200), Flat/TV SAT,\nvoll ausgestattete Küche mit gemütlicher Essecke, Dusche/WC mit Handtüchern/Föhn/Toilettenpapier.\nMit einer Flasche Sekt vom Haus können Sie Ihren Urlaub entspannt beginnen. Wohn-Schlafraum, Küchenteil, Dusche/WC",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment Süd/1 Schlafraum/Dusche, WC",
+          "description": "Unser Appartement 1 liegt im Dachgeschoß südseitig mit Balkon, hell, modern und mit viel Holz eingerichtet. Es hat 42 m2 , ein Schlafzimmer mit Doppelbett (160/200), ein Wohnschlafraum mit Ausziehcouch (140/200), Flat/TV SAT,\nvoll ausgestattete Küche mit gemütlicher Essecke, Dusche/WC mit Handtüchern/Föhn/Toilettenpapier.\nMit einer Flasche Sekt vom Haus können Sie Ihren Urlaub entspannt beginnen. ",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "56.00",
+          "maxPrice": "98.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "56.00",
+          "maxPrice": "98.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "56.00",
+          "maxPrice": "98.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Unser Appartement 2 liegt im Dachgeschoß, der Balkon nordseitig mit herrlichem Blick auf das Wettersteingebirge. Es ist 42 m2 groß, hell, modern und mit viel Holz eingerichtet, ein Schlafzimmer mit Doppelbett (160/200), ein Wohnschlafraum mit Ausziehcouch (140/200), Flat/TV SAT,\nvoll ausgestattete Küche mit gemütlicher Essecke, Dusche/WC mit Handtüchern/Föhn/Toilettenpapier.\nMit einer Flasche Sekt vom Haus können Sie Ihren Urlaub entspannt beginnen. ",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "56.00",
+          "maxPrice": "98.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "56.00",
+          "maxPrice": "98.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "56.00",
+          "maxPrice": "98.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

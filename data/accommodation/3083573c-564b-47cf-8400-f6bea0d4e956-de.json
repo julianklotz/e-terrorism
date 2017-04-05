@@ -1,0 +1,1273 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://www.seespitz.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Hotel Seespitz-Zeit",
+    "streetAddress": "Innsbruckerstr. 1",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2217",
+    "faxNumber": "(0043) 5212 2218 50",
+    "email": "info@seespitz.at",
+    "url": "http://www.seespitz.at"
+  },
+  "name": "Hotel Seespitz-Zeit",
+  "description": [
+    "Zeit für Seespitz-Zeit… Leben Sie Ihren Urlaubstraum im 4 Sterne Hotel Seespitz in Seefeld in Tirol - Ihre Urlaubsoase am Sonnenplateau der Olympiaregion Seefeld mit einzigartiger Panorama-Berg-Kulisse!\n\nIn wunderschönster Lage direkt am idyllischen Seefelder Wildsee zeigt sich das charmante Hotel Seespitz von seiner besten Seite mit herzlicher Gastfreundschaft, stilvollem Ambiente und perfektem Service mit Verwöhngarantie. Nur 5 Gehminuten vom Seefelder Zentrum entfernt, entdecken Sie hier eine Perle der Natur in Kombination mit Luxus und alpiner Gemütlichkeit.\n \nJedes der Zimmer im Hotel Seespitz liefert zahlreiche Argumente, dass sowohl Paare als auch Familien in gediegener Eleganz ein Refugium der Ruhe und Erholung finden. Größtenteils mit Balkon zur Seeseite sind die Zimmer mit viel Liebe zu Farbe und Details mit Bad oder Dusche/WC voll ausgestattet.\n\nIhr Bademantel wartet schon, um sich im hoteleigenen 600 m2 Panorama Spa der absoluten Entspannung hinzugeben. Nach wohltuenden Stunden in der Saunalandschaft, im Dampfbad, Whirlpool und Ruheraum oder exklusivem Badevergnügen im beheizten Außenpool können Sie schließlich auf der Liegewiese inmitten der großzügigen Grünanlage direkt am Seefelder Wildsee das kleine Paradies erleben. Tipp: Gönnen Sie sich außerdem eine Kosmetik- und Massageanwendung!\n\nAuch wenn es schwerfällt, die Wellnesslandschaft zu verlassen, so sollten Sie sich ebenso die kulinarischen Höhepunkte im Hotel Seespitz nicht entgehen lassen und diese romantisch zu zweit oder im Kreise der Familie genüsslich auskosten. Vom Frühstück bis zum Abendessen beeindrucken raffinierte Kreationen aus hochwertigen Zutaten und vielfältigen Geschmacksnuancen. Der Nachmittagskaffee schmeckt am besten auf der Sonnenterrasse mit Seeblick. Für unsere Hotelgäste gibt es jeden Nachmittag von 15.00 bis 17.00 Uhr ein kostenloses Kuchenbuffet. Weiters haben wir wöchentlich: Galadiner, Buffetabend, Begrüßungscocktail, Live-Musik.\n\nWunderbare Urlaubserinnerungen versprechen zudem zahlreiche Sommer und Winter-Aktivitäten in der Olympiaregion Seefeld: Ein Spaziergang um den Seefelder Wildsee, Wanderungen für jede Generation, Radfahren, Golfen, Skifahren, Langlaufen - jetzt schon auf der WM Loipe 2019 - u.v.m.\n\nWenn Sie die Vorzüge eines Urlaubes im 4 Sterne Hotel Seespitz nicht nur privat genießen möchten, finden Sie bei uns auch beruflich den idealen Rahmen für Seminare, Workshops und Feierlichkeiten.\n\nIhre Familie Scheiber und das gesamte Seespitz-Team sorgen mit Freude für Ihr persönliches „Stück vom Glück“ in der besten Zeit des Jahres: Urlaubszeit ist Seespitz-Zeit in Seefeld in Tirol!\n",
+    "Kostenlose Leistungen im Hotel:\nBenützung der gesamten Badelandschaft im Haus, Parkplatz, Hotel Shuttle\n\nExtraleistungen: \nTiefgarage: € 10,00 pro Tag\nHaustiere: € 14,- pro Tag (ohne Futter)\nSilvesterzuschlag: € 50,- pro Person",
+    "Von Innsbruck kommend -\u003e Zirler Berg -\u003e Einfahrt Seefeld Süd -\u003e Richtung Wildsee -\u003e ca. 100 m. links liegt unser Hotel am See."
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "reviewCount": "218"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b5bdca8a-b894-4527-a94c-7c87912b6fd0/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b7642e3f-3508-4f6b-835e-9db16cafdf04/99/image.jpg",
+      "caption": "Maisonette"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/986da6a6-58b8-45a4-91d3-c474d49c6536/99/image.jpg",
+      "caption": "Terrasse mit Seeblick"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8bd4d5e3-d246-4b74-b81c-5efbeb101099/99/image.jpg",
+      "caption": "Pool 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f85b0743-03b6-4cdf-bd56-d8bcb2597f96/99/image.jpg",
+      "caption": "Außenansicht mit Wildsee"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8bb3c24a-eeef-461c-a9ba-eac4fd8589ee/99/image.jpg",
+      "caption": "Außenansicht mit Schwimmbad"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c6fb9963-431d-45c8-913b-68a58960382a/99/image.jpg",
+      "caption": "Aussicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b795ab0f-eb62-4ad2-a229-12f49d860633/99/image.jpg",
+      "caption": "Doppelzimmer Deluxe"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/683ede7c-c249-4cd5-bfa5-dc6399bffb06/99/image.jpg",
+      "caption": "Einzelzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/20d6f3f9-50b9-4048-896b-5d955be68f93/99/image.jpg",
+      "caption": "Maisonette Wohnung"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1c3cf210-94b5-411b-a7a9-09944f1c5d74/99/image.jpg",
+      "caption": "Doppelzimmer neu"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ea844690-6af9-4cad-82b4-dae3287ffa11/99/image.jpg",
+      "caption": "seespitz_haidundfalkner_danielzangerl_print (156 v"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/df2764d7-2941-4d95-a9fb-fcb0cd2bd1cf/99/image.jpg",
+      "caption": "Ruheraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b40489e2-9d8f-4d2b-be18-9bd688679a2b/99/image.jpg",
+      "caption": "Wellness 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9885cbf9-25fc-4c6a-a60d-1218daaa4477/99/image.jpg",
+      "caption": "Sauna"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/136e1467-ebaf-423d-9e01-d1e9f63a2806/99/image.jpg",
+      "caption": "Restaurant"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4dd280e4-2411-44e8-b9bd-cc80e54e6d41/99/image.jpg",
+      "caption": "Fitness"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/29093069-ef8e-42ff-a2bf-ebc1d92d5394/99/image.jpg",
+      "caption": "DSC07285"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/18ba0e9d-c667-47eb-b6e3-8b4ec122aa3d/99/image.jpg",
+      "caption": "Speisesaal"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5006821d-01e9-4a2b-bcd6-7ff5c7f2f3ef/99/image.jpg",
+      "caption": "Winter"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3253941554113",
+    "longitude": "11.1887973546982"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche oder Bad, WC",
+      "description": "ca. 24 m²\n\nDoppelzimmer für 2 Personen, Bad oder Dusche/WC, teilweise Balkon, Nord- oder Ostseite",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "DZ \"KATEGORIE 1\" mit HP",
+          "description": "ca. 24 m²\n\nDoppelzimmer für 2 Personen, Bad oder Dusche/WC, teilweise Balkon, Nord- oder Ostseite",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "DZ \"KATEGORIE 1\" mit FÜ",
+          "description": "ca. 24 m²\n\nDoppelzimmer für 2 Personen, Bad oder Dusche/WC, teilweise Balkon, Nord- oder Ostseite",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Action \u0026 Spaß in Seefeld",
+          "description": "•7 Übernachtungen inkl. Halbpension\n•Kuchenbuffet am Nachmittag, Begrüßungscocktail\n•1 x wöchentlich Besuch der Kneippanlage am Wildsee\n•Benützung unseres Panorama SPA, Sauna und allen weiteren Hoteleinrichtungen\n•1 Wellnessanwendung im Wert von Euro 35,-\n•wöchentlich Live-Musik in der Hotelhalle\n",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/c2f52434-b0d3-470b-9acd-c7a5e1e31658/99/image.jpg",
+              "caption": "Verwöhnen"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "WanderZeit",
+          "description": "*7 Übernachtungen inkl. Verwöhn-Halbpension\n*Begrüßungscocktail\n*Kuchenbuffet am Nachmittag\n*Kostenlose Wanderkarte der Region\n*Jeden Tag geführte Wanderung vom TVB Seefeld (außer sonntags)\n*Kostenlose Benützung unseres 600m² Panorama SPA\n*Wöchentlich Live-Musik in der Hotellobby\n*Alle Seespitz Inklusivleistungen",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/be57c975-2088-4ebd-95d7-d51dc2d585be/99/image.jpg",
+              "caption": "Wandern"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Mountainbike Zeit in Seefeld",
+          "description": "...endlose Mountainbike-Strecken warten schon!\n\n*7 Übernachtungen inkl. Halbpension\n*Begrüßungscocktail\n*Kuchenbuffet am Nachmittag\n*Mountainbike-Karte der Region\n*1x geführte Mountainbiketour oder E-Bikes leihweise für 2 Tage\n*Benützung von Bäderlandschaft, Sauna und allen weitern Hoteleinrichtungen\n*1x wöchentlich Besuch der Kneippanlage am Wildsee\n*wöchentlich Live-Musik in der Hotelhalle\n",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/85faee7b-4e00-47e0-a9ea-b9a20b37a83c/99/image.jpg",
+              "caption": "Wandern"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Golf-SchnupperZeit",
+          "description": "*7 Übernachtungen inkl. Verwöhn-Halbpension\n*Begrüßungscocktail\n*Kuchenbuffet am Nachmittag\n*Kostenlose Benützung unseres 600m² Panorama SPA\n*1 Sportmassage 25 min.\n*1 Schnupperkurs bei der Golfacademy Seefeld\n*Alle Seespitz Inklusivleistungen\n\nUnsere Gäste erhalten 30 % Ermäßigung am direkt gegenüberliegenden 9 Loch Golfplatz des Golfclub Seefeld Reith sowie am 10 Minuten entfernten 18 Loch Golfplatz des Golfclub Seefeld-Wildmoos.",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/1c4194ca-51a5-4938-870c-0b9cad4d9a8c/99/image.jpg",
+              "caption": "Golf"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Action- \u0026 Spaß garantiert",
+          "description": "\n*7 Übernachtungen inkl. Halbpension\n*Begrüßungscocktail\n*Kuchenbuffet am Nachmittag\n*1x wöchentlich geführte Mountainbiketour\n*1x wöchentlich geführte Wanderung auf die Reither Spitze\n*Benützung von Bäderlandschaft, Sauna und allen weitern Hoteleinrichtungen\n*1x wöchentlich Besuch der Kneippanlage am Wildsee\n*wöchentlich Live-Musik in der Hotelhalle\n",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/2d61789b-a6e3-414f-8c17-465316366398/99/image.jpg",
+              "caption": "Golf"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Advent Zeit 2014 7 Nächte",
+          "description": "*7 Übernachtungen inkl. Halbpension\n*Begrüßungscocktail und festliches Adventessen\n*hausgemachte Kekse\n*romantische Pferdekutschenfahrt\n*Maroni und Glühwein\n*Schoko-Adventskalender für jeden kleinen Gast",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/eded9076-a73e-496f-b45b-fdff6bfe3595/99/image.jpg",
+              "caption": "Zeit"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/527cd50f-5c86-430f-80c7-254b928f759b/99/image.jpg",
+              "caption": "Advent"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Romantikurlaub in Seefeld",
+          "description": "*7 Übernachtungen inkl. Halbpension\n*Pferdekutschenfrahrt mit Glühweinstopp\n*Weinverkostung in unserer Vinothek\n",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/dcca25c8-ceb1-40e6-808e-d14d20d1f4e2/99/image.jpg",
+              "caption": "Zeit"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Gourmet \u0026 Wohlfühltage",
+          "description": "Buchbar von Sonntag bis Donnerstag\noder von Donnerstag bis Sonntag\n\n    *3 oder 4 Übernachtungen inkl. Halbpension\n    *Kuchenbuffet am Nachmittag\n    *Benützung des alpinen Vierjahreszeiten Panorama Spas\n    *Wellnessgutschein im Wert von € 50,-\n",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/3808ac5d-129c-4837-ab50-0a1ba8bf1dac/99/image.jpg",
+              "caption": "Wandern"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Gourmet \u0026 Wohlfühltage 3 Nächte",
+          "description": "Buchbar von Sonntag bis Donnerstag\noder von Donnerstag bis Sonntag\n\n    *3 oder 4 Übernachtungen inkl. Halbpension\n    *Kuchenbuffet am Nachmittag\n    *Benützung des alpinen Vierjahreszeiten Panorama Spas\n    *Wellnessgutschein im Wert von € 50,-\n",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/661dd9dc-85b8-4875-b1fc-d7d776c5974d/99/image.jpg",
+              "caption": "Wandern"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Wellnesstraumzeit",
+          "description": "*3 Nächte im Doppelzimmer mit erweiterter Gourmet-Halbpension\n*Reichhaltiges Frühstück vom Buffet\n*Kuchenbuffet am Nachmittag\n*Kostenlose Benützung unseres 600m² Panorama SPA\n*50 Minuten Spa Behandlungszeit - individuelle Wellness-Massage\n*Abends 5-Gang Gourmetdinner\n*Bei der Anreise eine Flasche Willkommens-Sekt auf dem Zimmer\n*Tiefgaragenplatz kostenlos, nach Verfügbarkeit\n*5-Gang-Gourmet-Gala Dinner am Sonntag\n*Alle Seespitz Inklusivleistungen",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/258c0259-2831-4adc-a75c-0c7d4b4e1461/99/image.jpg",
+              "caption": "Wellness"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Skizeit am Sonnenplateau",
+          "description": "*7 Nächte inkl. Halbpension \n*Kuchenbuffet am Nachmittag\n*Benutzung des alpinen Vierjahreszeit Panorama Spa\n*Wellnessgutschein im Wert von € 25,-\n*5-Tage-Happy Skicard",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/cdd3d4a2-514c-41aa-8240-c35f9bd4a814/99/image.jpg",
+              "caption": "Zeit"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Langlaufen für Individualisten",
+          "description": "*7 Nächte inkl. Halbpension \n*Kuchenbuffet am Nachmittag\n*Benutzung des alpinen Vierjahreszeit Panorama Spa\n*1x Holzschaffl - Fußbad mit Wadlmassage\n*Loipengebühr für den gesamten Aufenthalt",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/84b87b68-36cc-45ea-9a64-ebffd794d3e7/99/image.jpg",
+              "caption": "Zeit"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Seespitz-Firn-Zeit",
+          "description": "*7 Übernachtung in unseren großen Komfortzimmern\n*Inkl. Verwöhn-Halbpension\n*Benutzung des alpinen Vierjahreszeit Panorama Spa\n*Loipengebühr für den gesamten Aufenthalt\n*1x wöchentlich Teilnahme an der Seespitz-Weinverkostung\n*1 x wöchentliche Fackelwanderung und Musikprogramm am Abend\n*Kostenlosen Tiefgaragenplatz je nach Verfügbarkeit",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/ba890ee9-7a96-461c-9c21-87e11d5d711b/99/image.jpg",
+              "caption": "Zeit"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Seespitz Zeit Special 4\u003d3",
+          "description": "Bei Buchung von Sonntag bis Donnerstag genießen Sie 4 herrliche Tage, bezahlen aber nur 3 Tage! \nBuchbar vom 08.03.-19.03.2015\n\n*4 Nächte inkl. Halbpension\n*Kuchenbuffet am Nachmittag\n*Benutzung des alpinen Vierjahreszeit Panorama Spa",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/1260111e-5124-487a-a876-6eff6d7fb203/99/image.jpg",
+              "caption": "Zeit"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer zur Einzelbenützung",
+          "description": "ca. 24 m²\n\nDoppelzimmer für 2 Personen, Bad oder Dusche/WC, teilweise Balkon, Nord- oder Ostseite",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "DZ \"KATEGORIE 1\" Kurzaufenthalt mit HP",
+          "description": "ca. 24 m²\n\nDoppelzimmer für 2 Personen, Bad oder Dusche/WC, teilweise Balkon, Nord- oder Ostseite",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "DZ \"KATEGORIE 1\" Kurzaufenthalt mit FÜ",
+          "description": "ca. 24 m²\n\nDoppelzimmer für 2 Personen, Bad oder Dusche/WC, teilweise Balkon, Nord- oder Ostseite",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "LANGLAUF4, DZ \"KATEGORIE 1\" mit HP",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "LANGLAUF7, DZ \"KATEGORIE 1\" mit HP",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "SPAZEIT4, DZ \"KATEGORIE 1\" mit HP",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "SPAZEIT7, DZ \"KATEGORIE 1\" mit HP",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "SKIZEIT, DZ \"KATEGORIE 1\" mit HP",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "ROMANTIK, DZ \"KATEGORIE 1\" mit HP",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "MAERZ3, DZ \"KATEGORIE 1\" mit HP",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "MAERZ5, DZ \"KATEGORIE 1\" mit HP",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "SKISPASS_2, DZ \"KATEGORIE 1\" mit HP",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "SKISPASS_3, DZ \"KATEGORIE 1\" mit HP",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "SKISPASS_4, DZ \"KATEGORIE 1\" mit HP",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "SKISPASS_5, DZ \"KATEGORIE 1\" mit HP",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "SKISPASS_6, DZ \"KATEGORIE 1\" mit HP",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "SKISPASS_7, DZ \"KATEGORIE 1\" mit HP",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "129.60",
+          "maxPrice": "9999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "100.00",
+          "maxPrice": "215.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "125.00",
+          "maxPrice": "9999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "90.00",
+          "maxPrice": "205.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "110.00",
+          "maxPrice": "679.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "679.00",
+          "maxPrice": "679.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "311.00",
+          "maxPrice": "311.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "311.00",
+          "maxPrice": "311.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "297.00",
+          "maxPrice": "297.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "297.00",
+          "maxPrice": "297.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "475.00",
+          "maxPrice": "475.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "475.00",
+          "maxPrice": "475.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "475.00",
+          "maxPrice": "475.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "475.00",
+          "maxPrice": "475.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "475.00",
+          "maxPrice": "475.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "475.00",
+          "maxPrice": "475.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "120.00",
+          "maxPrice": "9999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "110.00",
+          "maxPrice": "128.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "100.00",
+          "maxPrice": "9999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "100.00",
+          "maxPrice": "118.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "864.00",
+          "maxPrice": "864.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "864.00",
+          "maxPrice": "864.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "1174.00",
+          "maxPrice": "1174.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "1174.00",
+          "maxPrice": "1174.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "560.00",
+          "maxPrice": "560.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "560.00",
+          "maxPrice": "560.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "990.00",
+          "maxPrice": "990.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "990.00",
+          "maxPrice": "990.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "1019.00",
+          "maxPrice": "1019.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "1019.00",
+          "maxPrice": "1019.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "863.00",
+          "maxPrice": "863.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "863.00",
+          "maxPrice": "863.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "348.00",
+          "maxPrice": "348.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "348.00",
+          "maxPrice": "348.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "595.00",
+          "maxPrice": "595.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "595.00",
+          "maxPrice": "595.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "293.00",
+          "maxPrice": "293.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "293.00",
+          "maxPrice": "293.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "435.50",
+          "maxPrice": "435.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "435.50",
+          "maxPrice": "435.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "552.50",
+          "maxPrice": "552.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "552.50",
+          "maxPrice": "552.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "697.00",
+          "maxPrice": "697.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "697.00",
+          "maxPrice": "697.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "838.00",
+          "maxPrice": "838.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "838.00",
+          "maxPrice": "838.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "976.50",
+          "maxPrice": "976.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "976.50",
+          "maxPrice": "976.50",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche oder Bad, WC",
+      "description": "ca. 24 m²\n\nDoppelzimmer für 2 Personen, Bad oder Dusche/WC, teilweise Balkon, Nord- oder Ostseite",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "DZ zur EINZELBENÜTZUNG mit HP",
+          "description": "ca. 24 m²\n\nDoppelzimmer für 2 Personen, Bad oder Dusche/WC, teilweise Balkon, Nord- oder Ostseite",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "DZ zur EINZELBENÜTZUNG mit FÜ",
+          "description": "ca. 24 m²\n\nDoppelzimmer für 2 Personen, Bad oder Dusche/WC, teilweise Balkon, Nord- oder Ostseite",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "DZ zur EINZELBENÜTZUNG Kurzaufenthalt mit HP",
+          "description": "ca. 24 m²\n\nDoppelzimmer für 2 Personen, Bad oder Dusche/WC, teilweise Balkon, Nord- oder Ostseite",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "DZ zur EINZELBENÜTZUNG Kurzaufenthalt mit FÜ",
+          "description": "ca. 24 m²\n\nDoppelzimmer für 2 Personen, Bad oder Dusche/WC, teilweise Balkon, Nord- oder Ostseite",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "135.00",
+          "maxPrice": "999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "135.00",
+          "maxPrice": "135.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "135.00",
+          "maxPrice": "999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "135.00",
+          "maxPrice": "135.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "135.00",
+          "maxPrice": "135.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "135.00",
+          "maxPrice": "135.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "135.00",
+          "maxPrice": "135.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "135.00",
+          "maxPrice": "135.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

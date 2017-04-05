@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant"
+  ],
+  "name": "Kirchenwirt Seefeld,  Alpenhotel",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Alpenhotel ... fall in Love ****",
+    "streetAddress": "Dorfplatz 28",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043)  5212 2191",
+    "faxNumber": "(0043) 5212 2191",
+    "email": "alpenlove@kaltschmid.info",
+    "url": "http://www.alpenlove.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5a43eec4-16e1-4122-a4f2-7d52c0002978/99/image.jpg",
+      "caption": "Essen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/60028e78-b9bf-4a4f-b705-53efd259e1eb/99/image.jpg",
+      "caption": "Kirchenwirt"
+    }
+  ]
+}

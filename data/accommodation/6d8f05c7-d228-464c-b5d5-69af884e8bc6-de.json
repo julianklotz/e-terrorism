@@ -1,0 +1,281 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.pensionleutasch.com",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Pension Anna Maria",
+    "streetAddress": "Weidach 327 b",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6753",
+    "email": "annamaria@pensionleutasch.com",
+    "url": "http://www.pensionleutasch.com"
+  },
+  "name": "Pension Anna Maria",
+  "description": [
+    "Stilvoll und geschmackvoll eingerichtet. Durch das breite Angebot an Dienstleistungen und eleganter Unterkunft sorgt das Haus immer für eine echte familiäre Atmosphäre und Gemütlichkeit. Liegt in absolut ruhiger Lage  Ausgangspunkt für viele schöne Spazierund Wanderwege, in der Nähe der Loipen und trotzdem im Ortszentrum. Dann sind Sie hier genau an der rechten Adresse.",
+    "Check in zwischen 15.00 Uhr - 21.00 Uhr\nSo finden Sie uns: von München über Garmisch - Mittenwald nach Leutasch, oder von Innsbruck über Zirl - Seefeld nach Leutasch. Weiter zum Ortsteil Weidach -beim Sport Wedl rechtsabbiegen rechter Hand finden Sie dann die Pension Anna-Maria."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2f059f75-770e-4ea4-b3bb-aecf069e88e6/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ab617922-3f36-44de-89c9-8928a622ea40/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/da3e536b-f072-4744-9d95-1275955e5308/99/image.jpg",
+      "caption": "Bar"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/fe06de4a-ce0b-4907-b8df-abf9930936c2/99/image.jpg",
+      "caption": "Kamin"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/70a0a481-5040-49e1-bdb4-f7d2c25e4a7b/99/image.jpg",
+      "caption": "Tafel"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/63020ed1-4334-4ee0-a7a9-dd01257895a9/99/image.jpg",
+      "caption": "Sauna"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3729194",
+    "longitude": "11.1673092999999"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Bad, WC",
+      "description": "Gemütliches Zimmer 10m², gemütlich eingerichtetes Doppelzimmer im tiroler Stil mit Bad /WC.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Zimmer Nr. 2",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche und Bad, WC",
+      "description": "Gemütliches Doppelzimmer 15m²  im tiroler Stil mit Dusche WC.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Zimmer Nr. 5",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Gemütliches Zimmer 20m², gemütlich eingerichtetes Doppelzimmer im tiroler Stil mit Dusche /WC.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Zimmer Nr. 9",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Zimmer Nr. 1",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Bad, WC",
+      "description": "Gemütlich eingerichtetes Doppelzimmer 10m² im tiroler Stil mit Badewanne, Bidet \u0026 Wc.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Zimmer Nr. 11",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Hotelappartement, Bad, WC, 1 Schlafraum",
+      "description": "Gemütlich eingerichtetes Hotel-Appartement im tiroler Stil, mit Doppelbett im Schlafzimmer, Schlafcouch im Wohnzimmer für 2 Personen, Größe:  30m².",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Apartment Nr. 3 und Nr. 6",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "3"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Hotelappartement, Dusche, WC, 1 Schlafraum",
+      "description": "Gemütlich eingerichtetes Hotel -Appartement im tiroler Stil, Doppelbett im Schlafzimmer, im Wohnzimmer Schlafcouch für 2 Personen, Größe 30m².",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Apartment Nr. 8",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "3"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Hotelappartement, Dusche, WC",
+      "description": "Gemütlich eingerichtetes Hotel -Appartement im tiroler Stil, Doppelbett im Schlafzimmer, im Wohnzimmer Schlafcouch für 2 Personen, Größe 30m².",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Apartment Nr. 10",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "3"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Hotelappartement, Dusche, WC",
+      "description": "Gemütlich eingerichtetes Hotel -Appartement im tiroler Stil, Doppelbett im Schlafzimmer, im Wohnzimmer Schlafcouch für 2 Personen, Größe 30m².",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Apartment Nr. 14",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "3"
+          }
+        }
+      ]
+    }
+  ]
+}

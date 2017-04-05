@@ -1,0 +1,29 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "FastFoodRestaurant"
+  ],
+  "name": "Poli\u0027s Hütte",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3784201154789",
+    "longitude": "11.1602331099259"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Poli\u0027s Hütte",
+    "streetAddress": "Gasse 174 a",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 676 5129968"
+  },
+  "description": "Sitzplätze für ca. 35 Personen\nVon 11.00 - 17.00 Uhr geöffnet, Mittwoch Ruhetag!\nAm Abend auf Reservierung!",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/086e1d08-2c7b-4057-a5a2-de67a2c78c88/99/image.jpg",
+      "caption": "Polis Hütte"
+    }
+  ]
+}

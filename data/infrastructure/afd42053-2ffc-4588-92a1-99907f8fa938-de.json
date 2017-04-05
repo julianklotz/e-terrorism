@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsClub",
+    "HealthAndBeautyBusiness"
+  ],
+  "name": "Hotel Inntalerhof",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3117999",
+    "longitude": "11.1456724"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Hotel Inntalerhof",
+    "streetAddress": "Möserer Dorfstr. 2",
+    "addressLocality": "Mösern",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 4747",
+    "faxNumber": "(0043) ",
+    "url": "http://www.inntalerhof.com"
+  },
+  "description": "Fitness\nTraining an unseren Kraft- und Cardio-Geräten: \nLaufband, Ergometer, Kabelzug mit Griffstange, Griff und Fußschlaufe, \nFlachbank/Schrägbank, Brustpresse sitzend, Multipresse, Beinstreckmaschine, Hanteln mit verschiedenen Gewichten.\n    Geöffnet: während der Saison - täglich von 08 bis 22 Uhr\nPreis pro Besuch: EUR 5,-\nPreis 5er Block: EUR 20,-\nPreis 10er Block: EUR 35,-\nIm Preis inklusive: Training / Nutzung der Fitnessgeräte und Teilnahme an Entspannungs-Einheiten \u0026 Fitness-Programm mit Ute, unserer Vitaltrainerin (je nach Aushang/Programm) von Mo - Fr.\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8ae01798-936b-41ed-856b-33025d27034f/99/image.jpg",
+      "caption": "Inntalerhof"
+    }
+  ],
+  "url": [
+    "http://www.inntalerhof.com"
+  ]
+}

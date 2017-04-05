@@ -1,0 +1,150 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.haushelvetia.com",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Helvetia",
+    "streetAddress": "Am Klosterwald 670",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 3090",
+    "email": "helvetia.670@a1.net",
+    "url": "http://www.haushelvetia.com"
+  },
+  "name": "Haus Helvetia",
+  "description": [
+    "Exklusive:  Brötchenservice.\n\nInklusive: Strom, Wasser, Bettwäsche, Handtücher.",
+    "Dorfzentrum Richtung Leutasch; Abzweigung gegenüber \"Rotem Kreuz\"; letztes Haus auf der linken Seite der Klosterwaldstraße"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/74f35b42-cbcb-4f92-82d6-cddceff0c781/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9d42bc21-d6b3-43fd-a5a8-aae894b4f58e/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/09e081e4-a074-4130-9229-9b38fb81a91a/99/image.jpg",
+      "caption": "Aussicht SO"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d6b206f1-7d53-4a93-9378-8fa82741eba6/99/image.jpg",
+      "caption": "Aussicht WI"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6091a17e-7f46-4fa0-80c8-dcdcae8c1398/99/image.jpg",
+      "caption": "Aussicht Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8e821739-48ea-48aa-8cec-b66a71ec3901/99/image.jpg",
+      "caption": "Parkplatz"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/23aff512-a227-48a4-b31b-01ce37fe36c4/99/image.jpg",
+      "caption": "Wegweiser"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5975824f-774d-4b32-a309-0e2ddf18435d/99/image.jpg",
+      "caption": "Hausansicht SO"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3325987632046",
+    "longitude": "11.179221868515"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC",
+      "description": "Wohnraum mit ausziehbarer Doppelcouch; Küche mit Geschirrspüler, etc.; Schlafraum durch Rundbogen vom Wohnraum getrennt; Dusche/WC; Vorraum, Terrasse, Liegewiese; Telefon, TV, etc.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "APP 1",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "55.00",
+          "maxPrice": "73.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "55.00",
+          "maxPrice": "73.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 1 Schlafraum",
+      "description": "Wohnraum mit ausziehbarer Doppelcouch u. eingebauter Küche mit Mikrowelle etc.; Schlafraum, Bad/WC, Vorraum, Safe, TV, Terrasse, Liegewiese;",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "APP 2",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "50.00",
+          "maxPrice": "70.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "50.00",
+          "maxPrice": "70.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

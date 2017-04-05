@@ -1,0 +1,37 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "HealthAndBeautyBusiness"
+  ],
+  "name": "Kosmetik/Haarschmid",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3318207201715",
+    "longitude": "11.1881482601166"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haarschmid",
+    "streetAddress": "Münchner Str. 143",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2992",
+    "email": "info@haarschmid.at",
+    "url": "http://www.haarschmid.at"
+  },
+  "description": [
+    " ",
+    "nur Kosmetik"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/01ad515b-a3d5-424f-9a9b-3726861f85d1/99/image.jpg",
+      "caption": "Kosmetik"
+    }
+  ],
+  "url": [
+    "http://www.haarschmid.at"
+  ]
+}

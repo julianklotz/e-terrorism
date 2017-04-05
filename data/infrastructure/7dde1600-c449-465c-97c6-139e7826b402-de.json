@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure"
+  ],
+  "name": "Taxi Karoline",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.368308",
+    "longitude": "11.1624048"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Landhaus Karoline",
+    "streetAddress": "Weidach 300 u",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 20055",
+    "faxNumber": "(0043) 5214 20055 20",
+    "email": "info@landhaus-karoline.at",
+    "url": "http://www.landhaus-karoline.at"
+  },
+  "description": "Weidach 300 u\nTel.: +43 5214/20 055\n\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6dcb50d5-d775-4618-b79a-212a8cbd0ac3/99/image.jpg",
+      "caption": "Taxi Karoline"
+    }
+  ],
+  "url": [
+    "http://www.landhaus-karoline.at"
+  ]
+}

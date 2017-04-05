@@ -1,0 +1,192 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf",
+    "http://www.anemone-seefeld.at"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Anemone",
+    "streetAddress": "Am Kirchwald 303",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2898",
+    "faxNumber": "(0043) 5212 2898",
+    "email": "r.schoen@seefeld-in-tirol.net",
+    "url": "http://anemone-seefeld.at"
+  },
+  "name": "Haus Anemone",
+  "description": [
+    "\"HAUS ANEMONE\" ruhige Lage, Blick zum Gschwandtkopf, 5 Gehminuten zur Ortsmitte",
+    "1 Schlafzimmer, 1 Wohnzimmer mit Fernseher und Sitzecke, \nBadezimmer",
+    "Bahnhof - Seefeld - Ortsmitte, Kirchwald 303 Haus Anemone\nMit dem Auto: Münchnerstr. - Olympiastr. - Kirchwald 303 Haus Anemone"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/83ab0574-55c5-4976-81ef-a2bea8eab60a/99/image.jpg",
+      "caption": "Sommer Hausansicht Haus Anemone Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9acecc3d-f1a2-421e-a2bc-5c57b7122bd0/99/image.jpg",
+      "caption": "Winter Hausansicht Haus Anemone Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4cc761c6-e82e-4ae1-92b2-941bc16e9652/99/image.jpg",
+      "caption": "Frühstücksraum Haus Anemone Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/21d6a578-4f6c-48d7-9440-59b3e6906e5f/99/image.jpg",
+      "caption": "Aussicht Winter Haus Anemone Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2229308d-0e5d-44d8-b7a6-29e48ca4a9b2/99/image.jpg",
+      "caption": "Aussicht Gschwandtkopf Haus Anemone Seefeld"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3280466852501",
+    "longitude": "11.1801928281784"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Studio - Wohnzimmer mit Sitzecke, TV, Schlafzimmer und Badezimmer!  exkl kurtaxeund  hauseigener parkplatz",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Studio mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "32.50",
+          "maxPrice": "35.30",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Zweibettzimmer, Dusche, WC",
+      "description": "1 Doppelzimmer mit Dusche/ WC, TV und großer Terrasse!   exkl kurtaxe\nund hauseigener parkplatz",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Zweibettzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "22.50",
+          "maxPrice": "35.50",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Familienzimmer, Dusche und Bad, WC",
+      "description": "Studio - Wohnzimmer mit Sitzecke, TV, Badezimmer und Schlafzimmer!    exkl.kurtaxe",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Studio mit Dusche, Bad, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "22.50",
+          "maxPrice": "35.50",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "schlafzimmer--wohnzimmer gut eingerichtet--wohnküche\nbadezimmer.südbalkon--freier blick   exkl kurtaxe und endtreinigung- und hauseigenen parkplatz",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "50.00",
+          "maxPrice": "77.80",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

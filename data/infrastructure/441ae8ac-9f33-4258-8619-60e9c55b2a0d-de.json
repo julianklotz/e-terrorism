@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation"
+  ],
+  "name": "Ski-Club Seefeld",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3238142097101",
+    "longitude": "11.1785888671875"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Ski-Club Seefeld",
+    "streetAddress": "Möserer Str. 632a / Postfach 88",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "+43521252789",
+    "faxNumber": "+43521252789",
+    "email": "info@ski-club-seefeld.com",
+    "url": "http://www.ski-club-seefeld.com"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a2109143-9dcc-4ded-aac7-50a678c04ea8/99/image.jpg",
+      "caption": "Logo"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b1d7ab80-3a74-4b7b-8397-0d43d98ce572/99/image.jpg",
+      "caption": "Ski Club Logo neu"
+    }
+  ]
+}

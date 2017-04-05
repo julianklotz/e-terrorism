@@ -1,0 +1,865 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://www.hotel-hocheder.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Hocheder",
+    "streetAddress": "Klosterstr. 121",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 53200",
+    "email": "info@hotel-hocheder.at",
+    "url": "http://www.hotel-hocheder.at"
+  },
+  "name": "Hotel Hocheder",
+  "description": [
+    "Das 4* Hotel Hocheder in Seefeld in Tirol überzeugt nicht nur mit seiner zentral-ruhigen Lage am Anfang der Seefelder Fußgängerzone, sondern auch mit perfekten Bedingungen für Ihren Traumurlaub auf dem sonnigen Hochplateau der Olympiaregion Seefeld.\n\nDie erstklassige Zentrumslage sorgt für ein attraktives Freizeitangebot direkt vor unserer Haustür: Nebenan liegt das Olympia Sport- und Kongresszentrum mit Erlebnis-Schwimmbad, nur 20 m vom Hotel entfernt befindet sich der Loipeneinstieg inklusive Nachtloipe beim Seekirchl und unmittelbar vor dem Haus hält der kostenlose Ski- und Dorfbus. Genießen Sie entspannte Ferien in Seefeld, auch ohne Auto!\n\nBei einem Rundgang durch das Hotel Hocheder gibt es aber noch mehr zu entdecken: Paare, Familien und Geschäftsreisende können es sich in unseren Zimmern und Suiten im alpenländischen Stil richtig gut gehen lassen. Unsere Südbalkone bieten einen freien Blick auf das geschichtsträchtige Seekirchl als Wahrzeichen von Seefeld sowie eine hervorragende Aussicht auf das umliegende Bergpanorama einschließlich Namensgeber des Hotels, den Hocheder mit 2796 m Gipfelhöhe. \n\nAuf unserer windgeschützten Sonnenterrasse können Sie ebenso zur Ruhe kommen und die wunderbare Bergkulisse bestaunen. Eine extra Portion Sonne gibt es hier umsonst - mit einem guten Glas Wein oder dem hausgemachten Strudel kann das Leben im Herzen von Seefeld kaum schöner sein. Am Abend lockt unsere moderne Bar oder die wohlig-warme Kaminstube für einen Aperitif ins Innere des Hotels, bevor im Restaurant unser Küchenteam internationale und Tiroler Leckerbissen für Sie zaubert.\n\nNach dem langen Skitag auf den Seefelder Pisten oder dem anspruchsvollen Aufstieg zu einem der Hausberge der Olympiaregion Seefeld freut sich Ihr Körper umso mehr auf wohltuende Stunden in unserem Wellnessbereich. Verweilen Sie in der Sauna, genehmigen Sie sich ein Aromadampfbad, lehnen Sie sich zurück im Ruheraum, tanken Sie an kalten Tagen Wärme im Solarium oder genießen Sie eine lockernde Massage.\n\nAm nächsten Tag können Sie sich beim Olympia Sport- und Kongresszentrum der Einschulung ins Eisstockschießen widmen oder über den Eislaufplatz schlittern, um es sich anschließend mit der ganzen Familie im Kino Seefeld gemütlich zu machen. Auch Ihr Hund ist bei uns willkommen.\n\nIhre Familie Ceola und das gesamte Team freuen sich schon auf Sie im 4* Hotel Hocheder in Seefeld in Tirol!\n",
+    "*\treichhaltiges Frühstücksbuffet bis 10.00 Uhr \n*\tabends ein 4 Gang Wahlmenü mit Salatbuffet  \n*\tkostenlose Benützung des Dorf- und Ski Buses \n*\tfreie Benützung der Langlaufloipen für unsere Hausgäste \n*       Kostenlose Benützung unser Sauna und des Dampfbades\n\t",
+    ""
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.9",
+    "reviewCount": "81"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2a02532f-4457-4a34-b0a6-f6944cf42bdb/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/cb695477-287e-4226-b18a-109ddc6c27c6/99/image.jpg",
+      "caption": "Logo"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/acbf2268-9807-42d0-87a1-79a7e15e5a6f/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/dc916c17-bda0-418b-b563-21f2672cf0f0/99/image.jpg",
+      "caption": "Lage Hotel Hocheder"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/336c12e6-9d7b-449e-ac3f-d8da73e06c8e/99/image.jpg",
+      "caption": "Bar Zeitlos"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e6814756-acac-4f98-bbaf-83ab2ffa7bb1/99/image.jpg",
+      "caption": "Bar Zeitlos"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ca3fea9f-734a-4a70-b7bc-214c59a2554f/99/image.jpg",
+      "caption": "Bar Zeitlos"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2051ffd8-98bb-4596-ae64-ec57aa52685e/99/image.jpg",
+      "caption": "Stube Bar Zeitlos"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/845d3083-cc45-4f2a-8b87-e0f48bccaf1b/99/image.jpg",
+      "caption": "Stube Bar Zeitlos"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d6f392f6-a785-4d0d-9ceb-689f7d9210d8/99/image.jpg",
+      "caption": "Stube Bar Zeitlos"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3e504f33-f6a0-4234-a613-53761adf329e/99/image.jpg",
+      "caption": "Rezeption Hotel Hocheder"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0f750b08-889e-4495-9cf1-d01b0131003e/99/image.jpg",
+      "caption": "Lobby Hotel Hocheder"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/dcfbaa58-5fca-44dc-8ed8-94bcd722eb28/99/image.jpg",
+      "caption": "Lobby Hotel Hocheder"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6bf58eb4-6a00-4677-9659-d2e1e5191714/99/image.jpg",
+      "caption": "Restaurant Mona Lisa Hotel Hocheder"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0459d625-5270-4be2-83fe-eb6588c3304e/99/image.jpg",
+      "caption": "Restaurant Hotel Hocheder"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/cf7d3a3e-3715-4e87-9027-690275d8ed91/99/image.jpg",
+      "caption": "Restaurant Hotel Hocheder Mona Lisa"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ad430dc6-97fa-4e00-bf52-07c8635f3821/99/image.jpg",
+      "caption": "Restaurant Hotel Hocheder"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d62663a6-7bfa-4739-aeca-bbdbd99fa266/99/image.jpg",
+      "caption": "Wellness Hotel Hocheder"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/65ffa025-901b-4ec5-8928-67c1f9eb1036/99/image.jpg",
+      "caption": "Wellness Hotel Hocheder"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e0d674d6-100a-4fc6-a57b-2698279d695c/99/image.jpg",
+      "caption": "Ruhe Zone Hotel Hocheder Wellness"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/24c45464-4864-494b-89bb-60203b085cf0/99/image.jpg",
+      "caption": "Sauna Wellness Hotel Hocheder"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7b147818-cb88-4989-8a26-e1c9879b5f7d/99/image.jpg",
+      "caption": "Dampfbad Wellness Hotel Hocheder"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3282995418621",
+    "longitude": "11.1827232754631"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche oder Bad, WC",
+      "description": "ein Doppelzimmer Standard\nBad/WC, ohne Balkon, \nSAT-TV, Safe und Minibar\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer Standard ohne Balkon",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Aktivtage",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "E-Mountainbike Tage",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Romantiktage",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Platzreifekurs",
+          "description": "Inklusive:\n•\t7 Übernachtungen in Ihrem Wunschzimmer mit den gewohnten Hocheder-Inklusivleistungen\n•\t5 Tage Basistraining in der Gruppe (2-6 Personen, Mo-Fr 9-11Uhr) in der Golfakademie Seefeld inkl. Leihausrüstung, Leihschläger und Bälle\n•\tBenützung des Übungsgeländes der Akademie nach dem Training\n•\t3 Trainingseinheiten am Mo, Mi und Fr Nachmittag je 1,5 Stunden\n•\tPrüfung theoretisch und praktisch am Freitag Nachmittag (Gebühr inklusive)\n•\t1 Sportmassage pro Person (25 min)\n",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "119.00",
+          "maxPrice": "311.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "85.00",
+          "maxPrice": "247.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche oder Bad, WC, Balkon",
+      "description": "Doppelzimmer Rosshütte\nBad/WC, Balkon mit Blick zur Rosshütte, \nSAT-TV, Safe und Minibar\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer \"Rosshütte\" mit Balkon",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Radl\u0027n macht Spaß...",
+          "description": "Das \"E\" vom dem Bike steht für Entspannung\nGemächlich wechseln sich Wälder und Wiesen, Felder und Hügel, Täler und Schluchten ab. Die Landschaft verändert sich. Man gerät ein wenig ins Schwitzen, aber stets bleibt genügend Puste für einen „Ratscher“ von Sattel zu Sattel: eine herrliche Erfindung, diese E-Bikes!\n\nAkku-Wechselstationen gibt es über die ganze Region verteilt, so können Sie ganz getrost auch längere Rad-Ausflüge unternehmen. ",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/f09dd9e4-33d5-44d1-b6b2-657d72a738fc/99/image.jpg",
+              "caption": "Radfahrer"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/b7539b24-2ae6-483c-907b-eeb194669cdf/99/image.jpg",
+              "caption": "Radfahrer 2"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Sommerstart",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Skiroller Schnupperkurs",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Aktivtage",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "E-Mountainbiketage",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Romantiktage",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Platzreifekurs",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "100.00",
+          "maxPrice": "311.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "85.00",
+          "maxPrice": "247.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Bad, WC, Superior",
+      "description": "Doppelzimmer Superior\nmit Wohnteil \nBad/WC, Südbalkon mit Blick Richtung Seekirchl, \nSAT-TV, Safe und Minibar\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer Superior",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Sommerstart",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Skiroller Schnupperkurs",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Aktivtage",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "E-Mountainbike Tage",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Romantiktage",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Platzreifekurs",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "105.00",
+          "maxPrice": "346.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "100.00",
+          "maxPrice": "272.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "100.00",
+          "maxPrice": "272.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Junior Suite, Bad, WC, Komfort",
+      "description": "eine Juniorsuite\nmit großzügigem Wohnteil mit Kachelofen \nBad/WC, Südbalkon mit Blick Richtung Seekirchl, \nSAT-TV, Safe und Minibar\n\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Junior Suite Komfort",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Sommerstart",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Skirollern Schnupperkurs",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Aktivtage",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "E-Mountainbike Tage",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Romantiktage",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Platzreifekurs",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "147.00",
+          "maxPrice": "381.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "105.00",
+          "maxPrice": "297.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "105.00",
+          "maxPrice": "297.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "105.00",
+          "maxPrice": "297.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Suite, Bad, WC, Komfort",
+      "description": "eine Suite\nmit Wohnteil und getrennten Schlafzimmern, \nBad/WC, Südbalkon mit Blick Richtung Seekirchl, \nBad/WC, SAT-TV, Safe und Minibar\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Suite Komfort",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Sommerstart",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Skiroller Schnupperkurs",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Aktivtage",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "E-Mountainbike Tage",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Romantiktage",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Platzreifekurs",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "115.00",
+          "maxPrice": "307.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "115.00",
+          "maxPrice": "307.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "115.00",
+          "maxPrice": "307.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "115.00",
+          "maxPrice": "307.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

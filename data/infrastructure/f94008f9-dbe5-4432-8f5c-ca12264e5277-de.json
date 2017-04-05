@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LocalBusiness"
+  ],
+  "name": "Musikpavillion, Musikplatzl Reith",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2981710055794",
+    "longitude": "11.2049639555031"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Musikplatzl",
+    "streetAddress": "Römerstraße 24",
+    "addressLocality": "Reith bei Seefeld",
+    "postalCode": "6103",
+    "addressCountry": "AT"
+  },
+  "description": [
+    "nur im Sommer (Konzertsaison) geöffnet!",
+    "nur im Sommer (Konzertsaison) geöffnet!"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e7fb8d3f-2d28-4226-b597-95f33e925102/99/image.jpg",
+      "caption": "FOTO"
+    }
+  ]
+}

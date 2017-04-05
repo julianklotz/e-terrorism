@@ -1,0 +1,55 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation",
+    "PublicSwimmingPool"
+  ],
+  "name": "Waldbad Strandcafe Sonja",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.321075378392",
+    "longitude": "11.1906973369263"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Gasthof Englhof",
+    "streetAddress": "Auland 13",
+    "addressLocality": "Reith bei Seefeld",
+    "postalCode": "6103",
+    "addressCountry": "AT",
+    "telephone": "(0043)5212 3138     ",
+    "faxNumber": "(0043)5212 3138 15 ",
+    "email": "englhof@engl-hof.com"
+  },
+  "description": [
+    " ",
+    "Überdachte Panoramaterrasse, Liegewiese, Strandcafé, Kinderspielplatz, Freizeitsportgeräte, Umkleidekabinen, Sonnenterrasse, täglich 9:30–18:00 Uhr, Juni-September. Stempelstelle."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9e5ab23b-07db-4961-ae81-7a2941641d0f/99/image.jpg",
+      "caption": "Liegewiese"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0f1507cf-48db-4c7d-925b-9494caaf081b/99/image.jpg",
+      "caption": "Liegewiese 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4013b72e-5cc9-49fe-99e9-d63a950550a6/99/image.jpg",
+      "caption": "Aussicht auf Rosshütte"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/35c5d149-c60e-4f38-834a-d8a06ca1b2bb/99/image.jpg",
+      "caption": "Aussicht auf Nördlinger Hütte"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7a611879-c453-4cd4-b396-665c598ed1d5/99/image.jpg",
+      "caption": "Cafe"
+    }
+  ]
+}

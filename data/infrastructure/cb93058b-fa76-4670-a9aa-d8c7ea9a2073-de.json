@@ -1,0 +1,33 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure",
+    "LocalBusiness"
+  ],
+  "name": "Schmiedekunst - Andreas Kluckner",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3727636",
+    "longitude": "11.1689263"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Beim Hackl",
+    "streetAddress": "Weidach 351 a",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6780 0",
+    "faxNumber": "(0043) 5214 6780 7",
+    "email": "beim-hackl@aon.at",
+    "url": "http://members.aon.at/beim-hackl"
+  },
+  "description": "Schmiedekunst\nWeidach 315a\n+43 5214 67800\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c0413670-4564-4453-a9b5-45a164735cfe/99/image.jpg",
+      "caption": "Schmiedekunst"
+    }
+  ]
+}

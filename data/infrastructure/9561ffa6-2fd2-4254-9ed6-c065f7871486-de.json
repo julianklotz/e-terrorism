@@ -1,0 +1,19 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "TouristAttraction"
+  ],
+  "name": "Stefan Reich",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/53fb50db-2f9e-43d9-99c4-02000ca605b2/99/image.jpg",
+      "caption": "bergführer"
+    }
+  ]
+}

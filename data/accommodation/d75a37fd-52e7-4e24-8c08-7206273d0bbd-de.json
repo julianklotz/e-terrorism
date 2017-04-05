@@ -1,0 +1,173 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://www.krinserhof.com/",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Krinserhof",
+    "streetAddress": "Krinz 10",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "0043 52122721",
+    "faxNumber": "0043 52122721",
+    "email": "krinserhof@gmx.at",
+    "url": "http://www.krinserhof.com/"
+  },
+  "name": "Krinserhof",
+  "description": [
+    "Beliebter Familienbetrieb mit vielen Stammgästen. Sonnige, ruhige Waldrandlage mit freiem Ausblick, abseits vom Autoverkehr, nahe dem Ski- und Wandergebiet Rosshütte mit Bergbahn, Gondeln und Liften, 10 Gehminuten zum Zentrum. Der Chef selbst verwöhnt mit vorzüglicher Küche. Ruhiges Schlafen in gesunder Waldluft im Gästezimmer mit Bad/WC, Südbalkon, Radio und herrlicher Aussicht auf die Tiroler Bergwelt.\n \nFamiliär gemütliche Atmosphäre in der Tiroler Stube, im Abendrestaurant, an der Hausbar, im bahaglichen TV-Raum mit Büchern und Spielen u. auf der Sonnenterrasse.\n\nEinmalig: Unsere Hausmusik erfreut Sie mit Tiroler Volksweisen, Volksliedern, Volkstänzen und musiziert mit Zither, Harfe, Flöte, Raffele und Gitarre.\nWöchentlich Hausmusikabend.",
+    "Garage pro Tag €3.-, Haustier €5.-",
+    "Check-In 12.30 Uhr/ Check-Out 10.30 Uhr\nWeg: Bleiben Sie auf der Umfahrungsstraße B177 bis zur Einbiegung in den Ortsteil Krinz. Sie sehen unser Haus am Ende dieser Straße direkt am Waldrand. Nähe Bergbahnen Rosshütte."
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "reviewCount": "43"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/10df1442-58a1-4f8e-829f-21f9c4b9d401/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/23123c1e-d695-449e-9cf8-258156120654/99/image.jpg",
+      "caption": "Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3273049356957",
+    "longitude": "11.200840473175"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche oder Bad, WC, Balkon",
+      "description": "Gemütlich eingerichtet, Südbalkon, herrlich freier Ausblick auf die Bergwelt, ruhiges Schlafen in gesunder Waldluft.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Dusche od. Bad, WC mit Balkon",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche oder Bad, WC",
+      "description": "Gemütlich eingerichtet, herrlich freier Ausblick auf die Bergwelt, ruhiges Schlafen in gesunder Waldluft.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Dusche od. Bad, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Einzelzimmer, Dusche",
+      "description": "Gemütlich und sehr ruhig, gesunde Waldluft.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Einzelzimmer mit Dusche",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Dreibettzimmer, Bad, WC",
+      "description": "Gemütlich eingerichtet, Südseite, herrlich freier Ausblick auf die Bergwelt, ruhiges Schlafen in gesunder Waldluft.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Dreibettzimmer mit Bad, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Vierbettzimmer, Bad, WC",
+      "description": "Großes Vierbettzimmer gemütlich eingerichtet, 3.Etage, Südseite, herrlich freier Ausblick auf die Bergwelt, ruhiges Schlafen in gesunder Waldluft.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Vierbettzimmer mit Bad, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "3"
+          }
+        }
+      ]
+    }
+  ]
+}

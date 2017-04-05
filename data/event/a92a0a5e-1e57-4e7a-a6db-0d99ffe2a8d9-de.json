@@ -1,0 +1,54 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "Tourengeher Abend",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bergbahnen Rosshütte",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Talstation 419",
+      "addressLocality": "Seefeld",
+      "postalCode": "6100",
+      "addressCountry": "AT",
+      "telephone": "+43521224160",
+      "email": "info@rosshuette.at",
+      "url": "http://www.rosshuette.at"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Bergbahnen Rosshütte",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Talstation 419",
+      "addressLocality": "Seefeld",
+      "postalCode": "6100",
+      "addressCountry": "AT",
+      "telephone": "+43521224160",
+      "email": "info@rosshuette.at",
+      "url": "http://www.rosshuette.at"
+    }
+  },
+  "description": "Das Bergrestaurant Rosshütte hält an diesen Abenden von 18:00-22:00 Uhr offen, Aufstieg ist über die ausgewiesene Strecke \"Talstation-Forstweg Hochegg-Murmelebau-Restaurant Rosshütte\" möglich, Abfahrt ausschließlich über die Familienabfahrt! Alle anderen Pisten sind wegen Pistenpräparierungsarbeiten gesperrt! Details auf www.rosshuette.at.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/728600f2-519c-4534-b312-76532addffe1/99/image.jpeg",
+      "caption": "Tourengeher Abend"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b33e6e27-fae5-4476-a392-03f87f1b63dd/99/image.jpg",
+      "caption": "Rosshütte"
+    }
+  ],
+  "url": [
+    "http://www.rosshuette.at"
+  ],
+  "startDate": "2016-12-23T18:00:00",
+  "endDate": "2017-03-03"
+}

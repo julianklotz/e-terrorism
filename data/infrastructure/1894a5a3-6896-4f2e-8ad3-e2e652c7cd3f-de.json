@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "FastFoodRestaurant",
+    "CafeOrCoffeeShop"
+  ],
+  "name": "Tennisstüberl, Tennisclub",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3257704991447",
+    "longitude": "11.1766120791435"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Tennisstüberl, Tennis Club Seefeld",
+    "streetAddress": "Möserer Str. 561",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2888",
+    "email": "info@tennisclub-seefeld.com",
+    "url": "http://tennisclub-seefeld.com"
+  },
+  "description": "Sitzplätze für ca. 30 Personen",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/106293bc-5a51-4c27-b35c-48c02316ec6c/99/image.jpg",
+      "caption": "Tennisstüberl, Tennisclub Sommer"
+    }
+  ],
+  "url": [
+    "http://tennisclub-seefeld.com"
+  ]
+}

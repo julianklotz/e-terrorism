@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "EntertainmentBusiness"
+  ],
+  "name": "Theaterverein Reith",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Theaterverein Reith",
+    "addressLocality": "Reith",
+    "postalCode": "6103",
+    "addressCountry": "AT"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/717391be-3d12-4d30-b684-cf87de18c393/99/image.jpg",
+      "caption": "Aufführung 2009"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ad0f4057-a970-48e8-968d-c9820af40ab0/99/image.jpg",
+      "caption": "Aufführung 2010"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/da1d5669-8aee-4b50-b49d-a3e39ddf7426/99/image.jpg",
+      "caption": "Aufführung 2011"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/240844e7-2b99-4b35-b57a-7df1adbe85fe/99/image.jpg",
+      "caption": "Aufführung 2012 "
+    }
+  ],
+  "url": [
+    "http://"
+  ]
+}

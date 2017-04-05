@@ -1,0 +1,25 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hostel"
+  ],
+  "url": [
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Ferienheim Wildmoos",
+    "streetAddress": "Sillgasse 8 A",
+    "addressLocality": "Innsbruck",
+    "postalCode": "6020",
+    "addressCountry": "AT",
+    "telephone": "+4352123356"
+  },
+  "name": "Ferienkolonie Wildmoos",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3318559980388",
+    "longitude": "11.1378776229004"
+  },
+  "currenciesAccepted": "EUR"
+}

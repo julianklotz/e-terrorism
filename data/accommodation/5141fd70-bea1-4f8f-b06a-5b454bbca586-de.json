@@ -1,0 +1,79 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.villa-am-berg.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Villa am Berg",
+    "streetAddress": "Gasse 167 b",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 20107",
+    "email": "kplusR.heesch@gmx.de",
+    "url": "http://www.villa-am-berg.at"
+  },
+  "name": "Villa am Berg",
+  "description": "Check in 15:00 Uhr\nCheck out 11:00 Uhr\nUnser Haus liegt im Ortsteil Gasse in der Nähe von der Bäckerei Pichler.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9bfdafda-fdda-4569-9e35-d4b959b81ae7/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1d219649-5e61-463f-a8f2-3e2e83e6cc20/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9f3ca608-69ae-4721-9ef6-2f1dbb378ba8/99/image.jpg",
+      "caption": "Haus Winter 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/bcd61459-a86a-4583-844a-a6cf00da00e3/99/image.jpg",
+      "caption": "Haus Sommer Südwest"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/34091895-c172-43d9-94cb-516e19026788/99/image.jpg",
+      "caption": "Haus Sommer Ostseite"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3781752",
+    "longitude": "11.1574126"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Kostenlose Benutzung der Infrarot-Kabine, Kostenloser Rodelverleih \nFrühstück auf Wunsch pro Person/Tag € 5,--",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ]
+    }
+  ]
+}

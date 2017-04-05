@@ -1,0 +1,28 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Landform"
+  ],
+  "name": "Muggenmoosalm",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.33721588553",
+    "longitude": "11.129332780838"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Muggenmoosalm",
+    "streetAddress": "Moos 8b",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 2622953"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/992c9dd0-999c-49c5-bfc1-18bc45c39367/99/image.jpg",
+      "caption": "Muggenmoosalm"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "11 Jahre \"Honigfest\" beim Bienenhotel Reith",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Imkerverein Olympiaregion Seefeld",
+    "employee": {
+      "@type": "Person",
+      "givenName": "Kurt",
+      "familyName": "Kriegl"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Andreas-Hofer-Str. 606",
+      "addressLocality": "Seefeld",
+      "postalCode": "6100",
+      "addressCountry": "AT",
+      "telephone": "(0043)6766906806",
+      "email": "kurtkriegl@gmx.at",
+      "url": "http://www.Bienenhotel.at"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Imkerverein Olympiaregion Seefeld",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Andreas-Hofer-Str. 606",
+      "addressLocality": "Seefeld",
+      "postalCode": "6100",
+      "addressCountry": "AT",
+      "telephone": "(0043)6766906806",
+      "email": "kurtkriegl@gmx.at",
+      "url": "http://www.Bienenhotel.at"
+    }
+  },
+  "description": "Sie erfahren Wissenswertes über die Bienen und die Honiggewinnung! Über zahlreiche Gäste freut sich der Imkerverein der Olympiaregion Seefeld!",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d3582cca-e29d-4d23-af5a-f1922bb96ab8/99/image.jpg",
+      "caption": "Bienen"
+    }
+  ],
+  "url": [
+    "http://www.bienenhotel.at/imkerverein-infoseite.html"
+  ],
+  "startDate": "2017-07-02T11:00:00",
+  "endDate": "2017-07-02"
+}

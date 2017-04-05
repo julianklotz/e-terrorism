@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "HairSalon"
+  ],
+  "name": "Berni´s Haar Atelier, Friseur",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Berni´s Haar Atelier",
+    "streetAddress": "Möserer Str. 53 (im Hotel St. Peter)",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212/20525"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/448b6ab0-e851-4a68-ad31-6b31f025149c/99/image.jpg",
+      "caption": "Friseur"
+    }
+  ],
+  "url": [
+    "http://www.friseursalon-querschnitt.at"
+  ]
+}

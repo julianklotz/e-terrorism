@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "TouristAttraction"
+  ],
+  "name": "Durch das Gleirschtal zur Kristenalm oder zur Möslalm / Weg Nr. 221, 16, 213",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Informationsbüro Scharnitz",
+    "streetAddress": "Innsbrucker Str. 282",
+    "addressLocality": "Scharnitz",
+    "postalCode": "6108",
+    "addressCountry": "AT",
+    "telephone": "+4350880540 ",
+    "faxNumber": "+4350880541",
+    "email": "info.scharnitz@seefeld.com",
+    "url": "http://www.seefeld.com"
+  },
+  "description": [
+    "Strecke: Scharnitz – Gleirschhöhe – Gleirschtal – Amtsäge / Kristenalm / Möslalm\nGehzeit: ca. 6 Stunden\nVom Informationsbüro über die Isarbrücke, vor der Kirche links abbiegen. Der Hinterautalstraße\nfolgen, vorbei am Wanderparkplatz in Richtung Gasthof Wiesenhof. Weiter bis zur Gleirschhöhe.\nDort folgen Sie der rechten Forststraße Richtung Gleirschtal. Vor der Amtsäge zweigt rechts\nein Forstweg zur Kristenalm ab, welche Sie in etwa einer Stunde erreichen. Von der Abbiegung\nKristenalm geradeaus erreichen Sie die Amtsäge, rechts die Forststraße weiter folgend, kommen\nSie nach 15 Minuten zur Möslalm. Zurück nach Scharnitz können Sie entweder denselben Weg\nnehmen, oder Sie wandern durch die wildromantische Gleirschklamm (Vorsicht nur für geübte\nWanderer) zurück.",
+    "Strecke: Scharnitz – Gleirschhöhe – Gleirschtal – Kristenalm / Möslalm\nGehzeit: ca. 6 Stunden\nVom Informationsbüro über die Isarbrücke, vor der Kirche links abbiegen. Der Hinterautalstraße\nfolgen, vorbei am Wanderparkplatz in Richtung Gasthof Wiesenhof. Weiter bis zur Gleirschhöhe.\nDort folgen Sie der rechten Forststraße Richtung Gleirschtal. Vor der Amtsäge zweigt rechts\nein Forstweg zur Kristenalm ab, welche Sie in etwa einer Stunde erreichen. Von der Abbiegung\nKristenalm  rechts die Forststraße weiter folgend, kommen Sie nach 15 Minuten zur Möslalm. \nZurück nach Scharnitz können Sie entweder denselben Weg\nnehmen, oder Sie wandern durch die wildromantische Gleirschklamm (Vorsicht nur für geübte\nWanderer) zurück."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d4c902e1-2053-42ea-9b94-7e1118a9493e/99/image.jpg",
+      "caption": "Gleirschtal"
+    }
+  ]
+}

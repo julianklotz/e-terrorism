@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "TouristAttraction"
+  ],
+  "name": "Nach Gießenbach / Weg Nr. 18,19,5",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Informationsbüro Scharnitz",
+    "streetAddress": "Innsbrucker Str. 282",
+    "addressLocality": "Scharnitz",
+    "postalCode": "6108",
+    "addressCountry": "AT",
+    "telephone": "+4350880540 ",
+    "faxNumber": "+4350880541",
+    "email": "info.scharnitz@seefeld.com",
+    "url": "http://www.seefeld.com"
+  },
+  "description": [
+    "Strecke: Scharnitz / Kirche – Hirlanda-Ellmann-Weg – Gießenbach\nGehzeit: ca. 1 ½ Stunden\nGegenüber der Kirche (zwischen Brunnerhof und Frankenhof) spazieren Sie den Hirlanda-Ellmann-\nWeg bis Sie zu einer kleinen Brücke kommen. Vor der Brücke links dem Gießenbach entlang,\nfolgen Sie dem sonnigen Spazierweg bis Sie zu einer Brücke kommen. Nach der Überquerung\nkönnen Sie entweder links weiter bis zum Ortsteil Gießenbach zum Gasthof Ramona laufen oder\nSie halten sich rechts und wandern nach Scharnitz zurück. In Gießenbach angelangt, überqueren\nSie die Hauptstraße Richtung Bahnhof und können dann links auf einen Steig dem Bahndamm\nentlang wieder nach Scharnitz zurück wandern.",
+    "Strecke: Scharnitz / Kirche – Hirlanda-Ellmann-Weg – Gießenbach\nGehzeit: ca. 1 ½ Stunden\nGegenüber der Kirche (zwischen Brunnerhof und Frankenhof) spazieren Sie den Hirlanda-Ellmann-\nWeg bis Sie zu einer kleinen Brücke kommen. Vor der Brücke links dem Gießenbach entlang,\nfolgen Sie dem sonnigen Spazierweg bis Sie zu einer Brücke kommen. Nach der Überquerung\nkönnen Sie entweder links weiter bis zum Ortsteil Gießenbach zum Gasthof Ramona laufen oder\nSie halten sich rechts und wandern nach Scharnitz zurück. In Gießenbach angelangt, überqueren\nSie die Hauptstraße Richtung Bahnhof und können dann links auf einen Steig dem Bahndamm\nentlang wieder nach Scharnitz zurück wandern."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7dca42b8-4a15-44ce-a765-e726d1d16057/99/image.jpg",
+      "caption": "Scharnitz"
+    }
+  ]
+}

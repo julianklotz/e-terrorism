@@ -1,0 +1,199 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.landhaus-burggraaff.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Landhaus Burggraaff",
+    "streetAddress": "Obern 25 b",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 5138",
+    "faxNumber": "(0043) 5214 51385",
+    "email": "info@landhaus-burggraaff.at",
+    "url": "http://www.landhaus-burggraaff.at"
+  },
+  "name": "Landhaus Burggraaff",
+  "description": [
+    "Genießen Sie Ihren wohlverdienten Urlaub in unserem gemütlichen und gepflegten Haus mit herrlich weitem Ausblick auf die Wiesen- und Bergwelt.\nUnsere Komfort-Ferienwohnungen sind alle mit Südbalkon oder Terrasse ausgestattet. Wir sind nur wenige Minuten vom Eingang ins Almenparadies Gaistal entfernt. Lebensmittelgeschäft und Restaurant in unmittelbarer Nähe.\nIm Winter befindet sich der Loipeneinstieg direkt vor dem Haus.",
+    "INKLUSIVE: Heizung, Stromkosten, Wasser, Müllgebühr\n\nEXKLUSIVE: Telefongesprächskosten, Ortstaxe, Internetgebühren",
+    "Von Seefeld: Leutasch - Weidach - Richtung Kirchplatzl - weiter nach Obern - unser Haus liegt auf der linken Seite.\n\nVon Mittenwald: Leutasch - Schanz - Gasse - Richtung Kirchplatzl - weiter nach Obern - unser Haus liegt auf der linken Seite."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/324afe60-2fbb-447b-b544-2cb9f1383874/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1c6dbd1e-2387-4ed0-9590-539dfa04e5e1/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f1025c1d-b694-4ae1-b884-380c58b9a836/99/image.jpg",
+      "caption": "Hausansicht Winter"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.357297107934",
+    "longitude": "11.123719104308"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Nichtraucher - Komfortwohungen,\nTiefparterre 12m2, Terrasse mit Gartenmöbeln, direkter Eingang zum Garten, SAT-TV, Telefon, Internetanschluß in der Wohnung, Mikrowelle, Geschirrspüler",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Ap. Alpenland / 1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "43.00",
+          "maxPrice": "81.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "53.00",
+          "maxPrice": "91.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "63.00",
+          "maxPrice": "101.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Nichtraucher - Komfortwohnungen\nSüd- und Westbalkon, Internetanschluß in der Wohnung,\nsüdseitig km-weiter freier Ausblick auf Wiesen, Wälder und Berge",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Ap. Hohe Munde/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "49.00",
+          "maxPrice": "98.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "59.00",
+          "maxPrice": "108.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "69.00",
+          "maxPrice": "118.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 2 Schlafräume",
+      "description": "Nichtraucher - Komfortwohnungen\nSüd- und Ostbalkon,südseitig km- weiter freier Ausblick auf Wiesen, Wälder und Berge, Gartenmöbel, Internetanschluß",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Ap. Karwendel /2 Schlafräume/Dusche, Bad",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "71.00",
+          "maxPrice": "121.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "71.00",
+          "maxPrice": "121.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "71.00",
+          "maxPrice": "121.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "81.00",
+          "maxPrice": "131.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "91.00",
+          "maxPrice": "141.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

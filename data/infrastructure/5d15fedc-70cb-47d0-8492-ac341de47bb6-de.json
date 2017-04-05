@@ -1,0 +1,29 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LakeBodyOfWater"
+  ],
+  "name": "Lottensee - ein Naturphänomen",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3249985098969",
+    "longitude": "11.1276927180664"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Lottenseehütte",
+    "streetAddress": "Brand 7",
+    "addressLocality": "Telfs-Buchen",
+    "postalCode": "6410",
+    "addressCountry": "AT",
+    "telephone": "(0043) 6644003132"
+  },
+  "description": "Nahe des idyllisch gelegenen Möserer Sees auf dem Plateau Wildmoos (1320 m), einem beliebten Naherholungsgebiet in der Nähe Seefelds, gibt es ein sehr interessantes Naturphänomen zu beobachten: Wie aus dem Nichts bilden sich inmitten grüner Wiesen, Lärchen- und Birkenwäldern zwei Seen, der Wildmoossee und der Lottensee. Dieses a-periodische (nicht regelmäßig) auftretende „Naturwunder“ ergibt sich wahrscheinlich aus einem Zusammenspiel des Wasserstandes in den unterirdischen Karstsystemen aufgrund des Frühjahrsniederschlages und der Schneeschmelze. Der Boden unterhalb dieser Seen dürfte stark verkarstet sein, das Gefäßsystem ist allerdings nach unten abgedichtet. Beim Einsetzen des Tauwetters im Frühjahr füllen sich die unterirdischen Gefäße mit Wasser, der Überlauf überschwemmt die Wiesenmulden und bildet Seen, die aber oft schon nach einigen Wochen wieder verschwinden. Interessanterweise steigt in manchen Jahren der Wasserspiegel auch noch nach der Schneeschmelze weiter an, wobei das Wasser in Springquellen aus der Tiefe sprudelt. Die Seen bleiben dann den ganzen Sommer mit konstantem Wasserstand bestehen - und sind auch zum Baden geeignet – im Herbst läuft der See dann plötzlich in zwei bis drei Wochen aus. Trotz vielfältiger Versuche, das Auftreten der Seen vorherbestimmen zu wollen, ist dies nicht gelungen. Die exakten Ursachen für das Auftreten bzw. das Ausbleiben der Seen sind nicht genau definierbar.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/fe1c98dd-cc6a-4e2a-8745-c7de65d2ca55/99/image.jpg",
+      "caption": "Lottensee-\u0026 -hütte"
+    }
+  ]
+}

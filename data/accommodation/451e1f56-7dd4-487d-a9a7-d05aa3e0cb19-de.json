@@ -1,0 +1,19 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Thüringen",
+    "streetAddress": "Weidach 321 / 3",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT"
+  },
+  "name": "ZW - Kubena Anton",
+  "currenciesAccepted": "EUR"
+}

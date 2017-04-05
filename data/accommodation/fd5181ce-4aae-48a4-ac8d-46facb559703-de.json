@@ -1,0 +1,167 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.haus-kirchwald.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Kirchwald",
+    "streetAddress": "Am Kirchwald 342",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 14 029 50",
+    "faxNumber": "(0043) 5212 2205 4",
+    "email": "info@haus-kirchwald.at",
+    "url": "http://www.haus-kirchwald.at"
+  },
+  "name": "Haus Kirchwald",
+  "description": [
+    "Unser Haus Kirchwald ist ruhig und sehr sonnig gelegen, nahe dem Seefelder \"Seekirchl\", mit freiem Ausblick auf die Berge und trotzdem nur ca. 5 Gehminuten vom Zentrum entfernt. In unmittelbarer Nähe befinden sich das Olympia Sportzentrum (ca. 3 Minuten zu Fuß) mit Bade-, Sauna- und Wellnesslandschaft und einem Kino, der zentrale Ausgangspunkt der Langlaufloipen (und Nachtloipen), diverse Skilifte, die Eislaufplätze, die WM-Tennisanlagen mit Fitnesstudio, viele Wanderwege und die Haltestellen der Ortsbusse. \nUnsere beiden 2- und 3-Raum-Appartements (Nichtraucher) bieten jeglichen Komfort in sauberem, geschmackvollem, sehr gepflegtem und individuellem Ambiente. Dafür wird unser Haus Kirchwald seit nunmehr 20 Jahren immer wieder mit dem höchsten Gütesiegel für Privatvermieter in Österreich, nämlich mit \"4 Edelweiß \u003d besonders empfehlenswert\" ausgezeichnet.",
+    "Inklusive: Mehrwertsteuer, Betriebskosten, Bettwäsche, Hand- und Badetücher, Parkplatz, Safe, Skischuhtrockner, Skiständer, Terrasse, Kinderbett und Hochstuhl;\n\nExklusive: Internetzugang (w-lan), Telefongesprächskosten, ermäßigter Eintritt ins Olympia Schwimmbad, Brötchenservice;",
+    "Check-in/Check-out: nach Vereinbarung\nAnreise-/Wegbeschreibung: aus dem Zentrum Seefelds folgen Sie den orangen Wegweisern (Richtung \"Kirchwald\"), am \"Seekirchl\" vorbei, danach die erste Abzweigung rechts in den Kirchwald; 2. Haus auf der rechten Seite - \"Willkommen im Haus Kirchwald\"!"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/95d2a4c2-b4eb-439f-ae9f-78157a13328f/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c3367018-0bf3-41a0-bed4-81a209d1a0c4/99/image.png",
+      "caption": "Haus Kirchwald"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/20d35e71-711d-4bf1-a3dd-d9157613a9b6/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ac281b8b-9900-4371-9ef6-34263ffa1b7f/99/image.jpg",
+      "caption": "Sommer 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/09a079e0-743c-43fe-bd81-b843da0b4ced/99/image.jpg",
+      "caption": "Sommer 3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f77396de-9428-4db8-bab7-f1fa8a6b6251/99/image.jpg",
+      "caption": "Winter 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d2c2a175-d633-46df-9e6e-222566810a36/99/image.jpg",
+      "caption": "Winter Nacht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8dc40a56-e244-494b-81c0-cc9a187e82b3/99/image.jpg",
+      "caption": "Sommer 4"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/280a4626-411d-414b-a019-e5929d06638e/99/image.jpg",
+      "caption": "Sommer 5"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d217f46b-3f50-4f7e-9225-5dbe8ffc06ba/99/image.jpg",
+      "caption": "Winter 3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3b807caf-62ac-4e1a-9c09-6b2a90f80475/99/image.jpg",
+      "caption": "Winter 4"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3272103982394",
+    "longitude": "11.1773765087128"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Unsere sehr gemütliche 2-Raum-Wohnung liegt im 2. Stock (Mansardenwohnung ohne Dachschräge) und verfügt über ein schönes Schlafzimmer mit großem Doppelbett und Bad (Dusche/WC), eine komplett ausgestattete Wohnküche mit Esstisch und Wohnbereich (Couch / SAT-TV), sowie einen Eingangsbereich mit Garderobe. Die Wohnung ist sehr liebevoll, individuell und gepflegt eingerichtet und bietet neben Internetzugang (w-lan) auch alle weiteren Einrichtungen / Geräte entsprechend allgemeiner Ausstattungsinfos.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "2-Raum-Appartement/1 Schlafraum/Dusche,",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "60.00",
+          "maxPrice": "93.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "Unsere große 3-Raum-Wohnung (ca. 70 qm) liegt im ersten Stock und verfügt über einen sonnigen Südbalkon (mit freier Aussicht auf die Berge), 2 gemütliche Schlafzimmer und 2 Badezimmer (jeweils Dusche + WC), ein großes Wohnzimmer (getrennt von den Schlafräumen), einer Küche (komplett ausgestattet, mit Geschirrspüler) und ist sehr gepflegt, liebevoll und hochwertig eingerichtet.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "3-Raum-Appartement/2 Schlafräume/Dusche,",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "101.00",
+          "maxPrice": "160.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "101.00",
+          "maxPrice": "160.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "101.00",
+          "maxPrice": "160.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.pensionpanorama.info",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Klotzhof",
+    "streetAddress": "Brochweg 7",
+    "addressLocality": "Mösern",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "+436644245380",
+    "email": "klotzhof@moesern.net",
+    "url": "http://www.pensionpanorama.info"
+  },
+  "name": "Klotzhof",
+  "description": [
+    "ruhig gelegen, komfortabel, unverbaute Aussicht ins Inntal, familienfreundlich",
+    "incl. Heizung, Wasser, Strom\nexcl. Telefon, Endreinigung, Ortstaxe",
+    "Check in 15:00 / Check out 10:00\n\nnach dem Feuerwehrhaus, das 3. Haus links Richtung See"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "reviewCount": "23"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4657672a-b9d9-4dd9-ac6f-c205656c5615/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1474691f-d2c1-4fc9-9aa7-01b804c0580a/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ef499b20-6b5c-4adf-b9ed-90274ce975a9/99/image.jpg",
+      "caption": "Sommer 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b9fbaad6-d2f2-4a75-a166-98ec9ff0f2a4/99/image.jpg",
+      "caption": "Hütte"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0378458c-8aaf-4b5d-9fe7-ae07e388c8ce/99/image.jpg",
+      "caption": "Aussicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c38335ce-0f6c-45f3-9dbe-77732778fdf5/99/image.jpg",
+      "caption": "FW 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7f2d936c-e06c-4d51-9f4e-e396b647281a/99/image.jpg",
+      "caption": "FW 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/61f77ae9-a671-4fef-8575-c704411b2f1c/99/image.jpg",
+      "caption": "Abendstimmung"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8fc6d2ed-9c2c-47bb-bb35-439fc87eb1d8/99/image.jpg",
+      "caption": "Südseite"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/76ec1e8c-5472-4c9c-9bd0-2a10fac7c3e2/99/image.jpg",
+      "caption": "FW 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5d658214-6668-4f8e-981d-f57ff90b9b3f/99/image.jpg",
+      "caption": "Süden"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2b6a5661-9b5a-48ec-af39-8124d4756c66/99/image.jpg",
+      "caption": "Frühling"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1033a020-0768-472d-ac98-f39a6dbc16e5/99/image.jpg",
+      "caption": "WP_20160326_18_24_05_Pro"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/23a568a8-e49b-4fb1-a04a-e9ff195e6eb0/99/image.jpg",
+      "caption": "Vorderfront"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.312216502038",
+    "longitude": "11.143672883149"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 2 Schlafräume",
+      "description": "Grosszügige Komfortferienwohnung mit Vorraum, 2 Schlafräumen,extra Badezimmer, WC, grosser Wohnraum mit Küche und Südbalkon,Parkplatz, Liegewiese, Kinderspielplatz.\nwww.pensionpanorama.info ",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/2 Schlafräume/Bad, WC",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "70.00",
+          "maxPrice": "130.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "80.00",
+          "maxPrice": "140.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "90.00",
+          "maxPrice": "150.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "150.00",
+          "maxPrice": "150.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

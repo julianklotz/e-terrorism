@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant"
+  ],
+  "name": "Triendlsäge",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3441608040035",
+    "longitude": "11.1897897720337"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Triendlsäge",
+    "streetAddress": "Nr. 259",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2580",
+    "email": "triendlsaege@aon.at",
+    "url": "http://www.triendlsaege.at"
+  },
+  "description": "Sitzplätze für ca. 110 Personen\n\nE-Bike Akkuwechselstation, Stempelstelle\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f2693614-80f6-44f6-bb04-7ce98da85fba/99/image.jpg",
+      "caption": "Triendlsäge Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f4d0aa8f-068b-4b35-94a6-e56e2ba84e70/99/image.jpg",
+      "caption": "Triendlsäge Winter"
+    }
+  ],
+  "url": [
+    "http://www.triendlsaege.at"
+  ]
+}

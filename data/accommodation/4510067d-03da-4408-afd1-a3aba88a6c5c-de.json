@@ -1,0 +1,153 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.haus-ilse.seefeld-in-tirol.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Ilse",
+    "streetAddress": "Innsbruckerstr.  252",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2401",
+    "faxNumber": "(0043) 5212 2401",
+    "email": "haus-ilse@seefeld-in-tirol.at",
+    "url": "http://www.haus-ilse.seefeld-in-tirol.at"
+  },
+  "name": "Haus Ilse",
+  "description": [
+    "\nHerzlich Willkommen in der Frühstückspension Haus Ilse in Seefeld/Tirol!\nGemütliches Tiroler Landhaus, sonnig und ruhig gelegen, Nähe Wildsee, Schiliften und Loipen. Ca. 7 Geh-Minuten zur Ortsmitte 1 geräumiges Zweibett-Zimmer mit Süd-Balkon 2 schöne Einbett-Zimmer, davon eines mit Süd-Balkon Alle Zimmer mit Kalt- und Warmwasser Etagen-Dusche und –Toilette Urige Nichtraucher-Frühstücks Stube mit TV Wireless Internet Liegewiese",
+    "Check In: 15.00 bis 20.00 h, Check Out: bis 11.00 h\nDie Umfahrungs-Strasse (B 177) an der Ausfahrt \"Seefeld Süd\" verlassen und Richtung Seefeld fahren. Am Ortseingang vorbei am Schwimmbad, direkt nach dem ersten Haus auf der rechten Strassenseite (Restaurant) sofort rechts in den Zufahrtsweg zum Haus Ilse einbiegen und bis vor die Garage fahren."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/33c34b71-daad-4e8e-8cd0-191603228575/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/258428a3-85d1-4e4f-a7a0-f4bde5ef0bca/99/image.jpg",
+      "caption": "Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3242360180194",
+    "longitude": "11.1911737918854"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Zweibettzimmer, fl. k/w Wasser",
+      "description": "geräumiges Zweibett-Zimmer mit Süd-Balkon",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Rot",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "28.50",
+          "maxPrice": "33.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "20.00",
+          "maxPrice": "25.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Einzelzimmer, fl. k/w Wasser",
+      "description": "rustikales Einbett-Zimmer",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Blau",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "20.50",
+          "maxPrice": "26.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Einzelzimmer, fl. k/w Wasser",
+      "description": "rustikales Einbett-Zimmer mit Süd-Balkon",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Grün",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "20.50",
+          "maxPrice": "26.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

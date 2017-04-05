@@ -1,0 +1,358 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.apartment-leutasch.com",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf",
+    "https://www.youtube.com/embed/y8Bp3t8Msgc",
+    "http://app.tfv.at/pano/w1/w1.html",
+    "http://app.tfv.at/pano/w2/w2.html",
+    "http://app.tfv.at/pano/w3/w3.html",
+    "http://app.tfv.at/pano/w4/w4.html",
+    "http://app.tfv.at/pano/w5/w5.html"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Schönberg",
+    "streetAddress": "Obern 34",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6442",
+    "email": "g.neurauter@aon.at",
+    "url": "http://www.apartment-leutasch.com"
+  },
+  "name": "Haus Schönberg",
+  "description": [
+    "Im sonnigen, nach Süden offenen oberen Teil des Tals gelegen, direkt am Fuß der Hohen Munde am Eingang des Gaistals. Loipeneinstieg 50 Meter vom Haus entfernt. Einkaufsgelegenheit im Supermarkt in unmittelbarer Nachbarschaft.\nFünf Ferienwohnungen - alle mit Balkon - Böden aus Wohnkork, LED- Beleuchtung. Digitaler Fernseh- und Radioempfang. Carport nach Verfügbarkeit.\nGratis Eintritt in das Alpenbad von Mai bis Oktober (5 Stunden pro Person und Tag)\nIm Winter sind Loipenpauschale und das Regionsbusticket im Wohnungspreis inkludiert. \nWLAN kostenlos\nGegen Gebühr: Benutzung der Infrarotkabine mit Luftbefeuchter im Ruheraum.\nVom Verband der Privatzimmervermieter mit prädikatisiert.\n",
+    "Inklusive Gratis W-Lan, im Sommer 5 Stunden Eintritt in das Alpenbad pro Person ohne Sauna, Loipenpauschale und Regionsbusticket im Winter.\nCarport nach Verfügbarkeit.\ngegen Gebühr:  Sauna (Infrarotkabine) ",
+    "Zimmerbelegung nicht vor 13.00 Uhr\nAbreise bis 09.00 Uhr\n\n"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b6501cd2-d260-4dee-abf4-d32cf8a5a5a5/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4556548e-9774-45dc-9610-6c1e9c6f4c55/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/25425c6d-8693-4479-82ff-2eb23c070088/99/image.jpg",
+      "caption": "Hausansicht Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4428560a-3021-4d9f-b003-ce9015a4466f/99/image.jpg",
+      "caption": "Hausansicht Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5c5b74c9-446d-4b18-8c90-8e8e335a40e7/99/image.jpg",
+      "caption": "Carport"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c2f314aa-5728-424d-b902-701e643b71f9/99/image.jpg",
+      "caption": "Blumenschmuck"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1fa5fad7-cefd-4693-a478-a128aa6712fe/99/image.jpg",
+      "caption": "Wellnessbereich"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/fac90148-29a2-45fd-8555-6da8e3552068/99/image.jpg",
+      "caption": "Wellnessbereich"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f3bf43e7-81a9-40ce-a9eb-12c9a3abba25/99/image.jpg",
+      "caption": "Wellnessbereich"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f8ad3b7f-a366-4b28-861b-7a4b447024de/99/image.jpg",
+      "caption": "Infrarotsauna"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/033b0443-1ae9-4682-99e1-2f190dab98c2/99/image.jpg",
+      "caption": "Hausansicht Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/00eb8f35-f32e-4f6c-8321-d949e8c2737e/99/image.jpg",
+      "caption": "Ausblick nach Süden"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f318cb7e-0ba6-46a6-8fae-4d56482851cc/99/image.jpg",
+      "caption": "Ausblick nach Osten"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/68f38d36-0087-4dbd-832a-a7a5f7d6d1ec/99/image.jpg",
+      "caption": "Rotmoosalm"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/306ae463-9f6a-4e24-af0e-702a5edad8dc/99/image.jpg",
+      "caption": "Gaistalalm"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/36aa5b3e-dec2-4503-b35f-4df5ab9d156c/99/image.jpg",
+      "caption": "Blick von der Wettersteinhütte"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d8764dca-1a8d-443f-be41-461a6dfc22c5/99/image.jpg",
+      "caption": "Loipe Obern"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a9ddf74d-9cb7-492e-891a-5befd3030d4a/99/image.jpg",
+      "caption": "Loipe Muggenmoos"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8a316132-8e44-4d82-bd26-59b0cd33abc9/99/image.jpg",
+      "caption": "Loipe Moos"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.359761831044",
+    "longitude": "11.125496881473"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Toilette und Bad/Dusche getrennt, 1 Schlafraum",
+      "description": "Nichtraucherwohnung für zwei bis drei Personen im 1. Stock (Schlafzimmer mit SAT-TV, Wohnraum mit SAT-TV und Einzelbett, Kinderliege, Küchenzeile (Vierplattenherd mit Geschirrspüler und Backrohr, Südostbalkon. Dusche getrennt, WC getrennt. Südostbalkon.Überdachter Autoabstellplatz nach Verfügbarkeit.\n\nPanoramaansicht auf unserer Homepage.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Nr. 1, Apartment/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "61.00",
+          "maxPrice": "75.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "67.00",
+          "maxPrice": "81.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Toilette und Bad/Dusche getrennt, 1 Schlafraum",
+      "description": "Nichtraucherwohnung für zwei bis vier Personen im 1. Stock (Schlafzimmer mit SAT-TV, Wohnraum mit SAT-TV und Einzelbetten, Küchenzeile (Vierplattenherd mit Geschirrspüler und Backrohr), Südbalkon. Dusche getrennt, WC getrennt. Überdachter Autoabstellplatz nach Verfügbarkeit.\n\nPanoramaansicht auf unserer Homepage.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Nr. 2, Apartment/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "61.00",
+          "maxPrice": "75.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "67.00",
+          "maxPrice": "81.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "73.00",
+          "maxPrice": "87.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Helle Wohnung im 1. Stock mit Südwestbalkon, Wohnraum mit Küchenzeile (inkl. Vierplattenherd, Geschirrspüler, Mikrowelle, Kaffeemaschine, Toaster, Wasserwärmer, etc.), Sitzecke, Einzelbett, SAT-TV, Schlafzimmer, DU/WC, überdachter Autoabstellplatz nach Verfügbarkeit;\n\nPanoramaansicht auf unserer Homepage.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Nr. 3, Apartment/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "45.00",
+          "maxPrice": "56.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "55.00",
+          "maxPrice": "70.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "60.00",
+          "maxPrice": "77.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "Im II. Stock mit Südbalkon neben der Wohnung Nummer 5. Wohnraum mit  Küchenzeile (inkl. Zweiplattenherd,Geschirrspüler, Mikrowelle, Kaffeemaschine, Toaster, Wasserwärmer, etc.), Sitzecke, SAT-TV, zwei Schlafzimmer, DU/WC. LED Beleuchtung, keine Teppichböden. Überdachter Autoabstellplatz nach Verfügbarkeit.\n\nPanoramaansicht auf unserer Homepage.\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Nr. 4, Apartment/2 Schlafräume/Dusche, W",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "45.00",
+          "maxPrice": "58.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "55.00",
+          "maxPrice": "70.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "62.00",
+          "maxPrice": "77.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "69.00",
+          "maxPrice": "84.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Im 2. Stock mit Südbalkon neben der Wohnung Nummer 4. Wohnraum mit Sitzecke, Einzelbett im Wohnraum, SAT-TV, abgetrennte Küche (Mikrowelle, Kaffeemaschine, Toaster, Wasserwärmer, etc.), Schlafzimmer ruhig nach Norden, DU/WC. LED- Beleuchtung, keine Teppichböden. Überdachter Autoabstellplatz nach Verfügbarkeit.\n\nPanoramaansicht auf unserer Homepage.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Nr. 5, Apartment/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "45.00",
+          "maxPrice": "56.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "55.00",
+          "maxPrice": "70.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "60.00",
+          "maxPrice": "77.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

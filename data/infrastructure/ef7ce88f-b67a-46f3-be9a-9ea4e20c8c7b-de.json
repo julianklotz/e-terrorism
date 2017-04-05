@@ -1,0 +1,29 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CafeOrCoffeeShop",
+    "FastFoodRestaurant"
+  ],
+  "name": "Cafe Niveau",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3273685665807",
+    "longitude": "11.1878210306168"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Café Niveau",
+    "streetAddress": "Innsbrucker Str. 11",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 3441"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c08aa0c7-8950-417d-aa0c-d5dc1d93c4f4/99/image.jpg",
+      "caption": "Niveau Sommer"
+    }
+  ]
+}

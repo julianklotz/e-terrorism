@@ -1,0 +1,111 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.haus-marlene.info",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Marlene",
+    "streetAddress": "Kirchplatzl 145 a",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6482",
+    "faxNumber": "(0043) 5214 6482",
+    "email": "marlene.neuner@aon.at",
+    "url": "http://www.haus-marlene.info"
+  },
+  "name": "Haus Marlene",
+  "description": [
+    "Seit 2013 bieten wir drei neu renovierte Komfortappartements für Ihr \nunbeschwertes Urlaubserlebnis in Leutasch an!\nUnser Haus im Ortsteil Kirchplatzl liegt ruhig und sonnig,\netwas abseits der Strasse, in bester unverbauter Lage mit herrlicher Aussicht \nauf das gesamte Gebirgspanorama.\n\nEin idealer Ausgangspunkt für viele Berg-, Rad-, Wander- und Skitouren: \nDirekt an der Loipe und am Winterwanderweg gelegen, \nbietet unser Haus zahlreiche Freizeitangebote für den Aktivsportler,\nsowie vielseitige Möglichkeiten zum gemütlichen Wandern und Erholung für die ganze Familie.",
+    "Inklusive: Bettwäsche, Handtücher, Strom und W-Lan\nExklusive: Kurtaxe und Endreinigung",
+    "Fahren Sie bis zum Ortsteil Kirchplatzl, weiter bis zum Wegweiser Haus Marlene, rechts abbiegen, dann halten Sie sich rechts. \nAbreise bis 11.00 Uhr\nAnreise ab 15.00 Uhr"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9d56606a-e64a-43d7-a075-1bb7760b8599/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/afe38c47-e7f6-43ed-b69f-ab018bf860be/99/image.jpg",
+      "caption": "Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.369217598064",
+    "longitude": "11.142086538171"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Appartement hell eingerichtet mit Balkon, Safe, Dusche/WC, Fön, vollausgestattete Küche, Sitzecke, Couch, TV, Radio, W-Lan, Brötchenservice.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement 1 /Fewo, Dusche, WC, 1 Schlafraum",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Appartement hell eingerichtet mit Balkon, Safe, Dusche/WC, Fön, vollausgestattete Küche, Sitzecke, Couch, TV, Radio, W-Lan, Brötchenservice.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement 2/Fewo, Dusche, WC, 1 Schlafraum",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "Appartement hell eingerichtet mit Balkon, Safe, Dusche/WC, Fön, vollausgestattete Küche, Sitzecke, Couch, TV, Radio, W-Lan, Brötchenservice.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement 3/Fewo, Dusche, WC, 2 Schlafräume",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,298 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.appartements-wildmoos.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Appartements Wildmoos",
+    "streetAddress": "Hermannstalstr. 559",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 677 61 53 56 85",
+    "email": "office@appartements-wildmoos.at",
+    "url": "http://www.appartements-wildmoos.at"
+  },
+  "name": "Haus Wildmoos",
+  "description": [
+    "In ruhiger, sonniger Lage, nur wenige Gehminuten vom Ortszentrum, bieten wir Ihnen geräumige Zwei- und Dreizimmer-Wohnungen für zwei bis fünf Personen.\n\nIm Winter sind die Liftanlagen, Bergbahnen Rosshütte und Langlaufloipen, Tennishalle, Hallenbad, Reitstall und Kongresszentrum mit dem Gratis-Schibus (Haltestelle beim Haus) oder mit Ihrem Wagen leicht erreichbar. Das ganze Jahr über können Sie bei ausgedehnten Ausflügen auf den gepflegten Wanderwegen die herrliche Landschaft genießen. Wir sind Gründerhaus der Golfakademie. (Ermäßigungen)\n\n\n",
+    "Inklusiv: Heizung - Wäsche - Strom - Wasser\n",
+    "Anreise: ab 14.00 Uhr\nAbreise: bis 9.00 Uhr"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/68566c42-1418-4c6a-9395-8cd10c6a0c56/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c364585c-cc2e-4d15-8c52-909132821c99/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/13ae8ad0-c033-4752-9142-3503366583de/99/image.jpg",
+      "caption": "Wildsee"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/83b77e16-0283-49ab-8b4d-9d4421a12de5/99/image.jpg",
+      "caption": "Nördlingerhütte"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1b661029-8ce1-45bd-9dd3-84011281a634/99/image.jpg",
+      "caption": "Gipfel"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7eeb1e88-b61b-4bde-a36e-5fa94dcfc191/99/image.jpg",
+      "caption": "Seekirchel"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/55f2b6be-e59b-4dbb-8538-31ab5103d2ce/99/image.jpg",
+      "caption": "Seefeld im Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/42742047-270e-4fc5-9846-8610e226893d/99/image.jpg",
+      "caption": "Golfen in Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/39e50134-f1ea-4077-bf12-1e33803f5c82/99/image.jpg",
+      "caption": "Loipen"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3340893743812",
+    "longitude": "11.1924183368683"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 2 Schlafräume",
+      "description": "Ruhige sonnige Lage, großes und gemütliches Wohnzimmer mit Flachbildschirm (Kabelanschluss), Radio und geräumigem Südbalkon bzw. Terrasse mit Liegestühlen und kostemlosen W-LAN.\n\n2 Schlafzimmer mit einem Doppelbett und zwei Einzelbetten, Bad mit Badewanne und separates WC, Vorraum mit Garderobe, Bettwäsche und Handtücher vorhanden.\n\nKomplett eingerichtete Küche mit E-Herd, Backrohr, Kühlschrank, Mikrowelle, Kaffeemaschine, Wasserkocher, Geschirr und Geschirrtüchern.\n\nViel Stauraum in diversen Schränken und Kästen.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment A /2 Schlafräume/Bad, WC",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "66.00",
+          "maxPrice": "128.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "66.00",
+          "maxPrice": "128.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "66.00",
+          "maxPrice": "128.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "66.00",
+          "maxPrice": "128.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "79.00",
+          "maxPrice": "141.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "92.00",
+          "maxPrice": "154.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 2 Schlafräume",
+      "description": "Ruhige sonnige Lage, großes und gemütliches Wohnzimmer mit Flachbildschirm (Kabelanschluss), Radio und geräumigem Südbalkon bzw. Terrasse mit Liegestühlen und kostemlosen W-LAN.\n\n2 Schlafzimmer mit einem Doppelbett und zwei Einzelbetten, Bad mit Badewanne und separates WC, Vorraum mit Garderobe, Bettwäsche und Handtücher vorhanden.\n\nKomplett eingerichtete Küche mit E-Herd, Backrohr, Kühlschrank, Mikrowelle, Kaffeemaschine, Wasserkocher, Geschirr und Geschirrtüchern.\n\nViel Stauraum in diversen Schränken und Kästen.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment A online /2 Schlafräume/Bad, WC",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "SONNEN SKI(S)PASS Pauschale für 4 Tage",
+          "description": "SONNEN SKI(S)PASS Pauschale für 4 Tage:\ninkludiert einen 4 Tages Skipass für 4 Personen (Rosshütte und/oder Gschwandtkopf)\n",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/ab0cb1e7-d5b5-4373-9000-b307251844e1/99/image.jpg",
+              "caption": "Haus Wildmoos"
+            }
+          ],
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "4"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "66.00",
+          "maxPrice": "128.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "66.00",
+          "maxPrice": "128.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "66.00",
+          "maxPrice": "128.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "66.00",
+          "maxPrice": "128.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "79.00",
+          "maxPrice": "141.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "92.00",
+          "maxPrice": "154.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "877.00",
+          "maxPrice": "877.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "877.00",
+          "maxPrice": "877.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "877.00",
+          "maxPrice": "877.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Ruhige sonnige Lage, gemütliches Wohnzimmer mit Flachbildschirm (Kabelanschluss), Radio und geräumigen Südbalkon mit Liegestühlen und kostemlosen W-LAN.\n\nSchlafzimmer mit einem Doppelbett , Badezimmer mit Dusche und WC, Vorraum mit Garderobe, Bettwäsche und Handtücher vorhanden.\n\nKomplett eingerichtete Küche mit E-Herd, Backrohr, Kühlschrank, Mikrowelle, Kaffeemaschine, Wasserkocher, Geschirr und Geschirrtüchern.\n\nViel Stauraum in diversen Schränken und Kästen.\n\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment B /1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "43.00",
+          "maxPrice": "85.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "43.00",
+          "maxPrice": "85.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "54.00",
+          "maxPrice": "96.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

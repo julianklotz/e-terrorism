@@ -1,0 +1,114 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.landhaus-antonia.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Landhaus Antonia",
+    "streetAddress": "Innsbruckerstr. 10",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 4144",
+    "faxNumber": "(0043) 5212 414413",
+    "email": "sandra.niederkircher@gmx.at",
+    "url": "http://www.landhaus-antonia.at"
+  },
+  "name": "Landhaus Antonia",
+  "description": [
+    "Am Eingang der Fußgängerzone in ruhiger Lage gelegen möchten wir Sie gerne einladen einen angenehmen Urlaub zu verbringen. Bei gemütlicher Atmosphäre und gediegener Ausstattung werden Sie sich wohlfühlen.",
+    "Von MÜNCHEN kommend über Mittenwald, Scharnitz nach Seefeld, Ortseinfahrt Seefeld bis zum Kreisverkehr, diesen fast umrunden. Ausfahrt Römerweg bis zum nächsten Kreisverkehr, hier nach rechts die Reitherspitzstrasse hinunter bis zum Bahngleis, über das Bahngleis der Hauptstrasse folgend gegenüber dem Parkplatz befindet sich unser Appartementhaus Antonia gleich dahinter Landhaus Antonia.\n\nVon der INNTALAUTOBAHN kommend\nüber Kufstein/Innsbruck nehmen Sie die Ausfahrt Zirl/Seefeld über den Zirlerberg bis zur Einfahrt Seefeld West, dort Richtung Seefeld bis Anfang Fußgängerzone;\naus Richtung Schweiz, Ausfahrt, Telfs, dann nach Mösern - Seefeld, bei der Ortseinfahrung Seefeld nach rechts abbiegen, durch den Tunnel bei der nächsten Kreuzung nach links abbiegen und bis zum Parkplatz weiterfahren;\ngegenüber dem Parkplatz ist unser Appartementhaus Antonia, gleich dahinter Landhaus Antonia.\n"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0454962c-8c2b-49f8-81ae-66d1391e1388/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/94d29589-66ea-43d6-8c96-a322fae34082/99/image.jpg",
+      "caption": "Winter"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3271776736959",
+    "longitude": "11.1875313520432"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Einzelzimmer, Dusche, WC",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Einzelzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Für 2 Personen, Wohnküche mit SAT-TV, 1 Schlafzimmer, Dusche/ WC;",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

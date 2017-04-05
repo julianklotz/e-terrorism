@@ -1,0 +1,23 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure"
+  ],
+  "name": "am Wiesenhang-Parken",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "description": [
+    "für Busse",
+    "für Busse"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/528ccaf1-0479-4128-825a-6ebdcb2cdb0b/99/image.jpg",
+      "caption": "am Wiesenhang"
+    }
+  ]
+}

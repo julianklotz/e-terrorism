@@ -1,0 +1,322 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.appartement-renate.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Appartementhaus Renate",
+    "streetAddress": "Geigenbühelstr. 113",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 4200",
+    "faxNumber": "(0043) 5212 4200 4",
+    "email": "taxisailer@aon.at",
+    "url": "http://www.appartement-renate.at"
+  },
+  "name": "Appartementhaus Renate",
+  "description": [
+    "Unser familiär geführtes Haus liegt 6 Gehminuten vom Ortszentrum entfernt am Geigenbühel, im Sommer inmitten blühender Wiesen, im Winter direkt am  Skiübungshang. Es stehen ihnen 10 gemütliche Ferienwohnungen mit kompletter Küchenausstattung, Bettwäsche, Geschirr u. Handtücher zur Verfügung.",
+    "INKLUSIVE: Heizung, Strom, Wasser\nEXKLUSIVE: Telefonkosten",
+    "Unser Haus liegt am Geigenbühel, 6 Gehminuten vom Ortszentrum entfernt.\n\nCheck-In:   15:00 Uhr\nCheck-Out: 10:00 Uhr",
+    "Appartement,Ferienwohnung,W-Lan gratis,Überdachter Abstellplatz,Urlaub,Appartementhaus, "
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/dcd67e55-e01f-4339-b20a-98853c02162a/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/62025aab-d546-4e01-9a24-e2ddfe759a93/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e6d00ba8-3f26-42d2-894d-204f57df5838/99/image.jpg",
+      "caption": "Aufenthaltsraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/97e17e5e-188a-48ff-853f-e43ff8f3a716/99/image.jpg",
+      "caption": "Kneipp"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/55067a2e-a39d-47d3-9cb5-630cd38c3ab1/99/image.jpg",
+      "caption": "Kneipp 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/29c5bbe7-8c9b-491a-9428-4c3b1bae8abc/99/image.jpg",
+      "caption": "Aufenthaltsraum 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2b5f242d-79f7-4d2f-8d80-3a660e73d988/99/image.jpg",
+      "caption": "Infrarotkabine"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9219ddda-593d-419d-b5f0-3f891101a5a7/99/image.jpg",
+      "caption": "Rezeption"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3341838995249",
+    "longitude": "11.1897522211075"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "ca. 40-42m², 2 Personen, Küche, Wohnzimmer, Schlafzimmer, Dusche/WC, Balkon, TV,  Telefon, Südlage",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/Fewo, Dusche, WC, 1 Schlafraum",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "56.00",
+          "maxPrice": "85.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC",
+      "description": "ca. 34m² für 2 Personen, Küche, Wohnschlafraum, Bad, Balkon, TV, Telefon, ost-süd Lage",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement/Fewo, Bad, WC",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "42.00",
+          "maxPrice": "71.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "ca. 65m², 4 Personen, Vorraum, Wohnraum mit Küche, 2 Schlafräume, Balkon, DU/WC, TV, Telefon, Micro",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "79.00",
+          "maxPrice": "115.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "79.00",
+          "maxPrice": "115.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "79.00",
+          "maxPrice": "115.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 2 Schlafräume",
+      "description": "ca. 76m², 4 Personen, Wohnraum, 2 Schlafzimmer, Vorraum, Geschirrspüler, Dunsthaube, Küche, 2 Bäder / WC, 3 Farbfernseher, Terrasse süd",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement/Fewo, Bad, WC, 2 Schlafräume",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "101.00",
+          "maxPrice": "151.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "101.00",
+          "maxPrice": "151.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "101.00",
+          "maxPrice": "151.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Appartement mit ca. 32 qm für 2 Personen. Wohnzimmer, Kochnische, \nDusche und WC, Schlafzimmer, Balkon und Kabel-TV",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "45.00",
+          "maxPrice": "74.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "45.00",
+          "maxPrice": "74.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 3 Schlafräume",
+      "description": "ca. 80m², 4-6 Personen, Wohnraum, 2-3 Schlafzimmer, Vorraum, Geschirrspüler, Küche, 2 Duschen/ 2 WC, 3 Farbfernseher, Terrasse Süd!",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement/Fewo, Dusche, WC, 3 Schlafräume",
+          "numberOfRooms": "4.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "94.00",
+          "maxPrice": "123.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "94.00",
+          "maxPrice": "123.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "94.00",
+          "maxPrice": "123.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "134.00",
+          "maxPrice": "163.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "134.00",
+          "maxPrice": "163.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "Kaltwasser Challenge 2017 - Gaudi Bewerb",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Ski-Club Seefeld",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Möserer Str. 632a / Postfach 88",
+      "addressLocality": "Seefeld",
+      "postalCode": "6100",
+      "addressCountry": "AT",
+      "telephone": "+43521252789",
+      "faxNumber": "+43521252789",
+      "email": "info@ski-club-seefeld.com",
+      "url": "http://www.ski-club-seefeld.com"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Ski-Club Seefeld",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Möserer Str. 632a / Postfach 88",
+      "addressLocality": "Seefeld",
+      "postalCode": "6100",
+      "addressCountry": "AT",
+      "telephone": "+43521252789",
+      "faxNumber": "+43521252789",
+      "email": "info@ski-club-seefeld.com",
+      "url": "http://www.ski-club-seefeld.com"
+    }
+  },
+  "description": "Ein Gaudi-Rennen für Groß und Klein ist die Kaltwasser-Challenge auf der Rosshütte. Die Challenge umfasst unterschiedliche Disziplinen, es kann zwischen Einzelstart bzw. Mehrfachstart gewählt werden. Jede Disziplin wird für sich selbst gewertet. Vom Mountainbike \u0026 E-Bike Berg-Mopeding über Nordic Walking und den Berglauf für Erwachsene gibt es für die Kids das Kids Race Fahrradrennen und den Kaltwasserlauf. Für Spaß, Speis und Trank ist gesorgt. Informationen und Anmeldung unter Skiclub Seefeld, michaela.stark@ski-club-seefeld.com, Tel. 0664 4608072. \n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/745a8b56-ba26-4265-9ac0-ad86e21c1829/99/image.jpg",
+      "caption": "Kaltwasserchallenge 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/46de0d80-1806-4112-b34a-d0c43ecc5ad3/99/image.jpg",
+      "caption": "Kaltwasserchallenge"
+    }
+  ],
+  "url": [
+    "http://www.seefeld-sports.at",
+    "http://www.ski-club-seefeld.com"
+  ],
+  "startDate": "2017-09-03T13:40:00",
+  "endDate": "2017-09-03"
+}

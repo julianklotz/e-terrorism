@@ -1,0 +1,131 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.hauspircher.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Ferienwohnung Pircher",
+    "streetAddress": "Römerstr. 14",
+    "addressLocality": "Reith bei Seefeld",
+    "postalCode": "6103",
+    "addressCountry": "AT",
+    "telephone": "0043 5212 3015",
+    "faxNumber": "(0043) 5212 3015",
+    "email": "hauspircher@aon.at",
+    "url": "http://www.hauspircher.at"
+  },
+  "name": "Ferienwohnung Pircher",
+  "description": [
+    "Komfortable Ferienwohnung in sonniger Südlage auf einer Anhöhe gelegen! Im Dorfzentrum von Reith mit herrlichem Ausblick. Ausgestattet mit SAT-TV, zwei Balkonen. Separates WC, Bad mit Doppelwaschbecken, Dusche und Badewanne. Komplett eingerichtete Küche mit Spülmaschine und Mikrowelle.\nWander- und Schibus in unmittelbarer Nähe. 2 Gasthäuser und 1 Kinderspielplatz 2 Minuten entfernt. Brotservice auf Anfrage.",
+    "incl. Heizung, Strom, Wasser\n",
+    "Check-in: 12.00 Uhr\nCheck-out: 10.00 Uhr\nDirekt im Ortszentrum von Reith, gegenüber Gemeindeamt!"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f8a6e246-ed51-4ef2-8371-61e8af23779a/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9d7f8811-bed6-446c-9735-7a326d91453e/99/image.jpg",
+      "caption": "Sommer "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5ac1bf55-d8b6-4863-bb51-b5822cb0722f/99/image.jpg",
+      "caption": "Winter 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5c3f6f90-9a3d-4bea-a580-d10227dde0ef/99/image.jpg",
+      "caption": "Garten Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a44effb6-1e68-4c42-8103-ee83b66ee747/99/image.jpg",
+      "caption": "Aussicht Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/48464bc2-1189-44c1-99ea-f384469ebefa/99/image.jpg",
+      "caption": "Rosenblüte"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b8e982bd-2ce6-4fb0-9b6d-9749b568f662/99/image.jpg",
+      "caption": "Garten Herbst"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2997894978834",
+    "longitude": "11.2027625272675"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 3 Schlafräume",
+      "description": "Neue komfortable Ferienwohnung in sonniger Südlage!Im Dorfzentrum von Reith mit herrlichem Ausblick. Ausgestattet mit SAT-TV und zwei Balkone. Separates WC; Bad mit Doppelwaschbecken, Dusche und Badewanne. Wander- und Schibus in unmittelbarer Nähe.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/3 Schlafräume/Dusche, Bad, WC",
+          "numberOfRooms": "4.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "60.00",
+          "maxPrice": "65.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "80.00",
+          "maxPrice": "90.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "110.00",
+          "maxPrice": "120.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "135.00",
+          "maxPrice": "150.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "150.00",
+          "maxPrice": "155.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

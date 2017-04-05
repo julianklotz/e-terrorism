@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure"
+  ],
+  "name": "Möserer Str. beim Hotel Inntalerhof-Parken",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3117999",
+    "longitude": "11.1456724"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Panoramahotel Inntalerhof",
+    "streetAddress": "Möserer Dorf Strasse  2",
+    "addressLocality": "Mösern",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "+4352124747",
+    "faxNumber": "+435212474747",
+    "email": "info@inntalerhof.com",
+    "url": "http://www.inntalerhof.at"
+  },
+  "description": [
+    "für Busse und PKW (Kurzparkzone mit Parkscheibe)",
+    "für Busse und PKW (Kurzparkzone mit Parkscheibe)"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8623261d-8ba4-448f-9e78-a3d271c3c824/99/image.jpg",
+      "caption": "Möserer Str. beim Hotel Inntalerhof"
+    }
+  ]
+}

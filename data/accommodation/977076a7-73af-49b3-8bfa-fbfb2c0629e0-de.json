@@ -1,0 +1,195 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.liedlhof.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Liedlhof",
+    "streetAddress": "Platzl 101 a",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6645",
+    "faxNumber": "(0043) 5214 6645",
+    "email": "info@liedlhof.at",
+    "url": "http://www.liedlhof.at"
+  },
+  "name": "Liedlhof - Pferdehof",
+  "description": [
+    "Unser Hof mit freier sonniger Aussichtslage, direkt an der Loipe, Überdachte Autoabstellplätze, Sauna kostenlos, Kutschenfahrten (Vor- und Nachsaison eine gratis), Pony u. Haflingerreiten-gratis, Reitplatz, Streicheltiere, Spielzimmer, großer Spielplatz, eigenes Hofmuseum, Kneippbecken, Grillabende mit offenem Kamin.",
+    "Inklusive:\nInfrarotsauna, Strom, überdachte Autoabstellplätze, Pony u. Haflingerreiten, Vor- und Nachsaison eine Kutschenfahrt,  Waschmaschinenbenützung,  Bett, Tisch u. Handwäsche, Brotservice, Tischtennis, Reitplatzbenützung\nExklusive:\nOrtstaxe, Endreinigung",
+    "von Seefeld nach Weidach, Hauptort durchfahren, dann links Richtung Oberleutasch bei der Kirche vorbei. Bei der Reithalle links dem grünen Wegweise \"Liedlhof\" folgend nach Obern ist rechts unser freistehender Hof.\nvon Telfs: gerade aus nach Ostbach durch bis zur Abzweigung, dann links dem grünen Wegweiser folgend gleich der zweite Hof."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d81c138b-006f-4468-b1aa-108cd5ab7bd7/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0561fea0-9d88-4ab8-b64f-4105f8c564c8/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8ca6655c-0c9a-4d58-a78b-4989d1d8af5d/99/image.jpg",
+      "caption": "Spielplatz"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/cd693106-69b5-435c-a967-b870e5ad1999/99/image.jpg",
+      "caption": "Spielzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a3ec4716-39b5-48fd-878c-648527a1f93c/99/image.jpg",
+      "caption": "Sauna"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b3c20a96-b83b-4072-973c-c9407fa3f3d0/99/image.jpg",
+      "caption": "Sauna 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d2f7b699-9ab1-4948-90e1-2bcd05af2865/99/image.jpg",
+      "caption": "Pferd"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7bcd258c-6502-450b-b449-d3345f31263f/99/image.jpg",
+      "caption": "Kutschenfahrt"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/11af1b47-20cc-49d7-a83b-90d016b8e327/99/image.jpg",
+      "caption": "Pferd 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/983bc3b3-956d-4c4c-8e10-8f175e8cdab0/99/image.jpg",
+      "caption": "Pferd 3"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3614496923204",
+    "longitude": "11.1324672619019"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Gemütliches Wohnzimmer mit einem abgeschlossenen Schlafzimmer, einem abgeschlossenem Wohnschlafzimmer mit neuer Matratzencouch, Kochnische komplett ausgestattet, Essecke, DU/WC, Vorraum, sonniger Süd-Balkon. Direkteinstieg in die Loipe. Hofangebot:Überdachte Autoabstellplätze, i.Sommer Gratis- Eintritt ins Erlebnisbad,Sauna,Heubettruheraum , Gratis Reiten,Kutschenfahrten,Gratis Loipenbenützung,beheizter Schiu.Schuhraum,Bio- Hof,umweltfreundliche Holzheizung,WLAN",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment Nr. 1, 2/1 Schlafraum/Dusch",
+          "description": "Gemütliche Wohnung mitallem Komfort, einem abgeschlossenem Schlafzimmer einem abgeschlossenem Wohnschlafzimmer mit neuer Matratzencouch,Kochnische mit Essecke komplett ausgestattet auch Microwelle,DU/WC Vorraum Südbalkon mit freier Aussicht auf ein herrliches Gebirgspanorama.Direkteinstieg in Loipe.Bushaltestelle hinterm Haus.Zentrale Lage am Eingang ins Wanderparadies Gaistal.Incl. Gratis- Reiten, Gratis geführte Wanderungen, i. Sommer Gratis Eintritt ins Erlebnisbad,Kutschenfahrten,Schikurs;  ",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "74.00",
+          "maxPrice": "74.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "82.00",
+          "maxPrice": "82.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Terrassen-Wohnung mit traumhafter Aussicht, ein abgeschlossenes Schlafzimmer, ein großes abgeschlossenes Wohnschlafzimmer mit neuer Matratzencouch, Wohnküche mit Essecke, 2x DU/WC,Hofangebot:Gratis- Loipenbenützung(Direkteinstieg),Geheizter Schi und Schuhraum,überdachte Autoabstellplätze,Gratis Sauna,Schlittten-bzw. Kutschenfahrten,Bio-Hof,umweltfreundliche Holzheizung,Gratis Reiten,i.So. Gratis Eintritt ins Erlebnisbad,Gratis Wanderungen,\nGratis Wanderungen,  ",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment Nr. 3/1 Schlafraum/2 Du, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": [
+        "Gemütliche Wohnung mit 2 abgeschlossenen Schlafzimmern, Wohnzimmer, Kochnische, Essecke, 2x DU/WC, Vorraum, sonniger Süd-Balkon mit herrlicher Aussicht auf unsere Tiroler Berge, direkt an der Loipe,  Hofangebot: Gratis Reiten, Gratis Eintritt im Sommer in das Erlebnisbad, Gratis Loipenbenützung,eine Gratis Schlitten bzw. Kutschenfahrt in der Vor und Nachsaison, Bio Hof mit glücklichen Hühnern,\nUmweltfreundliche Holzheizung, Gratis Benutzung der Infrarot-Sauna,Überdachte Autoabstellplätze,",
+        "Gemütliche Wohnung mit 2 abgeschlossenen Schlafzimmern, Wohnzimmer, Kochnische, Essecke, 2x DU/WC, Vorraum, sonniger Süd-Balkon mit herrlicher Aussicht auf unsere Tiroler Berge.Incl. Bett -Handwäsche,Brotservice, Kinderaustattung. Direkteinstieg in die Loipe,am Adlerweg und am Eingang ins Wanderparadies Gaistal.\nGratis Eintritt ins Erlebnisbad, gratis Reiten,gratis geführte Wanderungen, Kutschenfahrten,Bio-Betrieb,Erlebnis pur in traumhafter Lage",
+        "Gemütliche Wohnung mit 2 abgeschlossenen Schlafzimmern, Wohnzimmer, Kochnische, Essecke, 2x DU/WC, Vorraum, sonniger Süd-Balkon mit herrlicher Aussicht auf unsere Tiroler Berge.Incl. Bett -Handwäsche,Brotservice, Kinderaustattung. Direkteinstieg in die Loipe,am Adlerweg und am Eingang ins Wanderparadies Gaistal.\nGratis Eintritt ins Erlebnisbad, gratis Reiten,gratis geführte Wanderungen, Kutschenfahrten,Bio-Betrieb,Erlebnis pur in traumhafter Lage"
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/2 Schlafräume/Dusche, WC",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "78.00",
+          "maxPrice": "78.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "78.00",
+          "maxPrice": "78.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "78.00",
+          "maxPrice": "78.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

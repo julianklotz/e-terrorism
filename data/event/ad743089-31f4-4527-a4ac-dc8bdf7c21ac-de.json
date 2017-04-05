@@ -1,0 +1,51 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "Vortrag \"Unterwegs am Pilgerweg nach Rom\"",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Kunst- und Kulturverein Scharnitz",
+    "employee": {
+      "@type": "Person",
+      "givenName": "Marco",
+      "familyName": "Blaha"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Gießenbach 327",
+      "addressLocality": "Scharnitz",
+      "postalCode": "6108",
+      "addressCountry": "AT",
+      "telephone": "(0043) 5213 5464",
+      "email": "kkv-scharnitz@gmx.at",
+      "url": "http://www.kkvs.at"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Kunst- und Kulturverein Scharnitz",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Gießenbach 327",
+      "addressLocality": "Scharnitz",
+      "postalCode": "6108",
+      "addressCountry": "AT",
+      "telephone": "(0043) 5213 5464",
+      "email": "kkv-scharnitz@gmx.at",
+      "url": "http://www.kkvs.at"
+    }
+  },
+  "description": "Auf den Spuren von Kaisern und Pilgern über die alte Brennerroute bis zu den Gräbern der Apostelfürsten in die \"Ewige Stadt Rom\". Vortrag von Ferdinand Treml und Mag. Franziska Horny.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/69b21bcc-e904-4b2a-b56a-cbc6a24ca807/99/image.jpg",
+      "caption": "KKV"
+    }
+  ],
+  "startDate": "2017-03-29T19:00:00",
+  "endDate": "2017-03-29"
+}

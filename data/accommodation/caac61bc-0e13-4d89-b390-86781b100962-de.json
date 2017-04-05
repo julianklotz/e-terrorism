@@ -1,0 +1,245 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://www.ferienwohnungseefeld.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Aparthotel Charlotte Exclusiv",
+    "streetAddress": "Claudiastr. 368",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2652",
+    "faxNumber": "(0043) 5212 2652 6",
+    "email": "info@hotel-charlotte.com",
+    "url": "www.ferienwohnungseefeld.at"
+  },
+  "name": "Aparthotel Charlotte Exclusiv",
+  "description": [
+    "Neuerrichtetes  Appartementhaus (2008) im gemütlichen Landhausstil, absolut ruhige Lage. Ferienwohnungen für gehobene Ansprüche mit angeschlossenem Beauty- und Wellnessbereich (Hallenbad, verschiedene Saunen, Whirlpools und Solarium.Bitte beachten Sie, dass der Wellnessbereich und der Innenpool nur von Mitte Dezember bis Mitte März und von Ende Mai bis Mitte Oktober geöffnet sind. Tiefgaragenplatz inklusive!",
+    "Inklusive: Heizung, Wasser, Strom, Tiefgaragenplatz, Hallenbad, vw. Saunen, Dampfbad, WLAN-Internet,  Wanderprogramm (Sommer), 2x Kabel TV, Bettwäsche, Handtücher\nExclusive: Telefonkosten, Gästewaschküche, Mahlzeiten",
+    "Check in: 15.00 Uhr\nCheck out: 11.00 Uhr\nAbfahrt Seefeld Nord (braune Wegweiser) immer gerade aus, nach Hotel Tyrol - links in die Haspingerstraße abbiegen!"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5e068570-404c-4434-9247-8493a7cc032e/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ecfdf778-8880-4d74-a7a7-f60c7858df28/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7b41fff6-8769-446e-b256-7c14c9d7327f/99/image.jpg",
+      "caption": "Winter 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6e071848-31d9-4c11-9de4-7c844534e1b3/99/image.jpg",
+      "caption": "Hallenbad"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/19fe64c5-c616-4308-aa56-6f5992345bbb/99/image.jpg",
+      "caption": "Spielplatz"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/acbb0199-19e4-4e5a-89bf-712a3ad0be96/99/image.jpg",
+      "caption": "Ruheraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/54c3bf4b-de48-489c-946f-c0ffba876bd8/99/image.jpg",
+      "caption": "Sauna"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/260b4762-c737-4072-9ef3-cbdb50de6cef/99/image.jpg",
+      "caption": "Stube"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3326169416431",
+    "longitude": "11.1932873725891"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 1 Schlafraum",
+      "description": "großzügige 2-Raumwohnung mit Westbalkon, 2 Bäder, Küche mit Geschirrspüler (2-4 Pax)",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Nordkette Top 7",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "125.00",
+          "maxPrice": "225.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "62.50",
+          "maxPrice": "215.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "41.67",
+          "maxPrice": "225.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "31.25",
+          "maxPrice": "235.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 3 Schlafräume",
+      "description": "Luxeriöses 4- Raumappartement mit Kachelofen und Garten nach Süden, 2 Bäder, Küche mit Geschirrspüler;",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Lechtal Top 11",
+          "numberOfRooms": "4.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "8",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "112.50",
+          "maxPrice": "160.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "75.00",
+          "maxPrice": "106.67",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "56.25",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "45.00",
+          "maxPrice": "64.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "37.50",
+          "maxPrice": "310.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 7",
+          "minPrice": "35.00",
+          "maxPrice": "330.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 2 Schlafräume",
+      "description": "sehr schöne vollausgestattete und geräumige  3-Raumappartements mit Balkon bzw. Terrasse, 2 Bäder, Küche mit Geschirrspüler;",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Top 1-6 und Top 8 \u0026 10",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "87.50",
+          "maxPrice": "280.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "58.33",
+          "maxPrice": "280.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "43.75",
+          "maxPrice": "280.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "39.00",
+          "maxPrice": "300.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.appartementhaus-iris.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Appartmenthaus Iris",
+    "streetAddress": "Weidach 319",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6222",
+    "faxNumber": "(0043) 5214 62225",
+    "email": "iris.a.krug@tele2.at",
+    "url": "http://www.appartementhaus-iris.at"
+  },
+  "name": "Appartementhaus Iris",
+  "description": [
+    "Wohlfühlen ist eine Sache, die sich nur über die Sinne erfahren lässt. Wir möchten unseren Teil dazu beitragen, damit Sie mit sich und der Welt rundherum glücklich und zufrieden sein können und dieses Wohlbefinden mit nach Hause nehmen...\nSie finden uns in WEIDACH, ruhig und dennoch zentrl gelegen, direkt an der Achenpromenade. Geschäfte sind nur wenige Gehminuten entfernt, ebenso wie der Schilift und die Erlebniswelt Alpenbad Leutasch; Loipeneinstiege in unmittelbarer Nähe. Unser großer Garten und ein gemütlicher \"Zeitraum\" mit Bibliothek laden zum Entspannen ein. Wir freuen uns auf Sie!",
+    "INKLUSIVE: Heizung, Strom, Wasser\n\nEXKLUSIVE: Endreinigung, Ortstaxe, Telefongesprächskosten, Frühstück, Massage, Unkostenbeiträge für verschiedene Freizeitangebote\n\nHeuer im Sommer\u0026 Herbst Aktionswochen! Preise auf Anfrage!",
+    "Check-In 14.00 Uhr / Check-Out 10.00 Uhr\n\nVon Seefeld kommend: auf der Hauptstraße entlang durch den Ortsteil Weidach - letztes Haus auf der rechten Seite vor der Brücke\n\nVon Mittenwald kommend: erstes Haus auf der linken Seite im Ortsteil Weidach"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5216220f-6b22-4a98-aab1-6b8c2385b958/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ac5e5feb-54bc-4300-b262-e6f456f43c79/99/image.jpg",
+      "caption": "Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.372715592965",
+    "longitude": "11.16359192631"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Liebevoll eingerichtete Ferienwohnung mit Schlafzimmer (Franz. Bett), Wohnzimmer mit Sitzecke/Schlafcouch, SAT-TV, Telefon, Wohnküche, Dusche/WC, großer Sonnenbalkon - Bergpanorama;\nAUF WUNSCH MIT FRÜHSTÜCK!",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment 15 /1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "60.00",
+          "maxPrice": "60.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "60.00",
+          "maxPrice": "60.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Großes Schlafzimmer, Wohnzimmer mit Schlafcouch, SAT-TV und Telefon, kleine Küche, Dusche/WC, großer Sonnenbalkon;\nAUF WUNSCH MIT FRÜHSTÜCK!",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment 11/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "60.00",
+          "maxPrice": "60.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "60.00",
+          "maxPrice": "60.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Schlafzimmer, Wohnzimmer mit SAT-TV und Telefon, kleine Küche, Dusche/WC, Terrasse;\nAUF WUNSCH MIT FRÜHSTÜCK!",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment 7/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment 9 / Wohn-Schlafraum/Dusche, WC",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment 10 / 1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BeautySalon",
+    "HealthAndBeautyBusiness"
+  ],
+  "name": "Ingrid Rieck/Klangmassage",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3315449152676",
+    "longitude": "11.1892872153443"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Münchner Str. 771",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 6641011667",
+    "email": "ingridrieck@ymail.com"
+  },
+  "description": [
+    "Klangmassage nach Peter Hess\n",
+    "Termine nach Vereinbarung"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8307a7c8-7291-44d0-b766-766e884967b0/99/image.png",
+      "caption": "Klangmassage"
+    }
+  ],
+  "url": [
+    "http://"
+  ]
+}

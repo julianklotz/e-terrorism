@@ -1,0 +1,33 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure",
+    "LocalBusiness"
+  ],
+  "name": "Feuerwehr / Leutasch-Unterkirchen",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.4170855",
+    "longitude": "11.2130613"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Unterkirchen 274a",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6820",
+    "url": "http:/www.inno-com.com/fful"
+  },
+  "description": "Unterkirchen 274 a\nTel.: +43 5214/6820\n\nNotruf: 122",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/31f365f5-1b53-4b31-b15d-514d07ded055/99/image.jpg",
+      "caption": "Feuerwehr Leutasch"
+    }
+  ],
+  "url": [
+    "http://www.inno-com.com/fful"
+  ]
+}

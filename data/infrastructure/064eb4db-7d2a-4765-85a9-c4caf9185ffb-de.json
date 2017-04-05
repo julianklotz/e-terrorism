@@ -1,0 +1,29 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure"
+  ],
+  "name": "Autowerkstatt Sailer Arja",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3141237046619",
+    "longitude": "11.1992303214264"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Mercedeswerkstätte",
+    "streetAddress": "Auland Gstoag 2",
+    "addressLocality": "Reith bei Seefeld",
+    "postalCode": "6103",
+    "addressCountry": "  ",
+    "telephone": "0043 5212 2224",
+    "email": "sailer.arja@aon.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/faa5d7b3-595b-4fd7-ba04-9c55f0da0b09/99/image.jpg",
+      "caption": "Logo"
+    }
+  ]
+}

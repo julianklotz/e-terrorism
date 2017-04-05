@@ -1,0 +1,67 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://home.arcor.de/ferienhaus-tirol/",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Jentschke",
+    "streetAddress": "Emmat 371 b",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0049) 5507 1469",
+    "email": "Georg.Jentschke@web.de",
+    "url": "http://home.arcor.de/ferienhaus-tirol/"
+  },
+  "name": "Haus Jentschke",
+  "description": [
+    "Ruhiges und geräumiges Ferienhaus (\u003e 90m²) mit offenem Kamin und Zentralheizung in sonniger Lage im Ortsteil Emmat auf  1100 m² Naturgrundstück. Internetanschluss. 5 Minuten zur Loipe oder Rodelbahn. Im Sommer günstiger Ausgangspunkt zum Bergwandern.",
+    "Nebenkosten:\nWasser: inklusiv\nHeizung: 6 Ct pro kWh je nach Verbrauch (5 € bis max. 15 € pro Tag im Winter; 1-2€ pro Tag im Sommer) \nStrom: 15 Ct pro kWh \nOrtstaxe\nDie Endreinigung ist vom Gast selbst durchzuführen."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5f5a8238-0972-445a-baed-a29eca4bc2e5/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9e5d618a-8927-4ae9-8be4-075e946b856e/99/image.jpg",
+      "caption": "Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.378003169944",
+    "longitude": "11.1741714135946"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Ferienhaus, Dusche und Bad, WC, 4 oder mehr Schlafräume",
+      "description": "Ferienhaus mit ca. 95 m²",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Ferienhaus/4 od. mehr Schlafr./Du,Bad,WC",
+          "numberOfRooms": "5.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "9",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

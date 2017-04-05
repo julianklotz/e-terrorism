@@ -1,0 +1,98 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": [
+      "Event"
+    ],
+    "name": "Kutschennachtfahrt zur Lottenseehütte",
+    "eventStatus": "http://schema.org/EventScheduled",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Pfarrkirche Maria Heimsuchung",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Kirchweg 4",
+        "addressLocality": "Mösern",
+        "postalCode": "6100",
+        "addressCountry": "AT",
+        "telephone": "+4350880520",
+        "faxNumber": "+4350880521",
+        "email": "info.moesern@seefeld.com",
+        "url": "http://www.seefeld.com"
+      }
+    },
+    "location": {
+      "@type": "Place",
+      "name": "Pfarrkirche Maria Heimsuchung",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Kirchweg 4",
+        "addressLocality": "Mösern",
+        "postalCode": "6100",
+        "addressCountry": "AT",
+        "telephone": "+4350880520",
+        "faxNumber": "+4350880521",
+        "email": "info.moesern@seefeld.com",
+        "url": "http://www.seefeld.com"
+      }
+    },
+    "description": "Dauer ca. 2,5 h, Preis exkl. Konsumation: € 20,00 (Erw.) und € 10,00 (Kd.: 6-11 J.). Anmeldung (bis zum Vortag um 12:00 Uhr) im Informationsbüro unter Tel. 05 0880-20.",
+    "image": [
+      {
+        "@type": "ImageObject",
+        "url": "http://resc.deskline.net/images/SEE/1/c91945f7-cda9-47ff-9030-790c56494e79/99/image.jpg",
+        "caption": "Kutschennachtfahrt zur Lottenseehütte"
+      }
+    ],
+    "startDate": "2016-12-22T19:00:00",
+    "endDate": "2017-03-23"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": [
+      "Event"
+    ],
+    "name": "Kutschennachtfahrt zur Lottenseehütte",
+    "eventStatus": "http://schema.org/EventScheduled",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Pfarrkirche Maria Heimsuchung",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Kirchweg 4",
+        "addressLocality": "Mösern",
+        "postalCode": "6100",
+        "addressCountry": "AT",
+        "telephone": "+4350880520",
+        "faxNumber": "+4350880521",
+        "email": "info.moesern@seefeld.com",
+        "url": "http://www.seefeld.com"
+      }
+    },
+    "location": {
+      "@type": "Place",
+      "name": "Pfarrkirche Maria Heimsuchung",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Kirchweg 4",
+        "addressLocality": "Mösern",
+        "postalCode": "6100",
+        "addressCountry": "AT",
+        "telephone": "+4350880520",
+        "faxNumber": "+4350880521",
+        "email": "info.moesern@seefeld.com",
+        "url": "http://www.seefeld.com"
+      }
+    },
+    "description": "Dauer ca. 2,5 h, Preis exkl. Konsumation: € 20,00 (Erw.) und € 10,00 (Kd.: 6-11 J.). Anmeldung (bis zum Vortag um 12:00 Uhr) im Informationsbüro unter Tel. 05 0880-20.",
+    "image": [
+      {
+        "@type": "ImageObject",
+        "url": "http://resc.deskline.net/images/SEE/1/c91945f7-cda9-47ff-9030-790c56494e79/99/image.jpg",
+        "caption": "Kutschennachtfahrt zur Lottenseehütte"
+      }
+    ],
+    "startDate": "2017-06-22T19:00:00",
+    "endDate": "2017-09-07"
+  }
+]

@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Church"
+  ],
+  "name": "St. Magnus Kapelle",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2900053633068",
+    "longitude": "11.2207849763183"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Pfarramt Reith",
+    "streetAddress": "Römerstraße 24",
+    "addressLocality": "Reith bei Seefeld",
+    "postalCode": "6103",
+    "addressCountry": "AT",
+    "telephone": "(0043)521252782 ",
+    "email": "Pfarre.Reith@dibk.at",
+    "url": "http://www.dibk.at"
+  },
+  "description": [
+    " \n\n\n",
+    "Diese Kapelle stand mitten im Dörfl neben einem Meilenstein und soll der Überlieferung nach älter als die Kirche in Reith sein. Die im Jahre 1780 an dieser Stelle erbaute barocke Kapelle wurde um 1900 durch einen Sakristei- und Turmbau erweitert; wohl zu der Zeit, in der nach dem Brand in Reith kein Gottesdienst möglich war und zeitweise der Pfarrer auch in Leithen wohnte. Mit Rücksicht auf den Schlechten Bauzustand und wegen der ungünstigen Lage an der Straße wurde die Kapelle 1980 abgebrochen und in der ursprünglichen Form 50m nördlich auf die Anhöhe versetzt. Alle Kunstgegenstände wurden restauriert und die Decke von Johannes Obleitner mit Fresken geschmückt. Den Altar schmückt jetzt ein altes Hinterglasbild „die Mutter vom guten Rat“. Die Figuren,der Heiligen Nikolaus und Martin, sowie der Tabernakel aus Stuckmarmor entstanden am Ende des 18. Jahrhunderts. Die Deckenfresken St. Magnus und St. Pankraz schuf der ortsansässige Künstler Johannes Obleitner mit 86 Jahren als eines seiner letzten Werke 1979. Der Tag des hl. Magnus, der 6. September, war seit jeher der Leithner Kirchtag\n\n\n"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ada7e37a-6939-40fc-a2db-550a54b10260/99/image.jpg",
+      "caption": "Magnus Kapelle"
+    }
+  ]
+}

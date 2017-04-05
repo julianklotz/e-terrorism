@@ -1,0 +1,37 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "GovernmentOffice"
+  ],
+  "name": "Fundamt Reith",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2995733427108",
+    "longitude": "11.2024919079346"
+  },
+  "openingHours": [
+    "Mon,Tue,Wed,Thu,Fri 08:00-12:00"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Gemeindeamt Reith bei Seefeld",
+    "streetAddress": "Lauserweg 15",
+    "addressLocality": "Reith bei Seefeld",
+    "postalCode": "6103",
+    "addressCountry": "AT",
+    "telephone": "(0043)5212 3116",
+    "email": "amtsleiter@reith-seefeld.at",
+    "url": "http://www.reith-seefeld.at/"
+  },
+  "description": [
+    "Auch im Infobüro Reith können Fundgegenstände abgegeben werden!",
+    "Auch im Infobüro Reith können Fundgegenstände abgegeben werden!"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1fcce86c-c5bb-438a-8fb3-3509d36b893c/99/image.png",
+      "caption": "Foto"
+    }
+  ]
+}

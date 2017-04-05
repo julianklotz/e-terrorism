@@ -1,0 +1,42 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "Hl. Messe Ostersonntag",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Pfarrkirche Hl. Johannes",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Unterkirchen",
+      "addressLocality": "Leutasch",
+      "postalCode": "6105",
+      "addressCountry": "AT",
+      "telephone": "(0043)52146235"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Pfarrkirche Hl. Johannes",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Unterkirchen",
+      "addressLocality": "Leutasch",
+      "postalCode": "6105",
+      "addressCountry": "AT",
+      "telephone": "(0043)52146235"
+    }
+  },
+  "description": "Hochfest der Auferstehung des Herrn mit Speisensegnung. Musikalische Umrahmung: Orgel Paul Humer",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1a7d677d-0e8f-43f1-bf35-420712a6025d/99/image.jpg",
+      "caption": "Kirche UL"
+    }
+  ],
+  "startDate": "2017-04-16T08:30:00",
+  "endDate": "2017-04-16"
+}

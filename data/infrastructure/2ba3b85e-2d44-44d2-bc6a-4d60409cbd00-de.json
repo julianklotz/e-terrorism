@@ -1,0 +1,22 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Store",
+    "ClothingStore"
+  ],
+  "name": "By Cala Golf",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3286284423179",
+    "longitude": "11.1874294281006"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "By Cala Golf",
+    "streetAddress": "Reitherspitzstr. 138",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043)699 16066064"
+  }
+}

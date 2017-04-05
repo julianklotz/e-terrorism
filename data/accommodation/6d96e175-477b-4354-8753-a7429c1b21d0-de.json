@@ -1,0 +1,149 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.haus-seyrling.com",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Seyrling Adolf",
+    "streetAddress": "Am Kirchwald 311",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 20671",
+    "email": "fredi.seyrling@gmx.at",
+    "url": "http://www.haus-seyrling.com"
+  },
+  "name": "Haus Seyrling Adolf",
+  "description": [
+    "Privathaus in zentraler Lage. Ermäßigter Eintritt ins Olympiabad (Montag - Freitag), Loipennähe. Zwei gemütliche 2-Zimmer-Appartements für 2-3 Personen mit je 2 Balkonen. Schöner Blick zu den Bergen. Sonnenterrasse, Parkmöglichkeit und Garage beim Haus. Sommer wie Winter, idealer Ausgangspunkt für Wanderungen.",
+    "Inklusive: Heizung, Wasser, Stromkosten, Parkplatz,ermäßigter Eintritt ins Hallenbad \"Olympia\", Bettwäsche und Handtücher, Küchenartikel, Toilettenpapier\nExklusive: Telefongesprächskosten, Garage 1,50 - 3.--",
+    "Check-In 15.00 Uhr / Check-Out 10.00 Uhr\nAus Deutschland kommend Seefeld Nord Zentrum ausfahren, von hier 1,3 km immer geradeaus, am Ende der Münchnerstrasse rechts in die Olympiastrasse einbiegen, am Ende links in Richtung Telfs abbiegen. Gleich nach 20m die erste Strasse rechts hinauffahren, Wegweiser \"Am Kirchwald\". Dann sehen sie schon in 20m links das Haus Seyrling."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/877eff79-7e5d-4809-8740-e88e706194fe/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1483716d-2b78-4f4c-8bd7-7c3a3acf44e9/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ea1e4aab-1c3c-436f-9e5a-bab4b10c21ff/99/image.jpg",
+      "caption": "Sommer 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/31e83c34-e77f-4c70-a90d-0d109333a34c/99/image.jpg",
+      "caption": "Reither Spitze"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/66472b4a-1c96-48c9-b7e5-8c2182237fdb/99/image.jpg",
+      "caption": "Haus"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b49cbf2b-2854-4b70-b695-bb74af842406/99/image.jpg",
+      "caption": "Aussicht Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/babb13cb-df82-4965-a033-652eaa254288/99/image.jpg",
+      "caption": "Seekircherl Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/be2fa432-5cca-4397-a89f-c575884ed780/99/image.jpg",
+      "caption": "Seekircherl Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/fc50dd0c-3f9a-4333-b895-071df6592869/99/image.jpg",
+      "caption": "Regenbogen"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.329034288753",
+    "longitude": "11.181236020232"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 1 Schlafraum",
+      "description": "Komfortapp. mit 55m² für 2 Pers. schöner Ausblick.Komplett-Küche, mit Bad mit Badewanne.Gemütlich ländl. mit Bauernofen. 2 Balkone, SAT-TV, Radio. Info: www.haus-seyrling.com",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "App. 01/1 Schlafraum/Bad, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "57.00",
+          "maxPrice": "120.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Für 2-3 Pers., schöner Ausblick. Komplett-Küche, 2Balkone, DU/WC, SAT-TV, Radio, Save.Info: www.haus-seyrling.com",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "App. 02/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "57.00",
+          "maxPrice": "115.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "64.00",
+          "maxPrice": "115.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

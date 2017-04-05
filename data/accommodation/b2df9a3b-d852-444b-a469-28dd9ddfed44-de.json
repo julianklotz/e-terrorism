@@ -1,0 +1,188 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://www.gasthof-hirschen.com",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Gasthof Hirschen",
+    "streetAddress": "Leithener-Dorf-Strasse 9",
+    "addressLocality": "Reith bei Seefeld",
+    "postalCode": "6103",
+    "addressCountry": "AT",
+    "telephone": "0043 5212 3155",
+    "faxNumber": "(0043) 5212 3155 22",
+    "email": "info@gasthof-hirschen.com",
+    "url": "www.gasthof-hirschen.com"
+  },
+  "name": "Gasthof Hirschen",
+  "description": [
+    "Herzlich willkommen in unserem seit 1756 familiär geführten Gasthof Hirschen in Leithen/ Reith bei Seefeld. Der 3-Sterne Traditionsbetrieb, am Sonnenplateau Reith, auf 1130m, ist stets auf persönlichen Service und Tradition bedacht!\nLeithen, ein idyllischer Ortsteil von Reith bei Seefeld liegt 24km nördlich von Innsbruck und nur vier km südlich von Seefeld. Der für Skifahrer und Langläufer kostenlose Regionsbus, hält direkt vor unserem 3-Sterne Gasthof Hirschen und bringt Sie zu den umliegenden Skigebieten wie Rosshütte, Gschwandtkopf sowie zu den 271 km Langlaufloipen der Olympiaregion Seefeld.\nIn unserem Tiroler Gasthof erwarten Sie 13, im Tiroler Landhausstil, eingerichtete Zimmer in verschiedenen Kategorien. Vom Einzel-, Doppel- bis zum Dreibettzimmer, alle mit großzügigem Balkon und Blick auf das umliegende Bergpanorama, der Kalkkögel nach Westen und dem Wettersteingebiet nach Norden.\nDer kleine Wellnessbereich mit Sauna, Infrarotkabine, Solarium und Schwallwasserdusche lässt Ihr Herz nochmals höherschlagen.\nDie Küche unseres Traditionsgasthofes Hirschen ist bei Einheimischen wie auch bei unseren Gästen, bekannt und beliebt. Mit einem reichhaltigen Frühstück verwöhnen wir Sie schon am Morgen! Lassen Sie sich nach einem aktiven Wandertag vom Herrn des Hauses, Peter Scholl, ein Wirt aus Leidenschaft, kulinarisch bekochen - vor allem die traditionellen Tiroler Schmankerln, serviert von der Hausherrin Martina, werden Sie begeistern. Wir verwenden überwiegend Produkte aus der Region und aus eigener Landwirtschaft hier in Leithen. \n\nSommer in Reith bei Seefeld - Erlebnis pur. Direkt vom Gasthof Hirschen führen Sie gut beschilderte Wanderwege in die Berge rund ums Karwendelgebirge, wo man Gemsen noch ganz nahe beobachten kann. Gemütliche Rundwanderungen informieren Sie über die Geschichte, Sagen und Mythen von Reith. Nicht zu vergessen, unseren 3-D Bogenparcour mit den 28 teils anspruchsvollen aber auch einfachen Zielen, die es zu treffen gilt! \n\nErkunden Sie im Winter die 142 km täglich frisch geräumten Winterwanderwege in der Olympiaregion Seefeld, den Pulverschnee auf den Skipisten von Seefeld und Leutasch sowie die täglich bestens präparierten 271 km Langlaufloipen in allen Schwierigkeitsstufen. Lust auf Abenteuer? Natürlich können Sie auch im Winter den 3-D Parcour inmitten des wunderschönen Mischwaldes hier am Reither Plateau benützen! Ausrüstung steht zur Verfügung!\nAuf Ihren Besuch im 3-Sterne Gasthaus Hirschen in Reith bei Seefeld freuen sich Ihre Gastgeber, Familie Scholl.\n\n\n\n\n",
+    "Im Ortszentrum von Leithen gegenüber der Bushaltestelle finden sie unseren familiär geführten Gasthof.\nCheck In: 13.00 Uhr\nCheck Out: 10.00 Uhr"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "reviewCount": "200"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/11c0c1ca-42c2-4218-83d9-e1d8a7781221/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ab1ad156-3fc0-4b04-b2b0-b03d1ed04570/99/image.jpg",
+      "caption": "Logo"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0f46645a-ee9e-4e81-873c-92a553e7f2d3/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0bca4504-4d54-4373-a2b1-dada214b06c6/99/image.jpg",
+      "caption": "Kost"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9ae58bca-0f73-4da0-aca9-a0989f6ec605/99/image.jpg",
+      "caption": "Kühe auf Weide"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/122320b8-d980-4e9b-b959-50a0d3235951/99/image.jpg",
+      "caption": "Stube"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d33557fb-e2ba-4a99-8e54-638b58c67212/99/image.jpg",
+      "caption": "Restaurant"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8add41a6-4b14-47da-9c98-dc3601987bb2/99/image.jpg",
+      "caption": "Haus Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.290176177866",
+    "longitude": "11.219227282639"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche oder Bad, WC",
+      "description": "geräumiges Zimmer ohne Balkon mit Blick auf die Berge",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "35.00",
+          "maxPrice": "39.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Einzelzimmer, Dusche, WC",
+      "description": "gemütliches EZ mit SAT-TV, Telefon",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Einzelzimmer",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "36.00",
+          "maxPrice": "9999.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Dreibettzimmer, Dusche, WC",
+      "description": "geräumiges Zimmer mit Balkon",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Dreibettzimmer",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "36.00",
+          "maxPrice": "39.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "30.00",
+          "maxPrice": "36.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

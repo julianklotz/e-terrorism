@@ -1,0 +1,30 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation"
+  ],
+  "name": "Spielplatz bei der Ropferstub\u0027m",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.516231",
+    "longitude": "14.550072"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Landgasthof Ropferstub´m",
+    "streetAddress": "Buchen 6-8, am Jakobsweg",
+    "addressLocality": "Mösern/Buchen",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "+43526265949 ",
+    "email": "info@ropferhof.at",
+    "url": "http://www.pure-natur.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/87a10a56-331d-45bb-8943-0fc80bf3b009/99/image.jpg",
+      "caption": "Spielplatz"
+    }
+  ]
+}

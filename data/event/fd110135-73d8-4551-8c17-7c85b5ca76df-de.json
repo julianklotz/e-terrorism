@@ -1,0 +1,49 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "Kinderfest mit buntem Programm, Action und Spaß",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Olympia Sport- und Kongresszentrum",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Klosterstr. 600",
+      "addressLocality": "Seefeld",
+      "postalCode": "6100",
+      "addressCountry": "AT",
+      "telephone": "+4352123220",
+      "email": "info@seefeld-sports.at",
+      "url": "http://www.seefeld-sports.at"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Olympia Sport- und Kongresszentrum",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Klosterstr. 600",
+      "addressLocality": "Seefeld",
+      "postalCode": "6100",
+      "addressCountry": "AT",
+      "telephone": "+4352123220",
+      "email": "info@seefeld-sports.at",
+      "url": "http://www.seefeld-sports.at"
+    }
+  },
+  "description": "Alle Kinder zwischen 0 bis 14 Jahren können sich einen ganzen Nachmittag austoben und Spaß haben. Zahlreiche Spiele und Aktionen locken dabei zum Mitmachen. Jetzt heißt es nur mehr: Badesachen einpacken und auf zum Olympia-Kindernachmittag. Eintritt für Kinder bis 14 Jahre € 5,50 für 5 Stunden. Weitere Informationen unter www.seefeld-sports.at.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6df1d1b9-4deb-44ec-86be-9fb5f12b6952/99/image.gif",
+      "caption": "Kinderfest"
+    }
+  ],
+  "url": [
+    "http://www.seefeld-sports.at"
+  ],
+  "startDate": "2017-03-31T14:00:00",
+  "endDate": "2017-03-31"
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation"
+  ],
+  "name": "Rollski/Cross Country Academy Martin Tauber/Sommerbiathlon",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Cross Country Academy",
+    "streetAddress": "Klosterstr. 120",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "+43521250300",
+    "email": "info@xc-academy.com",
+    "url": "http://www.xc-academy.com"
+  },
+  "description": "Faszination Biathlon: selbst erleben!\nEgal, ob mit Skirollern oder zu Fuß. Beim Gästebiathlon kann jeder das Prickeln vor dem letzten Schuss erleben. Wöchentlich auf Anfrage\nmöglich, Kursdauer: 120 min., Kurspreis: € 60,00, Erwachsene (ab 14 Jahre) schießen mit originalem Biathlon-Kleinkalibergewehr.\nVolle Kurszeit ab 4 Pers. (bis 3 Pers. 60 min.) Die Unterrichtssprachen im Gruppenkurs sind Deutsch und Englisch. Rechtzeitige Anmeldung erforderlich!\n\nSkirollerkurse:\nExklusives Lernen: Privatunterricht, Klassisch oderSkating, täglicher Unterricht, Videoanalyse auf Anfrage möglich! Kursdauer: 60 min., Kurspreis:\n€ 57,00, Kursdauer: 120 min., Kurspreis € 114,00 (jede weitere Person € 15,00). Kinderermäßigung (bis 14 Jahre) -10%. Alle Skirollerkurse finden auf der neuen Skirollerstrecke in der Casino Arena Seefeld statt. Es besteht Helmpflicht bei allen Skirollerkursen!\nRechtzeitige Anmeldung erforderlich! ",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b49ba7d8-a370-4ce3-8c16-281bf57a05ed/99/image.jpeg",
+      "caption": "Logo"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7d4fe9c4-62d2-48d0-89bf-4ae3422c2704/99/image.jpg",
+      "caption": "Rollski"
+    }
+  ],
+  "url": [
+    "http://www.xc-academy.com"
+  ]
+}

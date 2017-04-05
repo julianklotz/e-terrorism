@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant"
+  ],
+  "name": "Leutascher Dorfwirt",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3720184120052",
+    "longitude": "11.1646325153442"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Leutascher Dorfwirt",
+    "streetAddress": "Weidach 320",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6533",
+    "email": "info@leutascher-dorfwirt.at",
+    "url": "http://www.leutascher-dorfwirt.at"
+  },
+  "description": "Sitzplätze für ca. 60 Personen\n\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6f78b5d8-1f8c-41d6-b90f-cbe1b1bac5ad/99/image.jpg",
+      "caption": "Leutascher Dorftwirt"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6000b62f-a6da-4177-83cd-504216afb978/99/image.jpg",
+      "caption": "Leutascher Dorfwirt Terrasse"
+    }
+  ],
+  "url": [
+    "http://www.leutascher-dorfwirt.at"
+  ]
+}

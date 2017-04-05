@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Landform"
+  ],
+  "name": "Reitherjoch Alm",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3239482689377",
+    "longitude": "11.2117174773072"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Reitherjoch Alm",
+    "addressLocality": "Reith bei Seefeld",
+    "postalCode": "6103",
+    "addressCountry": "AT",
+    "telephone": "(0043) 0043/ 676 7770501",
+    "email": "reitherjochalm@aon.at",
+    "url": "http://www.reitherjochalm.at"
+  },
+  "description": "Stempelstelle\n\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3d3c4c92-dcc4-4547-a659-def4a697d411/99/image.jpg",
+      "caption": "Reitherjoch Alm Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f7a44998-f254-42b5-a45b-54916c7b5863/99/image.jpg",
+      "caption": "Reitherjoch Alm Winter"
+    }
+  ],
+  "url": [
+    "http://"
+  ]
+}

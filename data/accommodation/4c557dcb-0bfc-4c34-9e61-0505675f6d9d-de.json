@@ -1,0 +1,17 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Ellner",
+    "streetAddress": "Ahrn 212",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0049) 7111 8895 365"
+  },
+  "name": "ZW-Ellner Ruth",
+  "currenciesAccepted": "EUR"
+}

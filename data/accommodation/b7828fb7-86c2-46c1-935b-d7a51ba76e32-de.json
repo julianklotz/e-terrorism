@@ -1,0 +1,216 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.landhaus-neuner.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Landhaus Neuner",
+    "streetAddress": "Innsbruckerstr. 4",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 676 6142671",
+    "faxNumber": "(0043) 5212 2548",
+    "email": "info@landhaus-neuner.at",
+    "url": "http://www.landhaus-neuner.at"
+  },
+  "name": "Landhaus Neuner",
+  "description": [
+    "Ihre familienfreundliche Frühstückspension in der Sie sich in gepflegter Atmosphäre und bei aufmerksamer Betreuung bestimmt wohlfühlen werden. Alle Zimmer sind mit Bad oder Dusche, WC, Sat-TV und Terrasse oder Balkon ausgestattet. Liegewiese. Wir liegen zentral, Anfang der Fussgängerzone.\nDie Bushaltestelle für den gratis Dorfbus und Schibus sind unmittelbar in der Nähe unseres Hauses.\nSie erreichen die 9-Loch Golfanlage in nur 3 Gehminuten.\nZum Bahnhof sind es 5 Gehminuten.\nDen Loipeneinstieg erreichen sie in 7-10 Gehminuten.\n\n\n",
+    "Anreise:  ab 11.00 Uhr\nAbreise: bis  10.00 Uhr",
+    "Unser Haus liegt am Anfang der Fussgängerzone gegenüber vom Hotel Bergland.\nVon Innsbruck kommend fahren sie übern Zirlerberg B177. Nehmen sie Ausfahrt Seefeld Süd.\nNach ca. 1km kommt die Dorfeinfahrt. Am See entlang bis zur nächsten kleinen Kreuzung. Gerade aus und gleich auf der linken Seite liegt unser Haus \"Landhaus Neuner\".\n\nVon Garmisch kommend nehmen sie die Ausfahrt Seefeld Nord."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2b40b478-bf8c-43d5-9807-bfbebac44083/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6f96ce0c-b8e6-47b8-89a7-9072a9dd3515/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/324b9eff-0322-4c0b-9763-9194f3e899cf/99/image.jpg",
+      "caption": "Frühstücksraum"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.326752252785",
+    "longitude": "11.1879658699036"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Einzelzimmer, Dusche, WC, gartenseitig",
+      "description": "geräumiges Zimmer mit Sonnenterrasse",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Einzelzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "33.00",
+          "maxPrice": "45.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Einzelzimmer, Dusche",
+      "description": "Die Einzelzimmer sind mit Dusche/WC, Sat TV und Terrasse ausgestattet.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Einzelzimmer mit Dusche",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Einzelzimmer mit Dusche copy",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "32.00",
+          "maxPrice": "44.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Das Doppelzimmer ist mit Dusche/WC, Sat TV und Balkon ausgestattet.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "30.00",
+          "maxPrice": "42.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "30.00",
+          "maxPrice": "42.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Bad, WC",
+      "description": "geräumiges Zimmer, süd- bzw. westseitig gelegen also sehr sonnig u. ruhig",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Bad, WC",
+          "description": "Die Doppelzimmer sind mit Dusche/WC, Sat TV und Balkon ausgestattet.",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "30.00",
+          "maxPrice": "42.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "30.00",
+          "maxPrice": "42.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

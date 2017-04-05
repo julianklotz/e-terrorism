@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Landform",
+    "Hostel"
+  ],
+  "name": "Karwendelhaus",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.4272888515708",
+    "longitude": "11.4215701818466"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Karwendelhaus",
+    "streetAddress": "Karwendeltal",
+    "addressLocality": "Scharnitz",
+    "postalCode": "6108",
+    "addressCountry": "AT",
+    "telephone": "+43720983554",
+    "email": "info@karwendelhaus.com",
+    "url": "www.karwendelhaus.com"
+  },
+  "description": "Nur im Sommer geöffnet! Übernachtungsmöglichkeit für 180 Personen, Stempelstelle",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1b790b2b-c338-41c4-9e6c-61c04a50aa34/99/image.jpg",
+      "caption": "Karwendelhaus neu"
+    }
+  ],
+  "url": [
+    "http://www.karwendelhaus.com",
+    "http://www.karwendel.org"
+  ]
+}

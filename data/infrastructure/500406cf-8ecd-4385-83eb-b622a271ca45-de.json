@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Museum",
+    "EntertainmentBusiness",
+    "TouristAttraction"
+  ],
+  "name": "engelart Galerien GmbH i. Gr.",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "engelart Galerien GmbH i. Gr.",
+    "streetAddress": "Dorfplatz 25",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 20280",
+    "email": "info@engelart-galerien.com",
+    "url": "http://www.engelart-galerien.com"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/11d078ae-529b-4045-9db8-d2eb831b73a8/99/image.jpg",
+      "caption": "engelart-galerie"
+    }
+  ],
+  "url": [
+    "http://www.engelart-galerien.com"
+  ]
+}

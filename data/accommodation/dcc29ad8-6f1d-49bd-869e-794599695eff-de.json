@@ -1,0 +1,173 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.christine-leutasch.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Christine",
+    "streetAddress": "Föhrenwald 3",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6662",
+    "email": "info@christine-leutasch.at",
+    "url": "http://www.christine-leutasch.at"
+  },
+  "name": "Haus Christine",
+  "description": [
+    "Das Haus liegt im Zentrum von Weidach in ruhiger und sonniger Lage. Loipen, Wander- u. Radwege führen an unserem Haus vorbei. Sämtliche Freizeitanlagen sind in näherer Umgebung von uns. Im Sommer haben Sie freien Eintritt ins Alpenbad. Liegewiese / Balkon sind nach Süden gerichtet. Parkplätze sind vor dem Haus.\nNEU!!! INTERNETZUGANG MIT WLAN-ROUTER-KÜCHE MIT GESCHIRRSPÜLER\nUNSERE GÄSTE HABEN  BEI DER GOLFACADEMIE-SEEFELD EINE ERMÄSSIGUNG VON 35% AUF DEN NORMALTARIF !!!!",
+    "INKLUSIVE: Heizung, Wasser, Strom, Ortstaxe\n\nEXKLUSIVE: Telefon, Hund\nBei Buchungen gelten die Österreichischen Hotel und Vertragsbedingungen.\n\n",
+    "Check-In 15.00 Uhr / Check-Out 10.00 Uhr\n\nWeg: Unser Haus liegt im Zentrum vom Ortsteil Weidach. Vom Tourismusverband (Büro) geht es Richtung NO, folgen Sie dem blauen Wegweiser \"Föhrenwald\" und dem braunen Schild \"Haus Christine\", wo Sie bereits nach 100 m, bei der Hausnummer \"F3\", am Ziel sind.\n"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "reviewCount": "10"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/bcd9b2c9-e799-4cfd-ad31-9cb76585562f/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d54bf330-649b-4101-8345-2ce9ac326ebe/99/image.jpg",
+      "caption": "Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.372785512839",
+    "longitude": "11.165377819363"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 2 Schlafräume",
+      "description": "64 m², 2 Schlafzimmer separat, Wohnzimmer, SAT-TV-Full-HD, Radio, Telefon im Haus, Bad, WC-extra, Küche komplett mit Geschirrspüler-4-Plattenherd, Micro, Balkon-Südlage, Vorraum, W-Lan frei, Türöffner;",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apart. Typ B 1 /2 Schlafräume/Bad, WC, Balkon",
+          "description": "64 m², 2 Schlafzimmer separat, Wohnzimmer, SAT-TV-Radio, Telefon im Haus, Bad, WC-extra, Küche komplett mit Geschirrspüler und 4-Plattenherd, Balkon-Südlage, Vorraum, Türöffner;\nWLAN-ROUTER frei !",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "84.00",
+          "maxPrice": "119.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "94.00",
+          "maxPrice": "131.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "100.00",
+          "maxPrice": "138.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "getrennte Zimmer, komplett eingerichteter Küchenblock mit Geschirrspüler und 4 Plattenherd,SAT-TV-Full-HD, Radio-CD, Telefon im Haus, Dusche/WC, Balkon/Südlage, Bettwäsche, Handtücher, Brötchenservice, freies W-LAN",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apart. Typ A /1 Schlafraum/Dusche, WC, Balkon",
+          "description": "Das App. für 2 Personen ist 40 m2 groß und besteht aus einem separaten Schlafzimmer, Wohnzimmer mit Farb-SAT-TV und Radio,komplett eingerichtete Küche mit Geschirrspüler und 4-Platten-Herd, Dusche/WC und Balkon in Südlage. Bettwäsche und Handtücher werden selbstverständlich von uns zur Verfügung gestellt. Freies W-LAN.",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "61.00",
+          "maxPrice": "98.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 2 Schlafräume",
+      "description": "64 m², 2 Schlafzimmer separat, Wohnzimmer, SAT-TV-Full-HD, Radio, Telefon im Haus, Bad, WC-extra, Küche komplett mit Geschirrspüler-4-Plattenherd, Micro, Terrasse in Südlage, Vorraum, W-Lan frei, Türöffner;",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apart. Typ B 2 /2 Schlafräume/Bad, WC, Terrasse",
+          "description": "64 m², 2 Schlafzimmer separat, Wohnzimmer, SAT-TV-Radio, Telefon im Haus, Bad, WC-extra, Küche komplett mit Geschirrspüler und 4-Plattenherd, Terrasse-Südlage, Vorraum, Türöffner;\nWLAN-ROUTER FREI !",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "84.00",
+          "maxPrice": "119.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "94.00",
+          "maxPrice": "131.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "100.00",
+          "maxPrice": "138.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.haus-wagner.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Wagner",
+    "streetAddress": "Am Kirchwald 305",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2396",
+    "faxNumber": "(0043) 5212 23964",
+    "email": "office@haus-wagner.at",
+    "url": "http://www.haus-wagner.at"
+  },
+  "name": "Haus Wagner",
+  "description": [
+    "Treten Sie ein und fühlen Sie sich „daheim“ im Haus Wagner in Seefeld in Tirol. Der Reiz unseres kleinen Appartementhauses besteht im unabhängigen Wohnen mit privatem Familienanschluss auf einem der schönsten Hochplateaus Europas, der Olympiaregion Seefeld.\n\nAuf einer Anhöhe in der verkehrsberuhigten Kirchwaldsiedlung gelegen, überblicken Sie in einem der beiden 2-Raum-Appartements ganz Seefeld und sind doch in nur 5 Gehminuten rasch im Seefelder Ortszentrum. \n\nJede der zwei voll ausgestatten Ferienwohnungen für 2 bis 4 Personen hat einen eigenen Zugang, sodass ein ungestörter Urlaub zu zweit oder mit der Familie im Haus Wagner garantiert ist. Zur rustikal-gepflegten Ausstattung gehören weiterhin jeweils ein Wohnzimmer mit Schlafsofa, TV, Stereoanlage, Sitzgruppe und Essecke sowie ein separates Schlafzimmer. Die in warmen Farben eingerichteten Appartements vermitteln Gemütlichkeit in vertraut-persönlicher Atmosphäre. In der in beiden Ferienwohnungen zudem vorhandenen Küche finden Sie alles, was für Selbstversorger zum Kochen nötig ist. Unsere Bäder verfügen über Duschen. Das Highlight jedes Urlaubs-Appartements ist der großzügige Balkon mit freiem und prachtvollem Blick auf die Bergwelt der Seefelder Spitze oder Sicht auf den Hocheder, die das Plateau der Olympiaregion Seefeld umgeben. Inmitten der Natur sind Sie auch, wenn Sie sich eine Auszeit auf einem der Gartenstühle der hauseigenen Liegewiese gönnen. \n\nIm Sommer oder Winter liegt die nächste Tenniseinheit in der Seefelder WM-Halle nur 6 Gehminuten vom Haus Wagner entfernt. Im Olympia Sport- und Kongresszentrum ist Hallenbad, Saunawelt, Kino und Restaurant unter einem Dach in nur 5 Minuten zu Fuß erreichbar. Eindrucksvolle Naturerlebnisse treffen auf perfekte Infrastrukturleistungen - nutzen Sie das umfassende Freizeitangebot der Olympiaregion Seefeld einschließlich Regionsbus und Bahn, Dorf- und Skibus und vieles mehr. Der Urlaub wartet direkt vor unserer Tür auf Sie! Der großzügige Parkplatz beim Haus kann von unseren Gästen kostenlos genutzt werden.\n\nIhre persönlichen Gastgeber Lisa und Kurt Wagner begrüßen Sie mit einem herzlichen „Servus“ im Haus Wagner in Seefeld, Ihrem „Wohlfühlplatz“ in Tirols schönster Bergwelt.\n",
+    "Inkl.: Bettwäsche, Handtücher\nExcl.: Telefon"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a5b61486-7079-4ff5-a979-c314a2096430/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/537de3b8-8aa2-418b-a44a-dac55381dd07/99/image.jpg",
+      "caption": "Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3280212332321",
+    "longitude": "11.1797958612442"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/2 DU, 2 WC und 1 Schlafraum",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,201 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://web.deskline.net/seefeld/de/show_accommodation/SEE/9f5f4860-940f-466f-9b01-33b35c73a465/haus_sch%c3%b6n",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Schön",
+    "streetAddress": "Am Kirchwald  519",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2898",
+    "faxNumber": "(0043) 5212 2898",
+    "email": "r.schoen@seefeld-in-tirol.net"
+  },
+  "name": "Haus Schön",
+  "description": [
+    "\"Haus Schön\" gemütliches Haus mit Balkon und Sonnenterrasse.\nFreie Sicht zum Seekirchl.",
+    "\nInklusive: Abstellplätze für Ihr Auto, Fernseher im Frühstücksraum, Liegestühle und Gartenmöbel.\nExklusive: Ortstaxe",
+    "zu Fuß: Bahnhof Seefeld - Ortsmitte, Olympiastr. Kirchwald \"Haus Schön 519\", \nmit dem Auto:  Münchnerstr.,  Olympiastr., Kirchwald \"Haus Schön 519\""
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/163e527e-24d2-4170-8dc9-a0bfc2d9d371/99/image.jpg",
+      "caption": "Winterbild Haus Schön Seefeld in Tirol"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4ceee3b0-bdf8-44bc-af9c-dccb57907356/99/image.jpg",
+      "caption": "Sommerbild Haus Schön Seefeld in Tirol"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/42ae48cd-3f24-466e-8a29-8d26fd0125b3/99/image.jpg",
+      "caption": "Sommer Hausansicht Haus Schön Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e70200d4-5cf9-473b-808e-f98a407b0c0c/99/image.jpg",
+      "caption": "Blick vom Balkon Haus Schön Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5254e5c9-299f-4988-9ae6-688ac9f7d279/99/image.jpg",
+      "caption": "Frühstücksraum Haus Schön Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/26ab1e4d-006b-4f12-a76c-b228f4b4730a/99/image.jpg",
+      "caption": "Pfarrhügel Haus Schön Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1291a9bd-fc8a-4279-ad53-0474d7ee8e25/99/image.jpg",
+      "caption": "Hocheggalm Rosshütte Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/74f8b2a9-e1b7-47dc-8fb0-7ed86e5020e4/99/image.jpg",
+      "caption": "Winterwandern Wildsee Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c6a5c1e6-316b-42ee-a03a-32105b4aeccb/99/image.jpg",
+      "caption": "Blick Richtung Gschwandtkopf Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f1b14ef1-ee45-49c7-a212-e9a7b72d8789/99/image.jpg",
+      "caption": "Seekirchl Berge Winter Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ec956f80-80a7-40ce-937a-7e8f66d046e6/99/image.jpg",
+      "caption": "Pfarrhügel Winter Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1181f64c-c991-4868-9610-e29a5149e51b/99/image.jpg",
+      "caption": "Seekirchl Winter Seefeld Haus Schön"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/44d9c427-e814-4cbd-973c-e640e705731e/99/image.jpg",
+      "caption": "Seekirchl Winter Seefeld"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3279412410957",
+    "longitude": "11.1803591251373"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "\n1 Doppelzimmer mit Dusche/WC und Südbalkon. Fernseher im Zimmer.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "22.50",
+          "maxPrice": "22.50",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, fl. k/w Wasser",
+      "description": "\n1 Doppelbettzimmer mit Fließwasser, Terrasse mitbenutzbar, Fernseher im Zimmer",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit fl. Wasser",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "22.50",
+          "maxPrice": "22.50",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, fl. k/w Wasser",
+      "description": "\n1 Doppelbettzimmer mit Fließwasser und Südbalkon-Terrasse, Fernseher im Zimmer",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit fl. Wasser",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "22.50",
+          "maxPrice": "22.50",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

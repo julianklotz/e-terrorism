@@ -1,0 +1,76 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://web.deskline.net/seefeld/de/show_accommodation/SEE/9ed2cac1-c50a-44f0-aec3-1f3c6d514818/haus_sonnsitz",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Sonnsitz",
+    "streetAddress": "Andreas-Hofer-Str. 244",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 650 4462307 ",
+    "email": "sonnsitzseefeld@gmail.com"
+  },
+  "name": "Haus Sonnsitz",
+  "description": [
+    "Landhaus für 7 Personen (max. 8) im Tiroler Stil mit viel dunklem Holz; ursprünglich und gemütlich bestehend aus 4 Schlafräumen (1 x 3, 2 x 2, 1 x 1 Betten), 2 Duschen/WC, Küche mit Essecke und Geschirrspüler, Wohnraum mit SAT-TV, Balkon, großer eigener Garten mit Terrasse\n",
+    "Inkl: Strom, Wasser, Heizung\n"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1f20fbcf-b243-4ecc-8c5a-eb3b2e0b4ee8/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1e6781d3-8b5f-4828-908e-c1456718f738/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/eeb7060d-bbdb-4736-831c-97848e8b74e8/99/image.jpg",
+      "caption": "Sommer2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0177252f-db40-4013-847c-941e73d7f02c/99/image.jpg",
+      "caption": "Sommer seitlich"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3302827789596",
+    "longitude": "11.1941349506378"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Ferienhaus, Dusche, WC",
+      "description": "Landhaus für 7 Personen (max. 8) im Tiroler Stil mit viel dunklem Holz; ursprünglich und gemütlich bestehend aus 4 Schlafräumen (1 x 3, 2 x 2, 1 x 1 Betten), 2 Duschen/WC, Küche mit Essecke und Geschirrspüler, Wohnraum mit SAT-TV, Balkon, großer eigener Garten mit Terrasse\n\n\nHaus mit Garten,  \n4 Schlafzimmer\n1 Stube\n1 Küche\n2 x Dusche/WC",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Ferienhaus/4 od. mehr Schlafr./Dusche,WC",
+          "numberOfRooms": "5.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "8",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

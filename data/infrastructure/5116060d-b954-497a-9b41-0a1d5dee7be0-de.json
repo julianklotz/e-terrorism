@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure"
+  ],
+  "name": "Apothekenparkplatz (P8)",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3312502786034",
+    "longitude": "11.1884107756409"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Apothekenparkplatz (P8)",
+    "streetAddress": "Münchner Str.",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043)52122241"
+  },
+  "description": [
+    "neben der Apotheke - gebührenpflichtig",
+    "neben der Apotheke - gebührenpflichtig"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e0de2079-7e74-4209-8dcf-fd321da1ed19/99/image.jpg",
+      "caption": "Parkplatz"
+    }
+  ]
+}

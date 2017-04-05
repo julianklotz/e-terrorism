@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure"
+  ],
+  "name": "Flughäfen",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2601730631449",
+    "longitude": "11.3494039932862"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Flughafen Innsbruck",
+    "streetAddress": "Fürstenweg 180",
+    "addressLocality": "Innsbruck",
+    "postalCode": "6020",
+    "addressCountry": "AT"
+  },
+  "description": [
+    " ",
+    "Unsere nächstgelegenen Flughäfen: Innsbruck, Tel.: 0043/512/22525-0 (Vermittlung) oder Tel.: 0043/512/22525-304 (Fluginfo), www.innsbruck-airport.com; München (Nordallee 25, 85356 München), Tel.: 0049/89/9750-0 (Vermittlung) oder Tel.: 0049/89/97521313 (Fluginfo), www.munich-airport.de"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5730b32c-0ecc-4567-b720-130053d000e4/99/image.jpg",
+      "caption": "Flughafen Bild"
+    }
+  ]
+}

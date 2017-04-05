@@ -1,0 +1,29 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LakeBodyOfWater"
+  ],
+  "name": "Wildmoossee - ein Naturphänomen",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3334920170936",
+    "longitude": "11.1472621150391"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Ferienheim Wildmoos",
+    "streetAddress": "Kolonieverein Hötting",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043)52123356"
+  },
+  "description": "Nahe des idyllisch gelegenen Möserer Sees auf dem Plateau Wildmoos (1320 m), einem beliebten Naherholungsgebiet in der Nähe Seefelds, gibt es ein sehr interessantes Naturphänomen zu beobachten: Wie aus dem Nichts bilden sich inmitten grüner Wiesen, Lärchen- und Birkenwäldern zwei Seen, der Wildmoossee und der Lottensee. Dieses a-periodische (nicht regelmäßig) auftretende „Naturwunder“ ergibt sich wahrscheinlich aus einem Zusammenspiel des Wasserstandes in den unterirdischen Karstsystemen aufgrund des Frühjahrsniederschlages und der Schneeschmelze. Der Boden unterhalb dieser Seen dürfte stark verkarstet sein, das Gefäßsystem ist allerdings nach unten abgedichtet. Beim Einsetzen des Tauwetters im Frühjahr füllen sich die unterirdischen Gefäße mit Wasser, der Überlauf überschwemmt die Wiesenmulden und bildet Seen, die aber oft schon nach einigen Wochen wieder verschwinden. Interessanterweise steigt in manchen Jahren der Wasserspiegel auch noch nach der Schneeschmelze weiter an, wobei das Wasser in Springquellen aus der Tiefe sprudelt. Die Seen bleiben dann den ganzen Sommer mit konstantem Wasserstand bestehen - und sind auch zum Baden geeignet – im Herbst läuft der See dann plötzlich in zwei bis drei Wochen aus. Trotz vielfältiger Versuche, das Auftreten der Seen vorherbestimmen zu wollen, ist dies nicht gelungen. Die exakten Ursachen für das Auftreten bzw. das Ausbleiben der Seen sind nicht genau definierbar.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d94795ff-7bdd-4f52-81b5-1d9dcf6d852c/99/image.jpg",
+      "caption": "Wildmoossee"
+    }
+  ]
+}

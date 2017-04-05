@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hostel",
+    "Landform"
+  ],
+  "name": "Hämmermoosalm",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3712392554373",
+    "longitude": "11.0821902751923"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Gaistal",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 676 3337 000",
+    "email": "sonja@haemmermoosalm.at",
+    "url": "http://www.haemmermoosalm.at"
+  },
+  "description": "Übernachtungsmöglichkeit für 15-20 Personen, Stempelstelle",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/db9ae22d-645c-4218-bac5-fbe3925eabba/99/image.jpg",
+      "caption": "Sommerbild"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/fd7c3023-9479-4b53-b403-ba16e317b9fb/99/image.jpg",
+      "caption": "Hämmermoos"
+    }
+  ],
+  "url": [
+    "http://www.haemmermoosalm.at"
+  ]
+}

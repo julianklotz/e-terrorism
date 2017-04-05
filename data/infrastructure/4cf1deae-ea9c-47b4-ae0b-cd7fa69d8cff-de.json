@@ -1,0 +1,28 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation"
+  ],
+  "name": "Josef Bacher- Fiaker-Kutschen",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.31127",
+    "longitude": "11.14928"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Sterzingerhof",
+    "addressLocality": "Mösern",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 4746",
+    "faxNumber": "(0043) "
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/471759a9-1556-495a-802d-8aea480ff9c1/99/image.jpg",
+      "caption": "Josef Bacher"
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.hausannelies.at/",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Annelies",
+    "streetAddress": "Birkenweg 727",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 699 111 97165",
+    "faxNumber": "(0043) 5212 2113",
+    "email": "info@hausannelies.at",
+    "url": "http://www.hausannelies.at/"
+  },
+  "name": "Haus Annelies",
+  "description": [
+    "- ruhige, sonnige Lage in einer wenig befahrenen Sackgasse\n- umgeben von viel Natur\n- Nichtraucherhaus\n- Wanderwege / Skigebiet Rosshütte ca. 5 Gehminuten entfernt\n- 5 Gehminuten bis zum Zentrum",
+    "Exclusive : ",
+    "Abfahrt Seefeld Mitte.\nKreisverkehr, Römerstrasse, Hocheggstrasse, Birkenweg."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/07035092-49ca-4c84-a4f8-cf62252627e3/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4125b9c0-04f7-46da-abc3-ee0f26b9192e/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/65ac3374-6f05-4a61-93fc-3573f1d35556/99/image.jpg",
+      "caption": "Sommer 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/17b85dd0-4bb8-4c78-87ef-7d56a6137f70/99/image.jpg",
+      "caption": "Garage"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/86086dbb-4e65-48b8-9687-7ec9926e1b7e/99/image.jpg",
+      "caption": "Aufgang"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.328424828073",
+    "longitude": "11.1942529678345"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche oder Bad, WC, 2 Schlafräume",
+      "description": "Südseite großer Balkon",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement 1 /2 Schlafräume/Du od. Bad,",
+          "description": "Das Appartement 1 hat 65m² und besteht aus einem Wohnzimmer, zwei Schlafzimmern, Küche, Bad (Badewanne, Dusche ) WC (separat) und überdachtem Balkon ca. 15 m² (Südseite).\n\n",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 1 Schlafraum",
+      "description": "Süd - West, große Terrasse.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement 2 /1 Schlafraum/Bad, WC",
+          "description": "Appartement 2  (53 m²)\nDie Wohnung besteht aus einem großen Wohnzimmer (zwei Schlafgelegenheiten) mit sonnigem Erker (Eßecke), Schlafzimmer, Küche, Bad mit WC, sowie großer Terrasse (Süd/West)\n\n",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Gemütliches Appartement für 2 Personen.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement 3 /1 Schlafraum/Dusche, WC",
+          "description": "Appartement 3  (45 m²)\nDiese gemütliche   (preisgünstige)   Wohnung befindet sich im Halb-Souterrain, hat ein großes Fenster mit Blick in den Garten und besteht aus Wohnzimmer (ca. 25 m²) mit integriertem Küchenteil, sep. Schlafzimmer, Dusche und WC.\n\n",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

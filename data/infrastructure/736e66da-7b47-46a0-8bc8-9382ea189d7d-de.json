@@ -1,0 +1,28 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "EntertainmentBusiness",
+    "CivicStructure"
+  ],
+  "name": "Bergkapelle Reith",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2991751",
+    "longitude": "11.2031481"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Bergkapelle Reith",
+    "streetAddress": "Römerstraße 13",
+    "addressLocality": "Reith bei Seefeld",
+    "postalCode": "6103",
+    "addressCountry": "AT"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/df7520cc-30b5-4326-9860-cc6d288b553a/99/image.jpg",
+      "caption": "Musikkapelle Reith"
+    }
+  ]
+}

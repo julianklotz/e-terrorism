@@ -1,0 +1,30 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation"
+  ],
+  "name": "Darts/Campingstüberl",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3821360406287",
+    "longitude": "11.2626178213959"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Campingstüberl",
+    "streetAddress": "Brandlift 390",
+    "addressLocality": "Scharnitz",
+    "postalCode": "6108",
+    "addressCountry": "AT",
+    "telephone": "(0043) 0699 10109009",
+    "url": "http://www.karwendelcamp"
+  },
+  "description": "Darts im Campstüberl Scharnitz, Tel.: 0699/10109009",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/07bf23d2-7cb2-48eb-a989-81c0b2408671/99/image.jpg",
+      "caption": "Darts"
+    }
+  ]
+}

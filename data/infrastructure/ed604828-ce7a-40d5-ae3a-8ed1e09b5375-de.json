@@ -1,0 +1,33 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure"
+  ],
+  "name": "Garage - Auto Nemeth KG/ Autowerkstatt",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3352636555078",
+    "longitude": "11.1934751272202"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Auto Nemeth KG",
+    "streetAddress": "Münchner Str. 75",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2407",
+    "url": "http://www.eni.com"
+  },
+  "description": [
+    " \n",
+    "(Eni Tankstelle), Sammelgarage, 5 Standplätze.\n\nGebührenpflichtig!\n"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/05333df0-3161-4624-991b-7d495dcf5ed8/99/image.jpg",
+      "caption": "Kfz"
+    }
+  ]
+}

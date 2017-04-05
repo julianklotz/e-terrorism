@@ -1,0 +1,216 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.krinzerhaus.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Krinzerhäusl",
+    "streetAddress": "Krinz 38",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 650 9436552",
+    "email": "info@krinzerhaus.at",
+    "url": "http://www.krinzerhaus.at"
+  },
+  "name": "Krinzerhäusl",
+  "description": [
+    "Die Liftanlagen ROSSHÜTTE mit dem Kinderschieparadies sowie die Langlaufloipe Lehnerwiese sind in nur wenigen Minuten zu Fuß erreichbar.\nAusgangspunkt vieler Spazier- und Wandermöglichkeiten. Nur 10 Gehminuten ins Zentrum von Seefeld. In unmittelbarer Nähe befinden sich die Haltestelle für den kostenlosen Dorfshuttle. Mehr Infos unter: http://www.krinzerhaus.at",
+    "Inklusive: Bettwäsche, Geschirr- und Handtücher, Parkplatz\n",
+    "Ankunft: ab 15.00 Uhr\nAbreise: bis 10.00 Uhr\n\n"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/fc5fd087-08d1-42e8-83c2-d19966bb19af/99/image.jpg",
+      "caption": "Haus Winter Krinzerhäusl Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/fbaeaff8-a294-475c-bc32-c21145581436/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5de73a51-f5d5-4fcf-a4cf-fc2e535fa9ba/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d670297c-9c4d-47a2-995f-0613c81f2d3c/99/image.jpg",
+      "caption": "Haus"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/79ebef5c-53d7-448d-9764-cf09582b6b29/99/image.jpg",
+      "caption": "Blick auf die Hohe Munde"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e1871965-5a1c-4e23-b45f-a6ab97f04a41/99/image.jpg",
+      "caption": "Kinderschieparadies"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d2d5bf4f-040d-4be4-96fc-61757bb3370c/99/image.jpg",
+      "caption": "Blick von der Rohhütte"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/69ec7be4-fe3c-4786-924a-725a3a41c357/99/image.jpg",
+      "caption": "Teich"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/248ea553-8f37-4be3-be83-e2f0fc1574a4/99/image.jpg",
+      "caption": "unsere Hühner"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/696cb4b6-b2fb-4b25-b548-621108299a48/99/image.jpg",
+      "caption": "Blick nach Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/56be976f-9b18-49a5-ac47-559585f3a62f/99/image.jpg",
+      "caption": "geräumte Wanderwege"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/bb806505-bc84-4aa7-b3a7-557772f549d5/99/image.jpg",
+      "caption": "Schneefest"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/684afb91-de0b-44de-81dc-86b554a41a6d/99/image.jpg",
+      "caption": "2013-03-02 11.21.02"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4027718f-f751-429b-8862-7cd7e238e79d/99/image.jpg",
+      "caption": "Karwendelgebirge"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/47e37fdc-1774-43da-9c75-9d52cca9a936/99/image.jpg",
+      "caption": "P1040899"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/28a8c7be-732c-435d-a078-ab286da451cf/99/image.jpg",
+      "caption": "P1080098"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3c3e4360-e7aa-469a-b697-a58d68cde7ed/99/image.jpg",
+      "caption": "P1090713"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2dfb289f-ae0a-4b90-98ab-d761be09ac12/99/image.jpg",
+      "caption": "P1090715"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/773bdd7f-c56c-4fd1-b5fa-668d0d469773/99/image.jpg",
+      "caption": "P1090717"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ba2442b7-678f-4e26-ab09-f679f616c1f5/99/image.jpg",
+      "caption": "Langlaufen Wildmoos"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3271854145336",
+    "longitude": "11.1994753865082"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Toilette und Bad/Dusche getrennt, 2 Schlafräume",
+      "description": "Unsere gemütliche 3-Raum-Ferienwohnung (ca. 50m²) besteht aus 2 getrennten Schlafzimmern, Wohnzimmer mit ausziehbarer Doppelbettcouch (2 zusätzliche Schlafgelgenheiten), Küchenzeile komplett ausgestattet mit Backofen, Mikrowelle, Geschirrspüler, Kaffeemaschine (TABS-Eduscho), Wasserkocher; Dusche/WC getrennt, Fön, Kabel-TV, Radio und einer eigenen überdachten Südterrasse.\nNichtraucherwohnung, Haustiere auf Anfrage, Schuhraum mit Schuhtrockner, Parkplatz, Bettwäsche und kostenlos WIFI",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement/Fewo, 2 Schlafräume",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Weihnachten",
+          "description": "7 Tage im Appartement inkl. Loipenkarte der gesamten Olympiaregion ",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "79.00",
+          "maxPrice": "79.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "59.00",
+          "maxPrice": "155.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "69.00",
+          "maxPrice": "165.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "79.00",
+          "maxPrice": "175.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "89.00",
+          "maxPrice": "185.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "99.00",
+          "maxPrice": "195.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

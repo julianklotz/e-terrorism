@@ -1,0 +1,154 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.arnspitze.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Pension Arnspitze",
+    "streetAddress": "Eisack 113",
+    "addressLocality": "Scharnitz",
+    "postalCode": "6108",
+    "addressCountry": "AT",
+    "telephone": "+4352135365",
+    "faxNumber": "+43521320065",
+    "email": "pension@arnspitze.at",
+    "url": "http://www.arnspitze.at"
+  },
+  "name": "Pension Arnspitze",
+  "description": [
+    "Die Pension Arnspitze unter familiärer Leitung in einer einzigartigen, ruhigen Lage von Scharnitz in unmittelbarer Nähe von Wanderwegen und Langlaufloipen.\nUnser Haus bietet Ihnen einen angenehmen Aufenthalt in gepflegten, großzügig ausgestatteten Zimmern mit Bad oder Dusche, WC, TV und Balkon mit herrlicher Sicht auf die umliegenden Berge. In unserem Frühstücksraum erwartet Sie ein reichhaltiges Frühstücksbuffet mit Tiroler Schmankerl. Außerdem steht unseren Hausgästen ein großer Garten sowie ein Privatparkplatz zur Verfügung.",
+    "Aus Deutschland kommend vor der Kirche links, danach folgen Sie unseren Wegweisern. Die Pension Arnspitze liegt am Waldrand im Ortsteil Eisack."
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.1",
+    "reviewCount": "100"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3f7d5c71-b5d3-42c9-9417-9b10cfa2b28f/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e29cf46f-420a-4cea-84ab-24359c94ae8d/99/image.jpg",
+      "caption": "Sommer "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a637c7dd-7bee-494a-b190-834cae5cbfb7/99/image.jpg",
+      "caption": "Frühstücksbuffet"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/bde93ab4-2d27-4698-a1f5-2973a365e6c6/99/image.jpg",
+      "caption": "Frühstücksraum "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/76bb8ec1-a3ac-406e-a18c-2e9682b5efe2/99/image.jpg",
+      "caption": "Fitnessraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e64e1420-a564-46fd-a57e-90409c181838/99/image.jpg",
+      "caption": "Sauna"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5a0af340-3cd7-4abf-8c7d-4b484fc14f14/99/image.jpg",
+      "caption": "Spielplatz"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.384494762578",
+    "longitude": "11.267804477568"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche oder Bad, WC",
+      "description": "Behagliche Komfortzimmer mit DU/Bad - WC, SAT TV und Balkon mit Ausblick auf die umliegenden Bergspitzen.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Dusche od. Bad, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "25.00",
+          "maxPrice": "25.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Unser Appartements sind alle mit Vorraum, Küche, Wohnschlaf- und Schlafzimmer komplett und gemütlich ausgestattet - ideal für 2-4 Personen.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "50.00",
+          "maxPrice": "50.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "62.00",
+          "maxPrice": "62.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "74.00",
+          "maxPrice": "74.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

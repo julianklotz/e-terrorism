@@ -1,0 +1,129 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.vendlhof.com",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Vendlhof",
+    "streetAddress": "Plaik 88",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6032",
+    "faxNumber": "(0043) 5214 6032",
+    "email": "vendlhof@hotmail.com",
+    "url": "http://www.vendlhof.com"
+  },
+  "name": "Vendl-Hof",
+  "description": [
+    "Herzlich Willkommen im Vendlhof! Verbringen Sie erholsame Urlaubstage auf unserem familienfreundl. Bauernhof, der inmitten von Wiesen Ausgangspunkt für Wanderungen u. Radtouren ist. Loipe ist direkt am Haus. Wir verwöhnen Sie mit hofeigenen Produkten wie: Milch, Butter, Käse, Joghurt, Topfen u. Brot.",
+    "Kostenlos: Wäsche, Heizung, Strom",
+    "Von Leutasch Weidach nach Kirchplatzl (Kirche) bis zum Reitstall, rechts abbiegen, über die Brücke nach Plaik, nach ca 300 m ist eine Bushaltestelle, rechts abbiegen zum Vendelhof.\nCHECK - IN 15.00 Uhr\nCHECK - OUT 10.00 Uhr"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6485db42-1e63-4aa1-bc85-4bcde59638f8/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/cfbd2d1e-aebd-4481-9946-7b3ee8204e7b/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/46540083-f13c-4f27-aa1f-5206eac711dc/99/image.jpg",
+      "caption": "Hausansicht Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f8aa6fc2-d929-41d9-a3f4-084821709b6e/99/image.jpg",
+      "caption": "Spielplatz mit Liegewiese"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3ab1824f-26dd-4ecb-b6d2-9dd540ba1451/99/image.jpg",
+      "caption": "Kühe"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.363391000844",
+    "longitude": "11.128378664961"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche",
+      "description": "Zimmer mit Balkon, Sat TV, Essecke im Zi.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Dusche",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "die Wohnung ist ca 45 cm² groß, Süd-Balkon, Schlafzimmer, Wohnküche, Küchenzeile, doppelte Ausziehcouch, DU, WC",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment Nr. 1/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "die Wohnung ist ca 50m² groß, eigener Balkon, Schlafzimmer 2 Betten 1 Couch, 2 Schränke, Wohnküche: Küchenzeile, Doppelte Auszieh Couch, Diele, DU/WC",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment Nr. 2/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,199 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://www.hotel-solstein.com",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Hotel Solstein (Arche Herzensbrücken)",
+    "streetAddress": "Hermannstalstr. 558",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2741",
+    "faxNumber": "(0043) 5212 27416",
+    "email": "info@hotel-solstein.com",
+    "url": "http://www.hotel-solstein.com"
+  },
+  "name": "Hotel Solstein (Arche Herzensbrücken)",
+  "description": [
+    "Das familiär geführte Hotel Solstein befindet sich in ruhiger Lage. In 5 Gehminuten erreichen Sie die Talstation der Rosshütten-Bahn, das Ortszentrum und die Kinderskischule am Geigenbühel sowie Ausgangspunkte vieler interessanter Wanderungen. Das Hotel bietet eine großzügige Sonnenterrasse mit kleinem Spielplatz sowie eine Wellnessoase mit Vitaminbar.",
+    "Haustiere € 10 pro Tag, diverse Massagen, Solarium\nIm Hotel Solstein bieten wir Ihnen folgende Vorteile kostenlos: Begrüßungscocktail, Nachmittagsjause - im Rahmen der Halbpension, Parkplätze, diverse Angebote wie unsere Vitaminbar.\nGegen Gebühr bieten wir Ihnen Massagen und Solarium.\n",
+    "Check-In 14.00 Uhr, Check-Out 11.00 Uhr\nDas Hotel liegt leicht erreichbar in einer ruhigen Seitenstraße der Münchner Straße. Direkt am Haus befinden sich ausreichend Parkplätze. Wir bitten Sie die Check-In-Zeit von 14.00 Uhr zu beachten. Sollte der Zeitpunkt Ihrer Anreise nach 20.00 Uhr erfolgen, bitten wir um telefonische Nachricht. Check-Out ist um 11.00 Uhr."
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "reviewCount": "46"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/912c068f-ad5b-4151-9362-e3fdb8858778/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4e213413-6ce4-4f1b-942c-374745b7799d/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2c1c9e5c-86c3-4d8c-ad3b-1db73ee34784/99/image.jpg",
+      "caption": "Speisesaal"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d6e24485-ea1a-4752-b9d0-f6190c50e6e1/99/image.jpg",
+      "caption": "Haus Sommer mit Terrasse"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3e04adbc-a3f8-4b11-8719-6573a3770d93/99/image.jpg",
+      "caption": "Bar"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ccdfc750-3a52-42d0-843f-f70272afc0a8/99/image.jpg",
+      "caption": "Sommer Ansicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/92e609bc-6c02-47e0-bf35-c7a1145d06b2/99/image.jpg",
+      "caption": "Ruheraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f03d904e-05b8-40b2-941b-9f18c6db74d3/99/image.jpg",
+      "caption": "Sauna"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7bf0a480-2744-431d-b3af-52b9c4c88dbf/99/image.jpg",
+      "caption": "Bademäntel"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3336458310624",
+    "longitude": "11.1927080154419"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Familienzimmer, Dusche und Bad, WC",
+      "description": "Wohnzimmer, gentrenntes Schlafzimmer, Bad WC getrennt, Telefon, Safe,TV, Süd Seite mit Balkon!\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Gschwandkopf",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "65.00",
+          "maxPrice": "105.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "65.00",
+          "maxPrice": "98.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "65.00",
+          "maxPrice": "94.50",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Junior Suite, Dusche und Bad, WC",
+      "description": "Doppelzimmer mit Wohnzimmer (im Wohnzimmer -\u003e Doppelcouch zum ausziehen, Südbalkon, Bad, WC getrennt max. 4 Personen.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Hohe Munde",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Einzelzimmer, Dusche und Bad, WC",
+      "description": "Einzelzimmer mit kleinem Wohnteil, Bad, WC",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Wetterstein",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "72.00",
+          "maxPrice": "9999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "72.00",
+          "maxPrice": "96.50",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

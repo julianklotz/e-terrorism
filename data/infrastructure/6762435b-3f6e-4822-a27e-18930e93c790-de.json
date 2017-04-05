@@ -1,0 +1,21 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation",
+    "LakeBodyOfWater"
+  ],
+  "name": "Möserersee",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3157732997403",
+    "longitude": "11.1441828171387"
+  },
+  "description": "Der Möserer See\nEtwa 15 Minuten oberhalb von Mösern liegt in idyllischer Waldeinsamkeit, eingebettet in\neiner mit Moränenschutt ausgepolsterten Felswanne, der kleine, bis zu 11 m tiefe Möserer\nSee (1.292 m). Obwohl er sich im Naturschutzgebiet befindet (im Flachwasser gibt es\nFieberklee, in Ufernähe blühen Alpenrosen und er dient als Brutplatz für verschiedene\nWasservögel), ist hier das Baden erlaubt. Er gilt als einer der wärmsten Badeseen Tirols.\nEinkehrmöglichkeit bietet die „Möserer Seestub‘n“.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3e4265b4-e563-446f-b0a0-82ba8100b387/99/image.jpg",
+      "caption": "Möserersee"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant"
+  ],
+  "name": "Gasthof Hirschen",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2902329",
+    "longitude": "11.219146164418"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Gasthof Hirschen",
+    "streetAddress": "Leithener-Dorf-Strasse 9",
+    "addressLocality": "Reith bei Seefeld",
+    "postalCode": "6103",
+    "addressCountry": "AT",
+    "telephone": "0043 5212 3155",
+    "faxNumber": "(0043) 5212 3155 22",
+    "email": "info@gasthof-hirschen.com",
+    "url": "www.gasthof-hirschen.com"
+  },
+  "description": "Sitzplätze für ca. 100 Personen, Eigene Landwirtschaft, Stempelstelle",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c1f4807b-14e0-41c4-a503-4b6963a0b842/99/image.jpg",
+      "caption": "Gasthof Hirschen Hausansicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e09b251d-b82b-4841-98d7-42332a72f718/99/image.jpg",
+      "caption": "Winter"
+    }
+  ]
+}

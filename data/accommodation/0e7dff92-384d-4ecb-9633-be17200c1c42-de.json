@@ -1,0 +1,252 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.fw-rauth.com",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Ferienwohnungen Rauth",
+    "streetAddress": "Gasse 179 a",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 5175",
+    "email": "maria.rauth@gmx.at",
+    "url": "http://www.fw-rauth.com"
+  },
+  "name": "Ferienwohnungen Rauth",
+  "description": [
+    "\nBestens ausgestattete 2-Zimmer Appartments, Vorraum, separate Küche, Dusche, WC, LED TV mit Sat 100 Programme, Küche komplett ausgestattet, Mikrowelle, Tisch- u. Bettwäsche, Balkon mit Tisch und Sitzgelegenheit, Kellerabteil für Ski/Rodel/Wanderschuhe/Wanderstöcke usw.,  Waschraumgelegenheit auf Anfrage, Gratis Parkmöglichkeiten vor dem Haus, Loipeneinstieg vor dem Haus.",
+    "\nInklusive: Wasser, Strom, Haustiere\nExklusive: Kurtaxe, Endreinigung",
+    "\nAnreise: von 14 Uhr bis 21 Uhr\nAbreise: 10 Uhr"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "reviewCount": "16"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0e5b01f8-e518-41a5-95d0-350c33a35ed4/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f24f81dd-1ce3-4f76-a60d-0bd3175cccea/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c89f0c52-141d-468d-9690-e05d57eb4b81/99/image.jpg",
+      "caption": "20160929_165541"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9d79e9bd-28a4-42b7-8db5-a77943f13885/99/image.jpg",
+      "caption": "20160929_165556"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e6bd786e-56dd-4ea1-9461-3ce61770bb94/99/image.jpg",
+      "caption": "20160929_165616"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f904a060-fd90-4e79-bd50-0f4198d9e25f/99/image.jpg",
+      "caption": "20160929_165618"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/83141dab-d9f8-4151-9a05-6b7ad0b8fab6/99/image.jpg",
+      "caption": "20160929_165642"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a126ca05-57e1-466e-b276-f96359841a6c/99/image.jpg",
+      "caption": "20160929_170830"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ae8dc043-d05f-497e-afcd-8375f397b38b/99/image.jpg",
+      "caption": "20160929_165622"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/787eba72-62d4-44e1-a8c2-92207921d19e/99/image.jpg",
+      "caption": "20160929_165723"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/fcc0e721-4eae-4dd1-864d-96c6858b1129/99/image.jpg",
+      "caption": "20160929_171601"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/00f4abcb-17c3-447f-b186-b83f488391fc/99/image.jpg",
+      "caption": "DSC02698"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0cec17f8-e886-44dd-8146-be8332113b0b/99/image.jpg",
+      "caption": "DSC02692"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/82c63ff4-689f-4ea4-87a5-480ca4e83c93/99/image.jpg",
+      "caption": "DSC02700"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e9df836e-a7a0-4f70-9d3c-1421416dda6c/99/image.jpg",
+      "caption": "DSC02693"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c366b26c-5fa5-4969-8484-6253e420fa84/99/image.jpg",
+      "caption": "DSC02856"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0923c4a8-7b8b-41d6-bead-1e7926d9f702/99/image.jpg",
+      "caption": "DSC02707"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e038bb1d-3820-4a90-b32b-7bcb2d71b206/99/image.jpg",
+      "caption": "DSC02709"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5074d17b-b74f-4e72-90e8-f4a0af7bfa00/99/image.jpg",
+      "caption": "DSC02723"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f5bc4132-47fe-4a83-bfcf-6125735d16f2/99/image.jpg",
+      "caption": "DSC02732"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1e28a209-37eb-4dd4-a128-3f021dafd163/99/image.jpg",
+      "caption": "DSC02735"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8d97d581-9b0e-47b5-abcc-7c9dcac4e959/99/image.jpg",
+      "caption": "DSC02766"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/dfd73b9e-75ac-405b-aa81-048d1c4ae5d4/99/image.jpg",
+      "caption": "balkon 4"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.379911426307",
+    "longitude": "11.160486222274"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "\n2 Zimmer-Appartement liegt in sehr ruhiger Lage, Ost-West-Balkon mit Tisch und Sitzgelegenheit, Blick zum Waldrand",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment 40 /1 Schlafraum, Dusche,WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "35.00",
+          "maxPrice": "55.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "45.00",
+          "maxPrice": "65.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "\n2-Zimmer Appartement, separate Kochnische, Süd-Ost-Balkon mit Tisch und Sitzgarnitur, Wohnzimmer in Tiroler Stil eingerichtet mit Eckcouch, Eckbank mit Tisch und 2 Stühlen, Vollautomatische Kaffeemaschine, Toaster,  Vorraum,",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment 60 /1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "\n2 Zimmer-Appartement, separate Kochnische, Süd-Balkon mit Tisch und Sitzgarnitur neu, Espressomaschine, Toaster, 2-Sitzer-Couch",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment 45 /1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "50.00",
+          "maxPrice": "50.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "45.00",
+          "maxPrice": "70.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

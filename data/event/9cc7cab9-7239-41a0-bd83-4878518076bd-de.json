@@ -1,0 +1,59 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "Casinos Austria Poker Tour Sommer 2017",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Casino Seefeld",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Bahnhofstr. 124",
+      "addressLocality": "Seefeld",
+      "postalCode": "6100",
+      "addressCountry": "AT",
+      "telephone": "+4352122340",
+      "email": "info@casinos.at",
+      "url": "http://www.seefeld.casinos.at"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Casino Seefeld",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Bahnhofstr. 124",
+      "addressLocality": "Seefeld",
+      "postalCode": "6100",
+      "addressCountry": "AT",
+      "telephone": "+4352122340",
+      "email": "info@casinos.at",
+      "url": "http://www.seefeld.casinos.at"
+    }
+  },
+  "description": "Im Casino Seefeld sind Sie immer in guten Händen, Pokerbegeisterte kommen bei der zweiten Pokerwoche des Jahres 2017 voll auf ihre Kosten. Verpassen Sie nicht den spannenden Showdown, wenn die Pokerhochburg am Seefelder Hochplateau abermals Schauplatz der beliebten CAPT, Casinos Austria Poker Tour, wird. Information \u0026 Anmeldung: www.seefeld.casinos.at.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e5b62363-5ff8-43f3-940d-a6163d97121d/99/image.jpg",
+      "caption": "Poker"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/70b7ba88-cc09-43f0-9b9a-e7e3eaa77868/99/image.jpg",
+      "caption": "Casino 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d2cb7fe3-30a2-4f0d-ad84-f09c20f297cb/99/image.jpg",
+      "caption": "Casino"
+    }
+  ],
+  "url": [
+    "http://www.seefeld.casinos.at"
+  ],
+  "startDate": "2017-05-23T14:00:00",
+  "endDate": "2017-05-28"
+}

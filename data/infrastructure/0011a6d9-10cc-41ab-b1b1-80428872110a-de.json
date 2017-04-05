@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation"
+  ],
+  "name": "Naturrodelbahn Reitherjoch Alm Seefeld/Reith",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3231991891604",
+    "longitude": "11.2134019045685"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Reitherjoch Alm",
+    "addressLocality": "Reith bei Seefeld",
+    "postalCode": "6103",
+    "addressCountry": "AT",
+    "telephone": "+436767770501",
+    "email": "reitherjochalm@aon.at",
+    "url": "http://www.reitherjochalm.at"
+  },
+  "description": "Naturrodelbahn Reitherjoch Alm\nAufstieg von der Talstation Bergbahnen Rosshütte,  Länge: ca. 2,5 km, Höhenunterschied: 290 m, Schwierigkeit: schwer, bewirtschaftete Hütte: \nReitherjoch Alm, Tel.: 0676/7770501, www.reitherjochalm.at, zur freien Benützung auf eigene Gefahr, ohne Transport und Beleuchtung. Rodelverleih bei den Sportgeschäften.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1ed40595-6798-4998-87c8-798920116183/99/image.jpg",
+      "caption": "Hp_002_Reitherjochalm_Seefeld.jpg"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/aeecfb32-578d-4b12-b5d3-5342e1432452/99/image.jpg",
+      "caption": "HP_001_Reitherjochalm_Seefeld.jpg"
+    }
+  ]
+}

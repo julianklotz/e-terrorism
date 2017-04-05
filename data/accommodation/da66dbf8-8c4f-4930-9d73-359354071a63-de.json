@@ -1,0 +1,119 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.ahrn.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Landhaus Ahrn",
+    "streetAddress": "Ahrn 217 b",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6880",
+    "faxNumber": "(0043) 5214 6880",
+    "email": "landhaus.ahrn@aon.at",
+    "url": "http://www.ahrn.at"
+  },
+  "name": "Landhaus Ahrn",
+  "description": [
+    "Unser Landhaus Ahrn steht inmitten blühender Wiesen und ist umgeben von einer atemberaubenden Bergwelt.Im Winter führt die Langlaufloipe direkt am Haus vorbei und im Sommer bietet unser Haus einen idealen Ausganspunkt für zahlreiche Wanderungen sowie Berg- und Klettertouren. Ein großer Ski- und Wachsraum sowie ein Trockenraum für Sportbekleidung sind vorhanden.",
+    "Inklusive Strom, Wasser, Heizung und Loipengebühr.\nExclusive Endreinigung und Ortstaxe.",
+    "Innsbruck - Seefeld - Leutasch - Weidach - Gasse - Ahrn\nMitenwald - Leutasch - Schanz - Ahrn"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "reviewCount": "11"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/51786b0d-fa16-4b18-a2ae-0dd0673605e0/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4a2bfea3-764a-4c82-a9d7-24ea88326bc3/99/image.jpg",
+      "caption": "Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.386614790371",
+    "longitude": "11.17317182354"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC",
+      "description": "Loipengebühr incl. \ngeschlossene Garage incl.\n\nexl. Endreinigung und Kurtaxe.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Gehrnspitz/Fewo, Dusche, WC",
+          "description": "1 Raum Appartement\n37 m2 für 2 Personen  \n*Wohnschlafraum mit Betten im Tiroler Stil\n*Küche mit Mikrowelle, Wasserkocher,\n Toaster,Kaffeemaschine,Eierkocher...\n*Dusche/WC,Föhn\n*Vorraum mit Garderobe\n*gemütliche Sitzecke und Couch\n*Sat-TV, Radio,W-Lan kostenlos\n*Balkon                                                   ",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Die Ferienwohnungen verfügen über ein getrenntes Schlafzimmer, einen Vorraum mit Garderobe,einen Wohnschlafraum mit Betten,eine Küche mit Geschirrspüler und Sitzecke, einer gemütlichen Wohnecke mit Chouch,2 Sat-TV, 2 Duschen mit WC und einem Balkon mit herlicher Aussicht auf unsere Bergwelt. ",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Ahrnspitz/1 Schlafraum/Dusche, WC",
+          "description": "2 Raum Appartement\n43 m2 für 2-4 Personen\n*getrenntes Schlafzimmer\n*Wohnzimmer mit einer hochwertigen ausziehbarer Schlafcouch (160/200) liegefläche\n*Küche mit Geschirrspüler, Mikrowelle, Wasserkocher,\n Toaster,Kaffeemaschine,Eierkocher...\n*gemütliche Sitzecke\n*Vorraum mit Garderobe\n*Dusche/WC,Föhn\n*Sat- TV, Radio, W-Lan kostenlos\n*Südbalko",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "Die Ferienwohnungen verfügen über ein getrenntes Schlafzimmer, einen Vorraum mit Garderobe,einen Wohnschlafraum mit Betten,eine Küche mit Geschirrspüler und Sitzecke, einer gemütlichen Wohnecke mit Chouch,2 Sat-TV, 2 Duschen mit WC und einem Balkon mit herlicher Aussicht auf unsere Bergwelt. ",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Dreitorspitz/2 Schlafräume/Dusche, WC",
+          "description": "2 Raum Appartement\n55 m2 für 2-5 Personen\n*Schlafzimmer ,Wohnschlafraum mit Betten,\n*Küche mit Wasserkocher ,\n Toaster,Kaffeemaschine,Eierkocher...\n*gemütliche Sitzecke und Chouch\n* Vorraum mit Garderobe\n*2 Duschen mit WC,Föhn\n*2 Sat-TV, Radio,W-Lan kostenlos,\n*Südbalkon\n",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

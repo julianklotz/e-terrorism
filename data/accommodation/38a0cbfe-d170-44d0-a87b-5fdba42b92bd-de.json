@@ -1,0 +1,834 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.muehletirol.com",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Alte Mühle - Neue Mühle",
+    "streetAddress": "Weidach 298 b",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6752 0",
+    "faxNumber": "(0043) 5214 6752 19",
+    "email": "info@muehletirol.com",
+    "url": "http://www.muehletirol.com"
+  },
+  "name": "Alte Mühle - Neue Mühle",
+  "description": [
+    " Umgeben von der einzigartigen Naturlandschaft der Leutascher Bergwelt liegt das 4-Sterne Appartementhaus alte \u0026 neue Mühle in ruhiger Lage nahe dem Zentrum von Leutasch. Als exklusives familiengeführtes 4-Sterne Romantikparadies bieten wir Urlaubsgenuss auf höchstem Niveau. \n",
+    "Kostenlos:\nSauna, Dampfbad, Sanarium, Saunawäsche, sowie Bademäntel und Slipper. Verleih von Schneeschuhen und Stöcken.\n\nExklusive:\nHaustier: € 5,00 - € 10,00 pro Tag\nSolarium:€ 8,00\nBadeanwendungen: € 20,00 - € 60,00",
+    "Check in: 14.30 Uhr\nCheck out: 10.00 Uhr\nUnsere Häuser befinden sich im Ortsteil Weidach (im Herzen von Leutasch), am Seebach, Nähe Weidachsee, zwischen dem Informationsbüro und dem Alpenbad.",
+    "Romantik Urlaub\nRomantik Hotel\nUrlaub Leutasch\nUrlaub in Leutasch\nUrlaub Seefeld\n4Sterne Appartement"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "reviewCount": "559"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d7edcd05-27a0-48c5-b488-2ccd1cd18838/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/68118656-0c76-45b7-aea7-1310d088c9d7/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b8d85489-0058-4d5f-8ce0-5bf72e738f1c/99/image.jpg",
+      "caption": "Waldsauna"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6bb02867-3e06-4e81-bc0f-49fd90618ddc/99/image.jpg",
+      "caption": "Terasse"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.36921753936",
+    "longitude": "11.15950940953"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Das Zimmer befindet sich im Parterre der Neuen Mühle mit einer kleinen Terrasse mit Blick auf das Mühlrad direkt neben dem Seebach. Die Besonderheit dieses Zimmers ist das großzügige Bad. Genießen Sie die große Badewanne, auch mit Dusche und abgetrenntem WC.\n\nSelbstverständlich steht Ihnen ein Flat-TV, Kühlschrank, Wasserkocher, Rollos, Saunatasche mit Bademäntel, Slipper und W-Lan zur Verfügung.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer A - Zimmer am Bach",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "99.00",
+          "maxPrice": "9999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "59.00",
+          "maxPrice": "79.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Das Zimmer befindet sich in  im Parterre der Neuen Mühle und ist Süd-West orientiert. Es hat eine Terrasse und einen  Garten direkt neben dem Seebach mit Blick auf unsere eigene Kornmühle.  Zimmer mit handgeschmiedetem  Himmelbett, Kühlschrank, Wasserkocher und  modernem  Bad mit Rainbow Dusche.\n\nAuch in diesem Zimmer steht Ihnen ein Flat-TV, Kühlschrank, Wasserkocher, Saunatasche mit Bademäntel, Slipper und W-Lan zur Verfügung.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer A - Gartenzimmer",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "99.00",
+          "maxPrice": "9999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "59.00",
+          "maxPrice": "75.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Das Zimmer befindet sich im ersten Stock  der Neuen Mühle.  Kachelofen, alte Bauernmöbel und ein handgeschmiedetes Himmelbett. Die Aussicht auf die Loipen und das Wettersteingebirge lässt Sie in die Tiroler Gemütlichkeit eintauchen. Zimmer mit Kühlschrank, Wasserkocher, großzügiges Badezimmer, sichtbarem Dachstuhl.  Zimmertyp mit Steinboden,\n\nFlat-TV, Kühlschrank, Wasserkocher, Saunatasche mit Bademäntel, Slipper und W-Lan stehen Ihnen natürlich zur Verfügung.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer B - Kaminzimmer",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "99.00",
+          "maxPrice": "9999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "56.50",
+          "maxPrice": "72.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Das Zimmer befindet sich im ersten Stock  der Neuen Mühle.   Die große Fensterfront bietet Ihnen beste Aussicht auf Loipen und die Tiroler Bergwelt.  Zimmer mit sichtbarem Dachstuhl und handgeschmiedetem  Himmelbett.\n\nNatürlich steht Ihnen in diesem Zimmertyp ein Flat-TV, Kühlschrank, Wasserkocher, Saunatasche mit Bademäntel, Slipper und W-Lan zur Verfügung.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer B - Panoramazimmer",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "94.00",
+          "maxPrice": "9999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "52.00",
+          "maxPrice": "70.50",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Unser Romantikzimmer trägt seinen Namen zu recht - Klein aber Fein! Ein handgeschmiedetes Himmelbett gibt dem Zimmer ein ganz besonderes Ambiente. Das Zimmer  befindet sich in  der Alten Mühle  im Parterre direkt neben dem Saunabereich.\n\nSelbstverständlich steht Ihnen jeglicher Komfort wie ein Flat TV, Wasserkocher, Saunatasche mit Bademäntel, Slipper und W-Lan zur Verfügung.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer C - Romantikzimmer",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 1 Schlafraum",
+      "description": "Das Appartement befindet sich in  der Alten Mühle  im zweiten Stock.  Ein Wohntraum ganz in Holz mit sichtbaren Dachstuhl und Sonnenbalkon ringsum! Wunderbare Aussicht auf Berge und Felder. Der große Wohnraum mit Küchenzeile und Bauerntisch,  Mikrowelle, Geschirrspüler, großer Kuschelcouch und ein offener Kamin. Großzügiges Bad mit Wanne und Dusche. Bauernschlafzimmer mit eigenem Charakter - ein gemütliches Holzbett und ein großer alter bemalter Kleiderschrank lässt Sie in längst vergangene Zeiten eintauchen.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Chalet App. 1 - Kaiser Max",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "63.00",
+          "maxPrice": "9999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "63.00",
+          "maxPrice": "118.22",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "63.00",
+          "maxPrice": "102.86",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "63.82",
+          "maxPrice": "95.18",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Das Appartement befindet sich in  der Alten Mühle  im zweiten Stock.  Ein Wohntraum ganz in Holz mit sichtbaren Dachstuhl und Sonnenbalkon ringsum! Wunderbare Aussicht auf Berge und Felder. Der Wohnraum mit Küchenzeile und Bauerntisch,  Mikrowelle, Geschirrspüler, eine Kuschelcouch und ein offener Kamin. Bad mit großzügiger Rainbow-dusche. Ein Bauernschlafzimmer mit eigenem Charakter, ein gemütliches Holzbett und ein großer alter bemalter Kleiderschrank lässt Sie in längst vergangene Zeiten eintauchen.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Chalet App. 2 - Hubertus",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "63.00",
+          "maxPrice": "9999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "63.00",
+          "maxPrice": "111.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "63.00",
+          "maxPrice": "99.33",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Das Appartement  befindet sich in  der Alten Mühle  im ersten  Stock. Die Luis Trenker hat eine große Terrasse und einen Garten.  Ein Wohntraum mit viel  Holz im Chaletstil,  Süd-West orientiert. Wunderbare Aussicht auf Berge und Felder. Der  Wohnraum mit Küchenzeile und Bauerntisch,  Mikrowelle, Geschirrspüler,  Kuschelcouch und ein offener Kamin. Großzügiges Bad mit Rainbow-dusche. Bauernschlafzimmer mit eigenem Charakter - ein gemütliches Holzbett und ein großer alter bemalter Kleiderschrank lässt Sie in längst vergangene Zeiten eintauchen.\n\nNatürlich stehen Ihnen in diesem Appartement Bademäntel, Slipper und W-Lan zur Verfügung.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Chalet App. 3 - Luis Trenker",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "63.00",
+          "maxPrice": "9999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "63.00",
+          "maxPrice": "112.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "63.00",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 1 Schlafraum",
+      "description": "Das Appartement befindet sich in  der Alten Mühle  im ersten  Stock und  hat eine große Terrasse.  Eine kleine kuschelige Chaletwohnung mit viel Holz und Sonne ringsum! Wunderbare Aussicht auf Berge und Felder. Eine Kuschelcouch und ein offener Kamin lädt zum Genießen ein. Vollausgestattetes Appartement mit einem kleinen  Bauernschlafzimmer  und ein großzügiges Bad mit Wanne und Dusche.  Mikrowelle und Geschirrspüler  sind vorhanden.\n\nNatürlich stehen Ihnen in diesem Appartement Bademäntel, Slipper und W-Lan zur Verfügung.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Chalet App. 4 - Tirol",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "63.00",
+          "maxPrice": "9999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "63.00",
+          "maxPrice": "107.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Die Mühlensuite hat mehr als 90m², Süd Terrasse und eigener Garten, Privateingang, Kochinsel, Kamin, Kuschelcouchen, ein großzügiges und luxuriöses Bad mit Blick auf die umliegenden Berge und eine freistehende Runddusche mit Massage Funktionen.\n\nNatürlich stehen Ihnen in diesem Appartement Bademäntel, Slipper und W-Lan zur Verfügung.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Superior App. - Mühlensuite",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "63.00",
+          "maxPrice": "5029.75",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "63.00",
+          "maxPrice": "3373.33",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "72.88",
+          "maxPrice": "2545.12",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 1 Schlafraum",
+      "description": "Das Appartement befindet sich in  der Alten Mühle  im Parterre mit einem privaten Eingang. Es liegt  direkt neben dem Saunabereich. Von der Terrasse beim Seebach haben Sie einen Blick auf das Wettersteingebirge.  Mikrowelle und  Bad mit Badewanne. Natürlich stehen Ihnen in diesem Appartement Bademäntel, Slipper und W-Lan zur Verfügung.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement 1 - Seewohnung",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "9999.00",
+          "maxPrice": "9999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "55.00",
+          "maxPrice": "101.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "55.00",
+          "maxPrice": "96.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 2 Schlafräume",
+      "description": "Das Appartement  in  der Alten Mühle  im ersten Stock verfügt über eine Terrasse und  einen Balkon. Sie haben einen Rundblick auf die Leutascher Bergwelt. Zwei Schlafzimmer mit handgeschmiedeten Himmelbetten und 2 Bädern.  Küche mit Mikrowelle.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement 2 - Gehrnspitz",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "9999.00",
+          "maxPrice": "9999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "55.00",
+          "maxPrice": "5027.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "55.00",
+          "maxPrice": "3369.67",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "52.00",
+          "maxPrice": "2541.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 1 Schlafraum",
+      "description": "Das Appartement befindet sich in  der Alten Mühle  im ersten Stock. Es liegt nach Süden und hat einen großen Garten und  eine  Terrasse mit Blick auf die Ahrnspitz. Schlafzimmer mit einem  handgeschmiedetem  Himmelbett. Mikrowelle. Garten und Terrasse, exklusive möbliert. Natürlich stehen Ihnen in diesem Appartement Bademäntel, Slipper und W-Lan zur Verfügung.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement 3 - Ahrnspitz",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "9999.00",
+          "maxPrice": "9999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "55.00",
+          "maxPrice": "101.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "55.00",
+          "maxPrice": "96.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Das Appartement befindet sich in  der Alten Mühle  im zweiten Stock.  Von der Galerie im Schlafzimmer und vom Balkon aus haben Sie einen  traumhaften Blick auf die Leutascher Bergwelt.  Schlafzimmer mit einem  handgeschmiedetem  Himmelbett.   Mikrowelle. Natürlich stehen Ihnen in diesem Appartement Bademäntel, Slipper und W-Lan zur Verfügung.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement 4 - Weitblick",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "9999.00",
+          "maxPrice": "9999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "55.00",
+          "maxPrice": "96.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "55.00",
+          "maxPrice": "89.33",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Das Appartement befindet sich in  der Neuen Mühle .  Es liegt neben der romantischen Kornmühle und ist Süd-West orientiert. Die Gartenwohnung   hat eine Terrasse und einen großen Garten direkt neben dem Seebach mit Blick auf die Kornmühle und die Hohe Munde. Großer Garten und Terrasse, exklusiv möbliert. Natürlich stehen Ihnen in diesem Appartement Bademäntel, Slipper und W-Lan zur Verfügung.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement 5 - Gartenwohnung",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "9999.00",
+          "maxPrice": "9999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "55.00",
+          "maxPrice": "96.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "55.00",
+          "maxPrice": "89.33",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Das Appartement befindet sich im ersten Stock in der Neuen Mühle .  Es liegt neben der romantischen Kornmühle und ist Süd-West orientiert. Die Mundewohnung hat einen Sonnenbalkon mit Blick auf die eigene Kornmühle und die Hohe Munde. Appartement  mit  Bauernschlafzimmer und sichtbarem Dachstuhl. Natürlich stehen Ihnen in diesem Appartement Bademäntel, Slipper und W-Lan zur Verfügung.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement 6 - Mundewohnung",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "9999.00",
+          "maxPrice": "9999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "55.00",
+          "maxPrice": "96.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "55.00",
+          "maxPrice": "89.33",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Das Appartement befindet sich im ersten Stock in der Neuen Mühle .  Es ist nach Süden orientiert  und  hat einen Sonnenbalkon. Blick auf die eigene Kornmühle. Appartement  mit  Bauernschlafzimmer und sichtbarem Dachstuhl. Natürlich steht Ihnen in diesem Appartement Bademäntel, Slipper und W-Lan zur Verfügung.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement 7 - Wintergarten",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "9999.00",
+          "maxPrice": "9999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "55.00",
+          "maxPrice": "97.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "55.00",
+          "maxPrice": "90.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Suite, Dusche, WC, 2 Schlafräume",
+      "description": "Das Appartement befindet sich im ersten Stock in der Neuen Mühle .  Großzügiger Wohnraum mit einem großen und hohem, spitz zulaufendem sichtbaren Dachstuhl mit 400 Jahre alten Balken. Aus den 7 Fenstern haben Sie einen direkten Blick auf die Loipen, auf das Wettersteingebirge und auf das Dorf, an dessen Rand sich unser Haus befindet. Appartement  mit  Terrasse, Geschirrspüler  und Bauernschlafzimmer um sich wirklich in Tirol zu fühlen.\n\nNatürlich stehen Ihnen in diesem Appartement Bademäntel, Slipper und W-Lan zur Verfügung.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartment 8 - Turmsuite",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "9999.00",
+          "maxPrice": "9999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "65.50",
+          "maxPrice": "97.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "61.33",
+          "maxPrice": "89.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "59.25",
+          "maxPrice": "85.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

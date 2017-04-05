@@ -1,0 +1,113 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "www.villacaroline.at"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Villa Caroline App. 1  App. 3",
+    "streetAddress": "Leutascherstraße 281 Top 1",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "0043 664 3603249",
+    "email": "info@villacaroline.at",
+    "url": "www.villacaroline.at"
+  },
+  "name": "Villa Caroline - App. Clegg",
+  "description": "Die Villa Caroline ist ein neuerbautes Haus im moderneren österreichischen Stil, mit großen Fenstern – mit herrlicher Aussicht. Es wurde einem sehr hohen Standard gemäß gebaut und ausgestattet. Das Apartment (110 m2) ist mit einem Aufzug erreichbar und das hübsche Dorfzentrum  mit seinen attraktiven Restaurants und Geschäften ist in nur 5 Gehminuten erreichbar. \n\nDie Ferienwohnung ist mit zwei Schlafzimmern - für 4 Erwachsene - ausgestattet und im großen Wohnzimmer – auf der Ausziehcouch - können auch noch zwei Kinder übernachten. Auf Wunsch stellen wir Ihnen auch gerne ein Zustellbett und ein Babybett zur Verfügung.\n\nDas Apartment ist mit zwei Luxus-Badezimmern - mit Fußbodenheizung - ausgestattet und hat eine große südseitige Terrasse – mit großem Eßtisch mit Bänken und Stühlen fürs Essen im Freien – umgeben vom einzigartigen Bergpanorama.\n\nDie Größe des Wohnzimmers beträgt ca. 35m². Es hat großen Fenster - mit einer traumhaften Aussicht, eine Tür zur Terrasse, einen großzügigen Eßtisch, Satelliten-Fernseher, Internetzugang, einem behaglichen Kamin und einer großzügigen Sitzgarnitur.\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a891b15c-aa34-4fad-8df8-f7041f979bcc/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1903b419-4c90-4d71-ad54-5e47a4e6fc6e/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0112a9e9-d6f5-4922-bcf8-2b72ce1504ec/99/image.jpg",
+      "caption": "Garten"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e2d0539f-58fb-443b-97c1-539116a884df/99/image.jpg",
+      "caption": "Haus Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1be5963f-ce24-439a-92ed-79dcc944a842/99/image.jpg",
+      "caption": "Gartenteich"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/72f0eb7f-7f17-4615-a131-6c1d667e9cd9/99/image.jpg",
+      "caption": "Aussicht"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3305549223373",
+    "longitude": "11.1803705595246"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 2 Schlafräume",
+      "description": "Luxusappartement (110m²) mit einem traumhaften Ausblick, Flachbildschirm-TV, DVD-Spieler mit DVD\u0027s und Internetanschluss (gratis), gemütlichen Gaskamin, einer komplett ausgestattete Küche mit Backofen, Mikrowelle und Geschirrspüler, sehr große Terrasse, 2 Schlafzimmer, 2 Badezimmer (Badewanne und Dusche, WC und Bidet, Fußbodenheizung), Schlafcouch, einem Garagenparkplatz, gratis Nützung Waschmaschine und Trockner.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement 1",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "175.00",
+          "maxPrice": "175.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "175.00",
+          "maxPrice": "175.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "175.00",
+          "maxPrice": "175.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "175.00",
+          "maxPrice": "175.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

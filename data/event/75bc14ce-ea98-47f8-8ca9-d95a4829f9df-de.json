@@ -1,0 +1,59 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "Gottesdienste in italienischer Sprache",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Pfarramt Seefeld",
+    "employee": {
+      "@type": "Person",
+      "familyName": "Pfarrer Pfeifer"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Maximilianweg 29",
+      "addressLocality": "Seefeld",
+      "postalCode": "6100",
+      "addressCountry": "AT",
+      "telephone": "+43521223190",
+      "faxNumber": "+435212231911",
+      "email": "pfarre.seefeld@dibk.at",
+      "url": "http://www.pfarramt-seefeld.at"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Pfarramt Seefeld",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Maximilianweg 29",
+      "addressLocality": "Seefeld",
+      "postalCode": "6100",
+      "addressCountry": "AT",
+      "telephone": "+43521223190",
+      "faxNumber": "+435212231911",
+      "email": "pfarre.seefeld@dibk.at",
+      "url": "http://www.pfarramt-seefeld.at"
+    }
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d563412c-0d10-4715-a74c-9a557116ca5f/99/image.jpg",
+      "caption": "Gottesdienst"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d26db226-f690-4e36-95b6-9132b48bd3e8/99/image.jpg",
+      "caption": "Pfarrkirche"
+    }
+  ],
+  "url": [
+    "http://www.pfarramt-seefeld.at"
+  ],
+  "startDate": "2017-07-23T11:30:00",
+  "endDate": "2017-08-27"
+}

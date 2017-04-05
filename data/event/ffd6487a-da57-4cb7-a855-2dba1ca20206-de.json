@@ -1,0 +1,51 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "Herz-Jesu-Prozession",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Pfarramt Reith",
+    "employee": {
+      "@type": "Person",
+      "givenName": "Ernst",
+      "familyName": "Ranalter"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Römerstraße 24",
+      "addressLocality": "Reith bei Seefeld",
+      "postalCode": "6103",
+      "addressCountry": "AT",
+      "telephone": "(0043)521252782 ",
+      "email": "Pfarre.Reith@dibk.at",
+      "url": "http://www.dibk.at"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Pfarramt Reith",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Römerstraße 24",
+      "addressLocality": "Reith bei Seefeld",
+      "postalCode": "6103",
+      "addressCountry": "AT",
+      "telephone": "(0043)521252782 ",
+      "email": "Pfarre.Reith@dibk.at",
+      "url": "http://www.dibk.at"
+    }
+  },
+  "description": "Herz Jesu Prozession mit allen Vereinen von Reith",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/eb502528-5361-4037-b2ed-6d53b56e259a/99/image.jpg",
+      "caption": "Prozession"
+    }
+  ],
+  "startDate": "2017-06-25T09:00:00",
+  "endDate": "2017-06-25"
+}

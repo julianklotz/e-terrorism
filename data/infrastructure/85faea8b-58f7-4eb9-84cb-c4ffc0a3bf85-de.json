@@ -1,0 +1,26 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation",
+    "TrainStation",
+    "TravelAgency",
+    "TouristAttraction"
+  ],
+  "name": "Ski Arena Seefeld",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "description": [
+    "In der Ski Arena Seefeld stehen Ihnen bestens präparierte Abfahrten in einem exzellent erschlossenen Skigebiet für Jung und Alt (gesamt ca. 48 Pistenkilometer in der Region), umrahmt von einer herrlichen Bergkulisse, zur Verfügung. ",
+    "In der Ski Arena Seefeld stehen Ihnen bestens präparierte Abfahrten in einem exzellent erschlossenen Skigebiet für Jung und Alt (gesamt ca. 48 Pistenkilometer in der Region), umrahmt von einer herrlichen Bergkulisse, zur Verfügung. "
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c033f47f-be15-471d-babb-772a0ca52cd4/99/image.jpg",
+      "caption": "Pistenpanorama"
+    }
+  ]
+}

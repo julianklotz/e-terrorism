@@ -1,0 +1,245 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.apartment-paula.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Apartment Paula",
+    "streetAddress": "Reitherspitzstr. 390",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2552",
+    "faxNumber": "(0043) 5212 2265 4",
+    "email": "grameiser-scherl@tirol.com",
+    "url": "http://www.apartment-paula.at"
+  },
+  "name": "Apartment Paula",
+  "description": [
+    "Wir bieten im „Apartment Paula“ großzügige und im zeitgemäßen Wohnstil eingerichtete 2- und 3-Raum-Apartments für Ihren Urlaub in Seefeld. Die komfortabel ausgestatteten Ferienwohnungen bieten ausreichend Platz für 2 bis 5 Personen und sind mit 4* Edelweiß ausgezeichnet. Als unsere Gäste nutzen Sie das Hallenbad im Olympia Sport und Kongresszentrum 1 Mal pro Woche kostenlos.\n\n",
+    ""
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "reviewCount": "23"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/70df81fd-28e5-455a-90c1-25729675872e/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/67902186-72ca-4f60-8843-025b609a2d06/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1cce659e-a43e-49c4-88be-daede4415b0f/99/image.jpg",
+      "caption": "Enzian (5)"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9eec3c0e-367c-4658-9cb2-6ffb55c1257e/99/image.jpg",
+      "caption": "Enzian "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7b4943b3-4e14-4ff4-a779-0c180633048f/99/image.jpg",
+      "caption": "EZ"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7a6c616d-e217-4f70-91ce-8fcbc58818bf/99/image.jpg",
+      "caption": "Edelweiss (8)"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d7796de6-864f-482c-a6b7-847a45c36519/99/image.jpg",
+      "caption": "Enzian (4)"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/36da5ebd-1448-4a0d-8d84-db89e621693b/99/image.jpg",
+      "caption": "Stilblueten (7)"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9a997f12-1627-4d88-8865-b30a647affd6/99/image.jpg",
+      "caption": "Alpenrose (3)"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/283e58bb-4420-4eb1-b79c-5b65c71bd770/99/image.jpg",
+      "caption": "Alpenrose (5)"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/11a419a2-4db9-4f5b-977e-c1620a32cecb/99/image.jpg",
+      "caption": "Edelweiss m4"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.326617717254",
+    "longitude": "11.1945050954819"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Toilette und Bad/Dusche getrennt, 2 Schlafräume",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Edelweiss",
+          "description": "Apartment Edelweiß (67 m2)\nGroßzügiges und im zeitgemäßem Wohn Stil eingerichtetes 3-Raum-Apartment im zweiten Stock  Wohnzimmer mit eigenem Küchenbereich, Esstisch und Couch, 2 Schlafzimmer. 2 voll möblierte Balkone mit Süd und West Lage, Badezimmer mit Dusche und Badewanne und getrenntem WC.  Belegung von 2 bis 4 Personen. 5. Person im Zustellbett oder auf der Schlafcouch.\n",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "88.00",
+          "maxPrice": "124.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "88.00",
+          "maxPrice": "124.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "88.00",
+          "maxPrice": "124.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Toilette und Bad/Dusche getrennt, 2 Schlafräume",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Enzian",
+          "description": "Apartment Enzian (68 m2)\nGroßzügiges und im zeitgemäßem Wohn Stil eingerichtetes 3-Raum-Apartment im ersten Stock  mit schönen Blick auf die  Stubaier Alpen im Süden sowie das Wettersteingebirge im Westen.  Wohnzimmer mit eigenem Küchenbereich, Esstisch und Couch, 2 Schlafzimmer. 2 Balkone voll möbliert mit Süd und West-Lage, Badezimmer mit Dusche und Badewanne und getrenntem WC.  Belegung von 2 bis 4 Personen. 5. Person im Zustellbett oder auf der Schlafcouch.\n\n",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "93.00",
+          "maxPrice": "124.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "93.00",
+          "maxPrice": "124.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "93.00",
+          "maxPrice": "124.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 1 Schlafraum",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Alpenrose",
+          "description": "Apartment Alpenrose (37 m2)\n\nGroßzügiges und in zeitgemäßem Stil eingerichtetes 2-Raum-Apartment im zweiten Stock mit herrlichem Blick auf die „Kalkkögel“ in den Stubaier Alpen. Wohnzimmer mit eigenem Küchenbereich,  Esstisch  und ausziehbarer Couch, 1 Schlafzimmer, Süd Lage. Großzügiger und voll möblierten Balkon. Badezimmer mit Badewanne und WC, Belegung mit 2 Personen. Eine 3. Person auf der ausziehbaren Couch. \n",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "83.00",
+          "maxPrice": "93.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Arnika",
+          "description": "Apartment Arnika  (33 m2)\n\nGroßzügiges und in zeitgemäßem Stil eingerichtetes 2-Raum-Apartment im ersten Stock mit herrlichem Blick auf die „Kalkkögel“ in den Stubaier Alpen. Wohnzimmer mit Küchenzeile,  Esstisch  und Couch, 1 Schlafzimmer, Süd Lage. Großzügiger und voll möblierten Balkon. Badezimmer mit Badewanne und WC,  Belegung mit 2 Personen. \n",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "60.00",
+          "maxPrice": "93.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

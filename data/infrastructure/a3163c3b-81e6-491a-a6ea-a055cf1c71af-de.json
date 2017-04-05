@@ -1,0 +1,30 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "TouristAttraction"
+  ],
+  "name": "Karwendelbahn (Mittenwaldbahn)",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3287073154465",
+    "longitude": "11.1895337291138"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043)51717"
+  },
+  "description": [
+    " ",
+    "Die Karwendelbahn ist die erste vollelektrifizierte Bahn Österreichs und wurde 1912 eröffnet. Die Zugstrecke führt von Mittenwald nach Innsbruck. Auf einer Streckenlänge von 32,1 km fährt der Zug durch 16 Tunnel und über 18 hohe Brücken und Viadukte. Im März 1910 wurde der erste Spatenstich in der sagenumwobenen Martinswand getan. Die schroff ins Inntal abfallende Martinswand und der zerklüftete Schlossbachgraben stellten die größten Herausforderungen dar. Der Schlossbach wird in einer Höhe von rund 60 m über dem Wasserspiegel von einer eisernen Bogenfachwerkbrücke mit einer Länge von 66 m überwunden. Am karstigen Hang des Hechenbergs wurde der Finstertal-Viadukt gebaut, im Schlossbachgraben Hangviadukte und der Kaiserstandviadukt unterhalb der Ruine Fragenstein. Bei Reith wurde der Gurgelbachviadukt gebaut, bei Scharnitz die Isar-Brücke."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/31a444e2-3cef-4361-b3b7-a091a4b52a7e/99/image.jpg",
+      "caption": "Karwendelbahn"
+    }
+  ]
+}

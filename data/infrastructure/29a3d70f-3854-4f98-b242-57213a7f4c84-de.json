@@ -1,0 +1,28 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Store"
+  ],
+  "name": "Peterschuhe",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3284466439225",
+    "longitude": "11.1835885047913"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Peterschuhe",
+    "streetAddress": "Klosterarkaden 608",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2037"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a257b251-d76f-4e27-ae61-6e405cf65e67/99/image.jpg",
+      "caption": "Peterschuhe"
+    }
+  ]
+}

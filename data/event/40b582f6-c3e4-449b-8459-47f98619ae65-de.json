@@ -1,0 +1,53 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "Live Musik mit unserem flotten Alleinunterhalter Hans",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Erlebnishotel Kristall",
+    "employee": {
+      "@type": "Person",
+      "givenName": "Theodor",
+      "familyName": "Pfeffel"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Weidach 300 m",
+      "addressLocality": "Leutasch",
+      "postalCode": "6105",
+      "addressCountry": "AT",
+      "telephone": "(0043) 5214 6319",
+      "faxNumber": "(0043) 5214 6319 47",
+      "email": "office@hotel-kristall.at",
+      "url": "http://www.hotel-kristall.at"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Erlebnishotel Kristall",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Weidach 300 m",
+      "addressLocality": "Leutasch",
+      "postalCode": "6105",
+      "addressCountry": "AT",
+      "telephone": "(0043) 5214 6319",
+      "faxNumber": "(0043) 5214 6319 47",
+      "email": "office@hotel-kristall.at",
+      "url": "http://www.hotel-kristall.at"
+    }
+  },
+  "description": "Eintritt frei! Reservierung unter Tel. 05214 6319.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/929e60d2-2e7b-47a1-b616-93e1caabcc0d/99/image.jpg",
+      "caption": "alleinunterhalter"
+    }
+  ],
+  "startDate": "2016-12-29T20:30:00",
+  "endDate": "2017-03-16"
+}

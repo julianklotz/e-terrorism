@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "ElectronicsStore",
+    "Store"
+  ],
+  "name": "Jamnik, Elektrogeschäft",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.332100671555",
+    "longitude": "11.1885505914688"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Elektro Jamnik",
+    "streetAddress": "Münchner Str. 487",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 3949",
+    "email": "a.jamnik.elektro@aon.at",
+    "url": "http://www.elektro-jamnik.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/47950fff-0cd1-45b6-82d0-e4b46442e22c/99/image.jpg",
+      "caption": "Elektriker "
+    }
+  ],
+  "url": [
+    "http://www.elektro-jamnik.at"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "TouristAttraction"
+  ],
+  "name": "Historische Zäune/Zaunweg",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3110161447587",
+    "longitude": "11.146246467395"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Infobüro Mösern",
+    "streetAddress": "Möserer Dorfstraße 11",
+    "addressLocality": "Mösern/Buchen",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "+4350880520",
+    "email": "info.moesern@seefeld.com",
+    "url": "http://www.seefeld.com"
+  },
+  "description": "ZÄUNE PRÄGEN DEN CHARAKTER UNSERER KULTURLANDSCHAFT\nZäune sind ein wichtiges Element unserer Kulturlandschaft, sie sind ein Teil unserer Identität. Sie gehören zu den ältesten Zeugnissen bäuerlicher Kultur und drücken Rechts- und Besitzverhältnisse sowie Wirtschaftsweisen aus. Zäune prägen das Gesicht unseres Landes. Sie bilden eine Art Struktur in der Kulturlandschaft und bieten deshalb dem Betrachter Halt. Sie sind über Jahrhunderte gewachsene und gelebte Tradition. Sie sind das Werk unserer Hände - Handwerkskunst. Zäune grenzen ein und grenzen aus, sie bewahren und schützen. Zäune dienten seit jeher zur Einfriedung des Besitzes, zum Schutz der Herde, des Ackerlandes oder der benachbarten Weide. Eigene Zaunrechte regelten seit dem frühen Mittelalter Höhe und Bauart, Nutzung und Erhaltungspflicht, Zaundurchlass und Wegerecht. Diese Rechte und Pflichten sind teils bis heute im Grundbuch festgehalten. Warum wurden die alten Zaunformen aufgegeben? Warum verschwanden sie aus dem Bild unserer Landschaft? Dafür gibt es mehrere Gründe. Einmal ist es der intensive Aufwand an Material und Zeit. Vor allem Zeit spart man sich heute durch den Zukauf des Materials wie z. B. Nägel und Bretter, eine Tatsache, die vor 100 Jahren noch unvorstellbar gewesen wäre, weil praktisch kein Bargeld vorhanden war. Schließlich ist auch der starke Rückgang von Arbeitskräften auf einem Hof Ursache dafür. Die Errichtung historischer Zaunformen soll die alte Tradition des Zaunbaues neu beleben, das Wissen um die handwerklichen Fertigkeiten erhalten, den ländlichen Charakter unseres Dorfes\nunterstreichen und als gestaltendes Element in der Landschaft wieder an Bedeutung gewinnen. Zäune können in der Folge aber auch an Grenzen erinnern. Wie gehen wir damit um? Schauen wir hin und wieder über den Zaun? Wie gehen wir mit persönlichen Grenzen um? Welche Bedeutung können körperliche, geistige oder moralische Grenzen für uns haben? Benutzen wir sie, um Heimat, Geborgenheit und Gemeinschaft zu\nschaffen oder missbrauchen wir sie zum Ausgrenzen und Behindern? Die historischen Zaunformen, die in Mösern errichtet werden, sollen nicht nur Schaustücke sein. Sie werden von den Grundeigentümern tatsächlich noch gebraucht und wurden in einem Gemeinschaftswerk der Grundeigentümer, des Tourismusverbandes der Olympiaregion Seefeld und dem Verein für Heimatschutz und Heimatpflege in Nord- und Osttirol errichtet.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a2c41243-0dd4-4ba0-a10d-da63d9519489/99/image.jpg",
+      "caption": "Histzorische Zäune"
+    }
+  ]
+}

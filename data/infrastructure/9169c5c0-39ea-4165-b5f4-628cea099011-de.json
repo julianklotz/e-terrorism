@@ -1,0 +1,29 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Store"
+  ],
+  "name": "Speckstube Handl Tyrol, Bauernladen",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3278867009332",
+    "longitude": "11.1873435974121"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Speckstube Handl Tyrol",
+    "streetAddress": "Innsbrucker Str. 20",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2261",
+    "url": "http://www.handltyrol.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/28008b76-bc98-4b4d-83a9-0fb517b8c8f4/99/image.jpg",
+      "caption": "Speck-Alm"
+    }
+  ]
+}

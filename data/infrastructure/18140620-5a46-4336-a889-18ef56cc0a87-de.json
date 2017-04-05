@@ -1,0 +1,29 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation",
+    "TouristAttraction"
+  ],
+  "name": "E-Bike Verleih - Parkhotel",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3318671848312",
+    "longitude": "11.18982784841"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Parkhotel",
+    "streetAddress": "Riehlweg  404",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "0043 5212 24840",
+    "faxNumber": "(0043) 5212 2484 6",
+    "email": "office@parkhotel-seefeld.at",
+    "url": "http://www.parkhotel-seefeld.at"
+  },
+  "description": "E-Bike Verleih auf Anfrage!",
+  "url": [
+    "http://www.parkhotel-seefeld.at"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure",
+    "LocalBusiness"
+  ],
+  "name": "Milchautomat beim Lippenhof",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3699894792238",
+    "longitude": "11.1428833007813"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Lippenhof",
+    "streetAddress": "Kirchplatzl 150",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6755",
+    "email": "lippenhof@utanet.at",
+    "url": "http://www.lippenhof-leutasch.at"
+  },
+  "description": "Kirchplatzl 150\n+43 5214 6755",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/fdafa083-ecb0-44ec-9b5c-dfacaa6daf42/99/image.jpg",
+      "caption": "Lippenhof"
+    }
+  ]
+}

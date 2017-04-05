@@ -1,0 +1,307 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.petriheil-seefeld.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Landhaus Petri Heil",
+    "streetAddress": "Münchnerstr. 143",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2738",
+    "email": "info@petriheil-seefeld.at",
+    "url": "http://www.petriheil-seefeld.at"
+  },
+  "name": "Landhaus Petri Heil",
+  "description": [
+    "Urlaub in der Olympiaregion Seefeld, dann sind Sie bei uns richtig. Willkommen in unserer\nWohlfühloase Landhaus Petri Heil. Unser gepflegtes, sehr zentral, mit herrlicher Aussicht gelegenes Landhaus liegt in Seefeld in Tirol. Erleben Sie die herzliche Tiroler Gastfreundschaft und genießen Sie den persönlichen Komfort in unserem Haus Petri Heil.\n\nVon unserem Ferienhaus erreichen Sie in zwei Gehminuten, ohne Steigung, die großzügig angelegte Fußgängerzone von Seefeld zu einem kleinen Spaziergang, einer Shoppingtour oder zum Essen in einem der vielen gemütlichen Restaurants. Sämtliche Busverbindungen, Schischulen, Langlaufloipen, Schilifte, Wanderwege … und Vieles mehr, befinden sich in unmittelbarer Nähe. Ein Skiverleih mit Preisreduktion für Hausgäste und ein Frisörsalon sind direkt im Haus Petri Heil!\n\nUnsere fünf mit Liebe zum Detail eingerichteten Appartements verfügen alle über einen großzügigen Balkon bzw. über eine Terrasse, von wo aus man einen traumhaften Ausblick auf die umliegende Bergwelt hat. Die Ferienwohnungen in der Größe von 38m² bis 65m² in unserem Landhaus Petri Heil sind alle im modernen, freundlichem Landhausstil eingerichtet. Ein hauseigener Parkplatz steht Ihnen zur Verfügung und zur Begrüßung erwarten Sie eine Flasche Wein und zwei Flaschen Mineralwasser.\n\nOb Mountainbiken, Bergsteigen, Erlebniswandern, Golfen oder einfach relaxen, dass passt genau in den Sommer der Olympiaregion Seefeld. Gleich vom Landhaushaus Petri Heil können Sie auf 570km Radweg, 650km Wanderwege Ihre Kondition testen. Bergsteiger finden in der Region zahlreiche Gipfeltouren in verschiedensten Schwierigkeitsgraden mit wunderbaren Einkehrmöglichkeiten und Weitblick auf die umliegende Bergkulisse. Erfahren Sie mehr über unsere Region bei den kostenlos geführten Erlebniswanderungen, hier wird einem wieder bewusst welche Schätze wir in unserer Olympiaregion haben und wie schön erholsam Urlaub sein kann. Wer sein Handicap verbessern möchte, der kann dies in der Golfakademie Seefeld/Reith, bei 35%iger Ermäßigung versuchen.\n\nDer Winter am Seefelder Plateau - ein Eldorado für Langläufer. Auf den täglich frisch gespurten 271km Loipen für Anfänger und Profis lassen jedes Sportlerherz höherschlagen! Der kostenlose Skibus bringt sie zu den verschiedensten Einstiegstellen in der Region. Skifahrern stehen zahlreiche Skigebiete für kleine und große Anfänger aber auch für perfekte Könner in jeder Leistungsklasse zur Verfügung. Es gibt noch viele Winteraktivitäten in der Olympiaregion Seefeld zu entdecken!\nEin Wohlfühlurlaub der besonderen Klasse erwartet Sie im Landhaus Petri Heil in Seefeld.\nAuf Ihr Kommen freuen sich Walter und Andrea Seyrling!\n",
+    "inkl.: Heizung, Wasser, Bettwäsche, Strom, Hand- u. Badetücher, Küchentücher, Toilettenpapier und -artikel, Geschirrspülmittel, interne Telefongespräche, Parkplatz, W-Lan, 1 Flasche Wein, 2 Flaschen Wasser; \nexkl.: Garage\n\nCheck in: ab 14.00 Uhr\nCheck out: bis 10.00 Uhr",
+    "Unser Haus liegt am Fuß des Geigenbühels-gegenüber der Apotheke in der Münchnerstraße.\n\n"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/888ec297-07cd-4c9b-a952-1fef3f6d1b7c/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4f40e303-dce3-44f2-a9d5-a7a9daaff92a/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/61e12871-7451-471f-9430-c7a2fffbd5cd/99/image.jpg",
+      "caption": "Landhaus Petri Heil Sommer Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6e39a339-c2b3-4c29-a9ff-a297273e4340/99/image.jpg",
+      "caption": "Landhaus Petri Heil Seefeld Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7488b949-a994-4c19-97ae-52b74bcc7e80/99/image.jpg",
+      "caption": "Landhaus Petri Heil Sommer in Seefeld"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3317261907977",
+    "longitude": "11.1879014968872"
+  },
+  "paymentAccepted": [
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "2-RAUM APPARTEMENT- 40m² im HOCHPATERRE, SCHLAFZIMMER, WOHN-SCHLAFZIMMER MIT KÜCHENZEILE UND ESSPLATZ,  DUSCHE/WC,  BALKON SÜD/WESTSEITIG.\nEndreinigung: bis 2 Personen Euro 40,-, 3 Personen Euro 45,-, 4 Personen Euro 50,- \nBETTWÄSCHE, HAND- UND BADETÜCHER, TOILETTENPAPIER UND GESCHIRRTÜCHER INKLUSIVE!",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "App. Nr.1 / 2 Raum-Appartement/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "52.00",
+          "maxPrice": "95.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "52.00",
+          "maxPrice": "95.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "52.00",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "57.00",
+          "maxPrice": "115.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "2-RAUM APPARTEMENT im 2. Stock- 65m²- 1 Schlafzimmer und 1 Wohn/Schlafzimmer mit Küche u Essplatz, Dusche/WC, Balkon-SÜD/WEST.\nEndreinigung: bis 2 Personen Euro 45,-, 3 Personen Euro 55,-, 4 Personen Euro 65,- \nBettwäsche, Hand- und Badetücher, Toilettenpapier und Geschirrtücher inklusive!",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "App. Nr. 2 / 2 Raum-Appartement/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "62.00",
+          "maxPrice": "120.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "62.00",
+          "maxPrice": "120.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "67.00",
+          "maxPrice": "130.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "72.00",
+          "maxPrice": "135.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "2-RAUM APPARTEMENT im 2. Stock- 55m²- 1 Schlafzimmer und 1 Wohn/Schlafzimmer mit Küche u Essplatz, Dusche/WC, 30m² TERRASSE SÜDSEITIG.\nEndreinigung: bis 2 Personen Euro 45,-, 3 Personen Euro 50,-, 4 Personen Euro 60,- \nBettwäsche, Hand- und Badetücher, Toilettenpapier und Geschirrtücher inklusive!",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "App. Nr. 3 / 2 Raum-Appartement/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "62.00",
+          "maxPrice": "110.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "62.00",
+          "maxPrice": "110.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "67.00",
+          "maxPrice": "115.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "72.00",
+          "maxPrice": "125.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "2-RAUM APPARTEMENT im 2. Stock- 42m²- 1 Schlafzimmer und 1 Wohn/Schlafzimmer mit Küchenzeile u Essplatz, Dusche/WC, VORRAUM, BALKON(SÜD-OSTSEITIG).\nBETTWÄSCHE, HAND- UND BADETÜCHER, TOILETTENPAPIER UND GESCHIRRTÜCHER INKLUSIVE!\nEndreinigung: bis 2 Personen Euro 40,-, 3 Personen Euro 45,-",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "App. Nr.4 / 2 Raum-Appartement/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "57.00",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "57.00",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "62.00",
+          "maxPrice": "110.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "2-RAUM APPARTEMENT in der 1. Etage- 55m²- 1 Schlafzimmer und 1 Wohn/Schlafzimmer mit Küche, DUSCHE/WC, Vorraum, Balkon (süd-ostseitig) und Terrasse (südseitig).\nBettwäsche, Hand- und Badetücher, Toilettenpapier und Geschirrtücher inklusive!\nEndreinigung: bis 2 Personen Euro 45,-, 3 Personen Euro 50,-",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "App. Nr.5 / 2 Raum-Appartement/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "60.00",
+          "maxPrice": "105.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "60.00",
+          "maxPrice": "105.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "63.00",
+          "maxPrice": "110.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

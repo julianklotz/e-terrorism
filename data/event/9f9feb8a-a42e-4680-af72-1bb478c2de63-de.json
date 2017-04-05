@@ -1,0 +1,108 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": [
+      "Event"
+    ],
+    "name": "Kultur im Wirtshaus - \"Wild aufgekocht und mehr\"",
+    "eventStatus": "http://schema.org/EventScheduled",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Gasthof Zur Mühle",
+      "employee": {
+        "@type": "Person",
+        "givenName": "Anna",
+        "familyName": "Maurer"
+      },
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Burggraben 264",
+        "addressLocality": "Leutasch",
+        "postalCode": "6105",
+        "addressCountry": "AT",
+        "telephone": "(0043) 5214 6712",
+        "faxNumber": "(0043) 5214 6020",
+        "email": "info@gasthof-zur-muehle.at",
+        "url": "http://www.gasthof-zur-muehle.at"
+      }
+    },
+    "location": {
+      "@type": "Place",
+      "name": "Gasthof Zur Mühle",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Burggraben 264",
+        "addressLocality": "Leutasch",
+        "postalCode": "6105",
+        "addressCountry": "AT",
+        "telephone": "(0043) 5214 6712",
+        "faxNumber": "(0043) 5214 6020",
+        "email": "info@gasthof-zur-muehle.at",
+        "url": "http://www.gasthof-zur-muehle.at"
+      }
+    },
+    "description": "...aus Anna\u0027s Küche mit echter Volksmusik. Reservierung unter Tel. 05214-6712.",
+    "image": [
+      {
+        "@type": "ImageObject",
+        "url": "http://resc.deskline.net/images/SEE/1/a12d8f66-da79-482c-93b6-7c1d73a74a77/99/image.jpg",
+        "caption": "kiwi"
+      }
+    ],
+    "startDate": "2017-08-09T18:30:00",
+    "endDate": "2017-08-09"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": [
+      "Event"
+    ],
+    "name": "Kultur im Wirtshaus - \"Wild aufgekocht und mehr\"",
+    "eventStatus": "http://schema.org/EventScheduled",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Gasthof Zur Mühle",
+      "employee": {
+        "@type": "Person",
+        "givenName": "Anna",
+        "familyName": "Maurer"
+      },
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Burggraben 264",
+        "addressLocality": "Leutasch",
+        "postalCode": "6105",
+        "addressCountry": "AT",
+        "telephone": "(0043) 5214 6712",
+        "faxNumber": "(0043) 5214 6020",
+        "email": "info@gasthof-zur-muehle.at",
+        "url": "http://www.gasthof-zur-muehle.at"
+      }
+    },
+    "location": {
+      "@type": "Place",
+      "name": "Gasthof Zur Mühle",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Burggraben 264",
+        "addressLocality": "Leutasch",
+        "postalCode": "6105",
+        "addressCountry": "AT",
+        "telephone": "(0043) 5214 6712",
+        "faxNumber": "(0043) 5214 6020",
+        "email": "info@gasthof-zur-muehle.at",
+        "url": "http://www.gasthof-zur-muehle.at"
+      }
+    },
+    "description": "...aus Anna\u0027s Küche mit echter Volksmusik. Reservierung unter Tel. 05214-6712.",
+    "image": [
+      {
+        "@type": "ImageObject",
+        "url": "http://resc.deskline.net/images/SEE/1/a12d8f66-da79-482c-93b6-7c1d73a74a77/99/image.jpg",
+        "caption": "kiwi"
+      }
+    ],
+    "startDate": "2017-09-06T18:30:00",
+    "endDate": "2017-09-06"
+  }
+]

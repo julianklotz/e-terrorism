@@ -1,0 +1,26 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "GovernmentOffice"
+  ],
+  "name": "Fundamt Seefeld",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3290902074289",
+    "longitude": "11.1867320537567"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Gemeindeamt Seefeld",
+    "streetAddress": "Klosterstr. 43",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "+4352122241",
+    "email": "gemeinde@seefeld.eu",
+    "url": "http://www.gemeinde-seefeld.eu"
+  },
+  "url": [
+    "http://www.gemeinde-seefeld.eu"
+  ]
+}

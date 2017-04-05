@@ -1,0 +1,30 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "GolfCourse"
+  ],
+  "name": "Golfclub Seefeld-Reith",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Golfclub Seefeld-Reith",
+    "streetAddress": "Reitherspitzstr.138",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043)05212/3797",
+    "url": "http://www.gc-seefeld-reith.at"
+  },
+  "description": "Golfclub Seefeld Reith\nTel.: 05212/3797, www.gc-seefeld-reith.at\nEgal ob Platzreifekurs, Einzelunterricht, Kindertraining\noder Golf-Incentives: die Golfschule des\nGolfclubs Seefeld Reith bietet unseren Gästen\nder Olympiaregion Seefeld und Mitgliedern\nein umfassendes Trainingsprogramm sowohl\nim Gruppen- wie auch im Einzelunterricht an.\nBesuchen Sie uns unter www.golfschule-seefeld.eu.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ded24d50-1294-4a28-86aa-251c0171b037/99/image.jpg",
+      "caption": "Golf Reith/Seefeld"
+    }
+  ]
+}

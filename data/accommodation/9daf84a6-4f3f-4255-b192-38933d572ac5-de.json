@@ -1,0 +1,191 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.myapartment-seefeld.net",
+    "http://www.myapartment-seefeld.net",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "MY apartment",
+    "streetAddress": "Krinz 1a",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "0043 5212 2502",
+    "faxNumber": "0043 5212 2502 62",
+    "email": "info@marthe.at",
+    "url": "http://www.myapartment-seefeld.net"
+  },
+  "name": "MY apartment",
+  "description": "Bei uns findest du neue Ferienwohnungen in der Olympiaregion Seefeld - modern und gemütlich - alles da, was der verwöhnte Urlauber so braucht. Die Lage am Waldrand ist herrlich, aber nichts für Bewegungsmuffel, denn 10 Minuten brauchst du schon, um ins betriebsame Ortszentrum von Seefeld zu gelangen. Wer Action und gutes Essen sucht, findet das im Haupthaus My Mountain Lodge gegenüber: Hallenbad, Wellness, eine tolle Bar, einen großen Garten, nette Gesellschaft, ein spannendes Aktivprogramm und viel Raum zum Chillen und Relaxen.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b2142ecb-cc38-4bd4-9a33-f733bee3edda/99/image.jpg",
+      "caption": "Winter "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c1af8fe6-a3fa-4b9c-bbb3-9abc333b7ef3/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/045fb28a-7853-4258-891c-c14a4371bf2c/99/image.jpg",
+      "caption": "Logo"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/79175080-49a8-4adb-81bc-702a5e293f14/99/image.jpg",
+      "caption": "Aussicht - Hohe Munde"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/13fe4af8-459d-4feb-baf5-53077df95ceb/99/image.jpg",
+      "caption": "finnische Sauna"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c5223f1a-51bb-40a6-be37-04004bda3af0/99/image.jpg",
+      "caption": "Ruheraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ab3673d2-2ccd-43e5-b233-7bb29280dd04/99/image.jpg",
+      "caption": "Hallenbad"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3274295958295",
+    "longitude": "11.2006121981476"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "unsere wunderschöne neue, sonnige Ferienwohnung, Typ ALPENROSE, 2 – 3 P,  ca 41 qm Vorraum/Badezimmer mit Du-WC / Schlafzimmer/Wohnzimmer/Küchenbereich mit Geschirrspüler, Mikrowelle, Kühlschrank und Essecke/großem Sonnenbalkon nach Süden und Westen mit phantastischem Bergblick/Kabel-TV, WiFi, \nBett- und Küchenwaesche und Handtücher vorhanden\n \ninklusive Nutzung des schönen WELLNESS-Bereiches mit Hallenbad, inkl. Bademantel\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement Alpenrose",
+          "description": "unsere wunderschöne neue, sonnige Ferienwohnung, Typ ALPENROSE, 2 – 3 P,  ca 41 qm Vorraum/Badezimmer mit Du-WC / Schlafzimmer/Wohnzimmer/Küchenbereich mit Geschirrspüler, Mikrowelle, Kühlschrank und Essecke/großem Sonnenbalkon nach Süden und Westen mit phantastischem Bergblick/Kabel-TV, WiFi, \nBett- und Küchenwaesche und Handtücher vorhanden\n \ninklusive Nutzung des schönen WELLNESS-Bereiches mit Hallenbad, inkl. Bademantel\n",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "35.00",
+          "maxPrice": "51.50",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Badewanne, 2 Schlafräume",
+      "description": "unsere wunderschöne neue, sonnige Luxus-Ferienwohnung, Typ EDELWEISS,  2 – 6 P, ca 85 qm groß\n\nVorraum/Bad/WC separat/2 Schlafzimmer/Wohnzimmer /Küchenbereich mit Geschirrspueler, Mikrowelle und Essecke/\ngroßem Sonnenbalkon nach Süden und Westen mit phantastischem Bergblick /Kabel-TV, WiFi\nBett- und Küchenwaesche und Handtücher vorhanden\ninklusive Nutzung des schönen WELLNESS-Bereiches mit Hallenbad, Bademantel verfügbar\n\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement Edelweiss",
+          "description": "unsere wunderschöne neue, sonnige Luxus-Ferienwohnung, Typ EDELWEISS,  2 – 6 P, ca 85 qm groß\n\nVorraum/Bad/WC separat/2 Schlafzimmer/Wohnzimmer /Küchenbereich mit Geschirrspueler, Mikrowelle und Essecke/\ngroßem Sonnenbalkon nach Süden und Westen mit phantastischem Bergblick /Kabel-TV, WiFi\nBett- und Küchenwaesche und Handtücher vorhanden\ninklusive Nutzung des schönen WELLNESS-Bereiches mit Hallenbad, Bademantel verfügbar\n\n",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "65.00",
+          "maxPrice": "98.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "65.00",
+          "maxPrice": "98.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "65.00",
+          "maxPrice": "98.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Badewanne, 2 Schlafräume",
+      "description": "FeWO Typ ENZIAN, 85 m², 2 - 6 Personen, sehr günstige Unterkunft für Familien mit \n1 - 4 Kindern,\nAusstattung: \nmit Eingangsterrasse/Vorraum/Bad/WCseparat/Schlafzimmer/Kinderschlafzimmer mit Etagenbett/Wohnzimmer mit großem Sonnenbalkon nach Süden,Hifi,Tel, Flatscreen/sehr geräumige, bestens ausgestattete Küche mit Geschirrspueler, Mikrowelle und Kühlschrank/\nBett- und Küchenwaesche, Handtuecher und Bademantel vorhanden\n\n ",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement Enzian",
+          "description": "FeWO Typ ENZIAN, 85 m², 2 - 6 Personen, sehr günstige Unterkunft für Familien mit 1 - 4 Kindern,\nAusstattung: \nmit Eingangsterrasse/Vorraum/Bad/WCseparat/Schlafzimmer/Kinderschlafzimmer mit Etagenbett/Wohnzimmer mit großem Sonnenbalkon nach Süden,Hifi,Tel, Flatscreen/sehr geräumige, bestens ausgestattete Küche mit Geschirrspueler, Mikrowelle und Kühlschrank/\nBett- und Küchenwaesche, Handtuecher und Bademantel vorhanden\n\n ",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "37.50",
+          "maxPrice": "54.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "29.00",
+          "maxPrice": "54.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "29.00",
+          "maxPrice": "54.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

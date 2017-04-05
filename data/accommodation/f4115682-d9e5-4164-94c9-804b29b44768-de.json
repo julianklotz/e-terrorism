@@ -1,0 +1,103 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://web.deskline.net/seefeld/de/show_accommodation/SEE/f4115682-d9e5-4164-94c9-804b29b44768/haus_heydrich",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Heydrich",
+    "streetAddress": "Emmat 370 h",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0049) 2233 22434",
+    "email": "hbheydrich@aol.com"
+  },
+  "name": "Haus Heydrich",
+  "description": [
+    "ca. 80m² große 3-Zimmer Ferienwohnung, 4 Betten + separate Küche, Südbalkon + nach Wunsch Zusatzzimmer mit 2 Betten + Essecke für 6 Personen, Waldrand, 10 Gehminuten nach Weidach u. zum Supermarkt.\nWanderwege, Loipeneinstieg ca. 5 min zu Fuß, Skigebiet Leutasch 5 Autominuten, Skigebiet Seefeld 10 Autominuten.",
+    "inkl.: Strom, Bettwäsche, Handtücher, Heizung, Wasser, Parkplatz\n\nexkl.: Endreinigung einmalig € 58.-, Ortstaxe",
+    "Check-in ab 15.00 Uhr oder nach Absprache\n\nCheck-out bis 11.00 Uhr oder nach Absprache\n\nUnser Haus liegt im Ortsteil Emmat 370 H nahe Dorfzentrum Weidach."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6dfcf352-4759-417f-aebb-c5a47de99848/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5bf577fc-99ec-48b9-81c1-6452909d39d1/99/image.jpg",
+      "caption": "Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.377421616859",
+    "longitude": "11.173959454359"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 3 Schlafräume",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/3 Schlafräume/Dusche, Bad, WC",
+          "numberOfRooms": "4.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "45.00",
+          "maxPrice": "45.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "53.00",
+          "maxPrice": "53.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "61.00",
+          "maxPrice": "61.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "69.00",
+          "maxPrice": "69.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "77.00",
+          "maxPrice": "77.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

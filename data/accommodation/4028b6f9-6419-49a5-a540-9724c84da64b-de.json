@@ -1,0 +1,179 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.haus-birgit.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Birgit",
+    "streetAddress": "Schönangerweg 538",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 699 18113414",
+    "email": "office@apartment-haus-birgit.at",
+    "url": "http://www.haus-birgit.at"
+  },
+  "name": "Haus Birgit",
+  "description": [
+    "Die gemütlichen neu renovierten Apartments liegen ruhig am Ende eines Privatweges im Herzen von Seefeld mit Blick zur Rosshütte, Kalkkögel oder Hohe Munde. \n\nDie zentrale Lage der Unterkunft, 5 Gehminuten von der Fußgängerzone entfernt, ermöglicht es Ihnen zu Fuß bequem alles zu erreichen und Ihren Urlaub entspannt zu genießen. Die Apartments sind komplett ausgestattet.\n\nGroße Terrasse, Liegewiese und Kinderspielplatz sind vorhanden. Kostenloser Dorfbus hält an unserer Straße.\n\n\n\n\n\n",
+    "inkl.: Heizung, Wasser, Strom,\n",
+    "Check-In 15.00 Uhr | Check-Out 10.00 Uhr\nAusfahrt Seefeld Nord, nach Tankstelle 1. Str. links Hermannstalstr. dann 1. Str. rechts Claudiastr. dann 2. Str. links Schönangerweg.\nOder Seefeld Mitte ausfahren, nach Kreisverkehr 2. Str. rechts Claudiastr. dann 1. Str. rechts Schönangerweg."
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "reviewCount": "43"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a74d05ab-8c54-4edf-b2b1-536cdc2d599a/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b26b5f50-8a5c-4aea-a62a-75c264ebbd4c/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/09ee17af-e281-4b4e-b673-e9497f8e404b/99/image.jpg",
+      "caption": "Sommeransicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9bb197ca-44f7-4a3f-87d9-ca4f87c90dec/99/image.jpg",
+      "caption": "Balkon2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c32240d1-f4f3-42e7-859e-e8fe238c5527/99/image.jpg",
+      "caption": "Garten"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/edfb570b-c4f0-42ce-9f94-6394e5ea9a7b/99/image.jpg",
+      "caption": "Spielplatz"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5b6f5bd0-34b4-4916-a4f5-9ad9b9425be2/99/image.jpg",
+      "caption": "Sandkiste"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3311208352202",
+    "longitude": "11.1946257948875"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "komplett eingerichtetes sonniges, ruhiges, helles Appartement, neu renoviert mit Südbalkon. Separate Küche mit Geschirrspüler. ",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "\"Seefelder-Spitz-Blick\"",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "63.00",
+          "maxPrice": "104.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "63.00",
+          "maxPrice": "104.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "68.00",
+          "maxPrice": "115.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "73.00",
+          "maxPrice": "125.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "komplett eingerichtetes sonniges, ruhiges, helles Appartement,neu renoviert mit Südbalkon. Separate Küche mit Geschirrspüler. ",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "\"Hohe-Munde-Blick\"",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "63.00",
+          "maxPrice": "89.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "63.00",
+          "maxPrice": "89.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "68.00",
+          "maxPrice": "92.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "73.00",
+          "maxPrice": "95.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

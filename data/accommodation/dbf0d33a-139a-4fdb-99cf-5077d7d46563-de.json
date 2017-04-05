@@ -1,0 +1,46 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hostel"
+  ],
+  "url": [
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Nördlingerhütte",
+    "streetAddress": "Bahnhofstr. 11 a",
+    "addressLocality": "Bichl",
+    "postalCode": "83673",
+    "addressCountry": "DE"
+  },
+  "name": "Nördlingerhütte",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c66eff8f-8c66-4eef-8877-20ec49c308c9/99/image.jpg",
+      "caption": "Hüttenansicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/43cf0c3c-8c92-4cf3-86bb-faccb88238a1/99/image.jpg",
+      "caption": "Ansicht 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f0b5ec22-2b69-4ad3-bc16-9247f0494f66/99/image.jpg",
+      "caption": "Ansicht am Morgen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4ee03aa8-8ac5-4f94-b4f2-55d6b0b080bf/99/image.jpg",
+      "caption": "Ansicht 2"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3195554554577",
+    "longitude": "11.2324455885743"
+  },
+  "currenciesAccepted": "EUR"
+}

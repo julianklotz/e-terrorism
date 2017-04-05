@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportingGoodsStore"
+  ],
+  "name": "Funsport Frank",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3288938942687",
+    "longitude": "11.1839510317383"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Funsport Frank",
+    "streetAddress": "Klosterstr. 608",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 5162863",
+    "url": "http://www.seefeld-skiverleih.com"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7adaec9e-2efc-43c6-9889-9bedf8d9bc8f/99/image.jpg",
+      "caption": "Außenansicht"
+    }
+  ],
+  "url": [
+    "http://www.funsport-frank.com"
+  ]
+}

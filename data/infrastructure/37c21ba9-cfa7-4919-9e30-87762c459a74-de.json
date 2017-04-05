@@ -1,0 +1,33 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CafeOrCoffeeShop"
+  ],
+  "name": "Baguette/M-Preis-Bäckerei",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3293410859935",
+    "longitude": "11.185884475708"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Baguette/M-Preis",
+    "streetAddress": "Klosterstr. 276",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 626222",
+    "email": "info@baguette.at",
+    "url": "http://www.baguette.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/62ca4879-f261-46c0-b4a5-d6b7f8a0fbb6/99/image.jpg",
+      "caption": "Bäckerei"
+    }
+  ],
+  "url": [
+    "http://www.baguette.at"
+  ]
+}

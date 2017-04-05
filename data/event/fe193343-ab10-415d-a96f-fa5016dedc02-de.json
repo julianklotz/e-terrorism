@@ -1,0 +1,42 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "Hl. Messe Ostermontag",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Pfarrkirche Hl. Johannes",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Unterkirchen",
+      "addressLocality": "Leutasch",
+      "postalCode": "6105",
+      "addressCountry": "AT",
+      "telephone": "(0043)52146235"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Pfarrkirche Hl. Johannes",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Unterkirchen",
+      "addressLocality": "Leutasch",
+      "postalCode": "6105",
+      "addressCountry": "AT",
+      "telephone": "(0043)52146235"
+    }
+  },
+  "description": "Hl. Messe mit musikalischer Umrahmung: Orgel Michael Gerhold",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a2441ce5-1c92-4fc7-93d1-97999382bdef/99/image.jpg",
+      "caption": "Kirche UL"
+    }
+  ],
+  "startDate": "2017-04-17T08:30:00",
+  "endDate": "2017-04-17"
+}

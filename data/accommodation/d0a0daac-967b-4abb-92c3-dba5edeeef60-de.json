@@ -1,0 +1,69 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.adabei-appartements.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Appartements Adabei",
+    "streetAddress": "Münchnerstr. 723",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 3913936",
+    "email": "adabei-appartements@gmx.at",
+    "url": "http://www.adabei-appartements.at"
+  },
+  "name": "Appartements Adabei",
+  "description": [
+    "Unser Haus ist ganzjährig geöffnet und bietet Ihnen rustikale, komfortable 1-Raum-Appartements mit Balkon für 2-4 Personen. Die Adabei-Appartements sind etwa 8 Gehminuten vom Ortszentrum entfernt. Der Gratisshuttlebus bzw. Skibus hält in unmittelbarer Nähe.",
+    "In unseren Preisen sind Strom, Heizung, Wasser, Bettwäsche, Dusch- und Handtücher inklusive. Haustiere sind erlaubt und kostenlos. Parkplätze beim Haus. ",
+    "Von Deutschland bzw. Italien kommend: \nAusfahrt Seefeld Nord, Münchnerstr. ca. 200m, auf der rechten Seite finden Sie die Adabei Appartements.\n\nVon der Schweiz kommend:\nMösererstr. Kreuzung Olympiastr. nach rechts, bei der Kreuzung Münchnerstr. nach links, bis unmittelbar nach der Esso-Tankstelle, auf der linken Seite finden Sie die Adabei-Appartements.",
+    "Seefeld, Haustiere erlaubt,1-Raum Appartement, 2 Personen, 3 Personen, 4 Personen, Hund, "
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3a082b2e-5c9c-4087-9d7e-41260af955d2/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a2d8422e-56df-43eb-b950-2daf66c91623/99/image.jpg",
+      "caption": "Winter"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.335819884822",
+    "longitude": "11.1935985088348"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC",
+      "description": "Alle Appartements sind mit einer Kochnische, DU, WC, einem Schlafteil sowie einem Wohnteil mit grosser Sitzecke (TV), Couch und Balkon ausgestattet (2-4 Pers.)",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/Wohn-Schlafraum/Dusche, WC",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure"
+  ],
+  "name": "Tankstelle Reinpold",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3879114",
+    "longitude": "11.2609853"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Tankstelle Reinpold",
+    "streetAddress": "Innsbruckerstr. 464",
+    "addressLocality": "Scharnitz",
+    "postalCode": "6108",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5213 20182-2"
+  },
+  "description": [
+    " \n\n\n",
+    "rechts + links, Tankomat mit EC-Karte, Innsbrucker Str. 464, Tel.: +43 5213/20 182, täglich von 6.00 - 22.00 Uhr\n\n\n\n"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a4613843-ba1b-4270-abdb-9f61264884f5/99/image.jpg",
+      "caption": "Tankstelle"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2b43483a-3b59-4629-b7bc-6ca5a63eb2fd/99/image.jpg",
+      "caption": "Akkuladestation"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Store",
+    "GovernmentOffice",
+    "BookStore",
+    "MobilePhoneStore",
+    "PostOffice"
+  ],
+  "name": "Postamt Seefeld",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3292538240192",
+    "longitude": "11.1857771873474"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Postamt Seefeld",
+    "streetAddress": "Klosterstr. 367",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 577 677 6100",
+    "url": "http://www.post.at"
+  },
+  "description": [
+    "Auch Verkauf von Telefonwertkarten!\n\n",
+    "Mo-Fr: 8.00 - 12.00 Uhr \u0026 14.00 - 17.30 Uhr, Samstag und Sonntag geschlossen!"
+  ],
+  "url": [
+    "http://www.post.at"
+  ]
+}

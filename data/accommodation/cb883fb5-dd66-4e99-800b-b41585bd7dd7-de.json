@@ -1,0 +1,75 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.schot.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Schot",
+    "streetAddress": "Albrecht-Dürer-Weg 29",
+    "addressLocality": "Mösern",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "+4352124816",
+    "email": "mail@schot.at",
+    "url": "www.schot.at"
+  },
+  "name": "Haus Schot",
+  "description": [
+    "Am Waldrand, an Wanderweg und Loipe gelegen steht unser Einfamilienhaus auf einer Südhanglage in Mösern. \n\nDas Einzimmerappartement für 2-3 Personen mit Wohn-Schlafraum, Küche, Dusche, WC, TV und Süd-West-Terrasse ist komfortabel eingerichtet und ein ruhiges Urlaubsdomizil.",
+    "Alles inklusive außer Kurtaxe, Haustiere € 7,-, und Zimmerfrühstück pro Person € 9,-",
+    "Anreise: von Seefeld in Tirol aus, direkt hinter dem Ortsschild Mösern fahren Sie rechts hinauf. Diese Straße führt zu einer T-Kreuzung, wo Sie rechts abbiegen. Anschließend folgen Sie dieser Straße links hinauf.",
+    "Ferienwohnung, Appartement, langlauf, w-lan, Winterurlaub, wandern, Sommerurlaub, Familie, garten,"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3846bd5f-173e-4fc0-b8a4-09084062f9a7/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9429b72e-6ce9-4c47-980c-69695a21052c/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/334f3322-9b8b-4104-91cf-f24ff04f798e/99/image.jpg",
+      "caption": "Aussicht Winter"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.31300739287",
+    "longitude": "11.153950318561"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC",
+      "description": "Das Einzimmerappartement mit Wohn-Schafraum, Küche, Dusche, WC, TV und Süd-West-terrasse ist komfortabel eingerichtet und ein ruhiges Urlaubsdomizil",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/Wohn-Schlafraum/Dusche, WC",
+          "description": "Am Waldrand auf dem Seefelder Plateau, einen 10-minütigen Spaziergang vom Ortskern der Gemeinde Mösern entfernt, erwartet Sie das Appartement - Haus Schot, 5 Fahrminuten vom Skigebiet Gschwandtkopf entfernt. Freuen Sie sich auf ein Appartement mit kostenfreiem WLAN, einer Küchenzeile, einem Wohn- und Schlafbereich sowie eine große private Terrasse mit Gartenzugang.\n \nZur Skibushaltestelle gehen Sie nur 5 Minuten vom Appartement - Haus Schot.\nDie Unterkunft bietet einen überdachten Parkplatz. ",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ]
+    }
+  ]
+}

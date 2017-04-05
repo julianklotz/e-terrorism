@@ -1,0 +1,108 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.schoenangerhof.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Schönangerhof",
+    "streetAddress": "Aue 116",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6708",
+    "faxNumber": "(0043) 5214 6708",
+    "email": "info@schoenangerhof.at",
+    "url": "http://www.schoenangerhof.at"
+  },
+  "name": "Schönangerhof",
+  "description": [
+    "Unser gemütliches Haus mit 4 komfortablen FW. im Landhausstil liegt im Ortsteil Aue in traumhaft schöner, sonniger u. ruhiger Lage mit Panoramablick auf die Hohe Munde, Stubaier Alpen u. das Wettersteingebirge.\nFamilienfreundliches Haus mit schöner Terrasse und großer Liegewiese. Genügend Parkmöglichkeiten vorhanden.\nSehr günstiger Ausgangspunkt für Nordic-Walking, wandern, radfahren oder nur spazieren gehen und direkter Einstieg in die Langlaufloipe.\nIdeal für Erholungs- oder Aktivurlaube.\nAlle Wohnungen haben einen Südbalkon.\nInfrarottherme mit Licht- und Aromatherapie und Entspannungsmusik.\nVon Mai bis Oktober haben unsere Gäste freien Entritt in die neue Erlebniswelt Alpenbad Leutasch.",
+    "Inklusive: Strom, ganzjährig Heizung, Wasser\nExklusive: Ortstaxe\nKinderermäßigung:\nbis 5 Jahre: frei\n6-13 Jahre: 7,- / Tag\nab 14 Jahre: 10,- / Tag\nvon Mai bis Oktober freier Eintritt in die neue Erlebniswelt Alpenbad Leutasch\nund im Winter kostenlose Loipenbenützung in der gesamten Olympiaregion\nauch Internet Verfügbarkeit mit W-LAN ist kostenlos",
+    "Über Seefeld: Seefeld - Leutasch - Richtung Oberleutasch - Ortsteil Aue\nÜber Mittenwald: Mittenwald - Leutasch - Richtung Oberleutasch - Ortsteil Aue\nÜber Telfs: Telfs - Buchen - Leutasch - Ortsteil Aue"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c60bfbc5-170b-4213-b384-c00e620a5fab/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/bf88a5b9-2585-42a2-8456-b1c349a0dcba/99/image.jpg",
+      "caption": "Winter"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.363670035746",
+    "longitude": "11.141469279047"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Wohnschlafzimmer m. Ausziehcouch, Schlafzimmer, DU/WC, Farb-SAT-TV, W-Lan kostenlos, teilw. Tresor, Küchenblock, Kaffeemasch., Wasserkocher, Essecke, schöner sonniger Balkon m. Mobilar. Südbalkon",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/1 Schlafraum, Dusche/WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "46.00",
+          "maxPrice": "68.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Wohnschlafzimmer m. Ausziehcouch, Schlafzimmer, DU/WC, Farb-SAT-TV, Küchenblock, Kaffeemasch., Wasserkocher, Essecke, schöner sonniger Balkon m. Mobilar. Südbalkon",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "44.00",
+          "maxPrice": "66.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

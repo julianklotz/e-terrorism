@@ -1,0 +1,50 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "TouristAttraction"
+  ],
+  "name": "Rosenkranzweg",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2979345312931",
+    "longitude": "11.2109747859054"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Informationsbüro Reith",
+    "streetAddress": "Römerstraße 52",
+    "addressLocality": "Reith bei Seefeld",
+    "postalCode": "6103",
+    "addressCountry": "AT",
+    "telephone": "(0043)50880530 ",
+    "faxNumber": "(0043)50880831",
+    "email": "info.reith@seefeld.com",
+    "url": "http://www.seefeld.com"
+  },
+  "description": [
+    " ",
+    "Frau Häusl am Gurgelbach, auf dem neu gestalteten Rosenkranzweges  steht die Mariä-Heimsuchung-Kapelle. Sie wurde 1983 gründlich renoviert. Ihre Entstehung verdankt sie angeblich den Brüdern Martin und Josef Seelos aus Reith, die gelobten, den Bau zu errichten, wenn sie der Aushebung durch das bayrische Militär 1809 entging. 2009 wurde der Rosenkranzweg mit den aus Lärchenholz gefertigten 5 Bildstöcken samt Ruhebänken von den fleißigen Reither Schützen angefertigt, eingeweiht! Die 15 Relieftafeln, welche die Gesätzchen des freudenreichen, schmerzhaften und glorreichen Rosenkranzes zum Ausdruck bringen, wurden von der Künstlerin Annemarie Beiler aus Inzing nach eigenen Entwürfen aus Lafarge-Beton gestaltet und auch bemalt.\n"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/952704d3-5ebf-4b9f-a6e2-0db0c507f4a7/99/image.jpg",
+      "caption": "Ausichtspunkt"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a2c1a1a5-1501-4711-8d60-9f8147636371/99/image.jpg",
+      "caption": "Aussicht vom Frau Häusl"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2dbbf63c-7aed-463f-a9ea-00eaf6b65f9e/99/image.jpg",
+      "caption": "Blick ins Tal"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4eb8871e-b5ef-40d5-9b0a-e7b61c622cdf/99/image.jpg",
+      "caption": "Reliefbild "
+    }
+  ]
+}

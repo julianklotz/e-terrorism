@@ -1,0 +1,67 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://web.deskline.net/seefeld/de/show_accommodation/SEE/739d86da-22a9-43cc-920f-402e1de45f99/haus_kluckner_josef",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Kluckner Johann",
+    "streetAddress": "Föhrenwald 28",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043)  664 1411849",
+    "email": "margit.kluckner@aon.at"
+  },
+  "name": "Haus Kluckner Johann",
+  "description": [
+    "Ruhig, gelegenes Ferienhaus, Zentrumsnähe, Loipennähe",
+    "inkl: Endreinugung, Strom, Wasser, Haustiere\n\nexkl. Ortstaxe",
+    "über Mittenwald - Gasse - Weidach - neben Infobüro links, 4. Haus links\n\nSeefeld - Weidach - Infobüro rechts - 4. Haus rechts"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ed09ccfd-4172-4ead-b7cf-21486f93f2a5/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/36c41a30-e43c-48c4-b94f-0833b2489114/99/image.jpg",
+      "caption": "Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.373824706385",
+    "longitude": "11.166540858417"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 1 Schlafraum",
+      "description": "ruhig, hell, rustikal eingerichtet",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/1 Schlafraum/Dusche, Bad, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

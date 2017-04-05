@@ -1,0 +1,240 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.pension-alte-schmiede.com",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Zur Alten Schmiede",
+    "streetAddress": "Platzl 114",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6308",
+    "faxNumber": "(0043) 5214 6277",
+    "email": "info@pension-alte-schmiede.com",
+    "url": "http://www.pension-alte-schmiede.com"
+  },
+  "name": "Haus Zur Alten Schmiede",
+  "description": [
+    "Erholung, Entspannen, den Alltag vergessen – so lautet das Motto von unserer familienfreundlichen Frühstückspension Zur Alten Schmiede in Leutasch. Egal für welche Aktivität Sie sich begeistern, ob Sommer oder Winter, unser Ferienhaus ist der ideale Ausgangspunkt für einen erholsamen und gleichzeitigen aktiven Urlaub in Tirol. \n\nStarten Sie gestärkt in den Tag bei unserem reichhaltigen, vitalen Frühstücksbuffet mit hausgemachten Naturprodukten, wie Marmeladen, Aufstriche, Brote usw. Gerne bieten wir in unserer Alten Schmiede auch ein Allergen Frühstück an. Entspannen Sie untertags im gemütlichen Aufenthaltsraum bei einer wohltuenden Tasse Tee von unserer eigenen Teebar. Am Nachmittag verwöhnen wir Sie in unserem Ferienhaus (kostenlos) mit Kuchen und Gebäck. Darüber hinaus erwarten Sie ein Garten mit Grilleinrichtungen und ein kleiner Kinderspielplatz, auch der Reiterhof ist gleich nebenan. Privatparkplätze nutzen Sie kostenfrei. Auch Ihr Haustier ist gegen Aufpreis im Haus Zur Alten Schmiede herzlich willkommen.\n\nAlle Räumlichkeiten im Haus Alte Schmiede öffnen herrliche Weitblicke in die atemberaubende Naturlandschaft von Leutasch. Für Ihren erholsamen Urlaub in Leutasch stehen Ihnen in unserer Frühstückspension Zur Alten Schmiede mehrere Doppelzimmer zur Auswahl. Ausgestattet mit eigenem Bad (Dusche/WC), SAT-TV sowie größtenteils mit Balkon laden unsere gemütlich eingerichteten Doppelzimmer zum Verweilen ein. Unsere drei geräumigen Ferienwohnungen sind alle liebevoll und voll mit Mikrowelle, Backofen sowie Kaffeemaschine ausgestattet. Im Appartement Sonnenblume mit separatem Schlafzimmer können Sie am großen sonnigen Balkon den Blick zur Hohen Munde genießen. Unsere Ferienwohnung Enzian ist mit ihren zwei separaten Schlafzimmern besonders geeignet für Familien. Auch hier lädt der eigene Südbalkon zum Verweilen ein.\n\nAuf 271 km Langlaufloipen, sowohl Klassisch und Skating können Sie sich als unser Gast kostenlos vergnügen. Auch können Sie im Winter den Regionsbus ebenso kostenlos nützen. Mit der Gästekarte können Sie im Sommer als auch im Winter am kostenlosen Erlebnisprogramm teilnehmen. Neben Langlaufen bietet die Olympiaregion Seefeld eine Vielzahl an weiteren Freizeitangeboten. Egal ob ein ruhiger Winterspaziergang durch das malerische Leutaschtal, eine rasante Rodelpartie oder eine Schneeschuhwanderung - für jeden ist etwas dabei. Im Sommer lässt das Leutaschtal jedes Wanderer-Herz höherschlagen. Auch Mountainbiker kommen bei uns voll auf ihre Kosten. Zudem können Sie von Mai bis Oktober kostenlos im Alpenbad Leutasch entspannen.\n\nWerden Sie unser Gast! Ihre Familie Neuner.",
+    "Übliche Leistungen inkludiert. TV im Zimmer gratis!W-Lan gratis!\nExklusive: Ortstaxe,Endreinigung; \nIm Sommer gratis Eintritt ins Alpenbad Leutasch!\nLoipenpauschale Inklusive!",
+    "Check in: ab 14.00 Uhr\nCheck out: bis 10.00 Uhr\nAn- und Abreise auch sonntags möglich!!\nSeefeld - Leutasch, Ortsteil Platzl\nMittenwald - Leutasch, Ortsteil Platzl\n(bei Buchung wird der Ortsplan mitgeschickt)"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "reviewCount": "207"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/31bf5bd8-c7c7-4dce-97b7-c47708c2b490/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e5e7c1d5-d4f2-45e2-bb59-ed921e82a732/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f1ec358c-94f2-4ddf-a9c7-7f033c75afb4/99/image.jpg",
+      "caption": "Frühstücksraum"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.362054562039",
+    "longitude": "11.135628025302"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Geräumiges Komfortzimmer in Zirbe Natur mit Balkon, auf Anfrage 3. Bett möglich.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "35.00",
+          "maxPrice": "45.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "28.00",
+          "maxPrice": "30.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "28.00",
+          "maxPrice": "30.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Suite, Dusche, WC",
+      "description": "1 Wohn- und 1 Schlafzimmer in Zirbe Natur, großzügige Dusche mit WC, eigener Balkon, kleines Küchencenter mit Kaffeemaschine und Wasserkocher; ",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Suite mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "30.00",
+          "maxPrice": "35.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "30.00",
+          "maxPrice": "35.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "30.00",
+          "maxPrice": "35.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Ruhig, eigener großer Balkon, Schlafzimmer, Wohnzimmer mit ausziehbarer Schlafcouch, Küche, Vorraum, Dusche/WC;  gegen Aufpreis: Frühstück.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Enzian",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Ruhig, Südbalkon, Brötchenservice, SAT-TV, Radio, Backofen, Mikrowelle, Toaster; gegen Aufpreis: Frühstück.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Sonnenblume",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "50.00",
+          "maxPrice": "50.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "50.00",
+          "maxPrice": "50.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Komfortable kleine Ferienwohnung für 2 Personen, Küche mit Mikrowelle, großes Bad, Wohn- Schlafzimmer in Zirbe Natur. Gegen Aufpreis: Frühstück",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Alpenrose",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "50.00",
+          "maxPrice": "60.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

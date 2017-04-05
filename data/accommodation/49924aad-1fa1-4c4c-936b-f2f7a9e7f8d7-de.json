@@ -1,0 +1,253 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.ur-plaiknerhof.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Ur-Plaiknerhof",
+    "streetAddress": "Plaik 96",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6372",
+    "faxNumber": "(0043) 5214 6372",
+    "email": "info@ur-plaiknerhof.at",
+    "url": "http://www.ur-plaiknerhof.at"
+  },
+  "name": "Ur-Plaiknerhof",
+  "description": [
+    "URLAUB UND ERHOLUNG IN HERRLICHER BERGWELT!\nFamiliär geführter Bauernhof, Erbhof seit 1661, in ruhiger, sonniger Lage, abseits der Straße und Aussicht auf die weitläufigen Wiesen und Wälder.\nWir verwöhnen Sie mit einem traumhaften Bergpanorama auf die Stubaier und Ötztaler Alpen und Blick ins Almenparadies \"Gaistal\", dort wo auch schon Ludwig Ganghofer zu Hause war...\nZentraler Ausgangspunkt für schöne Rad- und Wandertouren, direkt an der Loipe. Vollbewirtschafteter Bio-Betrieb, Sonnenterrasse, Liegewiese, Spielplatz, gratis Ponyreiten und Fahrräder, täglich freier Eintritt im neuen Schwimmbad mit Rießenwasserrutsche.\nAuf Wunsch Farb-Sat-TV im Zimmer.",
+    "Gratis Ponyreiten, Fahrräder, viel Platz zum Spielen und Toben. Spielplatz mit Rutsche, Wippe, Sandkasten, 3m Trampolin, Tischtennis, Mini Traktor, Slackline..Kühe, Kälbchen, Schafe, Ponys, Hasen, Hund freuen sich über Streicheleinheiten der Kinder. Sommer - Gratis Eintritt im neuen Alpenbad, Wlan Anschluss, im Winter freie Loipenbenützung,kostenlose Fahrt mit dem VVT-Bus in der gesamten Region.",
+    "An- oder Abreise ca. 10.00 Uhr.\nAuf unserer Homepage unter wwww.ur-plaiknerhof.at finden Sie einen Routenplaner für Ihre Anreise.\nSie kommen von Richtung  Fernpaß, Mittenwald oder von Innsbruck nach Leutasch. Unser Hof befindet sich in Oberleutasch - im Ortsteil Plaik"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/18a6108b-30d1-4898-aa08-f1351aa201c4/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/eaba4a58-2789-45dd-966a-bd33c147bb82/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/878c6f1b-76d3-4847-8279-421c54321dc0/99/image.jpg",
+      "caption": "Ausblick"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5a6c2fb0-ccf1-460e-b930-117782c7ba67/99/image.jpg",
+      "caption": "Ponys"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0ff2f490-deb5-4b71-8662-6a8411ed7eec/99/image.jpg",
+      "caption": "Weide"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/575ccd94-5824-4c66-bfcc-fbddbb62bf6b/99/image.jpg",
+      "caption": "Hausgang"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d39d4c27-b218-451c-9d88-af818e1e993c/99/image.jpg",
+      "caption": "Spielplatz"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/fbf767e8-e142-43bc-9622-0712e13012f8/99/image.jpg",
+      "caption": "Hasen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5e3f9ddf-a950-4d3f-8d41-b6e6dd824295/99/image.jpg",
+      "caption": "Frühstücksraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/90e2bca3-6a7e-4ea7-83c1-5bbf20315e05/99/image.jpg",
+      "caption": "Ausblick Zaun"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d4761f31-bac9-4c23-89cf-c34d462889ef/99/image.jpg",
+      "caption": "Garten"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/23d34647-0a2a-4cf2-a9b3-3542ee1e507c/99/image.jpg",
+      "caption": "Ziegen"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.362910563672",
+    "longitude": "11.131935936272"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Unsere DZ sind in rustikalem, ländlichem Stil, DU-WC, Balkon und Sat.Tv eingerichtet.\nGerne verwöhnen wir Sie mit unserem erweiterten Frühstück mit hofeigenen Produkten, mit Milch, Butter, Joghurt und Topfen.\nZu unseren Angeboten gehören im Sommer täglich freier Eintritt im Erlebnis Alpenbad in Weidach, Gratis Fahrräder, Liegewiese, in sonniger und ruhiger Lage mit herrlichem Blick auf das Bergpanorama. Gratis WLAN. Im Winter freie Loipenbenützung und freie Fahrt mit dem VVT_Bus in der Region.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Dusche, WC",
+          "description": "Wir können unseren Gästen auch DZ mit Zusatzbett, Du-Wc, Balkon und Sat.TV anbieten. Genießen Sie Ihre Urlaubstage in unserem hellen und geräumigen Zimmer, vor allem den herrlichen Blick auf unseren Hausberg \"Hohe Munde\" und das Bergpanorama im Almenparadies des Gaistals.\nErweitertes Frühstück mit hofeigenen Produkten,täglich freier Eintritt im Erlebnis Alpenbad in Weidach, Tiere zum Streicheln für die kleinen Gäste, toller Spielplatz, Gratis Fahrräder und kostenlosen Internetzugang mit WLAN.",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "24.00",
+          "maxPrice": "29.20",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Unsere DZ sind in rustikalem, ländlichem Stil eingerichtet. Alle DZ sind mit DU-WC und Balkon, sowie Sat.TV ausgestattet.\nGerne verwöhnen wir Sie mit unserem erweiterten Frühstück mit hofeigenen Produkten, mit Milch, Butter, Joghurt und Topfen. Gratis WLAN, Im Sommer täglich freien Eintritt im neuen Erlebnis Alpenbad. Gratis Fahrräder. Herrliche Liegewiese und rundum viel Platz zum Ausspannen und Erholen.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer-Zustellbett, mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "24.00",
+          "maxPrice": "24.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "24.00",
+          "maxPrice": "24.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "Verbringen Sie Ihren Urlaub in unserem gemütlich, mit hellem Holz, liebevoll eingerichteten Appartement. Mit 2 DZ jeweils mit DU-WC und Balkon ausgestattet. Gemütlicher Wohnraum mit Liege, Sat.Tv, großer Esstisch, Küchenblock mit Mikrowelle, Geschirr, Herd, Kühlschrank, Kaffeemaschine, Toaster und Teekocher.\nBrötchenservice, Sommer - Gratis Eintritt im Erlebnisbad und Fahrräder, Gratis WLAN. Im Winter freie Loipenbenützung und freie Fahrt mit dem VVT-Bus in der Region.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/2 Schlafräume/Dusche, WC",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "50.00",
+          "maxPrice": "60.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "70.00",
+          "maxPrice": "70.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Verbringen Sie erholsame Urlaubstage in unserer neuen mit hellem Holz liebevoll eingerichteten Ferienwohnung. Vorraum, DZ mit Balkon, Wohnraum mit großer Ausziehcouch, Esstisch, Sat.Tv. Balkon, Küche mit Geschirrspüler, Mikrowelle, Herd mit 4 Kochstellen, Kaffeemaschine, Teekocher, Toaster,große DU/WC. Sonnige Lage, Blick auf die Loipen, Brötchenservice, Sommer Gratis Eintritt im Erlebnisbad, Fahrräder, Gratis WLAN, Winter - freie Loipe und freie Fahrt mit dem VVT-Bus.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "53.00",
+          "maxPrice": "65.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "60.00",
+          "maxPrice": "60.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "67.00",
+          "maxPrice": "67.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

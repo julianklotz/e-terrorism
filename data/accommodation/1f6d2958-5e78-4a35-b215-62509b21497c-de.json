@@ -1,0 +1,95 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://web.deskline.net/seefeld/de/show_accommodation/SEE/1f6d2958-5e78-4a35-b215-62509b21497c/haus_webhofer",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Webhofer",
+    "streetAddress": "Römerweg 716",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 650 7334235",
+    "email": "a.webhofer@seefeld-in-tirol.net"
+  },
+  "name": "Haus Webhofer",
+  "description": [
+    "Das Haus Webhofer finden Sie sonnig und nur wenige Gehminuten vom Zentrum Seefelds gelegen. Die Wohnung befindet sich im 1.Stock, hat einen sehr großen Balkon, weiters eine Wohnküche, Wohnzimmer, Schlafzimmer und ein Bad mit separatem WC.\n",
+    "Inklusive: Wasser, Heizung, Endreinigung (€ 50,-)\nExklusive: Strom.",
+    "Check Out: 10.00 Uhr\nCheck In: 14.00 Uhr\n\nAnreise: \nVon München kommend: Ortseinfahrt Mitte - rechts bis zum Kreisverkehr - dann die dritte Ausfahrt nehmen - in den Römerweg einbiegen - von hier führt ein Privatweg direkt zum Haus Webhofer (bei der 4. Straßenlaterne).\nVon Innsbruck kommend: Abfahrt Garmisch - Seefeld ausfahren - dem Straßenverlauf über den Zirlerberg bis Seefeld Mitte folgen - rechts abbiegen - gleich wieder links vor bis zum Kreisverkehr - beim Kreisverkehr die 3. Ausfahrt nehmen und in den Römerweg einbiegen - nach der 4. Straßenlaterne einbiegen (Privatweg) und bis Hausnummer 716 weiterfahren."
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "reviewCount": "16"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/07ebe6b8-32ca-43f8-a566-0c85c370f098/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f5642c89-1e6d-4a5d-a15f-a475db99d456/99/image.jpg",
+      "caption": "Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3283606",
+    "longitude": "11.1959161"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 1 Schlafraum",
+      "description": "Ruhige, sonnige und zentral gelegene Wohnung mit SW-Balkon (im 1.Stock gelegen).",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Gschwandtkopf",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "7 Tage \"Entdecken \u0026 Entspannen\"",
+          "description": "Dieses AKTIV-ANGEBOT beinhaltet bereits 7 Übernachtungen, eine geführte Wanderung durch den erlebnisreichen Bienenlehrpfad und pro Person 3 Eintritte für das Olympiabad (Montag - Freitag). Exklusive ist lediglich die Kurtaxe (€ 1,50 pro Erw. und Tag).",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "45.00",
+          "maxPrice": "70.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

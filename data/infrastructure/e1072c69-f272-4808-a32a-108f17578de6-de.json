@@ -1,0 +1,20 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation"
+  ],
+  "name": "Rodelbahn Mühlberg",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "description": "Aufstieg vom Mühlbergparkplatz P4,\nLänge: ca. 2,5 km, Höhenunterschied: 250 m, Schwierigkeit: mittel,\nzur freien Benützung auf eigene Gefahr, ohne Transport und Beleuchtung. \nRodelverleih b. Brandlift, Tel.: 0664/9175135  und b. Gasthof Wiesenhof, € 4,- / Tag, Tel.: 05213/5380",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d50f61b6-5ed3-4632-bc35-b549506ddea6/99/image.jpg",
+      "caption": "Mühlberg"
+    }
+  ]
+}

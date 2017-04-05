@@ -1,0 +1,121 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Alpenland - Lötscher",
+    "streetAddress": "Möserer Str. 283",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 20430",
+    "faxNumber": "(0043) 5212 20430 ",
+    "email": "alpenland@live.at"
+  },
+  "name": "Haus Alpenland-Lötscher",
+  "description": [
+    "Unser Hause liegt ungefähr 10 Minuten vom Ortszentrum Seefeld entfernt, in ruhiger und schöner Lage. Unser Grundstück liegt direkt neben der Langlaufloipe sowie der Sommerrollerbahn. Zu den Gschwandtkopf Liften gelangen Sie zu Fuß in 5 Minuten, von dort gelangen Sie im Winter mit dem kostenlosen Skibus direkt in das Ortszentrum sowie zu den Bergbahnen Rosshütte. \n\nBesuchen Sie uns auch auf Facebook unter: https://www.facebook.com/alpenlandseefeld/\n\n\n",
+    "Check in: 14.00 Uhr\nCheck out: 10.00 Uhr\n\nInkl.: Bettwäsche, Strom, Heizung;\n"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/96201405-56ac-49dd-a2be-54cb36d654b7/99/image.jpg",
+      "caption": "Haus Alpenland - Winter 2017"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d7e57f4c-1417-4dea-b6f6-374d560c1d5a/99/image.jpg",
+      "caption": "Haus Alpenland - Winter 2017"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5969082a-3822-4a00-8595-adaccac31b0d/99/image.jpg",
+      "caption": "Haus Alpenland - Winter 2017"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b94e9277-6fa1-49c0-b0c8-6c3011689515/99/image.jpg",
+      "caption": "Haus Alpenland - Winter 2017"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c35d46b5-9d2c-4a7e-b441-564e9a7feb96/99/image.jpg",
+      "caption": "Haus Alpenland - Winter 2017"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/84a55e34-b061-493f-8284-8fab6e4651cb/99/image.jpg",
+      "caption": "Haus Alpenland - Winter 2017"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5c7fc96b-55d5-4581-8242-0ccea175f527/99/image.jpg",
+      "caption": "Haus Alpenland - Winter 2017"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c16dafb8-143d-432c-953b-ba89e50cf376/99/image.jpg",
+      "caption": "Haus Alpenland - Winter 2017"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/04d69d3c-d5e9-4492-ab4a-0499dbd2c9ef/99/image.jpg",
+      "caption": "Haus Alpenland - Winter 2017"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/06147fde-15a1-4a69-9c51-0705409b6de3/99/image.jpg",
+      "caption": "Haus Alpenland - Winter 2017"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2379684b-3024-420b-9f1d-8e6a928fcac1/99/image.jpg",
+      "caption": "Haus Alpenland - Winter 2017"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/dbd59680-bed8-4c44-a4b7-3d2a28c168f6/99/image.jpg",
+      "caption": "Haus Alpenland - Winter 2017"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d2ebeeeb-133a-46eb-9098-98c4b09ff294/99/image.jpg",
+      "caption": "Haus Alpenland - Winter 2017"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3232458",
+    "longitude": "11.1727430999999"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ]
+    }
+  ]
+}

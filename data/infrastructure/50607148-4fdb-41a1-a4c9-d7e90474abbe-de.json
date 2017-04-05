@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BankOrCreditUnion"
+  ],
+  "name": "Bank - Raiffeisenbank Kirchplatzl",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3690099",
+    "longitude": "11.1447577"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Raiffeisenbank",
+    "streetAddress": "Kirchplatzl 128a",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214633354513",
+    "faxNumber": "(0043) ",
+    "url": "http://www.rb-seefeld.at"
+  },
+  "description": "Kirchplatzl 128 a\nTel.: +43 5214/6333 \n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e1d09cbf-a4f6-4164-bbd2-b096c8adebdc/99/image.jpg",
+      "caption": "Raiffeisenbank"
+    }
+  ],
+  "url": [
+    "http://www.rb-seefeld.at"
+  ]
+}

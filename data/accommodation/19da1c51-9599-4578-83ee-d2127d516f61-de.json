@@ -1,0 +1,68 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.hotel-charlotte.com",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "s\u0027 Alte Wirtshaus \"Lärchenstüberl\"",
+    "streetAddress": "Geigenbühelstr. 790",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "0043 5212 2652",
+    "faxNumber": "(0043) 5212 2091 6",
+    "email": "koestinger@hotel-charlotte.com",
+    "url": "http://www.hotel-charlotte.com"
+  },
+  "name": "s \u0027 Alte Wirtshaus \"Lärchenstüberl\"",
+  "description": [
+    "Inkl.: Heizung, Strom, Bettwäsche u. Handtücher, Nutzung der Wellnessoase im Hotel Charlotte, Parkplatz\nExkl.: Endreinigung, Ortstaxe, Telefongebühren, Haustiere",
+    "Check in 15:00 Uhr / Check out 10:00 Uhr\nAnmeldung beim Hotel Charlotte: Abfahrt Seefeld Nord (braune Wegweiser) immer gerade aus, nach Hotel Tyrol links in die Haspingerstraße"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ea5fc18b-179e-4b02-99b1-d4fd73dbfd10/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e7913e6b-f1d1-45cc-81c5-9aed6a4de4b7/99/image.jpg",
+      "caption": "Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3362634098805",
+    "longitude": "11.1855411529541"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche oder Bad, WC, 2 Schlafräume",
+      "description": "Liebevoll eingerichtete App. im Tiroler Stil. Über 2 Etagen (Galerie)",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/2 Schlafräume/Du od. Bad, WC",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

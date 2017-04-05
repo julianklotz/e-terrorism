@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "TouristInformationCenter"
+  ],
+  "name": "Wandernadel",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3291374744959",
+    "longitude": "11.1867964267731"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Olympiaregion Seefeld",
+    "streetAddress": "Heilbadstr. 827",
+    "addressLocality": "Seefeld ",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 050 8800",
+    "faxNumber": "(0043) 050 880851",
+    "email": "region@seefeld.com",
+    "url": "http://www.seefeld.com"
+  },
+  "description": [
+    " ",
+    "In allen Infobüros liegen kostenlose Stempelpässe zum Erwerben der versch. Abzeichen auf. Nach Vorlage der von Ihnen erwanderten Stempel erhalten Sie, je nach erreichter Punktezahl, eine Wandernadel in Gold, Silber, Bronze (Unkostenbeitrag € 1,90/Nadel)."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2c419922-c922-4115-8a08-98a630e112c8/99/image.jpg",
+      "caption": "Wandernadel"
+    }
+  ],
+  "url": [
+    "http://www.seefeld.com"
+  ]
+}

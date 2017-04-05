@@ -1,0 +1,29 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant"
+  ],
+  "name": "Al Cavallino",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3774938749906",
+    "longitude": "11.1571774306885"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Al Cavallino",
+    "streetAddress": "Gasse 166",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 20309",
+    "url": "http://www.al-cavallino.at/"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/fd27bdf8-ee1d-4b47-95bf-271ec0e05d11/99/image.jpg",
+      "caption": "Al Cavallino"
+    }
+  ]
+}

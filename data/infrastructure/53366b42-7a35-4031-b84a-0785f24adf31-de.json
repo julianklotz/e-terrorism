@@ -1,0 +1,29 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "HealthAndBeautyBusiness",
+    "BeautySalon"
+  ],
+  "name": "Physiotherapie/Massagen Bianca Brantner",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3315607639866",
+    "longitude": "11.1805522441864"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Bianca Brantner",
+    "streetAddress": "Leutascherstr. 686",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 660 3439380"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/fc8a06d2-9ea3-4185-9b51-c41511e98529/99/image.jpg",
+      "caption": "Piktogramm"
+    }
+  ]
+}

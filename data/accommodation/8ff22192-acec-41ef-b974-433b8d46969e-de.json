@@ -1,0 +1,222 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.rustika-sunnbichl.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Am Sunnbichl",
+    "streetAddress": "Am Kirchwald 338",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 3889",
+    "faxNumber": "(0043) 5212 3889",
+    "email": "info@rustika-sunnbichl.at",
+    "url": "http://www.rustika-sunnbichl.at"
+  },
+  "name": "Haus Am Sunnbichl",
+  "description": [
+    "Herzlich willkommen in unserem am Kirchwald, oberhalb des Seekirchls in der Olympiaregion Seefeld gelegenes Haus am Sunnbichl. Wie der Name schon sagt, sonnig auf einer kleinen Anhöhe ist unser Ferienhaus Sunnbichl nur 5 Gehminuten vom Zentrum, der Fußgängerzone in Seefeld, dem Olympia Kongresszentrum, der Loipen-Einstiegsstelle und dem Skigebiet Gschwandtkopf entfernt.\n\nDie vier hellen, liebevoll eingerichteten Appartements für 2-5 Personen verfügen alle über einen Terrasse bzw. ein Balkon mit traumhafter Aussicht auf den Gschwandtkopf, dem Langlaufzentrum und der umliegenden Bergwelt.  Das einzelne Doppelzimmer in unserem Ferienhaus am Sunnbichl kann jeweils zu einem der Appartements dazu gebucht werden.\nNach einer erholsamen Nacht, kann man sich am Morgen beim Frühstück einmal überlegen, was der Tag so bringen soll. \nDer Sommer bietet ein vielfältiges Angebot an Aktivtäten hier in der Olympiaregion Seefeld. Von leichten Rundwanderungen, Spaziergängen bis hin zu anspruchsvollen Bergtouren mit einer zünftigen Brettl-Jause, insgesamt stehen Ihnen 650km paradiesische Wanderwege zur Verfügung. Möchten Sie die Region lieber auf dem Mountainbike erobern auch hier bietet Seefeld mit seinen fünf Orten 570km Highlights an Radwege an?  Da wären dann noch der nahe gelegene Tennisplatz, Golfen am 18 Loch Golfplatz Wildmoos, Tandemflüge, Schwimmen in den Naturseen, im Wildsee oder im Möserer See, reiten und noch vieles mehr.\n\nWer den Winterurlaub in der Olympiaregion Seefeld  bevorzugt, dem bieten sich abgesehen von den 271km Langlaufloipen in allen Schwierigkeitsstufen, den 143km geräumten Winterwanderwegen noch zahlreiche kostenlos geführte Erlebnistouren, Eislaufplätze, Rodelbahnen, Pferdeschlittenfahrten und natürlich super präparierte Skipisten an. Der für Langläufer und Skifahrer kostenlose Regionsbus bringt Sie schnell und bequem zu den Talstationen der Skigebiete Rosshütte und Gschwandtkopf sowie zu den Einstiegstellen der Loipen in der gesamten Olympiaregion Region Seefeld.\n\nSie werden sehen, am Seefelder Hochplateau ist für jeden Gast, ob jung oder älter etwas dabei!\nWir, die Familie Haidacher, würden uns freuen, Sie in unserem Haus am Sunnbichl begrüßen zu dürfen.\n\n",
+    "Check in; 14.00 Uhr\nCheck out: 11.00 Uhr\n\nInkl.: Bettwäsche, \n",
+    "Der Luftkurort Seefeld liegt ca. 22 km westlich von Innsbruck in 1200 m Seehöhe und klimatisch guter und sonnenreichen Lage, der über bequeme Anfahrtsrouten von Deutschland, Italien und der Schweiz leicht erreichbar ist. "
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/da3f3e9d-50c2-491f-8aa8-ea4c779dadbe/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a2a27c94-7d08-48f6-aa37-69374a2aa4b5/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/56359bed-289a-4d65-8484-c78e7001696c/99/image.jpg",
+      "caption": "Haus am Sunnbichl Balkonblick Sommer Seefeld"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3277703483983",
+    "longitude": "11.1786210536957"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "2 Raumappartement 50m² - für 2 bis 4 Personen\n\nBestehend aus einem Wohn-Schlafraum mit eingebautem Küchenblock, gemütlicher Sitzecke, einem Schlafzimmer, kleiner Vorraum, Dusche und WC getrennt, Kabel TV, Safe und einer Terrasse von 25 m².\nDas Doppelzimmer Nr. 6 für 2 Personen mit DU/WC und Kabel TV kann sofern frei zu jedem Appartement dazugemietet werden.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Top 1",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "75.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "0.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "0.00",
+          "maxPrice": "85.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "2 Raumappartement 50m² - für 2 bis 4 Personen\nBestehend aus einem Wohn-Schlafraum mit eingebautem Küchenblock, gemütlicher Sitzecke, einem Schlafzimmer, kleiner Vorraum, Dusche und WC getrennt, Kabel TV, Safe und einer Terrasse von 25 m².\nDas Doppelzimmer Nr. 6 für 2 Personen mit DU/WC und Kabel TV kann sofern frei zu jedem Appartement dazugemietet werden.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Top 2",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "75.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "0.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "0.00",
+          "maxPrice": "85.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 1 Schlafraum",
+      "description": "2 Raumappartement 75 m² - für max. 2 Personen und ein Kind\nBestehend aus einem Vorraum mit Garderobe, großen Wohnraum und Essecke, separater Küche, Schlafzimmer, Badezimmer mit Dusche/WC und Badewanne, und ein separates WC, Kabel TV, Safe und einen kleinen Garten  von 20 m².\nDas Doppelzimmer Nr. 6 für 2 Personen mit DU/WC und Kabel TV kann sofern frei zu jedem Appartement dazugemietet werden.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Top 3",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "82.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 3 Schlafräume",
+      "description": "3 Raumappartement -80 m² - für 2 bis 5 Personen\n\nBestehend aus einem Wohnraum mit Essecke, großes Schlafzimmer, kleines Schlafzimmer (1 Person), Vorraum mit eingebauter Küche, DU/WC, getrenntes WC, Safe und einem Balkon von 13 m².\nDas Doppelzimmer Nr. 6 für 2 Personen mit DU/WC und Kabel TV kann sofern frei zu jedem Appartement dazugemietet werden.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Top 5",
+          "numberOfRooms": "4.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "88.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "0.00",
+          "maxPrice": "93.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "0.00",
+          "maxPrice": "98.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "0.00",
+          "maxPrice": "103.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

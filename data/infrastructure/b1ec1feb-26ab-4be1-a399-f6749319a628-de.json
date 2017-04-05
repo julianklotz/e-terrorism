@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure",
+    "LocalBusiness"
+  ],
+  "name": "Feuerwehr Scharnitz",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3868705390585",
+    "longitude": "11.2657766619019"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Freiw. Feuerwehr Scharnitz",
+    "streetAddress": "Hinterautalstr. 450",
+    "addressLocality": "Scharnitz",
+    "postalCode": "6108",
+    "addressCountry": "AT",
+    "telephone": "(0043) 05213/20200",
+    "email": "feuerwehr-scharnitz@a1.at",
+    "url": "http://www.ff-scharnitz.com"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8644d54b-4712-4f16-9b85-bb191670576f/99/image.jpg",
+      "caption": "Feuerwehr 1"
+    }
+  ],
+  "url": [
+    "http://www.ff-scharnitz.com",
+    "http://www.seefeld.com"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "Frühjahrskonzert der Bergkapelle Reith",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Informationsbüro Reith",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Römerstraße 52",
+      "addressLocality": "Reith bei Seefeld",
+      "postalCode": "6103",
+      "addressCountry": "AT",
+      "telephone": "(0043)50880530 ",
+      "faxNumber": "(0043)50880831",
+      "email": "info.reith@seefeld.com",
+      "url": "http://www.seefeld.com"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Informationsbüro Reith",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Römerstraße 52",
+      "addressLocality": "Reith bei Seefeld",
+      "postalCode": "6103",
+      "addressCountry": "AT",
+      "telephone": "(0043)50880530 ",
+      "faxNumber": "(0043)50880831",
+      "email": "info.reith@seefeld.com",
+      "url": "http://www.seefeld.com"
+    }
+  },
+  "description": "Frühjahrskonzert der Bergkapelle Reith im Gemeindesaal Reith",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6ad2fc72-8520-4e17-95b3-f13aacb2179f/99/image.jpg",
+      "caption": "BKR"
+    }
+  ],
+  "startDate": "2017-04-21T20:00:00",
+  "endDate": "2017-04-21"
+}

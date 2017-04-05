@@ -1,0 +1,232 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://www.pension-schweizerhof.com",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Schweizerhof",
+    "streetAddress": "Emmat 370",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6402",
+    "email": "info@pension-schweizerhof.com",
+    "url": "http://www.pension-schweizerhof.com"
+  },
+  "name": "Schweizerhof",
+  "description": [
+    "Unsere Pension liegt am Rande des Zentrums von Leutasch, nur wenige Gehminuten von den Wanderwegen und den Langlaufloipen entfernt. In unserer familiären Atmosphäre werden Sie Ihren Aufenthalt sicher genießen und einen angenehmen Urlaub verbringen. Jeden Morgen erwartet unsere Gäste ein ausgewogenes Frühstücksbuffet. Auf Wunsch bereiten wir auch Eierspeisen und andere warme Gerichte zu. Natürlich können Sie bei uns auch ein Abendessen dazu buchen. Wir bieten Ihnen ein 3-Gänge-Menü mit kulinarischen Köstlichkeiten aus der Region (auf Wunsch auch vegetarisch) zu einem Preis von € 17,50 pro Erwachsener pro Nacht an. Unseren kleinen Gästen bieten wir Kinderportionen zum Preis von € 7,50 (bis 12 Jahre)an.",
+    "Sie können bei uns gratis im Freien parken. Wlan steht im ganzen Haus kostenlos zur Verfügung. Haustiere sind willkommen, werden extra verrechnet (€ 6,00 pro Tag ohne Futter). Die Ortstaxe (€ 2,80 pro Person/Tag ab 15,99 Jahre) wird zusätzlich verrechnet. ",
+    "Check in: 15.00 Uhr - 18.00 Uhr, Check out: 7.00 Uhr - 10.30 Uhr. Anreisen nach 18.00 Uhr bitte vorher bekannt geben.",
+    "Familien, Kinder, kinderfreundlich, Sauna, Langlauf, Skifahren, Hund willkommen, Spielplatz"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "reviewCount": "95"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/30e89cc8-2dfb-4381-84cf-26b4eb2e2719/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/84aeab8f-b2a2-4e81-8000-e0f29ec0addf/99/image.jpg",
+      "caption": "Winter 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d504c0fd-9f56-42ba-ac64-ed06c463be26/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/37fcf08f-9a0e-4927-8c0d-35aae1f6f91c/99/image.jpg",
+      "caption": "Sommer 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6f8a5f4c-7ede-46fe-9e2b-e160340afa1e/99/image.jpg",
+      "caption": "Saal"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9b0fde27-6491-4004-acd8-6cb48addfca8/99/image.jpg",
+      "caption": "Saal 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/aeaf2383-4687-4e1c-9096-90f3ff493faf/99/image.jpg",
+      "caption": "Frühstück"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e4db6a53-44db-4b45-b935-f22484185228/99/image.jpg",
+      "caption": "Frühstück 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b86e2a9f-cc22-4c61-b51d-d94a2b184ba8/99/image.jpg",
+      "caption": "Lounge"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d8b62a7a-8e7a-4030-82bb-b65acc925d04/99/image.jpg",
+      "caption": "Terrasse"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d9473cf0-1436-4418-9557-eb7eb456bcdd/99/image.jpg",
+      "caption": "Spielezimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/60fa274a-80b8-4d4d-9eb6-74c03c4a46e0/99/image.jpg",
+      "caption": "Sauna"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/25cab455-a39b-4d43-8412-25b39d36c4e6/99/image.jpg",
+      "caption": "Garten"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4291a7f1-5db6-4a40-9395-8bea4986034d/99/image.jpg",
+      "caption": "Balkon"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3767362408799",
+    "longitude": "11.1729503779098"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Einzelzimmer, Bad, WC",
+      "description": "Unsere Einzel-/Twinzimmer sind mit zwei getrennten Betten, Bad/WC, Haarfön, TV, kleiner Sitzecke und Balkon ausgestattet.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Einzelzimmer mit Bad, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche oder Bad, WC",
+      "description": "Unsere Doppelzimmer sind komfortabel ausgestattet mit Bad/Dusche, WC, Haarfön, kleiner Sitzecke, TV, Schließfach und großteils einem Balkon. Dazu gibt es im 1. Stock die Möglichkeit, den großen Südbalkon zu nutzen.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Dusche od. Bad, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Dreibettzimmer, Bad, WC",
+      "description": "Unsere Dreibettzimmer sind ausgestattet mit einem Doppelbett und einem einzelnen Bett sowie Bad oder Dusche/WC, Haarfön, kleiner Sitzecke, TV, Schließfach und teilweise Balkon.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Dreibettzimmer mit Bad, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Familienzimmer, Dusche, WC, 2 Schlafräume",
+      "description": "Unser Familienzimmer besteht aus 2 Zimmern, beide mit eigener Dusche/WC, Fön, TV, einer kleinen Sitzecke und einem Schließfach. Ein Zimmer ist mit einem Doppelbett ausgestattet, hat ebenso Platz für ein Zusatzbett und ein Kinderbett. Das zweite Zimmer ist mit 2 Einzelbetten ausgestattet. Das Familienzimmer eignet sich sehr gut für Familien mit 2, 3 oder 4 Kindern. ",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Familienzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "2"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "3"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Mehrbettzimmer, Bad, WC, 1 Schlafraum",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Mehrbettzimmer, Bad, WC, 1 Schlafraum",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

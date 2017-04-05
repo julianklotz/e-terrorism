@@ -1,0 +1,116 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.malerwinkel.upps.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Ferienhaus Malerwinkel",
+    "streetAddress": "Bichlweg 60",
+    "addressLocality": "Reith bei Seefeld",
+    "postalCode": "6103",
+    "addressCountry": "AT",
+    "telephone": "0049 89 848564",
+    "faxNumber": "(0049) 89 20189545",
+    "email": "hf39@gmx.de"
+  },
+  "name": "Ferienhaus Malerwinkel",
+  "description": [
+    "Ungestörte Alleinlage am Südhang mit prächtiger Fernsicht. 200 m zur Ortsmitte mit Einkaufsmöglichkeit, Bank, Bus- und Schnellzugstation (München-Innsbruck).\nEine direkte Zufahrt zum Haus ist nicht möglich (erreichbar über eine bequeme Freitreppe).\nParkmöglichkeit im Ort (ca. 100 m).\n",
+    "Inklusive: Heizung, Wasser, Strom\n",
+    "Check in: 14.00 Uhr\nCheck out: 10.00 Uhr\nIm Ortszentrum von Reith ca. 50 m östlich der Kirche links abbiegen - Hausnummer 60."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/342c3ae4-af75-4275-9536-28b3489a86f3/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/30923559-4137-4559-87d5-4760adf98eb5/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c3794d05-5749-4bd3-85b0-974338778bd5/99/image.jpg",
+      "caption": "Stiege zum Haus"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2dce7287-2141-4946-8fd0-7cfbc6016025/99/image.jpg",
+      "caption": "Vor dem Haus"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c9f631d6-713d-4474-b026-a45fdf6d4cd5/99/image.jpg",
+      "caption": "Sonnenuntergang"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/197b6258-cf91-418c-852e-7a5ab707aea2/99/image.jpg",
+      "caption": "Sonnenaufgang"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c9a2c7a6-3f74-4eaf-98fb-68cd806442db/99/image.jpg",
+      "caption": "Aussicht auf die Kalkkögel"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2980405459958",
+    "longitude": "11.206608572094"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Ferienhaus, Dusche und Bad, WC, 2 Schlafräume",
+      "description": "Essraum mit geräumigem und überdachtem Südbalkon(freier Blick über das Inntal). Räumliche Verbindung mit einem gemütlichen Kaminzimmer (Schwedenkamin) mit Fernseher und Doppelcouch, komplett eingerichtete Küche mit Geschirrspüler und Ausgang zur westlichen Gartenterrasse, \n1 Schlafzimmer mit Doppelbett, 1 Schlafzimmer mit zwei Einzelbetten, Bad und WC getrennt, Vorraum mit Garderobe, Liegewiese mit Gartenmöbeln!",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Ferienhaus/2 Schlafräume/Dusche, Bad, WC",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "80.00",
+          "maxPrice": "95.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "80.00",
+          "maxPrice": "95.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "80.00",
+          "maxPrice": "95.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

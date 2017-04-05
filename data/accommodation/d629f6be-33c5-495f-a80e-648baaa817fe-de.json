@@ -1,0 +1,85 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.regenbogenhaus-seefeld.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Tannenburg",
+    "streetAddress": "Am Kirchwald 469",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "email": "anna.sales@gmx.at"
+  },
+  "name": "Haus Tannenburg",
+  "description": [
+    "Unser Haus liegt am Ortsrand, in der Nähe des Waldes, auf einer Anhöhe. Für NaturliebhaberInnen bestens geeignet, da im Sommer Wanderwege fast vor der Haustüre weggehen und im Winter das Loipennetz zu Fuß in 5 Minuten zu erreichen ist. Das Haus ist ruhig gelegen und lädt zur Erholung ein. Direkt vor dem Haus befindet sich eine Ortsbushaltestelle. Zu einem reichhaltigen Frühstücksbüfett und gepflegten Zimmern mit Balkon oder Terrasse, bieten wir auch eine Biosauna (65° Farblicht) und Massagen oder Bachblütentherapie nach Vereinbarung.",
+    "Ca. 1 Minuten mit dem Auto, ca. 5 Minuten zu Fuß vom Zentrum entfernt, auf einer Anhöhe, genannt \"Kirchwald\"!",
+    "Ca. 1 Minuten mit dem Auto, ca. 5 Minuten zu Fuß vom Zentrum entfernt, auf einer Anhöhe, genannt \"Kirchwald\"!"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a6f0fd6f-c752-4819-ac14-d4907df37dcf/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5a92b04d-00ef-4f00-9700-f93a76eda9c0/99/image.jpg",
+      "caption": "Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3284066481916",
+    "longitude": "11.1785191297531"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Unsere Komfortzimmer sind ausgestattet mit Bad/Du, WC, Kabel-TV, Balkon od. Terrasse.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "30.00",
+          "maxPrice": "30.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "28.00",
+          "maxPrice": "28.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

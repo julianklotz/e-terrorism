@@ -1,0 +1,268 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.schoenangerhof.com",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Schoenangerhof",
+    "streetAddress": "Andreas-Hofer-Str. 188",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "0043 5212 2265",
+    "faxNumber": "0043 5212 2265 4",
+    "email": "grameiser-scherl@tirol.com",
+    "url": "http://www.schoenangerhof.com"
+  },
+  "name": "Schönangerhof",
+  "description": [
+    "Unser Haus liegt in sonniger und ruhiger Lage 5 Gehminuten vom Zentrum in einer großen naturbelassenen Wiese. Die komfortabel ausgestatteten Appartements verfügen über einen großen Südbalkon und bieten ausreichend Platz für 2-4 Personen. Im Winter hält der Seefelder Shuttlebus direkt vor dem Haus. \nWir freuen uns auf Ihr Kommen.",
+    "Check-In: 15.00 Uhr\nCheck-Out: 10.00 Uhr",
+    "Apartment, Appartement, Schoenangerhof, Ferienwohnungen,"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "reviewCount": "10"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2ad595ed-04a6-43c6-80a2-a4602477fc9a/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d4ed8e2b-8b03-45f9-aaaf-800ed0fc063d/99/image.jpg",
+      "caption": "Edelweiss Logo"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/02f924d8-090e-4794-8eb8-dcc01a3894a3/99/image.jpg",
+      "caption": "Schönangerhof-seitlich"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7a84e757-dff3-420d-93c4-6b24a4fc236b/99/image.jpg",
+      "caption": "WAL_1300"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3305300160289",
+    "longitude": "11.1933249235153"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "Großzügiges 3-Raum-Apartment (70 m²)im ersten Stock mit Blick auf die 2360 hohe Reitherspitze im Karwendel Gebirge. Wohnzimmer mit Küchenzeile, Essecke und Couch, 2 Schlafzimmer, Süd-Westlage, großer Südbalkon, Badezimmer mit Badewanne  und  WC, ideal für Familien. Auf Anfrage auch als 2-Raum Apartment für 2 Personen buchbar.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Reitherspitz",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "91.00",
+          "maxPrice": "124.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "91.00",
+          "maxPrice": "124.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "Großzügiges 2-Raum-Apartment(50 m2)im zweiten Stock mit herrlichem Blick über Seefeld. Wohnzimmer mit Küchenzeile, Essecke und ausziehbarer Couch, 1 Schlafzimmer, Südlage mit großem eigenen Balkon. Badezimmer mit Dusche getrenntes WC, Belegung mit 2 bis 4 Personen.\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Kalkkögel",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "83.00",
+          "maxPrice": "96.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "91.00",
+          "maxPrice": "96.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "91.00",
+          "maxPrice": "96.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 2 Schlafräume",
+      "description": "Großzügiges 3-Raum-Apartment (90 m2)im ersten Stock mit Blick auf die 2660 m hohe Hohe Munde in der Mieminger Kette. Wohnzimmer mit Küchenzeile, Essecke und Couch, 2 Schlafzimmer West-Ostlage, großer, eigener Westbalkon, 2 Badezimmer, einmal mit Dusche und WC, einmal mit Badewanne und getrenntem WC, ideal für Großfamilien. Auf Anfrage auch als 2-Raum Apartment für 2 Personen buchbar.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Hohe Munde",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "95.00",
+          "maxPrice": "134.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "95.00",
+          "maxPrice": "134.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "95.00",
+          "maxPrice": "134.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "105.00",
+          "maxPrice": "144.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "Großzügiges 3-Raum-Apartment (70 m2)im Parterre mit Blick auf den 2760 m hohen Hocheder in den Stubaier Alpen. Wohnzimmer mit Küchenzeile, Essecke und Couch, 2 Schlafzimmer. Süd-Westlage, große Terrasse, Badezimmer mit Dusche und WC, ideal für Familien mit Kleinkindern oder ältere Personen. Auf Anfrage auch als 2-Raum Apartment für 2 Personen buchbar.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Hocheder",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "87.00",
+          "maxPrice": "114.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "87.00",
+          "maxPrice": "114.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "87.00",
+          "maxPrice": "114.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Zugspitze",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "60.00",
+          "maxPrice": "72.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

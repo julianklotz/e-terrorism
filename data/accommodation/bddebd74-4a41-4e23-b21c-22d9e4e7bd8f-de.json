@@ -1,0 +1,147 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.pension-pichler.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Pension Pichler",
+    "streetAddress": "Gasse 167",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6246",
+    "faxNumber": "(0043) 5214 6246 6",
+    "email": "info@pension-pichler.at",
+    "url": "http://www.pension-pichler.at"
+  },
+  "name": "Pension Pichler",
+  "description": [
+    "Die Pension Pichler liegt in Leutasch in Tirol umringt von der faszinierenden Bergwelt und ist Ihr Feriendomizil zum Wohlfühlen. \n\nIn unserer familiär geführten Pension erwartet Sie Richtung Westen ein Blick auf die Hohe Munde und Richtung Süden ein Blick auf die Rosshütte und das Seefelder Joch. \nAlle Sehenswürdigkeiten in der Olympiaregion Seefeld und Umgebung sind leicht zu erreichen. Das Ortszentrum von Leutasch ist zu Fuß ca. 10 Minuten entfernt, die vorbeiführende Loipe „A7 Gasse“ bietet im Winter einen Einstieg zum umliegenden Loipennetz und ein Wanderweg, mit ein paar Schritten auf dem Jakobsweg, direkt vor dem Haus lädt zu einem Spaziergang ein.\n\nBei uns, in der Pension Pichler können Sie in einem der 8 großzügigen freundlichen Zimmer inkl. eigenem Balkon und 1 gemütlichen Appartement übernachten. Am Morgen können Sie ein reichhaltiges Frühstücksbuffet, mit Brot aus der hauseigenen Bäckerei, genießen.\n\nNach einer langen Wanderung mit unvergesslichen Augenblicken können Sie gratis ins Alpenbad Leutasch, entspannen. Sammeln Sie neue Energien in unserem sonnigen Garten und entspannen Sie auf unseren Holzliegen. Direkt von unserer Pension Pichler gelangen Sie auf den Wanderweg, welcher fernab von der Straße liegt. \nAls zusätzlichen Service bieten wir eine kleine Küche und eine Waschmaschine an. Für das Schwimmbad können Hand- und Badetücher ausgeliehen werden.\n\nDas Leutaschtal ist ein idealer Ausgangspunkt für Wanderungen oder Radtouren im Sommer sowie für sämtliche Wintersportarten:\n\nMit den weltweitbesten Langlaufloipen, den idyllischen Winter-Wanderwegen und den beliebten Rodelbahnen können Sie sich mit Ihrer Familie bestens erholen. Auch die Skigebiete in Leutasch und Seefeld bieten ein Kinderparadies und ein Abenteuer im Schnee für die ganze Familie. Die Skibushaltestelle erreichen Sie vom Haus in ca. 100 m.\n\nNeben den vielzähligen Wandertouren in unterschiedlichen Schwierigkeitsgraden kann auch kostenlos am Sommerprogramm unter dem Motto „Entdecke die Olympiaregion - die Natur wartet auf DICH“ teilgenommen werden. Das Programm beinhaltet 19 verschiedene Themen zu Naturwissenschaft, Kultur und Sport u.v.m.\n\nIhre Familie Pichler, die sich gerne Überraschungen einfallen lässt, begrüßt Sie herzlich.",
+    "Kostenlos: Fahrrad-, Rodelverleih, Wanderstöcke, Eintritt Alpenbad, Schuhtrockner, Ponyreiten.",
+    "Bahnanreise: Entweder bis Mittenwald oder bis Seefeld.- Mit Bus bis Leutasch-Gasse.\nPKW: München-Garmisch-Mittenwald-Leutasch Gasse.\n"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "reviewCount": "73"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/fafe3b07-92af-4e96-969b-78a864896903/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/fe311dbb-661c-4014-8cc1-52cfc397d31c/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/40a07b43-208d-4823-a96d-59de10cd984e/99/image.jpg",
+      "caption": "Frühstücksbuffet aus eigener Bäckerei"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/892ce45a-0747-429a-b821-2ded70849ce1/99/image.jpg",
+      "caption": "Frühstücksbuffet"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.378067335383",
+    "longitude": "11.157236128937"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Unsere Zimmer im gemütlichen Tiroler Stil sind mit DU/WC, SAT/TV und Balkon ausgestattet.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "36.00",
+          "maxPrice": "36.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "36.00",
+          "maxPrice": "36.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Einzelzimmer, Dusche, WC",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Einzelzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "Unsere Ferienwohnung ist komfortablen Tiroler Stil eingerichtet. Die Wohnung verfügt über eine Küche, reichlich Koch-und Speisegeschirr ausgestattet ist. Wohnzimmer mit Eßbereich und Wohnecke ; Sat/TV und Radio. 2 Schlafzimmer, getrennt Dusche/WC ; gratis Frühstücksbrot aus der hauseigenen  Bäckerei.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/2 Schlafräume/Dusche, WC",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

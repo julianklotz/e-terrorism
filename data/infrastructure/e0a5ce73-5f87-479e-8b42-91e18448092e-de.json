@@ -1,0 +1,29 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BikeStore"
+  ],
+  "name": "Fahrradverleih Campingstüberl",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3847959608913",
+    "longitude": "11.2625314106979"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Campingstüberl",
+    "streetAddress": "Brandlift 390",
+    "addressLocality": "Scharnitz",
+    "postalCode": "6108",
+    "addressCountry": "AT",
+    "telephone": "(0043) 0699 10109009",
+    "url": "http://www.karwendelcamp"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/efafaf36-6fea-406e-b8e4-f27172e4bcb2/99/image.jpg",
+      "caption": "Fahrradverleih"
+    }
+  ]
+}

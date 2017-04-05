@@ -1,0 +1,116 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.kaltschmid.info",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "F. Kaltschmid Hotel GmbH",
+    "streetAddress": "Römerweg 737",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2191",
+    "faxNumber": "(0043) 5212 2191 116",
+    "email": "ferienhotel@kaltschmid.info",
+    "url": "http://www.kaltschmid.info"
+  },
+  "name": "Appartements Am Römerweg",
+  "description": [
+    "Nahe der Rosshütten-Talstation, Ausfahrt Seefeld Mitte, 10-15 Gehminuten zum Ortszentrum.\n2-Raum-Appartements (2-5 Pers.), alle mit Bad/WC, Balkon, Küche mit 4-Platten-Herd und Backofen. Im Haus: Sauna, Türkisches Dampfbad, Solarium, Münzwäscherei. \n\n",
+    "Freizeitanlagen im Ferienhotel Kaltschmid gratis zu benützen\nKostenlos: Sauna, Dampfbad, Parkplätze, \nGegen Gebühr: Solarium, Waschmaschine, Haustiere € 10,- pro Tag (ohne Futter), Telefon",
+    "Ortsrand von Seefeld, Nähe Rosshütte Talstation, Ausfahrt Seefeld Mitte, Kreisverkehr  3. Ausfahrt, 1. Haus links",
+    "Seefeld\nFerienwohnung\nSauna\nAppartement"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.1",
+    "reviewCount": "82"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/60f43ad0-df40-4f09-9333-254d98028260/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8f99a500-5728-4ba6-919d-cf87e369fc24/99/image.jpg",
+      "caption": "Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3298064807548",
+    "longitude": "11.1973696947098"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 1 Schlafraum",
+      "description": [
+        "ca. 42 m², mit Balkon, Bad, extra WC, Radio, TV, Telefon, bis 5 Personen, 1 Schlafzimmer und 1 Wohnzimmer, Küche",
+        "ca. 42 m², mit Balkon, Bad, extra WC, Radio, TV, bis 5 Personen, 1 Schlafzimmer und 1 Wohnzimmer, Küche"
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/1 Schlafraum/Bad, WC",
+          "description": "2-Raum Appartement mit Balkon\n40-45 m2, bis 5 Personen buchbar\nSchlafzimmer mit Doppelbett, Wohnzimmer mit Schlafcouch, Esstisch, Bad mit Doppelwaschbecken, extra WC, Küche bzw. Kochecke mit 4-Plattenherd und Backrohr, Kühlschrank, Radio und TV",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "117.00",
+          "maxPrice": "117.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "117.00",
+          "maxPrice": "117.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "117.00",
+          "maxPrice": "117.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "117.00",
+          "maxPrice": "117.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "117.00",
+          "maxPrice": "117.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

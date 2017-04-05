@@ -1,0 +1,41 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Church",
+    "CatholicChurch"
+  ],
+  "name": "Pfarrkirche Maria Heimsuchung",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3117168708549",
+    "longitude": "11.1456415740662"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Pfarrkirche Maria Heimsuchung",
+    "streetAddress": "Kirchweg 4",
+    "addressLocality": "Mösern",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "+4350880520",
+    "faxNumber": "+4350880521",
+    "email": "info.moesern@seefeld.com",
+    "url": "http://www.seefeld.com"
+  },
+  "description": [
+    " ",
+    "Dieses reizvolle Barockkirchlein Maria Heimsuchung stammt im Kern noch aus dem 17. Jh. Die ersten Mess-Stiftungen stammen aus dem Jahr 1836/37. 1763 wurde sie umgebaut und vergrößert und 1951 restauriert. Die Verlängerung des Schiffes um zwei Jochen erfolgte 1797 durch Ekkehard Hörmann. Der schön marmorierte Rokokoaltar mit schräg vorgestellten Säulen stammt aus der Zeit um 1770. Das Altarblatt zeigt Maria Heimsuchung. An einem Pilaster ist eine geschnitzte Madonna im Strahlenkranz aus der ersten Hälfte des 18. Jahrhunderts angebracht. Im Jahr 1997 wurde beim Kirchlein auch ein eigener Friedhof errichtet. Bis zu dieser Zeit wurden die Verstorbenen von Mösern in der Gemeinde in Telfs beigesetzt. "
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/bedbf80a-9c9d-4b1e-90d2-71744eb55d08/99/image.jpg",
+      "caption": "Kirche1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/505a89f9-11c7-413a-a336-d2ca48cd41c8/99/image.jpg",
+      "caption": "Kirche"
+    }
+  ]
+}

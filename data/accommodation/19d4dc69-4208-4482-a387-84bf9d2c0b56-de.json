@@ -1,0 +1,135 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.waldeslust.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Waldeslust",
+    "streetAddress": "Am Kirchwald  336",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 3073",
+    "faxNumber": "(0043) 5212 2248",
+    "email": "info@waldeslust.at",
+    "url": "http://www.waldeslust.at"
+  },
+  "name": "Haus Waldeslust",
+  "description": [
+    "Gästehaus Waldeslust, direkt am Waldrand, sehr ruhig, mit herrlichem Blick über Seefeld und auf die umliegende Bergwelt. Zentrum, Loipen, Schilifte, Tennishalle, Sportzentrum sind in wenigen Minuten erreichbar. Zimmer mit DU/WC, Balkon u. SAT-TV, rustikaler Frühstücksraum, gemütlicher Aufenthaltsraum mit Kabel-TV, Sonnenterrasse, Liegewiese u. Abstellplätze für PKW. \nAuf Ihren Besuch freut sich Fam. Norz.",
+    "Haustier € 4,- pro Tag",
+    "... Anreiseplan können Sie auf unserer Homepage www.waldeslust.at ausdrucken",
+    "... Anreiseplan können Sie auf unserer Homepage www.waldeslust.at ausdrucken"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/83430dd5-0390-4585-8d01-7e2899da922f/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a561e515-cab6-43b3-8c77-77ab040abb7e/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5b05dbed-c755-41f7-b52d-6a6a06bf3f94/99/image.jpg",
+      "caption": "Terrasse"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f7944574-0565-488d-85cb-c1bf91f61c23/99/image.jpg",
+      "caption": "Innenansicht - Frühstücksraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0b218075-2e34-48db-9ab0-1e22c1bd26bd/99/image.jpg",
+      "caption": "Innenansicht - Bar"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/88a34d44-d31f-4b3b-bdfe-0c6425b2c1dd/99/image.jpg",
+      "caption": "Wohnbeispiel"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3299664592569",
+    "longitude": "11.1787068843842"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Alle Zimmer mit Dusche/WC, Balkon und SAT-TV",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "38.00",
+          "maxPrice": "38.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Einzelzimmer, Dusche, WC",
+      "description": "Zimmer mit Dusche/WC, Balkon und SAT-TV",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Einzelzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "26.00",
+          "maxPrice": "26.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Mühlangerhof",
+    "streetAddress": "Obern 48",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6265",
+    "email": "Ingrid.neuner@gmx.net"
+  },
+  "name": "Mühlangerhof",
+  "description": [
+    "Unser gemütliches, gepflegtes, familiär geführtes Haus in ruhiger Lage liegt im Ortsteil Obern und ist umgeben von unserem herrlichen Gebirgspanorama.\n\nSie laufen nur ein paar Schritte bis zum Einstieg in die Loipe oder zu unseren bestens geräumten Winterwanderwegen. \n\nRestaurants, ein SPAR-Markt sowie GUT LEUTASCH befinden sich in unmittelbarer Nähe.\n\nUnsere Zimmer mit Dusche/WC oder Bad/WC sind im Landhausstil eingerichtet. \nWir verfügen über einen großzügigen Aufenthaltsraum mit Kühlschrank, Tee- und Kaffeeküche sowie SAT-TV.",
+    "\nParkplatz zur kostenlosen Benützung.\n\nHaben Sie noch Fragen, so freuen wir uns über Ihren Anruf unter der Tel.Nr.: 0043 5214 6877 oder per E-Mail: Ingrid.neuner@gmx.net.",
+    "Von Mittenwald: Leutasch-Schanz-Gasse-Richtung Klamm-Gaistal.\n\nVon Seefeld: Leutasch-Weidach-Kirchplatzl-Richtung Klamm-Gaistal."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/49686be8-f005-4e5a-907c-f1af575976e2/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3b7c1056-518a-4afc-82fe-29a5e131dc2f/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/57c1b687-8cd1-4168-8e1c-96b8aa75539a/99/image.jpg",
+      "caption": "Sommer 2"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.361091639454",
+    "longitude": "11.121188763114"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche oder Bad, WC",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Dusche od. Bad, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Einzelzimmer, Dusche, WC",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Einzelzimmer, Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

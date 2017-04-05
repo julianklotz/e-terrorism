@@ -1,0 +1,77 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.alpenmond.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Alpenmond ",
+    "streetAddress": "Emmat 370 b",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 20158",
+    "email": "office@alpenmond.at",
+    "url": "http://www.alpenmond.at"
+  },
+  "name": "Haus Alpenmond",
+  "description": [
+    "Unser Haus liegt in ruhiger Lage ca. 400m vom Ortszentrum Leutasch entfernt. In der Nähe von unserem Haus befindet sich ein Loipeneinstieg. Im Winter ist es möglich auf einer Naturbahn zu rodeln, ca. 500 m entfernt. Schifahren ist beim Kreithlift möglich, ca. 1 km entfernt. Das Alpenbad Leutasch ist ca. 1 km entfernt.",
+    "Inkl. Heizung, Wasser, Handtücher, Bettwäsche, Geschirrtücher\n\nExkl. Ortstaxe, Endreinigung"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "reviewCount": "37"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6346828f-e2c7-4e56-b71e-4fbccc139542/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3442aaf9-e9b4-4fcf-a742-2a6713569f38/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/12c30ace-10b3-408c-b40b-b923e4d49e97/99/image.jpg",
+      "caption": "Hausansicht Winter"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3767762",
+    "longitude": "11.1729772"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 2 Schlafräume",
+      "description": "Ein 3- Zimmer Appartement mit zwei separaten Schlafzimmern, separate Küche, Wohnzimmer mit Schlafcouch und TV \u0026 Badezimmer.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement, 2 Schlafräume / Dusche und Bad, WC",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

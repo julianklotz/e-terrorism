@@ -1,0 +1,385 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.apartmenthaus-brigitte.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Apartmenthaus Brigitte",
+    "streetAddress": "Ostbach 21",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6261",
+    "faxNumber": "(0043) 5214 6261 20",
+    "email": "info@apartmenthaus-brigitte.at",
+    "url": "http://www.apartmenthaus-brigitte.at"
+  },
+  "name": "Apartmenthaus Brigitte",
+  "description": [
+    "Ruhig und sonnig am Waldrand gelegen, umgeben von weitläufigen Wiesen mit herrlicher Aussicht auf das eindrucksvolle Wettersteingebirge und Karwendelgebirge finden Sie unser 3 Edelweiß Superior Apartmenthaus Brigitte im Leutaschtal. Entfliehen Sie dem stressgeplagten Alltag und erholen Sie sich in unserem familiär geführten Ferienhaus in der Olympiaregion Seefeld in Tirol.\n\nUnsere 5 gemütlichen, geräumigen \u0026 voll ausgestatteten Ferienwohnungen verfügen alle über einen Balkon mit atemberaubenden Blick zur Hohen Munde, zum Wetterstein- und Karwendelgebirge. Das größte Appartement „Hohe Munde“ mit 72 m² verfügt über einen zusätzlichen Balkon zur Ostseite. Die Ferienwohnungen sind alle neu renoviert und modern ausgestattet. WLAN ist natürlich im ganzen Appartementhaus Brigitte kostenlos verfügbar.\n\nIdeal für Langläufer: Die 271 km täglich präparierten Langlaufloipen der Olympiaregion Seefeld können Sie als unser Gast kostenlos nutzen. Direkt hinter unserem Ferienhaus können Sie in nur wenigen Schritten in die einfache Langlaufloipe A5 einsteigen. Im beheizten Schi-, Schuh- und Wachsraum können Sie sich für den Tag auf der Loipe vorbereiten. Wärmen Sie sich im Anschluss in der hauseigenen Sauna auf.\nLegen Sie auch mal die Skier zur Seite und machen eine Winterwanderung durch das verschneite Leutaschtal. Für eine Rodelpartie befinden sich Leihrodeln ebenso im Haus.\n\nIm Sommer ist unser Ferienhaus Brigitte der ideale Ausgangspunkt für Wanderungen und Radtouren. Starten Sie direkt von unserem Apartmenthaus z.B. auf die Rauthhütte oder ins Almen- und Wanderparadies Gaistal. Oder erkunden Sie das Leutaschtal mit dem Mountainbike. Fahrräder können Sie kostenlos bei uns leihen (auch für Kinder). Mitgebrachte Fahrräder können Sie im abgeschlossenen Fahrradraum verstauen. Lassen Sie alle Gedanken beiseite und entspannen Sie sich auf der großen Liegewiese mit Liegestühlen. Auch unsere „kleinen“ Gäste werden sich bei uns im Appartementhaus Brigitte wohlfühlen. Auf der Spielwiese mit Schaukel, Sandkiste, Trampolin und Tischtennistisch können sich die Kinder austoben. An lauen Sommerabenden eignet sich unsere Gästeterrasse mit eigenem Grill perfekt für eine ausgelassene Grillparty. Von Mai-Oktober können Sie sich noch dazu kostenlos in der Erlebniswelt Alpenbad Leutasch erholen.\n\nBesuchen Sie uns im Leutaschtal und werden Sie Gast in unserem Apartmenthaus Brigitte. Ich freue mich aus Sie! Ihre Gastgeberin, Sarah Rödlach.",
+    "INKLUSIVE: Sämtliche Bettwäsche, Bade- und Handtücher, Heizung, Wasser, Strom, Safe, Internet, Sauna 2 x wöchentlich, im Sommer Eintritt in in die Erlebniswelt Alpenbad Leutasch, Fahrräder, Tischtennis, Rodeln, Kinderbett, Hochstuhl ect.\n\nEXKLUSIVE: Telefongesprächskosten, Ortstaxe, Garage, Solarium, \n           Endreinigung, Wäscheservice, Gebäck.",
+    "Von Mittenwald kommend Richtung Oberleutasch, vorbei an der Kirche Richtung Telfs, nach dem Alpenhotel Karwendel 3. Haus rechts.\nVon Telfs kommend über Buchen immer geradeaus - am Ortsanfang Leutasch - Ostbach.\nCheck-In ab 16.00 Uhr / Check-Out bis 10.00 Uhr oder nach Vereinbarung."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/06de178a-5da1-416d-a892-b44d8f371fd0/99/image.jpg",
+      "caption": "haus8"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ec68bccb-b373-4af4-aff7-817a72ffabd9/99/image.jpg",
+      "caption": "haus7"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ca55a10b-da2c-4b36-b5cf-213806ca9934/99/image.jpg",
+      "caption": "panorama"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6491db02-5796-4198-96f6-5c321131a100/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/27aab79f-d61b-4489-8249-723a256c2679/99/image.jpg",
+      "caption": "Panor.Wi"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b074e00e-1222-4b3a-bb5b-91e5923deba3/99/image.jpg",
+      "caption": "Panorama Winter (Blick vom Balkon)"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/74907d46-6408-4991-97cc-9e00cde3b44e/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4444e8ec-2e1b-4e37-b131-56649286ebb2/99/image.jpg",
+      "caption": "Winter Nachtaufnahme"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/800ad57f-98f2-4832-bf3f-044be59260b7/99/image.jpg",
+      "caption": "Sauna"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/59a211e1-73b2-4264-bbb5-60cc512898a1/99/image.jpg",
+      "caption": "Sauna 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/147ccd4f-38b8-4282-a2ee-ff8dec122270/99/image.jpg",
+      "caption": "Sauna 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d666b005-be96-4890-a486-d5a3cfac712f/99/image.jpg",
+      "caption": "haus1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4af57eab-3de5-42d2-8258-74c28c5dab2e/99/image.jpg",
+      "caption": "haus10"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/35a8cc6c-2c5e-4fae-9f4a-14696c72b8d9/99/image.jpg",
+      "caption": "haus12"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6aacb804-f00b-45d2-b023-bc453da1f213/99/image.jpg",
+      "caption": "haus9"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d4fc91d8-ec9a-4930-ba62-896693e57410/99/image.jpg",
+      "caption": "blumen7"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/25a75a2c-80e2-4c9a-9119-42138030ce0f/99/image.jpg",
+      "caption": "blumen3"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.357001081272",
+    "longitude": "11.131692583451"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 1 Schlafraum",
+      "description": "Sehr komfortabel eingerichtete 2-Zimmerwohnung - bestens ausgestatte Küche mit Geschirrspüler, geräumige Essecke,  großzügiges BAD / getrenntes WC. Südwest- und Ostbalkon mit herrlicher Aussicht auf die umliegenden Berge 62 m².",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Ap. Wetterstein/1 Schlafraum/Bad, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "75.00",
+          "maxPrice": "85.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "75.00",
+          "maxPrice": "85.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "90.00",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "105.00",
+          "maxPrice": "115.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "120.00",
+          "maxPrice": "130.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 1 Schlafraum",
+      "description": "Bestens ausgestattete, gemütliche und geräumige 2-Zimmerwohnung, Wohnlandschaft, separate Essecke, Schlafzimmer, BAD / getrenntes WC, großer Südbalkon, herrliche Aussicht, ca. 45 m².",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Ap. Zugspitze /1 Schlafraum/Bad, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "58.00",
+          "maxPrice": "68.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "58.00",
+          "maxPrice": "68.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "72.00",
+          "maxPrice": "82.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "86.00",
+          "maxPrice": "96.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC",
+      "description": "Bestens ausgestattete, gemütliche und geräumige 1-Zimmerwohnung, Wohnbereich mit Couch, separate Essecke, komplett ausgestattete Apartmentküche mit Induktionsherd, durch einen Raumteiler getrenntes Schlafzimmer, BAD/WC mit Einbauschrank und Ablagen, großer, abgeschlossener und möblierter Südbalkon mit herrliche Aussicht, ca.35 m².   \n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Ap. Karwendel /Wohn-Schlafraum/Bad, WC",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "49.00",
+          "maxPrice": "59.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "49.00",
+          "maxPrice": "59.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "62.00",
+          "maxPrice": "72.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC",
+      "description": "Bestens ausgestattete, gemütliche und geräumige 1-Zimmerwohnung, Wohnbereich mit Couch, separate Essecke, komplett ausgestattete Apartmentküche mit Induktionsherd, durch einen Raumteiler getrenntes Schlafzimmer, gräumiges BAD/WC mit Einbauschrank und Ablagen, großer, abgeschlossener und möblierter Südwestbalkon mit herrliche Aussicht, ca.35 m².\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Ap. Gaistal /Wohn-Schlafraum/Bad, WC",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "49.00",
+          "maxPrice": "59.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "49.00",
+          "maxPrice": "59.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "62.00",
+          "maxPrice": "72.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 2 Schlafräume",
+      "description": "Sehr geräumige und komfortabel eingerichtete 3-Zimmerwohnung, 2 Schlafzimmer, bestens ausgestatte Küche mit Geschirrspüler und Mikrowelle, geräumige Essecke, durch einen Raumteiler getrennt das\ngemütliche Wohnzimmer mit Wohnlandschaft, großzügiges BAD/WC und zusätzliche DUSCHE/WC mit Einbauschränken und Ablagen, Südwest- und Ostbalkon möbliert mit herrlicher Aussicht auf die umliegenden Berge, ca. 72 m².\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Ap. Hohe Munde/2 Schlafräume/Dusche, Bad",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "85.00",
+          "maxPrice": "95.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "85.00",
+          "maxPrice": "95.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "100.00",
+          "maxPrice": "110.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "115.00",
+          "maxPrice": "125.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "130.00",
+          "maxPrice": "140.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "145.00",
+          "maxPrice": "155.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

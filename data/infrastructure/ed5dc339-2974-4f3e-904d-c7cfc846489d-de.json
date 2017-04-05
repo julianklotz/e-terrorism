@@ -1,0 +1,21 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant",
+    "CafeOrCoffeeShop"
+  ],
+  "name": "Il Tartufo, Pizzeria - Restaurant",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3718948",
+    "longitude": "11.1639768595245"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Il Tartufo",
+    "streetAddress": "Weidach 318",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation"
+  ],
+  "name": "Edelweiss Skiverleih",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3284175561212",
+    "longitude": "11.1833310127258"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Edelweiss Skiverleih",
+    "streetAddress": "Klosterstr. 176",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 660 7363077 ",
+    "url": "http://www.ski-seefeld.com/"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ffb91ebf-c87b-4f70-9454-d80c376dbe22/99/image.jpg",
+      "caption": "Edelweiss Skiverleih"
+    }
+  ],
+  "url": [
+    "http://www.ski-seefeld.com"
+  ]
+}

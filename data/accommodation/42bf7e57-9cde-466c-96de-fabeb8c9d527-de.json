@@ -1,0 +1,92 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://web.deskline.net/seefeld/de/show_accommodation/SEE/42bf7e57-9cde-466c-96de-fabeb8c9d527/haus_neuner_irene",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Neuner Irene",
+    "streetAddress": "Am Kirchwald 818",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 5144177",
+    "email": "irene.neuner@aon.at"
+  },
+  "name": "Haus Neuner Irene",
+  "description": [
+    "Unser Haus liegt in einer ruhigen Wohnsiedlung am Kirchwald.\nGegenüber befindet sich die Haltestelle des gratis Dorfshuttlebuses.\nDas Dorfzentrum, der Loipeneinstieg sowie das Sport- und Kongresszetrum sind in 10 Gehminuten erreichbar.",
+    "Inklusive: Handtücher, Bett- und Tischwäsche, Parkplatz, Strom\n\n\nCheck in: 15.00 Uhr\nCheck out: 10.00 Uhr"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2a31bcf0-897a-4084-aef0-2301746a9f1b/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f60070d0-4382-4813-8648-74a06c4391f7/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d9df8257-e3b9-48f4-95ec-13e4922b0384/99/image.jpg",
+      "caption": "Parkplatz"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/46cdb644-9b84-41d8-b529-300c58d04be8/99/image.jpg",
+      "caption": "Eingang Wohnung"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3282575729276",
+    "longitude": "11.1783850193024"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Das Appartement ist ca. 50m² groß mit 20m² Terrasse und Garten.\nEs verfügt über einen separaten Eingang, eine Vorraum, Wohnzimmer mit Ess- und Küchenbereich, ein separates Schlafzimmer sowie Dusche/WC und eine Abstellraum. ",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "80.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "80.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

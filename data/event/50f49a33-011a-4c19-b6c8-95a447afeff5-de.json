@@ -1,0 +1,46 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "Trip, trap mit der Ponykutsche geht\u0027s jetzt ab!",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Haideggerhof",
+    "employee": {
+      "@type": "Person",
+      "familyName": "Haidegger"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Leithener Dorfstraße 18",
+      "addressLocality": "Reith bei Seefeld",
+      "postalCode": "6103",
+      "addressCountry": "AT",
+      "telephone": "(0043)6508446282"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Haideggerhof",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Leithener Dorfstraße 18",
+      "addressLocality": "Reith bei Seefeld",
+      "postalCode": "6103",
+      "addressCountry": "AT",
+      "telephone": "(0043)6508446282"
+    }
+  },
+  "description": "Ponykutschenfahrt für Kinder von 4-7 Jahre\n\nWann: Jeden Donnerstag um 10.00 Uhr\nDauer: 1 Stunde (Ausfahrt mit Pferdepflege)\nWo: beim Haideggerhof in Leithen\nKosten: Euro 10,- pro Kind\nTeilnehmer: min. 5 Kinder, max. 5 Kinder \n\nAnmeldung bis Mittwoch im Infobüro Reith, Tel.: 05 0880 30\noder nach Vereinbarung unter Tel.: 0650/8446282  \n\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/39d5d18c-5634-4718-9de5-8e50cc7cae41/99/image.jpg",
+      "caption": "Ponykutschenfahrt"
+    }
+  ],
+  "startDate": "2017-07-12T10:00:00",
+  "endDate": "2017-09-28"
+}

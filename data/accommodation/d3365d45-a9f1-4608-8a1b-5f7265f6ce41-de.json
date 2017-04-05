@@ -1,0 +1,97 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Helmut",
+    "streetAddress": "Leutascherstr.  611",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 3562",
+    "faxNumber": "(0043) 5212 3562"
+  },
+  "name": "Haus Helmut",
+  "description": "Familiär, herzlich und gepflegt: So begrüßt Sie das Haus Helmut in Seefeld in Tirol! In der kleinen, aber feinen Frühstückspension werden Sie von Familie Suitner persönlich betreut, die Ihnen ein gemütliches Zimmer als praktisches Urlaubsquartier für 1 bis 2 Personen in der Olympiaregion Seefeld anbietet.\n\nDas Haus Helmut befindet sich in sonnig-ruhiger unverbauter Lage und doch in absoluter Zentrumsnähe von Seefeld. Innerhalb von nur 5 Gehminuten erreichen Sie den Loipeneinstieg beim Seekirchl oder die Haltestellen für Dorf- und Skibusse, die Sie kostenlos durch den Ort oder direkt zu den Seefelder Skigebieten bringen. Sie finden aber hier nicht nur für Ihren Skiurlaub in Seefeld ideale Bedingungen, sondern auch für sommerliche Wanderungen in den Tiroler Bergen.\n\nUnser geräumiges Zimmer im Haus Helmut ist einfach möbliert, aber dennoch funktional und mit Liebe eingerichtet sowie mit TV, Dusche und W-LAN ausgestattet. Erleben Sie die ersten wärmenden Strahlen der Morgensonne auf dem Ihnen ebenso zur Verfügung stehenden Balkon mit wunderschönem Blick auf das Ski- und Wandergebiet der Bergbahnen Rosshütte mit der Seefelder Spitze.\n\nIhr von Frau Suitner zubereitetes Frühstück können Sie im heimeligen Frühstücksraum einnehmen, der gleichzeitig als Aufenthaltsraum nutzbar ist und sogar einen Kühlschrank für Ihre Einkäufe bereithält. Der nächste Supermarkt befindet sich nur 5 Gehminuten vom Haus Helmut entfernt. Bei einem schmackhaften Abendessen in einem der vielen Seefelder Restaurants in kurzer Gehdistanz mit regionalen und internationalen Spezialitäten ist die Urlaubsstimmung perfekt.\n\nDer nächste Ferientag in Seefeld wartet schon… Tipp: Nur 1 Minute zu Fuß vom Haus Helmut entfernt liegt die Bushaltestelle für eine Fahrt zur beliebten Wildmoosalm mit traumhaftem Wandergebiet und weiteren Loipeneinstiegen inmitten schönster Natur - im Sommer und Winter ein Genuss. Bei einem Urlaub in Seefeld haben Sie Zeit, unberührte Landschaften zu Fuß, mit dem Rad, bei einer Pferdekutschenfahrt oder auch mit dem Regionsbus zu entdecken. Oder haben Sie Lust, etwas Neues auszuprobieren? Dann geht’s auf zum Eisstockschießen oder Schneeschuhwandern durch die verschneite Winterpracht in der Olympiaregion Seefeld!\n\nDas Haus Helmut in Seefeld in Tirol ist das ideale Urlaubsdomizil für Aktivsportler und Genusswanderer, die eine ruhige Lage unweit des Zentrums schätzen und in persönlicher Atmosphäre entspannt durchatmen möchten.\n\nIhre Familie Suitner\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/54152b33-46d8-4daa-b970-22be45ddcd70/99/image.jpg",
+      "caption": "Haus-Helmut-Winter-Seefeld-in-Tirol"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/21634288-64d1-4a36-b0be-17324939ab1a/99/image.jpg",
+      "caption": "Haus-Helmut-Sommer-Seefeld-in-Tirol"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a2b39ffa-63a0-41c9-90e7-b88983829e1f/99/image.jpg",
+      "caption": "Haus-Helmut-Seefeld-in-Tirol"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/89d47e12-3220-4825-973e-4b557dbff937/99/image.jpg",
+      "caption": "Haus-Helmut-Außenansicht-Seefeld-in-Tirol"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3301191655568",
+    "longitude": "11.1800158023834"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Dusche",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "30.00",
+          "maxPrice": "32.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "25.00",
+          "maxPrice": "27.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "25.00",
+          "maxPrice": "27.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

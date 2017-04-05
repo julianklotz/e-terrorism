@@ -1,0 +1,178 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.kreuzhof-sylli.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Landhaus Sylli",
+    "streetAddress": "Milserstr. 579",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2995",
+    "faxNumber": "(0043) 5212 5269 6",
+    "email": "pension.sylli@aon.at",
+    "url": "http://www.kreuzhof-sylli.at"
+  },
+  "name": "Landhaus Sylli",
+  "description": [
+    "Familie Sylli begrüßt Sie herzlichst im Landhaus Sylli in Seefeld in Tirol, wo Sie Ihren Urlaub in der einmalig schönen Olympiaregion Seefeld inmitten der Tiroler Bergwelt verbringen können. In der familiär geführten Frühstückspension prägen persönliche Atmosphäre und Tiroler Gastlichkeit ein Gefühl von Wohlbefinden.\n\nIn sehr ruhiger, sonniger und dennoch zentraler Lage im Herzen von Seefeld, nur 5 Gehminuten von der Fußgängerzone entfernt, finden Sie im Landhaus Sylli Erholsamkeit oder nach einer Stärkung beim liebevoll bereiteten Frühstück beste Bedingungen, um Ihren Urlaub in der Olympiaregion Seefeld aktiv zu gestalten - sei es beim Wandern mit dem Partner im Sommer oder beim Skifahren mit Freunden im Winter.\n\nDie gemütlich sowie hell und freundlich eingerichteten Doppel- und Dreibettzimmer im Landhaus Sylli sind komfortabel mit Wohn-Schlafraum, Bad/WC, Safe, Kabel-TV und gratis W-LAN ausgestattet. Der heimelige Frühstücksraum dient auch als Aufenthaltsraum für die Planung der nächsten Radtour oder Wanderung rund um die Seefelder Spitze und den Gschwandtkopf. \n\nSie sind Golfliebhaber? Als Mitbegründer der Golfakademie erhalten Sie Ermäßigung bei dem nur 2 Gehminuten entfernten Golfclub Seefeld-Reith. Die große Liegewiese beim Landhaus Sylli eignet sich perfekt für entspannte Momente unter der wärmenden Sommersonne. \n\nIm Winter können Sie die Loipenqualität ebenfalls in 2 Gehminuten beim Einstieg in die gespurte Loipe Lehnerwiese testen und am nächsten Tag die alpinen Skipisten rund um die Bergbahnen Rosshütte und Gschwandtkopflifte entdecken. Der Seefelder Skibus fährt mehrmals täglich und die Skibushaltestelle kann rasch in nicht mehr als 2 Minuten zu Fuß erreicht werden.\n\nSie schätzen auch die Unabhängigkeit eines Aufenthaltes in einer Ferienwohnung mit Familie und Freunden? Dann sind Sie im nahegelegenen Kreuzhof, dem zweiten familieneigenen Betrieb, in 2-minütiger Gehzeit vom Landhaus Sylli entfernt, ebenfalls gut aufgehoben. Neben Komfortzimmern stehen hier zusätzlich zwei luxuriöse Appartements bereit.\n\nKommen Sie an und überzeugen Sie sich selbst von der Herzlichkeit im Landhaus Sylli in Seefeld in Tirol. Die Gastgeberfamilie Sylli freut sich auf Sie!\n",
+    "Wir sind Mitbegründer der Golfakademie und Sie erhalten Ermäßigung. \n",
+    "Check-In unserer Zimmer ist ab 12 Uhr bis 20 Uhr\n"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.1",
+    "reviewCount": "34"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c8055fe4-5969-47b0-acc8-a95af54e93b8/99/image.jpg",
+      "caption": " Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ab59e99f-9bc3-4b2e-894a-d683a2668343/99/image.jpg",
+      "caption": "Winter "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/21832606-9e9d-4e93-9772-34dcd7cf3e5c/99/image.jpg",
+      "caption": "Landhaus Sylli Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2efb5832-0898-428a-a890-95763ddfd224/99/image.jpg",
+      "caption": "Landhaus Sylli Seefeld in Tirol"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/934272ec-8a69-4346-88dd-fe0a7aaca031/99/image.jpg",
+      "caption": "Frühstücksraum Ansicht 2 Landhaus Sylli Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c304ed62-f9bd-47bc-bc67-a7cd59d52ac0/99/image.jpg",
+      "caption": "Frühstücksraum Ansicht 3 Landhaus Sylli Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a96bbff7-fbbf-4147-9a83-efcd074ee3b0/99/image.jpg",
+      "caption": "Frühstücksraum Ansicht 4 Landhaus Sylli Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/68de2588-cac5-44cb-81aa-689c48892b0a/99/image.jpg",
+      "caption": "Doppelzimmer Landhaus"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8d04bb30-d582-4333-a39d-eab16b2c374e/99/image.jpg",
+      "caption": "Dreibettzimmer Landhaus"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/968627b5-8856-4c63-8b71-59a8a2e8e1fc/99/image.jpg",
+      "caption": "Dreibettzimmer Landhaus"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/95317a78-763d-4049-a744-6a27ec95547f/99/image.jpg",
+      "caption": "Dreibettzimmer Landhaus"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.327320741664",
+    "longitude": "11.193022137341"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Dreibettzimmer, Bad, WC",
+      "description": "Unser geräumiges Dreibettzimmer ist hell und freundlich ausgestattet mit Bad, WC, Kabel-TV und Safe.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Dreibettzimmer mit Bad, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "30.00",
+          "maxPrice": "36.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "30.00",
+          "maxPrice": "36.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Bad, WC, gartenseitig",
+      "description": "Unsere Doppelzimmer sind modern und gemütlich eingerichtet mit Bad, WC, Kabel-TV und Safe.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Bad, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "30.00",
+          "maxPrice": "36.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "30.00",
+          "maxPrice": "36.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

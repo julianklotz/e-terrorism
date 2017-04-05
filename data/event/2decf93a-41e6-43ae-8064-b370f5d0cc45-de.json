@@ -1,0 +1,55 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "4. Winter Party Seefeld - Frühschoppen im Stadl",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Starmaker GmbH",
+    "employee": {
+      "@type": "Person",
+      "givenName": "Bettina",
+      "familyName": "Moncher"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Möserer Dorfstr. 11",
+      "addressLocality": "Mösern",
+      "postalCode": "6100",
+      "addressCountry": "AT",
+      "telephone": "+43676845725200",
+      "email": "b.moncher@starmaker.at",
+      "url": "http://www.starmaker.at"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Starmaker GmbH",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Möserer Dorfstr. 11",
+      "addressLocality": "Mösern",
+      "postalCode": "6100",
+      "addressCountry": "AT",
+      "telephone": "+43676845725200",
+      "email": "b.moncher@starmaker.at",
+      "url": "http://www.starmaker.at"
+    }
+  },
+  "description": "FRÜHSCHOPPEN MIT INGO ROTTERS MUSIKANTENGAUDI: Die Party ist vorbei - eine Partynacht geschlagen - und jetzt? Ab in den Stadl zu einem zünftigen Frühschoppen mit \"Ingo Rotters Musikantengaudi\". Live Musik mit der Gruppe \"Volx Tirol\" und Schuhplattlern. Radioliebling Ingo Rotter führt durch den perfekten Ausklang der Winterparty. Details auf www.winterparty.at.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/97f192b4-531a-45df-b94e-7b18812e6cd9/99/image.jpg",
+      "caption": "Andreas Gabalier"
+    }
+  ],
+  "url": [
+    "http://www.winterparty.at",
+    "http://www.luis-aus-suedtirol.com"
+  ],
+  "startDate": "2017-03-05T11:00:00",
+  "endDate": "2017-03-05"
+}

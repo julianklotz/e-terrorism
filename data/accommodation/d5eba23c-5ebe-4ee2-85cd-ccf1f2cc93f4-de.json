@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hostel"
+  ],
+  "url": [
+    "http://www.karwendelhaus.com",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Karwendelhaus",
+    "streetAddress": "Karwendeltal",
+    "addressLocality": "Scharnitz",
+    "postalCode": "6108",
+    "addressCountry": "AT",
+    "telephone": "+43720983554",
+    "email": "info@karwendelhaus.com",
+    "url": "www.karwendelhaus.com"
+  },
+  "name": "Karwendelhaus",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "reviewCount": "17"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/dbe52fe7-c93a-48a5-9685-ef20a81acbb7/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/801bc8e5-3ae2-4f17-8c50-47c8f5fedfa0/99/image.jpg",
+      "caption": "Sommer 2"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.4273280892895",
+    "longitude": "11.4215689992798"
+  },
+  "currenciesAccepted": "EUR"
+}

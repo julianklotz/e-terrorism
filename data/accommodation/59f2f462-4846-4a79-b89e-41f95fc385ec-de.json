@@ -1,0 +1,91 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://web4.deskline.net/seefeld/de/accommodation/detail/SEE/59f2f462-4846-4a79-b89e-41f95fc385ec/bruggerhof",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Bruggerhof",
+    "streetAddress": "Unterkirchen 256",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6797",
+    "faxNumber": "(0043) 5124 67974",
+    "email": "brugger-larch@aon.at"
+  },
+  "name": "Bruggerhof",
+  "description": [
+    "Herzlich Willkommen am Bruggerhof. Für Groß und Klein ein unvergessliches Erlebnis. Unser Familienbetrieb liegt inmitten unberührter Natur, am Anfang des Leutaschtals im Ortsteil Unterkirchen. Unsere Wohnungen für 2-4 Personen (ca. 50m²) sind komfortabel und freundlich ausgestattet. Im Sommer sind wir Ausgangspunkt für viele Wander-, Rad- und Spazierwege, wo Sie auch gleichzeitig noch  eine intakte Fauna u. Flora vorfinden. Im Winter führt die Langlaufloipe am Haus vorbei.",
+    "Inklusive: Endreinigung, Heizung, Wasser, Strom\n\nExklusive: Telefongesprächskosten, Kurtaxe\n\n\n\n",
+    "Falls Sie eine Anreisebeschreibung wünschen, so bin ich gerne bereit Ihnen von Ihrem Heimatdorf aus eine Beschreibung zusammen zu stellen."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0ffdfb49-e494-418e-8a59-065d4c7694db/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/693ac95f-b793-4b12-8885-97169d089f36/99/image.jpg",
+      "caption": "Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.418277922141",
+    "longitude": "11.21633853673"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Wohnzimmer, Schlafzimmer, Küche, Badezimmer + WC, Balkon",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Feriewohnung/1 Schlafraum/ Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "80.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "80.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "80.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

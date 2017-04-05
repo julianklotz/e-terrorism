@@ -1,0 +1,403 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://www.waldhotel-seefeld.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Waldhotel",
+    "streetAddress": "Römerweg 106",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "0043 5212 2207",
+    "faxNumber": "0043 5212 2001 30",
+    "email": "info@waldhotel-seefeld.at",
+    "url": "http://www.waldhotel-seefeld.at"
+  },
+  "name": "Waldhotel",
+  "description": [
+    "Das WALDHOTEL ist ein gemütliches FAMILIENHOTEL. In der Sauna, Fitnessraum und auf der wunderschönen SONNENTERRASSE mit GEBIRGSPANORAMA, können Sie sich wunderbar ENTSPANNEN und richtig gut ERHOLEN! Täglich nachmittags erhalten Sie GRATIS Kaffee, Tee und Kuchen (bei Buchung inkl. Halbpension) FREIE W-LAN NUTZUNG! \nFür Sie inklusive: 10 % ermäßigter Eintritt im Olympiabad Seefeld, von MO-FR, außer Feiertage (bei einem Mindestaufenthalt von 3 Tagen inkl. Halbpension),Kinderprogramm von SO-FR und Kinderbetreuung inklusive.\n",
+    "Il centro e ca 7 minuti a piedi o povete usare il gratis bus dal centro. Vis-à-vis trovate i \"Rosshütte-Bahnen\" per camminare.\n",
+    "Check-In 15:00 Uhr / Check-Out 11:00 Uhr\nLage: Nähe \"Rosshütte Bahnen\"\nAusfahrt SEEFELD MITTE: nach links bis zum Kreisverkehr, die 2. Ausfahrt gerade aus den Römerweg entlang. Das Hotel befindet sich in der \"braunen Zone\" des Hotelleitsystems Seefeld.\n",
+    "Hotel, Familienhotel, Hund, Halbpension, Frühstück, Appartement, Suite, Doppelzimmer, Zimmer"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.4",
+    "reviewCount": "96"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/fd461199-f363-44a9-baa2-cb8c83974721/99/image.jpg",
+      "caption": "Außenansicht Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1c06d036-a0d0-48a3-8cb6-af026f32ba29/99/image.jpg",
+      "caption": "Terrasse Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/323d73da-34b9-4bb8-a2c7-18c698e61008/99/image.jpg",
+      "caption": "Aussicht Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f62ec945-99f9-4601-8176-f69180239eb5/99/image.jpg",
+      "caption": "Terrasse Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c392c5be-d792-485e-860f-882bbdd5fb51/99/image.jpg",
+      "caption": "Aussicht Hohe Munde Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/24b940a4-42cd-4c84-839f-ee3aa1d02a7a/99/image.jpg",
+      "caption": "Schmankerl"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a604ca35-cc45-4d97-84ea-10c5d8639fb8/99/image.jpg",
+      "caption": "Schmankerl 2"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3318652579908",
+    "longitude": "11.1974488198757"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche oder Bad, WC",
+      "description": "Alle Zimmer sind individuell gestaltet, und mit Balkon oder Terrasse, Bad oder Dusche/WC, Radio, Kabel TV, Föhn, Zimmersafe und Direktwahltelefon ausgestattet. ",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Dusche od. Bad, WC mit FÜ",
+          "description": "Alle Zimmer sind individuell gestaltet, und mit Balkon oder Terrasse, Bad oder Dusche/WC, Kabel TV, Föhn, Zimmersafe und Direktwahltelefon ausgestattet. ",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Dusche od. Bad, WC mit HP",
+          "description": "Alle Zimmer sind individuell gestaltet, und mit Balkon oder Terrasse, Bad oder Dusche/WC, Kabel TV, Föhn, Zimmersafe und Direktwahltelefon ausgestattet. ",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "0.00",
+          "maxPrice": "35.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "35.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Suite, Bad, WC",
+      "description": "Suite: Zimmer für 3-4 Personen mit getrenntem Schlafbereich.\nAlle Zimmer sind mit Balkon oder Terrasse, Bad oder Dusche/WC, Radio, Kabel TV, Föhn, Zimmersafe und Direktwahltelefon ausgestattet.(Alle Zimmer sind individuell gestaltet)\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Suite mit Bad, WC mit FÜ",
+          "description": "Alle Zimmer sind individuell gestaltet, und mit Balkon oder Terrasse, Bad oder Dusche/WC, Kabel TV, Föhn, Zimmersafe und Direktwahltelefon ausgestattet. ",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Suite mit Bad, WC mit HP",
+          "description": "Alle Zimmer sind individuell gestaltet, und mit Balkon oder Terrasse, Bad oder Dusche/WC, Kabel TV, Föhn, Zimmersafe und Direktwahltelefon ausgestattet. ",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "42.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "0.00",
+          "maxPrice": "29.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "0.00",
+          "maxPrice": "23.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC",
+      "description": "Appartement mit getrenntem Schlafbereich, Schiebetür oder mit Verbindungstür. Mit oder ohne Kleinküche möglich. \nAlle Zimmer sind mit Balkon oder Terrasse, Bad oder \nDusche/WC, Radio, Kabel TV, Föhn, Zimmersafe und Direktwahltelefon ausgestattet.(Alle Zimmer sind individuell gestaltet)\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Hotelappartement mit Bad, WC mit FÜ",
+          "description": "Alle Zimmer sind individuell gestaltet, und mit Balkon oder Terrasse, Bad oder Dusche/WC, Radio, Kabel TV, Föhn, Zimmersafe und Direktwahltelefon ausgestattet. ",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Hotelappartement mit Bad, WC mit HP",
+          "description": "Alle Zimmer sind individuell gestaltet, und mit Balkon oder Terrasse, Bad oder Dusche/WC, Radio, Kabel TV, Föhn, Zimmersafe und Direktwahltelefon ausgestattet. ",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "45.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "0.00",
+          "maxPrice": "32.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "0.00",
+          "maxPrice": "25.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Familienzimmer, Bad, WC",
+      "description": "Doppelzimmer mit Sofa oder Zusatzbetten, für 4 Personen\nAlle Zimmer sind mit Balkon oder Terrasse, Bad oder Dusche/WC, Radio, Kabel TV, Föhn, Zimmersafe und Direktwahltelefon ausgestattet.(Alle Zimmer sind individuell gestaltet)",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Familienzimmer mit FÜ",
+          "description": "Alle Zimmer sind individuell gestaltet, und mit Balkon oder Terrasse, Bad oder Dusche/WC, Radio, Kabel TV, Föhn, Zimmersafe und Direktwahltelefon ausgestattet. ",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Familienzimmer mit HP",
+          "description": "Alle Zimmer sind individuell gestaltet, und mit Balkon oder Terrasse, Bad oder Dusche/WC, Radio, Kabel TV, Föhn, Zimmersafe und Direktwahltelefon ausgestattet. ",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "39.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "0.00",
+          "maxPrice": "28.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "0.00",
+          "maxPrice": "22.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

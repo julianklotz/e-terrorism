@@ -1,0 +1,82 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.wettin.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Wettin",
+    "streetAddress": "Reitherspitzstrasse 199",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2605",
+    "email": "ingridkroess@hotmail.com",
+    "url": "http://www.wettin.at"
+  },
+  "name": "Haus Wettin",
+  "description": [
+    "Schöne und sonnige Lage, großer Garten, ruhig\nDas ganze Haus für Sie alleine!\n",
+    "Inkl. Bettwäsche"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/53fe26fe-5e5d-4754-9268-376e127a1161/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/40e887e6-2628-4c46-b633-93b8c41b8f99/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/98cdea11-f0bc-4cbb-a90b-2eee3fd1493d/99/image.jpg",
+      "caption": "Garten"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f72a38c3-60c9-4e41-8bc2-9d5565126179/99/image.jpg",
+      "caption": "Aussicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d4caaf97-e92b-4578-a296-a0c2418dd790/99/image.jpg",
+      "caption": "Hausansicht"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3264759091611",
+    "longitude": "11.1962914466858"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Ferienhaus, Bad, WC, 4 oder mehr Schlafräume",
+      "description": "Ferienhaus",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Ferienhaus/4 od. mehr Schlafr./Bad, WC",
+          "numberOfRooms": "5.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "7",
+            "minValue": "4"
+          }
+        }
+      ]
+    }
+  ]
+}

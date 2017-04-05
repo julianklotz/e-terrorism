@@ -1,0 +1,83 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Appartement Inntalblick",
+    "streetAddress": "Albrecht Dürer Weg 23 / Top 23",
+    "addressLocality": "Mösern bei Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "+436608186373",
+    "faxNumber": "+43521252777",
+    "email": "haus.inntalblick@gmx.at"
+  },
+  "name": "Appartement Inntalblick",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a15d457a-142d-4887-a920-fdbb4b10eb2e/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/26259022-a8e9-4ed0-b0d5-20394e108a9a/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ed79ab08-ee85-4f7e-b5b9-69f49a0e199e/99/image.jpg",
+      "caption": "Aussicht Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3120762212254",
+    "longitude": "11.1534083342285"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, Balkon",
+      "description": "Die Wohnung ist direkt am Waldesrand sehr ruhig, der Möserersee ist in 10 Minuten zu Fuß erreichbar, die Loipe ist ca. 100 m hinter dem Haus, die Olympia Region Seefeld bietet für jeden ein Angebot ob Wandern, Klettern, Skifahren, Langlaufen, Bergtouren, Fischen und vieles mehr.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement/Fewo, Dusche und Bad, WC, Balkon",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "35.00",
+          "maxPrice": "35.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "35.00",
+          "maxPrice": "35.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

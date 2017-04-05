@@ -1,0 +1,54 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "Mountain Poker Party",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Casino Seefeld",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Bahnhofstr. 124",
+      "addressLocality": "Seefeld",
+      "postalCode": "6100",
+      "addressCountry": "AT",
+      "telephone": "+4352122340",
+      "email": "info@casinos.at",
+      "url": "http://www.seefeld.casinos.at"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Casino Seefeld",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Bahnhofstr. 124",
+      "addressLocality": "Seefeld",
+      "postalCode": "6100",
+      "addressCountry": "AT",
+      "telephone": "+4352122340",
+      "email": "info@casinos.at",
+      "url": "http://www.seefeld.casinos.at"
+    }
+  },
+  "description": "Der Poker Herbst kann kommen! Denn bei der Mountain Poker Party im Casino Seefeld gibt es sechs Tage lang attraktive Turniere mit einem Preisgeld von € 200.000,--, heiße Cash-Game Action und natürlich wieder ein perfektes Hotelangebot für unsere Spieler. Information \u0026 Anmeldung: www.seefeld.casinos.at.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6aef3713-c072-4c0f-a448-71282a42efbd/99/image.jpg",
+      "caption": "Piktogramm"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/833d3924-1fac-4ec9-ad05-487cb8432a09/99/image.jpg",
+      "caption": "Casino Seefeld"
+    }
+  ],
+  "url": [
+    "http://www.seefeld.casinos.at"
+  ],
+  "startDate": "2017-09-19T14:00:00",
+  "endDate": "2017-09-24"
+}

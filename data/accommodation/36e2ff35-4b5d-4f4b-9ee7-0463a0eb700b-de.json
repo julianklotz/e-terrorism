@@ -1,0 +1,19 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Münchnerstrasse 771, Top 3",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "email": "alberto.giordano@tiscali.it"
+  },
+  "name": "Giordano, Alberto",
+  "currenciesAccepted": "EUR"
+}

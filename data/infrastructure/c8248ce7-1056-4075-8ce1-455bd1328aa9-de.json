@@ -1,0 +1,23 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "HealthAndBeautyBusiness"
+  ],
+  "name": "Kneippanlage Wildsee",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "description": [
+    "Kneippanlage am Wildsee: Tret-Rundlaufbecken, Armbecken, Seeufersteg, Ruhebänke.",
+    "Kneippanlage am Wildsee: Tret-Rundlaufbecken, Armbecken, Seeufersteg, Ruhebänke."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3df1f8f4-962f-4c68-80ca-17b91de63d8a/99/image.jpg",
+      "caption": "Kneipp"
+    }
+  ]
+}

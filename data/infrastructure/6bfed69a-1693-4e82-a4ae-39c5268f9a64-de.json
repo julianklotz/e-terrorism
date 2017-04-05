@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hostel",
+    "Landform"
+  ],
+  "name": "Nördlinger Hütte",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3204573211337",
+    "longitude": "11.2341622023438"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Nördlinger Hütte",
+    "addressCountry": "  ",
+    "telephone": "0043 (0) 6649142262",
+    "email": "info@noerdlingerhuette.com",
+    "url": "http://www.noerdlingerhuette.com"
+  },
+  "description": "Nur im Sommer geöffnet! Übernachtungsmöglichkeit für 60 Personen, Stempelstelle",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e5715526-4d0e-4943-a6e0-4d8392a0f44e/99/image.jpg",
+      "caption": "Nördlinger Hütte"
+    }
+  ],
+  "url": [
+    "http://"
+  ]
+}

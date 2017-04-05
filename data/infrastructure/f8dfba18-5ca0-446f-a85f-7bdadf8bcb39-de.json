@@ -1,0 +1,20 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure"
+  ],
+  "name": "Parkplatz Oberweidach - Fußballplatz",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3730552840769",
+    "longitude": "11.1509258906021"
+  },
+  "description": "Gebührenpflichtig",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/44dc946e-b67b-463a-b04e-8747b8d203ed/99/image.jpg",
+      "caption": "Parkplatz"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure",
+    "LocalBusiness"
+  ],
+  "name": "Kaufmannschaft Seefeld",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Kaufmannschaft Seefeld",
+    "streetAddress": "Bahnhofstraße",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043)664 3405058",
+    "email": "e.meier@aon.at",
+    "url": "http://www.einkaufserlebnis.at"
+  },
+  "url": [
+    "http://www.einkaufserlebnis.at"
+  ]
+}

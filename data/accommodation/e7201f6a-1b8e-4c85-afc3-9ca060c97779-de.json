@@ -1,0 +1,18 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Leutascherstr. 597 / Top 1",
+    "addressLocality": "Seefeld in Tirol",
+    "postalCode": "6100",
+    "addressCountry": "AT"
+  },
+  "name": "ZW - Bourges Anne-Solange und Jacky",
+  "currenciesAccepted": "EUR"
+}

@@ -1,0 +1,69 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CafeOrCoffeeShop",
+    "Restaurant"
+  ],
+  "name": "Das Hotel Eden",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3308317891186",
+    "longitude": "11.1874508857727"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Das Hotel Eden",
+    "streetAddress": "Münchner Str. 136",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 50495",
+    "faxNumber": "(0043) 5212 50494",
+    "email": "info@eden-seefeld.at",
+    "url": "http://www.eden-seefeld.at"
+  },
+  "description": [
+    " ",
+    "Sitzplätze für ca. 100 Personen\n\nDas Seebachrestaurant ist täglich von 19.00 - 21.30 Uhr geöffnet und steht allen offen.\nSpeisen Sie à la carte oder wählen Sie Ihr genussvoll abgestimmtes Menü. Kinder können sich etwas Besonderes aus der Eden-Kinderkarte aussuchen. Wir beraten Sie gern bei Ihrer Wahl aus unserer Weinkarte mit Winzern aus Österreich, der neuen und der alten Welt.\nNachmittags gibt es hausgemachtes Eis, Kaffee und Kuchen – an schönen Tagen auch auf der Sonnenterrasse. \n\nAdam´s Bistro Bar bietet regionale Kleinigkeiten zu Weinen aus der gut sortierten Karte mit dem Schwerpunkt Österreich.\nTäglich geöffnet von 8.00 - 24.00 Uhr.\nNeben Bar-Klassikern können Sie auch aktuelle Drinks probieren. 1x pro Woche spielt angenehme Live-Musik.\nAn schönen Tagen verwöhnen wir Sie mit unserem vielfältigen Angebot und einem spektakulären Blick auf die Seefelder Bergwelt auf unserer Seebachterrasse.\n"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/93d69118-39c0-423d-b1ad-c99db896c5b3/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6b7750c2-6b05-4baa-adda-1464a6b74ad8/99/image.jpg",
+      "caption": "Seebachrestaurant"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/05c93c8b-130b-46d0-a322-e9028c5e7ad5/99/image.jpg",
+      "caption": "Adam\u0027s Bistro Bar"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1493eaf8-41dc-453d-9b94-6faafd6dc1ab/99/image.jpg",
+      "caption": "Restaurant"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a76406bb-4f4b-408d-8124-67ec43baa9dc/99/image.jpg",
+      "caption": "Terrasse"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4296cbd1-00c8-4c4f-8dc8-e13c923b61fa/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e732225f-4233-4c94-8c3c-04e346a1c9b5/99/image.jpg",
+      "caption": "Nachtansicht"
+    }
+  ],
+  "url": [
+    "http://www.eden-seefeld.at"
+  ]
+}

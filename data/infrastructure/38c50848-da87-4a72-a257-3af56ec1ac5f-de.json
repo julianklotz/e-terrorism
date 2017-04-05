@@ -1,0 +1,27 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation"
+  ],
+  "name": "Schützenheim im Gemeindehaus, Luftgewehrschießen",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3902889630937",
+    "longitude": "11.2652866193657"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Scharnitz",
+    "postalCode": "6108",
+    "addressCountry": "AT",
+    "url": "http://www.sg-scharnitz.com"
+  },
+  "description": "Informationen und Anmeldung bei Herrn WalterLechthaler - Tel. 0650/553401",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/afeab795-7126-4cbe-9cb2-5960ab00e9d2/99/image.jpg",
+      "caption": "Schützenheim"
+    }
+  ]
+}

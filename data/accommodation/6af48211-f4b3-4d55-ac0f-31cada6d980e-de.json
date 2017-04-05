@@ -1,0 +1,17 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Lärchenwald - Top 10",
+    "streetAddress": "Kindergartenweg 573",
+    "addressLocality": "Seefeld ",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "email": "petermitteregger@yahoo.com"
+  },
+  "name": "ZW-Mitteregger Peter",
+  "currenciesAccepted": "EUR"
+}

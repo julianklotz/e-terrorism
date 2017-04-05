@@ -1,0 +1,18 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Albrecht Dürer Weg 25",
+    "addressLocality": "Mösern",
+    "postalCode": "6100",
+    "addressCountry": "AT"
+  },
+  "name": "ZW - Mülot Franziska",
+  "currenciesAccepted": "EUR"
+}

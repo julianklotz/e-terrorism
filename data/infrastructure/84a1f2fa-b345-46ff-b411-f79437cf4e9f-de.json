@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation",
+    "TouristAttraction"
+  ],
+  "name": "E-Bike Verleih - Alpenhotel Karwendel",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3582813421045",
+    "longitude": "11.132947017791"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Anti-Stress-Resort Alpenhotel Karwendel",
+    "streetAddress": "Ostbach 18",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6304",
+    "faxNumber": "(0043) 5214 6304 22",
+    "email": "hotel@karwendel.com",
+    "url": "http://www.karwendel.com"
+  },
+  "description": "E-Bike Verleih auf Anfrage!\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2be0a462-694d-4ac3-b167-977a06a110d3/99/image.jpg",
+      "caption": "E-Bike"
+    }
+  ],
+  "url": [
+    "http://www.karwendel.com"
+  ]
+}

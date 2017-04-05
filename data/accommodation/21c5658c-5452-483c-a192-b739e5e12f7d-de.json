@@ -1,0 +1,72 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.bergfee-leutasch.at"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Appartement Bergfee",
+    "streetAddress": "Weidach 321",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0049) 163 2367238",
+    "email": "info@bergfee-leutasch.at",
+    "url": "http://www.bergfee-leutasch.at"
+  },
+  "name": "Appartement Bergfee",
+  "description": [
+    "Wohnen im Zentrum von Leutasch, umgeben von den imposanten Naturschönheiten\nder Berge. In 3 Gehminuten erreichen Sie den Supermarkt, Bäcker, Bank, ca. 5 Minuten zum Alpenbad.\nDie Bushaltestelle befindet sich 150 m von der Wohnung entfernt und bietet Ihnen gute Verbindungen:\nz.B. nach Seefeld und ins beliebte Wanderbiet im Gaistal. ",
+    "INKLUSIV: Heizung, Wasser, Tiefgarage\nEXKLUSIVE:Ortstaxe und Endreinigung",
+    "Von Mittenwald nach Leutasch, dort der Hauptstraße bis nach Weidach folgen, in Weidach angekommen nach ca. 200 m bei der ersten Kreuzung rechts  befindet sich die Wohnung. Informationsbüro, gegenüber Drogeriemarkt: Schlecker, Appartement Bergfee, 1. Stock.\n\nVon Seefeld nach Leutasch, dort der Hauptstraße bis nach Weidach folgen, in Weidach angekommen nach ca. 800 m bei der ersten Kreuzung links  befindet sich die Wohnung. Informationsbüro, gegenüber Drogeriemarkt: Schlecker, Appartement Bergfee, 1. Stock.\n"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/80f128f4-83ca-4ebd-afbf-5e0eccf6a976/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/cad33dbe-f5a6-4db1-8533-de3f76a8c8d6/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f3a5034d-fc03-433e-82c5-414164129951/99/image.jpg",
+      "caption": "Wohnraum mit Essecke"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3717208",
+    "longitude": "11.1643171000001"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Toilette und Bad/Dusche getrennt, 1 Schlafraum",
+      "description": "Die Wohnung ist 55 m2 gross und im gemütlichen Tiroler Landhausstil eingerichtet.\nSie verfügt über ein Schlafzimmer, einem Wohnraum mit grosser Essecke, Sat-TV\n\u0026 Flachbildschirm 66 cm. Unsere Küche ist komplett ausgestattet mit 4- Plattenherd, inklusive Backofen,\nKaffeemaschine \u0026 Wasserkocher. Bad und WC sind getrennt.\nIm Eingangsbereich befindet sich ein Vorraum mit Garderobenschrank. Der große sonnige Balkon ist von zwei Seiten begehbar.\nEin Außenstellplatz befindet sich vor dem Haus.\nAuf Wunsch bieten wir Ihnen einen Tiefgaragenstellplatz gegen Aufpreis.\nHaustiere sind leider nicht erlaubt. Bitte haben Sie Verständnis, dass in der Wohnung nicht geraucht werden darf. ",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "App. Bergfee",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

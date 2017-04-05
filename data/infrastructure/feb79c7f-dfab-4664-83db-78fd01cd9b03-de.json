@@ -1,0 +1,30 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation"
+  ],
+  "name": "Tonis Eisschießbahnen, Eisschiessen, Eisstock",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3328459894321",
+    "longitude": "11.1805844306946"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Tonis Eisschießbahnen",
+    "streetAddress": "Wiesenweg 260",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 4948",
+    "faxNumber": "(0043) "
+  },
+  "description": "9 Bahnen, auch Unterricht möglich, täglich ab 9.30 Uhr, ab 18.00 Uhr tel. Reservierung erforderlich\n½ Tag mit Leihstock  7,00\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e9bbf666-a236-4fb5-95d9-f810e117cdf4/99/image.jpg",
+      "caption": "Eisstockschießen"
+    }
+  ]
+}

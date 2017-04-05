@@ -1,0 +1,97 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.haus-angerer.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Angerer",
+    "streetAddress": "Inrain 308",
+    "addressLocality": "Scharnitz",
+    "postalCode": "6108",
+    "addressCountry": "AT",
+    "telephone": "+4352135386",
+    "email": "haus-angerer@aon.at",
+    "url": "http://www.haus-angerer.at"
+  },
+  "name": "Haus Angerer",
+  "description": [
+    "Unser Haus  liegt am Waldrand auf einer Anhöhe abseits der Straße und trotzdem in Zentrums- und Bahnhofsnähe. Im Sommer bieten wir einen idealen Ausgangspunkt für Wander- und Radtouren im Alpenpark Karwendel. \nWir beantworten die Frage - Warum mit Stöcken wenn es ohne auch geht? - mit einer Einführung in die Geheimnisse des Nordic Walkings unter dem Motto: Mit Stock über Stein. Stöcke sind vorhanden. \nIm Winter sind der Loipeneinstieg und die Skibushaltestelle keine 2 Minuten entfernt.",
+    "Inklusive: Heizung, Strom, Tisch- und Bettwäsche\nExklusive: Kurtaxe, Endreinigung"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/584ca941-8ca8-44a2-82fa-33a3dfcb1ed8/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/81c8fb01-747b-43ab-beda-d2e7fa871542/99/image.jpg",
+      "caption": "Winter"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3892269383302",
+    "longitude": "11.2661898136139"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "Gemütliches Appartement mit Balkon und Sicht über Scharnitz,Wohnküche,\n2 Schlafzimmer (eines mit Stockbett), und Dusche/WC. Die Wohnung ist für eine Familie mit kleinen Kindern geeignet.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/2 Schlafräume/Dusche/WC",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "58.00",
+          "maxPrice": "58.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Gemütliches, helles Appartement mit sonnigem Balkon und Sicht über Scharnitz, 1 Schlafzimmer und eine Doppelschlafcouch im Wohnzimmer, gut eingerichtete Kochnische und Dusche/WC.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/1 Schlafraum/Dusche/ WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ]
+    }
+  ]
+}

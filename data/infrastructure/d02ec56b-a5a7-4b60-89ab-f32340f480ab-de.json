@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Store"
+  ],
+  "name": "Isser Optik, Optiker",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3291229307875",
+    "longitude": "11.1864531040192"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Isser Optik",
+    "streetAddress": "Klosterstr. 43",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2885",
+    "url": "http://www.isser.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/403a9aa9-f537-4188-8817-e9bf659f8c38/99/image.jpg",
+      "caption": "Isser Optik Seefled"
+    }
+  ],
+  "url": [
+    "http://www.isser.at"
+  ]
+}

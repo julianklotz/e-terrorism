@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation",
+    "TouristAttraction"
+  ],
+  "name": "E-Bike Verleih - Hotel Residenz Hochland",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3322671",
+    "longitude": "11.1840874"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Hotel Residenz Hochland GmbH",
+    "streetAddress": "Wettersteinstrasse 184",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2211",
+    "faxNumber": "(0043) 5212 2211 15",
+    "email": "seefeld@hotel-hochland.com",
+    "url": "http://www.residenz-hochland.com"
+  },
+  "description": "E-Bike Verleih auf Anfrage!\n\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/63db64f4-72c0-4c1e-a578-584a1e0536db/99/image.jpg",
+      "caption": "E-Bike"
+    }
+  ],
+  "url": [
+    "http://www.residenz-hochland.com"
+  ]
+}

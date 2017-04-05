@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation"
+  ],
+  "name": "Spielplatz - Abenteuerspielplatz an der Ache in Leutasch",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.375286292607",
+    "longitude": "11.1672270298004"
+  },
+  "description": "Spielplatz befindet sich zwischen Weidach und Unterweidach an der Ache.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/41aa8804-90f8-488b-9960-c670d4802031/99/image.jpg",
+      "caption": "Spielplatz an der Ache |1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ef41e94b-2163-43d0-a4fc-7316692f0192/99/image.jpg",
+      "caption": "Spielplatz an der Ache |2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8f8bf696-a0db-46b4-8fe7-5cdcaabfae41/99/image.jpg",
+      "caption": "Spielplatz an der Ache |3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c4027493-c15c-4a69-a1d5-5d1891bf9fe6/99/image.jpg",
+      "caption": "Spielplatz an der Ache |4"
+    }
+  ]
+}

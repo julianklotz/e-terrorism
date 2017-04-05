@@ -1,0 +1,126 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.info-moesern.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Putz",
+    "streetAddress": "Brochweg 23",
+    "addressLocality": "Mösern",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 4734",
+    "faxNumber": "(0043) 5212 4734",
+    "email": "putz-moesern@aon.at",
+    "url": "http://www.info-moesern.at"
+  },
+  "name": "Haus Putz",
+  "description": [
+    "Im \"Haus Putz\" wohnen Sie in einem gemütlichen mit Bioholzmöbeln ausgestatteten Tirolerhaus mit Komfort, ruhig, sehr sonnig an Wanderwegen, Wiesen und am Waldrand gelegen. Herrlicher Bergblick, Terrasse, Liegewiese, Badesee- u. Loipennähe.\nFamilienfreundliche Unterkunft - KINDERERMÄSSIGUNG AUF ANFRAGE!",
+    "Inkl.: Strom, Heizung\nExkl.: Endreinigung, Ortstaxe",
+    "Check in: 14.00 Uhr\nCheck out: 10.00 Uhr\n\nWeg: Abzweigung Dorfmitte Beschilderung"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/044500b2-648d-441e-9aab-5045471a6d7c/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5f370ca2-2972-4a11-adbd-f32459494b97/99/image.jpg",
+      "caption": "Hausansicht Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2d4b0ec7-f96a-4b14-931c-cff1f1004bf5/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a857e6f0-f182-4563-8819-c8ae495c29d9/99/image.jpg",
+      "caption": "Eingangsbereich"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0bd1a412-b7ce-45aa-9e0b-dd8399c371e5/99/image.jpg",
+      "caption": "Kaffee \u0026 Kuchen"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.313325452096",
+    "longitude": "11.144235687832"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC",
+      "description": "Sehr ruhig, sonnig, hell, freundlich, rustikal mit Bioholzmöbel nach Süd-West ausgerichtet, großer Tisch mit Eckbank, mit Terrasse, herrlicher Ausblick auf Inntal und Bergwelt",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Ap. Typ I, Wohn-Schlafraum, Küche, DU",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Sehr ruhig, sonnig, hell, freundlich, rustikal mit Bioholzmöbel nach Süd-West ausgerichtet, großer Tisch mit Eckbank, mit Terrasse, herrlicher Ausblick auf Inntal und Bergwelt",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Ap. Typ II, 1 Schlafraum, KÜ, DU/WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "Sehr ruhig, sonnig, hell, freundlich, rustikal mit Bioholzmöbel nach Süd-West ausgerichtet, großer Tisch mit Eckbank, mit Terrasse, herrlicher Ausblick auf Inntal und Bergwelt",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Ap. Typ III, 2 Schlafzimmer, KÜ, 2 DU/WC",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "7",
+            "minValue": "3"
+          }
+        }
+      ]
+    }
+  ]
+}

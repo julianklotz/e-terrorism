@@ -1,0 +1,80 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.almidyll.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Landhaus Almidyll - App. Sergi",
+    "streetAddress": "Wasserfallweg 712",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 3367",
+    "faxNumber": "(0043) 5212 3789",
+    "email": "therese.prettner@aon.at",
+    "url": "http://www.almidyll.at"
+  },
+  "name": "Landhaus Almidyll 7",
+  "description": "2-Zimmer-Appartement,43m2, Erdgeschoss, Wohn-Schlafzimmer mit ausziehbarer Schlafcouch, Schlafzimmer mit Doppelbett, kleine Küche mit 4 Kochplatten, Kühlschrank, Geschirrspüler, Mikroherd, Bad/Dusche/WC, Balkon nach Süden",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b0540d5c-bb89-46d1-a88c-7a23c89a02bf/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/251f7e14-03c3-447d-bd44-4f2d258ba3dd/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c8b51505-c828-473c-a8c8-700cacdd1774/99/image.jpg",
+      "caption": "Sommer1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/fe54db73-643d-4bc7-82a4-09d9a7b754ec/99/image.jpg",
+      "caption": "Garten Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/20ad9b40-f2db-4462-b563-ee5d878921f2/99/image.jpg",
+      "caption": "Gartenhaus"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3355954730655",
+    "longitude": "11.1924908687866"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 1 Schlafraum",
+      "description": "Wohn- Schlafraum mit ausziehbarer Schlafcouch, Schlafzimmer mit Doppelbett, Küche und Dusche/WC; Balkon",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Komfort 1 Bedroom-Appartement (7)",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

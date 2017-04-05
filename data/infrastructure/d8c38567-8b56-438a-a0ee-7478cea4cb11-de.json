@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure",
+    "LocalBusiness"
+  ],
+  "name": "Internetzugang kostenpflichtig/Bibliothek",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Öffentliche Leihbücherei Seefeld",
+    "streetAddress": "Maximilianweg ",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 52877",
+    "faxNumber": " ",
+    "email": "info@bibliothek-seefeld.at",
+    "url": "http://www.bibliothek-seefeld.at"
+  },
+  "description": [
+    "Bibliothek (1 PC), im Pfarrhaus Tel.: 05212/52877, www.bibliothek-seefeld.at  Öffnungszeiten:  So, 10.30 -12.00 Uhr, Di, 17.00 - 18.30 Uhr, Do, 18.00 - 19.30 Uhr. Preis: ab einer Stunde kostenpflichtig (€ 1,00).",
+    "So 10.30 - 12.00 Uhr \nDi 17.00 - 18.30 Uhr \nDo 19.00 - 20.30 Uhr"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5426bf82-6f43-4257-a5ae-b6b56bc03273/99/image.jpg",
+      "caption": "Internetzugang"
+    }
+  ],
+  "url": [
+    "http://www.bibliothek-seefeld.at"
+  ]
+}

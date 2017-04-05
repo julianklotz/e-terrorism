@@ -1,0 +1,73 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "11. Leutascher Bergfrühlingstage",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Informationsbüro Leutasch",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Weidach 320",
+      "addressLocality": "Leutasch",
+      "postalCode": "6105",
+      "addressCountry": "AT",
+      "telephone": "+43-50880510",
+      "faxNumber": "+43-50880811",
+      "email": "info.leutasch@seefeld.com",
+      "url": "http://www.seefeld.com"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Informationsbüro Leutasch",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Weidach 320",
+      "addressLocality": "Leutasch",
+      "postalCode": "6105",
+      "addressCountry": "AT",
+      "telephone": "+43-50880510",
+      "faxNumber": "+43-50880811",
+      "email": "info.leutasch@seefeld.com",
+      "url": "http://www.seefeld.com"
+    }
+  },
+  "description": "Monika und Hans Neuner, vulgo „Bantl“ leben seit Generationen im Leutaschtal. Kaum jemand weiß so viele spannende „G´schichten“ über Natur, Kultur und Geschichte der Region zu erzählen wie die beiden Originale. Bei gemeinsamen Wanderungen zu den schönsten und historisch bedeutendsten Fleckchen der Region gewähren sie ganz besondere Einblicke in ihre Heimat. Außergewöhnliche kulinarische Erlebnisse wie ein am offenen Feuer zubereitetes Natur-Bio-Frühstück am Berg runden die Woche ab.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/de81e64b-c592-4e27-8da5-ac8b2404d754/99/image.jpg",
+      "caption": "bergfrühl"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ea460e46-4b1d-48d6-9a93-863f141a0b1c/99/image.jpg",
+      "caption": "bergfrühling"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/04be0273-568d-49a7-9918-f3535a17d5af/99/image.jpg",
+      "caption": "bergfrühling1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c90f2c24-bdec-4cc2-aed2-2488ca6bda28/99/image.jpg",
+      "caption": "bergfrühling2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f04cf274-a999-4691-bc37-d9b8dfba3883/99/image.jpg",
+      "caption": "bergfrühling3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/fccac341-fe02-445a-ab6c-7ec559d1feb5/99/image.jpg",
+      "caption": "bergfrühling4"
+    }
+  ],
+  "startDate": "2017-06-04T00:00:00",
+  "endDate": "2017-06-10"
+}

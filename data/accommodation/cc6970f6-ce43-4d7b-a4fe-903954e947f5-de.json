@@ -1,0 +1,138 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.haus-friedrich.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Friedrich",
+    "streetAddress": "Am Kirchwald 552",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2890",
+    "faxNumber": "(0043) 5212 2890",
+    "email": "info@haus-friedrich.at",
+    "url": "http://www.haus-friedrich.at"
+  },
+  "name": "Haus Friedrich",
+  "description": [
+    "Ein herzliches „Grüß Gott“ im Haus Friedrich in Seefeld in Tirol!\n\nSie suchen keine Hotelkomplexe oder große Appartementhäuser? Ihren Urlaub verbringen Sie lieber in familiärer Atmosphäre, in ruhiger Umgebung aber doch nicht zu weit vom Schuss? Dann sind Sie im Haus Friedrich in Seefeld goldrichtig!\n\nNur ca. 10 Gehminuten vom Ortszentrum Seefeld entfernt, direkt am Wanderweg, befindet sich unser traditionell erbautes Haus, etwas erhöht gelegen, im Ortsteil Kirchwald. Die Haltestelle für den kostenlosen Dorfbus befindet sich nur wenige Schritte unterhalb unseres Hauses.\n\nIn dem 2-Raum-Appartement geeignet für 2-3 Personen und dem 3-Raum-Appartement optimal für bis zu 4 Personen, werden Sie sich wie zuhause fühlen! Die beiden Ferienwohnungen sind mit einer modernen komplett ausgestatteten Küche versehen, Ihren Kochkünsten sind somit keine Grenzen gesetzt. Bestehend aus einer Wohnküche mit bequemer Schlafcouch, getrenntem Schlafzimmer mit Doppelbett, Dusche/WC, südseitiger Terrasse und Balkon ist das 2-Raum Appartement ideal für eine Familie mit einem Kind. Die größere Ferienwohnung eignet sich perfekt für eine vierköpfige Familie. Ausgestattet mit einem Wohnraum mit großer Schlafcouch, einer abgetrennten Küche mit Essecke, einem separaten Schlafzimmer und zwei Badezimmern, bietet diese für jedermann genügend Platz. Genießen Sie Ihr Frühstück auf dem Südwestbalkon mit freiem Blick auf den Gschwandtkopf und die Rosshütte.\n\nDie vielen Sonnenstunden in Seefeld in Tirol sind die idealen Voraussetzungen für Ihren Sommer- und Winterurlaub in der frischen Luft auf 1.200 m Seehöhe. Direkt vor dem Haus Friedrich führt Sie ein schöner Wanderweg Richtung Wildmoosalm, dieser Weg ist auch im Winter begehbar. Bei der Wildmoosalm schlüpfen Sie in Ihre Schneeschuhe und stapfen auf den Brunschkopf, einer der schönsten Aussichtspunkte in der Olympiaregion Seefeld. Unsere langlaufbegeisterten Gäste erreichen in nur 5 Gehminuten den Einstieg in die Loipe.\n\nNach einem ergiebigen Tag lassen Sie sich im Olympia Hallenbad treiben, schwitzen Sie in der Sauna oder gönnen Sie sich eine Abkühlung im Seefelder Wildsee. Sie sehen, die Olympiaregion Seefeld hat viel zu bieten.\n\nVerbringen Sie einen unvergesslichen Urlaub bei uns im Haus Friedrich in Seefeld in Tirol!\n\nIhre Familie Wechselberger\n",
+    "inklusive: Liegestühle, Parkplatz, Safe, Bettwäsche;\n",
+    "Check-In ab 13.00 Uhr,\nCheck-Out bis 10.00 Uhr\n"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/dfbb5916-b8cb-428f-979e-971be85d07ad/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/45a09c53-aea9-410f-8540-b84528649fc4/99/image.jpg",
+      "caption": "Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.328375004371",
+    "longitude": "11.177781075319"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Südlage, großer Balkon ,Terasse, sonnig, ruhig, seperates, Schlafzimmer mit DU/WC,    \nWohnküche mit Geschirrspüler, Essecke , Ausziehcouch, Kabel TV, Brötchensevice, Parkplatz, Safe, W- Lan.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement 1",
+          "description": "Südlage, Terasse, großer sonniger Balkon, \nWohnküche mit Geschirrspüler, Essecke, Ausziehcouch, Kabel TV, Radio, Abstellraum.\nSeperates Schlafzimmer mit DU/WC, Safe.",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "58.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "58.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "68.00",
+          "maxPrice": "90.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Apartment 2\n3- Raum Apartment bestehend aus separater Küche mit Geschirrspüler und Essecke, Balkon.\nWohnraum  mit  Großer Schlafcouch und  DU/WC, Kabel TV , Balkon.\nSchlafzimmer mit Doppelbetten,  DU/WC, Ausziehcouch,  Safe, TV, Balkon, W-Lan.\n\nSüdwestlage , ruhig, sonniger Balkon. Parkplatz\n\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement 2",
+          "description": "Südwestlage,ruhig, sonniger Balkon, Küche mit Geschirrspüler, Essecke,\nWohnzimmer mit Ausziehcouch , DU/WC,  Kabel TV, Radio,\nseperates Schlafzimmer mit DU/WC, Safe und Ausziecouch.\nParkplatz, Brötchensevice.",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "65.00",
+          "maxPrice": "85.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "75.00",
+          "maxPrice": "95.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "85.00",
+          "maxPrice": "105.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

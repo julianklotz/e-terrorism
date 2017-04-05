@@ -1,0 +1,33 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "HealthAndBeautyBusiness"
+  ],
+  "name": "Physiotherapie Peter Vesenmayer, Fußpflege",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Kalkkögelweg 453",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 50469",
+    "email": "vesy@gmx.at"
+  },
+  "description": [
+    "Angebot: Mobile Physiotherapie, Heilmassage, Manuelle Lymphdrainage, Elektrotherapie, Ultraschalltherapie, Wärmetherapie, Kältetherapie, Private Behandlungen, Hausbesuche.\n\n",
+    "Angebot: Mobile Physiotherapie, Heilmassage, Manuelle Lymphdrainage, Elektrotherapie, Ultraschalltherapie, Wärmetherapie, Kältetherapie, Private Behandlungen, Hausbesuche.\n\n",
+    "Mo-Do: 9.00 - 12.00 Uhr \u0026 13.00 - 18.00 Uhr, Fr. 8.00 - 13.00 Uhr, oder nach telefonischer Vereinbarung\n"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7ba7cb8c-66e6-4064-b09a-e815ec119f5b/99/image.jpg",
+      "caption": "Piktogramm"
+    }
+  ]
+}

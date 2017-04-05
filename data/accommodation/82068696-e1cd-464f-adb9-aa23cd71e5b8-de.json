@@ -1,0 +1,221 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.hauswandl.at.tf",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Wandl",
+    "streetAddress": "Karwendelweg 626",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 699 10044786",
+    "email": "margit.wandl@leutascherhof.at",
+    "url": "http://www.hauswandl.at"
+  },
+  "name": "Haus Wandl",
+  "description": [
+    "APPARTEMENTHAUS MIT EIGENEM SCHWIMMBAD!\nUnser Appartementhaus Wandl hat 6 Ferienwohnungen von 32m² bis 52 m². Die sonnige, ruhige Lage am Karwendelweg in Seefeld und das eigene Hallenbad mit Sauna (zur freien Benützung) werden von unseren Gästen besonders geschätzt. Autoabstellplätze (1 pro Wohnung) stehen Ihnen zur Verfügung.",
+    "inkl: Heizung, Wasser, Wäsche, Strom, gratis Loipenbenutzung, sowie die Teilnahme am Freizeitangebot des Leutascherhofs ****\n5 gratis geführte Wanderungen pro woche (Mo-Fr), Wanderservice mit Leihschuhen, Stöcken etc.;\nexkl: Garage €7.--/ Tag Haustiere €8 .--/ Tag",
+    "Verlassen sie die Bundesstraße bei Seefeld Nord. Biegen sie in die erste Straße links in den Karwendelweg ab ( vor der ESSO - Tankstelle) am Ende der Straße finden Sie unser Haus auf der rechten Seite."
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "reviewCount": "39"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/78e2ddaf-e3c4-480c-902a-e6c103b61672/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/86ec2b28-8cf5-4771-b993-c72d0eb48989/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/fa633043-5abd-450f-9871-6f9b16ff4739/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/780c9411-aa98-4dba-91ac-95d5e57f0790/99/image.jpg",
+      "caption": "Hallenbad"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/59d2d79c-74bc-4090-ba00-fb81ab2d620e/99/image.jpg",
+      "caption": "Badezimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8e5fb11e-9d50-457a-acbd-a87d3229ccf4/99/image.jpg",
+      "caption": "Wohnzimmer \u0026 Küche"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6a750066-92a9-4cae-a044-d777b2ba12f3/99/image.jpg",
+      "caption": "Sitzecke"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7b3fd14d-d131-43b0-ba28-59ed84d663a9/99/image.jpg",
+      "caption": "Wohnzimmer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.334316597999",
+    "longitude": "11.1955618858337"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC",
+      "description": "1-Raum Appartement:\nAusstattung: Wohnraum mit Doppelbett und Schlafcouch, DU/WC, Südterrasse, KabelTV, Bar- Küche mit 4- Platten Eherd, Kühlschrank, Kaffeemaschine, Toaster, Wasserkocher, Bettwäsche und Handtücher;",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Typ 1 /Wohn-Schlafraum/Dusche, WC",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "44.00",
+          "maxPrice": "89.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "44.00",
+          "maxPrice": "89.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "9.00",
+          "maxPrice": "95.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "2- Raum Appartement für 2-4 Personen, ca 50m² + Südbalkon, ca. 16m², Ausstattung: Doppelzimmer, Wohnraum mit Schlafcouch, Dusche/WC, Südterrase, Kabel-TV, Bar-Küche mit 4-Platten-E-Herd, Kühlschrank, Kaffemaschine, Toaster, Wasserkocher, Geschirrspülmaschine, kl. Grill-Backofen,  Bettwäsche und Handtücher.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Typ 2/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "65.00",
+          "maxPrice": "101.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "60.00",
+          "maxPrice": "101.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "65.00",
+          "maxPrice": "108.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "3-Raum Appartement für 2-5 Personen, ca. 52m² + südbalkon, ca 15m², Ausstattung: Doppelzimmer, Kinderzimmer mit Etagenbett, Wohnraum mit Schlafcouch, Dusche/WC, Südterrasse, Kabel-TV, Bar-Küche mit 4-Platten-E-Herd, Kühlschrank, Kaffeemaschine, Toaster, Wasserkocher, Bettwäsche und Handtücher.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Typ 3/2 Schlafräume/Dusche, WC",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "60.00",
+          "maxPrice": "128.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "60.00",
+          "maxPrice": "134.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "60.00",
+          "maxPrice": "141.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "82.00",
+          "maxPrice": "147.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

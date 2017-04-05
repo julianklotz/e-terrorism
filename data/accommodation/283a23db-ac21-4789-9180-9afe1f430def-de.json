@@ -1,0 +1,243 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.hausfelseneck.com/",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Felseneck",
+    "streetAddress": "Am Kirchwald 309",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2540",
+    "faxNumber": "(0043) 521252680",
+    "email": "d_hilkenmeier@hotmail.com",
+    "url": "http://www.hausfelseneck.com/"
+  },
+  "name": "Haus Felseneck",
+  "description": [
+    "Persönliche Atmosphäre genießen Sie in unserem familiär geführten Haus Felseneck in Seefeld in Tirol. In sonniger und ruhiger Südhanglage liegt unser Ferienhaus nur 5 Gehminuten vom Ortszentrum Seefeld entfernt. Um bequem und ohne Auto zu den nächsten infrastrukturellen Einrichtungen, wie Schwimmbad, Bergbahnen oder Loipen zu gelangen, steht Ihnen 150 Meter von unserem Haus entfernt eine Haltestelle für den kostenlosen Dorf- und Skibus zur Verfügung.\n\nDas Haus Felseneck verfügt über 2 gemütliche Appartements im 1. Stock sowie ein weiteres Appartement im Erdgeschoss. Das Appartement I sorgt mit dem geräumigen Wohnzimmer mit Essecke und Schlafcouch, sowie der voll ausgestatteten Küche für einen angenehmen Aufenthalt. Das Schlafzimmer mit Doppelbett kann mit einem Zusatz- oder Kinderbett erweitert werden. Die zwei Badezimmer, eines mit Badewanne, das andere mit Dusche und getrenntem WC bieten genügend Platz für die ganze Familie. Lassen Sie sich verzaubern von dem traumhaften Ausblick auf das Karwendelgebirge von der südseitigen Terrasse. Bei Bedarf kann dieses 2-Raum Appartement um ein Einzel- oder Doppelzimmer, mit eigenem Badezimmer, auf ein 3-Zimmer Appartement erweitert werden.\n\nDas neue, im Tiroler Landhaus Stil eingerichtete Appartement Nummer II verfügt über 3 Zimmer. Neben dem Wohnzimmer mit Essecke und Schlafcouch, stehen Ihnen in dieser Ferienwohnung ein Dreibett- sowie ein Doppelzimmer, jeweils mit eigenem Badezimmer, für kuschelige Stunden bereit. Zusätzlich zur voll ausgestatteten Küche befinden sich hier auch noch eine Mikrowelle und ein Geschirrspüler. Vom Südwestbalkon erwartet Sie ein toller Panoramablick auf die Seefelder- und Reither Spitze. Das dritte Appartement eignet sich perfekt für eine kleine Familie bestehend aus 2 Erwachsenen und einem Kind. Neben dem Wohn-Esszimmer mit Schlafmöglichkeit, einer Küche, einem Schlafzimmer und einem neuen großen Badezimmer verleiht diese Ferienwohnung durch die warmen Holzmöbel und die liebevolle Dekoration eine Portion Charme.\n\nEgal ob für Ihren Sommer oder Winterurlaub, das Haus Felseneck, bietet für jede Jahreszeit die idealste Ausgangslage. 271 km top präparierte Loipen in allen Schwierigkeitsstufen, 143 km geräumte Winterwanderwege sowie gut erschlossene und moderne Skigebiete für die ganze Familie, die auch im Sommer für einen abenteuerlichen Wanderurlaub geeignet sind. Gönnen Sie sich eine Auszeit im Hallen- und Freibad Olympia Sport- und Kongresszentrum, das nur 200 Meter von unserem Haus entfernt liegt.\n\nAuf Ihren Aufenthalt in unserem Haus Felseneck in Seefeld in Tirol freut sich\n\nFamilie Hilkenmeier\n",
+    "Unser Haus Nr. 309 liegt in der Nähe des Olympia-Sport-Zentrums rund 100 m oberhalb des Hotel Wetterstein. Auffahrt Kreuzung Leutascher-, Möserer-, Klosterstraße - rechts parallel zur Mösererstraße hoch - 100 m -siehe im Ortsplan - Planquadrat B5."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7158a090-baa3-4085-a80d-1d6675d6a9d2/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d6eb5100-e65d-485b-91a1-ec640432e139/99/image.jpg",
+      "caption": "Sommer "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/61a3526d-d670-4aaa-9b9b-6cb29aa7b238/99/image.jpg",
+      "caption": "Aussicht Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5a69eadd-a62e-4c2c-9ab9-9a1adac78626/99/image.jpg",
+      "caption": "Aussicht Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/befbcf64-d3f2-4366-ae75-1beb4ced06c1/99/image.jpg",
+      "caption": "Panorama Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/29a30b55-181c-4a0e-a2a5-82a0ca8d71a5/99/image.jpg",
+      "caption": "Panorama Winter"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.328548451101",
+    "longitude": "11.1806917190552"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Toilette und Bad/Dusche getrennt, 1 Schlafraum",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement 1 /Fewo, Badewanne, 1-2 Schlafraume",
+          "description": "",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "55.00",
+          "maxPrice": "85.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "60.00",
+          "maxPrice": "95.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "Unsere Appartements wurden mit viel Liebe zum Detail ausgestattet und bieten einen schönen Ausblick auf den Ort und die Berge. Kabel-TV 40 Progr.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement 2 /2 Schlafräume/Dusche WC",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "65.00",
+          "maxPrice": "105.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "75.00",
+          "maxPrice": "115.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "80.00",
+          "maxPrice": "120.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement 3 /Fewo, Dusche, WC, 1 Schlafraum",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "50.00",
+          "maxPrice": "75.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Einzelzimmer, Dusche, WC",
+      "description": "Kl. Einbettzimmer in rustikaler Ausstattung, Kabel/TV 40 Programme",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Einzelzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "32.00",
+          "maxPrice": "35.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Unsere Zimmer wurden mit Liebe zum Detail ausgestattet und bieten einen schönen Ausblick auf den Ort und die Berge. Kabel-TV 40 Programme.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "32.00",
+          "maxPrice": "35.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

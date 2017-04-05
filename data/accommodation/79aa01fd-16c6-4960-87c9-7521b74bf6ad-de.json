@@ -1,0 +1,19 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Hocheggstr. 604 / Top 10",
+    "addressLocality": "Seefeld in Tirol",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "email": "arno.thelen@gmx.de"
+  },
+  "name": "ZW- Thelen Arno",
+  "currenciesAccepted": "EUR"
+}

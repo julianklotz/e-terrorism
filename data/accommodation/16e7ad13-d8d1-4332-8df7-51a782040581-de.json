@@ -1,0 +1,151 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.landhaus-doris.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Landhaus Doris",
+    "streetAddress": "Plaik 83 a",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6893",
+    "faxNumber": "(0043) 5214 6893 3",
+    "email": "landhaus-doris@aon.at",
+    "url": "http://www.landhaus-doris.at"
+  },
+  "name": "Landhaus Doris",
+  "description": [
+    "Familiär geführte, gemütliche Frühstückspension / Appartementhaus. Komfortabel ausgestattet, vom Verband der Tiroler Zimmervermieter mit 4 Edelweiss ausgezeichnet.\nAusgangspunkt für schöne Wanderungen.\nNICHTRAUCHERHAUS!",
+    "inkl. Frühstück, Heizung, Stromkosten, Wasser\nexl. Ortstaxe, Telefongespräche\n\n\nEs gelten die Allgemeinen Österreichischen Hotel Vertragsbedingungen!\nhttp://portal.wko.at/wk/format_detail.wk?angid\u003d1\u0026stid\u003d254299\u0026dstid\u003d316\u0026opennavid\u003d22665",
+    "So finden sie uns:\n\nSie fahren in Richtung Kirche / Kirchplatztl immer gerade aus, beim Reitstall nehmen sie die rechte Strasse in Richtung Gaistal. Dort kommt dann das Ortsschild Plaik, nach ca. 700 m auf der rechten Seite befindet sich das Landhaus Doris."
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "reviewCount": "192"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/95a74301-dca7-440e-a045-4a0f3de507ce/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/38dbf25e-6827-485a-97fb-6ef5653cfa86/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c02d234d-c9b4-405b-baf7-2933dc24cc0e/99/image.jpg",
+      "caption": "Garten"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ae095522-de02-49f5-b2b7-43c3b0e1552f/99/image.jpg",
+      "caption": "Frühstücksraum"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.361329080296",
+    "longitude": "11.125550468412"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Hell eingerichtet Komfortzimmer im Tiroler Landhausstil, mit Balkon od. Terrasse, Dusche /WC",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Zweibettzimmer, Dusche, WC",
+      "description": "Doppelzimmer mit getrennten Betten im Tiroler Landhausstil, DU/WC, TV, Balkon",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Zweibettzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 1 Schlafraum",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartment Hohe Munde/1Schlafraum/Bad/WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 1 Schlafraum",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment Gehrnspitz/1 Schlafraum/Bad/WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ]
+    }
+  ]
+}

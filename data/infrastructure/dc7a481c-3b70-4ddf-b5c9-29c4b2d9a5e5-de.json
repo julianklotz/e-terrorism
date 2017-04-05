@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure"
+  ],
+  "name": "Fiakerparkplatz (P3)",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3270395031774",
+    "longitude": "11.188217997551"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Fiakerparkplatz (P3)",
+    "streetAddress": "Innsbrucker Str. ",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043)508800"
+  },
+  "description": [
+    " ",
+    "gebührenpflichtig"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/51b8c3cd-03fe-4f17-96af-413d24306913/99/image.jpg",
+      "caption": "Parkplatz"
+    }
+  ]
+}

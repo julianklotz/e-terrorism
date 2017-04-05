@@ -1,0 +1,18 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Lundsör",
+    "streetAddress": "Milserstraße 563/4",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 676 3516606",
+    "email": "contact@excellenceapartments.com"
+  },
+  "name": "ZW-Lundsör Stig",
+  "currenciesAccepted": "EUR"
+}

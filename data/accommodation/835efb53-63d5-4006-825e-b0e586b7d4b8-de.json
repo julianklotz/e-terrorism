@@ -1,0 +1,18 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Broch Weg 22 /Top 1",
+    "addressLocality": "Mösern bei Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT"
+  },
+  "name": "ZW - Jöckel Maria Annelies",
+  "currenciesAccepted": "EUR"
+}

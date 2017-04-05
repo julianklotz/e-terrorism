@@ -1,0 +1,48 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "\"\u0027Vokal! Instrumental! Phänomenal!\"",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Informationsbüro Reith",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Römerstraße 52",
+      "addressLocality": "Reith bei Seefeld",
+      "postalCode": "6103",
+      "addressCountry": "AT",
+      "telephone": "(0043)50880530 ",
+      "faxNumber": "(0043)50880831",
+      "email": "info.reith@seefeld.com",
+      "url": "http://www.seefeld.com"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Informationsbüro Reith",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Römerstraße 52",
+      "addressLocality": "Reith bei Seefeld",
+      "postalCode": "6103",
+      "addressCountry": "AT",
+      "telephone": "(0043)50880530 ",
+      "faxNumber": "(0043)50880831",
+      "email": "info.reith@seefeld.com",
+      "url": "http://www.seefeld.com"
+    }
+  },
+  "description": "Ein Abend voller Überraschungen wieder alljährlich im Gemeindesaal Reith geboten",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/28f5e1c2-84e7-4b3e-bdfd-45202bb05fb2/99/image.jpg",
+      "caption": "GV Reith"
+    }
+  ],
+  "startDate": "2017-03-11T20:00:00",
+  "endDate": "2017-03-11"
+}

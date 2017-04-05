@@ -1,0 +1,53 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "Bauernabend mit Live-Musik",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Erlebnishotel Kristall",
+    "employee": {
+      "@type": "Person",
+      "givenName": "Theodor",
+      "familyName": "Pfeffel"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Weidach 300 m",
+      "addressLocality": "Leutasch",
+      "postalCode": "6105",
+      "addressCountry": "AT",
+      "telephone": "(0043) 5214 6319",
+      "faxNumber": "(0043) 5214 6319 47",
+      "email": "office@hotel-kristall.at",
+      "url": "http://www.hotel-kristall.at"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Erlebnishotel Kristall",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Weidach 300 m",
+      "addressLocality": "Leutasch",
+      "postalCode": "6105",
+      "addressCountry": "AT",
+      "telephone": "(0043) 5214 6319",
+      "faxNumber": "(0043) 5214 6319 47",
+      "email": "office@hotel-kristall.at",
+      "url": "http://www.hotel-kristall.at"
+    }
+  },
+  "description": "Live-Musikabend mit Dessertbuffet. Reservierung erbeten unter Tel. 05214/6319.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a677bbd9-e711-4601-830f-a6e411552c6a/99/image.jpg",
+      "caption": "Erlebnishotel Kristall"
+    }
+  ],
+  "startDate": "2017-06-06T18:00:00",
+  "endDate": "2017-09-26"
+}

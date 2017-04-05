@@ -1,0 +1,33 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CafeOrCoffeeShop",
+    "Restaurant"
+  ],
+  "name": "Hotel Reitherhof",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2982951717089",
+    "longitude": "11.2052625981476"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Hotel Reitherhof",
+    "streetAddress": "Römerstrasse 36",
+    "addressLocality": "Reith bei Seefeld",
+    "postalCode": "6103",
+    "addressCountry": "AT",
+    "telephone": "0043 5212 3136",
+    "faxNumber": "(0043) 5212 3136",
+    "email": "hotel-reitherhof@aon.at",
+    "url": "http:///www.reitherhof.at."
+  },
+  "description": "Sitzplätze für ca. 50 Personen",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/da028097-bbe4-40d7-ae06-1281f91a598e/99/image.jpg",
+      "caption": "Sommerfoto"
+    }
+  ]
+}

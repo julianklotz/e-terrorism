@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant"
+  ],
+  "name": "Leutascher Dorfstadl",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3709922475487",
+    "longitude": "11.1529040275086"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Leutascher Dorfstadl",
+    "streetAddress": "Weidach 275b",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 20143",
+    "email": "l.dorfstadl@A1.net",
+    "url": "http://www.dorfstadl-leutasch.at/"
+  },
+  "description": "Sitzplätze für ca. 80 Personen",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1e1c0a68-e56f-4fb5-99a4-2b2cbf2e0844/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b921e2fc-26f0-4a95-8b4d-15d52e9fa80d/99/image.jpg",
+      "caption": "Winter"
+    }
+  ],
+  "url": [
+    "http://www.dorfstadl-leutasch.at/"
+  ]
+}

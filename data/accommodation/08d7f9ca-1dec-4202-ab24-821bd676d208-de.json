@@ -1,0 +1,182 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.landhaus-alpenblick.net"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Landhaus Alpenblick",
+    "streetAddress": "Unterkirchen 251",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0049) 177 79 86 718",
+    "email": "uwe.schlecht@nofear-sports.de",
+    "url": "http://www.landhaus-alpenblick.net"
+  },
+  "name": "Landhaus Alpenblick",
+  "description": [
+    "Unser Haus liegt wildromantisch am Beginn des Leutaschtales. Im Winter sind es nur 30 m bis zum Loipeneinstieg und im Sommer bieten wir Ihnen einen guten Ausgangspunkt für sämtliche Wanderungen und Radtouren. Der Rossbrandbach säumt unseren Garten, der nach den täglichen Aktivitäten zum Verweilen einlädt. Alle Appartements verfügen über kostenfreies W-Lan und wurden 2014/15 frisch renoviert. Parkplätze sind direkt am Haus vorhanden. Outdoorsauna im Garten\nWir freuen uns auf Ihren Besuch im Landhaus Alpenblick.\n\nHunde nur auf Anfrage!\n",
+    "Im Preis inbegriffen: Miete für eine komplett eingerichtete Wohnung (Küche, Geschirr), warmes u. kaltes Wasser, Strom, Kühlschrank, Kaffeemaschine, SAT-TV, tw. Mikrowelle, Parkplätze, Heizung, Benutzung der Bettwäsche, Küchen- u. Handtücher. \n\nIm Preis nicht inbegriffen sind: Endreinigung, Saunageld, Ortstaxe\n",
+    "Check-In je nach Anfrage: 15.00 Uhr\nCheck-Out: 10.00 Uhr\nUnser Haus liegt v.d. ehemaligen Grenze ca. 2 km entfernt\n",
+    "Appartements, Garten, Sauna, W-Lan, Sat-TV, Loipe, Familien, Haustiere, Wandern, Skischule, MTB"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "reviewCount": "16"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/849f942c-1b97-4e43-952a-422d50f65bad/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e004a1f9-351b-4e34-a57a-16c38f1085d9/99/image.jpg",
+      "caption": "Logo_Alpenblick"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/df8ce298-466a-4003-8db7-ecc67aa8b0cf/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c5580685-50ca-4684-91ce-9efdb9fbae8e/99/image.jpg",
+      "caption": "Blick auf die Terrasse"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0b68fff5-49b1-4cc6-bc03-e539e02c50b0/99/image.jpg",
+      "caption": "Terrasse"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/dd216261-194e-4f75-a365-c2890d4e85f7/99/image.jpg",
+      "caption": "Garten"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/bb2d0624-aae6-4a03-b5e3-3ea0af58a48b/99/image.jpg",
+      "caption": "Garten 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/20669883-fe6d-44cc-b103-69228cf5d4c3/99/image.jpg",
+      "caption": "Garten 3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8c8a85a1-56c7-406f-be03-8adc8c54ad9d/99/image.jpg",
+      "caption": "Garten 4"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8aa9c5c3-f891-4680-96e4-4e212f0d14fb/99/image.jpg",
+      "caption": "Garten mit Grill"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/28c2d323-af57-414b-a8e0-a3856cbc4232/99/image.jpg",
+      "caption": "Fasssauna"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b3a66252-fba3-4125-b7bd-bd648b1b7239/99/image.jpg",
+      "caption": "Fasssauna bei Nacht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a5f0e25f-8df3-4d32-b403-db30091f0788/99/image.jpg",
+      "caption": "Alpenblick unser Bach im Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/dcfad918-23b9-4c70-927e-fe89784a085c/99/image.jpg",
+      "caption": "Alpenblick unser Haus im Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ae5308ed-4bce-402f-94ab-88e9d2821c2e/99/image.jpg",
+      "caption": "Alpenblick unser Haus im Winter"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.4170855",
+    "longitude": "11.2130612999999"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 3 Schlafräume",
+      "description": "Unser frisch renoviertes Appartement Dreitorspitze liegt im 1. Stock und hat direkten Zugang zum Balkon. Die voll ausgestattete Küche besitzt einen Umluftherd, Cerankochfeld, Spülmaschine, Kühl-+ u. Gefrierkombination. Die Küche ist mit einer Eckbank und einem Schlafsofa und 2 Schlafzimmer jeweils mit einem Doppelbett und einem Einzelbett ausgestattet. Das 3. Schlafzimmer hat ein franz. Bett. Kostenfreies W-LAN und einen Flachbild-SAT-TV mit DVD-Player vorhanden. Garten- u. Saunabenutzung. ",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement/Fewo NR. 2, Bad, 2 WC,  3 Schlafräume",
+          "description": "Das Appartement „Dreitorspitze“ hat 70 qm und liegt im 1. Stock. Die maximale Belegung ist bei 6 + 2 Personen. Es hat direkten Zugang zum Balkon. Die Küche besitzt einen Umluftherd, Dunstabzugshaube, Cerankochfeld, Mikrowelle, Spülmaschine, Kühl-+ u. Gefrierkombination. Küche + Essbereich haben eine gemütliche Eckbank. Alle drei Schlafzimmer haben eine Waschgelegenheit mit mod. LED-Spiegel. Das Bad hat eine Regendusche, WC + Fön. Separates WC + LED-Dusche. Freies WiFi + SAT-TV",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "8",
+            "minValue": "6"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche oder Bad, WC, 1 Schlafraum",
+      "description": "Unser frisch renoviertes Appartement „Geisterklamm“ hat 35 qm, ist im Erdgeschoss mit Zugang zum Garten u. Aussensauna. Die maximale Belegung liegt bei 2 + 3 Personen. Die integrierte Küche besitzt einen E-Herd m. Ceranfeld, Spülmaschnine, Kühlschrank, Toaster, Wasserkocher, Kaffeemaschine und Staubsauger. Die Küche ist mit einer gemütlichen Eckbank und das Schlafzimmer mit einem Doppelbett und zwei Einzelbetten ausgestattet. Das Bad mit Badewanne, Erlebnisdusche, WC und Fön hat Tageslicht",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "App./Fewo NR.4, Dusche o. Bad, WC, 1 Schlafr.",
+          "description": "Unser frisch renoviertes Appartement „Geisterklamm“ hat 35 qm und liegt im Erdgeschoss mit direkten Zugang zum Garten. Die maximale Belegung liegt bei 2 + 3 Personen. Die integrierte Küche besitzt einen E-Herd m. Ceranfeld, Kühlschrank, Toaster, Wasserkocher, Kaffeemaschine und Staubsauger. Die Küche ist mit einer gemütlichen Eckbank und das Schlafzimmer mit einem Doppelbett und zwei Einzelbetten ausgestattet. Das Bad mit Badewanne, Erlebnisdusche, WC und Fön hat Tageslicht. Freies W-LAN u. TV.",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 1 Schlafraum",
+      "description": "Unser frisch renoviertes App. Rossbrandbach liegt im Erdgeschoss und hat direkten Zugang zum Garten u. Sauna mit eigener Terrasse. Die integrierte Einbauküche besitzt einen Umluftherd, Cerankochfeld, sowie eine Kühl-+ u. Gefrierkombination. Der separate Aufenthaltsraum hat eine gemütliche Eckbank, sowie eine Schlafcouch. Das Schlafzimmer ist mit einem französischen Bett ausgestattet. Das App. verfügt über kostenfreies W-LAN und einen Flachbild-SAT-TV mit integriertem DVD-Player.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement/Fewo NR.5, Bad, WC, 1 Schlafraum",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

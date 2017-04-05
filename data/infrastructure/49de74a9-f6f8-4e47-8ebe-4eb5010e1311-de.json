@@ -1,0 +1,19 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure"
+  ],
+  "name": "Notrufnummer Europaweit: 112",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/61307d39-8ee1-49a3-8803-a9401c75b592/99/image.jpg",
+      "caption": "Notruf"
+    }
+  ]
+}

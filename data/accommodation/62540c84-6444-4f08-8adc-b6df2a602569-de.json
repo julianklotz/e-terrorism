@@ -1,0 +1,322 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.landhaus-schoepf.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Landhaus Schöpf",
+    "streetAddress": "Möserer Dorfstr. 7",
+    "addressLocality": "Mösern",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "+4352124752",
+    "faxNumber": "+435212475235",
+    "email": "info@landhaus-schoepf.at",
+    "url": "http://www.landhaus-schoepf.at"
+  },
+  "name": "Landhaus Schöpf",
+  "description": [
+    "Neuerbaute, gemütlich eingerichtete Ferienwohnungen für 2-5 Personen mit Vorraum, Garderobe, Schlafzimmer, Wohnschlafraum, Küche, Dusche/Bad, WC, Balkon oder Terrasse, Sauna und Hallenbadbenutzung im Nachbarhotel INNTALERHOF****\nAusblick ins Inntal und die umliegende Bergwelt. Auf Ihr Kommen freut sich Familie Schöpf!\n",
+    "Inklusiv: Heizung, Wasser, Strom, Bettwäsche, Handtücher, Besteck, Geschirr, Parkplatz, TV- Programmzeitschrift\nExklusiv: Telefon\nHaustiere € 5.00 / Tag ohne Futter\nOrtstaxe € 2.80 / Person / Tag\nEndreinigung € 35.00",
+    "Check in ab 12.00 Uhr / Check out 10.00 Uhr \nUnser Haus liegt in sehr sonniger Lage. Zum Schilift,der Schischule,den Loipen, Badesee 24° und den Wanderwegen sind es nur wenige Gehminuten. Der Gratisschibus hält vor unserem Haus."
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "reviewCount": "15"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/56105fbd-9da6-4f00-b3b7-52b0dcdd9256/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b0ebc2cf-de6d-4eba-97ec-13f83a2297ee/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e654dbea-df96-41e4-ab40-8eea23f3c33e/99/image.jpg",
+      "caption": "Sommer 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e0e4cb47-a92b-4f3e-a268-c2607e2ff900/99/image.jpg",
+      "caption": "Sommer 3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/57d5ec41-c0a6-4d5a-9d9b-cc98ac06874f/99/image.jpg",
+      "caption": "Langlauf in Mösern"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/096759fb-a482-4b2a-8f05-38d95a45afcf/99/image.jpg",
+      "caption": "Mösern im Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/dedf8351-6846-4bcc-912c-fc112496989d/99/image.jpg",
+      "caption": "Friedensglocke"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2e56f981-4b72-4f2c-b928-3fb9eed6e2fa/99/image.jpg",
+      "caption": "Landhaus Schöpf Blumencorso Mösern"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d8916e04-8eb7-43f2-8bb6-39a88a7488d1/99/image.jpg",
+      "caption": "554"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4c70f1e4-4c5d-49a6-9b58-a5a50fd91d14/99/image.jpg",
+      "caption": "004"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1d51e573-1c1e-462c-9ada-5aa12e2ad040/99/image.jpg",
+      "caption": "009"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6dcaf3e0-168b-4a60-ad9c-d7681b357995/99/image.jpg",
+      "caption": "054"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ce869f02-b324-4783-842f-1a9dcb8ed200/99/image.jpg",
+      "caption": "Kirche in Mösern"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/142aa04d-6da4-4ce7-9335-7ff07ac7b0a1/99/image.jpg",
+      "caption": "Zugspitzhaus"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1e0dc026-1e2e-418e-a312-c73c30ae0cee/99/image.jpg",
+      "caption": "Seebensee im Gaistal"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c73ae0d6-9120-489d-9551-01f5fe4c5e6f/99/image.jpg",
+      "caption": "748"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c0ccce06-df9a-406a-9301-d4f8b06814a0/99/image.jpg",
+      "caption": "Karwendelblick"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5a3aee31-db1f-4db8-8997-b2b961fcc2a9/99/image.jpg",
+      "caption": "777"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a4730a98-724f-4b4b-84cd-e0eb4ec51261/99/image.jpg",
+      "caption": "706"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/10915714-28ec-44ae-89dc-31939430dd92/99/image.jpg",
+      "caption": "Spielplatz Rosshütte"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/86630587-3bd2-47be-aeff-54d212ecb6c1/99/image.jpg",
+      "caption": "666"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d1adbef6-78d6-4313-9034-9da2ca263251/99/image.jpg",
+      "caption": "102"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2dfc9257-a625-4e74-b169-2c4b9f6e5b11/99/image.jpg",
+      "caption": "Lauras Alm"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8855ee9d-948c-4905-8822-92e03919dacb/99/image.jpg",
+      "caption": "Seebensee"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.311585839713",
+    "longitude": "11.145988694121"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Neue gemütliche Ferienwohnung ca. 40 qm mit neuer Terrasse und Inntalblick 80 km Fernsicht inklusive, für 2-4 Personen, seperate Garderobe, ein Schlafzimmer mit Doppelbett und Kleiderschrank,ein Wohnzimmer mit Ausziehcouch für 2 Personen und kompletter Küche, Kaffeemaschiene, Wasserkocher, Toaster, eingebaute Essecke, Dusche mit WC, Sat-TV digital, Radio, Internet über W-Lan möglich, Balkonmöbel.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Top 4",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Winterpauschale",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/cb66a372-f826-4e0c-8570-c5bcf0cb9f4d/99/image.jpg",
+              "caption": "Langlauf"
+            }
+          ],
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "55.00",
+          "maxPrice": "110.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "65.00",
+          "maxPrice": "120.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "75.00",
+          "maxPrice": "130.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 1 Schlafraum",
+      "description": "Große gemütlich eingerichtete Ferienwohnung 65 m2 mit Balkon und Morgensonne für 2-5 Personen, Vorraum mit Garderobe und Kleiderschrank, Abstellraum, ein Schlafzimmer mit 3. Bett und 5-türigen Kleiderschrank,ein großes Wohnzimmer mit Ausziehcouch für 2 Personen,Essecke, seperate komplett ausgestatte Küche mit Backrohr und Dunstabzug,Kaffeemaschiene, Wasserkocher, Badezimmer, separates WC, Sat-TV digital, Radio, Internet über Wireless Lan möglich,großer Balkon mit Balkonmöbeln.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Top 5",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "75.00",
+          "maxPrice": "130.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "85.00",
+          "maxPrice": "140.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "95.00",
+          "maxPrice": "150.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "105.00",
+          "maxPrice": "160.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Helle gemütliche Ferienwohnung mit Erker ca. 50 m2 für 2-4 Personen mit Balkon und Morgensonne, Garderobe mit großen Kleiderschrank, ein Schlafzimmer mit Doppelbett und 3 türigen Kleiderschrank, ein Wohnzimmer mit Ausziehcouch für 2 Personen, komplette Küche mit Mikrowelle,Toaster, Wasserkocher, Backrohr und Dunstabzug, gemütlicher Erker mit eingebauter Essecke, Dusche mit WC, Stereoanlage, Sat-TV digital, Internet über Wireless Lan möglich, Balkonmöbel,",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Top 6",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "65.00",
+          "maxPrice": "120.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "75.00",
+          "maxPrice": "130.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "85.00",
+          "maxPrice": "140.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

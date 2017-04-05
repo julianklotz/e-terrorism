@@ -1,0 +1,227 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.bergfreund-leutasch.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Bergfreund",
+    "streetAddress": "Weidach 374 b",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6621",
+    "faxNumber": "(0043) 5214 6621",
+    "email": "info@bergfreund-leutasch.at",
+    "url": "http://www.bergfreund-leutasch.at"
+  },
+  "name": "Haus Bergfreund",
+  "description": [
+    "Ferienwohnungen für 2-6 Personen, gemütlich und komplett eingerichtet, SAT-TV, Granderwasser, sonnig und ruhig am Waldrand, trotzdem zentral zum Dorf, Liegewiese, Parkplatz, schöner Panoramablick.",
+    "Inklusive: Grander-Wasser, Heizung, Dusch-, Hand- und Geschirrtücher, Bettwäsche, Parkplatz\nExklusive: Kurtaxe, Endreinigung, Kosten für Haustiere",
+    "Aus Richtung Seefeld kommend, nach Kreitalmlift ca. 200 m in Weidach weiter, kurz vor der Tankstelle rechts ab, kurzer Anstieg.\n\nAnkunft ab 15.00 Uhr\nAbreise um 10.00 Uhr"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/057786f4-12d3-4af5-bb29-427e36b89919/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/268a5f03-b705-4304-923b-256f2a99b744/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/92da28fd-9a6a-4d46-994d-5f00263617e2/99/image.jpg",
+      "caption": "Garten"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d652461d-b573-4747-bc10-c0618475231c/99/image.jpg",
+      "caption": "Eingangsbereich"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.369125716386",
+    "longitude": "11.168416688602"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "Parterre 80 m², kleine Terrasse, 2 Schlafzimmer, 1 Wohnschlafzimmer, SAT-TV, komplett eingerichtete Kochnische.\n2 Duschen, 2 Toiletten, gemütliche Sitzecke.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apart. Nr. 1 /2 Schlafräume/Dusche,WC",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "51.00",
+          "maxPrice": "85.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "53.00",
+          "maxPrice": "85.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "56.00",
+          "maxPrice": "85.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "60.00",
+          "maxPrice": "90.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "65.00",
+          "maxPrice": "95.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC",
+      "description": "Hochparterre, 45 m², für 2-4 Personen, 1 Schlafzimmer, 1 Wohnschlafzimmer, SAT-TV, Kochnische komplett eingerichtet.\nDusche/WC.\nApp. 2 und 3 können mit Türe zusammengelegt weren.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Aprt. Nr. 2 / 1 Schlaf-/1 Wohn-Schlafrau",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "37.00",
+          "maxPrice": "60.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "40.00",
+          "maxPrice": "65.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "45.00",
+          "maxPrice": "70.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC",
+      "description": "1 Etage, 45 - 50 m², Wohnschlafzimmer, 1 Schlafzimmer, SAT-TV,Balkon, Kochnische komplett eingerichtet, Dusche/WC.\nApp. 5 hat 2x Dusche/WC.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apart. Nr. 4 u. 5 / 1 Schlaf-/1 Wohn-Sch",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "37.00",
+          "maxPrice": "60.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "40.00",
+          "maxPrice": "65.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC",
+      "description": "1. Etage, ca. 25 m², Balkon, SAT-TV, komplett eingerichtete Kochnische, Dusche/WC.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apart. Nr. 6 u. 7/Wohn-Schlafraum/DU/WC",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "30.00",
+          "maxPrice": "48.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

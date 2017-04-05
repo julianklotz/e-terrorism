@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant"
+  ],
+  "name": "Campers im Tirol.Camp, Restaurant",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.397966131186",
+    "longitude": "11.1801925002778"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "\"Campers\" beim Tirol.Camp",
+    "streetAddress": "Reindlau 230b",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 657013",
+    "email": "info@tirol.camp",
+    "url": "http://www.tirol.camp/"
+  },
+  "description": "Sitzplätze für ca. 45 Personen\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d15a6965-4930-45ba-83a5-6ffb80d1c8df/99/image.jpg",
+      "caption": "Campers"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f9b3d1a0-3165-4fb4-ad7b-6aa9737173e1/99/image.jpg",
+      "caption": "Restaurant campers"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c95a47f6-42ab-403c-a5aa-e0592379ff41/99/image.jpg",
+      "caption": "Logo"
+    }
+  ],
+  "url": [
+    "http://www.tirol.camp"
+  ]
+}

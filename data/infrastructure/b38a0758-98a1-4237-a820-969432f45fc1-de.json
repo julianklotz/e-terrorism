@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Physician",
+    "Pharmacy"
+  ],
+  "name": "Dr. med. Hubert Hofstötter/Arzt",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3889256",
+    "longitude": "11.2633035"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Innsbruckerstr. 3",
+    "addressLocality": "Scharnitz",
+    "postalCode": "6108",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5213 5134"
+  },
+  "description": [
+    "Arzt für Allgemeinmedizin\nInnsbruckerstr. 3\nTel.: +43 5213/5134\n\nMontag: 9:00 - 15:00 Uhr\nDienstag: 9:00 -12:00 Uhr\nMittwoch: 9:00 - 15:00 Uhr\nDonnerstag: 14:00 -19:00 Uhr\nFreitag: 9:00 - 12:00 Uhr",
+    "Arzt für Allgemeinmedizin\nInnsbruckerstr. 3\nTel.: +43 5213/5134\n\nMontag: 9:00 - 15:00 Uhr\nDienstag: 9:00 -12:00 Uhr\nMittwoch: 9:00 - 15:00 Uhr\nDonnerstag: 14:00 -19:00 Uhr\nFreitag: 9:00 - 12:00 Uhr",
+    "Montag: 9:00 - 15:00 Uhr\nDienstag: 9:00 -12:00 Uhr\nMittwoch: 9:00 - 15:00 Uhr\nDonnerstag: 14:00 -19:00 Uhr\nFreitag: 9:00 - 12:00 Uhr"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3ce79cf4-86ee-4d8d-80c4-ea99e6bbe549/99/image.jpg",
+      "caption": "Piktogramm"
+    }
+  ],
+  "url": [
+    "http://"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "GovernmentOffice"
+  ],
+  "name": "Polizei Seefeld",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3362852224921",
+    "longitude": "11.1947250366211"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Polizei Seefeld",
+    "streetAddress": "Münchner Str. 828",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 591337124-100",
+    "url": "http://www.bundespolizei.gv.at"
+  },
+  "description": "Notruf: Tel.: 133\nSeefeld\nDie Polizei Seefeld befindet sich in der Münchner\nStr. 828 und ist für die gesamte Region zuständig,\nTel.: 0591337124-100,\nwww.bundespolizei.gv.at\n\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ca615999-9009-4b80-96ed-af14c6d3ab31/99/image.jpg",
+      "caption": "Notruf"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/abb9800c-2899-418c-98fa-476d1a0a33cf/99/image.jpg",
+      "caption": "Polizei"
+    }
+  ],
+  "url": [
+    "http://www.bundespolizei.gv.at"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "GolfCourse"
+  ],
+  "name": "Golfclub Seefeld - Reith",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3266504421444",
+    "longitude": "11.1911201477051"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Golfclub Seefeld-Reith",
+    "streetAddress": "Reitherspitzstr.138",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043)05212/3797",
+    "url": "http://www.gc-seefeld-reith.at"
+  },
+  "description": "Der Golfclub Seefeld-Reith in den Tiroler Alpen ermöglicht perfektes Golfspiel auch ohne Clubmitgliedschaft. Der flach gelegene 9-Loch-Platz mit regulärer Länge der Spielbahnen lässt die Freude am Golf richtig spürbar werden. Das entsprechende Training vor jeder Runde ist jedoch unverzichtbar. Eine beidseitig bespielbare Driving Range mit 12 überdachten Abschlagplätzen für wetterunabhängiges Training, Chipping-, Pitching- und Putting-Greens sowie Übungsbunker ermöglichen ein bequemes und abwechslungsreiches Üben. Die Golfschule unter der Leitung von PGA Head Professional Thomas Knuchel steht für Kurse und Einzelcoaching gerne zur Verfügung.\n\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b3d31f99-4a50-4fd1-a824-b25ec39f52b4/99/image.jpg",
+      "caption": "Golfclub Seefeld - Reith"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/97354884-58e1-4479-9447-14885f50c411/99/image.jpg",
+      "caption": "Golf"
+    }
+  ],
+  "url": [
+    "http://www.golfclub-seefeld-reith.at/",
+    "http://golfclub-seefeld-reith.at"
+  ]
+}

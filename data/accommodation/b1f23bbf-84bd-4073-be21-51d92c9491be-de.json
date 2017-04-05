@@ -1,0 +1,151 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.nairz.net",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Bergkranz",
+    "streetAddress": "Weidach 308",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6000",
+    "faxNumber": "(0043) 5214 20347",
+    "email": "annelies.nairz@aon.at",
+    "url": "http://www.nairz.net"
+  },
+  "name": "Haus Bergkranz",
+  "description": [
+    "Unser Haus mit den zwei Ferienwohnungen liegt im Ortsteil Oberweidach 5 min. Gehzeit vom Dorfzentrum entfernt. Es ist der ideale Ausgangspunkt für kleine Spaziergänge und große Wanderungen. Der Loipeneinstieg ist hinter dem Haus. Wir bitten unsere Gäste in den Wohnungen nicht zu rauchen.",
+    "Kinderermäßigung bis 100%.\nSie können zu jeder Wohnung ein zusätzliches Zimmer mieten.",
+    "Sie fahren vom Infobüro Weidach Richtung Alpenbad und finden uns nach ca. 350m auf der rechten Seite."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7fbc45cc-415a-4e98-88d7-f2a964190126/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/175ad924-2318-47da-a75a-d1cc914a6026/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b72b460f-bc9e-49c0-b860-7fece3e5b4a4/99/image.jpg",
+      "caption": "Hausansicht1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2d177637-d4fe-4c60-97bf-e7fedfee60e5/99/image.jpg",
+      "caption": "Eingangbereich"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/482c5f16-5606-46e5-9672-045782c934c5/99/image.jpg",
+      "caption": "Hausansicht"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.369929946465",
+    "longitude": "11.16194442643"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Die Wohnung besteht aus Schlafzimmer, DU/WC, Wohnzimmer mit Küche und Balkon.\nSie können zur Wohnung ein zweites Schlafzimmer dazu mieten. Gratis W-LAN.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Arnika/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "36.00",
+          "maxPrice": "65.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "36.00",
+          "maxPrice": "65.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Die komplett neu renovierte Wohnung besteht aus Vorraum, DU, WC, Schlafzimmer, großem Wohnzimmer, Kochnische und Balkon. Sie können weitere Zimmer mit DU/WC dazu mieten. Gratis W-LAN.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Enzian/1 Schlafräume/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "43.00",
+          "maxPrice": "43.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "43.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "53.00",
+          "maxPrice": "92.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "63.00",
+          "maxPrice": "102.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.st.georg.gnx.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus St. Georg",
+    "streetAddress": "Leutascherstrasse 447",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 4889",
+    "email": "andreaskonrad@aon.at",
+    "url": "http://www.st.georg.gnx.at"
+  },
+  "name": "Haus St. Georg",
+  "description": [
+    "Das Haus St. Georg ist ein dreistöckiges Haus mit Aussicht auf ads beliebte Skigebiet Rosshütte. Das Haus verfügt über drei Ferienwohnungen mit einer Kapazität von 2-4 Personen. Wir bieten Ihnen ein familiäres Ambiente. Zum Zentrum sind es nur ca. 5 Gehminuten. Shuttlebus eine Gehminute vom Haus entfernt.\n\nÜber Ihr kommen freut sich Familie Konrad",
+    "1. Heizung, Wasser, Strom, Wäsche\n",
+    "Check - In 14.00 Uhr / Check - Out 10.00 Uhr\n\nVon Norden kommend der Münchnerstrasse folgen bis Abzweigung Olympiastrasse Richtung westen danach rechts auf Leuitascherstrasse abbiegen, 200m folgen, links Auffahrt Haus St. Georg. Von Süden kommend Seefeld Mitte Andreas Hoferstrasse Verlängerung Olympiastrasse. Rechts auf Leutascherstrasse abbiegen, 200 m folgen, links auffahrt Haus St. Georg."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f28bb487-0e4a-4709-9f72-61d89240b502/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/112b96e3-5380-4395-977a-b0ac7e5d9505/99/image.jpg",
+      "caption": "Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3303882184395",
+    "longitude": "11.1799728870392"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Die neu renovierte Ferienwohnung von ca. 70 m² bietet eine Kapazität von 2-4 Personen. KücheBad/WC und Schlafzimmer sind harmonisch zeitgerecht liebevoll eingerichtet. Ein Wohnzimmer mit TV und herrlichem Ausblick vom Balkon erwarten Sie.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "NR. 1 App./1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Die Ferienwohnung von ca. 70 m² bietet eine Kapazität von 2-4 Personen. Küche, Bad/WC und Schlafzimmer sind liebevoll eingerichtet. Ein Wohnzimmer mit TV und herrlichem Ausblick vom Balkon erwarten Sie.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Nr. 2 App./1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Die Ferienwohnung von ca. 70 m² bietet eine Kapazität von 2-4 Personen. Küche, Bad/WC und Schlafzimmer sind liebevoll eingerichtet. Ein Wohnzimmer mit TV und herrlichem Ausblick vom Balkon erwarten Sie.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Nr. 3./1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

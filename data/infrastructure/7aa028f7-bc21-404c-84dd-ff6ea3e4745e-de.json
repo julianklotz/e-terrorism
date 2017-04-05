@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CafeOrCoffeeShop"
+  ],
+  "name": "Café Irene",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3688645997271",
+    "longitude": "11.1437249026551"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Landhaus Irene",
+    "streetAddress": "Kirchplatzl 128 c",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6747",
+    "faxNumber": "(0043) 5214 6747 10",
+    "email": "mail@landhaus-irene.at",
+    "url": "http://www.landhaus-irene.at"
+  },
+  "description": "Sitzplätze für ca. 30 Personen",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/12c27644-9196-430e-b4c1-63544eb9c4f1/99/image.jpg",
+      "caption": "irene"
+    }
+  ],
+  "url": [
+    "http://www.landhaus-irene.at"
+  ]
+}

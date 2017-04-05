@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BarOrPub",
+    "SkiResort"
+  ],
+  "name": "Fledermaus/Bar",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3289847653576",
+    "longitude": "11.1884486675262"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Fledermaus",
+    "streetAddress": "Bahnhofstr. 242",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 4252272",
+    "email": "info@fledermaus-seefeld.at",
+    "url": "http://www.fledermaus-seefeld.at"
+  },
+  "description": "Sitzplätze für ca. 60 Personen\n\nFLEDERMAUS CAFÈ COCKTAIL-BAR SEEFELD – Eine (Nightlife) Inspiration für alle Besucher\n\nDie gute Laune ist wieder zurück im Zentrum von Seefeld. Der neue Treffpunkt präsentiert sich tagsüber als trendiges Café und abends als fantastische Cocktailbar. In der Fledermaus sind Sie immer gut aufgehoben. Super nettes Personal und gute Musik. Die Bandbreite an perfekt geshakten, gerührten und gemixten Cocktails ist riesig. Für jede Stimmung gibt´s den richtigen Drink. Dazu kommen noch jede Menge Spaß \u0026 Action direkt an der Showbar.\n\nVon Féte Blanche und Boogie Night zu FireWaterBurn - Ständig wechselnden Events begeistern das bunt gemischte Publikum. Dabei geben sich Österreichs beste Showbarkeeper die Klinke in die Hand und zeigen all ihr Können. Die Fledermaus ist Ausgehen leicht gemacht. Einfach ausprobieren!",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3363aa20-b316-49e5-a7a2-1248529f044c/99/image.jpg",
+      "caption": "Fledermaus"
+    }
+  ],
+  "url": [
+    "http://www.fledermaus-seefeld.at"
+  ]
+}

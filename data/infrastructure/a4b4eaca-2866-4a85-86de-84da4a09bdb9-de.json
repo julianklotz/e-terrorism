@@ -1,0 +1,26 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "ClothingStore",
+    "Store"
+  ],
+  "name": "NKD",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "NKD",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 52595",
+    "url": "http://www.nkd.com"
+  },
+  "url": [
+    "http://www.nkd.com",
+    "http://www.nkd.com"
+  ]
+}

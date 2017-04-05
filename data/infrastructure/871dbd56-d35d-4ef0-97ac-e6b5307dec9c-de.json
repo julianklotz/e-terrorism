@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LocalBusiness"
+  ],
+  "name": "Schneiderei Caroline\u0027s Nähstüberl",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2980990884033",
+    "longitude": "11.2050226320159"
+  },
+  "openingHours": [
+    "Mon,Tue,Wed,Thu,Fri 08:00-12:00"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Caroline\u0027s Nähstüberl",
+    "streetAddress": "Römerstraße 28/1",
+    "addressLocality": "Reith bei Seefeld",
+    "postalCode": "6103",
+    "addressCountry": "AT",
+    "telephone": "(0043)664 1560097"
+  },
+  "description": [
+    "Änderungen jeder Art, Stickereien auf Trachtenhemden, Logos aufsticken uvm.\n\nRömerstr. 52\nTel.: +43 664/15 60 097",
+    "Änderungen jeder Art, Stickereien auf Trachtenhemden, Logos aufsticken uvm.\n\nRömerstr. 52\nTel.: +43 664/15 60 097"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1d78d3f2-77ce-4995-b68a-f1d41e620449/99/image.jpg",
+      "caption": "Foto"
+    }
+  ]
+}

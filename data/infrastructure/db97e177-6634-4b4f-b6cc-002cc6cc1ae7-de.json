@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Church"
+  ],
+  "name": "Florianikapelle",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3880248027755",
+    "longitude": "11.2650632858276"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Informationsbüro Scharnitz",
+    "streetAddress": "Innsbrucker Str. 282",
+    "addressLocality": "Scharnitz",
+    "postalCode": "6108",
+    "addressCountry": "AT",
+    "telephone": "+4350880540 ",
+    "faxNumber": "+4350880541",
+    "email": "info.scharnitz@seefeld.com",
+    "url": "http://www.seefeld.com"
+  },
+  "description": [
+    " ",
+    "Kapelle zur Ehren der Feuerwehr Scharnitz"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/fb16f26a-1df6-4877-bcda-e42d6161278d/99/image.jpg",
+      "caption": "Florianikapelle"
+    }
+  ],
+  "url": [
+    "http://www.seefeld.com"
+  ]
+}

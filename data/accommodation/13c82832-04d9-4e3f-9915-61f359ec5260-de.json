@@ -1,0 +1,61 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Föhrenwald - Top 10",
+    "streetAddress": "Hocheggstr. 489 / Top 10",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043)6503325440",
+    "email": "cmahlmann@gmx.de"
+  },
+  "name": "Haus Föhrenwald - Mahlmann Claudia",
+  "description": "Das Haus Föhrenwald in der Hocheggstraße 489 liegt in sehr ruhiger Lage. In 5 Minuten ist das Zentrum zu Fuß bequem erreichbar. Ski- und Shuttlebushaltestelle ist in unmittelbarer Nähe. Das Haus verfügt über einen großen Garten und einen Autoabstellplätze!",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4f756ea4-3959-45cb-b728-785307947324/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3c07467b-64d6-4c43-a1d0-0579fb3af5ee/99/image.jpg",
+      "caption": "Winter"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3275667308455",
+    "longitude": "11.1962270736694"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.nairz.net",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Ferienwohnungen Nairz",
+    "streetAddress": "Weidach 308 c",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6000",
+    "faxNumber": "(0043) 5214 20347",
+    "email": "annelies.nairz@aon.at",
+    "url": "http://www.nairz.net"
+  },
+  "name": "Ferienwohnungen Nairz",
+  "description": [
+    "Unser Haus mit den zwei Ferienwohnungen ist im Ortsteil Oberweidach 5 Gehminuten vom Dorfzentrum entfernt, liegt außerdem sehr ruhig, da es nicht an der Straße ist. Es ist der ideale Ausgangspunkt für kleine Spaziergänge und große Wanderungen. Die Loipe ist direkt hinter dem Haus. Wir bitten unsere Gäste in den Wohnungen nicht zu rauchen.",
+    "Im Sommer freier Eintritt ins Alpenbad. \nKinderermäßigung  bis 100%.\nSie können zu jeder Wohnung ein zusätzliches Zimmer mieten.",
+    "Sie fahren vom Infobüro Weidach Richtung Alpenbad und finden uns nach ca. 350m rechts hinter dem Haus Bergkranz."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/38eb8093-9594-43bb-a816-eb9ecb65d934/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5670a602-77ad-4005-8164-59228e9542a3/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e77d7e92-44a1-464f-b8ba-b5c6976dd574/99/image.jpg",
+      "caption": "Terrasse"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/dd55f1e5-c507-487e-9ae1-e9d144158f32/99/image.jpg",
+      "caption": "Garten"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7e7c0adc-7eac-479a-8511-868ffa72ba04/99/image.jpg",
+      "caption": "Hausansicht"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.370273917087",
+    "longitude": "11.161572517653"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Vorraum, DU/WC, Dreibettschlafzimmer sowie einem Wohnzimmer mit Kochecke;\nBalkon an der Sonnenseite. Gratis W-LAN.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Katzenkopf/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "40.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "40.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "48.00",
+          "maxPrice": "89.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "56.00",
+          "maxPrice": "98.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Vorraum, DU/WC, Doppelzimmer sowie einem Wohnzimmer mit Kochnische;\nBalkon an der Sonnenseite. Gratis W-LAN.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Hohe Munde/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "45.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "43.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "51.00",
+          "maxPrice": "89.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "59.00",
+          "maxPrice": "98.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

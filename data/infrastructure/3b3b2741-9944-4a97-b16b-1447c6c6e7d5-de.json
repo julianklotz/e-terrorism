@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "TouristAttraction"
+  ],
+  "name": "Hohe Gleirsch, 2.492 m / Weg Nr. 221",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Informationsbüro Scharnitz",
+    "streetAddress": "Innsbrucker Str. 282",
+    "addressLocality": "Scharnitz",
+    "postalCode": "6108",
+    "addressCountry": "AT",
+    "telephone": "+4350880540 ",
+    "faxNumber": "+4350880541",
+    "email": "info.scharnitz@seefeld.com",
+    "url": "http://www.seefeld.com"
+  },
+  "description": [
+    " ",
+    "Strecke: Scharnitz – Gleirschhöhe – Gleirschtal – Amtsäge – Gleirscher Riegelkar – Hoher Gleirsch\n– Sagkopf – Amtsäge – Scharnitz\nGehzeit: ca. 8 Stunden mit Rad\nDer Hausberg von Scharnitz bietet Ihnen einen herrlichen Ausblick über alle Gipfel und Täler des\nwestlichen Karwendels. Eine andere Variante wäre es, das Bergradeln und das Bergsteigen miteinander\nzu kombinieren und bis zur Amtsäge mit dem Rad zu fahren. So spart man sich eine\nnicht unbeträchtliche Dauer an Gehzeit! Vom Informationsbüro aus über die Brücke vor der Kirche\nlinks abbiegen und der Hinterautalstraße folgen. Vorbei am Wanderparkplatz in Richtung Gasthof\nWiesenhof. Der Forststraße folgen Sie bis zur Gleirschhöhe, dort halten Sie sich rechts und kommen\nüber den sogenannten Krapfen durch das Gleirschtal zur Amtsäge. Hier können Sie Ihr Rad\nparken und steigen auf dem markierten Weg zum Hohen Gleirsch auf."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0e786391-93ea-42de-b7d8-4a30beef32aa/99/image.jpg",
+      "caption": "Hoher Gleirsch"
+    }
+  ],
+  "url": [
+    "http://www.seefeld.com"
+  ]
+}

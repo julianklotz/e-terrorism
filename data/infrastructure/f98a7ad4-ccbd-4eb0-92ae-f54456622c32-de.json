@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation"
+  ],
+  "name": "Segway Tirol",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Segway Tirol",
+    "streetAddress": "Waldrasterweg 13",
+    "addressLocality": "Mieders",
+    "postalCode": "6142",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 3420702",
+    "url": "http://www.segway-tirol.info"
+  },
+  "description": [
+    "Wählen Sie aus den vielfältigen Angeboten und lassen Sie sich faszinieren bei einer sapnnenden und erlebnisreichen Tour oder einem Event mit der Familie, Freunden oder Mitarbeitern auf den Segways im Segway Park Tirol der Olympiaregion Seefeld.",
+    "Winterzauber Segway-Schneeketten-Tour: Mit dem Lifestyle-Roller durch die verzauberte Winterwelt der Alpen bei Segway Tirol in Seefeld. Preis: € 99,- pro Person\nRomantische Segway-Fackelfahrt: Bei dieser Tour starten wir erst bei Einbruch der Dämmerung. Preis: € 69,- pro Person\nSegway Tirol - Touren und Events nach eigenen Wünschen\n"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a60244ae-9d7a-4a11-89e8-5469b8dc6018/99/image.jpg",
+      "caption": "Segway Tirol"
+    }
+  ],
+  "url": [
+    "http://www.segway-tirol.info"
+  ]
+}

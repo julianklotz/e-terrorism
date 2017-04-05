@@ -1,0 +1,60 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "4. Winter Party Seefeld - \"Schlager Nacht\" im Stadl-Erdinger Urweisse Hütt´n",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Starmaker GmbH",
+    "employee": {
+      "@type": "Person",
+      "givenName": "Bettina",
+      "familyName": "Moncher"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Möserer Dorfstr. 11",
+      "addressLocality": "Mösern",
+      "postalCode": "6100",
+      "addressCountry": "AT",
+      "telephone": "+43676845725200",
+      "email": "b.moncher@starmaker.at",
+      "url": "http://www.starmaker.at"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Starmaker GmbH",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Möserer Dorfstr. 11",
+      "addressLocality": "Mösern",
+      "postalCode": "6100",
+      "addressCountry": "AT",
+      "telephone": "+43676845725200",
+      "email": "b.moncher@starmaker.at",
+      "url": "http://www.starmaker.at"
+    }
+  },
+  "description": "Programm: Präsentiert von POWER BALL: Schlagersahne vom Feinsten ist bei der \"mega fetten\" Schlagerparty im Winterparty-Stadl angesagt. Österreichs Top Schlager Band \"Nordwand\" sorgt dafür, dass jeder Bursche mit seiner Zuckerpuppe das Tanzbein schwingt. Eintritt frei! Details auf www.winterparty.at.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b1081c9f-e5ad-4d94-858b-acaedf05339f/99/image.jpg",
+      "caption": "Andreas Gabalier"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/88ba3290-5590-4644-b2b9-a8d7007b3d3a/99/image.jpg",
+      "caption": "Party Stadl"
+    }
+  ],
+  "url": [
+    "http://www.winterparty.at",
+    "http://www.powerball-austria.at"
+  ],
+  "startDate": "2017-03-02T12:00:00",
+  "endDate": "2017-03-02"
+}

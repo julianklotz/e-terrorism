@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant",
+    "CafeOrCoffeeShop"
+  ],
+  "name": "Vitalhotel Kaiserhof",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3122797",
+    "longitude": "11.1533893000001"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Vitalhotel Kaiserhof",
+    "streetAddress": "Albrecht-Dürer-Weg 9",
+    "addressLocality": "Mösern",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "+43521252509",
+    "faxNumber": "+435212525099",
+    "email": "info@vitalhotel-kaiserhof.at",
+    "url": "http://www.vitalhotel-kaiserhof.at"
+  },
+  "description": "Sitzplätze für ca. 120 Personen",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7164113f-45a5-4242-8d50-d5350f5b57f4/99/image.jpg",
+      "caption": "Kaiserhof"
+    }
+  ],
+  "url": [
+    "http://www.vitalhotel-kaiserhof.at"
+  ]
+}

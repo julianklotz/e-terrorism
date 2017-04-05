@@ -1,0 +1,109 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://appartment-seefeld.webnode.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Alpenland",
+    "streetAddress": "Hermannstalstr. 529 / Top 23",
+    "addressLocality": "Seefeld in Tirol",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 69918144854",
+    "email": "carmen.dejakum@inzingvolley.com",
+    "url": "http://appartment-seefeld.webnode.at"
+  },
+  "name": "Haus Alpenland - Appartement Mair Lukas",
+  "description": [
+    "Meine Unterkunft ist in der Nähe vom Zentrum Seefeld, dem Skiresort Rosshütte, Restaurants und Essen, dem See, Golfplatz, Nachtleben und Bahnhof. Du wirst meine Unterkunft lieben wegen dem Hallenbad und der Sauna im Haus und der gemütlichen Einrichtung. Meine Unterkunft ist gut für Paare, alleinreisende Abenteurer und Familien (mit einem Kind).\n\nDas Appartment wurde gerade neu renoviert und saniert. Auch das Hallenbad und die Sauna sind kürzlich renoviert worden, in einem top Zustand und für alle Gäste nutzbar. Die Wohnung verfügt über eine Küche, ein Badezimmer mit begehbarer Dusche und einem Wohn-Schlafraum. Sie beträgt etwa 30m2 und enthält alles, was man für einen Urlaub in Seefeld braucht. Kaffeemaschine, Geschirrspülmaschine, Herd und großer Kühlschrank werden Sie vorfinden, genauso wie Bettwäsche, Handtücher und Toilettenpapier.",
+    "Rauchen verboten\nHaustiere auf Anfrage erlaubt",
+    "Check in: 11 Uhr\nCheck out: 14 Uhr\n\nGerne stehe ich für alle Fragen zur Verfügung, falls Anreise und Abreisezeiten abweichen."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5717e8e4-0a55-4b2d-8219-1911655c970d/99/image.jpg",
+      "caption": "Haus Alpenland Top 23"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/bfbec320-bfc8-41e5-a5d2-d75b8f28eb7e/99/image.jpg",
+      "caption": "Ausblick Fenster, Haus Alpenland Top 23"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6c889bc0-139e-4ea7-a99e-96ef7b9cfea8/99/image.jpg",
+      "caption": "Hallenbad, Haus Alpenland Top 23"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e98a9c63-b896-4875-b1c0-3f557ac8c674/99/image.jpg",
+      "caption": "Sauna, Haus Alpenland Top 23"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5b3bfb90-2b28-4db3-87a4-259f6dfcf6db/99/image.jpg",
+      "caption": "Hallenbad, Haus Alpenland Top 23"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a3d9c674-c8e0-41c8-b203-be5e2434d010/99/image.jpg",
+      "caption": "Hallenbad, Haus Alpenland Top 23"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5cce0af1-1842-41c0-afb7-d9709f82a81e/99/image.jpg",
+      "caption": "Sauna__Haus_Alpenland_Top_23"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.33466",
+    "longitude": "11.1933874"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, Wohn-/Schlafraum",
+      "description": "Die Wohnung verfügt über eine Küche, ein Badezimmer mit begehbarer Dusche und einem Wohn-Schlafraum. Sie beträgt etwa 30m2 und enthält alles, was man für einen Urlaub in Seefeld braucht. Kaffeemaschine, Geschirrspülmaschine, Herd und großen Kühl- und Gefrierschrank werden Sie vorfinden, genauso wie Bettwäsche, Handtücher und Toilettenpapier.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement/Fewo, Dusche, WC, Wohn-/Schlafraum",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "50.00",
+          "maxPrice": "99.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "50.00",
+          "maxPrice": "99.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

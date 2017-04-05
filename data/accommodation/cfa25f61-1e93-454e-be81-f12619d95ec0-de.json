@@ -1,0 +1,83 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.landhausbirke.com",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Landhaus Birke",
+    "streetAddress": "Weidach 323",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 8851 1366",
+    "email": "landhausbirke@yahoo.de",
+    "url": "http://www.landhausbirke.com"
+  },
+  "name": "Landhaus Birke",
+  "description": [
+    "Unser Landhaus befindet sich im Ortsteil Weidach, in unmittelbarer Nähe von Geschäften, Restaurants und Cafés sowie von Spazier- und Wanderwegen und Langlaufloipen.  Zentrale, jedoch auch ruhige Lage. Idealer Ausgangspunkt für ihre sportlichen Aktivitäten - Sommer wie Winter! Der große, sonnige Balkon lädt zum Verweilen und Träumen ein! NICHTRAUCHERHAUS!",
+    "Inklusive: Strom, Wasser, Heizung, Bett- u. Tischwäsche\nExklusive: Endreinigung, Ortstaxe"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ed9e8177-ec06-4af3-a0bb-c8d3c417edb4/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3ae1b633-f59b-4d41-a3c4-f6c88f18ad69/99/image.jpg",
+      "caption": "Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.372011521269",
+    "longitude": "11.165383157524"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "2 FW für 2-3 Pers, Schlafzimmer, Wohnraum mit Kochnische, Dusche/WC, Sat-Tv, Safe, Balkon, Garage; modern rustikal eingerichtet.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "65.00",
+          "maxPrice": "90.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "65.00",
+          "maxPrice": "90.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

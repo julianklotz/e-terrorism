@@ -1,0 +1,25 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure"
+  ],
+  "name": "Reinigung Tip-Top",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3299591875173",
+    "longitude": "11.1897897720337"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Tip-Top",
+    "streetAddress": "Andreas-Hofer-Str. 292",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2044"
+  },
+  "description": [
+    " ",
+    "Reinigung sowie SB Münzwaschmaschinen u. -trockner"
+  ]
+}

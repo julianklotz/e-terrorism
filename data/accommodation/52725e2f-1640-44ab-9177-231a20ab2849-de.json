@@ -1,0 +1,235 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.appartement-solstein.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Appartementhaus Solstein",
+    "streetAddress": "Münchnerstr. 700",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 3046",
+    "faxNumber": "(0043) 5212 30466",
+    "email": "info@appartement-solstein.at",
+    "url": "http://www.appartement-solstein.at"
+  },
+  "name": "Appartementhaus Solstein",
+  "description": [
+    "Das  Appartementhaus  liegt in sonniger Lage direkt an der Münchner Strasse. Die großzügigen Appartements für 2-6 Personen verfügen über Balkon oder Terrasse. Frühstück wird auf Wunsch  angeboten.\nVom Appatementhaus Solstein erreichen Sie in 5 Gehminuten die Talstation der Rosshütten-Bahn, das Ortszentrum und die Kinderskischule am Geigenbühel sowie Ausgangspunkte vieler interessanter Wanderungen. Da sich das Appartementhaus in der Nähe des Hotel Solstein befindet, haben Sie die Möglichkeit, diverse Leistungen des Hotelangebotes mit zu nutzen.",
+    "Als Appartementgast können Sie das Wellnessangebot des Hotel Solstein kostenlos nützen. Zudem sind folgende Leistungen inbegriffen: Bettwäsche, Handtücher, Strom, Internet, Wasser und Heizung sowie ein Autoabstellplatz. Die Endreingung, Telefon, Ortstaxe, Frühstück oder Halbpension gegen Gebühr.\nPreis für Normalbelegung, jede weitere Person Euro 10,- extra pro Tag!\n",
+    "Das Appartementhaus liegt leicht erreichbar an der Münchner Straße. Direkt am Haus befinden sich ausreichend Parkplätze. Wir bitten Sie die Check-In-Zeit von 15.00 Uhr zu beachten. Sollte der Zeitpunkt Ihrer Anreise nach 19 Uhr erfolgen, bitten wir um telefonische Nachricht. Check-Out ist um 10.00 Uhr.\n\n"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "reviewCount": "55"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/62d6b67d-5f0b-484f-993a-2cadce6800f3/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/449d5c3d-0aa7-42ea-a37c-a40e73f4b65d/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3c36dcfe-3054-48b8-a2df-6ad3de4a2c34/99/image.jpg",
+      "caption": "Sommer 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/31fac16b-2fc8-4403-8aa1-ad101bb9ad7b/99/image.jpg",
+      "caption": "Winter 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a5df192d-0731-4cc3-a8d9-48e34e5e262a/99/image.jpg",
+      "caption": "Winter Ansicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c71e52c1-184b-4727-b6d1-cfdb3bb1b830/99/image.jpg",
+      "caption": "Winter 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7ccb1d6b-b861-46be-9dc4-714344e54528/99/image.jpg",
+      "caption": "Winter Seitenansicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2263c324-da4f-49ed-bd4c-92a9224a68a7/99/image.jpg",
+      "caption": "Eingang"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/22229410-fa7c-4d4f-9db1-54fba4324860/99/image.jpg",
+      "caption": "Frühstücksraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ef456be8-098e-4a7b-9e6b-56c967942d32/99/image.jpg",
+      "caption": "Frühstücksbuffet"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e47bcbfe-06b9-484e-845e-40a6652bdb15/99/image.jpg",
+      "caption": "Stiegenaufgang"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/32a8e749-3c9e-4e8b-bb2a-c6fc61bacdab/99/image.jpg",
+      "caption": "Ausblick"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3353836270319",
+    "longitude": "11.1931049823761"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 2 Schlafräume",
+      "description": "App. mit 1 Doppelzimmer + 1 Doppelzimmer mit getrennten Betten + 1 Wohn-Schlafzimmer\n\nPreis für Normalbelegung (4 Personen), jede weitere Person Euro 10,- extra pro Tag!",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Hohe Munde Typ A",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "4"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "105.00",
+          "maxPrice": "999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "10.00",
+          "maxPrice": "999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "10.00",
+          "maxPrice": "999.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 2 Schlafräume",
+      "description": "App. mit 1 Doppelzimmer + 1 Einzelzimmer + 1 Wohnraum\n\nPreis für Normalbelegung (3 Personen), jede weitere Person Euro 10,- extra pro Tag!",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Gschwandtkopf Typ B",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "3"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "90.00",
+          "maxPrice": "132.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "0.00",
+          "maxPrice": "132.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "0.00",
+          "maxPrice": "132.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 1 Schlafraum",
+      "description": "App. mit 1 Schlafzimmer + 1 Wohn-Schlafzimmer\n\n\nPreis für Normalbelegung (2 Personen), jede weitere Person Euro 10,- extra pro Tag!",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Wetterstein",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "70.00",
+          "maxPrice": "110.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "0.00",
+          "maxPrice": "110.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "0.00",
+          "maxPrice": "110.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

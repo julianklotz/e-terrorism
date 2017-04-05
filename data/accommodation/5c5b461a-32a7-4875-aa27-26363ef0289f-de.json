@@ -1,0 +1,195 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.app-anka.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Appartementhaus Anka",
+    "streetAddress": "Reitherspitzstr. 769",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 4572",
+    "faxNumber": "(0043) 5212 4572 27",
+    "email": "info@app-anka.at",
+    "url": "http://www.app-anka.at"
+  },
+  "name": "Appartementhaus Anka",
+  "description": [
+    "komfortable 2-Zimmer-Appartements für 2-4 Personen 40 m² (Schlafcouch im Wohnzimmer) mit sonnigen Balkon, Bad mit Dusche und WC, Kochzeile, Satelliten - TV, Radio, Telefon, kostenloser Internetzugang, DVD-Player und Filme gratis, Autoabstellplatz beim Haus.",
+    "\nUm die Reservierung endgültig zu bestätigen, ist (in der Saison) eine Accontozahlung nötig.",
+    "\nsie können gerne zwischen 14:00 und 18:00 uhr ihr appartement beziehen - sollten sie einen anderen wunsch haben, bitte per email oder telefon anfragen - geht nicht gibt`s nicht - wir erfüllen fast jeden wunsch - DANKE!!!!!!!!!!!!!",
+    "Appartements Seefeld, Ferienwohnung, Unterkunft, Appartements"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "reviewCount": "34"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7d559b3a-ac32-4ab1-9e9f-1f381507cca1/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/92fb5226-81aa-4864-9ce9-23cd41fffc2a/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b007122f-ff85-489f-a6b6-1c61f8dcfc32/99/image.jpg",
+      "caption": "anka_wohnraum_008"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f2ea4b3a-93f1-4303-a7e8-625932b6de77/99/image.jpg",
+      "caption": "anka_wohnraum_001"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/183bac7f-bb90-48e4-a3d1-6d6dc1ff78ac/99/image.jpg",
+      "caption": "anka_schlafzimmer_001"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/fd1423be-2e1c-4b42-b28c-2d960b352023/99/image.jpg",
+      "caption": "Unbenanntes_Panorama7"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/76c67be9-6f6b-43c5-931d-749a9d055c10/99/image.jpg",
+      "caption": "Hausgang"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0fbdff69-eaae-4044-ae47-334d60199615/99/image.jpg",
+      "caption": "Haus Anka (1)"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/21b612f6-f989-435c-8316-813e5a1f2ffc/99/image.jpg",
+      "caption": "Zimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ddfdc8d0-6032-41ba-807a-330b30ae146f/99/image.jpg",
+      "caption": "neu 194"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/079e664e-67ff-405b-8a60-406d35256f33/99/image.jpg",
+      "caption": "Sommer 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d52697ee-1c38-44f4-89a8-133419f740d4/99/image.jpg",
+      "caption": "Winter 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9df2772c-d5b5-4458-8b25-ff7ffec47015/99/image.jpg",
+      "caption": "Aussicht Golfplatz"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2da778e9-9147-447a-9264-bbb1fe026734/99/image.jpg",
+      "caption": "IMG_0082"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d9bd2e30-3a53-45d0-9591-499fe566d1b0/99/image.jpg",
+      "caption": "IMG_0083"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/28b28e25-6700-4f7a-811a-53732893a361/99/image.jpg",
+      "caption": "IMG_0086"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/15a8a085-8558-4522-b414-e8256e7f1703/99/image.jpg",
+      "caption": "STA_0066"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a23c8602-0073-4566-90ab-18ddb5b65381/99/image.jpg",
+      "caption": "DSC_0086"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d675d8d5-a061-4ec5-b19c-c50621092f5a/99/image.jpg",
+      "caption": "DSC_0088"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5bc2d8eb-e218-4b1a-958c-d0be3bb223cc/99/image.jpg",
+      "caption": "DSC_0092"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3264031869145",
+    "longitude": "11.1935287714005"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "\n2-Zimmer - App. 40 m² (Schlafzimmer mit Doppelbett / Wohnzimmer mit Joka-Doppelcouch) vollständig eingerichtet inkl. Bettwäsche und Handtücher. Wlan-Internetzugang, DVD-Player, Radio,  Sat-TV, Tel....",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "55.00",
+          "maxPrice": "110.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "55.00",
+          "maxPrice": "110.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "65.00",
+          "maxPrice": "120.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "75.00",
+          "maxPrice": "130.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

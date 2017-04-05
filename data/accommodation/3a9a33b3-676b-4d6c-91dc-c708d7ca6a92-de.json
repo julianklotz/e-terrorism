@@ -1,0 +1,21 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Excellsior",
+    "streetAddress": "Am Kirchwald 688 / Top 24",
+    "addressLocality": "Seefeld in Tirol",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0039) 0348 1513448",
+    "email": "segreteria@studiocostanza.com"
+  },
+  "name": "ZW-Dragotta Midulla Orietta",
+  "currenciesAccepted": "EUR"
+}

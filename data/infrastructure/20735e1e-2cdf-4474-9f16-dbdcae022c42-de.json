@@ -1,0 +1,21 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "PostOffice"
+  ],
+  "name": "Postservicestelle Scharnitz",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3905032936478",
+    "longitude": "11.2649526318078"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Tankstelle WR GmbH",
+    "streetAddress": "Innsbrucker Str. 464",
+    "addressLocality": "Scharnitz",
+    "postalCode": "6108",
+    "addressCountry": "AT"
+  },
+  "description": "Tankstelle Reinpold Mo-Fr 7.00 bis 13.00 Uhr\n"
+}

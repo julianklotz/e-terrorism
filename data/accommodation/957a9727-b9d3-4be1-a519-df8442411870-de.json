@@ -1,0 +1,216 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.voestlhof.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Vöstlhof",
+    "streetAddress": "Platzl 112",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 676 6833865",
+    "email": "voestlhof-leutasch@hotmail.com",
+    "url": "http://www.voestlhof.at"
+  },
+  "name": "Vöstlhof",
+  "description": [
+    "Genießen Sie die einzigartige Lage des Vöstlhofs!\nNur von Natur umgeben, bietet der Vöstlhof die perfekte Voraussetzung für einen entspannten Urlaub für die ganze Familie.\n\nUnsere Ferienwohnungen sind ca. 50 m² groß und bieten reichlich Platz für 2 – 4 Personen. Sie sind mit einer voll ausgestatteten Küche, einem Wohnraum mit Flachbild Fernseher, einem abgetrennten Schlafzimmer und Bad mit Dusche/WC eingerichtet.\n\nJede Wohnungen verfügt über einen sonnigen Balkon. Weiters im Preis inbegriffen ist ein überdachter Parkplatz sowie die Nutzung unseres W-LAN.\n\nWir bieten nach Wunsch täglich (außer Sonn- und Feiertagen) frisches Brot vom örtlichen Bäcker und die Möglichkeit der Waschmaschinennutzung an.",
+    "Die Preise unserer Ferienwohnungen verstehen sich pro Tag /Wohnung für zwei Personen.\nKinder/zusätzliche Personen:\nbis 2 Jahre: frei\n3-6 Jahre: € 8,–\n7-15 Jahre: € 10,–\nzusätzliche Person ab 16 Jahre: € 15,– pro Tag\ngut erzogene Hunde € 10,– pro Tag\nBei einem Aufenthalt ab 10 Tage zahlen Sie 5% weniger!\nIm Preis noch nicht berücksichtigt ist die Endreinigung und die Kurtaxe ",
+    "Check - In 14:00 / Check - Out 10:00\n\nhttp://voestlhof.at/anreise/\n"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8b9988c6-048d-4f4b-82ad-433f5dcd0937/99/image.jpg",
+      "caption": "Sommer Außenansicht Vöstlhof"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4a90bb68-fc32-47d3-8d35-6db501f5bc5e/99/image.jpg",
+      "caption": "Logo"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d96e9874-87bb-47fe-a263-4c63763cea5a/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3f232d6b-c97c-4a93-aaf6-a9d4058179ba/99/image.jpg",
+      "caption": "Wohn- und Essbereich Ferienwohnung Hohe Munde"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/49b6c26b-84b6-406e-a125-fcb65376ab07/99/image.jpg",
+      "caption": "Badezimmer Ferienwohnung Hohe Munde"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f5d1d3d0-bca0-40d6-9984-80f93d008bc8/99/image.jpg",
+      "caption": "Badezimmer Ferienwohnung Hohe Munde"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0610765b-642f-403a-b248-7465228964db/99/image.jpg",
+      "caption": "Zirbenschlafzimmer Ferienwohnung Hohe Munde"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1ec3688f-aeff-44d3-99f4-5b7685fd296b/99/image.jpg",
+      "caption": "Zirbenschlafzimmer Ferienwohnung Hohe Munde"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1088b6b8-92c2-4a02-b4de-b1b014c060cf/99/image.jpg",
+      "caption": "Wohnbereich Ferienwohnung Hohe Munde"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/dbfded78-227c-482f-80b5-6e8110f33c6e/99/image.jpg",
+      "caption": "Küche Ferienwohnung Hohe Munde"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b492ccf9-8db6-4b79-a074-726b8603281a/99/image.jpg",
+      "caption": "Vöstlhof Eingang 002"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2e2ea25d-c987-43f0-baaf-50d9571664ed/99/image.jpg",
+      "caption": "Vöstlhof Garten mit Spielplatz"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/840c611f-48be-45a4-a865-6906c4b5673e/99/image.jpg",
+      "caption": "Vöstlhof Spielplatz"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3ef0d6a4-ca35-4e56-9553-68fdfc131a41/99/image.jpg",
+      "caption": "Schlafzimmer Comfort Apartment"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/dedb0147-61d2-4856-861e-2e9429ac6573/99/image.jpg",
+      "caption": "Badezimmer Comfort Apartment"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0e3e6395-f150-4326-8533-fcc69dbe2448/99/image.jpg",
+      "caption": "Küche Comfort Apartment"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/41887cda-7a09-4e18-a4a2-30540fefa5cc/99/image.jpg",
+      "caption": "Vorraum Comfort Apartment"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7f0b2b4c-a385-4408-ba2c-c97801fcfd1c/99/image.jpg",
+      "caption": "Schlafsofa Comfort Apartment"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/dd16c5ec-0c01-43c5-9f22-2a0c7ab970a7/99/image.jpg",
+      "caption": "Wohn- und Essbereich Comfort Apartment"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/cd0c3a1d-4d25-4fbb-b1de-9ea30c285e7f/99/image.jpg",
+      "caption": "Wohnbereich Comfort Apartment"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1cc01e0d-5252-4c44-8a67-4b6bc0343583/99/image.jpg",
+      "caption": "Vöstlhof Fahrräder-1 (1)"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/47045cc0-8aa8-4c05-ba17-e41477e7bf9d/99/image.jpg",
+      "caption": "Grill mit gemütlicher Sitzmöglichkeit"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8d9b5c15-aa41-406e-86e0-9f3fac510830/99/image.jpg",
+      "caption": "Eingangsbereich"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/bafbee3b-29a9-49fb-9650-67ab914c1b6b/99/image.jpg",
+      "caption": "Spielraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f19b50b1-9340-4773-98a4-3395b33ab370/99/image.jpg",
+      "caption": "Spielraum mit Tischfußball"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/44807f2e-9a8c-4892-be8b-72fa3f330079/99/image.jpg",
+      "caption": "Spielraum mit Flipper"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/80ad460a-7de9-4df0-a8a8-79dfc7f5ce6d/99/image.jpg",
+      "caption": "Skiraum"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.363458572941",
+    "longitude": "11.137490442306"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Unsere Ferienwohnungen sind ca. 50 m² groß und bieten reichlich Platz für 2 – 4 Personen. Sie sind mit einer voll ausgestatteten Küche, einem Wohnraum mit Flachbild Fernseher, einem abgetrennten Schlafzimmer und Bad mit Dusche/WC eingerichtet.\n\nJede Wohnungen verfügt über einen sonnigen Balkon. Weiters im Preis inbegriffen ist ein überdachter Parkplatz sowie die Nutzung unseres W-LAN.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "40.00",
+          "maxPrice": "90.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "50.00",
+          "maxPrice": "105.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "60.00",
+          "maxPrice": "120.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

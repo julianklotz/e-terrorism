@@ -1,0 +1,83 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://web.deskline.net/seefeld/de/show_accommodation/SEE/c4a6ec57-451a-4292-8d37-2f77ba17de61/haus_obernai",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Landhaus Obernai",
+    "streetAddress": "Hermannstalstr.762",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 4101",
+    "faxNumber": "(0043) 5212 4101",
+    "email": "landhaus-obernai@aon.at"
+  },
+  "name": "Landhaus Obernai",
+  "description": [
+    "Das Haus befindet sich in einer ruhigen, sonnigen Lage. Die Haltestelle des kostenlosen Shuttle-Busses liegt nur 300m entfernt. Gehzeit ins Ortszentrum beträgt ca. 10 Minuten.\nEs befindet sich nur eine Ferienwohnung (48m² groß) im Haus.",
+    "INKLUSIVE: Heizung, Strom, Wasser, Bettwäsche, Dusch- und Handtücher\nEXKLUSIVE: Garage",
+    "Check-In 15.00 Uhr | Check-Out 10.30 Uhr\nWeg: Abfahrt Seefeld-Mitte, weiter bis Kreisverkehr - dort rechts abbiegen in den Römerweg und weiter in die Hermannstalstraße und bei Haus Krabacher Einfahrt zu Landhaus Obernai."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d09ae47d-9174-4f01-a6e7-b1938acf181d/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d8a44aaf-5e67-4856-a327-13d1deb92fb6/99/image.jpg",
+      "caption": "Haus Obernai"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/31d6382b-9961-45d2-b53f-fa6bd3602eb3/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a2c45ef5-6001-441a-98e6-d39aabdcb877/99/image.jpg",
+      "caption": "Landhaus Obernai im SOmmer in Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b7450d89-739b-4d32-99d3-27e2d9e836f2/99/image.jpg",
+      "caption": "Landhaus Obernai in Seefeld Garten"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3325333207742",
+    "longitude": "11.1967420578003"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "2-Raum-Appartment, seperate Küche, großes Wohnzimmer, Schlafraum, Vorraum.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Am Ameisenberg 15",
+    "addressLocality": "Oberursel",
+    "postalCode": "61440",
+    "addressCountry": "DE"
+  },
+  "name": "ZW - Scheffler, Claus-Dirk",
+  "currenciesAccepted": "EUR"
+}

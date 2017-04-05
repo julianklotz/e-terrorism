@@ -1,0 +1,33 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure"
+  ],
+  "name": "Parkplatz beim Waldschwimmbad",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3210734312523",
+    "longitude": "11.1905627115784"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Cafe Wildsee",
+    "streetAddress": "Gschwandtweg 9",
+    "addressLocality": "Reith bei Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043)6765113475"
+  },
+  "description": [
+    "1 Stunde - € 1,-\n2 Stunden - € 1,50\nab 3 Stunden - € 4,-\n",
+    "1 Stunde - € 1,-\n2 Stunden - € 1,50\nab 3 Stunden - € 4,-\n",
+    "6.00 - 22.00 Uhr"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f3416542-a05a-4d4f-8a4f-91d446f13494/99/image.jpg",
+      "caption": "Parkplatz"
+    }
+  ]
+}

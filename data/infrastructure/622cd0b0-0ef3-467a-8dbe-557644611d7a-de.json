@@ -1,0 +1,30 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Store",
+    "ToyStore",
+    "BookStore"
+  ],
+  "name": "Tabaktrafik - Alois Gapp Alois",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3717042808869",
+    "longitude": "11.1647486686707"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Weidach 321a",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6286"
+  },
+  "description": "Weidach 321 a\nTel.: +43 5214/6286",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2e660e46-6501-45a3-be2f-cba89c41b1ad/99/image.jpg",
+      "caption": "trafik"
+    }
+  ]
+}

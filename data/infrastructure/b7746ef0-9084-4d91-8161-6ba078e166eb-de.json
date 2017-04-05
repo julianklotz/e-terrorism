@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "HealthAndBeautyBusiness"
+  ],
+  "name": "Kosmetik/Das Hotel Eden",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3308430406514",
+    "longitude": "11.1873945595246"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Das Hotel Eden",
+    "streetAddress": "Münchner Str. 136",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 50495",
+    "faxNumber": "(0043) 5212 50494",
+    "email": "info@eden-seefeld.at",
+    "url": "http://www.eden-seefeld.at"
+  },
+  "description": "Nur mit Terminvereinbarung\nTel.: 05212/50495-782",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9982665d-1410-4edc-850d-43baba25bb0c/99/image.jpg",
+      "caption": "Hotel Eden"
+    }
+  ],
+  "url": [
+    "http://www.eden-seefeld.at"
+  ]
+}

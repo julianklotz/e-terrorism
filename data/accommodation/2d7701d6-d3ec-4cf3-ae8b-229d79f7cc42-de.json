@@ -1,0 +1,20 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Landhaus Almidyll - App. Sergi",
+    "streetAddress": "Wasserfallweg 712",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 3367",
+    "faxNumber": "(0043) 5212 3789",
+    "email": "therese.prettner@aon.at",
+    "url": "http://www.almidyll.at"
+  },
+  "name": "ZW-Sergi Grazia Veronica",
+  "currenciesAccepted": "EUR"
+}

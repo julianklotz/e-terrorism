@@ -1,0 +1,120 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": [
+      "Event"
+    ],
+    "name": "Traditionelles Scharnitzer Speckschiessen",
+    "eventStatus": "http://schema.org/EventScheduled",
+    "organizer": {
+      "@type": "Organization",
+      "name": "",
+      "employee": {
+        "@type": "Person",
+        "givenName": "Walter ",
+        "familyName": "Lechthaler"
+      },
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Feldweg 309",
+        "addressLocality": "Scharnitz",
+        "postalCode": "6108",
+        "addressCountry": "AT",
+        "telephone": "(0043) 650 5534001",
+        "email": "walter.l@compuvos.com",
+        "url": "http://www.sg-scharnitz.com"
+      }
+    },
+    "location": {
+      "@type": "Place",
+      "name": "",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Feldweg 309",
+        "addressLocality": "Scharnitz",
+        "postalCode": "6108",
+        "addressCountry": "AT",
+        "telephone": "(0043) 650 5534001",
+        "email": "walter.l@compuvos.com",
+        "url": "http://www.sg-scharnitz.com"
+      }
+    },
+    "description": "Beim intern. 3-D Turnier im Bogenschießen wird auf 32 Ziele in unbekannter Entfernung geschossen. Weitere Information und Anmeldung unter www.sg-scharnitz.com",
+    "image": [
+      {
+        "@type": "ImageObject",
+        "url": "http://resc.deskline.net/images/SEE/1/ec8b1784-4882-410f-859a-d3c5bc93c6a0/99/image.jpg",
+        "caption": "Schützengilde Scharnitz"
+      },
+      {
+        "@type": "ImageObject",
+        "url": "http://resc.deskline.net/images/SEE/1/89be13f9-ff27-4420-81d2-5d08d624c892/99/image.jpg",
+        "caption": "Piktogramm"
+      }
+    ],
+    "url": [
+      "http://www.sg-scharnitz.com"
+    ],
+    "startDate": "2017-05-27T00:00:00",
+    "endDate": "2017-05-27"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": [
+      "Event"
+    ],
+    "name": "Traditionelles Scharnitzer Speckschiessen",
+    "eventStatus": "http://schema.org/EventScheduled",
+    "organizer": {
+      "@type": "Organization",
+      "name": "",
+      "employee": {
+        "@type": "Person",
+        "givenName": "Walter ",
+        "familyName": "Lechthaler"
+      },
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Feldweg 309",
+        "addressLocality": "Scharnitz",
+        "postalCode": "6108",
+        "addressCountry": "AT",
+        "telephone": "(0043) 650 5534001",
+        "email": "walter.l@compuvos.com",
+        "url": "http://www.sg-scharnitz.com"
+      }
+    },
+    "location": {
+      "@type": "Place",
+      "name": "",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Feldweg 309",
+        "addressLocality": "Scharnitz",
+        "postalCode": "6108",
+        "addressCountry": "AT",
+        "telephone": "(0043) 650 5534001",
+        "email": "walter.l@compuvos.com",
+        "url": "http://www.sg-scharnitz.com"
+      }
+    },
+    "description": "Beim intern. 3-D Turnier im Bogenschießen wird auf 32 Ziele in unbekannter Entfernung geschossen. Weitere Information und Anmeldung unter www.sg-scharnitz.com",
+    "image": [
+      {
+        "@type": "ImageObject",
+        "url": "http://resc.deskline.net/images/SEE/1/ec8b1784-4882-410f-859a-d3c5bc93c6a0/99/image.jpg",
+        "caption": "Schützengilde Scharnitz"
+      },
+      {
+        "@type": "ImageObject",
+        "url": "http://resc.deskline.net/images/SEE/1/89be13f9-ff27-4420-81d2-5d08d624c892/99/image.jpg",
+        "caption": "Piktogramm"
+      }
+    ],
+    "url": [
+      "http://www.sg-scharnitz.com"
+    ],
+    "startDate": "2017-05-28T00:00:00",
+    "endDate": "2017-05-28"
+  }
+]

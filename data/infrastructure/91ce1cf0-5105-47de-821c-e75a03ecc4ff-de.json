@@ -1,0 +1,29 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure"
+  ],
+  "name": "E-Tankstelle Bio- und Wanderhotel Leutascherhof",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3693420695035",
+    "longitude": "11.1625980306885"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Bio- und Wanderhotel Leutascherhof",
+    "streetAddress": "Weidach 305",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6208",
+    "email": "info@leutascherhof.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9dafa5fc-aace-4d7a-8696-d35b24eb46a9/99/image.jpg",
+      "caption": "E-Tankstelle"
+    }
+  ]
+}

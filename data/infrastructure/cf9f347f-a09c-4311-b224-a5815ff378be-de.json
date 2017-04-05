@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure",
+    "LocalBusiness"
+  ],
+  "name": "öffentliche Toilette am Bahnhof Reith",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3015440409002",
+    "longitude": "11.2004877487793"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Bahnhof Reith",
+    "streetAddress": "Bahnhofsweg 4",
+    "addressLocality": "Reith bei Seefeld",
+    "postalCode": "6103",
+    "addressCountry": "AT"
+  },
+  "description": [
+    "immer geöffnet!",
+    "immer geöffnet!"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b1fc5758-c5f7-4996-a42b-995f34d787d6/99/image.jpg",
+      "caption": "Bild"
+    }
+  ]
+}

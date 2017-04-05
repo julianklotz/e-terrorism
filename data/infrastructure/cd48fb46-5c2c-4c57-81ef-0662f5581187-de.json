@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "HealthAndBeautyBusiness"
+  ],
+  "name": "Mobile Physiotherapie, Ursula Kosso",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "addressCountry": "  ",
+    "telephone": "0043/  664 5162199",
+    "url": "http://www.seefeld-physiotherapie.at"
+  },
+  "description": "Mobile Physiotherapie bei Ihnen zu Hause. Termine nach telefonischer Vereinbarung.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/16832102-9901-4382-8784-ca8523bf9952/99/image.jpg",
+      "caption": "Kosso1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/be5daefc-754e-4efa-8d7c-62940e83d330/99/image.jpg",
+      "caption": "Piktogramm"
+    }
+  ]
+}

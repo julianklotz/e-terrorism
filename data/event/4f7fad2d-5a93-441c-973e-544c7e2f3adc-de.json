@@ -1,0 +1,51 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "Vernissage der Galerie \"Engelart\"",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Interalpen-Hotel Tyrol GmbH",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Dr.Hans-Liebherr-Alpenstrasse 1",
+      "addressLocality": "Telfs-Buchen",
+      "postalCode": "6410",
+      "addressCountry": "AT",
+      "telephone": "+4305080930",
+      "faxNumber": "+4305080937190",
+      "email": "reservation@interalpen.com",
+      "url": "http://www.interalpen.com"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Interalpen-Hotel Tyrol GmbH",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Dr.Hans-Liebherr-Alpenstrasse 1",
+      "addressLocality": "Telfs-Buchen",
+      "postalCode": "6410",
+      "addressCountry": "AT",
+      "telephone": "+4305080930",
+      "faxNumber": "+4305080937190",
+      "email": "reservation@interalpen.com",
+      "url": "http://www.interalpen.com"
+    }
+  },
+  "description": "Kunstausstellung von und mit Jungtalent Christian Henze. Erleben Sie neben einzigartigen Städte-Impressionen in Öl auf Leinwand und Aluminium auch einzigartige Klänge des Duos „Le Bang Bang“, welches nur mit Stimme und Kontrabass ihr Publikum in den Bann ziehen werden. Information auf www.interalpen.com.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9bf0fba3-c81a-43a5-b4ba-3d99db9eec75/99/image.jpg",
+      "caption": "Christian Henze"
+    }
+  ],
+  "url": [
+    "http://www.interalpen.com"
+  ],
+  "startDate": "2017-07-22T17:00:00",
+  "endDate": "2017-07-22"
+}

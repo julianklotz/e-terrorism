@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "TouristAttraction"
+  ],
+  "name": "Schlossbachklamm",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2867753807723",
+    "longitude": "11.2358066769654"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Informationsbüro Reith",
+    "streetAddress": "Römerstraße 52",
+    "addressLocality": "Reith bei Seefeld",
+    "postalCode": "6103",
+    "addressCountry": "AT",
+    "telephone": "(0043)50880530 ",
+    "faxNumber": "(0043)50880831",
+    "email": "info.reith@seefeld.com",
+    "url": "http://www.seefeld.com"
+  },
+  "description": [
+    " ",
+    "Vom Ortszentrum Reith ausgehend in Richtung Leithen über den Leithener Waldweg vorbei am Bahnhof in Leithen führt ein angenehmer Waldweg in die Schlossbachklamm. Auf halber Strecke bergab kann man bereits die Schlossbach-Eisenbahnbrücke sehen. Am Schlossbach angekommen, führt eine\nHolzbrücke über den Bach und weiter über einen schönen Steg bergauf nach Hochzirl. Schließlich erreicht man eine Asphaltstraße, die vorbei am Krankenhaus Hochzirl und weiter zum Bahnhof führt. Nur im Sommer begehbar! Stempelstelle"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1cd196b5-a350-4911-bdca-0b8177e11e92/99/image.jpg",
+      "caption": "Schlossbachklamm"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6c33d4c6-0bcd-42f8-9ad4-dfeb39ce08ea/99/image.jpg",
+      "caption": "Neue Brücke"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/55cacbeb-ef31-4818-8703-0b70bbc78607/99/image.jpg",
+      "caption": "Brücke"
+    }
+  ]
+}

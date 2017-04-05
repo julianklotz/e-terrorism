@@ -1,0 +1,118 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.andreas-flora.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Flora",
+    "streetAddress": "Innsbruckerstraße 603",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2011",
+    "faxNumber": "(0043) 5212 4183",
+    "email": "info@andreas-flora.at",
+    "url": "http://www.andreas-flora.at"
+  },
+  "name": "Haus Flora",
+  "description": [
+    "Das Haus Flora, ein kleiner Bungalow mit nur zwei Einheiten. Drei Gehminuten vom Ortszentrum entfernt, in absolut ruhiger Lage. Das Haus ist umgeben von einer großzügigen Gartenanlage mit Blick zum See und auf die umliegenden Berge.",
+    "Gründerhaus, hohe Ermäßigung auf Greenfees.\nInclusive: Strom, Wäsche, Heizung, Parkplatz\nExklusive: Hunde auf Anfrage und gegen Gebühr.\n\nCheck in: 15.00 Uhr\nCheck out: 10.00 Uhr",
+    "Ausfahrt Seefeld Süd nach ca. 60m rechts abbiegen. Nach ca. 1km sind die ersten Häuser von Seefeld zu sehen. Das 1. Haus links ist das Hotel Seespitz. Unmittelbar nach dem Hotel Seespitz ist die Zufahrt zum Haus Andreas."
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "reviewCount": "12"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f609008b-7a7e-482c-90f1-bf6c5c3df090/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9792fd3d-1d70-4e2f-adb9-768d9e122161/99/image.jpg",
+      "caption": "Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3257923160905",
+    "longitude": "11.1881589889526"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 2 Schlafräume",
+      "description": "Großzügig ausgestattetes Appartement, mit zwei Schlafzimmern (einmal mit Bad/WC und einmal mit Dusche/WC), Wohnzimmer mit Süd-Terrasse und Tiroler Bauernofen, abgeschlossene Küche mit Essplatz und Geschirrspülmaschine.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement/2 Schlafräume, 2 Bäder",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "Neu renoviertes, geräumiges Appartement, in ruhiger, sonniger SW- Lage mit Blick zum See und auf die umliegenden Berge.\nWohnzimmer mit großer Terrasse, zum Wohnraum offene, moderne Küche mit Geschirrspüler, 2 Schlafzimmer, Dusche/WC. ",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement/2 Schlafräume/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "45.00",
+          "maxPrice": "45.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "45.00",
+          "maxPrice": "45.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "55.00",
+          "maxPrice": "55.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

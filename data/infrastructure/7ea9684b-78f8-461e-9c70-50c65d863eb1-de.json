@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "GovernmentOffice",
+    "PlaceOfWorship"
+  ],
+  "name": "Pfarramt Seefeld",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.328512091417",
+    "longitude": "11.1865282058716"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Pfarramt Seefeld",
+    "streetAddress": "Maximilianweg 29",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "+43521223190",
+    "faxNumber": "+435212231911",
+    "email": "pfarre.seefeld@dibk.at",
+    "url": "http://www.pfarramt-seefeld.at"
+  },
+  "description": [
+    " \n",
+    "gegenüber der Pfarrkirche\nSämtliche Gottesdienste, Prozessionen und sonstige Feierlichkeiten sind jederzeit auf www.pfarramt-seefeld.at abrufbar. "
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c78e4e24-df93-4820-bb51-f83439af3511/99/image.jpg",
+      "caption": "Pfarrkirche Seefeld"
+    }
+  ],
+  "url": [
+    "http://www.pfarramt-seefeld.at"
+  ]
+}

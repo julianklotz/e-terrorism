@@ -1,0 +1,17 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Panoramaweg 778, Top 5",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0049) 176 46512430",
+    "email": "brigitteharms@gmx.net"
+  },
+  "name": "ZW-Harms  Brigitte",
+  "currenciesAccepted": "EUR"
+}

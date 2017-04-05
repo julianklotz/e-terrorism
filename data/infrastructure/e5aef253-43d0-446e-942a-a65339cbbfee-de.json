@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hostel",
+    "Landform"
+  ],
+  "name": "Rotmoosalm",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3843601176597",
+    "longitude": "11.078188419342"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Rotmoosalm",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 4226149",
+    "url": "http://rotmoosalm.info/"
+  },
+  "description": "Genießen Sie doch einmal die schöne Bergluft und erleben Sie die atemberaubende Aussicht bei uns auf der Rotmoosalm. Wir verwöhnen Sie mit Tiroler Hausmannskost und bieten 14 Plätze zum Übernachten an. Auf Ihren Besuch freut sich Siegmund und Gabi Neuner!",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/75f283b1-ccc2-430b-9db1-02906dda498e/99/image.jpg",
+      "caption": "Rotmoos"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5d64ed90-6dbf-4d77-a02c-b3c314b128cb/99/image.jpg",
+      "caption": "Rotmoosalm"
+    }
+  ]
+}

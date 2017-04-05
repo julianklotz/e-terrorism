@@ -1,0 +1,96 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.haus-elisabeth-seefeld.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Haspingerstr. 360",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2288",
+    "faxNumber": "(0043) 5212 2040",
+    "email": "annette.moncher@aon.at",
+    "url": "http://www.haus-elisabeth-seefeld.at"
+  },
+  "name": "Haus Elisabeth",
+  "description": [
+    "Im Haus Elisabeth in Seefeld in Tirol erwartet Sie ein Ort der Erholung mit echtem Tiroler Lebensgefühl - Ihr idyllisches Urlaubsdomizil in der Olympiaregion Seefeld. \n\nDas komplett renovierte, gemütliche Tiroler Alpenhaus mit großem Garten liegt in einer der schönsten Wohngebiete Seefelds - ruhig, sonnig, fern von Hektik und Stress. Sie bewohnen das Haus mit Ihrer Familie und Ihren Begleitern alleine. Das Seefelder Zentrum mit einem vielfältigen Angebot an Restaurants und Geschäften entdecken Sie in nur 10 Gehminuten.\n\nAnnette Moncher, die Gastgeberin, öffnet mit Freude und vielen Ideen für einen erholsamen und abwechslungsreichen Urlaub die Türen.\n\nFür 2-6 Personen stehen 3 Schlafzimmer im kuschelig-ländlichen Stil, 2 Bäder sowie 2 separate WCs zur Verfügung. Die traditionelle Tiroler Stube mit original erhaltener Holzvertäfelung und großem Tisch bietet genug Platz für ein gemütliches Beisammensein. Das heimelige Wohnzimmer ist durch eine Doppel-Flügeltüre von der Stube getrennt.\nDie Wohnküche mit Sitzecke für bis zu 5 Personen lässt zudem keine Wünsche offen: Vom Elektroherd mit Cerankochfeld und Backrohr über einen Geschirrspüler bis hin zu sämtlichen Kochutensilien ist alles vorhanden. \n\nGratis-WLAN ist im gesamten Haus verfügbar. Kostenlose Parkplätze befinden sich ebenfalls direkt am Haus.\nDa wir auch Allergikern einen erholsamen Urlaub bieten möchten, sind Haustiere im Haus Elisabeth nicht erlaubt.\n\nIn den Sommermonaten laden der weitläufige, duftende Wohn-Garten genauso, wie die großzügige Süd-Ost-Terrasse und der Balkon mit Panoramablick von Rosshütte bis Hocheder zum Verweilen ein. Direkt vom Haus aus können Sie gemütliche wie auch beeindruckende Spaziergänge, Wanderungen und Touren starten.\n\nIm Winter erreichen Sie die Seefelder Skigebiete und Loipen in nur 10 bis 15 Minuten mit dem eigenen Auto oder den Seefelder Shuttle- und Skibussen. Nicht nur Skifahrer und Langlaufbegeisterte schätzen das Angebot. In der Olympiaregion Seefeld kommt auch beim Rodeln, Eislaufen, Schneeschuhwandern und anderen Unterhaltungen der Spaß nicht zu kurz.\n\nHerzlich willkommen in unserem Ferienhaus Elisabeth in Seefeld in Tirol!\n",
+    "Check-In: 16.00 - 20.00 Uhr\nCheck-Out: bis 10.00 Uhr",
+    "Check-In 16:00h bis 20:00h oder nach Absprache"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/60b602aa-5cc1-47c0-a22f-64eadae6edb6/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/22064af3-2eec-4c94-8c9f-b9093e2ab7e6/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9d07bde6-76b5-4c99-b6da-1dca8bb2260d/99/image.jpg",
+      "caption": "Sommer 2"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3320304860644",
+    "longitude": "11.1951286349182"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Ferienhaus, Dusche und Badewanne, 3 Schlafräume",
+      "description": "Das gemütliche Haus verfügt über 3 Schlafzimmer - 2x Doppelbett(Südbalkon) \u0026 1 Einzelzimmer/ausziehbares Schlafsofa (2 Pers.), 2 Badezimmer/Dusche/Badewanne/Waschmaschine, 2 separate WCs, Tiroler Stube mit gepolsterter Eckbank/Tisch 6-8 Personen, Wohnzimmer mit Sitzgarnitur, Flachbild-TV, DVD-Player, Radio, CD-Player, voll ausgestattete Küche (Herd, Backrohr, Geschirrspüler, Toaster, Wasserkocher, Mikrowelle, Kaffeemaschine). Südterrasse mit Relaxliegen/Tisch/Stühle, großer Garten.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Ferienhaus, Dusche und Badewanne, 3 Schlafräume",
+          "numberOfRooms": "5.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "119.00",
+          "maxPrice": "227.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "150.00",
+          "maxPrice": "258.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "155.00",
+          "maxPrice": "265.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Mösl - Top 12",
+    "streetAddress": "Olympiastr. 494",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT"
+  },
+  "name": "Haus Mösl - App. Federspiel",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9dd9739d-6342-4a45-b254-bffe2494690b/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/42295aef-6487-4e04-b02c-1273d4a04642/99/image.jpg",
+      "caption": "Ortsbild Winter"
+    }
+  ],
+  "currenciesAccepted": "EUR"
+}

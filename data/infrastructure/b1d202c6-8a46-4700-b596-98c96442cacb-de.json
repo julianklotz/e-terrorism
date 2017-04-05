@@ -1,0 +1,30 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BarOrPub",
+    "InternetCafe"
+  ],
+  "name": "Pub à la Pub",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3710998043613",
+    "longitude": "11.1656643719666"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Pub à la Pub",
+    "streetAddress": "Weidach 302b",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105 ",
+    "addressCountry": "AT",
+    "telephone": "(0043)5214 6980",
+    "email": "hans.rauth@aon.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b0316954-5b8a-4142-aa20-f169280e2813/99/image.jpg",
+      "caption": "Pub a la Pub"
+    }
+  ]
+}

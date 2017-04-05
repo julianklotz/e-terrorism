@@ -1,0 +1,29 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hostel"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Wettersteinhütte",
+    "streetAddress": "Gaistal",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 8958227",
+    "email": "hone.schuetz@drei.at",
+    "url": "http://www.wettersteinhuette.at"
+  },
+  "name": "Wettersteinhütte",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "reviewCount": "22"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.380262923257",
+    "longitude": "11.1079931259155"
+  },
+  "currenciesAccepted": "EUR"
+}

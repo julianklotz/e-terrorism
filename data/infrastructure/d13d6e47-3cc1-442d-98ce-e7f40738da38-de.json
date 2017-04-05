@@ -1,0 +1,21 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure",
+    "LocalBusiness"
+  ],
+  "name": "Toilette Gaistal",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "description": "Salzbach Parkplatz",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/cbb7c72c-f305-4af2-bca9-98e74e3445bf/99/image.jpg",
+      "caption": "Toilletten"
+    }
+  ]
+}

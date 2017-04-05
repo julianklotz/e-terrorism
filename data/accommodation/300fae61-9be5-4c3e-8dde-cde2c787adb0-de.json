@@ -1,0 +1,91 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.hauslohmann.at/",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Lohmann",
+    "streetAddress": "Haspingerstr. 441",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 3418432",
+    "email": "info@hauslohmann.at",
+    "url": "http://www.hauslohmann.at"
+  },
+  "name": "Haus Lohmann",
+  "description": [
+    "Unser neu renoviertes Haus liegt ruhig, aber doch zentral: 5 Minuten vom Ortszentrum, 5 Minuten zur Talstation Rosshütte, 5 Minuten zum Loipeneinstieg und 2 Minuten zum Ski- und Dorfbus. Die sonnige Lage zeichnet uns besonders in den Wintermonaten aus.",
+    "Inklusive: Parkplatz, Wasser, Heizung, Strom.\n",
+    "Check-in: 16.00 Uhr | Check-out: 11.00 Uhr\nVon Norden kommend: Fahren Sie Seefeld Nord ab, folgen Sie der Münchner Straße bis zum China Restaurant und biegen Sie in die Haspingerstraße ein - 5. Haus links (Nr. 441).\nVon Süden kommend: Fahren Sie Seefeld Mitte ab, biegen Sie am Kreisverkeht 1. Ausfahrt ab, nach ca. 300m biegen Sie 1. Straße links ab, dann rechts Haspingestr. Haus Nr. 441\n\n\n"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/09168faa-89bd-461f-b8d6-fcaec9da5519/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1f464a95-742e-4c81-97bb-9f352880af0a/99/image.jpg",
+      "caption": "Winter"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3329105",
+    "longitude": "11.192947"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Unser neu renoviertes, lichtdurchflutetes Appartement in Südlage verfügt über einen Wintergarten, direkten Zugang zum Garten und Privatparkplatz.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Top 3",
+          "numberOfRooms": "0.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "110.00",
+          "maxPrice": "110.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "110.00",
+          "maxPrice": "110.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "110.00",
+          "maxPrice": "110.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Landform"
+  ],
+  "name": "Oberbrunnalm",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3551751957577",
+    "longitude": "11.277197599411"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Pettnau",
+    "addressLocality": "Pettnau",
+    "postalCode": "6410 ",
+    "addressCountry": "AT",
+    "telephone": "(0043)5238 87134",
+    "faxNumber": "(0043)5238 88253"
+  },
+  "description": "Nur im Sommer geöffnet! Stempelstelle\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/23c57db2-c314-410e-84c3-6fb827b3054e/99/image.jpg",
+      "caption": "Oberbrunnalm neu"
+    }
+  ]
+}

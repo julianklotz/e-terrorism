@@ -1,0 +1,19 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Hermannstalstr. 529 / Top 53",
+    "addressLocality": "Seefeld in Tirol",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "email": "marc.heinzmann@gmail.com"
+  },
+  "name": "ZW - Heinzmann Marc",
+  "currenciesAccepted": "EUR"
+}

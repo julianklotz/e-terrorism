@@ -1,0 +1,23 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation"
+  ],
+  "name": "Spielplatz am Wildsee/Strandperle",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.322919",
+    "longitude": "11.1914816"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Strandperle Seefeld",
+    "streetAddress": "Innsbrucker Str. 500",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2436",
+    "email": "info@strandperle.at",
+    "url": "http://www.strandperle.at"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant"
+  ],
+  "name": "Stefan´s Pasteria",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3233942161938",
+    "longitude": "11.1915707588196"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Stefan\u0027s Pasteria",
+    "streetAddress": "Innsbrucker Str. 162",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2093",
+    "faxNumber": "(0043)"
+  },
+  "description": "Sitzplätze für ca. 70 Personen",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0cffc541-19eb-4d9a-bf9e-17fb31b97e47/99/image.jpg",
+      "caption": "Stefan´s Pasteria Sommer"
+    }
+  ]
+}

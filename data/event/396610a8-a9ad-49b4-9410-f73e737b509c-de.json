@@ -1,0 +1,53 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "Leutascher Abend im Vineum des Genusses",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Hotel Quellenhof Leutasch",
+    "employee": {
+      "@type": "Person",
+      "givenName": "Familie",
+      "familyName": "Mitterhuber"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Weidach 288",
+      "addressLocality": "Leutasch",
+      "postalCode": "6105",
+      "addressCountry": "AT",
+      "telephone": "(0043) 5214 6782",
+      "faxNumber": "(0043) 5214 6369 ",
+      "email": "info@quellenhof.at",
+      "url": "http://www.quellenhof.at"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Hotel Quellenhof Leutasch",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Weidach 288",
+      "addressLocality": "Leutasch",
+      "postalCode": "6105",
+      "addressCountry": "AT",
+      "telephone": "(0043) 5214 6782",
+      "faxNumber": "(0043) 5214 6369 ",
+      "email": "info@quellenhof.at",
+      "url": "http://www.quellenhof.at"
+    }
+  },
+  "description": "Kommt’s zu uns und genießt einen kulinarischen Abend. Weine vom Weingut Keringer aus dem Burgenland. Dazu gibt es Wildspezialitäten von Gut Leutasch. Musikalisch unterhalten die „zwoa Tiroler“. Eintritt: € 25,-, Bitte um Voranmeldung unter 05214/6782 oder info@quellenhof.at.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a88eb0cd-ea63-4dee-bbdf-c3480190d5e8/99/image.jpg",
+      "caption": "Quellenhof"
+    }
+  ],
+  "startDate": "2017-03-31T18:30:00",
+  "endDate": "2017-03-31"
+}

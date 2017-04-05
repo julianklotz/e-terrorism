@@ -1,0 +1,33 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure"
+  ],
+  "name": "Parkplatz Raiffeisenbank (P6)",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3297483066339",
+    "longitude": "11.1881697177887"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Raiffeisenbank Seefeld",
+    "streetAddress": "Römerstraße 52",
+    "addressLocality": "Reith",
+    "postalCode": "6103",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2100",
+    "url": "http://www.rb-seefeld.at"
+  },
+  "description": [
+    "gebührenpflichtig ",
+    "gebührenpflichtig "
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c09a2222-28fe-4ea5-9c24-927d0decbf75/99/image.jpg",
+      "caption": "Parkplatz"
+    }
+  ]
+}

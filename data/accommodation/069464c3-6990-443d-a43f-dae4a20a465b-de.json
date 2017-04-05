@@ -1,0 +1,646 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.schmiedhof.net/",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Schmiedhof",
+    "streetAddress": "Schulweg 427",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "0043 5212 2526",
+    "faxNumber": "(0043) 5212 2526 6",
+    "email": "schmiedhof@seefeld.biz",
+    "url": "http://www.schmiedhof.net"
+  },
+  "name": "Schmiedhof",
+  "description": [
+    "Willkommen im Schmiedhof, der grünen Oase im Zentrum von Seefeld. Tel: 0043 5212 2526 Der Schmiedhof, sehr zentral und doch ruhig gelegen, bietet Ihnen rustikale Appartements aller Größen zum Teil mit Kachelofen, sonnigen Balkonen im Tiroler Stil ,Brötchenservice. \nSehr familienfreundlich mit Kinderwagenverleih. Große Liegewiese, Spielplatz, Hasen,Hühner sowie Bioteich mit Kneippanlage. Großer Saunabereich mit Kneipp- und Fitnessanlage. Jedes Appartement verfügt über Wlan-Internetzugang, Sat-TV mit Flachbildschirm und Telefon.\nWir freuen uns auf Ihren Besuch\nFamilie Anton und Verena Hiltpolt www.schmiedhof.net \n",
+    "incl. Strom/Wasser/Heizung/Handtücher u. Bettwäsche (wöchentlich)\n***Gratis Parkplätze direkt beim Haus,\n Hunde € 10.-p.H.T.(max. 2), Zusatzbett € 10.-p.T.",
+    "Ob Sie von Norden oder Süden kommen, Sie fahren bis zur Ausfahrt \"Seefeld Mitte\" - Dann folgen Sie der \"Andreas Hofer Straße\" bis zu den Bahnschranken, biegen vor den Schranken links in den Riehlweg ein, auf Höhe des Bahnhofs biegen Sie in den Schulweg ein und folgen den Schildern \"Schmiedhof\". Checkin ab 14 h -- check out bis 10 h\n",
+    "settimane verde, agricultura,alpenvereinsvertragshaus,alpenverein vertragshaus, dav,oeav,öav,seefeld"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "reviewCount": "36"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/409b92da-1d53-48f3-81e2-58bf34fd371d/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/199cefaf-21da-40c7-8208-d3628704975c/99/image.jpg",
+      "caption": "_AHI1271"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/052f57f4-6933-4207-a4cb-09d3bf611dda/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/33ead0ae-fae5-411e-9c77-1ca62fc28633/99/image.jpg",
+      "caption": "Sauna"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a585e512-c39b-4326-9bda-22d18ffdfc49/99/image.jpg",
+      "caption": "Im Garten"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/29518c52-65fb-4354-9387-906c711f43f8/99/image.jpg",
+      "caption": "Seefeld im Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d98c43f9-5366-4588-8994-626585d0d1c6/99/image.jpg",
+      "caption": "Aussicht Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6f3ddcd6-82ec-4ac9-b828-9f9b8078f8aa/99/image.jpg",
+      "caption": "Honig aus eigener Imkerei"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/71b38a79-bd63-48b3-a950-4d4296f5b60b/99/image.jpg",
+      "caption": "Halle"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1d8091ab-8a75-494b-85d8-1526600d3161/99/image.jpg",
+      "caption": "Wandern"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/de49c854-79b5-4550-adb3-0b5064f5dd86/99/image.jpg",
+      "caption": "Spielplatz"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/367d705f-6343-440f-afa0-513875e60b03/99/image.jpg",
+      "caption": "_HIL7570"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/abcd7bf8-cd4a-446b-b8ce-b86860a561dd/99/image.jpg",
+      "caption": "_DSC9613"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/88eaa0d4-34cc-4a14-9c32-312f199ecc7b/99/image.jpg",
+      "caption": "_D042746"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/243f6b72-753a-4592-bd81-dcf6a6697997/99/image.jpg",
+      "caption": "_AHI8185"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6ed8a6fc-151d-4cbb-b93c-7ceedbe9aec9/99/image.jpg",
+      "caption": "Kopie von blumenschatten3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/419e2080-f319-48ed-830a-38004836e551/99/image.jpg",
+      "caption": "_AHI7425"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/854beb68-331b-4948-b187-e1a1b3badec9/99/image.jpg",
+      "caption": "dwirtin"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3292392803429",
+    "longitude": "11.1906480789185"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche oder Bad, WC, 2 Schlafräume",
+      "description": "3-Raum-app., bestehend aus Wohnzimmer mit Kachelofen und Ausziehcouch, Küchenzeile, 1Schlafzimmer, 2. Schlafzimmer mit Stockbett, Balkon oder Terrasse, mit Blick in den schönen Garten, Kabel-TV, Bad oder Dusche/WC, Tel./Adsl Internet, 2 (4) Personen, 65 m²",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "App./2 Schlafräume/Du od. Bad, WC kl.",
+          "description": "Unsere Drei-Raum-Appartements sind mit zwei Schlafzimmern und einer Schlafcouch im Wohnzimmer ausgestattet. Blick in den Garten, mit Bioteich, naturbelassenem Abenteuerspielplatz,Grillplatz, Sonnenliegen, Tischtennisplatte, Spielgeräte.\nAuf Wunsch reichhaltiges alpines Frühstück mit Produkten aus der Region\nUnsere Appartements und Zimmer sind alle mit wlan-Internetzugang ausgestattet.\nDie Wohnungen haben alle Balkon oder Terrasse, und sind teilweise mit Kachelöfen ausgestattet.",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Happy Family  4 Tage im Herbst",
+          "description": "Happy family im Herbst \n4 Tage Urlaub mit Kindern -  ***schmiedhof.net - Seefeld in Tirol - Sie haben gut gewählt! Wir sorgen für unvergessliche Ferientage - für Groß und Klein! \nFamilytotal-Preis: 284,- Euro 2 Personen + 1- 3 Kinder bis 12 Jahre \n - für Spaß, Erlebnis und Abwechslung beim Urlaub mit Kindern ist bestens gesorgt.\n \nEs erwartet Sie Ruhe, Gemütlichkeit, spannende Erlebnisse in der Natur, freudvolle Erfahrungen mit unseren Tieren, Erholung und Entspannung. Bei uns fühlen sich Eltern mit ihren Kinder genauso wohl, wie auch die Großeltern mit ihren Enkelkindern. Ebenso der aktive Wanderer wie der Relaxurlauber.\n \nFür Single mit Kind gibt es ein Spezielarrangement...fragen Sie danach!\nInkludierte Leistungen\n·\t3 Nächte im Familienappartment (teils mit Kachelofen) für 2 Personen + 3 Kinder bis 12 Jahre\n·\t1 Glas Honig aus eigener Imkerei\n·\t1  Erlebnistag am Bauernhof inklusive kleiner Verkostung (auch für Kinder ab 4 ohne Begleitung möglich, so haben die Eltern einige Stunden für sich)\n·\t1 x Benützung der Sauna\n·\tWanderkarten Verleih (und falls gewünscht Tourentipps)\n·\tGästecard (inklusive Busticket für die gesamte Region)\n·\tGratis Babybett, Hochstuhl und Mountainbuggy\n\n",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Happy Family 7 Tagen im Herbst",
+          "description": "Happy family im Herbst \n7 Tage Urlaub mit Kindern -  ***schmiedhof.net - Seefeld in Tirol - Sie haben gut gewählt! Wir sorgen für unvergessliche Ferientage - für Groß und Klein! \nFamilytotal-Preis: 700,- Euro 2 Personen + 1- 3 Kinder bis 12 Jahre \n - für Spaß, Erlebnis und Abwechslung beim Urlaub mit Kindern ist bestens gesorgt.\n \nEs erwartet Sie Ruhe, Gemütlichkeit, spannende Erlebnisse in der Natur, freudvolle Erfahrungen mit unseren Tieren, Erholung und Entspannung. Bei uns fühlen sich Eltern mit ihren Kinder genauso wohl, wie auch die Großeltern mit ihren Enkelkindern. Ebenso der aktive Wanderer wie der Relaxurlauber.\n \nFür Single mit Kind gibt es ein Spezielarrangement...fragen Sie danach!\nInkludierte Leistungen\n·\t7 Nächte im Familienappartment (teils mit Kachelofen) für 2 Personen + 3 Kinder bis 12 Jahre\n·\t1 Glas Honig aus eigener Imkerei\n·\t1  Erlebnistag am Bauernhof inklusive kleiner Verkostung (auch für Kinder ab 4 ohne Begleitung möglich, so haben die Eltern einige \n                 Stunden für sich)\n·\t1 x Benützung der Sauna\n·\tWanderkarten Verleih (und falls gewünscht Tourentipps)\n·\tGästecard (inklusive Busticket für die gesamte Region)\n·\tGratis Babybett, Hochstuhl und Mountainbuggy\n\n",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Wandern, App./2 Schlafräume/Du od. Bad, WC kl.",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "70.00",
+          "maxPrice": "180.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "38.00",
+          "maxPrice": "90.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "28.00",
+          "maxPrice": "65.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "22.00",
+          "maxPrice": "50.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "20.00",
+          "maxPrice": "50.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "20.00",
+          "maxPrice": "50.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "280.00",
+          "maxPrice": "280.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "284.00",
+          "maxPrice": "284.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "334.00",
+          "maxPrice": "334.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "384.00",
+          "maxPrice": "384.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "560.00",
+          "maxPrice": "560.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "564.00",
+          "maxPrice": "564.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "634.00",
+          "maxPrice": "634.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "700.00",
+          "maxPrice": "700.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche oder Bad, WC, 1 Schlafraum",
+      "description": "2-Raum-app., bestehend aus Wohnzimmer mit Kachelofen uns Ausziehcouch, Küchenzeile, Schlafzimmer, Balkon oder Terrasse, mit Blick in den schönen Garten, Kabel-TV, Bad/WC oder Dusche/WC, Tel./Adsl Internet, 2 (4) Personen, ca. 55 m²",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "App./1 Schlafraum/Dusche od.Bad,WC gr.",
+          "description": "Unsere Zwei-Raum-Appartements sind mit einem Schlafzimmer und einer Schlafcouch im Wohnzimmer ausgestattet.\nBlick in den Garten, mit Bioteich, naturbelassenem Abenteuerspielplatz,\nGrillplatz, Sonnenliegen, Tischtennisplatte, Spielgeräte.\nAuf Wunsch reichhaltiges alpines Frühstück mit eigenen Produkten    \nUnsere Appartements und Zimmer sind alle mit wlan-ausgestattet.\n   +  Die Wohnungen haben alle Balkon oder Terrasse, und\n       sind teilweise mit Kachelöfen ausgest",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Genusswandern 3 Tage",
+          "description": "Wanderherbst …. Klare Tage und kühle Nächte … Natur und Umwelt strahlen Ruhe aus …. \nDas ist Balsam für die Seele - Eine Tankstelle für uns alle! \nFür viele ist das die schönste Zeit, unsere herrliche Berg- und Almwelt und die Menschen die dort leben, kennen zu lernen.\n·\tWir laden Sie ein, diese besondere Jahreszeit bei uns zu genießen: \n\n3 Nächte im Genießerappartment (teils mit Kachelofen) für zwei Personen für nur 107,- Euro pro Person. \n(die 3. und 4. Person im selben Appartment zahlen jeweils nur 50,- Euro) excl. Kurtaxe 1,50pP/Tag\nInkludierte Leistungen\n·\t1 Glas Honig aus eigener Imkerei\n·\t1 geführte Almwanderung (im Almenparadies Gaistal) oder\n·\t1 geführte Wanderung im Alpenpark Karwendel (größter Naturpark Österreichs!)\n.               Nordic Walking Einführung  inkl. Stöcke\n·\t1 x Benützung der Sauna\n·\tWanderkarten Verleih (und falls gewünscht Tourentipps)\n·\tGästecard (inklusive Busticket für die gesamte Region)\n",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Genusswandern 7 Tage",
+          "description": "Wanderherbst …. Klare Tage und kühle Nächte … Natur und Umwelt strahlen Ruhe aus …. \nDas ist Balsam für die Seele - Eine Tankstelle für uns alle! \nFür viele ist das die schönste Zeit, unsere herrliche Berg- und Almwelt und die Menschen die dort leben, kennen zu lernen.\n·\tWir laden Sie ein, diese besondere Jahreszeit bei uns zu genießen: \n\n7 Nächte im Genießerappartment (teils mit Kachelofen) für zwei Personen für nur 107,- Euro pro Person. \n(die 3. und 4. Person im selben Appartment zahlen jeweils nur 50,- Euro) excl. Kurtaxe 1,50 p.P/Tag\nInkludierte Leistungen\n·\t1 Glas Honig aus eigener Imkerei\n·\t1 geführte Almwanderung (im Almenparadies Gaistal) oder\n·\t1 geführte Wanderung im Alpenpark Karwendel (größter Naturpark Österreichs!)\n.               Nordic Walking Einführung  inkl. Stöcke\n·\t1 x Benützung der Sauna\n·\tWanderkarten Verleih (und falls gewünscht Tourentipps)\n·\tGästecard (inklusive Busticket für die gesamte Region)\n\n",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/abc2a11f-4c4d-4c9c-b7e4-3ee443c740f1/99/image.jpg",
+              "caption": "Familie"
+            }
+          ],
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "60.00",
+          "maxPrice": "160.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "30.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "25.00",
+          "maxPrice": "60.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "20.00",
+          "maxPrice": "50.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "107.00",
+          "maxPrice": "107.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "214.00",
+          "maxPrice": "214.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "264.00",
+          "maxPrice": "264.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "314.00",
+          "maxPrice": "314.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "207.00",
+          "maxPrice": "207.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "414.00",
+          "maxPrice": "414.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "484.00",
+          "maxPrice": "484.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "554.00",
+          "maxPrice": "554.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC",
+      "description": "1 Raum-app. im Tiroler Stil, bestehend aus Wohnzimmer , teilweise Kachelofen,Couch, Küchenzeile, Schlafnische mit franz. Bett. Eine eigene kleine Terrasse nach Osten oder Westen, mit freiem Blick in den schönen Garten und auf die uns umgebenden Berge. Kabel-TV mit Flachbildschirm, Du/WC, l Internet 2 (3) Personen, 25 bis 35 m²",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartment/Wohn-Schlafraum/Dusche, WC",
+          "description": "",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "58.00",
+          "maxPrice": "110.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "29.00",
+          "maxPrice": "60.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "23.00",
+          "maxPrice": "45.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "20.00",
+          "maxPrice": "35.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche oder Bad, WC, 1 Schlafraum",
+      "description": "2-Raum-app., bestehend aus Wohnzimmer mit Kachelofen uns Ausziehcouch, Küchenzeile, Schlafzimmer, Balkon oder Terrasse, mit Blick in den schönen Garten, Kabel-TV, Bad/WC oder Dusche/WC, Tel./Adsl Internet, 2 (4) Personen, ca. 40 m²",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "App./1 Schlafraum/Dusche od. Bad,WC kl.",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "64.00",
+          "maxPrice": "120.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "32.00",
+          "maxPrice": "65.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "25.00",
+          "maxPrice": "50.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche oder Bad, WC, 2 Schlafräume",
+      "description": "3-Raum-app., bestehend aus Wohnzimmer mit Kachelofen und Ausziehcouch, Küchenzeile, 2 Schlafzimmer, Balkon oder Terrasse, mit Blick in den schönen Garten, Kabel-TV, Bad oder Dusche/WC, Tel./Adsl Internet, 2 (4) Personen, 100 m²",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "App./2 Schlafräume/Du od. Bad, WC gr.",
+          "description": "Unsere Drei-Raum-Appartements sind mit zwei Schlafzimmern und einer Schlafcouch im Wohnzimmer ausgestattet. Blick in den Garten, mit Bioteich, naturbelassenem Abenteuerspielplatz,Grillplatz, Sonnenliegen, Tischtennisplatte, Spielgeräte.\nAuf Wunsch reichhaltiges alpines Frühstück mit Produkten aus der Region\nUnsere Appartements und Zimmer sind alle mit wlan-Internetzugang ausgestattet.\nDie Wohnungen haben alle Balkon oder Terrasse, und sind teilweise mit Kachelöfen ausgestattet.",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "110.00",
+          "maxPrice": "220.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "55.00",
+          "maxPrice": "110.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "37.00",
+          "maxPrice": "66.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "27.00",
+          "maxPrice": "55.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "24.00",
+          "maxPrice": "46.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "21.00",
+          "maxPrice": "40.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Studio, Dusche, WC, Wohn-/Schlafraum",
+      "description": "Kleines Studio im Souterrain nach west Terrasse , Du/WC\nfranz. Bett 160x200cm, \nca. 20m² 2-3 Personen",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Studio mit Dusche, WC",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "50.00",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "40.00",
+          "maxPrice": "75.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "30.00",
+          "maxPrice": "90.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

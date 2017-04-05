@@ -1,0 +1,29 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "EntertainmentBusiness",
+    "CivicStructure"
+  ],
+  "name": "Schützenverein Reith",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2994351",
+    "longitude": "11.2027494"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Schützenverein ",
+    "streetAddress": "Lauserweg 15",
+    "addressLocality": "Reith bei Seefeld",
+    "postalCode": "6103",
+    "addressCountry": "AT",
+    "telephone": "(0043)676885084452"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4037c1ba-5c52-4a8d-a51c-4b13c9697605/99/image.jpg",
+      "caption": "Schützen"
+    }
+  ]
+}

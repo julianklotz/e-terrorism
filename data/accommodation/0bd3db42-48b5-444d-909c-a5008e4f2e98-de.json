@@ -1,0 +1,68 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.fewo-nairz.com",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Nairz Christof",
+    "streetAddress": "Plaik 83 b",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 20099",
+    "email": "christof.nairz@aon.at",
+    "url": "http://www.fewo-nairz.com"
+  },
+  "name": "Haus Nairz Christof",
+  "description": [
+    "Rustikal und gemütlich ausgestattet. Schlafzimmer, Bad-WC, Küche Wohnzimmer, Sat-TV, Wäsche, Balkon, direkt an der Loipe und an Wanderrouten.",
+    "Inklusive: Strom, Wasser, Heizung\nExklusive: Ortstaxe, Endreinigung",
+    "von Telfs über Buchen - Obern - Plaik vom Zentrum über Oberleutasch - Plaik"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3bf9d9b5-a557-430c-bd24-d5c06742eee0/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/489b4a8f-2545-4953-b218-bf08d2aa5e14/99/image.jpg",
+      "caption": "Winter"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3615207803564",
+    "longitude": "11.1255619030676"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 1 Schlafraum",
+      "description": "Neuwertige, Geschirrspüler, Mikrowelle,TV - SAT",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/1 Schlafraum/Bad, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "30. Internationales Alpen-Skat-Turnier",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "",
+    "employee": {
+      "@type": "Person",
+      "givenName": "Hans",
+      "familyName": "Imping"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Schiefestr. 42",
+      "addressLocality": "Gronau",
+      "postalCode": "48599 ",
+      "addressCountry": "DE",
+      "telephone": "(0049)1712740587 ",
+      "email": "labes-haget@t-online.de"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Schiefestr. 42",
+      "addressLocality": "Gronau",
+      "postalCode": "48599 ",
+      "addressCountry": "DE",
+      "telephone": "(0049)1712740587 ",
+      "email": "labes-haget@t-online.de"
+    }
+  },
+  "description": "Auch 2017 heißt es wieder: \"Auf nach Seefeld\", wo das Alpen-Skat-Turnier zum 30. Mal stattfindet. Beim Alpen Skat Turnier in Seefeld dreht sich wieder alles rund ums Kartenspiel. An fünf Tagen werden je drei Serien zu 48 Spielen nach der internationalen Skatordnung gespielt. Für Einzel-, Gesamt-, Sonder- und Mannschaftswertungen stehen insgesamt über € 20.000,- zur Ausschüttung bereit. Für die mitgereiste Begleitung findet ein 4-tägiges Rommé Turnier statt. Die Partnerhotels des Alpen Skat Turniers offerieren den Turniergästen besondere Übernachtungspackages für Ihren Aufenthalt während der Veranstaltung. Anmeldung: Hans Imping, Schiefestr. 42, D-48599 Gronau, Tel.: +49 (0) 171 27 40 587, E-Mail: labes-haget@t-online.de.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c59058d1-a1b4-42f4-8ea8-ccbc83aab8fb/99/image.jpg",
+      "caption": "Skat"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c4138c53-1fbd-4347-82cd-85728e1eb7bf/99/image.jpg",
+      "caption": "Casino"
+    }
+  ],
+  "url": [
+    "http://www.seefeld.casinos.at",
+    "http://www.parkhotel-seefeld.at",
+    "http://www.hotel-diana.at"
+  ],
+  "startDate": "2017-06-04T10:00:00",
+  "endDate": "2017-06-11"
+}

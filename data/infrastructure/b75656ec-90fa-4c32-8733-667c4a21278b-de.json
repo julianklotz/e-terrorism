@@ -1,0 +1,33 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "HealthAndBeautyBusiness"
+  ],
+  "name": "Waldkneippanlage bei der Ropferstub\u0027m",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3320393",
+    "longitude": "11.1191425"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Ropferstub\u0027m",
+    "streetAddress": "Buchen 6-8",
+    "addressLocality": "Mösern",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "+43526265949",
+    "email": "office@ropferstubm.com",
+    "url": "http://www.pure-natur.at/"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/08f877bd-5bf0-4eda-81dd-9b7931d70f3b/99/image.jpg",
+      "caption": "Kneippanlage"
+    }
+  ],
+  "url": [
+    "http://www.pure-natur.at/"
+  ]
+}

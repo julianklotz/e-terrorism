@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Store"
+  ],
+  "name": "Heinz Gaugg, Landwirtschaftlicher Fleischbetrieb (Wild- und Lammfleisch)",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3841507",
+    "longitude": "11.2717552"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Lamm- u. Wildfleischhandel Gaugg",
+    "streetAddress": "Hinterautalstr. 200a",
+    "addressLocality": "Scharnitz",
+    "postalCode": "6108",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 2225389"
+  },
+  "description": [
+    "Hinterautalstr. 200 a\nTel.: +43 664/22 25 389\nÖffnungszeiten auf Anfrage",
+    "Öffnungszeiten auf Anfrage"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8003c9cb-c3d2-4da8-9025-cffa35e082a4/99/image.jpeg",
+      "caption": "Wild"
+    }
+  ]
+}

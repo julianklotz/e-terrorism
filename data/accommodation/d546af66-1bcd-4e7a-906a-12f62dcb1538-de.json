@@ -1,0 +1,104 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.haus-kuen.com/",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Kuen",
+    "streetAddress": "Lehner 195",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6723",
+    "faxNumber": "(0043) 5214 6723",
+    "email": "m.kuen.leutasch@aon.at",
+    "url": "http://www.haus-kuen.com/"
+  },
+  "name": "Haus Kuen",
+  "description": [
+    "Neugebautes Haus in ruhiger Lage. Schlafzimmer mit Südbalkon, Wohnesszimmer mit Süd-Westbalkon, Dusche und WC, vollausgestatteter Küchenblock, Zimmersafe, Bettwäsche, FarbTV mit SAT-Anlage, Radio, gratis W-Lan, Handtücher, Brötchenservice, gemütliches Wohnzimmer mit Essecke und ausziehbarer Couch.",
+    "Inklusive: Endreinigung, Heizung, Wasser\nPreis auf Anfrage",
+    "von Seefeld: Leutasch - Weidach - Gasse - Lehner 195\nvon Mittelwald - Leutasch - Schanz - Lehner 195"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/897ef448-e295-4f32-8e69-9707ab59054f/99/image.jpeg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c2a34452-65a7-48c1-8f75-b789e47e05be/99/image.jpeg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/917d3b4f-7b84-416d-a4cf-c7c820e189d5/99/image.jpg",
+      "caption": "Ofenbank"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f44c4316-601b-4ec7-9f77-a6838c08a0cb/99/image.jpg",
+      "caption": "Schlafzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1ab63cbb-64f8-4101-940d-cb0634a8ce20/99/image.jpg",
+      "caption": "Ofenbank"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/abe22f7a-7cd1-4843-8d82-cdf60893f742/99/image.jpg",
+      "caption": "Küche"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/72d8a092-fe26-4cbf-82e0-8c2cd1155d05/99/image.jpg",
+      "caption": "Bad"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8af413c0-f459-410c-a9bd-96aa51e63188/99/image.jpg",
+      "caption": "Bad"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e0e064f9-f255-4c6b-97bc-5aece3ad0cad/99/image.jpg",
+      "caption": "Wohnzimmer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3826749",
+    "longitude": "11.163529"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 1 Schlafraum",
+      "description": "Schlafzimmer mit Balkon, Wohnesszimmer mit ausziehbarer Couch Dusche und WC Küchenblock SAT - TV; Radio, Zimmersafe",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/1 Schlafraum/Bad, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ]
+    }
+  ]
+}

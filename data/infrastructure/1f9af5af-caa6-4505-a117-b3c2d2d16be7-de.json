@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "TouristAttraction"
+  ],
+  "name": "Gleirschklamm",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3901762193224",
+    "longitude": "11.2646878079346"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Informationsbüro Scharnitz",
+    "streetAddress": "Innsbrucker Str. 282",
+    "addressLocality": "Scharnitz",
+    "postalCode": "6108",
+    "addressCountry": "AT",
+    "telephone": "+4350880540 ",
+    "faxNumber": "+4350880541",
+    "email": "info.scharnitz@seefeld.com",
+    "url": "http://www.seefeld.com"
+  },
+  "description": "Die Gleirschklamm ist eine der schönsten naturbelassenen Klammen im Karwendel. Seit jeher besticht sie durch imposante Felsen, kleine Wasserfälle und ihr glasklares Wasser. Man erlebt eine einzigartige Wasser-Fels-Landschaft und spürt die Kraft und Stärke des Wassers, das sich seit\nJahrhunderten den Weg durch den Fels bahnt. Über Brücken durch meterhohe Felsen hindurch, wandert man entlang dem rauschenden Nass ca. 45 Minuten auf einem schmalen Steig durch die Schlucht. Der Weg ist durch Seile gesichert, trotzdem sollte man trittsicher und schwindelfrei\nsein. Die zwitschernden Wasseramseln, die in der Klamm brüten, bilden einen herrlichen Kontrast zum Rauschen des Baches – Tiere und Natur in vollem Einklang, unberührt von Stress und Hektik. Selten kann man die Natur in ihrer Vielfalt und Einzigartigkeit so sehr genießen wie hier. Früher wurde die Klamm für die Holztrift genutzt. Es war ein sehr schwieriges Unterfangen, die Holzstämme durch die enge Schlucht ins Tal zu transportieren. Im Frühsommer wurde das Schmelzwasser am Beginn der Gleirschklamm bei der sogenannten „Klausen“ aufgestaut, die Holzstämme in das Wasser eingelassen und nach Erreichen des nötigen Wasserstandes wurde das Klausentor mit einem Schlag geöffnet. Die Stämme schossen mit einem mächtigen Wasserschwall durch die Klamm talauswärts der Isar Richtung Scharnitz. Oft verkeilten sich die Stämme in der Schlucht und mussten mühsam von den erfahrenen Männern, den sogenannten Triftern, wieder eingerichtet werden. Heute erinnert nichts mehr an diese gefährliche Arbeit, bei der viele Männer verletzt wurden und dabei auch ums Leben kamen. Der Wanderer genießt an einem heißen Sommertag die kühle und wassergesättigte Luft in der Gleirschklamm. Von Scharnitz aus gelangt man über den Isarsteig, vorbei an der Scharnitzer Alm über den Nederweg zum Einstieg in die Gleirschklamm. Am Beginn laden Rastplätze mit Informationstafeln den Wanderer zum Verweilen ein. Es ist einfach herrlich die müden Füße im kalten Gleirschbach zu erfrischen und Energie zu tanken. Am Ende der Klamm hat man die Möglichkeit entweder über die Oberbrunnalm und den Hochwald zurück nach Scharnitz zu wandern, oder man wandert entlang des Gleirschtales über Forststraßen bis zur Amtsäge, weiter bis zur Möslalm und genießt dort einen gemütlichen Ausklang. Genießen Sie auf den Almen die Gastfreundschaft der Wirte und probieren Sie selbst hergestellte Almprodukte, wie z.B. den typischen Tiroler Graukäse! Zurück nach Scharnitz spazieren Sie entweder durch das Gleirschtal über den sogenannten Krapfen oder Sie tauchen ein weiteres Mal in die Gleirschklamm ein!",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c9553865-ab63-4c4c-aec6-3504a0b19d60/99/image.jpg",
+      "caption": "Gleirschklamm"
+    }
+  ],
+  "url": [
+    "http://www.seefeld.com"
+  ]
+}

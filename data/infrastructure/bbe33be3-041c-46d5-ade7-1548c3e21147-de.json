@@ -1,0 +1,41 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "ClothingStore",
+    "Store"
+  ],
+  "name": "Sport Wedl",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3714667398166",
+    "longitude": "11.1649991841309"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Sport Wedl",
+    "streetAddress": "Weidach 322 g",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6444",
+    "faxNumber": "(0043) 5214 6184",
+    "email": "anne.wedl@sport-wedl.com",
+    "url": "http://www.sport-wedl.com"
+  },
+  "description": "Weidach 322g\nTel. 05214-6444",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/466261e9-428f-4b1d-83cd-f8028eee7d4c/99/image.jpg",
+      "caption": "Sport Wedl"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ed0a3a7a-8241-48c7-95ea-527765d85da8/99/image.jpg",
+      "caption": "Sommer"
+    }
+  ],
+  "url": [
+    "http://www.sport-wedl.com"
+  ]
+}

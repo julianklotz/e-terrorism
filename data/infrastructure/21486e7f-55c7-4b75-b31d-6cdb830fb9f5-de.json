@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Physician"
+  ],
+  "name": "Dr. Alfred Scherfler/Zahnarzt",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3313477",
+    "longitude": "11.1873595"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Münchner Straße 300",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 3275",
+    "faxNumber": "(0043) 5212 50456",
+    "email": "seefeld@zahnarzt-scherfler.at",
+    "url": "http://www.zahnarzt-scherfler.at/seefeld"
+  },
+  "description": "Mo-Do 8.00 bis 17.00 Uhr, Fr 8.00 bis 12.00 Uhr nach vorheriger Terminvereinbarung",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/014e31a9-1b76-49a0-ab0f-07afa14d3416/99/image.jpg",
+      "caption": "Zahnarzt"
+    }
+  ]
+}

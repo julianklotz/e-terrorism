@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Winery"
+  ],
+  "name": "Weinverkostung im Hotel Central",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3300216202079",
+    "longitude": "11.187656880951"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Hotel Central",
+    "streetAddress": "Münchnerstr. 41",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 3288",
+    "faxNumber": "(0043) 5212 3288 66",
+    "email": "central@seefeld.at",
+    "url": "http://www.central-seefeld.at"
+  },
+  "description": "Verkosten Sie qualitativ hochwertige österreichische Weine und Destillate im hauseigenen Weinkeller! Erleben Sie einen gemütlichen Abend mit Hr. Ölhafen, dem Chef des Hauses und Freunden. Jeden Montag (vom 12.12.16bis einschließlich 13.03.17), 21.00 Uhr, Hotel Central, Kosten: € 12,00 pro Person - Verkostung und kleine Jause mit Speck und Käse). Am 27.02. kein Weinverkostung.\nAnmeldung unter Tel. 05212/3288 oder per E-Mail: central@seefeld.at.\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a33a4d90-f4f7-47fe-8629-2d1f0c2fc851/99/image.jpg",
+      "caption": "Piktogramm"
+    }
+  ],
+  "url": [
+    "http://www.central-seefeld.at"
+  ]
+}

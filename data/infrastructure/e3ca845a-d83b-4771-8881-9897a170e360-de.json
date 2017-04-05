@@ -1,0 +1,30 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant",
+    "CafeOrCoffeeShop"
+  ],
+  "name": "Birklstüberl",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3350964220194",
+    "longitude": "11.1910289525986"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Birklstüberl",
+    "streetAddress": "Kurhotelpromenade 79",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2322"
+  },
+  "description": "Sitzplätze für ca. 70 Personen",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/17f7eb99-dc77-413f-965d-b126316fc1ee/99/image.jpg",
+      "caption": "Birklstüberl Sommer"
+    }
+  ]
+}

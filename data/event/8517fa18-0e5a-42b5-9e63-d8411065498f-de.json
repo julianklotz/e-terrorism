@@ -1,0 +1,96 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": [
+      "Event"
+    ],
+    "name": "PLATZKONZERT",
+    "eventStatus": "http://schema.org/EventScheduled",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Infobüro Mösern",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Möserer Dorfstraße 11",
+        "addressLocality": "Mösern/Buchen",
+        "postalCode": "6100",
+        "addressCountry": "AT",
+        "telephone": "+4350880520",
+        "email": "info.moesern@seefeld.com",
+        "url": "http://www.seefeld.com"
+      }
+    },
+    "location": {
+      "@type": "Place",
+      "name": "Pfarrkirche Maria Heimsuchung",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Kirchweg 4",
+        "addressLocality": "Mösern",
+        "postalCode": "6100",
+        "addressCountry": "AT",
+        "telephone": "+4350880520",
+        "faxNumber": "+4350880521",
+        "email": "info.moesern@seefeld.com",
+        "url": "http://www.seefeld.com"
+      }
+    },
+    "description": "Platzkonzert mit der Musikkapelle \"Petersberger Musikanten\" Freier Eintritt!",
+    "image": [
+      {
+        "@type": "ImageObject",
+        "url": "http://resc.deskline.net/images/SEE/1/797a0370-d42e-4f60-b923-b7ab17f17df4/99/image.jpg",
+        "caption": "Pavillon"
+      }
+    ],
+    "startDate": "2014-08-16T20:00:00",
+    "endDate": "2014-08-16"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": [
+      "Event"
+    ],
+    "name": "PLATZKONZERT",
+    "eventStatus": "http://schema.org/EventScheduled",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Infobüro Mösern",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Möserer Dorfstraße 11",
+        "addressLocality": "Mösern/Buchen",
+        "postalCode": "6100",
+        "addressCountry": "AT",
+        "telephone": "+4350880520",
+        "email": "info.moesern@seefeld.com",
+        "url": "http://www.seefeld.com"
+      }
+    },
+    "location": {
+      "@type": "Place",
+      "name": "Pfarrkirche Maria Heimsuchung",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Kirchweg 4",
+        "addressLocality": "Mösern",
+        "postalCode": "6100",
+        "addressCountry": "AT",
+        "telephone": "+4350880520",
+        "faxNumber": "+4350880521",
+        "email": "info.moesern@seefeld.com",
+        "url": "http://www.seefeld.com"
+      }
+    },
+    "description": "Platzkonzert mit der Musikkapelle \"Petersberger Musikanten\" Freier Eintritt!",
+    "image": [
+      {
+        "@type": "ImageObject",
+        "url": "http://resc.deskline.net/images/SEE/1/797a0370-d42e-4f60-b923-b7ab17f17df4/99/image.jpg",
+        "caption": "Pavillon"
+      }
+    ],
+    "startDate": "2017-08-03T20:00:00",
+    "endDate": "2017-08-03"
+  }
+]

@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "FoodEstablishment"
+  ],
+  "name": "Gernspitz Vinothek",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3739872",
+    "longitude": "11.1701563"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Wanner",
+    "streetAddress": "Weidach 368 a",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 20308",
+    "email": "feriw.wanner@aon.at",
+    "url": "http://www.leutasch-weidach.at"
+  },
+  "description": "Weidach 368 a\nTel.: +43 5214/20308 oder 0043 664/4211068",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/49907f46-e246-4127-afc3-cab1cca2e62b/99/image.jpg",
+      "caption": "Weinkeller"
+    }
+  ],
+  "url": [
+    "http://www.leutasch-weidach.at"
+  ]
+}

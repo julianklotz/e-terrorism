@@ -1,0 +1,33 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "ClothingStore"
+  ],
+  "name": "Musikkapelle Leutasch",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Musikkapelle Leutasch",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "email": "info@mk-leutasch.at",
+    "url": "http://www.mk-leutasch.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/67f087e9-574f-4cc3-ab72-6ea1d34d3fb9/99/image.jpg",
+      "caption": "MK Leutasch"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7df7626d-c3c8-468b-a505-336cf2615b42/99/image.jpg",
+      "caption": "MK Leutasch am Musikpavillon"
+    }
+  ]
+}

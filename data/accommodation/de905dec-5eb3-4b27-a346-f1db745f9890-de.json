@@ -1,0 +1,891 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.aufatmen.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "aufatmen - entspannen.bewegen.sein",
+    "streetAddress": "Gasse 186 a",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6803",
+    "faxNumber": "(0043) 5214 6803",
+    "email": "info@aufatmen.at",
+    "url": "http://www.aufatmen.at"
+  },
+  "name": "aufatmen - entspannen.bewegen.sein",
+  "description": [
+    "Inmitten der Tiroler Bergwelt ist unser Haus ein ganz persönlicher Ort für Zeit. Zeit für sich selbst. Zeit zu entspannen. Zeit, sich zu finden. Zeit, in sich hinein zu spüren. Im Einklang mit der Natur, umgeben von natürlichen Materialien, mit viel Wärme und Individualität sowie einem unaufdringlichen exklusiven Angebot an Yoga und Meditation.\n\nMit unserer spürbaren Nähe zu unseren Gästen, unserem Haus, den natürlichen Materialien, die sich hier wiederfinden, der wohltuenden Balance zwischen Modernität und uriger Gemütlichkeit und unserem gewachsenen Angebot an Workshops und Kursen möchten wir vor allem eines erreichen: dass Sie sich bei uns wohl fühlen, Ihre Seele baumeln und den Alltag hinter sich lassen können. \n\nWir schaffen Raum zum Aufatmen – nicht nur gefühlt, sondern auch effektiv – mit großzügigen Räumlichkeiten wie unserem einladenden Frühstücksbereich, dem inspirierenden Panorama-Lesestadl, unserer wohltuenden Sauna und Bio-Sauna, einem Ruheraum, der seinem Namen gerecht wird, unserem Yoga-Raum, der mit seinen raumhohen Fenstern die Natur ins Innere holt, einem neuen Massage- und Therapieraum und natürlich mit jedem einzelnen unserer ganz individuellen Zimmer. ",
+    "In unserem Zimmerpreis sind folgende Leistungen inkludiert\nIm Sommer\n* individuelle Entspannungeinheiten (Yoga \u0026 Meditation)\n* geführte Bergwanderungen mit geprüf. Wanderführer\n* Bio- und Finnische Sauna \n* Infrarotkabine mit Farblichttherapie\n* Kneippbecken\n* Fahrräder\n\nIm Winter\n* geführte Schneeschuhwanderungen\n* Schi- und Wachsraum mit Tipps vom Profi\n* täglich freie Benützung des gesamten Spa",
+    "Check out bis 10.00 Uhr\nCheck in    ab 14.00 Uhr\n\nUnser Haus liegt im Ortsteil Gasse - in der Mitte des Leutaschtales. \nEine genaue Anfahrtsskizze finden Sie auf unserer Homepage unter http://www.pension-leutasch.com/Kontakt-und-Anfahrt/Anfahrt.aspx"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "reviewCount": "30"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/326d9895-2d65-431c-96d6-8d311c462880/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d23319dd-b15f-48ba-9bae-b27692d65333/99/image.png",
+      "caption": "Logo"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a6e1cd3d-9abd-4637-af79-22878e1383f0/99/image.jpg",
+      "caption": "aufatmen Leutasch-Tirol_Winter-2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3adb9328-5aef-402e-afbf-d09e9347a53e/99/image.jpg",
+      "caption": "aufatmen Leutasch-Tirol_Winter-9"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/703ea15a-3a11-4976-82d4-1220b013329b/99/image.jpg",
+      "caption": "aufatmen Leutasch-Tirol-4"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c82edb8d-6f14-4e77-ba3d-749c190fcd22/99/image.jpg",
+      "caption": "aufatmen Leutasch-Tirol-6"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/049a7e2f-f274-402c-bc4c-a88ec9720309/99/image.jpg",
+      "caption": "aufatmen Leutasch-Tirol_Erleben-1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7086ea08-1393-4014-9352-57d22cb439a2/99/image.jpg",
+      "caption": "aufatmen Leutasch-Tirol_Erleben-2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6014dbb0-8a5b-46a5-902c-74c1ba2ac215/99/image.jpg",
+      "caption": "aufatmen Leutasch-Tirol_Erleben-3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/df30acb0-dafd-404c-a856-a7a37296dcdc/99/image.jpg",
+      "caption": "aufatmen Leutasch-Tirol_Erleben-4"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/733e4336-1119-473d-961a-2cbea698e6f1/99/image.jpg",
+      "caption": "aufatmen Leutasch-Tirol_Erleben-5"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/34a92f82-3461-4186-8fa6-58e0680a7567/99/image.jpg",
+      "caption": "aufatmen Leutasch-Tirol_Erleben-6"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a3fea840-49d3-4e20-983f-93dc752a4ad7/99/image.jpg",
+      "caption": "aufatmen Leutasch-Tirol_Erleben-7"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6d8e067a-aca2-4508-aa3b-98d8be7b5ae0/99/image.jpg",
+      "caption": "aufatmen Leutasch-Tirol_Erleben-8"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/39aba8b5-e3b3-4d29-9f03-296c3026604b/99/image.jpg",
+      "caption": "aufatmen Leutasch-Tirol_Erleben-9"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/75abd10d-3d4b-4b45-a34f-ff9848b3dc95/99/image.jpg",
+      "caption": "aufatmen Leutasch-Tirol_Erleben-10"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6140698f-0bcc-45dc-9983-2606159e6a8d/99/image.jpg",
+      "caption": "aufatmen Leutasch-Tirol_Erleben-11"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a76583ff-ba6e-44df-b2fb-dc7304da4c5a/99/image.jpg",
+      "caption": "aufatmen Leutasch-Tirol_Erleben-12"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/29b0620a-82a7-406c-81c0-483e2e924d68/99/image.jpg",
+      "caption": "aufatmen Leutasch-Tirol_Erleben-13"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f3818c31-3bf9-4342-9c0e-a4c74371a065/99/image.jpg",
+      "caption": "aufatmen Leutasch-Tirol_Erleben-14"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e2ae50ce-2a6b-481f-b0f7-37b328c0a537/99/image.jpg",
+      "caption": "aufatmen Leutasch-Tirol_Regenerieren-1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b21fc610-d7a3-4f6d-a8e0-6c3e2bdf5472/99/image.jpg",
+      "caption": "aufatmen Leutasch-Tirol_Regenerieren-5"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2bafad77-7f93-47e5-8844-e973c1e10cbd/99/image.jpg",
+      "caption": "aufatmen Leutasch-Tirol_Regenerieren-2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3996da5d-56a1-4139-9a27-3608a24981fe/99/image.jpg",
+      "caption": "aufatmen Leutasch-Tirol_Regenerieren-7"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d4d1caf4-695d-4f39-a8a6-36bddc55de82/99/image.jpg",
+      "caption": "aufatmen Leutasch-Tirol_Regenerieren-8"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7220daef-1fef-444a-80df-700d479fe5cd/99/image.jpg",
+      "caption": "aufatmen Leutasch-Tirol_Winter-9"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e5e6c8ff-44e1-48d8-9b2a-00a8c4c52fe3/99/image.jpg",
+      "caption": "aufatmen Leutasch-Tirol_Winter-2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/db9e83b9-10fe-4156-9b31-1132c809ca47/99/image.jpg",
+      "caption": "aufatmen Leutasch-Tirol-4"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/bb75dddd-3f9c-40d7-a029-cccbbf599b76/99/image.jpg",
+      "caption": "aufatmen Leutasch-Tirol-8"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3812581930212",
+    "longitude": "11.1625921726227"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Drei Stüberl, jedes für sich ganz individuell und liebevoll ausgestattet. Eine zimmereigene Terrasse, ein Bett in der kuscheligen Nische oder gar mit Holz-Verdeck. Unseren etwas kleineren Doppelzimmern ist eines gemein – der besondere Charme für ein warmes Gefühl ums Herz. Der wohlige Duft des Zirbenholzes verführt zu manchem Tagtraum und spendet friedliche Nachtruhe. Ankommen, aufatmen und das Gefühl des Besonderen genießen.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Zirben Stüberl",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Yoga\u0026Wandern, Zirben Stüberl",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Komm zum OM 4 Nächte, Zirben Stüberl",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Komm zum Om - 3 Näch, Zirben Stüberl",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Komm zum Om 7 Nächte, Zirben Stüberl",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "65.00",
+          "maxPrice": "65.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "65.00",
+          "maxPrice": "75.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "710.00",
+          "maxPrice": "710.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "499.00",
+          "maxPrice": "499.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "520.00",
+          "maxPrice": "520.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "840.00",
+          "maxPrice": "840.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "520.00",
+          "maxPrice": "520.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "840.00",
+          "maxPrice": "840.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "885.00",
+          "maxPrice": "885.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "710.00",
+          "maxPrice": "710.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Einzelzimmer, Dusche, WC",
+      "description": "Ganz alleine ist man nie in unserem Zirben-Einzelzimmer und in unserem Lärchen-Stüberl.  Vertreten durch unseren Öfelekopf und die Ahrnspitze ist die Bergwelt hier immer präsent. Die Natur mit den Augen genießen und durch den Duft des Holzes einatmen. Sich fallen lassen, die Harmonie zwischen Natur und Mensch fühlen und tief in sich hinein spüren. Ankommen, aufatmen und sich neu finden. ",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Single Room",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Komm zum OM 4 Nächte, Single Room",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Komm zum Om - 3 Näch, Single Room",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Komm zum Om 7 Nächte, Single Room",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "55.00",
+          "maxPrice": "65.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "420.00",
+          "maxPrice": "420.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "420.00",
+          "maxPrice": "420.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "710.00",
+          "maxPrice": "710.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Gemütlich Platz zu zweit findet sich in den Zirben Stuben, unseren drei geräumigen Doppelzimmern. Herrlich duftet es hier nach heimischem Zirben-Holz, verführerisch laden die zimmereigene Pergola oder Holzbox zum Verweilen und Tagträumen ein. Lesen, Sonne tanken, die Zweisamkeit genießen oder einfach nur den Gedanken folgen. Sich spüren, fühlen, die herrliche Natur der Umgebung auf sich wirken lassen. Abschalten, aufatmen und neue Energie tanken.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Zirben Stube",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Yoga\u0026Wandern, Zirben Stube",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Komm zum OM 4 Nächte, Zirben Stube",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Komm zum Om - 3 Näch, Zirben Stube",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Komm zum Om 7 Nächte, Zirben Stube",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "69.00",
+          "maxPrice": "69.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "55.00",
+          "maxPrice": "69.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "740.00",
+          "maxPrice": "740.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "530.00",
+          "maxPrice": "530.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "440.00",
+          "maxPrice": "440.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "440.00",
+          "maxPrice": "440.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "745.00",
+          "maxPrice": "745.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Ankommen und einatmen. Den herrlichen Duft von Zirbenholz, der einen in unseren drei Chalets umgibt. \nSich ausstrecken, frei fühlen und die Seele baumeln lassen - auf dem großzügigen Bett oder der gemütlichen Couch. Die liebevollen Details aufsaugen, die sich hier finden und den Zimmern Wärme schenken. Die es zu mehr machen als zu einem gewöhnlichen Schlafplatz. Die wundervolle Aussicht auf den umgebenden Wald und den Kraftplatz genießen, die sich unmittelbar vor den Chalets erstrecken. Aufatmen",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Zirben Chalet",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Komm zum OM 4 Nächte, Zirben Chalet",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Komm zum Om - 3 Näch, Zirben Chalet",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Komm zum Om 7 Nächte, Zirben Chalet",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "79.00",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "70.00",
+          "maxPrice": "79.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "70.00",
+          "maxPrice": "70.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "480.00",
+          "maxPrice": "480.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "480.00",
+          "maxPrice": "480.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "815.00",
+          "maxPrice": "815.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Mehrbettzimmer, Dusche, WC",
+      "description": "Unser Appartement unterm Dach mit viel Platz für Familien. oder gute Freunde. Bis zu 10 Personen. \nMit Fichtengallerie und Küche und Esstisch für alle. \nDas „miteinander“ ist der ursprüngliche Gedanke unseres Appartments „fichtennest“.\nAuf der Eckbank liegen, den Geruch von naturbelassenem Fichtenholz einatmen, in Ruhe die Holztäfelung betrachten und die Natur ganz nah spüren. Geborgenheit und innere Ruhe kehren ein und einer der vielen Plätze im Nest ist vielleicht ihr Rückzugs-Ort. ",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Fichtennest",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "8",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Komm zum OM 4 Nächte, Fichtennest",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "8",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Komm zum Om - 3 Näch, Fichtennest",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "8",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Komm zum Om 7 Nächte, Fichtennest",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "8",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "90.00",
+          "maxPrice": "90.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "90.00",
+          "maxPrice": "90.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "90.00",
+          "maxPrice": "90.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "90.00",
+          "maxPrice": "90.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "90.00",
+          "maxPrice": "90.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 7",
+          "minPrice": "90.00",
+          "maxPrice": "90.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 8",
+          "minPrice": "90.00",
+          "maxPrice": "90.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

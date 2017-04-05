@@ -1,0 +1,155 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.seefeld.biz/pergola/",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Pergola",
+    "streetAddress": "Reitherspitzstr. 574",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2905",
+    "faxNumber": "(0043) 5212 2905",
+    "email": "frost.seefeld@aon.at",
+    "url": "http://www.seefeld.biz/pergola/"
+  },
+  "name": "Haus Pergola",
+  "description": [
+    "Für erholsame und individuelle Urlaubsgestaltung wohnen Sie in attraktiver und ruhiger Südlage: direkt an der 9-Loch-\"Golfacademy\" im Sommer, unmittelbar an der Loipe \"Lenerwiese\" im Winter, nur 350m vom Dorfzentrum und Bahnhof, mit viel Platz ums Haus. \nSauna und Solarium, Infrarotkabine, ermäßigter Eintritt ins Olympia-Hallenbad Montag - Freitag werktags.",
+    "EXKLUSIV: Telefon, Haustiere (2.- 6.-€ täglich)\nINKLUSIV: Strom, Wasser, komplette Wäsche, Heizung",
+    "Check-In 16 Uhr   Check-Out 10 Uhr\n\nFahren Sie von Ausfahrt \"Seefeld Mitte\" bis zum 1.Kreisverkehr, biegen Sie nach links in den Römerweg ein bis zum 2.Kreisverkehr, biegen  Sie nach rechts in die Reitherspitzstraße ein und fahren Sie 300 m weiter"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a86ae13c-7723-4c67-9600-ac3f78903ec0/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/cf8b6933-c6d7-4c89-a4fc-8d8b61dd8078/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/97773735-0cfd-42d3-b748-681b0047aee0/99/image.jpg",
+      "caption": "Winter2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/cbe13940-45f6-4912-af68-20921606a607/99/image.jpg",
+      "caption": "Sauna"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2322134a-6583-49f4-a76f-82419fca243a/99/image.jpg",
+      "caption": "Stüberl"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/41d392be-5304-41db-b73a-c974151bc0d5/99/image.jpg",
+      "caption": "Kuh"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.326369589744",
+    "longitude": "11.193179876252"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC",
+      "description": "Wohnschlafraum (mit 2 Betten),Kochecke im Vorraum, Balkon",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Typ A/Wohn-Schlafraum/Dusche, WC",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Kleineres Zwei-Raum App. mit sep. Kochecke, Balkon",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Typ B/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": [
+        "Two-rooms-apartment with separate kitchenette balcony westside",
+        "Zwei-Raum-Appartment mit sep. Kochecke, Balkon"
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Typ C/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Zwei-Raum-Appartment mit Kochecke oder kleiner Küche, mit Südterrasse/Balkon, Richtung Golfplatz/Loipe",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Typ D/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

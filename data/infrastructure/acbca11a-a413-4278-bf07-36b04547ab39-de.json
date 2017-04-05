@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation",
+    "TrainStation",
+    "TravelAgency",
+    "TouristAttraction"
+  ],
+  "name": "Sommertubing auf der Rosshütte",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Bergbahnen Rosshütte",
+    "streetAddress": "Talstation 419",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "+43521224160",
+    "email": "info@rosshuette.at",
+    "url": "http://www.rosshuette.at"
+  },
+  "description": [
+    "Neu ab Juli 2016 \"Sommertubing\" auf der Rosshütte",
+    "Neu ab Juli 2016 \"Sommertubing\" auf der Rosshütte"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/471de384-b32e-43c4-8b3d-9b768c84de60/99/image.jpg",
+      "caption": "Sommertubing"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/94939ecf-fd15-49db-9d8f-bb84348321f4/99/image.jpg",
+      "caption": "Tubing"
+    }
+  ],
+  "url": [
+    "http://www.rosshuette.at"
+  ]
+}

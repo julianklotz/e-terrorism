@@ -1,0 +1,129 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.kluckner-bergruh.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Bergruh",
+    "streetAddress": "Plaik 94",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6670",
+    "faxNumber": "(0043) 5214 6670",
+    "email": "margit.kluckner@aon.at",
+    "url": "http://www.kluckner-bergruh.at"
+  },
+  "name": "Haus Bergruh",
+  "description": [
+    "Unser ruhig, auf einer Anhöhe gelegenes Haus Bergruh in Leutasch ist Ihre ideale Unterkunft für Ihren Winter- und Sommerurlaub in Tirol. Im Winter nicht weit von den Langlaufloipen und Winterwanderwegen entfernt und im Sommer der perfekte Ausgangspunkt für Wanderungen und Mountainbiketouren in der Olympiaregion Seefeld in Tirol.\n\nBeide voll ausgestatteten Ferienwohungen im Haus Bergruh sind liebevoll, gemütlich und mit viel hellem Holz eingerichtet. Im 50 m² großen Appartement A mit 2 Schlafzimmern können es sich 2 – 4 Personen gemütlich machen. Appartement B mit 38 m²  verfügt über 1 separates Schlafzimmer und ist ideal für 2 Personen. Bei beiden Ferienwohnungen genießen Sie vom Balkon einen wunderbaren Ausblick auf die Hohe Munde und das umliegende Bergpanorama. Damit Sie den Tag angenehm starten können, bieten wir Ihnen natürlich Brötchenservice an. WLAN steht Ihnen natürlich im ganzen Haus Bergruh kostenlos zur Verfügung.\n\nUnser Haus Bergruh liegt sonnig im Ortsteil Plaik. In nur 5 Gehminuten gelangen Sie zur Bushaltestelle. Von hier aus bringen Sie die Busse in die gesamte Olympiaregion Seefeld. Im Winter können Sie die 271 km täglich präparierten Langlaufloipen der Olympiaregion genießen. Vom Haus Bergruh trennen Sie nur wenige Meter von der mittelschwierigen Langlaufloipe Plaik. Genießen Sie auch die wunderbare Winterlandschaft bei einem gemütlichen Spaziergang auf den geräumten und gebahnten Winterwanderwegen, welche teilweise auch direkt an der Loipe entlang führen. \nIm Sommer bietet das Leutaschtal unzählige Wander- und Mountainbikemöglichkeiten. Starten Sie direkt von Ihrer Unterkunft Haus Bergruh zur Wettersteinhütte oder Wangalm oder wandern Sie ins Almenparadies Gaistal, wo Sie viele weitere Hütten und Almen erwarten. Besonders auch für Mountainbiker eignet sich das Gaistal hervorragend.\n\nLassen Sie sich von der herrlichen Natur im Leutaschtal beeindrucken und verbringen Sie Ihren Urlaub hier bei uns im gemütlichen Haus Bergruh. Wir freuen uns schon jetzt, Sie schon bald als Gäste begrüßen zu dürfen! Ihre Gastgeber, Familie Kluckner.",
+    "Incl.: Strom, Wasser, Heizung\n",
+    "Leutasch - Richtung Telfs - bei der Reithalle rechts abbiegen - unser Haus liegt auf einer Anhöhe auf der rechten Seite."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e0cb527e-854b-4139-b0f9-f5df3c1b10f0/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/debbcf14-eb5d-44a3-8040-fc05e352ebba/99/image.jpg",
+      "caption": "Winter"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.362457467887",
+    "longitude": "11.130378378522"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "Neuwertige, Helle Wohnung mit eigenem Balkon. Nichtraucherwohnung!!\nIdealer Ausgangspunkt für Wanderungen!",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment A /2 Schlafräume/Dusche, WC",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "45.00",
+          "maxPrice": "75.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "52.00",
+          "maxPrice": "82.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "62.00",
+          "maxPrice": "88.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Neuwertige, helle Wohnung mit eigenem Balkon. Komplett eingerichtete Wohnküche, Vorraum, Dusche/WC. Hand- und Badetüch, Bett- und Tischwäsche vorhanden. Nichtraucherwohnung!\nIdealer Ausgangspunkt für Wanderungen und Bergtouren.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment B /1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "45.00",
+          "maxPrice": "68.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "45.00",
+          "maxPrice": "68.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure",
+    "LocalBusiness"
+  ],
+  "name": "Feuerwehr/ Leutasch-Kirchplatzl",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3690099",
+    "longitude": "11.1447577"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Kirchplatzl 128a",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6555",
+    "email": "info@feuerwehr-leutasch.at",
+    "url": "http://www.feuerwehr-leutasch.at"
+  },
+  "description": "Kirchplatzl 128 a\nTel.: +43 5214/6555\n\nNortruf: 122",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1cda26b5-38ee-447f-9b0e-d53ee16be1e6/99/image.jpg",
+      "caption": "Feuerwehr"
+    }
+  ],
+  "url": [
+    "http://www.feuerwehr-leutasch.at"
+  ]
+}

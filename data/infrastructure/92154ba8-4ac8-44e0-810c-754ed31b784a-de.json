@@ -1,0 +1,30 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Church"
+  ],
+  "name": "Kapelle Obere Gasse",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3773127",
+    "longitude": "11.1564504"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Kapelle Obere Gasse",
+    "streetAddress": "Gasse 163",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f118b20b-be89-4dbe-b55d-b6f5abb1e1d3/99/image.jpg",
+      "caption": "Kapelle Obere Gasse"
+    }
+  ],
+  "url": [
+    "http://"
+  ]
+}

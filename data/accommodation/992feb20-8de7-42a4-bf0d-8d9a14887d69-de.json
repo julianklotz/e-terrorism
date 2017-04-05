@@ -1,0 +1,207 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.wartenstein.beepworld.de",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Wartenstein",
+    "streetAddress": "Reitherspitzstr. 548",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2911",
+    "email": "wartenstein@seefeldnet.at",
+    "url": "http://www.wartenstein.beepworld.de"
+  },
+  "name": "Haus Wartenstein",
+  "description": [
+    "Unsere kleine Pension in schöner sonniger Lage bietet Ihnen gepflegte Unterkunft für erholsame Urlaubstage. Das Haus liegt nahe der großen Liftanlage,  der Rosshütte, den Wanderwegen und ist nur 5 Gehminuten vom Zentrum entfernt. \nDie beiden Zimmer sind hell und freundlich eingerichtet, sehr geräumig und mit Bad/Dusche/WC, Satelliten-TV und Südbalkon mit herrlichem Blick. \nEin herzhaftes Frühstücksbuffet bieten wir Ihnen in unserem gemütlichen Aufenthaltsraum.\nLassen Sie sich verwöhnen in einem Familienbetrieb, in dem Gemütlichkeit und Gastlichkeit an erster Stelle stehen.",
+    "Unser Gästehaus ist nur während der Wintermonate (ab 25. Dezember bis Anfang März) geöffnet. \nWenn Sie zu einer anderen Zeit in unserem Haus Urlaub machen wollen, so ersuchen wir um Kontaktaufnahme per Telefon bzw. Email.\nSollten Sie nur eine Nacht oder zwei Nächte bei uns verbringen wollen, so fällt eine Kurzzeitzuschlag von Euro 5,-- pro Person und Nacht an.",
+    "\nGenerell wird das bezugsfertige Zimmer ab 11:00 Uhr zur Verfügung gestellt. Ohne anderslautende Absprache wird das reservierte Zimmer nur bis 17:00 Uhr freigehalten. Nach vorheriger Absprache mit uns kann ein anderer Anreisezeitpunkt zwischen 06:00 Uhr und 24:00 Uhr erfolgen. Am Abreisetag bitten wir Sie, das Zimmer bis 10:00 Uhr zu räumen.",
+    "Wartenstein Erika Gruber Seefeld in Tirol Seefeld Olympiaregion Haus Privatzimmer ermietung Zimmer"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/10846a76-2ddd-4e64-9da8-0e3d6483e4f8/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/156e5eb0-44a8-495d-b78d-6d9a61cac058/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/85ab87c2-3e36-4866-9be8-adb47069c746/99/image.jpg",
+      "caption": "Winter 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4aab9510-58d5-419f-9ba1-3d8753ff08c3/99/image.jpg",
+      "caption": "Hausansicht Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c6ea7b69-eac6-4ad9-83e9-5e191b4f364a/99/image.jpg",
+      "caption": "Winter mit Aussicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/cd2e9774-7d08-468f-8275-8c66bf131d15/99/image.jpg",
+      "caption": "Zi 2 a"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/714e3aa8-41cc-4531-bfc0-f048d0b24046/99/image.jpg",
+      "caption": "Zi 2 b"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/08b43e3f-5b91-4fb7-8ad1-44d5e1703055/99/image.jpg",
+      "caption": "Zi 2 c"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/649678dc-6e28-4e85-959c-a1980592a02c/99/image.jpg",
+      "caption": "Zimmer Nr. 2 3-bettig a"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f90a5dc8-33a7-4fca-a938-34239f2ab785/99/image.jpg",
+      "caption": "Zimmer Nr. 2 3-bettig b"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b9b7a2ed-f328-4b6e-84bb-98dec772d726/99/image.jpg",
+      "caption": "Zi 5 a"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/69cded09-e565-471b-bd2e-bd2838f21879/99/image.jpg",
+      "caption": "Zi 5 b"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2d1789df-6fd4-4cdf-962f-8b865f778e59/99/image.jpg",
+      "caption": "Zi 5 c"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0f9d1cd5-321b-41a9-b512-2f10fb038dee/99/image.jpg",
+      "caption": "Zimmer Nr. 5 3-bettig a"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e529f96d-cd9a-4e1c-8b51-9e922f2abcc6/99/image.jpg",
+      "caption": "Zimmer Nr. 5 3-bettig b"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3266722587268",
+    "longitude": "11.1981582641602"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche und Bad, WC, Balkon",
+      "description": "Ein helles, geräumiges Zimmer mit Dusche/Bad und WC, Sat-TV und Südwestbalkon, Zusatzbett möglich. Reichhaltiges erweitertes Frühstück (Buffetform).",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppel-/Dreibettzimmer mit Dusche/Bad, WC Nr. 2",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "50.00",
+          "maxPrice": "60.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "35.00",
+          "maxPrice": "40.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "35.00",
+          "maxPrice": "40.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Dreibettzimmer, Dusche und Bad, WC, Balkon",
+      "description": "Ein helles, geräumiges Zimmer mit Dusche/Bad und WC, Sat-TV und Südbalkon, Zusatzbett möglich. Reichhaltiges erweitertes Frühstück (Buffetform).",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppel-/Dreibettzimmer mit Dusche/Bad, WC Nr. 5",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "50.00",
+          "maxPrice": "60.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "35.00",
+          "maxPrice": "40.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "35.00",
+          "maxPrice": "40.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

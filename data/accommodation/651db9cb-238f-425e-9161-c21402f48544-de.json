@@ -1,0 +1,111 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.fragenstein.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Fragenstein",
+    "streetAddress": "Am Kirchwald 248",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2648",
+    "faxNumber": "(0043) 5212 2648 5",
+    "email": "info@fragenstein.at",
+    "url": "www.fragenstein.at"
+  },
+  "name": "Haus Fragenstein",
+  "description": [
+    "Unser Haus liegt 3 Gehminuten vom Zentrum-Fußgängerzone entfernt. \nOlympia Erlebnisbad sowie Loipen-, Eisbahnen-, Lift-, Sport- und Tennisanlagen sind max 5 Gehminuten entfernt. Sehr zentral und doch sehr ruhige Lage. Gartenhaus mit gemütlicher Liegewiese.",
+    "INKLUSIVE:\nStrom - Heizung - Wasser - PKW Abstellplatz - Fahrräder - Olympia-Hallenbad\n\nEXKLUSIVE:\nTelefonkosten - Solarium - Massagen - Frühstück auf Wunsch",
+    "Check in 15 Uhr/Check out 10 Uhr\nUnser Haus befindet sich in der Kirchwaldsiedlung, 2 Minuten zufuß vom Sport und Kongresszentrum Olympia entfernt."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/678536f8-9e64-412e-8bea-34e58c83e0a7/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b0fae05a-49e8-4f4c-8961-d041eb11fa11/99/image.jpg",
+      "caption": "Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3285229993248",
+    "longitude": "11.181018948555"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC",
+      "description": "Wohnschlafraum \nDU/WC \nWohnküche \nKabel TV/Telefon",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/Wohn-Schlafraum/Dusche, WC",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "2 Schlafzimmer \n2 Badezimmer/DU-WC\nTelefon\n1 Küche\n1 Wohnzimmer\nBalkon\nTV/Telephon",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/2 Schlafräume/Dusche, WC",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "1 Schlafzimmer - 1 Wohnschlafzimmer - Küche - DU/WC - Vorraum - Balkon - Kabel-Tv - Telefon",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Landhaus Hoch",
+    "streetAddress": "Gschwandtweg 20",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "0043 5212 4110",
+    "faxNumber": "0043 5212 4110",
+    "email": "landhaus-hoch@seefeldnet.at"
+  },
+  "name": "Landhaus Hoch",
+  "description": [
+    "Gemütliches 1-Raum-Appartement mit Blick zum Seefelder Wildsee. Für 2 Personen mit Wohn-Schlafzimmer, Sitzecke, Kabel-TV, Telefon, Küche, Terrasse, Dusche/WC, Garage.\nGolfacademy Mitglied- 30% Ermäßigung. Haus liegt direkt am Seefelder Wildsee, ruhige Lage, 7 Gehminuten vom Zentrum.",
+    "1. Inklusive: Garage, Heizung, Wasser, Strom\n2. Exklusive: OT, Endreinigung, Telefonkosten",
+    "Unser Haus liegt direkt am Seefelder Wildsee - Westseite. Einfahrt Wildseepromenade.\nNach 500m sind Sie bei Gschwandt 20 (gelbes Haus) angelangt."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/be56f8c7-fe75-414b-9ba4-20a4539b6f3d/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f7259e06-3004-4e9a-89ed-6a64b856d86a/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/40f7269c-36b1-4d55-b098-a3033e5c80b4/99/image.jpg",
+      "caption": "Aussicht Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/00bb2bf3-4d01-4299-9ff6-29c6bcff779d/99/image.jpg",
+      "caption": "Terrasse Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e170d4e2-fb78-4162-b901-d40fad5143b4/99/image.jpg",
+      "caption": "Aussicht Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/dbec392e-9bf6-463b-8fba-40ecf67df2c4/99/image.jpg",
+      "caption": "Hausansicht Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/29d73447-17c5-4e06-80a2-71b51c76373b/99/image.jpg",
+      "caption": "Aussicht Winter 1"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3222942173502",
+    "longitude": "11.1886471509933"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/Wohn-Schlafraum/Dusche, WC",
+          "description": "Gemütliches 1-Raum-Appartement mit Blick zum Seefelder Wildsee. Für 2 Personen mit Wohn-Schlafzimmer, Sitzecke, Kabel-TV, Telefon, Küche, Terrasse, Dusche/WC, Garage.\nGolfacademy Mitglied- 30% Ermäßigung. Haus liegt direkt am Seefelder Wildsee, ruhige Lage, 7 Gehminuten vom Zentrum.",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://web.deskline.net/seefeld/de/show_accommodation/SEE/16d92442-471b-4d72-983f-407c081a3b7c/haus_christian",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Christian",
+    "streetAddress": "Weidach 300 o",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6733",
+    "faxNumber": "(0043) 5214 6733",
+    "email": "martin.krug87@gmx.at"
+  },
+  "name": "Haus Christian",
+  "description": [
+    "Mittenwald - Leutasch - Rtsteil Weidach - Richtung Hotel Kristall - Seewaldsiedlung\n\nMittenwald - Scharnitz - Seefeld - Leutasch - Ortsteil Weidach - Richtung Hotel Kristall - Seewaldsiedlung",
+    "Familiär geführtes Haus in sonniger, ruhiger Lage, 10 Gehminuten vom Zentrum Weidach entfernt, nahe der Loipe, dem Alpenbad und Kreithlift.",
+    "Kostenlos: Heizung, Gartenmöbel, Gästekühlschrank, Skiabstellraum, Terrasse, Fahrradverleih;"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/781043d0-9fc7-4ce2-a5e6-c44e1cdd03d3/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1c14ee83-89a4-45b3-8a64-c9e98704e5e4/99/image.jpg",
+      "caption": "Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.367772421391",
+    "longitude": "11.160668670892"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Komplett ausgestattet, großes Wohnzimmer mit Kochnische und Essecke, sep. Schlafzimmer",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,739 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://www.haymon.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Hotel Haymon",
+    "streetAddress": "Kalkkögelweg 264",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2419",
+    "faxNumber": "(0043) 5212 2419 93",
+    "email": "seefeld@haymon.at",
+    "url": "http://www.haymon.at"
+  },
+  "name": "Hotel Haymon",
+  "description": [
+    "Die Familie Hiltpolt freut sich, Sie und Ihre Familie im 3* Hotel Haymon in Seefeld in Tirol willkommen zu heißen! Genießen Sie Ihren wohlverdienten Urlaub in einem der zentralsten aber doch ruhig gelegenen Hotels von Seefeld.\n\nAm Rande der Fußgängerzone Seefeld befindet sich unser familiengeführtes Hotel. In nur wenigen Schritten erreichen Sie das Ortszentrum, welches mit Geschäften und Cafés zum Verweilen einlädt. Der Bahnhof und Busterminal liegen ebenfalls nur 3 Gehminuten entfernt. Die Haltestelle für den kostenlosen Shuttle- und Skibus befindet sich direkt neben unserem Hotel. Ihr Auto können Sie sorgen- und kostenfrei auf unserem überdachten Parkplatz abstellen.\n\nModern und doch im Tiroler Landhausstil - so erwarten Sie die großzügigen und hellen Zimmer im Hotel Haymon in Seefeld in Tirol. Alle Zimmer sind komfortabel eingerichtet und verfügen über einen Balkon mit Sitzgelegenheit. Nach einem aktiven Wandertag in der wunderschönen Olympiaregion Seefeld entspannen und genießen Sie die Sonne auf unserer schönen Sonnenterrasse und gepflegten Liegewiese. \n\nFür Ihr leibliches Wohl sorgt unser Küchenchef Andreas mit vollem Einsatz. Starten Sie Ihren Urlaubstag mit einem ausgewogenen und vielfältigen Frühstück. Am Nachmittag stehen Ihnen kostenlos hausgemachte Kuchen am Buffet zur Verfügung. Genießen Sie am Abend ein 4-Gang-Wahlmenü mit typisch österreichischen und internationalen Spezialitäten. Feinste Zubereitung mit Produkten von den heimischen Bio-Bauern. Lassen Sie den Abend an unserer Kaminbar, bei einem Glas Wein ausklingen und lauschen Sie dem Knistern des Feuers.\n\nDas Hotel Haymon in Seefeld ist der ideale Ausgangspunkt für unzählige Wander- und Mountainbiketouren. Begeben Sie sich auf Entdeckungsreise, zusammen mit dem Wanderführer und nehmen Sie kostenlos am geführten Wanderprogramm teil. Entspannen Sie nach einem ereignisreichen Tag im Olympiabad in Seefeld, die Kosten übernehmen wir.\n\nIm Winter ist die Olympiaregion Seefeld ein wahres Langlauf- und Winterwanderparadies. Unseren Hausgästen bieten wir eine kostenlose Benützung der Loipen und der Regionsbusse. Nur 5 Gehminuten hinter unserem Haus befindet sich der Einstieg in die Loipe A2, auf welcher auch Ihr Vierbeiner willkommen ist. Auch der Skispaß kommt in Seefeld nicht zu kurz, bequem erreichen Sie mit dem kostenlosen Skibus das Familienskigebiet Rosshütte und die Gschwandtkopflifte.\n\nDie Gastgeber Ingrid und Markus freuen sich, Sie bald im Hotel Haymon in Seefeld in Tirol verwöhnen zu dürfen!",
+    "Exklusiv für unsere Gäste: Freier Eintritt ins  Olympia-Schwimmbad (ab 3 Nächten Aufenthalt, nicht gültig am Sa, So, und Feiertagen) und freie Benützung der hauseigenen Sauna. IM SOMMER: Eigenes geführtes WANDERPROGRAMM, kostenlose Nutzung der Minigolfanlage, Liegewiese und bis zu 35% Ermäßigung erwarten Sie bei der Golfakademie. ",
+    "bis spätestens 14:00 sind die Zimmer zum check in bereit",
+    "Hotel, Hotels, Seefeld, Tirol, Unterkunft, Zentrum, Urlaub mit Hund, Wandern, Langlaufen, schifahren"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "reviewCount": "256"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5af6a540-0e75-4df9-a8a5-fcccccd8fcdb/99/image.jpg",
+      "caption": "Daemmerung  Hotel Haymon Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ca71b9ad-07d3-447f-85ac-3a6725e652ab/99/image.jpg",
+      "caption": "Logo"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/65121b54-ebb7-4083-a473-c5e336b1f32d/99/image.jpg",
+      "caption": "Aussen So16 Holzknecht BEARBEITET"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/941e886b-09ca-468e-a0ce-2fe89a02b495/99/image.jpg",
+      "caption": "Bibliothek nah Hotel Haymon Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7dfeaee4-aa5c-4b5a-bb95-58f1de63ffa8/99/image.jpg",
+      "caption": "Bar Kamin Hotel Haymon Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3e171589-cfad-4f2f-ba0b-83ce0eec1a85/99/image.jpg",
+      "caption": "Frühstück Karte Hotel Haymon Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a49659df-15c6-49eb-a27b-5c90b38fa50b/99/image.jpg",
+      "caption": "Rezeption Hotel Haymon Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8ba41505-e359-4d29-a488-3ca946d07be1/99/image.jpg",
+      "caption": "Einfahrt"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/900e774a-2b69-41cc-81c4-9d7dc615e529/99/image.jpg",
+      "caption": "Speisesaal"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/fc560d62-3273-4851-91d3-689c3a14bcd5/99/image.jpg",
+      "caption": "Stube Speck Hotel Haymon Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/babe7089-9246-4ce0-b56a-368fd9d1dd8c/99/image.gif",
+      "caption": "Parkplatz"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/80aa4cf7-21a2-479a-8d99-dec39e77502b/99/image.jpg",
+      "caption": "Bar Terrasse Tag Hotel Haymon Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/83de314f-05e9-41ca-a810-f1c9ff0e39f9/99/image.jpg",
+      "caption": "Buffet Fenster Hotel Haymon Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2a18cc76-7a06-4c53-abcb-10c6e47ce55f/99/image.jpg",
+      "caption": "Nische Kuchen Hotel Haymon Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0e9a6835-debe-42c3-b80b-af1182004edb/99/image.jpg",
+      "caption": "Speisesaal 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4d4df7f1-1055-46f5-a25d-33f4681a8954/99/image.gif",
+      "caption": "Garten"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/59cab6eb-9601-4b8f-86f1-5b8b45f0894c/99/image.gif",
+      "caption": "Sommer 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3e424cc1-78bb-42ec-b146-97b4282db332/99/image.jpg",
+      "caption": "Dinner 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7c2437f0-d5ee-426c-b378-d60e087abc1e/99/image.jpg",
+      "caption": "Blumen Tisch"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a4aa43dd-b581-4d7d-af81-4befeb4bbeba/99/image.jpg",
+      "caption": "Bar von oben Hotel Haymon Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6c3a63b0-d736-44c7-8e59-f01a2e9350b3/99/image.jpg",
+      "caption": "Buffet Käse"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7296d1b0-52e9-4ae6-8107-62d256bd60bd/99/image.jpg",
+      "caption": "Familie 2014"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/91d4312e-aad1-4dc4-804d-18d472b03a02/99/image.jpg",
+      "caption": "Fresko Hotel Haymon Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1bce0ec1-3d83-4d51-b9c7-38c03f057d7b/99/image.jpg",
+      "caption": "Garten Lounge"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/85f92ad4-9207-4fa6-ad9c-d239f7b31ccb/99/image.jpg",
+      "caption": "Kuchen Hotel Haymon Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/69943ea0-2c30-443f-8e1a-f3c847722791/99/image.jpg",
+      "caption": "Speckplatte Hotel Haymon Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f0531598-aeea-4457-9e07-0b7b1c88bd2d/99/image.jpg",
+      "caption": "Speisesaal - T 7 8 9"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9063227e-f45c-4b33-8148-1bd6af684d83/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b3080be9-6d87-47ba-8d02-e4b585d7108c/99/image.jpg",
+      "caption": "Speisesaal - T1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/567d52bf-88e7-4144-b348-671e3e3ea3d9/99/image.jpg",
+      "caption": "Bad 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c4727a6d-dceb-40fc-b61e-9e00daf323cf/99/image.jpg",
+      "caption": "Doppelbett"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ee4d3830-8f77-43ba-a8b7-179eb2509f60/99/image.jpg",
+      "caption": "DZ Karwendel"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7a4a3d62-ea45-4e89-9ba1-290e1ccad219/99/image.jpg",
+      "caption": "DZ Karwendel"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8dcc9c5c-f58b-4cd5-92fe-c0cef485499b/99/image.jpg",
+      "caption": "Paarchen Bett 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/56d4349d-d4bf-4fe4-a07e-eb2045902697/99/image.jpg",
+      "caption": "DZ Wildmoos"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/bc5c7928-892f-43d4-af35-36be2646a6e5/99/image.jpg",
+      "caption": "DZ Wildmoos"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3271849458184",
+    "longitude": "11.1889314651489"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche oder Bad, WC, Balkon",
+      "description": "Alle Zimmer sind komplett renoviert im gemütlichen Tiroler Stil und großzügig ausgestattet mit Bad/Dusche, WC, Balkon mit Sitzgelegenheit, Radio, Telefon, Kabel-TV flatscreen, W-Lan, Haarfön, Schminkspiegel und Safe, für max. 2 Personen und 1 Kind.\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer Wildmoos",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer Wildmoos I",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Wanderpauschale \"Bergzauber\" DZ Wildmoos (3)",
+          "description": "Wanderpauschale \"Bergzauber 2015\"\n\nWandern auf einem der schönsten Hochplateaus im Herzen Tirols. Würzige Bergluft, kristallklare Bergseen umrahmt von der malerischen Kulisse der Alpen.\n\n* 3 Übernachtungen im DZ \"Wildmoos\" 2 Personen\n* Halbpension mit Frühstücksbuffet und 4-Gang Wahlmenü\n* Mo-Fr geführte Wanderungen\n* Eintritt in die Badelandschaft im Olympia-Zentrum (außer Sa, So und Feiertage)\n* Wanderkarte\n* alle übrigen Haymon-Extras",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/c5a37b15-d9bf-40e2-a015-9bbab43c5df5/99/image.jpg",
+              "caption": "Wandern"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Wanderpauschale \"Bergzauber\" DZ Wildmoos (5)",
+          "description": [
+            "Wanderpauschale \"Bergzauber 2012\"\n\nWandern auf einem der schönsten Hochplateaus im Herzen Tirols. Würzige Bergluft, kristallklare Bergseen umrahmt von der malerischen Kulisse der Alpen.\n\n* Übernachtung im Doppelzimmer \"Wildmoos\"\n* Halbpension mit Frühstücksbuffet und 4-Gang Wahlmenü abends\n* Mo - Fr geführtes Wanderprogramm (außer Donnerstag im Preis inbegriffen)\n* Eintritt in die Badelandschaft im Olympia-Zentrum (außer Sa, So und Feiertage)\n* Wanderkarte\n* alle übrigen \"Haymon-Extras\"",
+            "Wanderpauschale \"Bergzauber 2015\" \n\nWandern auf einem der schönsten Hochplateaus im Herzen Tirols. Würzige Bergluft, kristallklare Bergseen umrahmt von der malerischen Kulisse der Alpen.\n\n* 5 Übernachtungen im DZ \"Wildmoos\" für 2 Personen\n* Halbpension mit Frühstücksbuffet und 4-Gang Wahlmenü \n* Mo-Fr geführte Wanderungen \n* Eintritt in die Badelandschaft im Olympia-Zentrum (außer Sa, So und Feiertage)\n* Wanderkarte\n* alle übrigen \"Haymon-Extra"
+          ],
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/4ccaa3db-0423-4bf6-a78f-917d2fd8a979/99/image.jpg",
+              "caption": "Wandern"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Wanderpauschale \"Bergzauber\" DZ Wildmoos (7)",
+          "description": [
+            "Wanderpauschale \"Bergzauber 2012\"\n\nWandern auf einem der schönsten Hochplateaus im Herzen Tirols. Würzige Bergluft, kristallklare Bergseen umrahmt von der malerischen Kulisse der Alpen.\n\n* 3 Übernachtungen im DZ \"Wildmoos\" 2 Personen\n* Halbpension mit Frühstücksbuffet und 4-Gang Wahlmenü\n* Mo-Fr geführtes Wanderprogramm (außer Donnerstag im Preis inbegriffen)\n* Eintritt in die Badelandschaft im Olympia-Zentrum (außer Sa, So und Feiertage)\n* Wanderkarte\n* alle übrigen Haymon-Extras",
+            "Wanderpauschale \"Bergzauber 2015\" \n\nWandern auf einem der schönsten Hochplateaus im Herzen Tirols. Würzige Bergluft, kristallklare Bergseen umrahmt von der malerischen Kulisse der Alpen.\n\n* 7 Übernachtungen im DZ \"Wildmoos\" für 2 Personen\n* Halbpension mit Frühstücksbuffet und 4-Gang Wahlmenü \n* 5 geführte Wanderungen (Mo - Fr)\n* Eintritt in die Badelandschaft im Olympia-Zentrum (außer Sa, So und Feiertage)\n* Wanderkarte\n* alle übrigen \"Haymon-Extra"
+          ],
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/3ae7e5a3-d5ef-4a17-8437-bb32330b851b/99/image.jpg",
+              "caption": "Wandern"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Langlaufpauschale \"Fit auf 2 Brettl\" - DZ Wildmoos",
+          "description": "Langlauf in schönster Umgebung auf dem sonnigen Seefelder Hochplateau. Genießen Sie die Vorteile unseres Hotels im Zentrum:  \n\nUnser Angebot: \n* 7 Nächte im Doppelzimmer \"Wildmoos\" mit Halbpension für 2 Personen \n* Loipenbenützungsgebühr\n* Schiwachsstation im Hotel\n* Eintritt ins Olympia-Erlebnisbad (Mo-Fr)\n* überdachter Parkplatz\n* alle weiteren \"Haymon-Extras\"\n ",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/b9c9c0fc-8539-470d-91ab-2901ef0f4ded/99/image.jpg",
+              "caption": "Langlauf"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Bergzauber, Doppelzimmer Wildmoos",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "61.00",
+          "maxPrice": "101.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "63.00",
+          "maxPrice": "103.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "574.00",
+          "maxPrice": "574.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "427.00",
+          "maxPrice": "504.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Junior Suite, Dusche und Bad, WC, Balkon",
+      "description": "Alle Zimmer komplett renoviert im gemütlichen Tiroler Stil (ca. 35-40m²)und großzügig ausgestattet mit komfortabler Sitzecke, Bad/Dusche und WC getrennt, Balkon, Radio, Telefon, Kabel-TV Flatscreen, W-Lan, Haarfön, Schminkspiegel und Safe. max. 4 Personen.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Komfort-Doppelzimmer Karwendel",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Komfort-Doppelzimmer Karwendel I",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Langlaufpauschale \"Fit auf zwei Brettln\" DZ Karwen",
+          "description": "Langlauf in schönster Umgebung auf dem sonnigen Seefelder Hochplateau. Genießen Sie die Vorteile unseres Hotels im Zentrum:  \n\nUnser Angebot: \n* 7 Nächte im Doppelzimmer \"Karwendel\" mit Halbpension für 2 Personen \n* Loipenbenützungsgebühr\n* Schiwachsstation im Hotel\n* Eintritt ins Olympia-Erlebnisbad (Mo-Fr)\n* überdachter Parkplatz\n* alle weiteren \"Haymon-Extras\"\n\nKurtaxe extra\n\nAuf Wunsch gerne dazubuchbar: Langlaufkurs mit Cross Country Academy: Preis € 145,- pro Person ",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/4def056a-c902-4083-84aa-10e3bf52b42e/99/image.jpg",
+              "caption": "Langlaufen"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Wanderpauschale \"Bergzauber\" DZ Karwendel (7)",
+          "description": "Wanderpauschale \"Bergzauber\" \n\nWandern auf einem der schönsten Hochplateaus im Herzen Tirols. Würzige Bergluft, kristallklare Bergseen umrahmt von der malerischen Kulisse der Alpen.\n\n* 7 Übernachtungen im DZ \"Karwendel\" für 2 Personen\n* Halbpension mit Frühstücksbuffet und 4-Gang Wahlmenü \n* 5 geführte Wanderungen (Mo - Fr)\n* Eintritt in die Badelandschaft im Olympia-Zentrum (außer Sa, So und Feiertage)\n* Wanderkarte\n* alle übrigen \"Haymon-Extra",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/ec57a996-f089-4562-9963-56e5405c788d/99/image.jpg",
+              "caption": "Wandern"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Wanderpauschale \"Bergzauber\" DZ Karwendel (5)",
+          "description": "Wanderpauschale \"Bergzauber\" \n\nWandern auf einem der schönsten Hochplateaus im Herzen Tirols. Würzige Bergluft, kristallklare Bergseen umrahmt von der malerischen Kulisse der Alpen.\n\n* 5 Übernachtungen im DZ \"Karwendel\" für 2 Personen\n* Halbpension mit Frühstücksbuffet und 4-Gang Wahlmenü \n* 4 geführte Wanderungen (Mo - Fr)\n* Eintritt in die Badelandschaft im Olympia-Zentrum (außer Sa, So und Feiertage)\n* Wanderkarte\n* alle übrigen \"Haymon-Extra",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/bde20bc7-102b-463c-bffe-ea7495b2b320/99/image.jpg",
+              "caption": "Wandern"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Wanderpauschale \"Bergzauber\" DZ Karwendel (3)",
+          "description": "Wanderpauschale \"Bergzauber\" \n\nWandern auf einem der schönsten Hochplateaus im Herzen Tirols. Würzige Bergluft, kristallklare Bergseen umrahmt von der malerischen Kulisse der Alpen.\n\n* 7 Übernachtungen im DZ \"Karwendel\" für 2 Personen\n* Halbpension mit Frühstücksbuffet und 4-Gang Wahlmenü \n* 4 geführte Wanderungen (Mo - Fr)\n* Eintritt in die Badelandschaft im Olympia-Zentrum (außer Sa, So und Feiertage)\n* Wanderkarte\n* alle übrigen \"Haymon-Extra",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/f6cafed8-6b81-467a-ac42-d06dfd9d29bd/99/image.jpg",
+              "caption": "Wandern"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "67.00",
+          "maxPrice": "108.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "62.53",
+          "maxPrice": "100.80",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "60.30",
+          "maxPrice": "97.20",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "69.00",
+          "maxPrice": "110.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "63.87",
+          "maxPrice": "102.13",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "61.30",
+          "maxPrice": "98.20",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "630.00",
+          "maxPrice": "630.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Suite, Dusche oder Bad, WC, Balkon",
+      "description": "Komplett renoviert im gemütlichen Tiroler Stil (ca. 40m²); Vorraum, Schlaf- und Wohnzimmer getrennt,  Bad/Dusche/WC, Südbalkon, Radio, Telefon, 2x Kabel-TV Flatscreen, W-Lan, Haarfön, Schminkspiegel und Safe. max. 4 Personen.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Hotelappartement Kaiser Max",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Hotelappartement Kaiser Max I",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "73.00",
+          "maxPrice": "113.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "68.13",
+          "maxPrice": "105.47",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "65.70",
+          "maxPrice": "101.70",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "75.00",
+          "maxPrice": "115.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "69.47",
+          "maxPrice": "106.80",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "66.70",
+          "maxPrice": "102.70",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Einzelzimmer, Dusche, WC, Balkon",
+      "description": "Alle EZ sind großzügig ausgestattet, eingerichtet im gemütlichen Tiroler Stil und verfügen über Balkon, Schreibtisch, Du/WC, Radio, Telefon, Kabel-TV Flatscreen, W-Lan, Zimmersafe, Haarfön und Schminkspiegel.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Einzelzimmer Rosshütte",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Einzelzimmer Rosshütte I",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "71.00",
+          "maxPrice": "9999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "73.00",
+          "maxPrice": "9999.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

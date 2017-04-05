@@ -1,0 +1,27 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "TouristAttraction"
+  ],
+  "name": "Drei-Seen-Rundwanderweg",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Infobüro Mösern",
+    "streetAddress": "Möserer Dorfstraße 11",
+    "addressLocality": "Mösern/Buchen",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "+4350880520",
+    "email": "info.moesern@seefeld.com",
+    "url": "http://www.seefeld.com"
+  },
+  "description": "Strecke: Mösern – Lottenseehütte – Buchen – Muggenmoos – Wildmoos –Mösern\nGehzeit: ca. 4 ½ Stunden\nVon Mösern (Gasthof Menthof) den Wanderweg (2) und \nüber den Pirschtsteig zur Lottenseehütte (2). 100 m vor der Hütte links\nam Garagengebäude vorbei, den Golfplatz überqueren und links nach Buchen (27). Schöner Ausblick\nins Inntal. Vorbei am Gasthof Ropferstub’m und Gasthaus Buchener Höhe (27 bzw. 24) auf\ndem Schlagweg ins Muggenmoos. Dort zweigt der Schlagsteig nach rechts ab (37) und führt zum\nFerienheim Wildmoos. Über die Wildmoosalm (3) geht es schließlich auf dem Hörmannweg oder\ndem Fahrweg (2) wieder zurück nach Mösern",
+  "url": [
+    "http://www.seefeld.com"
+  ]
+}

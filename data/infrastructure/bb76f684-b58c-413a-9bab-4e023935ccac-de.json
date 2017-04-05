@@ -1,0 +1,23 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant"
+  ],
+  "name": "Casino Restaurant \"L\u0027Osteria Italiana\"",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3289702216072",
+    "longitude": "11.1885720491409"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "L\u0027Osteria Italiana",
+    "streetAddress": "Bahnhofstr. 124",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 05212 20568",
+    "email": "osteriaitaliana@hotmail.com"
+  },
+  "description": "Sitzplätze für ca. 30 Personen"
+}

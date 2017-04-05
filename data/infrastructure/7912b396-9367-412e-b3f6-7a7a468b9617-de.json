@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure"
+  ],
+  "name": "BP-Troppacher, Tankstelle",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3279085170049",
+    "longitude": "11.1986196041107"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "BP Troppacher",
+    "streetAddress": "Föhrenwald 498",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) (0)5212/20567",
+    "email": "peter.eigentler@troppacher.at",
+    "url": "http://www.troppacher.at"
+  },
+  "description": "tägl. 6.00 Uhr - 22.00 Uhr",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/58c454c7-16de-4856-8b27-ac0e6f141143/99/image.jpg",
+      "caption": "BP"
+    }
+  ],
+  "url": [
+    "http://www.avia.at"
+  ]
+}

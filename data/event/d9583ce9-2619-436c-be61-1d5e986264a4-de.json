@@ -1,0 +1,51 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "Matinee mit dem Arcis Saxophon Quartett",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Interalpen-Hotel Tyrol GmbH",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Dr.Hans-Liebherr-Alpenstrasse 1",
+      "addressLocality": "Telfs-Buchen",
+      "postalCode": "6410",
+      "addressCountry": "AT",
+      "telephone": "+4305080930",
+      "faxNumber": "+4305080937190",
+      "email": "reservation@interalpen.com",
+      "url": "http://www.interalpen.com"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Interalpen-Hotel Tyrol GmbH",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Dr.Hans-Liebherr-Alpenstrasse 1",
+      "addressLocality": "Telfs-Buchen",
+      "postalCode": "6410",
+      "addressCountry": "AT",
+      "telephone": "+4305080930",
+      "faxNumber": "+4305080937190",
+      "email": "reservation@interalpen.com",
+      "url": "http://www.interalpen.com"
+    }
+  },
+  "description": "Mit brennender Leidenschaft begeistern die vier jungen Musiker aus München das Publikum und lassen durch ihre charismatische und authentische Bühnenpräsenz in dieser seltenen Formation der Kammermusik den Funken überspringen. Genießen Sie zum Muttertag eine Matinée mit Kammermusik auf höchstem Niveau! Eintritt: € 15,--. Reservierung \u0026 Information:  www.interalpen.com.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/cd0388bd-5bb2-45c4-8eb0-f4fbd81bf01c/99/image.jpg",
+      "caption": "Arcis Saxophon Quartett"
+    }
+  ],
+  "url": [
+    "http://www.interalpen.com"
+  ],
+  "startDate": "2017-05-14T11:00:00",
+  "endDate": "2017-05-14"
+}

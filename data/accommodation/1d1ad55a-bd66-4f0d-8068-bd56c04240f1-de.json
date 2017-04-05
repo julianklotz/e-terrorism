@@ -1,0 +1,33 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Cafe am See",
+    "streetAddress": "Innsbruckerstr. 162",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0039) 081413472",
+    "faxNumber": "(0039) 081413472"
+  },
+  "name": "Cafe am See",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/41afb242-ea03-4a28-beff-86de361c57d2/99/image.jpg",
+      "caption": "Seefeld"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3237233023057",
+    "longitude": "11.191109418869"
+  },
+  "currenciesAccepted": "EUR"
+}

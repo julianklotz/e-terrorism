@@ -1,0 +1,154 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Ferienhaus Am Kirchwald",
+    "streetAddress": "Am Kirchwald 462",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0049) 30 80402223",
+    "faxNumber": "(0049) 30 80402224",
+    "email": "s.duemchen@t-online.de"
+  },
+  "name": "Ferienhaus Am Kirchwald",
+  "description": [
+    "\nUnser Haus liegt ruhig in Südhanglage. Sie haben einen schönen Blick auf das Bergpanorama. Hinter unserem Haus beginnen die Wanderwege / Loipen und in 10 Gehminuten erreichen Sie das Ortszentrum. Unser Haus liegt gegenüber dem Gschwandtkopf, oberhalb der Tennishallen, am Waldrand.\nDie Loipengebühr ist bei uns inklusiv.",
+    "\nIm Preis enthalten: Strom, PKW-Stellplatz, Wasser, Tisch-und Bettwäsche, Handtücher. Haustiere sind nicht erlaubt!!!",
+    "\nAnreise ab 16°° ,  Abreise bis 10°° "
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/fb200996-e3b9-41cd-97a5-b52b5e6dfb13/99/image.jpeg",
+      "caption": "Schlafzimmer 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/cf903b6a-9d3d-4c87-8ede-f8407896f389/99/image.jpeg",
+      "caption": "Schlafzimmer 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7a605387-c73a-41db-9479-a902f29ec07b/99/image.jpg",
+      "caption": "Badezimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1584fbd4-445c-4f8c-87f3-f245a2917d67/99/image.jpg",
+      "caption": "A1+A2 Wohnzimmer-Ausblick"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5b9b0416-6bcf-4ecb-9ab7-04ff9b888ff1/99/image.jpeg",
+      "caption": "A1+A2 Wohnzimmer-Küche"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e78ddca8-2cef-49b9-8caa-3c0429b1a6b0/99/image.jpg",
+      "caption": "WIHI"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3279557851295",
+    "longitude": "11.1771082878113"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 2 Schlafräume",
+      "description": "\nGehobene Ausstattung im Landhausstil, in Südhanglage, 80qm auf 2 Etagen. Die Loipenbenutzung ist inklusiv.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "App.Nr 1 und 2",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "80.00",
+          "maxPrice": "145.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "80.00",
+          "maxPrice": "145.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "80.00",
+          "maxPrice": "145.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "80.00",
+          "maxPrice": "145.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "\nEinfach und gemütlich im Landhausstil, in Südhanglage, 40qm auf 2 Etagen. Die Loipenbenutzung ist inklusiv.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "App.Nr.3",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "50.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "50.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

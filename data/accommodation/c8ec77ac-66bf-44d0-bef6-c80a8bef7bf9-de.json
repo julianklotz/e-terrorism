@@ -1,0 +1,191 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.fewo-romantic.com",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Romantic",
+    "streetAddress": "Weidach 379 b",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6270",
+    "faxNumber": "(0043) 5214 20153",
+    "email": "chalet.romantic@aon.at",
+    "url": "http://www.fewo-romantic.com"
+  },
+  "name": "Haus Romantic",
+  "description": [
+    "Ruhige,sonnige, Lage, und dennoch sehr zentral  FeWo.  je 2-5 Personen, 58-70m²  2 Schlafzimmer . eigener Balkon bzw.Terrasse, gr.Garten, Gratis W-LAN Internet: zum Loipeneinstieg, Restaurant zu Fuß in  nur 5 bis 7 Minuten, zum Alpenbad, Skischule, und ins Zentrum sind es auch nur ein paar Gehminuten         \nAuf sonniger, kleiner Anhöhe inmitten von Wiesen und Wald gelegen,herrl.Bergblick. Fewo.  mit 2 Schlafzimmern, Wohnzimmer,Badezimmer mit Dusche, kompl. Küche, separater Raum,Geschirrspüler,Microwelle,u.v.m. FeWo 1.Stock ca. 58m², +16m² Balkon,2 Doppelbettzimmer,Wohnzimmer,Küche,Bad. Fewo Parterre ca. 70m², +20m² Terrasse, großer Garten mit Liegewiese, Liegestühle, Grillkamin, Gartenmöbel,Skistall.",
+    "Inklusive: Heizung, Strom, Wasser, Bettwäsche, Hand-Badetücher, Carport, Parkplatz, Leihrodeln, im Sommer freier Eintritt  ins Alpenbad Leutasch (Anf. Mai bis 31.Oktober)    \nExklusive; Ortstaxe, Endreinigung, Haustiere sind leider nicht erlaubt\n\n",
+    "Inklusive: Heizung, Strom, Wasser, Bettwäsche, Hand-Badetücher, Carport, Parkplatz, Leihrodeln, im Sommer freier Eintritt  ins Alpenbad Leutasch (1. Mai bis 31.Oktober)    \nExklusive; Ortstaxe, Endreinigung, Haustiere sind leider nicht erlaubt\n\n",
+    "Nähe Kreithlift, zwischen Kreithlift, Seewald , und Hotel Kristall. \nCheck-In ab 15.45 Uhr / Check-Out bis 10.00 Uhr"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4bf7d1ef-4ce2-4c88-9b72-d50e5acd534d/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/28799e66-da13-4c83-8d1f-9e5a14d9a069/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7b5ae00a-8ee2-41a8-8fdd-dbeb458d26e9/99/image.jpg",
+      "caption": "Sommeransicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f6b8a0d7-bd8c-454b-a5a9-af822c661ed7/99/image.jpg",
+      "caption": "Winter Seitenansicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f49ef62e-9203-4f48-a945-203bb4a22bce/99/image.jpg",
+      "caption": "Spielplatz"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7dda8408-619d-42f6-96ae-b9362c60cec4/99/image.jpg",
+      "caption": "Garten  Liegewiese"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b5521d26-9e0c-4777-bc9b-dfd43888abd5/99/image.jpg",
+      "caption": "IMG_0082"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1b55c314-c559-4536-a38b-bce49ddde119/99/image.jpg",
+      "caption": "IMG_1129"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4c7e268d-0177-4115-ada9-ee2bd60e069d/99/image.jpg",
+      "caption": "IMG_0642"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/24ff7c3b-fe59-4ddb-ba7f-a0de845b9e7f/99/image.jpg",
+      "caption": "hausso1[1]"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3672936401614",
+    "longitude": "11.1629354953766"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 2 Schlafräume",
+      "description": "Wohnung Parterre: Großzügige Unterkunft für 2-5 Pers. ca. 70qm. Einteilung der Wohnung, ein Schlafzimmer mit Doppelbett,ein Schlafzimmer mit Einzelbett gr.Wohnzimmer 25qm. mit Doppelausziehschlafcouch, Liegefläche 200x160 cm, direkter Zugang zum Garten,und zur Terrasse, süd-west,kompl. Küche und Essecke separater Raum, Geschirrspüler Micro, Waschmaschine,uvm. Badezimmer mit Dusche, Fenster, Föhn,Kosmetikspiegel, sep.Wc. \nInternetzugang: W-LAN.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment Parterre/2 Schlafräume/Dusche,Bad, WC,EG",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "110.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "0.00",
+          "maxPrice": "110.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "0.00",
+          "maxPrice": "110.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "0.00",
+          "maxPrice": "110.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 2 Schlafräume",
+      "description": "Wohnung 1.Stock ca.58qm, NEU  Vinylböden, keine Teppichböden!  Guteingeteilte stilvoll eingerichtete  Dreizimmerwohnung, vom Wohnzimmer getrennte Küche,   2.Schlafzimmer mit Doppelbett, Wohnzimmer mit Sitzgruppe,direkter Zugang zum Balkon, süd-west,16qm, Diele,kompl. Küche  Geschirrspüler, Microwelle,uvm.Badezimmer mit Fenster, Badewanne mit Duschabtrennung,Wc.Haarföhn, Sie haben Ausblick nach Süden,Westen,Norden und nach Osten.Sie können gerne auch den großen Garten mit Liegewiese nutzen.\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/2 Schlafräume/Dusche,Bad, WC,1.ST",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

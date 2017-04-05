@@ -1,0 +1,29 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant"
+  ],
+  "name": "Birkenlift Food \u0026 Drink, Restaurant",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Birkenlift Food \u0026 Drink",
+    "streetAddress": "Leutascherstraße 634",
+    "addressLocality": "Seefeld in Tirol",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 6608428968",
+    "email": "birkenlift.food.drink@gmail.com"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/fdea35fc-a9cc-45e3-b09a-78c2f13056b3/99/image.jpg",
+      "caption": "Piktogramm Kulinarik"
+    }
+  ]
+}

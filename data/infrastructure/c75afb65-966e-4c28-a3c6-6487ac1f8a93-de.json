@@ -1,0 +1,28 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant"
+  ],
+  "name": "Zum Klammgeist",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.4249911654243",
+    "longitude": "11.2316877134919"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Schanz 272",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 5683322",
+    "email": "zumklammgeist@aon.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6568e935-f64d-4cec-9449-d05229af5c94/99/image.jpg",
+      "caption": "Klammgeist"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure",
+    "LocalBusiness"
+  ],
+  "name": "Designerschmiede - Martin Albrecht",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3724798",
+    "longitude": "11.1652247"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Föhrenwald 2",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 5312152"
+  },
+  "description": "Föhrenwald 2\n+43 664 5312152",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9770e1d1-d64e-43cf-90d6-ee47a212225e/99/image.png",
+      "caption": "Designerschmiede Martin Albrecht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/69074217-0818-480b-8446-a7fb0bd37020/99/image.jpg",
+      "caption": "Rose"
+    }
+  ]
+}

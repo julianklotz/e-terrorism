@@ -1,0 +1,192 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.jaegerheim-leutasch.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Jägerheim",
+    "streetAddress": "Unterkirchen 254 a",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6564",
+    "email": "haus@jaegerheim-leutasch.at",
+    "url": "http://www.jaegerheim-leutasch.at"
+  },
+  "name": "Jägerheim",
+  "description": [
+    "Idyllisch gelegenes Haus, unter familiärer Leitung, Nähe Mittenwald,\nruhige Liegewiese, Gartengrill, kostenlose Leihräder, Kinderspielplatz,\nLoipe-, Rad- und Wanderwege in unmittelbarer Nähe, Rodelverleih, geheizter Skiraum.",
+    "Check - In 12.00 Uhr / Check - Out 10.00 Uhr\n\nVon Richtung Garmisch - Mittenwald - am Ortsanfang - 50 m nach Gasthof Brücke rechts\n\nVon Richtung Seefeld - Unterleutasch - 100 m nach der Kirche links"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e84f4c61-da37-499b-ae70-0a05b66360f5/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ccd10867-db19-451f-8ecf-77994f54c242/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c9370390-d22a-4707-8f2f-e088c285e318/99/image.jpg",
+      "caption": "Frühstücksraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/bace201c-d315-47d0-9bd6-8576920aba87/99/image.jpg",
+      "caption": "Teich"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c90999cf-1af4-4167-8006-d7666e9d0350/99/image.jpg",
+      "caption": "Liegewiese"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ef61bad5-b05a-44af-8095-65c3c86662f9/99/image.jpg",
+      "caption": "Garten"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a56c94d8-2252-4cfd-adaf-c896c3167a31/99/image.jpg",
+      "caption": "Spielplatz "
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.41888608888",
+    "longitude": "11.216128424565"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Freundliches Doppelzimmer in ruhiger Lage mit Dusche/WC. Gemütlicher Aufenthaltsraum mit Kachelofen und Sat-TV, Preis exklusive Kurtaxe.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "25.00",
+          "maxPrice": "30.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "Helle und freundliche Wohnung mit Südbalkon, extra Schlafzimmer,kleines Wohnzimmer mit Sat-TV , Essecke und Küchenblock,Dusche /WC.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/2 Schlafräume/Dusche, WC",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "100.00",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "90.00",
+          "maxPrice": "90.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 1 Schlafraum",
+      "description": "Für 2-4 Pers., sehr geräumig,das Schlafzimmer ist vom Tischler aus schönem Fichtenholz gemacht und ist absolut ruhig gelegen. Extra Küche, Badezimmer mit Wanne,großzügiges Wohnzimmer mit Sat-TV, Sitzgruppe, ausziehbaren Esstisch für ca. 6 Personen.\nEs kann gerne ein Doppelzimmer in derselben Etage dazugebucht werden.Täglicher Brötchenservice.\nKinder bis 6 Jahre -frei",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/1 Schlafraum/Dusche, Bad, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "52.00",
+          "maxPrice": "67.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "56.00",
+          "maxPrice": "73.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "56.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

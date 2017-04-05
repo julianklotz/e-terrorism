@@ -1,0 +1,74 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.landhaus-sonja.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Landhaus Sonja",
+    "streetAddress": "Moos 9 c",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 20234",
+    "faxNumber": "(0043) 5214 20247",
+    "email": "paula.draxl@aon.at",
+    "url": "http://www.landhaus-sonja.at"
+  },
+  "name": "Landhaus Sonja",
+  "description": [
+    "Das neuerbaute Landhaus Sonja liegt im Ortsteil Moos am Fuße der Hohen Munde. In sonniger Lage genießen Sie einen herrlichen Überblick über prachtvolle Blumenwiesen und das Leutascher Wettersteingebirge. Das Landhaus Sonja ist der ideale Ausgangspunkt zu den Wanderzielen ins nahe Gaistal oder zu den zahlreichen Almen und Hütten im Wildmoosgebiet.  \n\nIm Umkreis von 1 km erreichen Sie bequem die Bushaltestelle, Gastronomiebetriebe und einen Supermarkt. Den Zugang zur  Langlaufloipe finden Sie in unmittelbarer Nähe vor dem Landhaus Sonja. ",
+    "Kinder bis inkl. 5 Jahre wohnen gratis! Kinderspielplatz beim Haus!\nZusatzbett für Erwachsene € 10,-/Tag\nEinmalige Endreinigung nach Vereinbarung\nKurtaxe pro Person und Tag € 1,50\nCheck-in ab 14.00 Uhr / Check-out bis 11.00 Uhr\nLage im Ortsteil Moos an der Zufahrt zum Mundelift /Rauthhütte",
+    "Sie erreichen uns auch auf dem Mobiltelefon/Handy: +43 (0) 664 - 1312 385"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4e120b72-f3f0-433e-ab9d-8cdb54e4cb54/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5e3b6c75-b3bc-46c8-8745-c798a1db2382/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0a87e8e7-d125-4a2c-a47d-0edf9ff77076/99/image.jpg",
+      "caption": "Sommer 2"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.348812824467",
+    "longitude": "11.122525060367"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Zwei großzügige Ferienwohnungen (über 45 m²) bieten im Tiroler Stil allen Komfort, eine schönen Sonnenterasse und eine eigenen Liegewiese. Das gemütliche Wohnzimmer mit dem wärmenden Kachelofen, gemütlichen Sitzecke und ausziehbarer Couch, die Du/WC, die komplett ausgestattete Küche mit Sitzecke sowie das Schlafzimmer mit den Gesundheitsbetten verbreiten eine heimelige Atmosphäre in der man sich sofort wohl fühlt. Moderne Küchengeräte und eine TV Sat-Anlage gehören ebenso zur Grundausstattung wie die zahlreichen Accessoires mit Garderobe und Schuhschrank.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

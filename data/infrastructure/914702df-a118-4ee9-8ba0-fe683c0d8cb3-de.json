@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "HealthAndBeautyBusiness"
+  ],
+  "name": "Hotel Leutascherhof",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3693856673819",
+    "longitude": "11.1626087595246"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Wandl OHG",
+    "streetAddress": "Weidach 305",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6208",
+    "faxNumber": "(0043) 5214 6978",
+    "email": "info@leutascherhof.at",
+    "url": "http://www.leutascherhof.at"
+  },
+  "description": "Weidach 305\nTel.: +43 5214/6208",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/33ac1090-1608-4d0d-b6a9-afaaf6927b25/99/image.jpg",
+      "caption": "salzsteinsauna"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/330f0f71-f4bc-4dbc-bb22-1a4a1a4911de/99/image.jpg",
+      "caption": "sauna"
+    }
+  ],
+  "url": [
+    "http://www.leutascherhof.at"
+  ]
+}

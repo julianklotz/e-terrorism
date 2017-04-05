@@ -1,0 +1,20 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "TouristAttraction"
+  ],
+  "name": "Nordic Walking Strecke: Moosrunde 8,6 km",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "description": "Ausgangspunkt: Leutasch/Alpenbad\nStreckenverlauf: Am Weidachsee vorbei gelangt man leicht bergauf durch den Wald zur Ostbachbrücke. Über die Felder kommt man in den Ortsteil Moos, dann nach rechts bis zur Leutascher Ache. Dieser folgt man flussabwärts bis zum Start.\nStreckenprofil: kupiert verlaufende Lauf- und Nordic Walkingstrecke\nUntergrund: Schotterweg, Waldweg, Asphaltstraße",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/aaf10191-5725-4ad7-b6cb-6722b5bdfd96/99/image.jpg",
+      "caption": "Nordic Walking"
+    }
+  ]
+}

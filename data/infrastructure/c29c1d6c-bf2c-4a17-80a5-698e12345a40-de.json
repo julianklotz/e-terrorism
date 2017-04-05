@@ -1,0 +1,20 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "TouristAttraction"
+  ],
+  "name": "Nordic Walking Strecke: Fischerrun 3,4 km",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "description": "Ausgangspunkt: Leutasch/Alpenbad\nStreckenverlauf: Es geht zum Weidachsee am Rande des Ortsteils Weidach. Der See wird auf leicht hügeligen aber angenehmen Forststraßen und durch Aumoos umrundet. Hier kann man die Fischer beobachten oder das herrliche Panorama genießen.\nStreckenprofil: vorwiegend flach verlaufende Lauf- und Nordic Walkingstrecke\nUntergrund: Schotterweg, Asphaltstraße",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/bbcae9af-78b0-4aad-8eff-b90fff74d48e/99/image.jpg",
+      "caption": "Nordic Walking"
+    }
+  ]
+}

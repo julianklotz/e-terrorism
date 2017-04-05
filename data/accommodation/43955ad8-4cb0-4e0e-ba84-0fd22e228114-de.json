@@ -1,0 +1,239 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.landhaus-rauth.com",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Landhaus Rauth",
+    "streetAddress": "Gasse 182",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6346",
+    "email": "landhaus-rauth@aon.at",
+    "url": "http://www.landhaus-rauth.com"
+  },
+  "name": "Landhaus Rauth",
+  "description": [
+    "Urlaub und Erholung - das finden Sie in unseren gemütlichen Wohnungen.\nIdealer Ausgangspunkt für Wanderungen und Radtouren und vieles mehr, Loipeneinstieg ab Haus möglich.\nWir haben ganzjährig geöffnet. Im Sommer gratis Eintritt ins Alpenbad Leutasch!",
+    "",
+    "Von Mittenwald: Leutasch - über Schanz nach Gasse\n\nVon Seefeld: Leutasch - Weidach - Gasse\n\nVon Telfs: über Buchen - Kirchplatzl - Weidach - Gasse"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "reviewCount": "63"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/216b3c93-4207-4c76-8f9a-20cf17bf9615/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0c919d58-aee9-4746-952a-3868ecfc0d42/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e5cc60fc-aaaf-4cdb-a7fe-005a3f48e00d/99/image.jpg",
+      "caption": "Hausansicht 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d923311e-0943-4f1d-a8a3-be2875cdfed8/99/image.jpg",
+      "caption": "Hausansicht 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/632a71b5-c226-4bed-a5b8-f7e1e0a66ba7/99/image.jpg",
+      "caption": "Hausansicht 3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ac592f52-4a02-4828-8494-a050af42bcad/99/image.jpg",
+      "caption": "Hausansicht 4"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/476e9d47-9ded-4eb8-957f-6a1dcd0e3b8f/99/image.jpg",
+      "caption": "Aussicht "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a930d80e-0799-4acb-96dd-9e6ea01367d4/99/image.jpg",
+      "caption": "Eingangsbereich"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3ea028c1-0d69-4a4e-b798-5b4ead43b7f8/99/image.jpg",
+      "caption": "Eingangsbereich 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e0b2dc99-98a8-4d9d-842e-53d78c7561d0/99/image.jpg",
+      "caption": "Sommer 2"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.380706822586",
+    "longitude": "11.161606362882"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Unsere Ferienwohnungen für 2-3 Personen mit Balkon verfügen über ein separates Schlafzimmer und einer separaten Dusche/Wc,Sat-Tv,\n\nWir würden uns freuen,Sie als Gäste in unserem Haus und in unserer schönen Olympia-Region begrüssen zu dürfen.\n\nSollten Sie Fragen zu diesem Wohnungstyp haben,stehen wir Ihnen jederzeit zu Verfügung.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/1 Schlafraum/Dusche, WC",
+          "description": "Unsere Ferienwohnungen für 2-3 Personen mit Balkon verfügen über ein separates Schlafzimmer,und einer separater Dusche/Wc,Sat-Tv.\n\nWir würden uns freuen,Sie in unserem Haus und in unserer schönen Olympia-Region begrüssen zu dürfen.\n\nFür Fragen stehen wir Ihnen jederzeit zur Verfügung.\n\nFamilie Rauth ",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "61.00",
+          "maxPrice": "85.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "Unsere Ferienwohnungen für 2-4 Personen mit Balkon verfügen über:2 separat-getrennten Schlafzimmern mit jeweils einer separater Dusche/Wc.\n\nBemerkung:Die Schlafzimmer haben jeweils einen eigenen Zugang (keine Verbindungstüre),so das die anderen Gäste die schon Schlafen nicht gestöhrt werden.\n\nWir würden uns freuen,Sie als Gäste in unserem Haus und in unser schönen Olympia-Region begrüssen zu dürfen.\n\nWenn Sie Fragen zu diesem Wohnungstyp haben,stehen wir Ihnen jederzeit zu Verfügung.\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/2 Schlafräume/Dusche, WC",
+          "description": "Unsere Ferienwohnungen für 2-4 Personen mit Balkon verfügen über: 2 separat-getrennten Schlafzimmern mit jeweils separater Dusche/Wc,Sat-Tv,\n\nBemerkung: Die Schlafzimmer haben jeweils einen eigenen Zugang (keine Verbindungstüre),so das die anderen Gäste die schon schlafen nicht gestört werden.\n\nWir würden uns freuen,Sie als Gäste in unserem Haus und in unserer schönen Olympia-Region begrüssen zu dürfen.\n\nFür Fragen zu diesem Wohnungstyp stehen wir Ihnen jederzeit zur Verfügung.\n\n\n\n",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "62.00",
+          "maxPrice": "90.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "75.00",
+          "maxPrice": "107.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 3 Schlafräume",
+      "description": "Unsere Ferienwohnung für 2-6 Personen verfügt über: 3-separat-getrennten Schlafzimmern mit jeweils einer separaten Dusche/Wc,Sat-Tv;\n\nBemerkung: Die Schlafzimmer haben jeweils einen eigenen Zugang (keine Verbindungstüre),so das die anderen Gäste die schon Schlafen nicht gestöhrt werden.\n\nWir würden uns freuen,Sie als Gäste in unserem Haus und in unserer schönen Olympia-Region begrüssen zu dürfen.\n\nSollten Sie Fragen zu diesem Wohnungstyp haben,stehen wir Ihnen jederzeit zu Verfügung.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/3 Schlafräume/Dusche, WC",
+          "description": "Unsere Ferienwohnung für 2-6 Personen mit Balkon verfügt über: 3 separat-getrennten Schlafzimmern mit jeweils separater Dusche/Wc,Sat-Tv,\n\nBemerkung:Die Schlafzimmer haben jeweils einen eigenen Zugang(keine Verbindungstüre),so das die anderen Gäste die schon schlafen nicht gestört werden.\n\nWir würden uns freuen,Sie als Gäste in unserem Haus und in unserer schönen Region begrüssen zu dürfen.\n\nFür Fragen zu diesem Wohnungstyp stehen wir Ihnen jederzeit zu Verfügung.\n\nFamilie Rauth",
+          "numberOfRooms": "4.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "75.00",
+          "maxPrice": "75.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "100.00",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC, Standard",
+      "description": "Keines Standard-Zimmer mit SAT TV \u0026 gratis Internetzugang.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer \"Standard\", Dusche, WC,",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "0"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "38.00",
+          "maxPrice": "38.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "38.00",
+          "maxPrice": "38.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

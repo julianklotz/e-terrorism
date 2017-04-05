@@ -1,0 +1,19 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Tannenweg 3",
+    "addressLocality": "Negast",
+    "postalCode": "18442",
+    "addressCountry": "DE",
+    "telephone": "0049 38327 60696"
+  },
+  "name": "ZW - Brunne Renate",
+  "currenciesAccepted": "EUR"
+}

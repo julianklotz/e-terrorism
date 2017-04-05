@@ -1,0 +1,52 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "Schneeschuhwanderung mit Fabian",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "",
+    "employee": {
+      "@type": "Person",
+      "givenName": "Fabian",
+      "familyName": "Kikl"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Mösern",
+      "postalCode": "6100",
+      "addressCountry": "AT",
+      "telephone": "(0043) 664 5465556",
+      "email": "fabiankikl@gmx.at"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Mösern",
+      "postalCode": "6100",
+      "addressCountry": "AT",
+      "telephone": "(0043) 664 5465556",
+      "email": "fabiankikl@gmx.at"
+    }
+  },
+  "description": "Geführte Schneeschuhwanderung zum Spezialpreis von € 20,-- pro Person (inkl. Schneeschuhen). Wanderung ist für mind. 3 und für max. 10 Personen ausgelegt. Anmeldung bis zum Vortag, 17:00 Uhr, unter Tel. 0664 5465556 bzw. bei Modern Ski!",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/fb39c8bd-d1cf-4ed9-ae64-cb3fff5fd8e4/99/image.jpg",
+      "caption": "Schneeschuhwandern1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7a598698-a7ba-47a3-a388-93c5e616ef5c/99/image.jpg",
+      "caption": "Schneeschuhwandern"
+    }
+  ],
+  "startDate": "2017-01-10T19:00:00",
+  "endDate": "2017-03-14"
+}

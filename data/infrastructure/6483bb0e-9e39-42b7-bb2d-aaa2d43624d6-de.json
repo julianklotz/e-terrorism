@@ -1,0 +1,25 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure",
+    "LocalBusiness"
+  ],
+  "name": "Öffentliche Toilette Parkplatz Moos Rödlach",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Parkplatz Rödlach",
+    "streetAddress": "Moos",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT"
+  },
+  "description": "Öffentliches, behindertengerechtes WC\n",
+  "url": [
+    "http://"
+  ]
+}

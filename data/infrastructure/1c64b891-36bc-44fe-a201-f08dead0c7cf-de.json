@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation",
+    "TouristAttraction"
+  ],
+  "name": "E-Bike Verleih - Hotel Bergland",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.326553",
+    "longitude": "11.1885632"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Hotel Bergland Daschil GmbH \u0026 Co.KG",
+    "streetAddress": "Innsbruckerstr. 3",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2293",
+    "email": "info@bergland-seefeld.at",
+    "url": "http://www.bergland-seefeld.at"
+  },
+  "description": "E-Bike Verleih auf Anfrage!\n\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e294e942-791c-4160-8018-8eedb11c6b15/99/image.jpg",
+      "caption": "E-Bike"
+    }
+  ],
+  "url": [
+    "http://www.bergland-seefeld.at"
+  ]
+}

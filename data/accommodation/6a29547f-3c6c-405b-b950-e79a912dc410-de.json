@@ -1,0 +1,112 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.landhaus-egger.com",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Landhaus Egger",
+    "streetAddress": "Klosterwald  673",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "faxNumber": "(0043) 5212 3252",
+    "email": "landhaus-egger@aon.at",
+    "url": "http://www.landhaus-egger.com"
+  },
+  "name": "Haus Egger",
+  "description": [
+    "Unser Haus liegt in ruhiger, sonniger Lage, mit herrlichem Bergblick, direkt am Waldrand, zehn Gehminuten vom Ortszentrum entfernt.\nShuttlebus-Haltestelle unmittelbar beim Haus, gratis Dorfbus.\nUnser Haus ist ein Nichtraucherhaus, keine Haustiere erlaubt, kostenloses W-LAN.",
+    "Check-In: 13.00 Uhr / Check-Out: 10.00 Uhr\nWeg: Folgen Sie den braunen Hotelwegweisern. Unser Haus liegt ca. 10 Gehminuten vom Ortszentrum entfernt in ruhiger, sonniger Lage, direkt am Waldrand."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5bf1190d-55ad-4765-9c32-c080c172a0c4/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3a04c201-fb05-4d69-af70-17570f68e8a7/99/image.jpg",
+      "caption": "Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3316389327641",
+    "longitude": "11.1790609359741"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Komfortable, neu eingerichtete Doppelzimmer mit Dusche/WC, Radio, Kabel-TV, Kühlschrank, Sitzecke und Balkon, kostenloses W-LAN und wunderschöner Panoramablick",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "32.00",
+          "maxPrice": "35.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Suite, Bad, WC",
+      "description": "Komfortable, neu eingerichtete Suite bestehend aus großem Vorraum, Schlafzimmer und Wohnzimmer mit Erker und Sitzecke mit Bad/WC, Radio, Kabel-TV, Kühlschrank und Balkon, kostenloses W-LAN und herrlicher Panoramablick",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Suite mit Bad, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "35.00",
+          "maxPrice": "38.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

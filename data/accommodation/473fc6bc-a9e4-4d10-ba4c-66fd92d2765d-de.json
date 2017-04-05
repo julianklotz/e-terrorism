@@ -1,0 +1,90 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Ferdinand",
+    "streetAddress": "Ostbach 7",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 681 811 257 51",
+    "email": "leutasch.hausferdinand@gmail.com"
+  },
+  "name": "Haus Ferdinand",
+  "description": [
+    "Das Haus Ferdinand liegt in schöner, ruhiger und sonniger Lage in Ostbach, direkt an der Loipe. Das 40 m² Apt. ist im Okt. 2012 liebevoll zu einem Nichtraucher-Apt. umgebaut worden.\nEs verfügt über einen sep. Eingang, Vorraum für Ski und Schuhe, 2 Zimmer ,Bad \u0026 Diele. Das Wohnzimmer ist mit einem Schlafsofa, TV - Radio ausgestattet, PC- Anschluss vorhanden . Die offene integierte Küchenzeile ist ausgestattet mit Herd( 4.Platten,Backofen), Kaffeemaschine, Toaster, Wasserkocher, Porcelan ect, Ein sep.Schlafzimmer mit D-Bett gr.Schrank, Radiowecker und Safe, Bett \u0026 Tischwäsche. Unser Bad ist mit Waschtisch,  Regenwalddusche, Wc und Fenster, modern eingerichtet. Weiter stehen ihnen der Garten, Gartenmöbel, Liegen, ein Grill und ein PKW-Stellplatz zur Verfügung ! Wir freuen uns auf eine Zusage",
+    "exclusive:    Endreinigung   35,-€\n         :    Ortstaxe P.P.   2,80 €        :  \n              Brötchenservice\ninclusive:    Langlaufkarte für 2 Personen\n         :    Strom Wasser Heizung ",
+    "Check - In 13:00 Uhr\nCheck - Out 10:00 Uhr"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "reviewCount": "15"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d5b558ac-33f4-4f5d-bade-1ba9092d1b06/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6b40bccb-bbe1-4aa7-8c03-f67aef9b405b/99/image.jpg",
+      "caption": "Hausansicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7d6cc842-a070-4605-aff1-ef7a66f9045b/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/17d21cbd-4276-4f1d-a61e-3a4a3ba9504b/99/image.jpg",
+      "caption": "Hausansicht 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0423c0d7-a00e-4a4e-9d8a-039cb81a243c/99/image.jpg",
+      "caption": "Hausansicht 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6ddbf32a-ed90-48fd-b52d-afe3dffc537b/99/image.jpg",
+      "caption": "Märchenwald"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3587055",
+    "longitude": "11.1349835"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apt/Fewo, 1Wohnraum/ Küche,1Schlafraum,DU/WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ]
+    }
+  ]
+}

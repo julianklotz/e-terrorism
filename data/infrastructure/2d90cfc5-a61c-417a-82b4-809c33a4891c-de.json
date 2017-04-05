@@ -1,0 +1,24 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure",
+    "LocalBusiness"
+  ],
+  "name": "Musikpavillon Mösern",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3114259",
+    "longitude": "11.146693"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Musikpavillon Mösern",
+    "streetAddress": "Möserer Dorfstr. 11",
+    "addressLocality": "Mösern",
+    "postalCode": "6100",
+    "addressCountry": "AT"
+  },
+  "url": [
+    "http://"
+  ]
+}

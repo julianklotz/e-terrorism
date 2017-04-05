@@ -1,0 +1,93 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://members.aon.at/haus.jasmin",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Jasmin",
+    "streetAddress": "Weidach 327 a",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6386",
+    "email": "haus.jasmin@aon.at",
+    "url": "http://members.aon.at/haus.jasmin"
+  },
+  "name": "Haus Jasmin",
+  "description": [
+    "1 Ferienwohnung mit 80m² für 4-6 Pers., in ruhiger Lage, alles getrennte Schlafräume, Wohnzimmer, komplett eingerichtete Küche mit Essecke und Ausziehtisch, Bad+Dusche, extra WC, SAT-TV, Bettwäsche, Handtücher, Zentralheizung. WLAN \nZur Wohnung gehören 36LFM Balkon mit Sonnenterrasse, Garten, Liegewiese, Parkplatz. Schilifte, Langlaufloipe und Einkaufsmöglichkeit in der Nähe. Im Sommer gratis Eintritt ins Alpenbad.\n",
+    "INKLUSIVE: Heizung, Wasser, Strom\n\nExklusive:  Endreinigung, Ortstaxe",
+    "INKLUSIVE: Heizung, Wasser, Strom\n\nExklusive:  Endreinigung, Ortstaxe",
+    "INKLUSIVE: Heizung, Wasser, Strom\n\nExklusive: Telefongesprächkosten, Endreinigung, Ortstaxe",
+    "Check - In: 14.00 Uhr\nCheck - Out: 10.00 Uhr",
+    "Check - In: 14.00 Uhr\nCheck - Out: 10.00 Uhr",
+    "Check - In: 14.00 Uhr\nCheck - Out: 10.00 Uhr"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a6593987-a902-40ba-898f-29587fa62dc4/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/deb08de8-461f-450b-a205-e8989d0732c5/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b0d95356-5b13-4bea-b971-133b1cc79494/99/image.jpg",
+      "caption": "Terrasse"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/964d107f-e004-4036-a2ac-7fd335086fdf/99/image.jpg",
+      "caption": "Garten"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/264798c7-8592-4aac-87f2-506e97ee0265/99/image.jpg",
+      "caption": "Garten 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e22be50d-6678-4cbe-964c-3b7191d5e00e/99/image.jpg",
+      "caption": "Garten mit Hausansicht"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.372683010875",
+    "longitude": "11.167091302081"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 2 Schlafräume",
+      "description": "1 Ferienwohnung mit 80m² für 4-6 Pers., in ruhiger Lage, alles getrennte Schlafräume, Wohnzimmer, komplett eingerichtete Küche mit Essecke und Ausziehtisch, Bad+Dusche, extra WC, SAT-TV, Bettwäsche, Handtücher, Zentralheizung. WLAN \nZur Wohnung gehören 36LFM Balkon mit Sonnenterrasse, Garten, Liegewiese, Parkplatz. Schilifte, Langlaufloipe und Einkaufsmöglichkeit in der Nähe. Im Sommer gratis Eintritt ins Alpenbad..\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/2 Schlafräume/Dusche, Bad, WC",
+          "description": "1 Ferienwohnung mit 80m² für 4-6 Pers., in ruhiger Lage, alles getrennte Schlafräume, Wohnzimmer, komplett eingerichtete Küche mit Essecke und Ausziehtisch, Bad+Dusche, extra WC, SAT-TV, Bettwäsche, Handtücher, Zentralheizung. WLAN \nZur Wohnung gehören 36LFM Balkon mit Sonnenterrasse, Garten, Liegewiese, Parkplatz. Schilifte, Langlaufloipe und Einkaufsmöglichkeit in der Nähe. Im Sommer gratis Eintritt ins Alpenbad.\n",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

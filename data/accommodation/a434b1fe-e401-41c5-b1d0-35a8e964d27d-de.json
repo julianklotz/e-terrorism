@@ -1,0 +1,125 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Föhrenwald - Top 5",
+    "streetAddress": "Hocheggstr. 489",
+    "addressLocality": "Seefeld in Tirol",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "email": "e.k.seefeld@live.at"
+  },
+  "name": "Haus Föhrenwald - Top 5",
+  "description": [
+    "Gelegen in herrlicher, ruhiger Lade befindet sich das kleine Apartment, Top 5 in \"Haus Föhrenwald\" Das 38m2 große 1- Raumapartment besteht aus einem großzügigen Wohn-Schlaf Zimmer und einer komplett ausgestatten Küchenzeile. Das Bad besteht aus Dusche , Waschbecken und WC. Die Wohnung verfügt natürlich über Sat/TV und bittet ein angenehmes Wohngefül. Bei Bedarf kann ein Gitterbett eingestellt werden. Zum Apartment gehören eine Autoabstellplatz vor dem Haus, eine Skikeller, so wie ein Kellerabteil.....\nBettwäsche ,Handtüche, Bademantel inclusive ....",
+    "Check-in ab 15 Uhr \nCheck-out bis 11uhr"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1de5c3f9-e494-4d45-97b6-acf2b5148b9d/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/de2834b7-9c70-4a65-a64b-c3111a1e53b4/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c2cb4b6e-eee2-4004-ac21-456fbcae5b0c/99/image.jpg",
+      "caption": "Küche"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2867283a-d21e-4fd5-9498-5d2ad6b0969d/99/image.jpg",
+      "caption": "Küche"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/129104e2-3d15-4c53-b3ca-20f280e84d7c/99/image.jpg",
+      "caption": "Wohn-Schlaf Zimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/54d5a8ab-5afc-422c-b20b-51a37a2b3003/99/image.jpg",
+      "caption": "Wohn-Schlaf Zimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/038b3840-2750-416d-87fb-143df39a8613/99/image.jpg",
+      "caption": "Wohn-Schlaf Zimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4ce209bf-02a8-4e8c-9a24-1dae8d900045/99/image.jpg",
+      "caption": "Bett"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5ef5e889-045b-44ba-b2a9-80c04cb4bdf3/99/image.jpg",
+      "caption": "WC"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ea976749-79dd-4656-9719-172ceadf5e73/99/image.jpg",
+      "caption": "Dusche"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4bf65b3c-efaf-42e7-a94b-96fcec686b40/99/image.jpg",
+      "caption": "Wohn-Schaf Zimmer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.327579",
+    "longitude": "11.1964226"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, Wohn-/Schlafraum",
+      "description": "Mit Balkon ....",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement/Fewo, Dusche, WC, Wohn-/Schlafraum",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "65.00",
+          "maxPrice": "65.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "65.00",
+          "maxPrice": "65.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.lambertusheim.com",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Lambertusheim",
+    "streetAddress": "Weidach 377 c",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6836",
+    "faxNumber": "(0043) 5214 6836 2",
+    "email": "hub.keulen@online.nl",
+    "url": "http://www.lambertusheim.com"
+  },
+  "name": "Lambertusheim",
+  "description": "Unser Haus befindet sich in Leutasch-Weidach. Es steht in sonniger und ruhiger Lage mit schönen Ausblick auf die umliegende Bergwelt. Es ist der ideale Ausgangspunkt für Wanderungen in die bezaubernde Landschaft des Leutaschtales. Im Haus befindenj sich Ferienwohnungen von 60-70 m2 für 2-4 Personen sowie 2 Einraumwohnungen für 2 Personen (event. 3. Bett). Alle Wohnungen haben Telefon,Sat-TV, Radio und Wireless Internetzugang. Im Erdgeschoss ist eine Sauna und Infrarotkabine (gegen Gebühr). Tisch und Bettwäsche, Handtücher und Geschirr sind ausreichend vorhanden. Weiter stehen Fahrräder kostenlos zur Verfügung. Ebenfalls ein Gartengrill, Sonnen-und Spielwiese.Für Pkw ist ein großer Parkplatz am Haus. Wir freuen uns Sie als Gäste in unserem Haus begrüßen zu dürfen. Familie Keulen-Wielders",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9b3e4252-345c-430c-a836-7cb76451da68/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3922d962-d629-4af8-8ad0-e8070fb61d88/99/image.jpg",
+      "caption": "Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3671089381326",
+    "longitude": "11.1673217301636"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "App mit gemütlichem u. hellen Möbeln im Tiroler-Design. Wohnraum mit Essecke, Komfort-Schlafcouch u. Sitzgarnitur. Küche mit klpt. Ausstg. Bad mit DU u. WC. Große Terasse",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Gemütliches App. mit hellen Möbeln im Tiroler-Design. Wohnraum mit Essecke im Erker, Sitzmöbel u. Komfortschlafcouch. Küche mit Kplt. Ausstg. Bad mit Du. WC im Korridor. 2 Balkone",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC",
+      "description": "Studio mit Wohn- Schlafraum. Helle, gemütliche Möbel im Tirol Design. Doppelbett. Zustellbett möglich. Kplt. Küchenzeile. Bad mit Du./WC. Balkon zur Sonnenseite.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/Wohn-Schlafraum/Dusche, WC",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "HairSalon"
+  ],
+  "name": "Herrenfriseur Barber Shop - Gentleman",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3292523",
+    "longitude": "11.1855361"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Barber Shop - Gentleman",
+    "streetAddress": "Klosterstr. 295",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 6505924333",
+    "email": "info@barber-gentleman.at",
+    "url": "http://www.barber-gentleman.at"
+  },
+  "description": "Mo-Fr: 9.00 Uhr - 19.00 Uhr\nSa: 9.00 Uhr - 17.00 Uhr",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1818b81b-bdd9-4925-b51d-2ebcae800bb6/99/image.jpg",
+      "caption": "Gentleman Barber"
+    }
+  ],
+  "url": [
+    "http://www.barber-gentleman.at"
+  ]
+}

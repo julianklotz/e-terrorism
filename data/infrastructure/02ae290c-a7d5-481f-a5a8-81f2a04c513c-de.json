@@ -1,0 +1,30 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation"
+  ],
+  "name": "Fussballplatz",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3688936",
+    "longitude": "11.144124"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Fussballplatz",
+    "streetAddress": "Oberweidach/Nähe Alpenbad",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b1ab5708-ce4c-467d-b3af-adcd11f01907/99/image.bmp",
+      "caption": "Fussballplatz"
+    }
+  ],
+  "url": [
+    "http://"
+  ]
+}

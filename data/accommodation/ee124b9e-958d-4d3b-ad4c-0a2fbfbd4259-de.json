@@ -1,0 +1,18 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Karl Singer Str. 1",
+    "addressLocality": "München",
+    "postalCode": "81479",
+    "addressCountry": "DE"
+  },
+  "name": "ZW - Hildenbrand  Rainer",
+  "currenciesAccepted": "EUR"
+}

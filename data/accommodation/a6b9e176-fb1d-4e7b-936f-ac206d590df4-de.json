@@ -1,0 +1,135 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.members.aon.at/fewokrug",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Ferienwohnungen Krug",
+    "streetAddress": "Weidach 378 b",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6427",
+    "faxNumber": "(0043) 5214 64271",
+    "email": "fewokrug@aon.at",
+    "url": "http://www.members.aon.at/fewokrug"
+  },
+  "name": "Ferienwohnungen Krug",
+  "description": [
+    "Unser Haus soll für die kostbarsten Tage des Jahres, auch Ihres sein. Auf Ihr Kommen freut sich Familie Krug.\n\nWir liegen im Ortsteil Weidach, auf einem sehr ruhigen, großem Grundstück . In wenigen Minuten erreicht man alle Sport- und Freizeiteinrichtungen (Loipeneinstieg), sowie diverse Geschäfte, Restaurants, Bushaltestellen und der Arzt (Hauapotheke) ist ebenfalls in wenigen Minuten zu erreichen.\nEin geheizter Schiraum, Garten, Terrasse, große Liegewiese stehen für Sie bereit.\n\nIm Winter können unsere Gäste alle Loipen der gesamten Olympiaregion G R A T I S benutzen.",
+    "Inklusive: Bettwäsche, Handtücher, Tischwäsche, Heizung, Fahrräder\n\nExklusive: Ortstaxe, Endreinigung",
+    "Check-In: 14.00 Uhr / Check-Out: 10.00 Uhr\nUnser Haus liegt am Rande Ortsteil Weidach. Nähe Schilift Kreith u. Kinderspielplatz."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8e447c19-a010-48e3-bf5c-5c99b4d4651b/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/fbf1b552-66cb-4f8d-81eb-7e78a984f9f8/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/709b6314-24ff-4b9c-9ea2-6f9ac2b6a4c2/99/image.jpg",
+      "caption": "Winter Hausansicht 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7bb51591-f745-411a-b7cf-30f92e942c67/99/image.jpg",
+      "caption": "Sommer Hausansicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1b64a4e8-1ae9-44bd-ad23-bedeed56f319/99/image.jpg",
+      "caption": "Rodeln beim Haus"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/38b4cf2f-6496-4553-a12f-6a5c38bd768f/99/image.jpg",
+      "caption": "Blick in den Garten"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.367909826318",
+    "longitude": "11.1653603201935"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Größe 55 m² / Südbalkon komplett ausgestattet",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment1/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "40.00",
+          "maxPrice": "63.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "47.00",
+          "maxPrice": "70.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Großes Wohnzimmer mit Südbalkon, größe 55m², Schlafzimmer, Küche und Dusche/WC",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment2/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "40.00",
+          "maxPrice": "63.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure",
+    "LocalBusiness"
+  ],
+  "name": "Festhalle Wetterstein - Kongress",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3704958",
+    "longitude": "11.1528019"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Festhalle Wetterstein",
+    "streetAddress": "Weidach 275 b",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "email": "info@alpenbad-leutasch.com",
+    "url": "http://www.alpenbad-leutasch.com"
+  },
+  "url": [
+    "http://www.alpenbad-leutasch.com"
+  ]
+}

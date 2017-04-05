@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Store"
+  ],
+  "name": "Leutascher Bauernladen",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Leutascher Bauernladen",
+    "streetAddress": "Kirchplatzl",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6046",
+    "url": "http://www.leutascher-bauernladen.at"
+  },
+  "description": "nur Freitag Nachmittag, Mitte Dezember - März: 14 - 18 Uhr, Mitte Mai - Oktober: 15 - 18 Uhr\n\nKirchplatzl\nTel.: +43 5214/6046",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/78c244a2-b6a6-43fd-960f-747253f1ca28/99/image.jpg",
+      "caption": "bauernladen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2eca3902-e2e6-4cab-81ce-f5d1ab101bc2/99/image.jpg",
+      "caption": "bauernladen1"
+    }
+  ]
+}

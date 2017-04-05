@@ -1,0 +1,57 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "Musik und Tanz mit Alleinunterhalter",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Erlebniswirtshaus Alt Seefeld",
+    "employee": {
+      "@type": "Person",
+      "familyName": "Kaltschmid"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Olympiastr. 101",
+      "addressLocality": "Seefeld",
+      "postalCode": "6100",
+      "addressCountry": "AT",
+      "telephone": "+4352122191",
+      "email": "urlaub@kaltschmid.info",
+      "url": "http://www.kaltschmid.info"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Erlebniswirtshaus Alt Seefeld",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Olympiastr. 101",
+      "addressLocality": "Seefeld",
+      "postalCode": "6100",
+      "addressCountry": "AT",
+      "telephone": "+4352122191",
+      "email": "urlaub@kaltschmid.info",
+      "url": "http://www.kaltschmid.info"
+    }
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/26d4119c-53aa-4109-8cd7-e9866d0419b8/99/image.jpg",
+      "caption": "Alt Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1a092887-7fe4-4df7-a759-8541e13c29ef/99/image.jpg",
+      "caption": "Alt Seefeld 1"
+    }
+  ],
+  "url": [
+    "http://www.kaltschmid.info"
+  ],
+  "startDate": "2017-05-20T21:00:00",
+  "endDate": "2017-10-22"
+}

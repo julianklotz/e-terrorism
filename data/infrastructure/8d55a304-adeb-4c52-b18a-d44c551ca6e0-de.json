@@ -1,0 +1,33 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "GovernmentOffice"
+  ],
+  "name": "Fundamt - Gemeindeamt",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3690099",
+    "longitude": "11.1447577"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Kirchplatzl 128a",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6205",
+    "email": "gemeinde@leutasch.tirol.gv.at",
+    "url": "http://www.leutasch.at"
+  },
+  "description": "Kirchplatzl 128 a\nTel.: +43 5214/6205",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ff70810d-34c5-443b-bb49-b9bd46410293/99/image.jpg",
+      "caption": "Gemeindeamt Leutasch"
+    }
+  ],
+  "url": [
+    "http://www.leutasch.at"
+  ]
+}

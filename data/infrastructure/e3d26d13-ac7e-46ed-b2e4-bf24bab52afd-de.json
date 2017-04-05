@@ -1,0 +1,33 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportingGoodsStore",
+    "SportsActivityLocation"
+  ],
+  "name": "Haselwanter Ski Depot",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3312753560722",
+    "longitude": "11.1865925788879"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haselwanter Ski Depot",
+    "streetAddress": "Moosweg 394",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 3606",
+    "url": "http://www.modern-ski.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9f53cf06-e609-4c70-b13b-6e547f6d3efc/99/image.jpg",
+      "caption": "Haselwanter"
+    }
+  ],
+  "url": [
+    "http://www.modern-ski.at"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure"
+  ],
+  "name": "OMV Tankstelle",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3245039837067",
+    "longitude": "11.1991998883301"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "OMV Tankstelle",
+    "streetAddress": "Krinz 27",
+    "addressLocality": "Reith bei Seefeld",
+    "postalCode": "6103",
+    "addressCountry": "AT",
+    "telephone": "(0043)5212 2706"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7b2b26f6-6023-43c4-8a1b-4dc2990bdeab/99/image.jpg",
+      "caption": "Logo"
+    }
+  ],
+  "url": [
+    "http://www.seefeld.com"
+  ]
+}

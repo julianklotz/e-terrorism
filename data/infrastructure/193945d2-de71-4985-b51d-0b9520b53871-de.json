@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Landform",
+    "Hostel"
+  ],
+  "name": "Solsteinhaus",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3081176278187",
+    "longitude": "11.288135777954"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Solsteinhaus",
+    "addressLocality": "Scharnitz - Karwendel",
+    "addressCountry": "AT",
+    "telephone": "(0043) 6643336531"
+  },
+  "description": "Nur im Sommer geöffnet! Stempelstelle, Übernachtungsmöglichkeit für 90 Personen\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1f5b0b4d-a828-4605-890c-31073d55365d/99/image.jpg",
+      "caption": "Solsteinhaus neu"
+    }
+  ],
+  "url": [
+    "http://"
+  ]
+}

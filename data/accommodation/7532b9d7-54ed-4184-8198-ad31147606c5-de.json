@@ -1,0 +1,115 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.pension-bergland.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Pension Bergland",
+    "streetAddress": "Am Bichl 26",
+    "addressLocality": "Mösern",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "+4352124754",
+    "faxNumber": "+4352124754",
+    "email": "pensionbergland@aon.at",
+    "url": "http://www.pension-bergland.at"
+  },
+  "name": "Pension Bergland",
+  "description": [
+    "Unser Haus (22 Betten) liegt in ausgesprochen ruhiger und sonniger Lage. Alle Zimmer und Ferienwohnungen verfügen über Bad/WC oder Du/WC, Sat-TV und Balkon mit herrlichem Rundblick auf die umliegenden Berggipfel und wunderschönem Blick in das Inntal. Ein gemütlicher Aufenthaltsraum mit TV und eine Bibliothek erwarten Sie. Eigener Parkplatz und eine schöne Liegewiese sind ebenso vorhanden. Kinderermäßigung auf Anfrage.",
+    "Inkl. Frühstück ",
+    ""
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5a27e25c-8bcd-4e4a-ba53-452bd1390356/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/865d892a-432a-4c95-8748-c9470a11de73/99/image.jpg",
+      "caption": "Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.310356437398",
+    "longitude": "11.149943860552"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Dreibettzimmer, Bad, WC",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Dreibettzimmer mit Bad, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Bad, WC",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Bad, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Separater Wohnbereich, Fernseher in jedem Raum, jeder Raum mit Zugang Balkon, begehbarer Schrank, 2 Schlafzimmer",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "\"Mundeblick\"",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

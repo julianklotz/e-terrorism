@@ -1,0 +1,48 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "Sommererlebniss - E-Bike-Tour zum Seebensee",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Informationsbüro Leutasch",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Weidach 320",
+      "addressLocality": "Leutasch",
+      "postalCode": "6105",
+      "addressCountry": "AT",
+      "telephone": "+43-50880510",
+      "faxNumber": "+43-50880811",
+      "email": "info.leutasch@seefeld.com",
+      "url": "http://www.seefeld.com"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Informationsbüro Leutasch",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Weidach 320",
+      "addressLocality": "Leutasch",
+      "postalCode": "6105",
+      "addressCountry": "AT",
+      "telephone": "+43-50880510",
+      "faxNumber": "+43-50880811",
+      "email": "info.leutasch@seefeld.com",
+      "url": "http://www.seefeld.com"
+    }
+  },
+  "description": "Der leuchtend-türkise Seebensee ist ein Hochgebirgssee oberhalb der Ehrwalder Alm und zählt zu den schönsten Gebirgsseen Tirols. Dauer: ca. 3 h, Max. Teilnehmer: 20 Pers. Gute körperliche Konstitution, E-Bike tauglich..",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/cb0945a4-869d-468f-9358-bde52247edbe/99/image.jpg",
+      "caption": "Radfahren"
+    }
+  ],
+  "startDate": "2017-06-02T10:00:00",
+  "endDate": "2017-09-29"
+}

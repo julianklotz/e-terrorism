@@ -1,0 +1,33 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure"
+  ],
+  "name": "Taxi Mair",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3849630466954",
+    "longitude": "11.2678420543671"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Taxi Mair",
+    "streetAddress": "Hinterautalstrasse 115",
+    "addressLocality": "Scharnitz",
+    "postalCode": "6108",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5213 5363"
+  },
+  "description": "Hinterautalstr. 115\nTel.: +43 5213/5363",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9cb71035-07ee-4769-81dc-da410bb0cd63/99/image.jpg",
+      "caption": "Taxi Mair"
+    }
+  ],
+  "url": [
+    "http://www.seefeld.com",
+    "http://www.karwendel.org"
+  ]
+}

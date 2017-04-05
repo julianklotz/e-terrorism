@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "EmergencyService"
+  ],
+  "name": "Bergrettung Seefeld",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.33333316714",
+    "longitude": "11.1797046661377"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Bergrettung Seefeld",
+    "streetAddress": "Leutascherstr. 770",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 8209741",
+    "email": "seefeld@bergrettung-tirol.at",
+    "url": "http://www.seefeld.bergrettung-tirol.at"
+  },
+  "description": [
+    " ",
+    "Alpiner Notruf: \nTel. 140 (ohne Vorwahl auch vom Handy)\nTel. +43 (512) 140 (vom ausländischen Handy)\nEU-Notruf: Tel. 112 (ohne Vorwahl, auch vom Handy)\n\nAlpines Notsignal:\nInnerhalb einer Minute sechsmal in regelmäßigen Abständen ein akustisches Zeichen (z.B.: Rufen oder Pfeifen) oder ein optisches Signal abgeben (Schwenken eines weißen Tuches oder Blinkzeichen mit einer Taschenlampe) - ständiges Wiederholen mit einminütiger Pause."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/66d97648-ec7f-49f5-a09d-c31a29e78d1b/99/image.jpg",
+      "caption": "Bergrettung"
+    }
+  ]
+}

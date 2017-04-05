@@ -1,0 +1,260 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://alpenhotelzumsee.wix.com/alpenhotel-zum-see",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Alpenhotel zum See Garni",
+    "streetAddress": "Weidach 336",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 5142",
+    "faxNumber": "(0043) 5214 5142 7",
+    "email": "office@alpenhotelzumsee.at",
+    "url": "http://www.alpenhotelzumsee.at"
+  },
+  "name": "Alpenhotel zum See - Garni",
+  "description": [
+    "Das Alpenhotel zum See…\n\n… befindet sich im Zentrum von Weidach im schönen Leutaschtal (3 km von Seefeld entfernt) auf 1.200 m Seehöhe. Das familiär geführte Hotel bietet ein Terrassencafe, eine hauseigenen Kegelbahn und ein Lesezimmer mit Internetanschluss. Gerne würden wir Sie in unserem Hause verwöhnen und Ihnen einen erholsamen Urlaub bereiten.",
+    "Excl. Kurtaxe\n",
+    "Check ab 14.00 Uhr, Check out bis 12.00 Uhr\n\nAuto:\nVon Osten A 12/ Exit Zirl Ost + 12 km\nVon Norden mautfrei über Garmisch +35 km\nVon Westen A 12/ Exit Telfs Ost +12 km.\n\nZug:\nBahnhof Seefeld 5 km\n\nFlugzeug:\nInnsbruck - 28 km\nMünchen - 182 km\n"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.0",
+    "reviewCount": "41"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/52527a77-5b6f-4c61-9559-dde6a0e155d3/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/111f7ba9-7ccc-420e-817f-fd181e85e511/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a87fc324-5613-443f-b029-41337853ae36/99/image.jpg",
+      "caption": "Frühstücksraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3e9440b9-f871-455f-8f5c-a9c30218b4c6/99/image.jpg",
+      "caption": "Aufenthaltsraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c0d9b5da-99bf-4be8-a4cd-8ab23ce5bff9/99/image.jpg",
+      "caption": "Terrasse"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8c054a84-bc08-4740-929a-268ef48175a7/99/image.jpg",
+      "caption": "Bar"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6ee22f70-0794-4545-98a6-af2574f8fffa/99/image.jpg",
+      "caption": "Winter 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ca98143c-21e4-446d-90b1-cb2be6c4300a/99/image.jpg",
+      "caption": "Sommer 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/35a4cde1-cb29-4761-ba9a-ff70463551fe/99/image.jpg",
+      "caption": "Sommer 3"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3706467163609",
+    "longitude": "11.1659633718277"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC, 1 Schlafraum",
+      "description": "Schöne Doppelzimmer mit TV, teilweise mit Balkon 20-30 m²",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer Kat. A",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "45.00",
+          "maxPrice": "45.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC, 1 Schlafraum",
+      "description": "Die Zimmer mit einer Größe von 20m² sind mit Vollholz im alpenländischen Stil eingerichtet und sind alle mit Dusche oder Bad ausgestattet.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer Kat. B",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "40.00",
+          "maxPrice": "40.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Suite, Bad, WC, Balkon",
+      "description": "Helles geräumiges Zimmer mit 35m² für bis zu 4 Personen mit eigener Terrasse (10m²), sonnige Lage mit Blick auf das Skigebiet Kreithalm.\nBad, WC, TV\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Suite",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "51.00",
+          "maxPrice": "51.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "51.00",
+          "maxPrice": "51.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Einzelzimmer, Dusche, WC, 1 Schlafraum",
+      "description": "Die Zimmer mit einer Größe von 16m² sind mit Vollholz im alpenländischen Stil eingerichtet und sind alle mit Dusche oder Bad ausgestattet.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Einzelzimmer Kat. A",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "51.00",
+          "maxPrice": "51.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Einzelzimmer, Dusche, WC, 1 Schlafraum",
+      "description": "Die Zimmer mit einer Größe von 16m² sind mit Vollholz im alpenländischen Stil eingerichtet und sind alle mit Dusche oder Bad ausgestattet.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Einzelzimmer Kat. B",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "46.00",
+          "maxPrice": "46.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

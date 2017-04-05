@@ -1,0 +1,485 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://www.viktoria.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "A-VITA Viktoria Residenzen",
+    "streetAddress": "Hohe-Munde-Str. 589",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 4441",
+    "faxNumber": "(0043) 5212 4443",
+    "email": "hotel@viktoria.at",
+    "url": "http://www.viktoria.at"
+  },
+  "name": "A-VITA Viktoria Residenzen",
+  "description": [
+    "In ausgezeichneter, ruhiger und sonniger Lage befinden sich die A-VITA Viktoria Residenzen**** auf einer kleinen Anhöhe nahe der Fußgängerzone und des Ortszentrums.\nResidenzen für gehobene Ansprüche.\nModernes Wohnen auf rustikalen Landhausdielen entspricht dem Geist der Zeit. Die Wohnungen sind mit modernen Farben, Naturhölzern und edlen Materialien ausgestattet. \nIhre gehobenen Ansprüche modernen Wohnens zu Hause erleben Sie hier, vereint mit den Annehmlichkeiten des Services eines Hotels.\n",
+    "Kostenlos: Tiefgarage, W-LAN, Sauna und Infrarotkabine.\nGegen Bezahlung: Haustier € 15,- pro Tag, Weihnachten und Silvester: Aufenthalte auf Anfrage\n\nZudem besteht die Möglichkeit einen Hotelservice direkt bei uns (bitte im Voraus)zu buchen. Dieser beinhaltet tägliche Reinigung und Wäschwechsel, Bettwäschenwechsel 1xpro Woche.",
+    "Fahren Sie ins Zentrum, folgen Sie der Olympiastrasse, von der aus die A-VITA Viktoria Residenzen**** gut sichtbar sind.\nCheck in: 15.00 Uhr\nCheck out: 11.00 Uhr"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "reviewCount": "116"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e4dcf18d-e7c2-4f37-9b9f-f3835634e32e/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/be0b24ab-ea85-48d1-831c-22c963177cd2/99/image.jpeg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1c916cb8-9731-438c-b24c-cae5ae51a26c/99/image.jpg",
+      "caption": "Nachtaufnahme"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3305445593499",
+    "longitude": "11.1834114789963"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 3 Schlafräume",
+      "description": " Ca. 160m² Wohnfläche\n·    Ca. 120m² Garten\n·    Ca. 50m² Terrasse\n·    1 bis 8 Personen\n·    3 Schlafzimmer\n·    1 großes Wohnzimmer mit Schlafsofa\n·    1 vollausgestattete Küche mit Essbereichs\n·    2 Badezimmer, beide mit Doppelwaschtisch, eines mit separatem WC/Bidet",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Top 1",
+          "numberOfRooms": "4.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "8",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "410.00",
+          "maxPrice": "640.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "205.00",
+          "maxPrice": "490.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "136.67",
+          "maxPrice": "490.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "102.50",
+          "maxPrice": "490.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "82.00",
+          "maxPrice": "490.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "68.33",
+          "maxPrice": "490.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "*ca. 70m²\n*1-4 Personen\n*1 Schlafzimmer\n*1 Wohnzimmer mit Schlafsofa offen zur vollausgestatteten Küche mit Essbereich\n*1 Badezimmer mit Doppelwaschtisch, Dusche und WC\n*großzügiger Balkon",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Top 4",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "125.00",
+          "maxPrice": "320.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "62.50",
+          "maxPrice": "300.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "50.00",
+          "maxPrice": "335.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "43.75",
+          "maxPrice": "370.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Toilette und Bad/Dusche getrennt, 2 Schlafräume",
+      "description": "*ca.115m²\n*1-6 Personen\n*2 Schlafzimmer\n*1 Wohnzimmer mit Schlafsofa offen zur vollausgestatteten Küche mit großem Essbereich\n*2 Badezimmer mit Doppelwaschtisch, Dusche, Badewanne und separatem WC/Bidet\n*1 WC extra\n*große Südterrasse, ca.45m²",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Top 5",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "310.00",
+          "maxPrice": "510.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "155.00",
+          "maxPrice": "480.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "103.33",
+          "maxPrice": "480.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "77.50",
+          "maxPrice": "480.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "67.00",
+          "maxPrice": "515.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "60.00",
+          "maxPrice": "550.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Toilette und Bad/Dusche getrennt, 1 Schlafraum",
+      "description": "*ca. 85m²\n*1-4 Personen\n*1 Schlafzimmer\n*1 Wohnzimmer mit Schlafsofa\n*1 Küche mit großzügigem Essbereich\n*1 Badezimmer mit Doppelwaschtisch, Badewanne, Dusche und separatem WC/Bidet\n*1 WC extra\n*großzügiger Balkon",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Top 8",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "155.00",
+          "maxPrice": "370.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "77.50",
+          "maxPrice": "350.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "60.00",
+          "maxPrice": "385.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "51.25",
+          "maxPrice": "420.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Toilette und Bad/Dusche getrennt, 2 Schlafräume",
+      "description": "*ca. 115m²\n*1-6 Personen\n*Wohnung über 2 Etagen\n\nunten:\n*1 Schlafzimmer\n*1 Küche mit Essbereich\n*1 Badezimmer mit Doppelwaschtisch, Badewanne, Dusche und separatem WC/Bidet\n*1 WC extra\n*großzügiger Balkon\n\noben:\n*1 Schlafzimmer mit großem Wohnbereich\n*1 Badezimmer mit Badewanne und WC\n*ein weiterer großzügiger Balkon",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Top 9",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "260.00",
+          "maxPrice": "480.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "130.00",
+          "maxPrice": "450.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "86.67",
+          "maxPrice": "450.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "65.00",
+          "maxPrice": "450.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "57.00",
+          "maxPrice": "485.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "51.67",
+          "maxPrice": "520.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche oder Bad, WC, 2 Schlafräume",
+      "description": "*ca. 105m²\n*1-6 Personen\n*2 Schlafzimmer\n*1 Wohnzimmer mit Schlafsofa\n*1 Küche mit Essbereich\n*2 Badezimmer; eines mit Doppelwaschtisch und Badewanne, eines mit Dusche; beide mit separatem WC/Bidet\n*großzügiger Balkon",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Top 10",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "310.00",
+          "maxPrice": "510.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "155.00",
+          "maxPrice": "480.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "103.33",
+          "maxPrice": "480.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "77.50",
+          "maxPrice": "480.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "67.00",
+          "maxPrice": "515.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "60.00",
+          "maxPrice": "550.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche oder Bad, WC, 2 Schlafräume",
+      "description": "*ca.90m²\n*1-6 Personen\n*Wohnung über 2 Etagen\n\nunten:\n*1 Schlafzimmer\n*1 vollausgestattete Küche mit Essbereich\n*1 Badezimmer mit Doppelwaschtisch, Dusche und separatem WC/Bidet\n*großzügiger Balkon\n\noben:\n*1 Schlafzimmer mit Wohnbereich und Schlafsofa\n*1 Badezimmer mit Badewanne und WC/Bidet\n*ein weiterer großzügiger Balkon",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Top 11",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "260.00",
+          "maxPrice": "480.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "130.00",
+          "maxPrice": "450.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "86.67",
+          "maxPrice": "450.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "65.00",
+          "maxPrice": "450.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "57.00",
+          "maxPrice": "485.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "51.67",
+          "maxPrice": "520.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,222 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.urlaub-leutasch.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Ostbacher Stern",
+    "streetAddress": "Ostbach 16",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6629",
+    "faxNumber": "(0043) 512 219921 3337",
+    "email": "info@ostbacher-stern.at",
+    "url": "http://www.urlaub-leutasch.at"
+  },
+  "name": "Ostbacher Stern",
+  "description": [
+    "In ruhiger, sonniger Lage nahe der Wanderwege, kostenloser Eintritt ins Alpenbad im Sommer, Fahrräder im Haus, Gartengrill, neuer Spielplatz, familienfreundlich, Skiraum, Wachstisch, Sauna im Haus, Dampfbad, W-Lan\nInfrarotkabine, Schuhtrockner, Kinderspielzimmer, Fahrradverleih, Rodeln im Haus, Brotservice, Einkaufsservice. Loipeneinstieg Obern 50m, Golfplatz Seefeld in 4km, Golfakademie 5km.",
+    "Inklusive: Handtücher, Bettwäsche, Brötchenservice, Strom, Wasser, Saunatücher, Rodelverleih, Fahradunterstand\nExklusiv: Kurtaxe, Endreinigung, Telefonkosten, Zusatzleistungen laut Preisliste",
+    "Von München über Garmisch nach Mittenwald. Dann links nach Leutasch, durch das Tal Richtung Westen ca. 12 km, dann nach dem Pferdestall links halten Richtung Telfs, Ortsteil Ostbach Von Italien über den Brennerpass nach Innsbruck, dann Zirl - Seefeld"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "reviewCount": "58"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/cd0c2751-27b6-46ec-945d-c287388ea5d8/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/fbe1c934-b51a-4fba-bdec-94138f16cdd2/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d7420948-17bd-43b1-b5a2-0e7ab2fcf9b2/99/image.jpg",
+      "caption": "Garten"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/52db5415-a69a-447f-b25a-c9345a7fcb96/99/image.jpg",
+      "caption": "Ostbach"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a4885846-ac95-46ed-86b5-6ae76d4878bc/99/image.jpg",
+      "caption": "Winter 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6c028f72-adc1-46dd-81f0-8f22585b54e9/99/image.jpg",
+      "caption": "Loipe Moos"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e6ac15d6-6a9c-4702-bf87-09aabecfc3c9/99/image.jpg",
+      "caption": "Spruch"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.358464915351",
+    "longitude": "11.134320533346"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC",
+      "description": "Komplett ausgestattet, Esstisch und Stühle, Couch und Tisch\nWohnraum und Doppelbett optisch durch eine Holzwand abgetrennt, Dusche und sep. WC, Küchenzeile mit Mikrowelle, Kaffeemaschine und Toaster, Gefrierfach-Kühlschrank, Bettwäsche, Handtücher",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment A/Wohn-Schlafraum/Dusche, WC",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Wandern ist wieder im Trend",
+          "description": "Wandern ist modern!\nUnser Haus liegt ideal als Ausgangspunkt für viele Wanderungen im Leutaschtal und der Region Seefeld.\nDie Bushaltestelle ist 5 min. zu Fuß, daher können sie für viele Unternehmungen ihr Auto stehen lassen.\nNach der Wanderung haben wir eine finnische Sauna im Haus. Die Wohnungen sind wohnlich-komfortabel \neingerichtet, für 2-3 Personen ideal, Schuhtrockner für ihre Wanderschuhe ist vorhanden.\nBrötchenservice! W-Lan im Haus.\nWir kennen viele Wanderwege und beraten sie!",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Wandern ist wieder modern",
+          "description": "Wandern ist wieder modern!\n\nUnser Haus liegt ideal als Ausgangspunkt für viele Wanderungen im Leutaschtal und der Region Seefeld.\nDie Bushaltestelle ist 5 min. zu Fuß, daher können sie für viele Unternehmungen ihr Auto stehen lassen.\nNach der Wanderung haben wir eine finnische Sauna im Haus. Die Wohnungen sind wohnlich-komfortabel \neingerichtet, für 2-3 Personen ideal. Schuhtrockner für ihre Wanderschuhe.\nBrötchenservice! W-Lan im Haus!",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "85.00",
+          "maxPrice": "85.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "63.00",
+          "maxPrice": "63.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "63.00",
+          "maxPrice": "63.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "150.00",
+          "maxPrice": "150.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "110.00",
+          "maxPrice": "110.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "ab 50 m², sep. Schlafraum, komplett ausgestattet;\nKüche mit Mikrowelle, Toaster, Kühlschrank mit Gefrierfach, Handtücher, Bad und WC getrennt, Balkon oder Terrasse,   Sat-TV, Radio, Telefon,",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment B/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "52.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "64.00",
+          "maxPrice": "90.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 2 Schlafräume",
+      "description": "kombinierbar bis 95 m²oder 110m2 , bis 8-10 Personen;",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment D/2 Schlafräume/Dusche, Bad, W",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "8",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

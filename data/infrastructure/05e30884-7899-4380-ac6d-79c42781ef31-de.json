@@ -1,0 +1,28 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation"
+  ],
+  "name": "Bogenschießen Seefeld",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Sport Aktiv",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212/99870",
+    "url": "http://www.schisportaktiv.at"
+  },
+  "description": [
+    "Bogenschießen inkl. Ausrüstung und Transfer zum Bogenschießplatz, Mindestteilnehmer: 4 Personen, Termin auf Anfrage\n",
+    "Bogenschießen inkl. Ausrüstung und Transfer zum Bogenschießplatz, Mindestteilnehmer: 4 Personen, Termin auf Anfrage\n"
+  ],
+  "url": [
+    "http://www.schisportaktiv.at"
+  ]
+}

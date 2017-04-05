@@ -1,0 +1,28 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LocalBusiness"
+  ],
+  "name": "Musikpavillon, Kurpark Seefeld",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3290854535397",
+    "longitude": "11.1874737925904"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Musikpavillon, Kurpark",
+    "streetAddress": "Münchner Straße 34",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT"
+  },
+  "description": "nur im Sommer (Konzertsaison) geöffnet!",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2e44db83-8422-43d6-b0d0-6bc661b30219/99/image.jpg",
+      "caption": "Musikpavillon Seefeld"
+    }
+  ]
+}

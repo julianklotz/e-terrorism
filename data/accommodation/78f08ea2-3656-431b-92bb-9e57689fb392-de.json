@@ -1,0 +1,81 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Appartements Alte Mühle",
+    "streetAddress": "Heilbadstraße 94",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 699 103 358 77",
+    "email": "schneeweiss@seefeldnet.at"
+  },
+  "name": "Appartements Alte Mühle",
+  "description": [
+    "Würden Sie gern in einem 400 Jahre altem Haus Ihren Urlaub romantisch verbringen?\nDann sind Sie richtig bei uns.Das Appartement ist mit Himmelbett und alten Bauernmöbeln\neingerichtet. Auf 48m² verfügt das Appartement über ein Kinderschlaf-, Schlaf- und Wohnzimmer mit Küche und einem großzügig angelegtem Bad.",
+    "Hund: EUR 08,00 pro Tag ( ohne Futter )\nBrot- und Semmelservice\nGratis W-Lan\n"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3f88ead3-cfcb-429d-9221-d2e72aee9dad/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/46ab4ffa-e75b-48b3-95b4-add964266054/99/image.jpg",
+      "caption": "Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.339433560423",
+    "longitude": "11.193364756232"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "48 m² komfortabel und großzügig mit 2 Schlafzimmern, Küche, Sitzecke, Kabel-TV, Dusche, WC und Sonnenterasse ausgestattet.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/2 Schlafräume/Dusche, WC",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "85.00",
+          "maxPrice": "95.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "85.00",
+          "maxPrice": "95.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

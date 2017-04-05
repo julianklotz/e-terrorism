@@ -1,0 +1,108 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.pension-pichler.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Pichler",
+    "streetAddress": "Weidach 300 r",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6246",
+    "faxNumber": "(0043) 5214 6246 6",
+    "email": "info@pension-pichler.at",
+    "url": "http://www.pension-pichler.at"
+  },
+  "name": "Haus Pichler",
+  "description": [
+    "Ferien zum Wohlfühlen in unserem Haus. Genießen Sie Ihren Urlaub in geräumigen Wohnungen im Tiroler Stil. Gratis Brötchen aus der hauseigenen Bäckerei garantieren einen guten Start in jeden Urlaubstag.\nFreier Eintritt ins Alpenbad Leutasch im SOMMER!\nGratis Fahrradverleih!",
+    "Im Sommer: Fahrrad Verleih, Wanderstöcke, Eintritt im Alpenbad und Pony reiten\nIm Winter: Rodel Verleih",
+    "Bahnanreise: bis Seefeld oder Mittenwald dann Bus Leutasch/Gasse\nPKW: Garmisch-Mittenwald-Leutasch-Gasse"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/89551f8f-2139-443f-bf40-2f06b64480a7/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/58bea2bd-1224-4669-a6e8-b578f79bbc75/99/image.jpg",
+      "caption": "Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.368312527762",
+    "longitude": "11.162090553703"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartnr.2 /2 Schlafräume/Dusche, WC",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartnr.1 /2 Schlafräume/Dusche, WC",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartnr.3 /2 Schlafräume/Dusche, WC",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure"
+  ],
+  "name": "Bahnhof Seefeld",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3286793457565",
+    "longitude": "11.189478635788"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Bahnhof Seefeld",
+    "streetAddress": "Bahnhofsplatz 115",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 4969385"
+  },
+  "description": [
+    " ",
+    "Aktuelle Fahrpläne und Auskünfte über Ankunfts- und Abfahrtszeiten der Züge und Busse erhalten Sie in allen Informationsbüros der Region. Unsere nächstegelegenen Bahnstationen befinden sich in Seefeld, Reith, Innsbruck, Scharnitz und Mittenwald (D).",
+    "Öffnungszeiten: \nMO-FR: 8.05-13.15 und 14.15-16.25 Uhr"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/26939b15-dfe1-4238-a00c-71c117b6f353/99/image.jpg",
+      "caption": "Bahnhof"
+    }
+  ],
+  "url": [
+    "http://fahrplan.oebb.at"
+  ]
+}

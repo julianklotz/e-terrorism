@@ -1,0 +1,97 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.landhaus-sonnenbichl.com",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Landhaus Sonnenbichl",
+    "streetAddress": "Brochweg 36",
+    "addressLocality": "Mösern",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "+49894300675",
+    "faxNumber": "+498943987528",
+    "email": "info@landhaus-sonnenbichl.com",
+    "url": "http://www.landhaus-sonnenbichl.com"
+  },
+  "name": "Landhaus Sonnenbichl",
+  "description": [
+    "Ruhige, südseitige Hanglage mit grandiosem Panoramablick über das Inntal. Südbalkon über die gesamte Hauslänge. Stellplatz (im Winter Garage). Wander-Spazierwege beginnen unmittelbar vor dem Haus. Badesee und Loipe in wenigen Gehminuten erreichbar.",
+    "INKLUSIVE: Bett \u0026 Küchenwäsche, Strom, Heizung, Wasser, Stellplatz (im Winter Garage) EXKLUSIVE: Ortstaxe, Endreinigung\nKaution beträgt 200 € und wird bei einwandfreiem Zustand der Wohnung beim Auszug zurückerstattet. \n\nHaustiere nicht erlaubt!",
+    "Check-In: ab 16.00 Uhr / Check-Out: 10.00 Uhr \nAnfahrt: In der Ortsmitte (Dorfplatz gegenüber der Kirche) bergwärts abbiegen und der Strasse folgen bis unser Haus links am Hang sichtbar wird. Geteerte Zufahrt."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/23043b48-d34a-46e7-8dfa-6241ca274823/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/291fe2ad-e496-4df9-8dea-31c958b22315/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/354ea6fc-0778-4254-8716-4a7080e78877/99/image.jpg",
+      "caption": "Balkonblick Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.313876399041",
+    "longitude": "11.145271667879"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 1 Schlafraum",
+      "description": "\nFerienwohnung (61 m²):  1 Wohnschlafzimmer (Doppelbettcouch, Sat-TV), 1 Schlafzimmer, Küche (Herd, Geschirrspüler), Bad (Badewanne, 2 Waschbecken, WC), Garage (im Winter) und großer Südbalkon mit herrlichem Inntalblick. Haustiere nicht erlaubt! Mindestbuchung 4 Tage!",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/Wohnschlafz.,1 SZ,Einbauküche,Bad, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "55.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "75.00",
+          "maxPrice": "105.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "95.00",
+          "maxPrice": "130.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

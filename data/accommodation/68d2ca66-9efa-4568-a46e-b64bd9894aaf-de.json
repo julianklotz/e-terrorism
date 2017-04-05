@@ -1,0 +1,131 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.laerchenhof-leutasch.com",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Lärchenhof",
+    "streetAddress": "Weidach 317",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 20185",
+    "email": "laerchenhof-leutasch@aon.at",
+    "url": "http://www.laerchenhof-leutasch.com"
+  },
+  "name": "Lärchenhof",
+  "description": [
+    "Der Lärchenhof liegt direkt in Weidach. Er ist Ausgangspunkt vieler Wanderungen und im Winter vieler Langlauftouren, da er direkt an der Loipe liegt. Die 3 Doppelzimmer sind ausgestattet mit Dusche, WC, Balkon und teilweise mit TV. Die 2 geräumigen Ferienwohnungen haben Wohnküche, Schlafzimmer, Bad und Balkon. Vor unserem Haus ist eine große Liegewiese. Wir haben einen gemütlichen Aufenthaltsraum mit TV.",
+    "Der Lärchenhof liegt direkt in Weidach. Er ist Ausgangspunkt vieler Wanderungen und im Winter vieler Langlauftouren, da er direkt an der Loipe un an den Wanderwegen liegt. Die 3 Doppelzimmer sind ausgestattet mit Dusche, WC, Balkon, WLAN-anschluß und  mit TV. Die 2 geräumigen Ferienwohnungen haben Wohnküche, Schlafzimmer, Bad und Balkon. Vor unserem Haus ist eine große Liegewiese. Wir haben einen gemütlichen Aufenthaltsraum mit TV.\nWir sind ein kleiner familiärer Betrieb.",
+    "Der Lärchenhof liegt direkt in Weidach. Er ist Ausgangspunkt vieler Wanderungen und im Winter vieler Langlauftouren, da er direkt an der Loipe liegt. Die 3 Doppelzimmer sind ausgestattet mit Dusche, WC, Balkon und teilweise mit TV. Die 2 geräumigen Ferienwohnungen haben Wohnküche, Schlafzimmer, Bad und Balkon. Vor unserem Haus ist eine große Liegewiese. Wir haben einen gemütlichen Aufenthaltsraum mit TV.",
+    "Benützung des Aufenthaltsraumes kostenlos + TV Telefonbenützung gegen Barzahlung",
+    "über Mittenwald: Folgen Sie Ortstafelbeschreibung Richtung Weidach, bei der 1. Kreuzung nach der Brücke rechts. 2. Haus rechts. \nüber Seefeld, fahren Sie bis Ortsteil Weidach, zur Kreuzung wo die Touristeninformation ist, dann links, w. Haus auf der rechten Seite."
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "reviewCount": "13"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a9bb023d-78ae-4a69-88fd-905a399d73f5/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/94dac155-8a58-4f5c-b55f-ed9c58ce7e70/99/image.jpg",
+      "caption": "Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.371582342455",
+    "longitude": "11.163638580472"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Doppelzimmer mit Dusche, WC und Bakon, gemütlich eingerichtet mit rustikalen Holzmöbeln.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "28.80",
+          "maxPrice": "28.80",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Ferienhaus, Dusche, WC, 1 Schlafraum",
+      "description": "Wonhküche, Schlafzimmer, Bad, Vorraum, Balkon",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Ferienhaus/1 Schlafraum/ Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "77.00",
+          "maxPrice": "77.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "82.00",
+          "maxPrice": "82.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "87.00",
+          "maxPrice": "87.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

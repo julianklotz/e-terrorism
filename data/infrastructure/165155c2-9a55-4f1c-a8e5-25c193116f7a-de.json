@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation"
+  ],
+  "name": "Skiguiding, Benno Keplinger",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Bergwanderschule \"Karwendel",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043)676 3009859"
+  },
+  "description": "Benno Keplinger Tel.: 0676/3009859\nSki-Guiding mit Privatunterricht; staatlich geprüfter Schilehrer, Betreuung: Alpin und Nordisch, Abholdienst mit Bus vom Hotel und zurück, Be-\nratung bei Schiauswahl, max. Gruppengröße 4 Personen u. individuelle Betreuung, flexible Termine.  \n\t",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/49cb2008-6bc4-4660-a754-85291b7393fd/99/image.jpeg",
+      "caption": "Ski"
+    }
+  ],
+  "url": [
+    "http://"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hostel",
+    "Landform"
+  ],
+  "name": "Brunnsteinhütte (DAV)",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.4408961",
+    "longitude": "11.2617476"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Brunnsteinhütte (DAV)",
+    "streetAddress": "Mittenwald-Karwendel",
+    "addressCountry": "  ",
+    "telephone": "+491728909613"
+  },
+  "description": "Nur im Sommer geöffnet, Übernachtungsmöglichkeit für 36 Personen, Stempelstelle",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/96edfae8-2592-4653-8dcc-6a4a098a8d90/99/image.jpg",
+      "caption": "Brunnsteinhütte "
+    }
+  ],
+  "url": [
+    "http://"
+  ]
+}

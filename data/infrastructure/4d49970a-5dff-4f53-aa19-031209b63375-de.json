@@ -1,0 +1,26 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Landform"
+  ],
+  "name": "Ehrwalderalm",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3851446504752",
+    "longitude": "10.9692478179932"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Ehrwalderalm",
+    "addressCountry": "  ",
+    "telephone": "(0043) 5673 21255"
+  },
+  "description": "Stempelstelle",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0eeb7b97-a0ff-41d8-907f-b17e8750814c/99/image.jpg",
+      "caption": "Ehrwalder Alm"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://www.moesern.net/heislerhof",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Hotel Heislerhof",
+    "streetAddress": "Kirchweg 2/4",
+    "addressLocality": "Mösern",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "+4352124758",
+    "faxNumber": "+435212475838",
+    "email": "heislerhof@moesern.net",
+    "url": "http://www.moesern.net/heislerhof"
+  },
+  "name": "Hotel Heislerhof",
+  "description": [
+    "Gemütlicher Familienbetrieb mittlerer Preiskategorie.\nKomfortzimmer + Ferienwohnungen, Südlage mit herrlichem Bergpanorama. Die Zimmer sind ausgestattet mit Bad oder Dusche, WC, Kabel-TV, Balkon oder Terrasse.\n\nFrühstück, Imbisse und Getränke im Haus erhältlich.\n\nBesuchen Sie unsere Homepage: www.moesern.net/heislerhof\n\nHaustiere auf Anfrage!",
+    "Aktionsangebote:\nunter :  Pauschalangebote Seefeld,\nund Herbstferien 2008",
+    "Weg: Im Ortszentrum von Mösern beim Fahnenplatz.\nHerrliches Bergpanorama \nGarten, Terrasse, Balkone\nAlle Zimmer liegen abseits der Straße!\n"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b70de40f-d04a-4c23-a16b-523e40fcf682/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9a4607b8-b8a1-450c-823e-03e6aead3bc3/99/image.jpg",
+      "caption": "Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3116425559204",
+    "longitude": "11.1453616725814"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche oder Bad, WC",
+      "description": "Ruhige Zimmer mit Dusche/Bad + WC",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Dusche od. Bad, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Ruhige  Lage, Balkon ,Terrasse,Garten  TV Kabelfernseher\nKüche, Sitzecke ,Wäsche und Geschirr Mikro,vorhanden Dusche WC , Fühstück im Hotel mit Aufzahlung erhältlich\nZwei FERIENWOHNUNGEN nur für NICHTRAUCHER und ohne HAUSTIERE\n\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

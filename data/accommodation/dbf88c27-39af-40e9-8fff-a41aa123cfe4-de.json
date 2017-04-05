@@ -1,0 +1,107 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.lueginsland.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf",
+    "http://www.lueginsland.at"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Lueg ins Land",
+    "streetAddress": "Finkenweg 16",
+    "addressLocality": "Reith bei Seefeld",
+    "postalCode": "6103",
+    "addressCountry": "AT",
+    "telephone": "0043 664 3644676",
+    "email": "gkf@gmx.at",
+    "url": "http://www.lueginsland.at"
+  },
+  "name": "Lueg ins Land",
+  "description": [
+    "Unser Landhaus befindet sich in sonniger, ruhiger Waldrandlage mit Blick auf die herrliche Tiroler Bergwelt.\n1,5 km liegen wir vom Zentrum Seefeld entfernt und Sie haben von unserem Haus aus direkten Anschluss an das Wanderwegenetz.\nDie Haltestelle für den Schi/Wanderbus ist in 1 Minute erreichbar.\n\n",
+    "inkl.  Strom, Heizung, Bett- und Tischwäsche, Handtücher\nCheck in: 14.00 Uhr\nCheck out: 10.00 Uhr",
+    "Von München kommend Ausfahrt Seefeld Süd - Abzweigung Richtung Auland, vor der Bushaltestelle links !\nVon Innsbruck kommend Ausfahrt Reith Auland bis zur Bushaltestelle in Auland - rechts abbiegen - noch ca. 50 m.\nalleinstehendes Haus!"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/159ce7b2-fe0d-41e8-8522-920dae537da9/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/04283cf5-bc2e-47cf-96fb-3b6ba0b97c36/99/image.jpg",
+      "caption": "Sommer "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f63b6613-053b-4aba-a8bc-d946999b0359/99/image.jpg",
+      "caption": "Sommer 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3e247c1e-ebec-4cdd-9767-13888bf3b476/99/image.jpg",
+      "caption": "Sommer 3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/03b51433-4a9e-4ae2-8841-33a65c656575/99/image.jpg",
+      "caption": "Winteransicht"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3097904891054",
+    "longitude": "11.2005200442517"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 1 Schlafraum",
+      "description": "Gemütliches Zweizimmerappartement für 2 - 4 Personen(ca.65m2).\nVollständig eingerichtete Küche (Geschirrspüler,Herd mit Backrohr,Mikrowelle...)\nWohnzimmer: mit großer Couch \u003d Zusatzbett/en für 2 Personen\nSAT-TV, Radio+CD\nSchlafzimmer, Bad mit Badewanne, Südterrasse",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement 1",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "50.00",
+          "maxPrice": "60.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "55.00",
+          "maxPrice": "70.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "60.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

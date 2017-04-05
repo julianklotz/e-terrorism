@@ -1,0 +1,25 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure",
+    "LocalBusiness"
+  ],
+  "name": "Lionsclub Olympiaregion Seefeld",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Lionsclub Olympiaregion Seefeld",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "email": "info@lions-seefeld.at",
+    "url": "http://www.lions-seefeld.at"
+  },
+  "url": [
+    "http://www.lions-seefeld.at"
+  ]
+}

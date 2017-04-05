@@ -1,0 +1,112 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://haus-barbara.heim.at/",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Barbara",
+    "streetAddress": "Moos 11 a",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 20130",
+    "faxNumber": "(0043) 5214 20130",
+    "email": "gabriel.wehinger@aon.at",
+    "url": "http://haus-barbara.heim.at/"
+  },
+  "name": "Haus Barbara",
+  "description": [
+    "Unser Haus liegt in ruhiger Lage direkt am Waldrand. Unsere Ferienwohnung ist großzügig ausgestattet. Belegung 2-4 Personen. Separater Eingang, Vorraum, Wohn-Schlafraum, Schlafzimmer, Küche mit Essecke und Badezimmer mit Badewanne. Wäsche und überdachter Autoabstellplatz inklusive. Im Sommer zum Entspannen sonnige Liegewiese hinterm Haus. Direkt an der Loipe gelegen und Ausgangspunkt für viele Wanderungen.",
+    "INKLUSIVE: Strom, Wasser, Heizung, Wäsche, überdachter Abstellplatz für Auto\nEXKLUSIVE: Ortstaxe, Endreinigung\n\nInternetbenützung gegen Gebühr!",
+    "Check-In: 14.00 Uhr\nCheck-Out: 10.00 Uhr\nWeg: Folgen Sie der Wegbeschreibung Richtung Mundelift-Moos"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d3e8e93c-ca5e-41d6-83d3-601af4c467f6/99/image.jpg",
+      "caption": "Winter1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e6d74652-b14d-4269-bf63-6e6c7be6af71/99/image.jpg",
+      "caption": "Winter2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e2245475-eb34-4d79-a1fd-485df8119550/99/image.jpg",
+      "caption": "Sommer1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/86f7fcf5-ff93-4d44-ace1-cadede0b02bc/99/image.jpg",
+      "caption": "Sommer2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6b7ceb2f-e511-43dd-8c34-d715e24bbad6/99/image.jpg",
+      "caption": "Sommer3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c362cb9b-5295-4eff-8b2e-dd9139909dd0/99/image.jpg",
+      "caption": "Garten"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.349743896905",
+    "longitude": "11.120870181569"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 1 Schlafraum",
+      "description": "neuwertig, hell, große Fenster, ruhige Lage W-Lan gegen Gebühr.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/1 Schlafraum/Bad, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "40.00",
+          "maxPrice": "55.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "45.00",
+          "maxPrice": "65.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "45.00",
+          "maxPrice": "65.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

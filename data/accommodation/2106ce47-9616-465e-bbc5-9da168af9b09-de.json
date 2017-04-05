@@ -1,0 +1,87 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Frank -  Top 6",
+    "streetAddress": "Leutascherstr. 596 / Top 6",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5263 6297",
+    "email": "nina.hoepperger@hoepperger.at"
+  },
+  "name": "Haus Frank - Appartement Höpperger",
+  "description": "Das Haus Frank in dem sich die Ferienwohnung befindet liegt in einer ruhigen, zentrumsnahen Lage auf dem wunderschönen Seefelder-Plateau zwischen den Olympiastädten Innsbruck und Garmisch Partenkirchen, mit schönem Blick zum Karwendelgebirge. \n\nDie nette Terrasse bietet einen herrlichen Ausblick zur Rosshütte.\nSchiraum und Abstellraum für Fahrräder (2 im Preis inbegriffen) befinden sich neben der Wohnung. Parkplatz direkt vor dem Haus.\n\nWenige Minuten von der Wohnung entfernt befindetsich die Haltestelle des kostenlosen Dorf- und Schibusses. Zwei Schigebiete, die mit dem Gratisbus in 5 Minuten erreichbar sind prägen mit der Olympiaschanze das Bild von Seefeld.\n\nVerbringen Sie bei uns Ihren erholsamen und erlebnisreichen Urlaub. Wir freuen uns auf Sie!",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "reviewCount": "52"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0c13802f-58a3-475e-a917-5c56a29bb6a4/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2aa3b0ad-14ea-4290-b188-b7bae44c4092/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/92fe6e9a-66fc-47c3-86b5-464dfa1c97bc/99/image.jpg",
+      "caption": "Schigebiet Rosshütte"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6a28c090-d986-42f3-a325-eaa32a5dcb74/99/image.jpg",
+      "caption": "Terrasse"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/033e9402-5320-4c36-babf-c17b46a4535c/99/image.jpg",
+      "caption": "Terrasse Aussicht Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9ee194ee-66d2-44ce-8028-2dbf68857535/99/image.jpg",
+      "caption": "Bergstation Rosshütte"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3330930239661",
+    "longitude": "11.1798326656067"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Die kleine Küche ist mit Geschirr, Besteck, Gläser, Geschirrspüler, Kühlschrank, Zweiplattenherd, Heißwasserkocher, Toaster, Heißluftbackofen und Espressomaschine ausgestattet. \n\nDas Badezimmer verfügt über Dusche, Kosmetikspiegel, Haarfön und Bademäntel.\n\nKabel-TV, Radio, DVD-Player, eigener Essbereich, ein Doppelbett und ein Schlafsofa inkl. Bettwäsche für 3 Personen geben dem modern eingerichteten Wohnschlafbereich eine gemütliche und angenehme Atmosphäre.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ]
+    }
+  ]
+}

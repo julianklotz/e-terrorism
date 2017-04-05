@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "TouristInformationCenter"
+  ],
+  "name": "Informationsbüro Leutasch",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3720352145058",
+    "longitude": "11.1645507079693"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Informationsbüro Leutasch",
+    "streetAddress": "Weidach 320",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "+43-50880510",
+    "faxNumber": "+43-50880811",
+    "email": "info.leutasch@seefeld.com",
+    "url": "http://www.seefeld.com"
+  },
+  "description": "Leutasch - tut mir gut!\n\nLEUTASCH:\n\nbis 14.5.2017:\nMontag - Freitag: 9.00 - 17.00 Uhr, Ostern: Sa, 15.4.: 9.00 - 12.00 Uhr und So, 16.4.: 10.00 - 12.00 Uhr\n\n15.5. - 5.6.2017:\nMontag - Freitag: 9.00 - 17.00 Uhr\nSamstag: 9.00 - 12.00 Uhr\n25.5., 4.6. und 5.6.2017: 10.00 - 12.00 Uhr\n\nAb 6.6.2017:\nMontag - Freitag: 9.00 - 18.00 Uhr\nSamstag: 9.00 - 12.00 Uhr, am 5.8. und 12.8.2017 zusätzlich 14.00 - 17.00 Uhr\nSonn- und Feiertag (Fronleichnam, 15.6. und 2.7.-17.9.2017: 10.00 - 12.00 Uhr, am 6., 13. \u0026 15.8.2017 zusätzlich 14.00 - 17.00 Uhr\n\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7cf80669-d2e8-4dbf-8f07-eb6261dd0eaa/99/image.jpg",
+      "caption": "Logo"
+    }
+  ],
+  "url": [
+    "http://www.seefeld.com"
+  ]
+}

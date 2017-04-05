@@ -1,0 +1,48 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "Sommererlebnis Natur erleben - Mit allen Sinnen mit Bantl Hansi",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Informationsbüro Leutasch",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Weidach 320",
+      "addressLocality": "Leutasch",
+      "postalCode": "6105",
+      "addressCountry": "AT",
+      "telephone": "+43-50880510",
+      "faxNumber": "+43-50880811",
+      "email": "info.leutasch@seefeld.com",
+      "url": "http://www.seefeld.com"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Informationsbüro Leutasch",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Weidach 320",
+      "addressLocality": "Leutasch",
+      "postalCode": "6105",
+      "addressCountry": "AT",
+      "telephone": "+43-50880510",
+      "faxNumber": "+43-50880811",
+      "email": "info.leutasch@seefeld.com",
+      "url": "http://www.seefeld.com"
+    }
+  },
+  "description": "Der erfahrene Wanderführer Hansi Bantl eröffnet Ihnen die Welt der botanischen Kostbarkeiten. Beim bedächtigen Durchwandern genieße die Ruhe und Stille und erfreue Dich am geheimnisvollen Leben der Natur.\nDauer: 3 Stunden, max. 20 Teilnehmer möglich.Die Teilnahme an den geführten Wanderungen ist mit der\nOlympiaregion Seefeld Card kostenlos.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d0c081f2-f48d-447d-a29e-2c4de4c7f24d/99/image.jpg",
+      "caption": "natur"
+    }
+  ],
+  "startDate": "2017-05-31T10:00:00",
+  "endDate": "2017-10-01"
+}

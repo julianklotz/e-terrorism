@@ -1,0 +1,29 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BarOrPub",
+    "SkiResort"
+  ],
+  "name": "Beisl/Bar",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3292683676916",
+    "longitude": "11.1852300167084"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Beisl",
+    "streetAddress": "Klosterstr. 608",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 3405030"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7e415822-acdb-477d-8ed4-2615facf9d05/99/image.jpg",
+      "caption": "Bar"
+    }
+  ]
+}

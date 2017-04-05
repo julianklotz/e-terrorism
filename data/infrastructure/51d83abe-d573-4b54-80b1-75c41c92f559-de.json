@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation"
+  ],
+  "name": "Nordic Walking und Nordic Fitness",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Sport Norz",
+    "streetAddress": "Klosterstr. 120",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 6252",
+    "url": "http://www.sport-norz.at"
+  },
+  "description": [
+    "Nordic Walking und Nordic Fitness\nTäglich auf Anfrage.\nAnmeldung erforderlich unter Tel.: 05212/6252",
+    "Nordic Walking und Nordic Fitness\nTäglich auf Anfrage.\nAnmeldung erforderlich unter Tel.: 05212/6252"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0d4ff36d-38dc-4f57-b83d-c6b24f9bb6b4/99/image.jpg",
+      "caption": "Sport Norz"
+    }
+  ],
+  "url": [
+    "http://www.sport-norz.at"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "TouristInformationCenter"
+  ],
+  "name": "Informationsbüro Mösern/Buchen",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3116071322906",
+    "longitude": "11.1459728074096"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Infobüro Mösern",
+    "streetAddress": "Möserer Dorfstraße 11",
+    "addressLocality": "Mösern/Buchen",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "+4350880520",
+    "email": "info.moesern@seefeld.com",
+    "url": "http://www.seefeld.com"
+  },
+  "description": "Mösern/Buchen - mit Weitblick geniessen!\n\nÖffnungszeiten Winter:\nMo-Fr: 10.00-13.00 und 14.00-16.00\nSa, sowie Sonn- und Feiertag: 10:00 - 12:00 \n\nÖffnungszeiten Sommer:\nMo-Fr: 10.00-13.00 und 14.00-16.00\nSa: 10.00-12.00\nSonn- und Feiertage geschlossen! Ausnahme: 14.8. und 15.8. : 10:00 - 12:00\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c48661af-2c0f-494c-ada7-c3b71643d43f/99/image.jpg",
+      "caption": "Infobüro"
+    }
+  ]
+}

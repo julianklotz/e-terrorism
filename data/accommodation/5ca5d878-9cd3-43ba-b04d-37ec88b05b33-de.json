@@ -1,0 +1,209 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.birkenwald.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Appartementhaus Birkenwald",
+    "streetAddress": "Andreas-Hofer-Straße 606",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 606 0",
+    "faxNumber": "(0043) 5212 606 218",
+    "email": "info@birkenwald.at",
+    "url": "http://www.birkenwald.at"
+  },
+  "name": "Appartementhaus Birkenwald",
+  "description": [
+    "Die besondere Adresse für anspruchsvolle Individualisten, verwöhnte Familien und Sportbegeisterte. Es stehen Ihnen 70 voll eingerichtete Appartements in verschiedenen Größen zur Auswahl. \n\nUnser Haus liegt in sonniger, ruhiger Lage und das Ortszentrum sowie das Wander- Skigebiet Rosshütte sind nur wenige Gehminuten entfernt. Eine idyllisch gelegene Liegewiese, eigener Spielplatz und Garagen sind vorhanden. Nach einem sportiven Tag können Sie im beheizten Hallenbad sowie in der Finnischen- oder Vitalsauna relaxen. Der offene Kamin und Billard laden zum geselligen Abend ein. Hotspot ab Mitte 2005.\n",
+    "Inkl.: Schwimmbad, Sauna\n\nExkl.: Telefon, Billard, Solarium, Waschmaschine, Wäschetrockner",
+    "Check in 14.00 Uhr / Check out 10.00 Uhr\nDas Appartementhaus Birkenwald liegt zwischen dem Zentrum und dem Skigebiet Rosshütte in ruhiger Lage."
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "reviewCount": "50"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b17a1e7d-2ad0-495c-a628-c0942425cfc5/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6a7705bd-d1c9-46cb-b84b-00dd4827546e/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/fc8d8c7c-abd3-4aef-b7e2-b118c82154e1/99/image.jpg",
+      "caption": "Schwimmbad"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d908fa72-1e3b-4a7e-a339-1b0c55c06cda/99/image.jpg",
+      "caption": "Sauna"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0926159c-2c64-4dd9-aa96-4297349ececd/99/image.jpg",
+      "caption": "Kaminzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/95594289-1fea-41d1-be34-cd5d1ecd9ec8/99/image.jpg",
+      "caption": "Leseraum"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.329795573112",
+    "longitude": "11.1946713924408"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartment/Wohn-Schlafraum/Bad,WC Typ I",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "56.00",
+          "maxPrice": "115.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "56.00",
+          "maxPrice": "115.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/1 Schlafraum/Dusche,WC Typ II",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "71.00",
+          "maxPrice": "138.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "71.00",
+          "maxPrice": "138.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "86.00",
+          "maxPrice": "153.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "101.00",
+          "maxPrice": "168.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "App./2 Schlafräume/Dusche, WC Typ III",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "78.00",
+          "maxPrice": "153.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "93.00",
+          "maxPrice": "168.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "108.00",
+          "maxPrice": "183.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "123.00",
+          "maxPrice": "196.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation"
+  ],
+  "name": "Rollerskistrecke",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3277558043134",
+    "longitude": "11.1819308996201"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Nordisches Kompetenzzentrum",
+    "streetAddress": "in der Casino Arena",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 52789",
+    "email": "arena@seefeld-sports.at",
+    "url": "http://www.seefeld-sports.at"
+  },
+  "description": [
+    " ",
+    "Die neu angelegte Rollerskistrecke in Seefeld ermöglicht Sportlern ein individuell zugeschnittenes Training mit verschiedenen Schwierigkeitsgraden. Angelegt ist die Strecke in der Casino Arena sowie im Möserertal. Aufgrund der Führung der Strecke direkt zu den Schießständen in der Casino Arena ist ein kombiniertes Lauf- und Schießtraining für Biathleten möglich. \nLänge: 3,6 km (Außenschleife), beliebig in Länge und Höhenmeter erweiterbar, Breite: 3 m.\nNur im Sommer möglich."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6c1b3c37-fbd2-431b-97fe-593e46f3621d/99/image.jpg",
+      "caption": "Rollerski"
+    }
+  ],
+  "url": [
+    "http://www.seefeld-sports.at"
+  ]
+}

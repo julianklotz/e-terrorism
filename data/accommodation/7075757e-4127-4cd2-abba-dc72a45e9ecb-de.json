@@ -1,0 +1,83 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.landhaus-genoveva.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Landhaus Genoveva",
+    "streetAddress": "Weidach 378 c",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6105",
+    "faxNumber": "(0043) 5214 6105",
+    "email": "info@landhaus-genoveva.at",
+    "url": "http://www.landhaus-genoveva.at"
+  },
+  "name": "Landhaus Genoveva",
+  "description": [
+    "Unser Haus befindet sich in ruhiger Lage am Waldrand ca. 5 min vom Zentrum entfernt. Unsere Appartements sind ausgestattet mit 2 Schlafzimmern, Wohnküche, Vorraum, Dusche/WC, Balkon, Fernseher mit SAT-Empfang.",
+    "Check In: 14.00 Uhr\nCheck Out: 10.00 Uhr\n\n\n",
+    "Über Seefeld: Seefeld - Leutasch - Ortseingang ca. 2350m - vor Cafe Pichler - links \nÜber Mittenwand (mautfrei ): Leutasch bis Ortsteil Weidach - Ortsende - hinter Cafe Pichler rechts"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5cef4d64-e835-4891-be9a-e84d282818f7/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/30f7c4b8-bef8-4e1e-99d8-d4c1ac180f7d/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f391a103-ed9f-49e5-ae2d-291968f95e1a/99/image.png",
+      "caption": "Garten"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1053d572-e055-439a-8f8a-4b5d8d08a4eb/99/image.png",
+      "caption": "Terrasse"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4fd61938-ebcd-418e-bf12-66b18d9f910b/99/image.png",
+      "caption": "Aussicht"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.366765611001",
+    "longitude": "11.164525785213"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/2 Schlafräume/Dusche, WC",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

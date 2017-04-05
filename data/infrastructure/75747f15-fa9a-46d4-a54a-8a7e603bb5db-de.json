@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure",
+    "LocalBusiness"
+  ],
+  "name": "Feuerwehr Reith",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3008757168215",
+    "longitude": "11.2013975666565"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Feuerwehr Reith",
+    "streetAddress": "Römerstraße 70",
+    "addressLocality": "Reith bei Seefeld",
+    "postalCode": "6103",
+    "addressCountry": "AT",
+    "telephone": "(0043)05212/3070",
+    "email": "feuerwehr@ffreith.at",
+    "url": "http://www.ffreith.at/"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/79483e8f-9501-40b9-858e-64edf538b8e8/99/image.jpg",
+      "caption": "Feuerwehr"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/737295e5-ef0d-4bb9-8e28-2582a72534b2/99/image.jpg",
+      "caption": "Feuerwehr Reith"
+    }
+  ]
+}

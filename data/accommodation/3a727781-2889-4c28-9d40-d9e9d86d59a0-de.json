@@ -1,0 +1,103 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.utoring.ch",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Birkenhain",
+    "streetAddress": "Kindergartenweg 479 ",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "+43 664 8890871",
+    "email": "birkenhain.seefeld@utoring.ch",
+    "url": "http://www.utoring.ch"
+  },
+  "name": "Haus Birkenhain",
+  "description": [
+    "Familiär betreutes Appartementhaus \"Am Birkenhain\" in ruhiger und sonniger Lage unweit vom Zentrum. Bushaltestelle (Gratis-Skibus) 100 m. Zentrum mit Einkaufsgeschäften, Restaurants, Hallenbad, Tennis, Golf, Sportzentrum, Langlaufloipe, Bergbahnen 200 m. Rezeption, Tischtennisraum, Skiraum. Brötchen- und Getränkeservice (extra). Lift. Privatparkplatz. Vermietung von Mountainbikes.",
+    "Die gemütlich eingerichteten Wohnungen verfügen alle über Telefon, Kabel-TV, Radio. Zuschlag für Kinder-, Zustellbett und Haustiere auf Anfrage.\n\nPreis Inklusive: Wäsche, Strom, Reinigung\n\n",
+    "Von Innsbruck kommend Richtung Seefeld - Ausfahrt Seefeld/Mitte - Richtung Zentrum. Der Andreas-Hofer-Strasse ca. 300 m bis zum Appartementhaus Birkenwald auf der linken Straßenseite folgen. Vor dem Appartementhaus links abbiegen in den Kindergartenweg. Dann nächste Abbieung rechts und bis zum Utoringhaus Birkenhain weiterfahren. \n\nGute Fahrt und einen schönen Aufenthalt wünscht Ihnen Interhome."
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "reviewCount": "64"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a16ff6fd-cb73-492a-8bf5-df900bcb6975/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5cc7faa9-9766-4987-96ba-a540af61536b/99/image.jpg",
+      "caption": "Sommer "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ab660537-61ad-4bb2-b681-808b5430385a/99/image.jpg",
+      "caption": "Sommer Außenansicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/63c38589-8a0e-43f7-bcfa-d409ce06306c/99/image.jpg",
+      "caption": "Terrasse"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3291738337495",
+    "longitude": "11.1951327323914"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche oder Bad, WC",
+      "description": "gemütlich eingerichtete Appartements, Balkon, Südseite",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "2** Wohnung",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche oder Bad, WC, 1 Schlafraum",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "3*** Wohnung",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "1"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "HealthAndBeautyBusiness"
+  ],
+  "name": "Kneippanlage Reith bei Seefeld",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3090076690779",
+    "longitude": "11.2033841343933"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Kneippanlage Reith bei Seefeld",
+    "streetAddress": "Reither Waldweg",
+    "addressLocality": "Reith bei Seefeld",
+    "postalCode": "6103",
+    "addressCountry": "AT"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9b2f9042-f11c-44a7-bf2a-0fbbdbc8694b/99/image.jpg",
+      "caption": "Kneippbecken"
+    }
+  ]
+}

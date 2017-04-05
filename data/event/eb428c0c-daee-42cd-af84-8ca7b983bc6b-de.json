@@ -1,0 +1,53 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "Kultur im Wirtshaus - Heringsschmaus mit echter Volksmusik",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Gasthof Zur Mühle",
+    "employee": {
+      "@type": "Person",
+      "givenName": "Anna",
+      "familyName": "Maurer"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Burggraben 264",
+      "addressLocality": "Leutasch",
+      "postalCode": "6105",
+      "addressCountry": "AT",
+      "telephone": "(0043) 5214 6712",
+      "faxNumber": "(0043) 5214 6020",
+      "email": "info@gasthof-zur-muehle.at",
+      "url": "http://www.gasthof-zur-muehle.at"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Gasthof Zur Mühle",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Burggraben 264",
+      "addressLocality": "Leutasch",
+      "postalCode": "6105",
+      "addressCountry": "AT",
+      "telephone": "(0043) 5214 6712",
+      "faxNumber": "(0043) 5214 6020",
+      "email": "info@gasthof-zur-muehle.at",
+      "url": "http://www.gasthof-zur-muehle.at"
+    }
+  },
+  "description": "Dazu echte Volksmusik. Reservierung unter Tel. 05214 6712.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3f9ae963-0055-4fe3-91f9-ab714562f84c/99/image.jpg",
+      "caption": "kiwi"
+    }
+  ],
+  "startDate": "2017-03-01T18:30:00",
+  "endDate": "2017-03-01"
+}

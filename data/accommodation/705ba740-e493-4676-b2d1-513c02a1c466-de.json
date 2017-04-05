@@ -1,0 +1,232 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.gapphof.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Gapphof",
+    "streetAddress": "Mühlbergweg 2",
+    "addressLocality": "Reith bei Seefeld",
+    "postalCode": "6103",
+    "addressCountry": "AT",
+    "telephone": "0043 5212 2744",
+    "faxNumber": "(0043) 5212 2744",
+    "email": "maria@gapphof.at",
+    "url": "http://www.gapphof.at"
+  },
+  "name": "Gapphof",
+  "description": [
+    "Familiär geführter Gesundheits-Bauernhof in ruhiger Einzellage. Bauernstube mit Frühstücksbuffet aus eigenen Produkten; \nSchneeschuhwanderungen und Skitouren können direkt vom Haus aus unternommen werden\nZur Loipe und zum Skilift sind es nur 3 km.\nKinder können sich beim Schneemannbauen vorm Haus austoben oder im Stall bei\nden Tieren dürfen sie abends helfen.\nRodeln dürfen Sie sich auch ausleihen für eine zünftige Rodelpartie.\nNach einem anstrengenden Skitaggenießen Sie die feine Wärme der Infrarotkabine\noder machen Sie sich ein Getreidekissen warm zum Einschlummern.\n\nWir freuen uns auf Sie\nIhre Gastgeberfamilie Gapp",
+    "Ortszentrum Reith - Auland - Alpenkönig - Abzweigung Mühlberg- Gapphof"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "reviewCount": "35"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/595a3b61-597c-4758-b682-58169295c174/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3e7e48db-dede-4f1f-9a2c-fa965cd885e9/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/cf02792a-d0f2-4ebc-aac2-8b15a6da7644/99/image.jpg",
+      "caption": "Aussicht Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f64bea80-5b1f-4666-8d98-2c35991fd572/99/image.jpg",
+      "caption": "Aussicht Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/422e5c4e-0484-4c48-95c4-029839ea351f/99/image.jpg",
+      "caption": "Brunnen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/001bdf17-1ace-4d11-8bb5-367dea9b7091/99/image.jpg",
+      "caption": "Kräutergarten"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/555dc437-3652-4564-9adf-c4ad0c398922/99/image.jpg",
+      "caption": "Kälber zum Anfassen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e6233ac5-1b9c-4387-af81-b7cdc204112d/99/image.jpg",
+      "caption": "Kühe zum Füttern"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ba7ca357-8640-45c2-a9bc-1247bbf5e318/99/image.jpg",
+      "caption": "Hofeigene Produkte"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3025551",
+    "longitude": "11.1933519"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Dreibettzimmer, Dusche, WC",
+      "description": "gemütliches, sonniges Zimmer mit Balkon, TV, schöne Aussicht auf die Bergwelt",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Dreibettzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "gemütliches, helles Zimmer mit Couch, TV",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer Blick Hausbrunnen",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "28.00",
+          "maxPrice": "38.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "schönes geräumiges Appartemente mit Balkon, SAT-TV, komfortable Ausstattung",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement Lärchenwiese",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "32.50",
+          "maxPrice": "55.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "26.67",
+          "maxPrice": "65.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "23.75",
+          "maxPrice": "75.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "Schönes geräumiges Appartement mit Balkon, Sat-TV, komfortable Ausstattung",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement Reitherspitze",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "32.50",
+          "maxPrice": "55.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "26.67",
+          "maxPrice": "65.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "23.75",
+          "maxPrice": "75.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.fichtenstamm.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Fichtenstamm",
+    "streetAddress": "Am Klosterwald 661",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2935",
+    "faxNumber": "(0043) 5212 2935",
+    "email": "haus@fichtenstamm.at",
+    "url": "http://www.fichtenstamm.at"
+  },
+  "name": "Haus Fichtenstamm",
+  "description": [
+    "Lassen Sie sich von der ruhigen und außergewöhnlich schönen Aussichtslage unseres Hauses begeistern und gönnen Sie sich schöne Tage im gemütlichen und komplett ausgestatteten Appartement. Vergünstigter Eintritt ins Hallenbad.",
+    "Inklusive : Heizung , Stromkosten, WLAN\nExclusive: Garage, Haustiere auf Anfrage",
+    "Check In : 14.00 Uhr\nCheck Out : 10.00 Uhr\nVon der Umfahrungsstrasse kommend Richtung Leutasch, am Ortsende, gegenüber der Rettung Strasse nach links, Richtung Klosterwald. Bis zum Haus Helvetia, dann rechts abbiegen zu unserem Haus."
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "reviewCount": "10"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/743063f4-80bb-4596-99f0-500e529138f7/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7d716156-5afc-4b80-8f7b-2d40e6ce3970/99/image.jpg",
+      "caption": "Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3327441905374",
+    "longitude": "11.1774730682373"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 2 Schlafräume",
+      "description": "3 - Zimmerappartement 80m², Erdgeschoß mit Garten. Wohnzimmer, 2 Schlafzimmer, 2 Bäder/Dusche, neue bestens ausgestatte Küche, freies WLAN, LED-Fernseher, Kabel-TV, Radio, Safe.\nBett- und Tischwäsche, Hand- und Badetücher\nWaschmaschine, Trockenraum\nBrötchenservice",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment /2 Schlafraum/Bad, WC",
+          "description": "3-Zimmer-Appartement 80 m2 in traumhaft schöner Aussichtslage für 2 bis 4 Personen (2 Zusatzbetten möglich)\nWohnzimmer, 2 Schlafzimmer mit jeweils einem Badezimmer, komplett neue, best ausgestattete Küche, LED-TV (Kabel-TV), freies WLAN, Zimmersafes.\nBett- und Tischwäsche, Hand- und Badetücher, Brötchenservice\nWaschmaschine und Trockenraum",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "110.00",
+          "maxPrice": "110.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "120.00",
+          "maxPrice": "120.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "130.00",
+          "maxPrice": "130.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

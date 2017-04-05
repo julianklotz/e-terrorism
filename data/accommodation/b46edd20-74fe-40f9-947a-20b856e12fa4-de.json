@@ -1,0 +1,562 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://www.klosterbraeu.com",
+    "http://www.moving-pictures.de/v6/klosterbraeu/index.php?neutral\u003dyes",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Seyrling GmbH \u0026 Co KG",
+    "streetAddress": "Klosterstr. 30",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "+4352122621",
+    "faxNumber": "+4352123885",
+    "email": "info@klosterbraeu.com",
+    "url": "http://www.klosterbraeu.com"
+  },
+  "name": "Hotel Klosterbräu",
+  "description": [
+    "Luxus-Romantik-SPA mit hochkarätiger Auszeichnung\nDas Hotel Klosterbräu*****\u0026 Spa in Seefeld/Tirol wird heute in der 6. Generation von der Gastgeberfamilie Seyrling persönlich und herzlich geführt.\nDas 500 Jahre alte und ehemalige Kloster verfügt über  90 individuelle Wohlfühlzimmer und Suiten, 5 hochklassige Restaurants sowie ein 150.000m² großen Garten.\nDer brandneue 4.000m² große „Spiritual Spa“ wurde mit dem „Senses“ Award für das beste Spa-Konzept 2011 ausgezeichnet. \nwww.klosterbraeu.com  Tel. +43.5212.2621.0\n",
+    "Reichhaltiges Gourmet-Frühstücksbuffet bis 10:30 Uhr, kostenloser Transport und Abholung im Ortsgebiet, Parkplatz, kostenloses WLAN, Fitness-Studio, Bade-, Sauna- und Wellnesslandschaft, Live Musik und Piano Bar",
+    "Check-In: 15:00 Uhr / Check-Out: 11:00 Uhr\nDirekt im Zentrum, in der Fußgängerzone, Hotel Rückseite komplett im Grünen, Zufahrt gestattet, eigener Parkplatz."
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "reviewCount": "289"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2790825b-231c-4140-b1d7-54ce7a6d585a/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0b046122-4f93-46fb-8e47-85f17dc9a03c/99/image.png",
+      "caption": "Klosterbräu"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/312937fc-d5f4-4d8f-870a-71f1f4e7b435/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6640b9a5-9bdd-4a6a-9c30-ee5461219308/99/image.jpg",
+      "caption": "Familie Seyrling"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7faaea58-945f-4038-9041-99be983d5897/99/image.jpg",
+      "caption": "Hotelhalle"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/17842d06-a005-42ef-9181-0bcf7e9cdb7b/99/image.jpg",
+      "caption": "Maximilianhalle"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/132701b8-23c3-4fd2-bd86-545c05f5d5c5/99/image.jpg",
+      "caption": "Pool innen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/20450d8f-3eea-4e93-a736-68d0e38b7a2d/99/image.jpg",
+      "caption": "Weinkeller"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4690b98f-2ec7-4786-82d3-f766b618cc3c/99/image.jpg",
+      "caption": "Eventsauna"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4a42a478-60e7-4183-83de-80e81871132b/99/image.jpg",
+      "caption": "Ruhebereich"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ffe6046a-1152-405b-83cf-b8313500b169/99/image.jpg",
+      "caption": "Pool"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e1df941d-1a71-442d-87da-a32ea8335129/99/image.jpg",
+      "caption": "Garten"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d9be1727-f491-4f67-9912-210f9d687905/99/image.jpg",
+      "caption": "Spa Gang"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f25f5faa-ed5f-4b33-84f5-d23af749f2b8/99/image.jpg",
+      "caption": "Wellness Rezeption"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e8186195-d774-45a8-8472-65a0082b6837/99/image.jpg",
+      "caption": "Restaurant"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d4dbde8d-0018-4b4d-a6c3-0ad46cb809c7/99/image.jpg",
+      "caption": "Bräukeller\u0026 Grill"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3289130077641",
+    "longitude": "11.1857806361963"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Suite, Dusche und Bad, WC",
+      "description": "Edles Erlebnis\nDie Familiensuiten sind mit ca. 40 - 55 m²  geräumig und mit hochwertigsten Materialien und Textilien eingerichtet und befinden sich im 1. oder 2. Stock. Dieses Wohnerlebnis verfügt über zwei getrennte und vollwertige Schlafzimmer sowie einem gemeinsamen Bad und ein separates WC. Über den Wohnraum gelangen sie bequem zum Balkon. Zwei TV Geräte, Safe, Minibar,  Radio/CD Spieler,  Telefon, Fön, und kuschelige Bademäntel.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Familien - Suite",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "265.00",
+          "maxPrice": "1889.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "265.00",
+          "maxPrice": "265.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "265.00",
+          "maxPrice": "265.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Suite, Dusche und Bad, WC",
+      "description": "Die Kaisersuite ist ein Unikat und mit ihrer ca. 70 m² großen Wohn- und 30m² großen Balkonfläche großzügig gestaltet und sucht ihres Gleichen. Sie residieren in 2 getrennten Schlafzimmern (davon 1 Kinderzimmer mit Stockbett), einer Tiroler Stube als Wohnzimmer und einem edlen und einzigartigem Luxusbad. Zusätzlich ist die Kaisersuite mit einem separatem WC und einer weiteren Dusche mit Waschbecken ausgestattet. Großzügiger, begehbarer Kleiderschrank, sonniger Südbalkon mit Bergpanoramablick.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Kaisersuite",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "409.00",
+          "maxPrice": "1720.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "409.00",
+          "maxPrice": "1720.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "409.00",
+          "maxPrice": "1720.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Suite, Dusche und Bad, WC",
+      "description": "Residieren statt wohnen\t\nDie Suiten „Maximilian“ messen ca. 45 - 50 m² und sind geräumig und besonders edel eingerichtet. Der räumlich getrennte und großzügige Schlaf- und Wohnbereich ist mit je einem Fernseher ausgestattet. Die Zimmer im zweiten und dritten Stock verfügen über einen herrlichen Blick auf die Tiroler Alpen.Zwei Sat-TV, Safe, Minibar,  Radio/CD Spieler,  Telefon, Fön, und kuschelige Bademäntel.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Juniorsuite Basic",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "269.00",
+          "maxPrice": "1280.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Suite, Dusche und Bad, WC",
+      "description": "Individueller Luxus\nDie Suiten „Royal“ ca. 48 - 60 m² sind mit viel Liebe zum Detail eingerichtet und wurden nach speziellen Themen ausgestattet. Somit verfügen sie z.B. über einen romantischen offenem Kamin, ein Swarovski Kristallbad oder ein Himmelbett. Die Zimmer befinden sich im ersten Stock und sind zur verkehrsberuhigten Fußgängerzone hin ausgerichtet. Das WC ist auch in dieser Kategorie getrennt vom stilvollen Bad vorzufinden. Zwei Sat-TV, Safe, Minibar,  Radio/CD Spieler,  Telefon.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Suite Deluxe mit Balkon",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "299.00",
+          "maxPrice": "1266.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "299.00",
+          "maxPrice": "1266.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "299.00",
+          "maxPrice": "1266.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Einzelzimmer, Bad, WC",
+      "description": "Geräumiger Standard\t\nUnsere  Einzelzimmer „Oswald“ messen zwischen 20 - 25 m². Sie sind komfortabel eingerichtet mit Bad / WC, Sitzecke und Kingsize Bett.  Alle Einzelzimmer Oswald verfügen auch über Balkonund sind alle mit Bad/WC, Safe, Minibar, Flat-TV, Radio/CD Spieler, Telefon, Fön und kuscheligen Bademänteln ausgestattet.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Einzelzimmer Oswald",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "199.00",
+          "maxPrice": "999.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Bad, WC",
+      "description": "Einfach und funktionell\nDie Doppelzimmer „Augustiner“ sind einfach gehalten und teilrenoviert. Sie verfügen über eine Größe von ca. 20 - 30 m² und sind mit Bad/WC, Safe, Minibar, Flat-TV, Radio/CD Spieler, Telefon, Fön, kuscheligen Bademänteln und einer Sitzgelegenheit ausgestattet. Die meisten Zimmer sind zum ruhigen Innenhof hin ausgerichtet und befinden sich in  den Stockwerken eins bis drei.\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer Basic",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "159.00",
+          "maxPrice": "999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "159.00",
+          "maxPrice": "999.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Bad, WC",
+      "description": "Geräumiger Superior\nUnsere Doppelzimmer „Oswald“ sind mit ca. 30 m² geräumig und bequem eingerichtet und verfügen über eine gemütliche Sitzecke sowie Bad/WC, Safe, Minibar, Flat-TV, Radio/CD Spieler, Telefon, Fön und kuscheligen Bademänteln. \n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer Comfort Plus",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "179.00",
+          "maxPrice": "999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "179.00",
+          "maxPrice": "179.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Bad, WC",
+      "description": "Unsere De Luxe Kategorie\t\nDie Doppelzimmer „Maximilian“ ca. 30 - 35 m² sind unsere „Hauptzimmer“ sehr komfortabel und gemütlich  eingerichtet. Es verfügen alle über eine gemütliche Sitzecke sowie Bad/WC, Safe, Minibar, Flat-TV, Radio/CD Spieler, Telefon, Fön und kuscheligen Bademänteln. Die meisten dieser Zimmer haben auch ein Balkon. ",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer Excellence",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Top-Langlauf-Angebot 4\u003d3 inkl. Kurs",
+          "description": "Preis für 4 Übernachtungen inklusive Gourmet-Halbpension, Aperitif im 500 Jahre alten Weinkeller mit der Gastgeberfamilie, Klosterbräu Luxury Services sowie Nutzung des mehrfach prämierten SPA und 4 Langlauf-Privatstunden. \n",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/b4cbadf5-f982-47a4-a4a3-3d4857171a01/99/image.jpg",
+              "caption": "Langlauf"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "190.00",
+          "maxPrice": "999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "190.00",
+          "maxPrice": "999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "675.00",
+          "maxPrice": "675.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche und Bad, WC",
+      "description": "Wahrlich königlich\nDie streng limitierten Doppelzimmer „Royal“ sind mit ca. 40 m² sehr geräumig und erinnern an eine „Juniorsuite“. Die Zimmer sind in warmen Farben gehaltene und verfügen über einen großzügigen Schlaf- und Wohnbereich. Die luxuriösen Bäder mit separater Dusche und  WC wurden mit eindrucksvollen Swarovski Waschbecken ausgestattet. Ihnen steht eine sehr großzügige private Terrasse zur Südseite zur Verfügung.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer Royal",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "229.00",
+          "maxPrice": "999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "229.00",
+          "maxPrice": "999.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Suite, Bad, WC",
+      "description": "Fernab des Gewöhnlichen\nDie 2 Suiten “Oswald” sind mit ca. 42 m² geräumig und sehr edel eingerichtet. Der räumlich getrennte und großzügige Schlaf- und Wohnbereich ist je mit einem Fernseher ausgestattet. Die Zimmer im zweiten und dritten Stock verfügen über einen herrlichen Blick auf die Tiroler Alpen. Der begehbare Kleiderschrank und die feinen Stoffe und Textilien ergänzen diese Oase des Luxus entsprechend. Das WC ist auch in dieser Kategorie getrennt vom stilvollen Bad vorzufinden.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Suite Oswald",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "245.00",
+          "maxPrice": "1018.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "245.00",
+          "maxPrice": "1018.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

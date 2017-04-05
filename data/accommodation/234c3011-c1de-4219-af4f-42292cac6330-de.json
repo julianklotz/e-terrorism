@@ -1,0 +1,105 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.monika-leutasch.com",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Kurblhof",
+    "streetAddress": "Weidach 365",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6288",
+    "faxNumber": "(0043) 5214 6288 15",
+    "email": "info@monika-leutasch.com",
+    "url": "http://www.monika-leutasch.com"
+  },
+  "name": "Kurblhof",
+  "description": [
+    "Nichraucherhaus,  zentrale Lage, Familienbetrieb, gesunde Bauweise, ruhige Lage, schöner Garten, sehr gutes BIO-Frühstücksbuffet, Loipennähe, ganzjährig geöffnet.",
+    "Haustier ohne Futter 3,00 €\nFahrradverleih kostenlos.",
+    "Von Mittenwald kommend, durch Weidach vor der Tankstelle links abbiegen, nördlich vom Supermarkt M-Preis.\nCheck in: 14:00 Uhr, Check out 11:00 Uhr."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/14f2d153-d006-413a-96d8-d07dd2b8455a/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/06d820e5-64bc-4281-8468-a73508e3e7fd/99/image.jpg",
+      "caption": "Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3738914",
+    "longitude": "11.1690247"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Einzelzimmer, Dusche, WC",
+      "description": "Gemütliche Einzelzimmer mit Dusche/WC und Balkon.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Einzelzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "37.80",
+          "maxPrice": "37.80",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Gemütlich eingerichtete Doppelzimmer mit Sitzgelegenheit, Dusche/WC und Balkon.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ]
+    }
+  ]
+}

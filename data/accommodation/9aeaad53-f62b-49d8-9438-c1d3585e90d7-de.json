@@ -1,0 +1,99 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.haus-bergkristall.co.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Bergkristall",
+    "streetAddress": "Hocheggstraße 604",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043)5212 2867",
+    "email": "bergkristall@seefeldnet.at",
+    "url": "http://www.haus-bergkristall.co.at"
+  },
+  "name": "Haus Bergkristall",
+  "description": [
+    "Ruhig gelegenes Appartementhaus, sonnig, sehr zentral gelegen, ca. 5 Gehminuten ins Zentrum, Tiefgarage!",
+    "Inkl.: Bettwäsche,Garage inklusive\n\nCheck in: 16.00 Uhr\nCheck out: 10.00 Uhr",
+    "Aus der Schweiz: Von Mösern kommend erste Kreuzung rechts durch den Tunnel - bei der ersten Hauptkreuzung links bis zur Fußgängerzone - der Straße folgend zur nächsten Kreuzung - gerade weiter Richtung Norden entlang der Reitherspitzstrasse - über die Bahnübersetzung, nach ca. 400 m links in die Milserstrasse - Hocheggstrasse zum Haus Bergkristall.\nAus Deutschland oder Italien (Innsbruck): Seefeld Mitte ausfahren - weiter zum Kreisverkehr, bei der 3. Ausfahrt Richtung Südost (Lobaweg) bis zum Kreisverkehr - 1. rechts 200 m weiter bis zur 1. kleinen Kreuzung - 1. rechts in die Milserstrasse- Hocheggstrasse zum Haus Bergkristall."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/db32a737-067a-4660-ae87-b07aaab457eb/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/af796177-bf08-4113-8562-a3eb2c642243/99/image.jpg",
+      "caption": "Logo 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3526a515-b3f8-4d09-a26e-eaec987bf952/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/13be8eb5-7919-4804-b98f-791d7ea4d9b8/99/image.jpg",
+      "caption": "Aussicht Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/60a3cab6-7cb3-48a2-b1c1-ac0ca7b7eec1/99/image.jpg",
+      "caption": "Aussicht Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.327631873827",
+    "longitude": "11.194253950264"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC",
+      "description": "1 Wohn/ Schlafraum kombiniert, Küche, Badezimmer, große Südterrasse, Radio, Kabelfernsehn.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement A",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "50.00",
+          "maxPrice": "55.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "55.00",
+          "maxPrice": "60.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

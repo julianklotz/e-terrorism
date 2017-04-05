@@ -1,0 +1,68 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.neuleutasch.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Johanna",
+    "streetAddress": "Neuleutasch 385",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 3943543",
+    "faxNumber": "(0043) 512 342290 17",
+    "email": "fischerleutasch@gmail.com",
+    "url": "http://www.neuleutasch.at"
+  },
+  "name": "Haus Johanna",
+  "description": [
+    "Je 1 Wohnung im Parterre und im 1. Stock für je 4 Personen mit separaten Eingängen. Gemütlich und komfortabel ausgestattet - unbeschwertes Wohnbehagen für die schönsten Tage des Jahres.",
+    "Inklusive: Heizung, Strom, Bett- un. Tischwäsche, Handtücher\n\nExklusive: Ortstaxe und Telefon, Endreinigung",
+    "Check-in 15.00 Uhr - Check-out 10.00 Uhr\n\nNeuleutasch ist eine kleine Siedlung auf einem Plateau zwischen Seefeld und Leutasch"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/895ca79b-8c2e-4ad5-a40b-49a3bf849f7d/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/603359af-16fd-4baf-b261-311bc5e84288/99/image.jpg",
+      "caption": "Winter"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.349354736815",
+    "longitude": "11.182936251221"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Ferienhaus, Dusche und Bad, WC, 2 Schlafräume",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Ferienhaus/2 Schlafräume/Dusche, Bad, WC",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": [
+      "Event"
+    ],
+    "name": "Kultur im Wirtshaus - \"Aus\u0027n Pfandl essen\"",
+    "eventStatus": "http://schema.org/EventScheduled",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sporthotel Raffl",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Weidach 314a",
+        "addressLocality": "Leutasch",
+        "postalCode": "6105",
+        "addressCountry": "AT"
+      }
+    },
+    "location": {
+      "@type": "Place",
+      "name": "Sporthotel Raffl",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Weidach 314a",
+        "addressLocality": "Leutasch",
+        "postalCode": "6105",
+        "addressCountry": "AT"
+      }
+    },
+    "description": "Kultur im Wirtshaus - \"Aus\u0027n Pfandl essen\"",
+    "image": [
+      {
+        "@type": "ImageObject",
+        "url": "http://resc.deskline.net/images/SEE/1/3594f49d-1cb3-4bdf-a14b-eed2122891db/99/image.jpg",
+        "caption": "kiwi"
+      }
+    ],
+    "startDate": "2017-08-13T18:30:00",
+    "endDate": "2017-08-13"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": [
+      "Event"
+    ],
+    "name": "Kultur im Wirtshaus - \"Aus\u0027n Pfandl essen\"",
+    "eventStatus": "http://schema.org/EventScheduled",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sporthotel Raffl",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Weidach 314a",
+        "addressLocality": "Leutasch",
+        "postalCode": "6105",
+        "addressCountry": "AT"
+      }
+    },
+    "location": {
+      "@type": "Place",
+      "name": "Sporthotel Raffl",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Weidach 314a",
+        "addressLocality": "Leutasch",
+        "postalCode": "6105",
+        "addressCountry": "AT"
+      }
+    },
+    "description": "Kultur im Wirtshaus - \"Aus\u0027n Pfandl essen\"",
+    "image": [
+      {
+        "@type": "ImageObject",
+        "url": "http://resc.deskline.net/images/SEE/1/3594f49d-1cb3-4bdf-a14b-eed2122891db/99/image.jpg",
+        "caption": "kiwi"
+      }
+    ],
+    "startDate": "2017-09-17T18:30:00",
+    "endDate": "2017-09-17"
+  }
+]

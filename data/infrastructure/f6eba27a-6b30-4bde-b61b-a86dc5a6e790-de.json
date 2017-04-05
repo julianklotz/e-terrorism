@@ -1,0 +1,33 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant"
+  ],
+  "name": "Pizzeria Il Sole",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3292138288995",
+    "longitude": "11.1819550395012"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Il Sole",
+    "streetAddress": "Leutascher Str. 58",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 676 4519505",
+    "email": "ilsole.trattoria@hotmail.com",
+    "url": "http://www.ilsolepizzeria.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c6bdd497-33f1-4518-84a0-2b4007fa7ee8/99/image.jpg",
+      "caption": "Pizzeria Il Sole Sommer"
+    }
+  ],
+  "url": [
+    "http://www.ilsolepizzeria.com"
+  ]
+}

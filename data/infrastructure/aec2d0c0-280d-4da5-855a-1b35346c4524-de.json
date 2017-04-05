@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Landform"
+  ],
+  "name": "Möserer Seestub´n",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3156041",
+    "longitude": "11.1458981000001"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Möserer Seestub´n",
+    "streetAddress": "Möserer Seeweg 16",
+    "addressLocality": "Mösern",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 4779",
+    "email": "info@seestubn.at ",
+    "url": "http://www.seestubn.at"
+  },
+  "description": "Sitzplätze für ca. 90 Personen\n\nE-Bike Akkuwechselstation, Stempelstelle",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/82e76814-7413-401d-ae3d-be968c7251c2/99/image.jpg",
+      "caption": "Möserer See"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/37f4b589-84cf-4b59-9121-64eb66f9b4b7/99/image.jpg",
+      "caption": "Möserer Seestub´n"
+    }
+  ]
+}

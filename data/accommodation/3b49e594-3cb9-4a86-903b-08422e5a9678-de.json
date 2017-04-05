@@ -1,0 +1,18 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Albrecht Dürer Weg 25 /Top 63",
+    "addressLocality": "Mösern",
+    "postalCode": "6100",
+    "addressCountry": "AT"
+  },
+  "name": "ZW -  Willms Berend",
+  "currenciesAccepted": "EUR"
+}

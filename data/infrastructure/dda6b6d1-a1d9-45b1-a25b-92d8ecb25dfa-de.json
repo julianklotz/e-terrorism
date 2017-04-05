@@ -1,0 +1,33 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure"
+  ],
+  "name": "Landgasthof Ropferstub\u0027m",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3317440974239",
+    "longitude": "11.1105827949463"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Buchen 6-8",
+    "addressLocality": "Buchen",
+    "postalCode": "6410",
+    "addressCountry": "  ",
+    "telephone": "+43526265949",
+    "email": "info@ropferhof.at",
+    "url": "http://www.pure-natur.at"
+  },
+  "description": "Akkuladestation\n\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1eac5bfe-7038-445f-b912-75c83a637d43/99/image.jpg",
+      "caption": "Akkuladestation"
+    }
+  ],
+  "url": [
+    "http://www.pure-natur.at"
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.sonnen-alp.at/",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Appartement Sonnen-Alp",
+    "streetAddress": "Klosterstrasse 43",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2529",
+    "faxNumber": "(0043) 5212 2529 18",
+    "email": "info@sonnen-alp.at",
+    "url": "http://www.sonnen-alp.at/"
+  },
+  "name": "Appartement Sonnen-Alp",
+  "description": [
+    "Die Wohnungen liegen im Rathaus in Seefeld in Tirol.\nMitten im wunderschönen Dorfzentrum Seefeld´s.\nDie Appartements verfügen über ein Wohn-Schlafzimmer, Südbalkon, Kitchenette, Bad und Abstellraum.\nSpeise- und Kochgeschirr ist vorhanden. Ebenso Bettwäsche und Geschirrtücher.\nEin Lift bringt Sie in den 2. Stock.\nGerne können Sie auch eine Garage im Haus anmieten.",
+    "Wir berechnen einen Mietpreis je nach Saison pro Tag. \nDer Preis ist inklusive Mwst.\n\nGarage kann zusätzlich angemietet werden.\nPreis auf Anfrage.",
+    "Sie können mit dem Auto, dem Zug oder per Flugzeug anreisen.\nWir möchten Sie bitten uns Ihre genaue Ankunftszeit mitzuteilen sodass wir Sie pünktlich in Empfang nehmen können.\n"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a864faf5-0989-45ad-8137-bc8c232ebd67/99/image.jpg",
+      "caption": "Ausblick vom App. Top 10,Seefeld Tirol"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/842acea6-6f56-49fa-ab16-cb1043637226/99/image.jpg",
+      "caption": "Hotel Sonnen-Alp,Seefeld Tirol"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e678dc50-43ee-4231-be28-99a69fa06cee/99/image.jpeg",
+      "caption": "Blick auf Rathaus -Top 10,Seefeld Tirol"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ffed5fd5-2aa8-4b6a-89e3-540a281b3858/99/image.jpeg",
+      "caption": "Karte, Seefeld Tirol"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/309bea09-b5bd-4cd5-94c5-97513b6a1401/99/image.jpeg",
+      "caption": "Dorfplatz, Seefeld Tirol"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3291665619008",
+    "longitude": "11.1868500709534"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC",
+      "description": "Mitten im Zentrum, in der Fußgängerzone im 2. Stock mit Südbalkon und Blick auf Dorfplatz liegen unsere Appartement´s. \n Lift ist vorhanden. Garage kann gegen Aufpreis dazu gemietet werden.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/Wohn-Schlafraum/Bad, WC",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "80.00",
+          "maxPrice": "85.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "80.00",
+          "maxPrice": "85.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Store",
+    "GroceryStore",
+    "BookStore"
+  ],
+  "name": "Finsterwalder- Seefelder Touristenshop",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Finsterwalder-Seefelder Touristenshop",
+    "streetAddress": "Münchner Str. 35",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2382"
+  },
+  "description": [
+    "auch Verkauf von Telefonwertkarten!",
+    "auch Verkauf von Telefonwertkarten!"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8a023b22-d762-43b3-a389-ea0d0d67e190/99/image.jpg",
+      "caption": "Finsterwalder"
+    }
+  ]
+}

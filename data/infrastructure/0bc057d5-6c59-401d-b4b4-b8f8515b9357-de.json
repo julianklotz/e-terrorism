@@ -1,0 +1,29 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation",
+    "TouristAttraction"
+  ],
+  "name": "E-Bike Verleih - Das Hotel Eden",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3309013",
+    "longitude": "11.1873459"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Das Hotel Eden",
+    "streetAddress": "Münchner Str. 136",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 50495",
+    "faxNumber": "(0043) 5212 50494",
+    "email": "info@eden-seefeld.at",
+    "url": "http://www.eden-seefeld.at"
+  },
+  "description": "E-Bike Verleih auf Anfrage!",
+  "url": [
+    "http://www.eden-seefeld.at"
+  ]
+}

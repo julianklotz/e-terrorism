@@ -1,0 +1,286 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://www.rafflshotel.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Raffl\u0027s Sporthotel - Das Hotel mit Herz",
+    "streetAddress": "Weidach 314 a",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6634",
+    "faxNumber": "(0043) 5214 6044",
+    "email": "info@rafflshotel.at",
+    "url": "http://www.rafflshotel.at"
+  },
+  "name": "Raffl´s Sporthotel - Das Hotel mit Herz",
+  "description": [
+    "Ihr familiäres und heimeliges Urlaubszuhause zum fairen Preis! Einmalige u. ruhige Lage im Ortszentrum. Sie wohnen in freundlich eingerichteten Zimmern mit allem Komfort und werden bestens verpflegt. Neue Saunaanlage mit Dampfbad, Infrarot, Solegrotte, Whirlwanne, Solarium uvm. Halle, Lift, Bar, kostenloser Hobbyraum, Fitnessgeräte, Sonnenterrasse und einem eigenem Wald. Wir freuen uns auf Ihr Kommen. Familie Raffl.",
+    "Kostenlos: Fitnessraum, Billard, Tischtennis, Tischfußball, Sauna, Infrarotstüberl, Dampfbad, Rodelverleih.\nEinzelgarage € 7,00, Carport € 5,00, Zimmerservice € 2,00, Tiere (auf Anfrage) € 8,00, jeweils pro Tag, Whirltherapiewanne € 10,00, Solarium € 10,00 und Massagen.",
+    "Check -In 15.00 Uhr / Check - out 10.00 Uhr\nVon Seefeld kommend: an der Kreuzung in Weidach links abbiegen - von dort sind wir das vierte Haus auf der linken Seite.\n\nVon Mittenwald kommend: beim Ortsteil Gasse biegen Sie links nach Weidach ab. An der Kreuzung rechts abbiegen - wir sind das vierte Haus auf der linken Seite."
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "reviewCount": "60"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a2ba9b07-12f5-4491-8cc2-ddb3f67156b1/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1f1078fc-0103-4a44-a892-11f5385a3847/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/69a42768-ae56-4b17-bfd7-1974aa1dd6fc/99/image.jpg",
+      "caption": "Familie Raffl"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/819e5dbd-1098-4b77-9105-3a3bc5f24eca/99/image.jpg",
+      "caption": "Wellnessbereich"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/982c6aa1-5094-4af9-b882-10b54ab38298/99/image.jpg",
+      "caption": "Ruheraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/893dbe28-b0c9-4b14-bda7-5043043e332f/99/image.jpg",
+      "caption": "Whirlpool"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/34be0fa8-a395-470a-90c8-ab4d73b9e408/99/image.jpg",
+      "caption": "Sauna"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d9a99dbe-7f8c-4a15-aab1-e0b636003f56/99/image.jpg",
+      "caption": "Hotelhalle"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7c7cece0-f037-4167-a04a-64d12a11a790/99/image.jpg",
+      "caption": "Restaurant"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/096bb817-76c7-4771-a7fd-8bf891ae153b/99/image.jpg",
+      "caption": "Restaurant1"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.37034783096",
+    "longitude": "11.1630931712"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Vierbettzimmer, Dusche, WC",
+      "description": "Sympathisches, geräumiges Vierbettzimmer mit 1 Doppelbett und 2 getrennten Betten.\nSchönes Badezimmer mit Dusche, WC und Doppelwaschbecken.\n\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "\"Komfort\" Vierbettzimmer mit Dusche, WC",
+          "description": "Geräumiges Familienzimmer mit Doppelbett und zwei getrennten Betten in einer gemütlichen Nische. Mit Zusatzbett oder Kinderbett auch für 5 Personen geeignet. Im Zimmer gibt es weiters einen großen Tisch mit gemütlichen Fauteuilles. Das schöne, renovierte Badezimmer mit Dusche/WC verfügt über ein Doppelwaschbecken.",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "61.80",
+          "maxPrice": "61.80",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "61.80",
+          "maxPrice": "61.80",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "61.80",
+          "maxPrice": "61.80",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Zweibettzimmer, Dusche, WC",
+      "description": "Zweibettzimmer mit getrennten Betten und schönem renoviertem Bad mit Dusche und WC.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "\"Ahrnspitze\" Zweibettzimmer mit Dusche, WC",
+          "description": "Kleinere, günstige aber trotzdem gemütliche Zimmer mit getrennten Betten und schönem, renoviertem Badezimmer mit Marmorwaschbecken, Dusche und WC. ",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche oder Bad, WC",
+      "description": "Doppelzimmer mit Balkon ( 1 Zimmer ohne Balkon).\n\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "\" Komfort \" Doppelzimmer mit Dusche od. Bad WC",
+          "description": "Die Doppelzimmer \"Komfort\" sind gemütlich eingerichtet und verfügen über eine kleine Sitzecke und ein Doppelbett. Die meisten Zimmer haben bereits schöne, renovierte Badezimmer und fast alle Zimmer haben Balkone oder Terrassen.",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche oder Bad, WC",
+      "description": "Geräumige Zimmer zur Südseite, alle mit Terrasse oder großem Balkon.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "\"Hohe Munde\" Süd-Doppelzimmer mit Dusche o. Bad/WC",
+          "description": "Die Doppelzimmer/Minisuiten \"Hohe Munde\" mit Südbalkon oder Südterrasse sind geräumig mit großer Sitzecke ausgestattet und für 2 bis 4 Personen geeignet. Diese Zimmer verfügen alle bereits über ein schönes, renoviertes Badezimmer.",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Einzelzimmer, Dusche, WC",
+      "description": "Einzelzimmer mit gemütlichen Fernsehsessel und schönem renoviertem Badezimmer mit Dusche und WC.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "\" Ahrnspitze \" Einzelzimmer mit Dusche, WC",
+          "description": "Diese gemütlichen Einzelzimmer sind mit einem Fernsehsessel ausgestattet. Weiters haben die Zimmer bereits alle  ein helles, renoviertes Badezimmer mit Dusche, WC und Marmorwaschtisch.",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC",
+      "description": "Geräumiges  Hotelappartement mit großem Südbalkon und Ostbalkon.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Raffl´s Suite-Hotelappartement mit Bad, WC",
+          "description": "Die geräumige Raffl´s Suite verfügt über einen getrennten Wohn- und Schlafbereich und ist für 2-4 Personen bestens geeignet. Die Suite ist geschmackvoll und modern-gemütlich ausgestattet und verfügt über einen Kühlschrank.Vom Wohnzimmer gelangen Sie auf den Südbalkon und vom Schlafzimmer auf den Ostbalkon. Das helle, renovierte Badezimmer verfügt über einen Marmorwaschtisch, Badewanne mit guter Duschmöglichkeit und WC.",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "69.00",
+          "maxPrice": "69.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "69.00",
+          "maxPrice": "69.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "69.00",
+          "maxPrice": "69.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http.//",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Wiesengrund (Salow)",
+    "streetAddress": "Wiesenweg 621",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT"
+  },
+  "name": "Haus Wiesengrund - App. Bieling",
+  "currenciesAccepted": "EUR"
+}

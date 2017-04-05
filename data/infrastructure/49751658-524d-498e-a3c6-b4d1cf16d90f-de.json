@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "HealthAndBeautyBusiness"
+  ],
+  "name": "Alpen Diva Schönheitssalon",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Alpen Diva Schönheitssalon",
+    "streetAddress": "Klosterstraße 43",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043)0676/7573327",
+    "email": "alpendiva@gmail.com"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/36e284e1-2fe6-4ca7-ad73-ec7f2c8b734e/99/image.jpg",
+      "caption": "Piktogramm Friseur"
+    }
+  ],
+  "url": [
+    "http://"
+  ]
+}

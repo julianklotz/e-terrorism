@@ -1,0 +1,37 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Pharmacy"
+  ],
+  "name": "Apotheke Seefeld, Mag. pharm. Dr. Kurt Grass KG",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3317552767769",
+    "longitude": "11.1884593963623"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Apotheke Seefeld, Mag. pharm. Dr. Kurt Grass KG ",
+    "streetAddress": "Münchner Straße 445",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2284",
+    "email": "office@apotheke-seefeld.at",
+    "url": "http://www.apotheke-seefeld.at"
+  },
+  "description": [
+    " ",
+    "Wir sind für Sie da:\n\nSommer (01.07. - 31.08.)\nMontag - Freitag \t8:30 bis 12:30 \u0026 14:00 bis 18:30\t\nSamstag   \t8:30 bis 12:30 \u0026 14:00 bis 18:00\nSonn- \u0026 Feiertage \t10:00 bis 12:00 \u0026 18:00 bis 19:00\n\n\nWinter (25.12. - 15.03.)\nMontag - Freitag \t8:30 bis 18:30\t\nSamstag   \t8:30 bis 12:30 \u0026 14:00 bis 18:00\nSonn- \u0026 Feiertage \t10:00 bis 12:00 \u0026 16:00 bis 18:00\n\n\nSommer (01.07. - 31.08.) \u0026 Winter (25.12. - 15.03.)\ntäglich Nacht- und Bereitschaftsdienst außerhalb der Öffnungszeiten\n\n\nFrühjahr \u0026 Herbst (16.03. - 30.06. \u0026 01.09. - 24.12.)\nMontag - Freitag \t8:30 bis 12:30 \u0026 14:00 bis 18:30\t\nSamstag   \t8:30 bis 12:30 \u0026 18:00 bis 19:00\nSonn- \u0026 Feiertage \t18:00 bis 19:00\n\n\nFrühjahr \u0026 Herbst (16.03. - 30.06. \u0026 01.09. - 24.12.)\nKeine Nachtdienste: Diese übernehmen die Apotheken ind Telfs, Zirl oder Innsbruck (laut Plan)\n\n"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5cb4ca3c-3d3e-4cf5-b1f2-54815b6504bd/99/image.jpg",
+      "caption": "Apotheke"
+    }
+  ],
+  "url": [
+    "http://www.apotheke-seefeld.at"
+  ]
+}

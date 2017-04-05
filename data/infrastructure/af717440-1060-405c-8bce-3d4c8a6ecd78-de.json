@@ -1,0 +1,27 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure"
+  ],
+  "name": "Taxi Suitner",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3288175119853",
+    "longitude": "11.1891674995422"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Taxi Suitner",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 5150501"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e148072b-967e-414d-9eb3-c432d9f4f933/99/image.jpg",
+      "caption": "Taxi Suitner"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation"
+  ],
+  "name": "Winterwandern",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "description": [
+    "In der Olympiaregion Seefeld laden 143 km geräumte und präparierte Winterwanderwege zu ausgedehnten Wanderungen oder gemütlichen Spaziergängen im Schnee ein - eine Karte mit allen Winterwanderwegen und Beschreibungen sowie den Loipen ist in allen Informationsbüros der Olympiaregion Seefeld für € 3,50 erhältlich!",
+    "In der Olympiaregion Seefeld laden 143 km geräumte und präparierte Winterwanderwege zu ausgedehnten Wanderungen oder gemütlichen Spaziergängen im Schnee ein - eine Karte mit allen Winterwanderwegen und Beschreibungen sowie den Loipen ist in allen Informationsbüros der Olympiaregion Seefeld für € 3,50 erhältlich!"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/28779297-0db0-4e88-a7b0-13319cc63ca0/99/image.jpg",
+      "caption": "Winterwandern"
+    }
+  ]
+}

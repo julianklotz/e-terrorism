@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure"
+  ],
+  "name": "Autowerkstatt Haslwanter",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3140764894245",
+    "longitude": "11.1988751497375"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Ferienhaus Auland",
+    "streetAddress": "Gstoag 44",
+    "addressLocality": "Reith bei Seefeld",
+    "postalCode": "6103",
+    "addressCountry": "AT",
+    "telephone": "0043 5212 2411",
+    "faxNumber": "(0043) 5212 2433",
+    "email": "andrea.haslwanter@aon.at"
+  },
+  "description": "Alle Marken",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a86f7428-4dbc-441f-8550-d43d34e4033f/99/image.jpg",
+      "caption": "Auto Haslwanter"
+    }
+  ]
+}

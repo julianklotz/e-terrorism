@@ -1,0 +1,81 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Campground"
+  ],
+  "url": [
+    "http://www.karwendelcamp.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Karwendelcamp",
+    "streetAddress": "Oberdorf 390",
+    "addressLocality": "Scharnitz",
+    "postalCode": "6108",
+    "addressCountry": "AT",
+    "telephone": "+4369910109009 ",
+    "faxNumber": "+4352135119",
+    "email": "office@karwendelcamp.at",
+    "url": "http://www.karwendelcamp.at"
+  },
+  "name": "Karwendelcamp",
+  "description": [
+    "Das Karwendelcamp Scharnitz ist ein kleiner, familiärer Campingplatz, der im Sommer 2008 neu errichtet wurde. Zusätzlich können auch Appartements gemietet werden. Der Campingplatz befindet sich direkt am Tor zum Karwendel, neben einem Kinderskilift und den Loipen der Olympiaregion Seefeld. Nur wenige Gehminuten zur Bushaltestelle nach Seefeld und Mittenwald.",
+    "Mit dem PKW, Wohnwagen, Wohnmobil:\nvon Osten Autobahn A12, Ausfahrt Zirl über Seefeld nach Scharnitz. Von Norden mautfrei über die A9 bis Garmisch-Partenkirchen - weiter über Mittenwald nach Scharnitz. Von Westen Autobahn A12/ Ausfahrt Telfs Ost über Seefeld nach Scharnitz."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c9cae563-f83c-40d7-9640-48082c4030fd/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c339b48f-824d-49e4-a6f1-1315b7c75826/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/00ac1f8b-7237-456e-a129-80323466e0d1/99/image.jpg",
+      "caption": "Camping 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/dba3fbf2-a13c-499f-afbf-cb9f7123f890/99/image.jpg",
+      "caption": "Camping 1"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3848141311291",
+    "longitude": "11.262690871954"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Stellplatz",
+      "description": "Alle Stellplätze bieten eine Anschlussmöglichkeit für Strom (13 Amp. CEE-Norm). Dusche, WC, Geschirrspülraum, Waschmaschine und Trockner.\nEntsorgungsanlage für Chemie-Toiletten.\n\nPreise gelten für Stellplatz plus 2 Personen!\n\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Komfortstellplatz A",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

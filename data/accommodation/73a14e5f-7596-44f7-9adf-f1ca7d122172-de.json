@@ -1,0 +1,86 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://www.tirolerhof-leutasch.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Hotel Tirolerhof",
+    "streetAddress": "Weidach 308 a",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6331",
+    "faxNumber": "(0043) 5214 6061",
+    "email": "info@tirolerhof-leutasch.at",
+    "url": "http://www.tirolerhof-leutasch.at"
+  },
+  "name": "Hotel Tirolerhof",
+  "description": [
+    "Freundlich, gemütlich und familiär …\neinfach mehr!\n\nUnser Hotel liegt im Ortsteil Weidach, 5 Gehminuten vom Zentrum entfernt, direkt an den Loipen, den Wanderwegen und nahe dem Weidachsee.\nUnsere Gäste wohnen in großzügigen Zimmern, die alle mit Dusche oder Bad, WC, Haarfön, größtenteils mit Balkon, Sat-TV mit modernen Flachbildschirmen, Radio, Telefon und Mietsafe ausgestattet sind.\nGratis W-Lan ist im ganzen Haus verfügbar, kostenlose Parkplatz und ein Personenaufzug ebenfalls.\n\nDie Benützung der Sauna mit finnischer Sauna, Biosauna und Infrarotkabine ist kostenlos, Handtücher und Bademäntel werden bereitgestellt.\n\nUnsere Halbpension beinhaltet ein reichhaltiges Frühstücksbuffet und Abendessen mit 3-Gang-Wahlmenü plus Salatbuffet.\n\nDie gemütliche Hotelbar, im Sommer die Terrasse und der große Garten laden zum Entspannen und Genießen ein.\n\nWir würden uns sehr freuen, Sie bei uns begrüßen zu dürfen!\nFamilie Wegscheider \u0026 das Team vom Tirolerhof",
+    "Kostenlos: W-Lan im ganzen Haus, Sauna, Bademantel, Parkplatz\nGebührenpflichtig: Abholung vom Bahnhof Mittenwald € 25,00 pro Taxi, Solarium € 4,50",
+    "Check in 14.00 Uhr bis 19.30, Check out bis 11.00 Uhr\nUnser Haus liegt im Ortsteil Weidach, direkt an der Loipe und den Wanderwegen"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "reviewCount": "160"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7bda25d5-0fce-4ac7-a537-6043089f1975/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/17a14060-a608-4bc9-9a7d-ae97f3d4d181/99/image.jpg",
+      "caption": "Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.369812702887",
+    "longitude": "11.16145902786"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche oder Bad, WC",
+      "description": "Geräumiges, individuell gestaltetes Doppelzimmer mit Bergblick.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Dusche od. Bad, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Landform"
+  ],
+  "name": "Hochegg-Alm",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3395642826185",
+    "longitude": "11.2127467989922"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Bergbahnen Rosshütte",
+    "streetAddress": "Talstation 419",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "+43521224160",
+    "email": "info@rosshuette.at",
+    "url": "http://www.rosshuette.at"
+  },
+  "description": "Stempelstelle",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/050af1d5-9bd3-4965-ad5c-d04c13e077d9/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/82ad4428-3555-44fb-82c6-aceaecc6464b/99/image.jpg",
+      "caption": "Sommer Terrasse"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/18548ec2-a7e1-4d79-97b6-a9e5915047dd/99/image.jpg",
+      "caption": "Sommer Vogelperspektive"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/541fa584-970e-416c-bd0b-b49b1eb4fcb4/99/image.jpg",
+      "caption": "Hocheggalm Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2a60ac38-7dc5-4f10-882a-a93340831d33/99/image.jpg",
+      "caption": "Winter Vogelperspektive"
+    }
+  ],
+  "url": [
+    "http://www.rosshuette.at"
+  ]
+}

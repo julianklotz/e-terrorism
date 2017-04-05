@@ -1,0 +1,137 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel",
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.sonneck-seefeld.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Hotel Sonneck",
+    "streetAddress": "Klosterstr. 175",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2387",
+    "faxNumber": "(0043) 5212 2387",
+    "email": "sonneck-seefeld@aon.at",
+    "url": "http://www.sonneck-seefeld.at"
+  },
+  "name": "Hotel Sonneck",
+  "description": [
+    "Kleines, ruhig gelegenes Haus innerhalb der Fußgängerzone mit eigenem Parkplatz. Zwischen Ortskern und Sport- und Kongresszentrum. In der Nähe befindet sich der Eislaufplatz, der Loipeneinstieg sowie Schwimmbad und Kino.",
+    "Inkl.: Parkplatz, Frühstück, W-Lan\n\n\nHunde erlaubt, keine Dreibettzimmer",
+    "Anreise ab 14:00 Uhr\nAbreise bis 11:00 Uhr\n\n"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/95e0b93a-68b9-40d6-8252-165fc6d7ee9f/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/80f97b9e-57de-4234-899c-913fe2d32d57/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c542ca2f-f6f4-4e7e-8bc3-cf53bfb6ceae/99/image.jpg",
+      "caption": "Ansicht Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c7ef7a23-cdf6-4039-9571-cf65656657b8/99/image.jpg",
+      "caption": "Aufenthaltsraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/43ef0905-e29b-4d88-b43c-aef501910d25/99/image.jpg",
+      "caption": "Fernsehzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/982a6ea4-50a1-4cfd-afbf-3d9ad3922152/99/image.jpg",
+      "caption": "Frühstücksbuffet"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3118d317-a467-4664-92eb-41ff373c6ae8/99/image.jpg",
+      "caption": "Frühstück"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e1a5d85a-94ae-46c0-8bc1-76f60d3a5d32/99/image.jpg",
+      "caption": "Frühstück 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/523e86a8-36ab-481d-abd5-7a9ce38c55eb/99/image.jpg",
+      "caption": "Seekrichl"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/fd9548be-b408-48db-8473-159e6a44b978/99/image.jpg",
+      "caption": "Abends in Seefeld"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3285775388302",
+    "longitude": "11.1838325858116"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Einzelzimmer, Dusche, WC",
+      "description": "Schönes Zimmer mit Balkon mit Blick auf den Gschwandkopf, Sat-TV, Safe, W-Lan\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Einzelzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche oder Bad, WC",
+      "description": "Schönes Zimmer mit Balkon, Sat-TV, Safe und W-Lan",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Dusche od. Bad, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ]
+    }
+  ]
+}

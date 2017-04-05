@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "TouristAttraction"
+  ],
+  "name": "\"Mental-Power-Weg\" - Wandern auf den Promenaden der Olympiaregion Seefeld",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3720728569522",
+    "longitude": "11.1645304153137"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Informationsbüro Leutasch",
+    "streetAddress": "Weidach 320",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "+43-50880510",
+    "faxNumber": "+43-50880811",
+    "email": "info.leutasch@seefeld.com",
+    "url": "http://www.seefeld.com"
+  },
+  "description": "GEHZEIT: ca. 3 - 3,5 Stunden\nROUTE: Infobüro in Leutasch Weidach, Richtung\nOberweidach, Abzweigung Wildmoos Talstation\nBergbahn „Kreithlift“ - Steig zur Landesstraße - Fludertal - Kaserwald - Wildmoosalm - Blattsteig - Brunschkopf\n\nEine Wanderreise zu sich selbst erleben am Mental-\nPower Weg in Leutasch-Brunschkopf. Fitness pur für\nGeist und Seele als Grundlage eines gesunden Körpers.\nDer Weg von Leutasch-Weidach führt durch das herrliche\nFludertal bis zur Wildmoosalm und weiter auf den\nBrunschkopf.\nAm Mental-Power-Weg finden Sie Ruhe: Sie können sich\nvom Alltag entschleunigen, erholen sich und schöpfen\nKraft aus der einmaligen Natur des Seefelder Plateaus.\nWenn Sie durch die Wiesentäler, die Wälder und die Hochplateaus\nmit den Mooren wandern, bei den Haltepunkten\nverweilen, beobachten, lauschen, in die Stille hören, dann\ngewinnen Sie die Gelegenheit, auch Ihre goldene Mitte zu\nfinden. Die Stationen sind an ausgewählten Positionen angelegt,\ndie jede für sich ein spezieller Kraftort ist. Zuletzt\nkommen auch die 4 Elemente - Feuer, Erde, Wasser und\nLuft - zu Wort, die seit jeher als Basis für einen gesunden,\nzufriedenen Menschen sind. So können Sie am besten den\nerfrischenden Sport ausüben und Ihre besten Leistungen\nerbringen.\nDie 12 Haltepunkte sind mit verschiedenen kreativen Sitzgelegenheiten\nzu kraftvollen Ruheplätzen ausgestattet.\nJeder Kraftort ist mit einer Holzfahne markiert, auf der\ndas Thema der Station sowie die Übung für den Geist zu\nentnehmen sind.\nSTATIONEN:\n· Kraftort Bewusstsein und Erdung\n· Der Blick in die Ferne - Kraft der Wahrnehmung\n· Ent-Spannen, Ent-Wickeln - die Kraft der Ordnung\n· Die Kraft der Farben\n· Die Kraft des Geborgenseins\n· Die Kraft der Polarität\n· Die Kraft der Mitte - Gleichgewicht im Ungleichen\n· Die Kraft der Ruhe und Lebensenergie\n· Die Kraft der 4 Elemente\n· Die Kraft der Umkehr, die Kraft des Abschieds\n· Kraft der Überwindung\n· Den Gipfel erreichen - die Berge denken - nach dem Himmel greifen\n\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c46da723-8004-482c-9b11-255b02a537cd/99/image.jpg",
+      "caption": "Wandern"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/25b93c25-2a81-43db-a5ac-86f76954286a/99/image.jpg",
+      "caption": "Brunschkopf"
+    }
+  ],
+  "url": [
+    "http://www.seefeld.com"
+  ]
+}

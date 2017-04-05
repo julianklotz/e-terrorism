@@ -1,0 +1,27 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure"
+  ],
+  "name": "Autowerkstatt Isser Peter",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3255159674446",
+    "longitude": "11.1994242668152"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Bundesstraße 26",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 3301"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2fc8ce52-5530-463f-bf94-14d9154bec5c/99/image.jpg",
+      "caption": "Logo Kfz 1"
+    }
+  ]
+}

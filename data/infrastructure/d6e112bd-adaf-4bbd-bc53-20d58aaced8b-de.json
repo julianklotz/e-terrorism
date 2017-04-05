@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation"
+  ],
+  "name": "Kulturwanderweg Scharnitz",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Infobüro Scharnitz",
+    "streetAddress": "Innsbrucker Str. 282",
+    "addressLocality": "Scharnitz",
+    "postalCode": "6108",
+    "addressCountry": "AT",
+    "telephone": "+43 050 880 540",
+    "email": "info.scharnitz@seefeld.com",
+    "url": "http://www.seefeld.com"
+  },
+  "description": "„Erwandern“ Sie sich Scharnitz´ Geschichte und Kultur! Der Kulturwanderweg führt Sie durch den Ort und lässt Sie 12 historische Sehenswürdigkeiten mit deren spannender Geschichte entdecken. Der detaillierte Folder ist im Informationsbüro Scharnitz erhältlich!\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/22ea3292-8222-455c-b711-d7dd94304179/99/image.jpg",
+      "caption": "Porta Claudia"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure",
+    "LocalBusiness"
+  ],
+  "name": "Weidachsee",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3680232576921",
+    "longitude": "11.1561226865082"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Weidachsee",
+    "streetAddress": "Weidach 289",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043)6648557303"
+  },
+  "description": "Er wird im berühmten Fischereibuch Kaiser Maximilians aus dem Jahre 1500 als „Seele\nin der Leutasch“ erwähnt. Das Fischereirecht am Weidachsee und an der Leutascher\nAche befindet sich heute im Besitz von Dr. Thomas Angerer. Er betreibt einen von\nder Landwirtschaftskammer anerkannten Qualitätsfischzuchtbetrieb und ist auf die\nProduktion von Besatz- und Speiseforellen spezialisiert. Gezüchtet werden Bach- und\nRegenbogenforellen sowie Bachsaiblinge. In wunderschöner und naturnaher Lage hat man\nam 4,5 ha großen Weidachsee die Möglichkeit von April bis Oktober ohne Voranmeldung\nzu angeln. Der See eignet sich hervorragend für Fliegenfischer, da von einem 600 m langen\nHolzsteg gefischt wird.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/59355e33-860f-43c5-9dbe-ae1b72d18837/99/image.jpg",
+      "caption": "weidachsee"
+    }
+  ]
+}

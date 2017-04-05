@@ -1,0 +1,64 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://web.deskline.net/seefeld/de/show_accommodation/SEE/a72eb40a-fcbd-4f0a-8d7e-1a63f5c9eef0/schneiderhof",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Schneiderhof",
+    "streetAddress": "Wasserfallweg 726",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "0043 5212 4678",
+    "faxNumber": "(0043) 5212 4678",
+    "email": "schneider-hof@aon.at"
+  },
+  "name": "Schneiderhof",
+  "description": "Unser Haus liegt 5 Minuten vom Zentrum entfernt. Herzlich Willkommen in unserem kürzlich renovierten alten Bauernhaus! Qualitätsgeprüfter Bauernhof - gediegener Bauernhof mit komfortabler Ausstattung und erweitertem Angebot für den anspruchsvollen Gast.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3fc127b6-e9c0-4dc6-b3f6-a6fdb24ae8fc/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a2970d98-fc67-4b96-aa37-f444c3b9db83/99/image.jpg",
+      "caption": "Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3346965137039",
+    "longitude": "11.1915063858032"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Ferienhaus, Dusche und Bad, WC, 4 oder mehr Schlafräume",
+      "description": "exkl. Endreinigung",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Ferienhaus/4 od. mehr Schlafr./Du,Bad,WC",
+          "numberOfRooms": "5.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "10",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation"
+  ],
+  "name": "Pferdekutschenfahrten - Rauth Meinrad",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3615441684789",
+    "longitude": "11.121502391449"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Liedlhof",
+    "streetAddress": "Platzl 101 a",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6645",
+    "faxNumber": "(0043) 5214 6645",
+    "email": "info@liedlhof.at",
+    "url": "http://www.liedlhof.at"
+  },
+  "description": "Fiakerstandplatz Leutasch, Klamm\n\nTel.: +43 664 5344079 oder +43 5214 6645",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2cc6f068-ecfe-4e01-b156-7a55a8687a06/99/image.jpg",
+      "caption": "Fiaker"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Lärchenwald",
+    "streetAddress": "Kindergartenweg 573 / Top B12",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 4084",
+    "email": "h.donko@aon.at"
+  },
+  "name": "ZW-Turolla Marco",
+  "currenciesAccepted": "EUR"
+}

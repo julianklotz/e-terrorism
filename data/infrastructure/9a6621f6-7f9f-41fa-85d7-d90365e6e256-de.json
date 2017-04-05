@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "ClothingStore",
+    "Store"
+  ],
+  "name": "Iguana Baby Kids \u0026 Junior",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3274940101007",
+    "longitude": "11.1878263950348"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Iguana Baby Kids \u0026 Junior",
+    "streetAddress": "Innsbrucker Str. 11a",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 51900",
+    "email": "info@iguana-charlie.at",
+    "url": "http://www.iguana-charlie.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d6693eb7-ed0a-4f3f-a133-a916856d9c00/99/image.jpg",
+      "caption": "Iguana Baby Kids \u0026 Junior"
+    }
+  ],
+  "url": [
+    "http://www.iguana-charlie.at"
+  ]
+}

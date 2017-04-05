@@ -1,0 +1,20 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Pfarrer Prieth Weg 6-8",
+    "addressLocality": "Mösern",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "0049 8441 5555",
+    "email": "angela.reber@arcor.de"
+  },
+  "name": "ZW - Reber Angela",
+  "currenciesAccepted": "EUR"
+}

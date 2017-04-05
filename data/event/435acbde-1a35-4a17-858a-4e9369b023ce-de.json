@@ -1,0 +1,54 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "6. Bergkristallfestival mit Mario und Christoph",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "",
+    "employee": {
+      "@type": "Person",
+      "givenName": "Bernd",
+      "familyName": "Lanzmaier"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Unterstrass 232",
+      "addressLocality": "Obsteig",
+      "postalCode": "6416",
+      "addressCountry": "AT",
+      "telephone": "+436649206010",
+      "email": "info@marioundchristoph.at",
+      "url": "http://www.marioundchristoph.at"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Unterstrass 232",
+      "addressLocality": "Obsteig",
+      "postalCode": "6416",
+      "addressCountry": "AT",
+      "telephone": "+436649206010",
+      "email": "info@marioundchristoph.at",
+      "url": "http://www.marioundchristoph.at"
+    }
+  },
+  "description": "Zur 6. Ausgabe des Seefelder Bergkristall Festivals laden Mario und Christoph, vom ehemaligen Alpentrio Tirol, zu einem mehrtägigen Festival der volkstümlichen Musik und des Schlagers ein. Es wird ein breitgefächertes musikalisches Angebot mit hochkarätigen Künstlern und einmaliger Stimmung geboten.\nProgramm: \nDonnerstag: Begrüßungsabend im Kurpark, ab 17:00 Uhr: Buntes Programm mit Alexander Weber, Ingo Rotter, \"DÖT\" und \"Mario \u0026 Christoph\". \nFreitag: „Hit auf Hit“ in der Casino WM Halle, ab 17:00 Uhr: Durch das Programm führt Alexander Weber und präsentiert „Die Paldauer“, Liane, Graziano, Melanie Payer und „Mario \u0026 Christoph“.\nSamstag: „Hüttengaudi auf der Rosshütte“, ab 11:00 Uhr: Musik und Unterhaltung mit \"Die Rodensteiner\". Für alle Hungrigen: \"All you can eat\"-Angebot im Bergrestaurant. Freie Berg- und Talfahrt mit der Standseilbahn.\n„Nacht der Stars“ in der Casino WM Halle, ab 17:00 Uhr: Moderator Ingo Rotter führt durch das Programm mit „Olaf, der Flipper“, Stefan Micha, Daniela Alfinito, Ronny Weiland und „Mario \u0026 Christoph\".\nSonntag: „Radio U1 Frühschoppen“ in der Casino WM Halle, ab 11:00 Uhr: Ingo Rotter führt durch ein zünftiges Programm mit „Olaf, der Flipper“, den „Rodensteinern“, „DÖT“, den Geschwistern Niederbacher und \"Mario \u0026 Christoph\".\nAlle News zum Festival sowie detaillierte Informationen finden Sie auf der Mario \u0026 Christophs Homepage: www.marioundchristoph.at.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f6c05e1a-4aa4-4916-a877-da8f5d3be689/99/image.jpg",
+      "caption": "Mario und Christoph"
+    }
+  ],
+  "url": [
+    "http://www.marioundchristoph.at"
+  ],
+  "startDate": "2017-06-01T17:00:00",
+  "endDate": "2017-06-04"
+}

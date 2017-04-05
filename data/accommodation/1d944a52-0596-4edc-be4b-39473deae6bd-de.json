@@ -1,0 +1,541 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.hausexcelsior.com",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Excelsior",
+    "streetAddress": "Am Kirchwald 688",
+    "addressLocality": "Seefeld in Tirol",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 3912",
+    "faxNumber": "(0043) 5212 3607",
+    "email": "info@hausexcelsior.com",
+    "url": "http://www.hausexcelsior.com"
+  },
+  "name": "Haus Excelsior",
+  "description": [
+    "Wir begrüßen Sie herzlichst im Appartementhaus Excelsior in der Olympiaregion Seefeld. Genießen Sie bei uns die Ruhe der Bergwelt und der Natur.\nZum Glück liegen wir nur fünf Gehminuten vom Ortszentrum mit den zahlreichen Restaurants, Cafés und Supermärkten. Auch das Sport- und Kongresszentrum mit dem luxuriösen Hallenbad und der großen Saunalandschaft sowie der Loipeneinstieg befinden sich in unmittelbarer Nähe unseres Appartementhauses Excelsior.\nIn unserem auf einer kleinen Anhöhe gelegenen Haus befinden sich 24 geräumige Appartements, von 28 m² aufwärts bis zu 60 m² für 2-6 und mehr Personen, jedes davon ist individuell ausgestattet mit Balkon, SAT-TV, komplett eingerichteter Küche, W-Lan und vielem mehr.  Unsere Wohlfühl-Wohnungen bestechen durch ihre Traumausicht auf die umliegende Bergkulisse. Auf Wunsch verwöhnen wir Sie am Morgen gerne mit frischen Brötchen. Lassen Sie Ihr Auto stehen und erobern Sie die Olympiaregion Seefeld mit dem für Skifahrer und Langläufer kostenlosen Regionsbus, ca. 2 Gehminuten vom Haus Excelsior entfernt. Die Urlaubszeit hier in Seefeld wird zum unvergesslichen Erlebnis.\nIm Sommer besticht die Olympiaregion Seefeld mit Ihrem 650 km Wanderwegen und den unzähligen Mountainbike-Routen umgeben von imposanten Gipfeln des Karwendel- und Wettersteingebirges. Abwechslung findet die ganze Familie auf den Themen- und Erlebniswegen sowie den kostenlos geführten Wanderungen in allen fünf Orten auf dem Seefelder Plateau. Wenn Sie am Abend noch Lust auf die gute Tiroler Bergluft haben, genießen Sie den Tagesausklang auf Ihrem Balkon bei einem guten Glas Wein.\n\nErkunden Sie im Winter die bestens präparierten Skipisten der Region. Das weiße Gold wird Sie auf den Pisten wie auch auf den täglich frisch gespurten 271 km Loipen verzaubern. Ob Schlittschuhlaufen, Eisstockschießen oder Rodeln auf unserem herrlichen, sonnigen Hochplateau in Seefeld -- alles ist möglich in der nähe des Appartementhauses Excelsior. Sie werden sich wohlfühlen, Tag für Tag.\n\nBis bald im Haus Excelsior in Seefeld in Tirol, wir freuen uns schon auf Sie.\n\nMit freundlichen Grüßen,\nIhre Alexandra \n\n\n",
+    "Inklusive : Bettwäsche und Handtücher.",
+    "Umfahrung Seefeld - Ausfahrt Seefeld - Mitte. Richtung Zentrum, nach Bahnschranke geradeaus weiter - vorbei am grossen Parkplatz am Ende der Strasse, links nach ca. 80m rechts nach 100m ist Excelsior\nCheck In : bis 18.00 Uhr\nCheck Out : bis 10.00 Uhr"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "reviewCount": "13"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4ca1c1da-bba1-4e6d-a859-4d62e7edefb1/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7aeb27bb-e12b-4700-b0bb-57617c04ee17/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b67a4cb8-a0c7-4e3b-b918-4574b0830e80/99/image.jpg",
+      "caption": "Sommer 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/22d6ed70-2ac2-4a35-84e8-4ca5447ebb82/99/image.jpg",
+      "caption": "Sommer 3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a6d96aea-1984-4bb1-97c7-19880983ee8e/99/image.jpg",
+      "caption": "Aufzug mit Stiegenaufgang"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c3670835-39a2-42f8-a3e5-6ac48970efdc/99/image.jpg",
+      "caption": "Aussicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/dd745246-5bd1-4dd9-affb-f1aa5a7a9ca9/99/image.jpg",
+      "caption": "Eingang"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/23ea47d9-2cab-43f5-8523-bb3f06804fb2/99/image.jpg",
+      "caption": "Sommer in Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1d5dbd79-a156-46d8-8582-24777784f9c1/99/image.jpg",
+      "caption": "Aussicht Top 12"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/43b149c2-77a7-4045-bd79-bb8ce3d662b4/99/image.jpg",
+      "caption": "Aussicht Top 12 Winter"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.32928291136",
+    "longitude": "11.1811745166779"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 2 Schlafräume",
+      "description": "Wohnzimmer, separata Küche, Nord+ Süd Balkon.\n2 Schlafzimmer, Badezimmer, WC extra, 70m²,\nTop 9 und Top 21",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement/2 Schlafräume- luxus Top 21",
+          "description": "Wohnzimmer, separata Küche, Nord+ Süd Balkon.\n2 Schlafzimmer, Badezimmer, WC extra, 70m²,\nTop 9 und Top 21",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "70.00",
+          "maxPrice": "150.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "70.00",
+          "maxPrice": "150.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "70.00",
+          "maxPrice": "150.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "70.00",
+          "maxPrice": "150.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 1 Schlafraum",
+      "description": "Top 2 Schlafzimmer mit Stockbett, Wohnzimmer ein Schrankbett für 2 Personen,Küche, Badezimmer, Balkon, Sat TV. (Nordseite)\nTop 20 hat ein Schlafzimmer mit Stockbett,Wohnzimmer 2 Schrankbetten je für \n1 Person, Küche, Badezimmer, Balkon, Sat TV(Südseite)\nMaximaal 4 personen.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement/1 Schlafraum/Top 2, 6,",
+          "description": "Top 2 Schlafzimmer mit Stockbett, Wohnzimmer ein Schrankbett für 2 Personen,Küche, Badezimmer, Balkon, Sat TV. (Nordseite)\nTop 20 hat ein Schlafzimmer mit Stockbett,Wohnzimmer 2 Schrankbetten je für \n1 Person, Küche, Badezimmer, Balkon, Sat TV(Südseite)\nMaximaal 4 Personen.\nTop 37A hat ein Schlafzimmer mit Doppelbett und eine Kindergrotte mit ein schlafplatz und man kann eventuell auch noch im Wohnzimmer schlafen auf eine Schlafcouch, Küche, Badezimmer, Balkon, Sat TV (Nordseite) ",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "50.00",
+          "maxPrice": "95.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "50.00",
+          "maxPrice": "95.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "50.00",
+          "maxPrice": "95.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 1 Schlafraum",
+      "description": "Top 32 Wohnzimmer Schlafcouch,Schlafzimmer doppelbett, Küche, Badezimmer,Balkon,Sat-TV(Südseite)max 4p\nTop 41 Schlafzimmer Doppelbett und Schlafcouch,Wohnzimmer,Küche,Badezimmer mit Dusche, Balkon,Sat-TV(Noprdseite) max 4p",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement/1 Schlafraum/ Top 32, 20",
+          "description": "Top 32 Wohnzimmer Schlafcouch,Schlafzimmer doppelbett, Küche, Badezimmer,Balkon,Sat-TV(Südseite)max 4p\n",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "50.00",
+          "maxPrice": "90.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "50.00",
+          "maxPrice": "90.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "50.00",
+          "maxPrice": "90.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC",
+      "description": "Wohnschlafzimmer mit (Schrank)bett, separat völlig eingerichtete Küche, Badezimmer, Balkon Nordseite, TV-Sat.\nTop 3 (normales Bett), Top 10(schrankbett), Top 11 (2 einzel schrankbetten),Top 12 (schrankbett)oder Top 13 (doppelbett stockbett) \n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement/Wohn-Schlafraum/Top 3, 10, 11 und 12",
+          "description": "Wohnschlafzimmer mit (Schrank)bett, separat völlig eingerichtete Küche, Badezimmer, Balkon Nordseite, TV-Sat.\nTop 3 (normales Bett,max2p), Top 10(schrankbett max 2p), Top 11 (2 einzel schrankbetten max 2p),Top 12 (schrankbett max 2p)oder Top 13 (doppelbett stockbett hier können max 4p) \n",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "40.00",
+          "maxPrice": "85.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "40.00",
+          "maxPrice": "85.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 2 Schlafräume",
+      "description": "Top 7/8 Wohnzimmer 2 Schrankbetten, Schlafzimmer Doppelbett, Schlafzimmer Doppelbett + Stockbett, Küche,Badezimmer, Balkon SüdSeite max 8p\nTop 29 Wohnzimmer, Schlafzimmer Doppelbett,Schlafraum 2 Stockbetten, Küche,Badezimmer, Balkon SüdSeite max 6p\nTop 37B Wohnzimmer, Schlafzimmer Doppelbett,Schlafzimmer 3 Betten, Küche,Badezimmer mit Dusche,Balkon Südseite max 5p\nTop 40 Wohzimmer, Schlafzimmer Doppelbett + einzel,Schlafzimmer 2 Betten, Küche,Balkon Südseite max 5p eventuel extra Bett möglich",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement/2 Schlafräume/Top 29,7/8,40,37b",
+          "description": "Top 7/8 Wohnzimmer 2 Schrankbetten, Schlafzimmer Doppelbett, Schlafzimmer Doppelbett + Stockbett, Küche,Badezimmer, Balkon Südseite max 8p\nTop 29 Wohnzimmer, Schlafzimmer Doppelbett,Schlafraum 2 Stockbetten, Küche,Badezimmer, Balkon Südseite max 6p\nTop 37B Wohnzimmer, Schlafzimmer Doppelbett,Schlafzimmer 3 Betten, Küche,Badezimmer mit Dusche,Balkon Südseite max 5p\nTop 40 Wohnzimmer,Schlafzimmer Doppelbett + einzel,Schlafzimmer 2 Betten, Küche,Balkon Südseite max 5p eventuel extra Bett möglich",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "80.00",
+          "maxPrice": "140.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "80.00",
+          "maxPrice": "140.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "80.00",
+          "maxPrice": "140.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "80.00",
+          "maxPrice": "140.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "80.00",
+          "maxPrice": "140.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC",
+      "description": "Top 17 Wohnschlafzimmer mit (Schrank)bett, separat völlig eingerichtete Küche, Badezimmer mit Bad, Balkon Südseite, TV-Sat. max 2p.\nTop 28 Wohnschlafzimmer mit (Schrank)bett, separat modern eingerichtete Küche, Badezimmer mit Dusche, Balkon Südseite, TV-Sat.max 2p\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement/Wohn-Schlafraum/Top 28",
+          "description": "Top 17 Wohnschlafzimmer mit (Schrank)bett, separat völlig eingerichtete Küche, Badezimmer mit Bad, Balkon Südseite, TV-Sat. max 2p.\nTop 28 Wohnschlafzimmer mit (Schrank)bett, separat modern eingerichtete Küche, Badezimmer mit Dusche, Balkon Südseite, TV-Sat.max 2p\n",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "50.00",
+          "maxPrice": "90.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 1 Schlafraum",
+      "description": "Top 4 Wohnzimmer, separate Küche, Badezimmer mit Dusche, Schlafzimmer mit Doppelbett, Terrasse Nordseite max 2 Personen, Sat tv",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement/Fewo, Bad, WC, 1 Schlafraum Top 4",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "70.00",
+          "maxPrice": "120.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "70.00",
+          "maxPrice": "120.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 1 Schlafraum",
+      "description": "Top 14 hat 2 Wohn-Schlafzimmer mit mehrere Schlafcouches mit lattenrost, Moderne Küche, Badezimmer mit Regendusche, Balkon Nordseite und noch eine an der seite von Gebaude.Sat-Tv, max 6 personen.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement/Fewo, Bad, WC, 1 Schlafraum Top 14",
+          "description": "Top 14 hat 2 Wohn-Schlafzimmer mit mehrere Schlafcouches mit lattenrost, Moderne Küche, Badezimmer mit Regendusche, Balkon Nordseite und noch eine an der seite von Gebaude.Sat-Tv, max 6 personen.",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "70.00",
+          "maxPrice": "140.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "70.00",
+          "maxPrice": "140.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "70.00",
+          "maxPrice": "140.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "70.00",
+          "maxPrice": "140.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "70.00",
+          "maxPrice": "140.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 1 Schlafraum",
+      "description": "Top 5 Wohnzimmer Bettschrank für 2p, Schlafzimmer Doppelbett + Stockbett, getrennt mit Schrank,Küche,Badezimmer,Balkon,Sat-TV(Nordseite)max 6p\nTop 39 Eingangsbereich Doppelbett,Schlafzimmer-Kindergrotte 3 Betten, Wohnzimmer mit Küche,Badezimmer,Balkon,Sat-TV(südseite)max 5p\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement/Fewo,1 Schlafraum, Top 5, 37a und 39",
+          "description": "Top 5 Wohnzimmer Bettschrank für 2p, Schlafzimmer Doppelbett + Stockbett, getrennt mit Schrank,Küche,Badezimmer,Balkon,Sat-TV(Nordseite)max 6p\nTop 39 Eingangsbereich Doppelbett,Schlafzimmer-Kindergrotte 3 Betten, Wohnzimmer mit Küche,Badezimmer,Balkon,Sat-TV(südseite)max 5p\n",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "80.00",
+          "maxPrice": "120.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "80.00",
+          "maxPrice": "120.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "80.00",
+          "maxPrice": "120.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "80.00",
+          "maxPrice": "120.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC",
+      "description": "Top 17 Wohnschlafzimmer mit (Schrank)bett, separat völlig eingerichtete Küche, Badezimmer mit Bad, Balkon Südseite, TV-Sat. max 2p.\nTop 28 Wohnschlafzimmer mit (Schrank)bett, separat modern eingerichtete Küche, Badezimmer mit Dusche, Balkon Südseite, TV-Sat.max 2p\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement/Wohn-Schlafraum/Top 17",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "40.00",
+          "maxPrice": "85.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

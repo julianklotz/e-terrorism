@@ -1,0 +1,18 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Jörg / Top 1",
+    "streetAddress": "Milserstr. 563",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 512 937778",
+    "email": "i.ramsauer@chello.at"
+  },
+  "name": "ZW-Ramsauer Inge",
+  "currenciesAccepted": "EUR"
+}

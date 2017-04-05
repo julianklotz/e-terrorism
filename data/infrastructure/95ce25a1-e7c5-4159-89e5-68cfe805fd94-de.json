@@ -1,0 +1,24 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation"
+  ],
+  "name": "Saal Hohe Munde",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3708717550662",
+    "longitude": "11.1531544087372"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Saal Hohe Munde ",
+    "streetAddress": "ErlebnisWelt Alpenbad Leutasch",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6380",
+    "faxNumber": "(0043) 5214 6380 16",
+    "email": "info@alpenbad-leutasch.com",
+    "url": "http://www.alpenbad-leutasch.com"
+  }
+}

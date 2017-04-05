@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure",
+    "LocalBusiness"
+  ],
+  "name": "Hiltpolt Anton, Fotograf",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Schmiedhof",
+    "streetAddress": "Schulweg 427",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "0043 5212 2526",
+    "faxNumber": "(0043) 5212 2526 6",
+    "email": "schmiedhof@seefeld.biz",
+    "url": "http://www.schmiedhof.net"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/afb65dc2-63d0-4c12-9db2-d91df851b8da/99/image.png",
+      "caption": "Fotograf"
+    }
+  ],
+  "url": [
+    "http://www.seefeld.biz/foto"
+  ]
+}

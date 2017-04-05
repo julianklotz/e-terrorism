@@ -1,0 +1,33 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "HealthAndBeautyBusiness"
+  ],
+  "name": "Dipl. Physiotherapeutin Andrea Rauth-Panholzer",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3673929984969",
+    "longitude": "11.1385063183855"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Dipl. Physiotherapeutin Andrea Rauth-Panholzer",
+    "streetAddress": "Obere Wiese 1",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 6550",
+    "faxNumber": "(0043) 6550",
+    "email": "rauth.manuel@reflex.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/dcb77f7c-6251-401f-9663-9dc4a38e797b/99/image.jpg",
+      "caption": "physio"
+    }
+  ],
+  "url": [
+    "http://"
+  ]
+}

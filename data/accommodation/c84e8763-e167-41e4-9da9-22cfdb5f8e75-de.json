@@ -1,0 +1,25 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Zenzitta",
+    "streetAddress": "Am Kirchwald 406",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 3920"
+  },
+  "name": "Haus Zenzitta",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3290720277764",
+    "longitude": "11.1782670021057"
+  },
+  "currenciesAccepted": "EUR"
+}

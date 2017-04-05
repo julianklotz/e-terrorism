@@ -1,0 +1,133 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.haus-landa.at/",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Weidach 377 h",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 1639115",
+    "email": "murtzel59@yahoo.com",
+    "url": "http://www.haus-landa.at"
+  },
+  "name": "Haus Landa",
+  "description": [
+    "\nWohnung (65m2) für 4-6 Personen.1 Schlafzimmer mit Doppelbett. Wohnzimmer mit Doppelbett, 1 ausziehbaren Couch für 2 Personen, integrierte Küche mit E-Herd,Backofen, Kühlschrank mit Gefrierfach,Spülmaschine, Kaffeemaschine, Wasserkocher.Bad mit Dusche und WC, Waschmaschine. Bettwäsche und Handtücher vorhanden. Terrasse vorhanden. Auf Wunsch Zustellung eines Babybettes. Hunde erlaubt. Endreinigung und Brötchenservice inklusive.Zusatzkosten sind Kurtaxe ( 2,80€ pro Person und Tag ).Wir freuen uns auf Ihren Besuch.",
+    "\nHaustier gratis ,W-Lan gratis. Belegung min. 2 Nächte.",
+    "\nCheck-In ab 15 Uhr.  Check-Out bis 11 Uhr ."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/89188071-f6e3-480e-b1e8-778c6bcb9b5f/99/image.jpg",
+      "caption": "P1100602"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/910ccfa1-8733-4a42-8662-293e5b4aa70f/99/image.jpg",
+      "caption": "P1100576"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/bd671887-3cc9-4fa2-94f6-1616d0cc8f11/99/image.jpg",
+      "caption": "P1040229"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/36215cde-8923-43a5-a1dc-05e70794b893/99/image.jpg",
+      "caption": "P1040226"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6c075d4a-0428-4a85-8fb0-e4bab7dc6bc9/99/image.jpg",
+      "caption": "P1040237"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/88cbb7bb-6ae9-4aaa-aac8-dd3a06ca300e/99/image.jpg",
+      "caption": "P1040242"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/628d0d28-53f1-49db-91e4-248d57dc3bd4/99/image.jpg",
+      "caption": "P1290113"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b9223b01-2b83-4028-860d-d5f6816f7f10/99/image.jpg",
+      "caption": "P1290114"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3668257345737",
+    "longitude": "11.1669004074097"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "100.00",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "100.00",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "100.00",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "100.00",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "100.00",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

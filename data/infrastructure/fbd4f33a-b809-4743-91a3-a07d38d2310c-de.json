@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation"
+  ],
+  "name": "Pro Shop Golfsport Schvetz",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Wildmoos 11",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212/5240250",
+    "email": "golfsport.schvetz@aon.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0e869904-e580-4a23-bf2c-d39bb6ef18f5/99/image.jpg",
+      "caption": "Golfshop"
+    }
+  ],
+  "url": [
+    "http://"
+  ]
+}

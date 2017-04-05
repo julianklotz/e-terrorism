@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure"
+  ],
+  "name": "Parkplatz Ried P1",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3977316725062",
+    "longitude": "11.2651092742051"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Gemeinde Scharnitz",
+    "streetAddress": "Adolf-Klinge-Platz 72",
+    "addressLocality": "Scharnitz",
+    "postalCode": "6108",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5213 5204 0",
+    "email": "gemeinde@scharnitz.tirol.gv.at",
+    "url": "http://www.scharnitz.tirol.gv.at"
+  },
+  "description": "Gebührenpflichtig\nParkplatz Ried: Parkdauer: 1 Tag 4,00 € (vier Euro), 3 Tage 7,00 € (sieben Euro), 4.-9. Tag 12,00 € (zwölf Euro)\nParkplatz im Winter geschlossen.\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/91ae1812-9143-44f3-aa68-0500cea8941e/99/image.jpg",
+      "caption": "Parkplatz"
+    }
+  ]
+}

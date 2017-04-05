@@ -1,0 +1,48 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "Scharnitz musiziert",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Musikkapelle Scharnitz",
+    "employee": {
+      "@type": "Person",
+      "givenName": "Magdalena",
+      "familyName": "Mattle"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Adolf-Klinge-Platz 72",
+      "addressLocality": "Scharnitz",
+      "postalCode": "6108",
+      "addressCountry": "AT",
+      "telephone": "(0043)0664-3916219",
+      "email": "magdalena.reitmair@gmx.at"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Musikkapelle Scharnitz",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Adolf-Klinge-Platz 72",
+      "addressLocality": "Scharnitz",
+      "postalCode": "6108",
+      "addressCountry": "AT",
+      "telephone": "(0043)0664-3916219",
+      "email": "magdalena.reitmair@gmx.at"
+    }
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/09a78d98-a51e-481b-8160-39eb03e19d6e/99/image.jpg",
+      "caption": "MKS"
+    }
+  ],
+  "startDate": "2017-10-25T19:00:00",
+  "endDate": "2017-10-25"
+}

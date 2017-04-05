@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant"
+  ],
+  "name": "Hotel Diana",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3287884243882",
+    "longitude": "11.1841303110123"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Hotel Diana",
+    "streetAddress": "Klosterstr. 97",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2060",
+    "faxNumber": "(0043) 5212 2188",
+    "email": "info@hotel-diana.at",
+    "url": "http://www.hotel-diana.at"
+  },
+  "description": [
+    " ",
+    "Sitzplätze für ca. 120 Personen\n\nDer Wintergarten ist unser “A-la-carte”-Restaurant (Nichtraucher) mit ca. 40-45 Sitzplätzen direkt an der Sonne. Mit viel Grünpflanzen dekoriert und Verglasung an drei Seiten (inkl. Dach) hat man auch an sehr kalten oder regnerischen Tagen das Gefühl mitten im Freien essen zu können. Stets gut geheizt und vor allem nachts mit ansprechender Beleuchtung kann man die Spezialitäten der “Diana-Küche” täglich zwischen 11.00 Uhr und 22.00 Uhr genießen.\nKommen Sie ins “Diana” und probieren Sie die Köstlichkeiten aus unserer umfangreichen Speisenkarte. Wir bieten Tiroler Küche, Österreichische Küche und auch internationale Schmankerln wie z.B. Beef-Stone, Raclette oder Käsefondue. Wir freuen uns auf Ihren Besuch."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/24a40f0e-1f3b-4185-a02d-5a6d4cf06b4b/99/image.jpg",
+      "caption": "Hotel Diana"
+    }
+  ],
+  "url": [
+    "http://www.hotel-diana.at"
+  ]
+}

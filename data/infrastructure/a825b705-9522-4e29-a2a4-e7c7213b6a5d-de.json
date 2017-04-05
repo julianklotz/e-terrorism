@@ -1,0 +1,28 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "TouristAttraction"
+  ],
+  "name": "Streichelzoo Birkegg",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Gasthof Birkegg",
+    "streetAddress": "Kirchplatzl 129",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6854",
+    "faxNumber": "(0043) 5214 6854 190",
+    "email": "birkegg@utanet.at",
+    "url": "http://www.birkegg.at"
+  },
+  "description": "Großer Spielplatz mit Streichelzoo mit Ziegen, Schweinen, Hasen, Meerschweinchen, usw...\nGenießen Sie auf unserer überdachten Terrasse Kaffee und Kuchen, während die kleinen in natürlicher Umgebung spielen!\nDienstag bis Sonntag 10.00 bis 20.00 Uhr, Montag Ruhetag.\n",
+  "url": [
+    "http://www.birkegg.at"
+  ]
+}

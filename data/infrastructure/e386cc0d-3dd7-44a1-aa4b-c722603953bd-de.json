@@ -1,0 +1,33 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure",
+    "LocalBusiness"
+  ],
+  "name": "Camping am Kreithlift",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3642587462908",
+    "longitude": "11.1668025624267"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Camping am Kreithlift",
+    "streetAddress": "Weidach 381 f",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6260",
+    "faxNumber": "(0043) 5214 6260 20",
+    "email": "info@alpenhof-leutasch.at",
+    "url": "http://campingkreithlift.egoditor.com"
+  },
+  "description": "Weidach 381 f\nTel.: +43 5214/6260\n\nNur ein Wintercampingplatz!",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/839cf0a7-5279-4c24-8abe-bba64c0c393c/99/image.jpg",
+      "caption": "camping"
+    }
+  ]
+}

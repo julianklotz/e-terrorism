@@ -1,0 +1,177 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.wildmoos-sonnhof.com",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Sonnhof",
+    "streetAddress": "Am Bichl 36",
+    "addressLocality": "Mösern/Buchen",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "+436641549929",
+    "email": "office@sonnhof-seefeld.com",
+    "url": "http://www.sonnhof-seefeld.com"
+  },
+  "name": "Sonnhof",
+  "description": [
+    "In ruhiger, sonniger Lage umgeben von Wiesen und Lärchenwald, mit Blick ins Inntal und die umgebende Bergwelt, bieten wir Ihnen schöne Ferienwohnungen für zwei bis vier Personen. Autoabstellplätze sind reichlich vorhanden und eine offene Garage könnten Sie mieten. \n\nIm Winter liegen Schischule und Lift gegenüber dem Haus und die 279 km Langlaufloipen führen durch unser Grundstück. Durch die Nähe zu Seefeld besteht die Möglichkeit, die sportlichen und gesellschaftlichen Angebote des weltbekannten Touristik-Zentrums zu genießen.\n\nDie Wohnungen sind nach Süden ausgerichtet und verfügen über einen großen Balkon oder Terrasse mit Liegewiese. Wohn- und Schlafzimmer sind mit soliden Eichenmöbeln komplett ausgestattet. Kabel Tv. Internet.\n",
+    "Inklusive: Heizung, Wäsche\nExklusive: Telefon, Ortstaxe, Endreinigung, Garage",
+    "Anreise: ab 14.00 Uhr\nAbreise: bis 9.00 Uhr"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3ccec798-1c0c-4208-a630-ff12ee184eff/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/fdd2297b-65ed-41f2-b18f-7a15a557db6f/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9c4ab542-8f6e-4399-9a16-605d6cd18fbd/99/image.jpg",
+      "caption": "Blick ins Inntal"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/11f25a13-97ce-4adb-8bc6-39e7a4e7a204/99/image.jpg",
+      "caption": "Möserer See"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1c035300-81bf-48dc-a4e1-053e741f3be8/99/image.jpg",
+      "caption": "Golfen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/21e97832-d934-4e1c-8ab8-ea85cd8db753/99/image.jpg",
+      "caption": "Friedensglocke"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ac7a6fea-63ac-4740-abc0-bad09632f85b/99/image.jpg",
+      "caption": "Loipen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0763b08b-cbbc-4451-8fa7-f0c843adecf2/99/image.jpg",
+      "caption": "Möserer See 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2e8a8d59-9c16-47cf-8456-fc570014c1be/99/image.jpg",
+      "caption": "Aussicht"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.310910874619",
+    "longitude": "11.151164981363"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Wohnzimmer mit Doppelsofa,Schlafzimmer,Dusch-WC,Vorraum,Küche, Südbalkon oder Terrasse,Kabel-TV,Internet,Wäsche/Handtücher beigestellt,Telefon,offene Garage, Parkplätze,Bushaltestelle beim Haus,\nLanglaufloipe(280km)Einstieg beim Haus,",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment Nr. 1/2/3/5/7",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "42.00",
+          "maxPrice": "58.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "42.00",
+          "maxPrice": "58.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "55.00",
+          "maxPrice": "73.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "68.00",
+          "maxPrice": "88.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC",
+      "description": "Wohn-Schlafzimmer(Betten in Schrankwand,Sofa beim Esstisch, Küche,Dusche-WC,Vorraum,Südbalkon,Kabel-TV,Internet,Wäsche(Handtücher) beigestellt,Telefon,offene Garage, Parkplätze,Bushaltestelle beim Haus, Langlaufloipe(280km)Einstieg beim Haus.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement Nr. 6 + 8",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "36.00",
+          "maxPrice": "49.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "36.00",
+          "maxPrice": "49.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "49.00",
+          "maxPrice": "64.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "2. Golf Challenge -  Downhill \u0026 Querfeldein Bewerb",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Golfclub Seefeld-Reith",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Reitherspitzstr.138",
+      "addressLocality": "Seefeld",
+      "postalCode": "6100",
+      "addressCountry": "AT",
+      "telephone": "(0043)05212/3797",
+      "url": "http://www.gc-seefeld-reith.at"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Golfclub Seefeld-Reith",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Reitherspitzstr.138",
+      "addressLocality": "Seefeld",
+      "postalCode": "6100",
+      "addressCountry": "AT",
+      "telephone": "(0043)05212/3797",
+      "url": "http://www.gc-seefeld-reith.at"
+    }
+  },
+  "description": "Anmeldung \u0026 Information: info@gc-seefeld-reith.at.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1d9a6282-f32a-4a92-9af1-43e67238989b/99/image.jpg",
+      "caption": "Golf"
+    }
+  ],
+  "url": [
+    "http://www.rosshuette.at",
+    "http://www.golfclub-seefeld-reith.at/"
+  ],
+  "startDate": "2017-06-10T10:00:00",
+  "endDate": "2017-06-10"
+}

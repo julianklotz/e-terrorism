@@ -1,0 +1,23 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure",
+    "LocalBusiness"
+  ],
+  "name": "LUI-Treff",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.368966301811",
+    "longitude": "11.1445645809511"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Kirchplatzl 128a",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT"
+  },
+  "url": [
+    "http://"
+  ]
+}

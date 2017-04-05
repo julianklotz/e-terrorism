@@ -1,0 +1,211 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.foehrenwinkel-seefeld.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Foehrenwinkel",
+    "streetAddress": "Hermannstalstr. 520",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2804",
+    "faxNumber": "(0043) 5212 2804",
+    "email": "kontakt@foehrenwinkel-seefeld.at",
+    "url": "http://www.foehrenwinkel-seefeld.at"
+  },
+  "name": "Haus Föhrenwinkel",
+  "description": [
+    "Wir heißen Sie herzlich willkommen in unserer gemütlichen Pension Föhrenwinkel, in der wunderschönen Olympiaregion Seefeld. Lassen Sie sich von uns in jeder Jahreszeit verwöhnen, denn hier bei uns, in Seefeld in Tirol, sind Sie in den besten Händen.\n\nDas Haus Föhrenwinkel befindet sich ruhig und sonnig gelegen, nur 10 Gehminuten vom Ortskern, und der Fußgängerzone Seefeld entfernt. Unser, im Tiroler Stil, gebautes Haus besticht mit freiem Blick auf die umliegende Bergwelt und ist der ideale Ausgangspunkt für die verschiedensten Sommer- und Winteraktivitäten.\n\nBei uns, im Haus Föhrenwinkel wohnen Sie entweder in 3 hell ausgestatteten Doppelzimmern mit Balkon, 2 Einzelzimmern oder 2 liebevoll eingerichteten 2-Raum-Ferienwohnungen mit Balkon für 2-4 Personen. Alle Zimmer und Ferienwohnungen sind mit viel Holz und Liebe zum Detail eingerichtet. Beginnen Sie den Tag mit einem guten Frühstück und holen Sie sich einige gute Ausflugstips von der wanderbegeisterten Hausherrin  Frau Norz.\n\nDie vielfältigen Natur- und Wandererlebnisse in der Olympiaregion Seefeld lassen die Herzen der Gipfelstürmer, aber auch der gemütlichen Wanderer oder Spaziergänger höherschlagen. Zahlreiche markierte Spazier- und Wanderwege aber auch Mountainbikestrecken starten direkt vor unserem Haus Föhrenwinkel. Für Wanderungen in Verbindung mit einer Aufstiegshilfe, empfiehlt sich die Bergbahnen Rosshütte, die in nur 10 Gehminuten erreichbar ist. Nach einem spannenden Tag, lassen Sie die lauen Sommerabende, mit Panoramablick auf die Hohe Munde und den Gschwandtkopf auf Ihrem Balkon ausklingen.\n\nDie im Winter täglich frisch gespurten 271 km Langlaufloipen, bieten sowohl für Anfänger als auch für Könner ideale Bedingungen um einen aktiven Wintersporttag zu genießen. Die nur 10 Gehminuten vom Haus Föhrenwinkel, entfernte Skipiste der Bergbahnen Rosshütte, kann auch von Nachtschwärmern an vier Abenden in der Woche, zum Nachtskifahren genützt werden. Für unsere kleinen Gäste bietet sich ebenfalls der nahe gelegene Geigenbühel für die ersten Skiversuche an.\n\nWir freuen uns schon sehr, Sie bald im Haus Föhrenwinkel begrüßen zu dürfen!\n\nIhre Familie Norz\n",
+    "Frühstückspension mit erweitertem Frühstück!\nKinder erst ab 5 Jahre!\nHaustiere nicht erlaubt!\n\nBeim Appartement:\nInkl.: kostenloser Parkplatz, Bettwäsche, Handtücher\nExkl.: Frühstück, \n\nBeim Zimmer:\nInkl.: Frühstück, kostenloser Parkplatz, Bettwäsche, Handtücher\n\n\nCheck in: 14.00 Uhr\nCheck out: 11.30 Uhr"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/017cfb34-9957-4ea2-b674-0c829680c5c6/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e60d2eb6-8039-4d44-9f54-de2870ca7676/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/96fbf67a-de6a-49d7-8510-38887ba99028/99/image.jpg",
+      "caption": "Panorama"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2fadc560-8608-45db-9218-26c66c17a455/99/image.jpg",
+      "caption": "Frühstücksraum Haus Föhrenwinkel Seefeld"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3336894584393",
+    "longitude": "11.1957120895386"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche oder Bad, WC",
+      "description": "DZ mit Couch und Balkon Richtung Süd-Ost.\nBad mit WC\nKabel-TV \nhelle, freundliche Ausstattung.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Dusche od. Bad, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "30.00",
+          "maxPrice": "34.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "30.00",
+          "maxPrice": "34.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Einzelzimmer, Bad, WC",
+      "description": "EZ mit Bad und WC\nKabel-TV\nwestseitig mit schönem Ausblick",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Einzelzimmer mit Bad, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "32.00",
+          "maxPrice": "37.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Helle, freundliche Ausstattung mit Süd Balkon.\nHerrlicher Blick über ganz Seefeld!\nAuf Anfrage 2. Schlafzimmer möglich.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "60.00",
+          "maxPrice": "70.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "65.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "70.00",
+          "maxPrice": "90.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC",
+      "description": "Ferienwohnung für 2 Personen\nseperates Schlafzimmer, Küchenblock\nKabel-TV\nSüd-Balkon",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement Nr. 8",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "44.00",
+          "maxPrice": "52.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "52.00",
+          "maxPrice": "60.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

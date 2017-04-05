@@ -1,0 +1,20 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "TouristAttraction"
+  ],
+  "name": "Seefelder Kreuzweg auf den Pfarrhügel - Themenweg",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3272608489025",
+    "longitude": "11.1855961243286"
+  },
+  "description": "Dieser Meditationsweg, welcher im Jahre 2000 aus Findlingen von Tiroler Gletschern geschaffen wurde, startet neben der Pfarrkirche St. Oswald\nund führt über 14 Stationen auf den Pfarrhügel. Mit Hilfe dieser bis zu 23 Tonnen schweren Steine, die in einer bestimmten Sternenkonstellation\naufgestellt sind, wird am Endpunkt des Weges die Grablegung Christi dargestellt. Nach einer Idee des Schriftstellers Winfried Werner Linde soll dieser\nKraftort am höchsten Punkt des Pfarrhügels einen friedvollen Treffpunkt für Menschen aller Weltreligionen darstellen. Ein Folder zu diesem Themenweg ist im Informationsbüro Seefeld erhältlich!",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ae7ee65a-ec5d-456c-ab16-7a5819ed8068/99/image.jpg",
+      "caption": "Seefelder Kreuzweg"
+    }
+  ]
+}

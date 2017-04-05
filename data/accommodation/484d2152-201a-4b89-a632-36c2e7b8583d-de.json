@@ -1,0 +1,120 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.rantner-seefeld.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Gästehaus Manuela",
+    "streetAddress": "Ahrnspitzweg 556",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2141",
+    "email": "rantner.seefeld@aon.at",
+    "url": "http://www.rantner-seefeld.at"
+  },
+  "name": "Gästehaus Manuela",
+  "description": [
+    "Umgeben von Wiesen und Wäldern, jedoch nur 7 Gehminuten vom Ortszentrum entfernt liegt unser familienfreundliches Haus. Alle Appartements für 2-4 Personen sind komplett eingerichtet und verfügen über einen separaten Balkon oder Terrasse. Frühstück täglich möglich.",
+    "Im Preis inklusive: Heizung, Wasser, Strom, Handtücher, Bettwäsche, PKW-Parkplatz\nIm Preis exklusive: Frühstück auf Wunsch, Brötchen, Telefon, PKW-Unterstellplatz",
+    "Einfahrt Seefeld - Richtung Zentrum - vorbei an dem großen Parkplatz auf der rechten und dem Interspar Einkaufszentrum auf der linken Seite - rechts abbiegen Richtung Leutasch - ca. 300m  bis Sie auf der rechten Seite die Einfahrt nach dem Getränkevertrieb Zorzi sehen (Ahrnspitzweg) - rechts einbiegen - 1. Haus gleich rechts ist das Gästehaus Manuela"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "reviewCount": "61"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0cd65ecf-dc3a-454a-a33b-ea5534cf0e29/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8e339ac2-bae8-4e45-ae1a-3a64eb1602c1/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7f60c0ff-f008-4bbf-9f03-4440a89bb99f/99/image.jpg",
+      "caption": "Lage"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3322570073961",
+    "longitude": "11.1807024478912"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Schlafzimmer, Wohnküche mit Parkettboden, Balkon (Südseite), SAT-TV, Telefon, Einrichtung in heller Fichte, schöner Ausblick auf die umliegenden Bergwelt",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Nr. 3/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "separates Schlafzimmer, Wohnküche mit Parkettboden sowie einer Schlafmöglichkeit für ein Kind, Terrasse (Südseite), SAT-TV, Einrichtung in heimischer Fichte, schöner Ausblick auf die umliegenden Bergwelt.\nEs besteht die Möglichkeit ein separates Doppelzimmer mit TV, sowie separater Dusche und WC entweder zu Wohnung 5 oder 6 zu mieten. Die Wohnungen 5+6 können daher mit 4 Erwachsenen Personen und 1-2 Kinder belegt werden.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Nr. 5+6/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Schlafzimmer, Wohnküche mit Parkettboden, Balkon, SAT-TV, Telefon, Einrichtung in heimischer Fichte, schöner Ausblick auf die umliegende Bergwelt.\nDiese Wohnungen können mit 2 Erwachsenen Personen und 2 Kindern belegt werden.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Nr. 1+2/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

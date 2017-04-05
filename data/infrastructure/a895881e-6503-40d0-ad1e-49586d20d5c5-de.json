@@ -1,0 +1,29 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "TravelAgency",
+    "TouristAttraction",
+    "SportsActivityLocation"
+  ],
+  "name": "Franz Dreher-Fiaker-Kutschen",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Standplatz Ropferstub´m",
+    "addressLocality": "Buchen",
+    "postalCode": "6410",
+    "addressCountry": "AT",
+    "telephone": "(0043) 676 9773222"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/08e3534d-3001-415b-93bf-b06951d80916/99/image.jpg",
+      "caption": "Markus Flir"
+    }
+  ]
+}

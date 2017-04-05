@@ -1,0 +1,25 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation"
+  ],
+  "name": "Naturrodelbahn Kreidegraben",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "90",
+    "longitude": "-121"
+  },
+  "description": "Aufstieg von der Kneippanlage/Schotterwerk Gaugg,\nLänge: ca. 1 km, Höhenunterschied: ca. 200 m, Schwierigkeit: mittel, bewirtschaftete Hütte in der Nähe: Gasthof Wiesenhof, \nTel.: 05213/5380 ",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6cf4af72-c0e7-4dc6-80a2-f2e61041c8ae/99/image.jpg",
+      "caption": "Rodeln Olympiaregion Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/720b0908-bf0a-4338-98a6-59efe1fbe648/99/image.jpg",
+      "caption": "Weg zum Kreidegraben"
+    }
+  ]
+}

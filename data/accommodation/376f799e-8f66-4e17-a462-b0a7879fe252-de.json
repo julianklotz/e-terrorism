@@ -1,0 +1,136 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.haus-senn.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Senn",
+    "streetAddress": "Hohe-Munde-Str. 55",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 676 9317148",
+    "email": "info@haus-senn.at",
+    "url": "http://www.haus-senn.at"
+  },
+  "name": "Haus Senn",
+  "description": [
+    "sonnig, zentral gelegen, ca. 5min vom Olympiazentrum  und der Schischule entfernt.\nKabel TV, Parkplatz vor dem Haus.\nW-Lan Zugang vorhanden.",
+    "inkl.: Heizung, Wasser, Strom, Parkplatz, 1x wöchentlich Wechsel der Handtücher, Bettwäsche, Geschirrtücher\n\n",
+    "Einen genaue Anfahrtsbeschreibung unter www.haus-senn.at"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8d6cdc69-4271-4016-b0fd-ba558c13ecd6/99/image.jpg",
+      "caption": "IMG_6082"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/30bf79ee-a672-4795-a081-5b3927dcdc97/99/image.jpg",
+      "caption": "IMG_6078"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/eb7d608c-75a7-4713-9b14-74026554fe68/99/image.jpg",
+      "caption": "IMG_6077"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/edbe5331-071c-42e4-ae32-a3e43fdddf0e/99/image.jpg",
+      "caption": "IMG_6079"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1166148c-f00b-4161-b8ad-56183e850fa4/99/image.jpg",
+      "caption": "IMG_6080"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a5f853f7-9b68-4f08-a8e3-bec60c7c00ef/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c902c4d4-1d58-4eea-95ef-7ed9177284b6/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1c55982e-4b6d-4cd5-a0fa-379e7f08e257/99/image.jpg",
+      "caption": "Sommer Terrasse 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e28b1f26-880c-4851-badf-44dcbe745e2d/99/image.jpg",
+      "caption": "Sommer Terrasse"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f4763188-1131-453a-bab5-8ae1174c39f3/99/image.jpg",
+      "caption": "Garten"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/37f4784e-06e6-4e8e-9602-809fdf405abd/99/image.jpg",
+      "caption": "IMG_6081"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3302827789596",
+    "longitude": "11.1832451820374"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 1 Schlafraum",
+      "description": "Wohnung für bis zu 4 Personen. Großzügiger Wohnraum mit Essecke im Erker mit Blick auf den Garten, Balkon, ausziehbares Ecksofa, Schlafzimmer, Küche, Bad mit Badewanne und WC. ",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Top 2A Apartment/1 Schlafraum/Bad, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "60.00",
+          "maxPrice": "85.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "65.00",
+          "maxPrice": "85.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "70.00",
+          "maxPrice": "85.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

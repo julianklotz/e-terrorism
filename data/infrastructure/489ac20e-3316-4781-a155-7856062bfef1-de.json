@@ -1,0 +1,33 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure"
+  ],
+  "name": "Auto Nemeth KG / ENI Tankstelle",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3353509075524",
+    "longitude": "11.1935555934906"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Auto Nemeth KG",
+    "streetAddress": "Münchner Str. 75",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2407",
+    "url": "http://www.eni.com"
+  },
+  "description": [
+    "kein Abschleppdienst",
+    "Mo-Sa. 08.00 - 19.30 Uhr\nSonn- und Feiertage 09.00 - 19.00 Uhr"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/65cf323d-43db-4639-abe5-80df75018d58/99/image.jpg",
+      "caption": "Tankstelle"
+    }
+  ]
+}

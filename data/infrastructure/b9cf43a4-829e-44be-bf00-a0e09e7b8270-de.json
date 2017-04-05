@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation"
+  ],
+  "name": "Schischule Scharnitz, Skischule, Langlaufschule",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3821859844087",
+    "longitude": "11.262639279068"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Brandlift",
+    "streetAddress": "Brand 390",
+    "addressLocality": "Scharnitz",
+    "postalCode": "6108",
+    "addressCountry": "AT",
+    "telephone": "(0043)664 9175135 ",
+    "email": "info@brandlift.at",
+    "url": "http://www.brandlift.at"
+  },
+  "description": "Information und Anmeldung unter: 0043 664 9175135",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9f328464-fa84-4899-a383-445ec495474f/99/image.gif",
+      "caption": "Brandlift"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "EmergencyService",
+    "HealthAndBeautyBusiness",
+    "Pharmacy",
+    "Physician"
+  ],
+  "name": "Hausapotheke Dr. Oswald Heis",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3696163639725",
+    "longitude": "11.1585223766865"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Weidach 293a",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6910"
+  },
+  "description": "Hausapotheke Ordination Dr. Oswald Heis\n\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c3ea2721-5671-443a-940b-26e0f2249fcd/99/image.jpg",
+      "caption": "Symbol Apotheke"
+    }
+  ]
+}

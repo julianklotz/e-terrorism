@@ -1,0 +1,63 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.gaestehaus-strauss.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Gästehaus Strauss",
+    "streetAddress": "Hnr. 524",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 3067",
+    "email": "info@gaestehaus-strauss.at",
+    "url": "http://www.gaestehaus-strauss.at"
+  },
+  "name": "Gästehaus Strauss",
+  "description": "Das Gästehaus Strauß liegt in absoluter Ruhe direkt neben dem Waldgasthof Triendlsäge, ca. 15 Minuten Fußweg vom Ortszentrum entfernt. Ausgangspunkt für wunderschöne Wanderungen und direkt an der Langlaufloipe gelegen. \nDer Hausherr ist diplomierter Schilehrer und Schiführer der Schischule Seefeld und bietet persönliche Betreuung.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ab519f1d-e51e-4df9-8ae2-48044832da02/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/249350d9-2259-4e3d-9497-8d6dd7a18b9c/99/image.jpg",
+      "caption": "Sommer "
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3428431391082",
+    "longitude": "11.186957359314"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche oder Bad, WC, 1 Schlafraum",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/1 Schlafraum/Dusche od. Bad,WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

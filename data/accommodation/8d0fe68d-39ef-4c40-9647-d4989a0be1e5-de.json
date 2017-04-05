@@ -1,0 +1,266 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.pensionholzmann.com",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Pension Holzmann",
+    "streetAddress": "Ostbach 8",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6449",
+    "email": "info@pensionholzmann.com",
+    "url": "http://www.pensionholzmann.com"
+  },
+  "name": "Pension Holzmann",
+  "description": [
+    "\nUnsere Pension befindet sich im Ortsteil Ostbach u. liegt direkt am Fussweg und Waldrand; verfügt über eine Liegewiese u. Sonnenterrasse mit Gartenmöbel; Kinderspielplatz (Schaukeln, Trampolin und Sandkasten) ganzjährig geheizt; geräumte Parkplätze; Schiraum mit Wachsständer; direkter Loipeneinstieg; 1 FEWO für 2 Pers. (Wohn-Schlafraum, SAT/TV, Küche, Bad/WC und Balkon. Kinderermäßigungen Winter: 0-4 Jahre € 5, 5 - 10 Jahre ab € 11, 11- 15 Jahre ab € 17, ab 16 Jahre voller Preis Kinderermäßigungen Sommer: 0-4 Jahre € 4, 5-10 Jahre € 9, 11 - 15 Jahre € 14,  ab 16 Jahre voller Preis",
+    "Bez. Leistungen\n- Telefongesprächskosten",
+    "Von Mittenwald Leutasch-Schanz-Gasse-Richtung Telfs-Ostbach.\nVon Seefled: Leutasch-Weidach-Richtung Telfs- Ostbach.\n"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "reviewCount": "65"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a840a3dd-b7ea-44be-843b-62df99aca9c4/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ab40bc5a-0927-4f76-8501-d855fe95b2f4/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a7987264-8e4a-4e36-8550-dbe589516a6c/99/image.jpg",
+      "caption": "Hausansicht Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.358986673877",
+    "longitude": "11.135239294661"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Einzelzimmer, Dusche, WC",
+      "description": "Einzelzimmer mit DU/WC, Balkon, Nichtraucherzimmer, SAT/TV, rustikal möbliert, Couchsessel für gemütliche Lesestunden, Aussicht auf den Wald.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Einzelzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "29.20",
+          "maxPrice": "35.50",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Doppelzimmer mit DU/WC, Balkon, Nichtraucherzimmer, SAT/TV, rustikal möbliert, , ruhiges Früh-Sonnen-Zimmer mit schöner Aussicht auf den Wald",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "26.30",
+          "maxPrice": "32.80",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Doppelzimmer mit DU/WC, Balkon, Nichtraucherzimmer, SAT/TV, rustikal möbliert,ruhige Zimmer, im Winter mit Blick auf die Langlaufloipen.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "25.90",
+          "maxPrice": "25.90",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "25.90",
+          "maxPrice": "32.40",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Doppelzimmer mit Dusche/WC, Balkon, Nichtraucherzimmer, rustikal möbliert, ruhige Zimmer mit Ausblick auf die Berge.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "26.30",
+          "maxPrice": "32.80",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Dreibettzimmer, Dusche, WC",
+      "description": "Dreibettzimmer mit DU/WC, Balkon, Nichtraucherzimmer, SAT/TV, rustikal möbliert, ruhige Zimmer, mit Südbalkon.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Dreibettzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "26.30",
+          "maxPrice": "32.80",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "26.30",
+          "maxPrice": "32.80",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC",
+      "description": "Appartement mit Wohn-Schlafraum, Badewanne/WC, SAT/TV, Küche u. Balkon mit Morgensonne, Wäsche vorhanden, Brötchenservice, sehr ruhige Lage.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/Wohn-Schlafraum/Bad, WC",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "39.50",
+          "maxPrice": "59.50",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

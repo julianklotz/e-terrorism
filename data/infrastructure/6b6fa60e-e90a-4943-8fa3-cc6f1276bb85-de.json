@@ -1,0 +1,26 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Museum"
+  ],
+  "name": "Seefelder Heimatmuseum/Museum",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3771042",
+    "longitude": "11.2360944"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Seefelder Heimatmuseum",
+    "streetAddress": "Gießenbach",
+    "addressLocality": "Scharnitz",
+    "postalCode": "6108",
+    "addressCountry": "AT",
+    "telephone": "+436641216621",
+    "email": "heimatmuseum-seefeld@gmx.at"
+  },
+  "description": [
+    "Drehen Sie das Rad der Zeit zurück und besuchen Sie eine alte Schuster- und Schnitzwerkstätte und bewundern Sie Skimodelle von anno dazumal …In Gießenbach bei Scharnitz. Öffnungszeiten: Jeden Freitag, von 15.00 bis 17.00 Uhr (16.12.16 bis 10.03.2017). Führung zu anderen Terminen jederzeit auf Anfrage gerne möglich. Nähere Auskünfte unter  Tel.: 0664/1216621 bei Herrn Heinz Strasser.\n",
+    "17.6. - 23.9.2016, jeden Freitag, 15:00-17:00 Uhr."
+  ]
+}

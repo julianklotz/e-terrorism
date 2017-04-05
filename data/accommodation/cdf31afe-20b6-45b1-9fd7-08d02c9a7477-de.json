@@ -1,0 +1,221 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Campground"
+  ],
+  "url": [
+    "http://www.tirol.camp",
+    "http://www.tirol.camp/buchungsinformationen.html"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Tirol.Camp Leutasch",
+    "streetAddress": "Reindlau 230 b",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6570",
+    "faxNumber": "(0043) 5214 6570 30",
+    "email": "info@tirol.camp",
+    "url": "http://www.tirol.camp"
+  },
+  "name": "Tirol.Camp Leutasch",
+  "description": [
+    "Tirol.Camp Leutasch bietet Ihnen wunderbare Voraussetzungen für einen erholsamen Campingurlaub  mit Wohnmobil, Caravan oder Zelt in Tirol, im Westen von Österreich. Tirol.Camp ist einer der wohl schönsten Campingplätze im Wetterstein-/ Karwendel Gebirge inmitten der Olympiaregion Seefeld - in unmittelbarer Nähe der Kulturstadt Innsbruck und der Zugspitze.Genießen Sie Ihre Ferien auf unserem Campingplatz mit 5-Sterne Komfort und entspannen Sie sich in unserem Hallenbad mit Sauna und Dampfbad. \n\n\n",
+    "Sie erhalten bei Ankunft auf unserem Platz Ihre Gästekarte auf diese können Sie verschiedene Leistungen wie z.B.\n-Loipennutzung\n-Busticket für den öffentlichen Busverkehr in der Region \n\n",
+    "Aus Norden kommend wählen Sie am besten die mautfreie Strecke über Garmisch-Partenkirchen - Mittenwald - Scharnitz - Gießenbach und biegen nach Gießenbach rechts ab (Überkopfwegweiser nach Leutasch beachten). Von dort sind es noch knapp 10 Kilometer bis zum Tirol Camp Leutasch -Reindlau 230b.\n"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "reviewCount": "183"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/94d5ae71-87e5-4478-b7e4-0ccc9be289c6/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d18c1e31-5482-4d6b-91e6-b18e2e9a6274/99/image.jpg",
+      "caption": "Tirol. Camp Logo"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e313bd12-cb07-428d-84e3-6754e23eb3bb/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b72b7c91-f1e7-47fa-85d6-2df842b4ed1c/99/image.jpg",
+      "caption": "Sommer Luft"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d0580881-9049-4907-81dc-5e4703077829/99/image.jpg",
+      "caption": "Aussicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/81abb3b5-375f-4c77-8b38-35b9f92c1488/99/image.jpg",
+      "caption": "Schwimmbad"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/063e35e6-2e0b-484f-b6c9-e9280b83486d/99/image.jpg",
+      "caption": "Schwimmbad 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/951c6ae6-f45d-4192-9768-cf834ac383df/99/image.jpg",
+      "caption": "Sauna"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2ef7319d-ced9-45ae-89ec-f01a882ab716/99/image.jpg",
+      "caption": "Frühstücksraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8b391833-9c87-4263-aa7e-735be3eed0d8/99/image.jpg",
+      "caption": "Ausblick"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1987078f-dc50-4094-a798-203a80f61738/99/image.jpg",
+      "caption": "Einblick"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.398023124897",
+    "longitude": "11.180061321581"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche oder Bad, WC, Komfort",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Komfortzimmer Typ A 32m² - 46m²",
+          "description": "In den Preisen sind enthalten:  Benützung der Badelandschaft, Wasser, Heizung, Strom, Bettwäsche und Handtücher. Frühstück ist im Preis nicht enthalten und kann in unserem Restaurant à-la-carte eingenommen werden.\n\nNichtraucherzimmer - keine Tiere sowie kein Kochen in den Räumen erlaubt\n\nAllgemeine Infos:\nWir bitten Sie das Zimmer am Abreisetag bis 10 Uhr freizumachen.\nAm Anreisetag steht das Zimmer ab 15 Uhr zur Verfügung\nKeine Reservierungskosten - schriftliche Bestätigung erwünscht ",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche oder Bad, WC, Komfort",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Komfortzimmer Typ B 26m² - 30m²",
+          "description": "In den Preisen sind enthalten:  Benützung der Badelandschaft, Wasser, Heizung, Strom, Bettwäsche und Handtücher. Frühstück ist im Preis nicht enthalten und kann in unserem Restaurant à-la-carte eingenommen werden.\n\nNichtraucherzimmer - keine Tiere sowie kein Kochen in den Räumen erlaubt\n\nAllgemeine Infos:\nWir bitten Sie das Zimmer am Abreisetag bis 10 Uhr freizumachen.\nAm Anreisetag steht das Zimmer ab 15 Uhr zur Verfügung\nKeine Reservierungskosten - schriftliche Bestätigung erwünscht ",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Stellplatz",
+      "description": "In den Preisen sind enthalten:\n\n    Benützung des Hallenbades laut Öffnungszeiten\n    Benützung der first-class Badehäuser\n    Anschlussmöglichkeit an Satelliten-TV, Radio, WLAN\n    Sommer - Wasser und Abwasser auf Platzteil A - Plätze 2-74\n                    Tennis Allwetter Freiplatz\n                   \n    Allgemeine Infos\n    Der Stellplatz ist am Abreisetag bis 12 Uhr freizumachen und steht am Anreisetag ab 12 Uhr zur Verfügung\n    Keine Reservierungskosten - schriftliche Bestätigung erwünschtwww.holiday-camping.at",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Komfortstellplatz A",
+          "description": "Unseren Gästen bieten wir modernste Dusch- und Toilettenanlagen in zwei Sanitärhäusern mit Fußbodenheizung,nur Einzelwaschkabinen,Garderobe mit Umkleidekabinen und Frisiertischen,Babyraum,Hundedusche mit Föhn,     Geschirrwaschraum sowie einen Wäschewaschraum; \nSelbstverständlich sind die Sanitäranlagen auch rollstuhlgerecht ausgestattet.\n37,00 Winter\t26,00 Sommer \tKomfortplatz Platzteil A für\n2 Personen/ Caravan oder Mobil/ Vorzelt/ oder Zeltplatz/ Pkw/ Tag\n",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "10",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Stellplatz",
+      "description": "In den Preisen sind enthalten:\n\n    Benützung des Hallenbades laut Öffnungszeiten\n    Benützung der first-class Badehäuser\n    Anschlussmöglichkeit an Satelliten-TV, Radio, WLAN\n    Sommer - Wasser und Abwasser auf Platzteil A - Plätze 2-74\n                    Tennis Allwetter Freiplatz\n                   \n    Allgemeine Infos\n    Der Stellplatz ist am Abreisetag bis 12 Uhr freizumachen und steht am Anreisetag ab 12 Uhr zur Verfügung\n    Keine Reservierungskosten - schriftliche Bestätigung erwünscht\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Komfortstellplatz B",
+          "description": "35,00 WI 24,00 SO Komfortplatz Platzteil B oder C für 2Personen/Caravan            Mobil/ Vorzelt/ oder Zeltplatz/Pkw/Tag\n11,50 \t11,00 \tjede weitere Person/Tag\n5,50 \t5,50 \tKind (bis 4 Jahre frei, vom 4. bis 14. Geburtstag)/Tag\n1,50 \t1,50 \tTourismusabgabe ab dem 15. Geburtstag /Tag, derzeit\n3,00 \t3,00 \tHund (bitte immer an der Leine)/Tag\n12,00 \t12,00 \tPrivatbad mit Du, WC, Safe, tägliche Reinigung, pro Tag\n2,00 \t2,00 \tzusätzliches Zelt am Stellplatz/Tag\n0,80 \t0,80 \tStrom 12 Amp., Komfortplat",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "10",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Stellplatz",
+      "description": "In den Preisen sind enthalten:\n\n    Benützung des Hallenbades laut Öffnungszeiten\n    Benützung der first-class Badehäuser\n    Anschlussmöglichkeit an Satelliten-TV, Radio, WLAN\n    Sommer - Wasser und Abwasser auf Platzteil A - Plätze 2-74\n                    Tennis Allwetter Freiplatz\n                   \n    Allgemeine Infos\n    Der Stellplatz ist am Abreisetag bis 12 Uhr freizumachen und steht am Anreisetag ab 12 Uhr zur Verfügung\n    Keine Reservierungskosten - schriftliche Bestätigung erwünscht\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Komfortstellplatz C",
+          "description": "35,00 \t24,00 \tKomfortplatz Platzteil B oder C für\n2 Personen/ Caravan oder Mobil/ Vorzelt/ oder Zeltplatz/ Pkw / Tag\n11,50 \t11,00 \tjede weitere Person / Tag\n5,50 \t5,50 \tKind (bis 4 Jahre frei, vom 4. bis 14. Geburtstag) / Tag\n1,50 \t1,50 \tTourismusabgabe ab dem 15. Geburtstag / Tag, derzeit\n3,00 \t3,00 \tHund (bitte immer an der Leine) / Tag\n12,00 \t12,00 \tPrivatbad mit Du, WC, Safe, tägliche",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "10",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

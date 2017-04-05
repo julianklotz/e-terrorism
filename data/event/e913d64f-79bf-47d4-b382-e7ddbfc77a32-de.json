@@ -1,0 +1,59 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "Maiball der \"Karwendler Plattler\"",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Karwendler Plattler",
+    "employee": {
+      "@type": "Person",
+      "givenName": "Markus",
+      "familyName": "Höller"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Isarweg 387",
+      "addressLocality": "Scharnitz",
+      "postalCode": "6108",
+      "addressCountry": "AT",
+      "telephone": "+43 6509129042",
+      "email": "markus.hoeller@atp.ag",
+      "url": "http://www.karwendler-plattler.at"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Karwendler Plattler",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Isarweg 387",
+      "addressLocality": "Scharnitz",
+      "postalCode": "6108",
+      "addressCountry": "AT",
+      "telephone": "+43 6509129042",
+      "email": "markus.hoeller@atp.ag",
+      "url": "http://www.karwendler-plattler.at"
+    }
+  },
+  "description": "Maiball der Karwendler Plattler im Gemeindesaal Scharnitz. Musik und Tanz mit der Gruppe \"Krainerschwung\", große Tombola. Nähere Informationen unter: www.karwendler-plattler.at",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/29780317-459e-469d-8381-7f488bdeebe7/99/image.jpg",
+      "caption": "Karwendel Platter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1f3d320d-1a5c-420a-95d6-52cdbf433092/99/image.jpg",
+      "caption": "Plattler Winter"
+    }
+  ],
+  "url": [
+    "http://www.karwendler-plattler.at"
+  ],
+  "startDate": "2017-04-30T19:30:00",
+  "endDate": "2017-04-30"
+}

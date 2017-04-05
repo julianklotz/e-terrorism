@@ -1,0 +1,77 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.brunelle.at"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Alpenlodge Leutasch GmbH",
+    "streetAddress": "Weidach 337",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 20042",
+    "email": "office@brunelle.at",
+    "url": "http://www.brunelle.at"
+  },
+  "name": "Hotel Alpennest",
+  "description": "Unser Haus in der Mitte von Weidach, zentral gelegen, Kurpark nebenan. Bushaltestelle direkt vor der Türe.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2b58aaaf-acce-409a-bb5f-658141a76124/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/882c88c1-1506-4f1c-bc8f-31c5e851aaf2/99/image.jpg",
+      "caption": "Sommer"
+    }
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC, Balkon",
+      "description": "Nette Doppelbettzimmer mit Sitzecke, Dusche, WC und TV.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer, Dusche, WC, Balkon",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "42.00",
+          "maxPrice": "42.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "42.00",
+          "maxPrice": "42.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

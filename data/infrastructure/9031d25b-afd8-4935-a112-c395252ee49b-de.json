@@ -1,0 +1,33 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportingGoodsStore"
+  ],
+  "name": "Sailer Sports Ski RENT",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3309117768773",
+    "longitude": "11.1999821662903"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Sailer Sports",
+    "streetAddress": "Talstation Bergbahnen Rosshütte",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 253020",
+    "email": "service@sailer.cc",
+    "url": "http://www.sailerseefeld.com"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d6bf342e-86df-419b-9e8b-54ce8a369a5c/99/image.jpg",
+      "caption": "Ski rent"
+    }
+  ],
+  "url": [
+    "http://www.sailerseefeld.com"
+  ]
+}

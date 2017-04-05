@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BankOrCreditUnion"
+  ],
+  "name": "Tiroler Sparkasse,Bank",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3283593804705",
+    "longitude": "11.1891138553619"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Tiroler Sparkasse",
+    "streetAddress": "Bahnhofsplatz 570",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 50100 71054",
+    "url": "http://www.sparkasse.at"
+  },
+  "description": [
+    " ",
+    "mit Außen-Bankomat"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/22688536-c996-4d04-95f4-5841b7ef588c/99/image.jpg",
+      "caption": "Tiroler Sparkasse"
+    }
+  ],
+  "url": [
+    "http://www.sparkasse.at"
+  ]
+}

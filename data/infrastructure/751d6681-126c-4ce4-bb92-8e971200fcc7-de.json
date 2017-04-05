@@ -1,0 +1,27 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant"
+  ],
+  "name": "Seelos, Hotel",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Hotel Seelos",
+    "streetAddress": "Wettersteinstr. 226",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "+4352122308",
+    "faxNumber": "+435212 204541",
+    "email": "info@hotel-seelos.at",
+    "url": "http://www.hotel-seelos.at"
+  },
+  "url": [
+    "http://www.hotel-seelos.at"
+  ]
+}

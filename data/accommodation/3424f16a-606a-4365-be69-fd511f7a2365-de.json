@@ -1,0 +1,68 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.haus-sabine.at"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Gästehaus Sabine",
+    "streetAddress": "Obern 24",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 8710407",
+    "email": "vitali.fabrizio@libero.it",
+    "url": "http://www.haus-sabine.at"
+  },
+  "name": "Gästehaus Sabine - App.Vitali",
+  "description": " Die Wohnung befindet sich in einer sonnigen und in der Landschaft, am Fuße der Hohen Munde und Wettersteingebirge direkt an den Pisten und ausgezeichneter Ausgangspunkt für Ausflüge. \n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8c515030-6068-46a6-9448-7c490973e483/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/73f37b31-2ace-462f-9a5e-af04722cfc0a/99/image.jpg",
+      "caption": "Sommerbild"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/76aa6783-1c51-46e5-aacb-d3a09e9521b4/99/image.jpg",
+      "caption": "Winter"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3565704021143",
+    "longitude": "11.123012935582"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche oder Bad, WC, 3 Schlafräume",
+      "description": "4-Zimmer-Wohnung im zweiten Stock, gemütlich eingerichtet, besteht aus Eingangshalle, Küche mit E-Herd und Mikrowelle, Wohnzimmer, drei Schlafzimmer, jedes mit eigenem Bad. Ausgestattet mit drei TV und kostenlosem Wi-Fi. Balkon und reservierten Parkplatz. \n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "App. Vitali, Dusche o. Bad, WC, 3 Schlafräume",
+          "numberOfRooms": "4.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "8",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

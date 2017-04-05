@@ -1,0 +1,28 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "HealthAndBeautyBusiness"
+  ],
+  "name": "Andrea Seipelt",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3709031",
+    "longitude": "11.155333"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Weidach 285a",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 5133"
+  },
+  "description": "Jin Shin Jyutsu \u0026 Kinesiologie\nWeidach 285a\n+43 5214 5133\nTerminvereinbarung!\n\nJin Shin Jyutsu ist eine mehrere 1000 Jahre alte Kunst zur Hamonisierung der Lebensenergie im Körper. Es bringt Ausgeglichenheit in unser Energiesystem, fördert Gesundheit und Wohlbefinden und stärkt unsere Selbstheilungskraft. Es stellt durch tiefe Entspannung und Verminderung von Stress eine wichtige Ergänzung herkömmlicher Heilmethoden dar. Kinesiologie wirkt durch Aktivierung der Selbstheilungskräfte und Verbesserung der Zusammenarbeit beider Gehirnhälften.\nEinsatzmöglichkeiten: bei schulischen Problemen, z.B. Ängsten, Konzentrationsschwierigkeiten, Prüfungsängsten, Unterstützung im Sport, z.B. Verletzungen, Ernährung, Wettkämpfe, Ernährungsfragen, z.B. Allergien, Verspannungen, Rückenschmerzen, Cranio-Sacral-Balance-Therapie, Doula\n\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/eafcf382-c918-4c5b-9514-464268ee7a78/99/image.jpg",
+      "caption": "jin"
+    }
+  ]
+}

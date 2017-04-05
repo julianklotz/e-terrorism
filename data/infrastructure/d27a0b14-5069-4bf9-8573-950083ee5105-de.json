@@ -1,0 +1,37 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation"
+  ],
+  "name": "Eislaufplatz \u0026 Eisbahnen Hubert\u0027s Stüberl",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3629275",
+    "longitude": "11.1395933"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Platzl 113",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6620",
+    "url": "http://www.huberts-stueberl.at"
+  },
+  "description": [
+    "Täglich von 10:00 Uhr - 21:30 Uhr geöffnet. Ab 19:00 Uhr nur mit Voranmeldung! Tel. 05214/6620 oder 0664/738 631 64.",
+    "Geöffnetvon 10:00 Uhr - 21:30 Uhr. Ab 19:00 Uhr nur mit Voranmeldung.\n"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/81576f70-c33f-48a8-9de0-53f7d1b78fcc/99/image.jpg",
+      "caption": "Eislaufplatz"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6c368305-d02f-4297-ac0a-eec976ecdc74/99/image.jpg",
+      "caption": "Eislaufplatz1"
+    }
+  ]
+}

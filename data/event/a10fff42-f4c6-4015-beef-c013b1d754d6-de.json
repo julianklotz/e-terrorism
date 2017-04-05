@@ -1,0 +1,29 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "Tanz ab der Lebensmitte - Treffpunkt Tanz",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "location": {
+    "@type": "Place",
+    "name": "",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Seefeld",
+      "postalCode": "6100",
+      "addressCountry": "AT",
+      "telephone": "(0043) 05212/2694"
+    }
+  },
+  "description": "Im Gemeindesaal Scharnitz von 9:30 bis 11:00 Uhr. Kosten: 4,00 Euro, Einsteiger jederzeit willkommen.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/41e46635-6540-442a-9656-fabb8d4c687d/99/image.jpg",
+      "caption": "Seniorentanz"
+    }
+  ],
+  "startDate": "2017-05-15T09:30:00",
+  "endDate": "2017-07-03"
+}

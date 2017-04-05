@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "HealthAndBeautyBusiness",
+    "BeautySalon"
+  ],
+  "name": "Hotel Central",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3300682635058",
+    "longitude": "11.1877512931824"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Hotel Central",
+    "streetAddress": "Münchnerstr. 41",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 3288",
+    "faxNumber": "(0043) 5212 3288 66",
+    "email": "central@seefeld.at",
+    "url": "http://www.central-seefeld.at"
+  },
+  "description": [
+    " ",
+    "Massagen, Sauna, Dampfbad, Infrarotkabine, Solarium, Whirlpool, Fitnessraum."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3ee09ade-747a-4abe-afe8-4eec7d34a07c/99/image.jpg",
+      "caption": "Hotel Central"
+    }
+  ],
+  "url": [
+    "http://www.central-seefeld.at"
+  ]
+}

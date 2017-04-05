@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant"
+  ],
+  "name": "Lärchenstüberl",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3362647598955",
+    "longitude": "11.1855951183853"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Lärchenstüberl",
+    "streetAddress": "Geigenbühelstrasse 790",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043)52122383",
+    "email": "info@marcati.at",
+    "url": "http://www.marcati.at"
+  },
+  "description": "E-Bike Akkuwechselstation",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/848f22e8-f6f5-49fc-a65b-641b95bdae50/99/image.jpg",
+      "caption": "Lärchenstüberl Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1e19286d-b1c0-4d3f-8b80-31d17be86efe/99/image.jpg",
+      "caption": "Lärchenstüberl Winter"
+    }
+  ],
+  "url": [
+    "http://www.marcati.at"
+  ]
+}

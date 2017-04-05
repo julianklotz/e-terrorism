@@ -1,0 +1,73 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Martin",
+    "streetAddress": "Porta-Claudia-Strasse 229",
+    "addressLocality": "Scharnitz",
+    "postalCode": "6108",
+    "addressCountry": "AT",
+    "telephone": "+4352135323",
+    "email": "hausmartin@aon.at"
+  },
+  "name": "Haus Martin",
+  "description": [
+    "Unser gemütliches, familienfreundliches Haus liegt direkt an der Isar, ruhig und doch zentral, bietet Ihnen schöne Privatzimmer mit Bad/WC und erweitertes Frühstück, TV im Zimmer, Kühlschrank, Garten, Parkplatz.\nKinderpreise auf Anfrage!",
+    "von Deutschland kommend vor der Kirche rechts, dem Weg folgend über eine kleine Brücke. Rechts abbiegen, nach 100m auf der linken Seite sehen Sie unser Haus Martin."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/853a9ddf-e58b-456e-a239-47a0b9fde602/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/00aaca66-2bea-4040-b922-e7e2b0f9512f/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1460eb1a-b0e6-4e52-8a2e-4a4cc97e3a4a/99/image.jpg",
+      "caption": "Hausfoto"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.392023910031",
+    "longitude": "11.263082264312"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Bad, WC",
+      "description": "gemütlich eingerichtetes Zimmer mit Bad/WC und TV, Kühlschrank am Gang.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Bad, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

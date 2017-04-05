@@ -1,0 +1,20 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Königstr. 3",
+    "addressLocality": "Hamburg",
+    "postalCode": "22767",
+    "addressCountry": "DE",
+    "telephone": "(0049) 40 312099",
+    "email": "cmahlmann@gmx.de"
+  },
+  "name": "ZW - Mahlmann, Claudia",
+  "currenciesAccepted": "EUR"
+}

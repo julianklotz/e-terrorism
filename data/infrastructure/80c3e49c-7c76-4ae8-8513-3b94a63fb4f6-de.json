@@ -1,0 +1,29 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure"
+  ],
+  "name": "Taxistand am Bahnhof",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Bahnhof Seefeld",
+    "streetAddress": "Bahnhofsplatz 115",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 4969385"
+  },
+  "description": "Tel.: +43 5212 2630",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/964240c7-8165-4ed2-b045-15977be47ed2/99/image.jpg",
+      "caption": "Taxistand Seefeld"
+    }
+  ]
+}

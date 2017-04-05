@@ -1,0 +1,195 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.members.aon.at/suitnerleutasch",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Almfriede",
+    "streetAddress": "Plaik 85",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6310",
+    "faxNumber": "(0043) 5214 6310",
+    "email": "almfriede@aon.at",
+    "url": "http://www.members.aon.at/suitnerleutasch"
+  },
+  "name": "Haus Almfriede",
+  "description": [
+    "Unser Haus liegt ruhig am Waldrand, abseits der Straße, an der Loipe und den vielen Wanderwegen.",
+    "inklusive: Heizung, Wasser, Bettwäsche, Handtücher, Tischwäsche, Strom\n\nexklusive: Endreinigung, Ortstaxe",
+    "Mittenwald - Unterleutasch - Gasse - Kirchplatzl - bis Ortsteil Plaik - Bushaltestelle Plaik - 50m rechts"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "reviewCount": "11"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ab948480-7563-438a-b451-a42b0844aa0b/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4bd4eacf-6ada-4754-aca9-ef2bdb9514b4/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b1dec880-c1a0-443c-bd71-26c6fd18f81c/99/image.jpg",
+      "caption": "kamera 2015 548"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ef6d4533-f6ed-4381-ab7a-a3b370343c7d/99/image.jpg",
+      "caption": "DSC_0296"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1bb6c52c-e101-4eaf-ade7-5e9a33268f1d/99/image.jpg",
+      "caption": "DSC_0280"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8b044934-26f6-4bf3-a804-dca33193c41d/99/image.jpg",
+      "caption": "DSC_0331"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/84b97fb2-b341-4024-8b02-dfd9a827d7a4/99/image.jpg",
+      "caption": "Badezimmer (2)"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5e9d7fcf-ca50-4e1a-9b28-59da732c75b5/99/image.jpg",
+      "caption": "Schlafzimmer (1)"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/dbdebd01-9aa0-49d9-8cbf-3898f6b2b96a/99/image.jpg",
+      "caption": "Wohnbereich (4)"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4eb2f106-f36d-4ea1-872f-a59f6c67ef2f/99/image.jpg",
+      "caption": "DSC_0239"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3616388503",
+    "longitude": "11.127140447778"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Das Appartement verfügt über ein seperates Schlafzimmer,einen Wohnraum, einer voll eingerichteten Küche, Geschirrspüler, Mikrowelle, Essecke, Balkon, SAT-TV, gratis WLAN. Weiters bieten wir unseren Gästen die GRATIS Loipenbenutzung!",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement \"Ahrnspitz\", Dusche, WC, 1 Schlafraum",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "55.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "55.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "80.00",
+          "maxPrice": "105.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Das Appartement verfügt über ein seperates Schlafzimmer,einen Wohnraum, einer voll eingerichteten Küche, Geschirrspüler, Mikrowelle, Essecke, Balkon, SAT-TV, gratis WLAN. Weiters bieten wir unseren Gästen die GRATIS Loipenbenutzung!",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement \"Gehrnspitz\",Dusche, WC, 1 Schlafraum",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "55.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "55.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Das Appartement verfügt über ein seperates Schlafzimmer,einen Wohnraum, einer voll eingerichteten Küche, Geschirrspüler, Mikrowelle, Essecke, Balkon, SAT-TV, gratis WLAN. Weiters bieten wir unseren Gästen die GRATIS Loipenbenutzung!",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement \"Hohe Munde\",Dusche, WC, 1 Schlafraum",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ]
+    }
+  ]
+}

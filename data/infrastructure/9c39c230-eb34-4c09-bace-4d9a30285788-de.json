@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation",
+    "TravelAgency",
+    "TouristAttraction"
+  ],
+  "name": "Kaltwassersee – Rosshütte",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.331311713854",
+    "longitude": "11.2002289295197"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Bergbahnen Rosshütte",
+    "streetAddress": "Rosshütte Seefeld",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 24160",
+    "email": "info@rosshuette.at",
+    "url": "http://www.rosshuette.at"
+  },
+  "description": [
+    " ",
+    "Kaltwassersee – Rosshütte\nDer künstlich geschaffene Kaltwassersee wurde im Jahr 2002 zur Beschneiung des Schigebiet Rosshütte erbaut. Er fasst ca. 70.000 m³ Wasser, welche zur Versorgung der 180 Schneekanonen des Schigebietes verwendet\nwerden. Im Sommer eignet sich der Kaltwassersee hervorragend für eine kleine Rundwanderung in luftiger Höhe."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2e5fb6aa-c8e5-4838-bd84-1110f07aadba/99/image.jpg",
+      "caption": "Kaltwassersee Rosshütte"
+    }
+  ],
+  "url": [
+    "http://www.rosshuette.at"
+  ]
+}

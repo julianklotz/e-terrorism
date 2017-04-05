@@ -1,0 +1,27 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation"
+  ],
+  "name": "Pferdekutschenfahrten - Ripfl Paul",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.370354121725",
+    "longitude": "11.1658820795288"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6440"
+  },
+  "description": "Fiakerstandplatz Leutasch, Weidach\n\nTel.: +43 664 2469125",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a5af8820-b980-4921-bc75-f32118fb4fbc/99/image.jpg",
+      "caption": "Fiaker"
+    }
+  ]
+}

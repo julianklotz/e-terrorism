@@ -1,0 +1,27 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Store",
+    "ClothingStore"
+  ],
+  "name": "Pure Fashion by Alex",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3291811055972",
+    "longitude": "11.1861741542816"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Pure Fashion",
+    "streetAddress": "Klosterstr. 43",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 51890",
+    "email": "alex@purefashion.at",
+    "url": "http://www.purefashion.at"
+  },
+  "url": [
+    "http://www.purefashion.at"
+  ]
+}

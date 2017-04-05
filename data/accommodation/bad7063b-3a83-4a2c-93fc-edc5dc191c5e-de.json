@@ -1,0 +1,21 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Ingeborg Budiner",
+    "streetAddress": "Münchnerstr. 605 / Top 6",
+    "addressLocality": "Seefeld in Tirol",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0049) 831 93440",
+    "email": "wolfgang.staerk@gmail.com"
+  },
+  "name": "ZW - Budiner Ingeborg",
+  "currenciesAccepted": "EUR"
+}

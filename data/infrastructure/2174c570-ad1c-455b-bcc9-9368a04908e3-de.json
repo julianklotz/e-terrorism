@@ -1,0 +1,29 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Store"
+  ],
+  "name": "Cammerlander Tanja Photography, Fotostudio",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Cammerlander Tanja Photography",
+    "streetAddress": "Bahnhofsplatz 613",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 5302010",
+    "url": "http://www.cammerlander.photography"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/dffcfaf5-40b5-47cd-861e-2216a3bb27ae/99/image.jpg",
+      "caption": "Cammerlander"
+    }
+  ]
+}

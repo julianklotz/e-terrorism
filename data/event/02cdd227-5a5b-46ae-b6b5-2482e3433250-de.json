@@ -1,0 +1,47 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "6. Autoslalom Tiroler Meisterschaft",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "AMC Leutasch",
+    "employee": {
+      "@type": "Person",
+      "givenName": "Torsten",
+      "familyName": "Vetter"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Gasse 185a",
+      "addressLocality": "Leutasch",
+      "postalCode": "6105 ",
+      "addressCountry": "AT",
+      "email": "vetter-transporte@gmx.at"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "AMC Leutasch",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Gasse 185a",
+      "addressLocality": "Leutasch",
+      "postalCode": "6105 ",
+      "addressCountry": "AT",
+      "email": "vetter-transporte@gmx.at"
+    }
+  },
+  "description": "Für Speis \u0026 Trank ist bestens gesorgt!\nDas Team des AMC Leutasch freut sich auf euer kommen! Weitere Info\u0027s unter Tel. 0664/75016813 oder www.amc-leutasch.at.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f4675bfc-92ac-41d7-ae91-61677f251ff9/99/image.jpg",
+      "caption": "auto"
+    }
+  ],
+  "startDate": "2017-07-09T09:00:00",
+  "endDate": "2017-07-09"
+}

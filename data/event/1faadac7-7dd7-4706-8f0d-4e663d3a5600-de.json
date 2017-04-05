@@ -1,0 +1,49 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "Winter-Erlebnisse - \"Auf die Piste, fertig, los\" - Nachtskilauf",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Informationsbüro Seefeld",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Klosterstraße 43",
+      "addressLocality": "Seefeld",
+      "postalCode": "6100",
+      "addressCountry": "AT",
+      "telephone": "+43508800",
+      "email": "region@seefeld.com",
+      "url": "http://www.seefeld.com"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Informationsbüro Seefeld",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Klosterstraße 43",
+      "addressLocality": "Seefeld",
+      "postalCode": "6100",
+      "addressCountry": "AT",
+      "telephone": "+43508800",
+      "email": "region@seefeld.com",
+      "url": "http://www.seefeld.com"
+    }
+  },
+  "description": "Das Winter-Erlebnisprogramm bietet 15 einzigartige Abenteuer für Jung und Alt! Exklusiv und kostenfrei mit der Olympiaregion Seefeld Card! Seien Sie auch abends zwischen 17:30 und 18:30 Uhr die ersten und einzigen auf den top präparierten Pisten beim Nachtskilauf auf der Rosshütte. Anmeldung erforderlich!",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/375981c4-3638-4245-9fe0-5f37aafb329c/99/image.jpg",
+      "caption": "Nachtskilauf"
+    }
+  ],
+  "url": [
+    "http://www.seefeld.com/tirol-service/gaeste-karte"
+  ],
+  "startDate": "2016-12-23T17:30:00",
+  "endDate": "2017-03-03"
+}

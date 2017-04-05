@@ -1,0 +1,113 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.wellnest-leutasch.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Wellnest Leutasch",
+    "streetAddress": "Aue 117 d",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0049) 151 22656261",
+    "email": "info@wellnest-leutasch.at",
+    "url": "http://www.wellnest-leutasch.at"
+  },
+  "name": "Wellnest Leutasch",
+  "description": [
+    "Das Haus mit insgesamt 4 Schlafzimmern und 2 Bädern wurde vor 5 Jahren in ökologischer Bauweise errichtet, alle Räumlichkeiten sind in neuwertigem Zustand und wurden in moderner Art vom Tischler vor Ort gestaltet. Ein Highlight des Hauses ist sicherlich die großzügige und überdachte Terrasse. Dort können Sie es sich auf dem Lounge Sofa bequem machen, nach einem aktiven Tag in der Natur den Whirlpool genießen, oder im Sommer den Grill anwerfen. Neben dem Whirlpool verfügt das Wellnest auch über eine Infrarot-Kabine für zwei Personen sowie über einen Ruheraum, der mit einem Entspannungsbett aus Zirbenholz ausgestattet ist. Verschaffen Sie sich am besten einen ausführlichen Überblick auf unserer Website www.wellnest-leutasch.at\n\n",
+    "Unsere Preise beginnen bei EUR 120 pro Tag bei einer Belegung von 2 Personen in der Nebensaison. Check-In/Out ist flexibel möglich nach Rücksprache!",
+    ""
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0355abb1-2eff-4005-b2fa-a3e009deef01/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ad01ded6-7161-45cb-a727-3ba26a4c6112/99/image.jpg",
+      "caption": "Logo"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9845ec2b-64ea-4d2c-a2d1-723d5001ba18/99/image.jpg",
+      "caption": "Winter "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9b4ff804-da71-43f9-96a3-0284a20a5403/99/image.jpg",
+      "caption": "Terrasse"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5f5489e7-a3b8-455c-8ece-273c3495eee7/99/image.jpg",
+      "caption": "Terrasse abends"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3787ca7e-5c6e-4e35-9b73-ef46bf848e73/99/image.jpg",
+      "caption": "Whirlpool"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/33576818-aff0-4fa7-a90f-03b3e3da7439/99/image.jpg",
+      "caption": "Ausblick"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/862baa0e-0c5f-41e9-9673-93ae77cad9d8/99/image.jpg",
+      "caption": "Wellness"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/110f43bc-c649-406b-9f91-440defcbd2f9/99/image.jpg",
+      "caption": "Bad OG"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/be45f685-3998-495a-84be-66d7283ef05f/99/image.jpg",
+      "caption": "DZ OG"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9516cc2e-7533-45f1-ada5-087951d99488/99/image.jpg",
+      "caption": "Flur OG"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3642960119155",
+    "longitude": "11.1419536300248"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Ferienhaus, Dusche und Bad, WC, Deluxe",
+      "description": "Das neuwertige Ferienhaus verdient den Namen “Wellnest” zu Recht. Es warten auf Sie vier Schlafzimmer, zwei Badezimmer, eine geräumige Essküche, ein Wohnzimmer und ein Entspannungsraum mit IR-Kabine - allesamt vom örtlichen Tischler in liebevoller Handarbeit angefertigt. Auf der überdachten Freiterrasse steht ein hochwertiger Whirlpool zur Nutzung bereit. Eine Doppelgarage sowie diverse Abstellmöglichkeiten runden das exklusive Objekt ab. ",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Ferienhaus, Dusche und Bad, WC, Deluxe",
+          "numberOfRooms": "7.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "8",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hostel",
+    "Landform"
+  ],
+  "name": "Schachenhaus",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.4192305049586",
+    "longitude": "11.113069896698"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Schachenhaus",
+    "streetAddress": "im Wettersteingebirge",
+    "addressCountry": "DE",
+    "telephone": "(0049) 172-8768868",
+    "email": "info@schachenhaus.de",
+    "url": "http://www.schachenhaus.de"
+  },
+  "description": "Nur im Sommer geöffnet! Übernachtungsmöglichkeit für 70 Personen",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d2283fe9-218b-4c66-b177-73d90c9a04b1/99/image.jpg",
+      "caption": "Schachenhaus"
+    }
+  ]
+}

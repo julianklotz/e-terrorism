@@ -1,0 +1,110 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hostel"
+  ],
+  "url": [
+    "http://www.rauthhuette.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Rauthhütte",
+    "streetAddress": "Moos 7",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 2815611",
+    "faxNumber": "(0043) 5262 64670",
+    "email": "info@rauthhuette.at",
+    "url": "http://www.rauthhuette.at"
+  },
+  "name": "Rauthhütte",
+  "description": [
+    "Einfache Tiroler Berghütte mit guter Küche, ideal für kleine und große Feiern, traumhafte Aussichtslage, großer Kinderspielplatz.",
+    "Folgen Sie der Beschilderung Munde Lift Talstation.\n\n"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4c27068e-6da6-42c0-9a76-13be5e68d8d0/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a7ae5358-3f1f-4fca-90cd-0e8d55abba8e/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/45d6b27b-2fd6-4b5a-ac4e-8667b1dd224d/99/image.jpg",
+      "caption": "Nacht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/503b7228-3e69-4d18-b59e-44038453794a/99/image.jpg",
+      "caption": "Flugbild"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/36697f6b-430a-4e29-ab5b-d84cfc68554a/99/image.jpg",
+      "caption": "Rauthhütte"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/be9458af-c3c6-4633-99df-6250084b098b/99/image.jpg",
+      "caption": "Skifahrer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/477f4f7b-b0be-4254-8aab-c50da96409aa/99/image.jpg",
+      "caption": "Stube"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/be0f6c8d-0be7-4caa-9d84-bf758cb82fda/99/image.jpg",
+      "caption": "Bar"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3fa2909b-e7ab-40f1-b2ef-ca43701b622c/99/image.jpg",
+      "caption": "Aussicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/be9ee5f8-70d3-4f2a-abfc-2f36cafaf8d0/99/image.jpg",
+      "caption": "Speise"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3493017427528",
+    "longitude": "11.1178064124531"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, fl. k/w Wasser",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit fl. Wasser",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ]
+    }
+  ]
+}

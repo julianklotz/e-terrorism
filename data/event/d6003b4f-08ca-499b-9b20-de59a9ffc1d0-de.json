@@ -1,0 +1,23 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "Sommererlebnis - Die Biene, das kleinste Nutztier der Welt",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "description": "Die Welt der BIENEN wartet auf SIE! \nAlles Wissenswerte über das kleinste Nutztier der Welt vermittelt Ihnen eine Imkerin oder ein Imker auf einer Wanderung durch den Bienenlehrpfad mit seinem „Bienenhotel“ in Reith. Sie erhalten einen einzigartigen Einblick in das geheimnisvolle Leben der Honigbiene und deren Lebensraum. \nDort können Sie u.a. durch ein Glasfenster die Bienen­königin und das bunte Treiben des Bienenvolkes im Bienenstock gefahrlos beobachten. ",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/70811829-c98b-4987-b297-d5683a120456/99/image.jpg",
+      "caption": "Bienenlehrpfad"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/696fdc0b-43f9-4ee2-ba60-d9f07dcc13d2/99/image.jpg",
+      "caption": "Schautafel"
+    }
+  ],
+  "startDate": "2017-05-31T16:00:00",
+  "endDate": "2017-10-01"
+}

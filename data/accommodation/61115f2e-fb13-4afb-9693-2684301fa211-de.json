@@ -1,0 +1,191 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.hauslore.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Lore",
+    "streetAddress": "Obere Wiese 12",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6396",
+    "faxNumber": "(0043) 5214 6396",
+    "email": "info@hauslore.at",
+    "url": "http://www.hauslore.at"
+  },
+  "name": "Haus Lore",
+  "description": [
+    "Herzlich Willkommen in unserem mit  4 Edelweiss ausgezeichneten Haus Lore im schönen Leutaschtal.\nLeutasch, in der Olympiaregion Seefeld, im Ortsteil Obere Wiese finden Sie unser ruhig gelegenes Ferienhaus Lore mit herrlichem Panoramablick auf die umliegende Bergwelt. Das Dorfzentrum von Leutasch in Tirol, Weidach ist ca. 2,5 km entfernt. Dort finden Sie einen Supermarkt, zahlreiche Geschäfte und Restaurants. Unser Haus ist der ideale Ausgangspunkt für Wanderungen wie z.B. am Besinnungsweg, Radtouren oder einfach für gemütliche Spaziergänge. Im Sommer bieten wir unseren Gästen einen kostenlosen Eintritt in das Alpenbad Leutasch.\nIn unserem ausgezeichneten Haus Lore befinden sich insgesamt drei  im Tiroler Landhausstil eingerichteten Appartements. Unsere Ferienwohnung mit 48m² für 2 Personen ist bestens ausgestattet, besticht mit einem südseitigen Balkon mit Ausblick auf die umliegende Bergwelt. Die zwei Ferienwohnungen mit 100 m² für 4 bis 6 Personen sind behindertengerecht ausgestattet mit 3 Schlafzimmern, 2 Bäder und Zugang zur Terrasse und zum Garten. \n Frau Lore Pichler verwöhnt Sie auch mit einem Brötchen-Service am Morgen!\nIn den Sommermonaten ist das Leutaschtal ein wahres Wander- und Mountainbike-Paradies. Zahlreiche Spazier- und Wanderwege starten vor unserem Haus Lore und bringen Sie auf schöne Rundwanderungen in die umliegenden Täler oder auf die Berggipfel mit Ihren gemütlichen, urigen  Almhütten. \nSollten Sie es eher gemütlicher angehen wollen, dann bringt Sie der Regionsbus ca. 10 Gehminuten von unserem Landhaus Lore entfernt, in die umliegenden Orte der Olympiaregion, von wo aus Sie kleine Spaziergänge unternehmen können. An heißen Sommertagen können Sie im Sommer das Alpenbad Leutasch kostenlos benützen.\nIm Winter stehen Ihnen 271km täglich frisch gespurte Loipen, in verschiedenen Schwierigkeitsgraden, in der gesamten Olympiaregion Seefeld zur Verfügung. Der für Langläufer und Skifahrer kostenlose Skibus bringt Sie direkt zu den Einstiegstellen der Loipen bzw. der Bergbahnen. \nAuch nicht Langläufer können im schönen Leutaschtal aus einem vielseitigen Angebot an Wintersportaktivitäten wie Wandern, auf den 142km geräumten Winterwanderwege, Schneeschuhwandern, Eisstock-Schießen  oder Rodeln, in der verschneiten Winterlandschaft, Ruhe und Erholung finden.\nIhre Gastgeberin Lore Pichler freut sich auf Ihren Besuch!\n",
+    "Incl.: Heizung, Wäsche, Tischwäsche, Strom, Wasser, Alpenbadeintritt im Sommer\n\nExcl.: Telefon, Ortstaxe, Endreinigung",
+    "Sie erreichen mein Haus:\nMit dem Auto - Mittenwald - Unterleutasch - Gasse - Kirchplatzl - Obere Wiese                      Über Seefeld - Weidach - Gasse - Kirchplatzl \nBahn - Bahnstation -  Seefeld, Seefeld od. Mittenwald Verbindung mit Postbus Taxi.\nDie Straßen werden im Winter Tag und Nacht  geräumt.\n"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2a48e5dd-67ae-4b0c-b82d-e1767f46c2ce/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ba745627-93df-438c-883c-a8ecaabf74ce/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/840bd424-1f28-4ad7-85cd-4d3a66e68da0/99/image.jpg",
+      "caption": "Haus Lore Leutasch Garten"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f75411b7-ccd5-41fe-8500-c0781ea3f639/99/image.jpg",
+      "caption": "Leutasch Obere Wiese"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/61a57a9a-f89a-49d9-a99d-d52403671ef0/99/image.jpg",
+      "caption": "Winter in Leutasch"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6743843a-5b8e-421d-985d-0897fe7c0ff1/99/image.jpg",
+      "caption": "Arnika"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/811be6c6-fe04-4a84-bc4b-88218b36525a/99/image.jpg",
+      "caption": "Zufahrt Haus Lore"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.366429040797",
+    "longitude": "11.136558524493"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Top I 48m² : für 2 bis 3 Personen, Lage: 1. Stock - Eigener Eingang\nWohn-Küche: 4-Platten E-Herd mit Backrohr, Kühlschrank, Geschirrspülmaschine, Kaffeemaschine, komplett Eingerichtet,\ngemütliche Sitzecke, Internetanschluss, Safe, Telefon.\nBadezimmer: Dusche und WC - Schlafzimmer: gemütlicher Sitzecke, Sat-TV-Radio -\nBalkon: südseitiger Balkon, Zugang vom Wohn-Schlafzimmer - Vorraum",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Top I/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "40.00",
+          "maxPrice": "85.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 3 Schlafräume",
+      "description": "Top II 100 m²: Komfortwohnung - für 5 - 6 Personen, Lage Hoch-Parterre\nKüche: 4-Platten E-Herd, Kühlschrank, Geschirrspüler, Kaffeemaschine, komplett Eingerichtet.\n2 Badezimmer: mit Badewanne oder Dusche - Schlafzimmer: 3 getrennte Schlafzimmer für je 2 Personen\nWohnzimmer: gemütliche Sitzecke, 1 Essecke, offener Kamin, Sat-TV, Radio, Internetanschluss, Safe, Telefon.\nBalkon: großer Balkon, südseitig gelegen, vom Wohn- und 2 Schlafzimmern Zugang zum Balkon.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Top II/3 Schlafräume/Dusche, Ba",
+          "numberOfRooms": "4.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "4"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "85.00",
+          "maxPrice": "140.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "95.00",
+          "maxPrice": "154.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "113.00",
+          "maxPrice": "168.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 3 Schlafräume",
+      "description": "Top III: Komfortwohnung 100m² - Behindertengerecht- für 5 - 6 Personen, Lage Parterre -\nKüche: 4-Platten E-Herd, Kühlschrank, Geschirrspüler, Kaffeemaschine, 1 Badezimmer mit Badewanne und Dusche und WC,\n1 Badezimmer mit Dusche und WC, 3 Schlafzimmer: für je 2 Personen, Vorraum ,\nWohnzimmer: gemütliche Sitzecke, Essecke, Sat- TV, Radio, Internetanschluss, Safe, Telefon.\nDieses Appartement befindet sich im Erdgeschoß und ist barrierefrei zu erreichen. Es hat einen eigenen südlichen Garten.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Top III/3 Schlafräume/Dusche, Bad, WC",
+          "numberOfRooms": "4.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "4"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "70.00",
+          "maxPrice": "135.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "82.00",
+          "maxPrice": "149.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "94.00",
+          "maxPrice": "163.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

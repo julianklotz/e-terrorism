@@ -1,0 +1,121 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.landhaus-frischmann.at"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Landhaus Frischmann",
+    "streetAddress": "Gasse 179b",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043)5214 51066",
+    "email": "landhaus.frischmann@aon.at",
+    "url": "http://www.landhaus-frischmann.at"
+  },
+  "name": "Landhaus Frischmann",
+  "description": [
+    "Herzlich Willkommen im Landhaus Frischmann!\n\nUnser neuerbautes Haus liegt ruhig und sonnig, abseits der Straße, in bester unverbauter Lage, mit herrlicher Aussicht auf das gesamte Gebirgspanorama.\nDirekt an der Loipe und am Winterwanderweg.\nEin idealer Ausgangspunkt für viele Berg-, Rad-, Wander-, Langlauf- und Schitouren.\nRestaurants, Gasthöfe und Bushaltestelle in unmittelbarer Nähe. Supermarkt 1km entfernt.\n\nDas Landhaus Frischmann ist mit 1 Ferienwohnung für 2-6 Personen im gemütlichen Tiroler Landhausstil ausgestattet. Sie verfügt über 2 Schlafzimmer, 2 Bäder mit DU/WC, Wohnzimmer mit großer Sitzecke, Wohnlandschaft (ausziehbar für 1-2 Betten), CD-Radio, Flatscreen SAT-TV, Balkon, komplett eingerichtete Küche (inkl. Geschirrspüler) und Vorraum mit Garderobe.\n\n",
+    "Kostenlose Loipenbenützung in der gesamten Olympiaregion Seefeld/Leutasch\nIm Sommer kostenloser Eintritt in das Erlebnis-Alpenbad Leutasch\nBeheizter Schiraum mit Wachsmöglichkeit\nTop-Trock Schuhtrockner\nKostenlose Internetanschlüsse und WLAN\nSafe in beiden Schlafzimmern\nAuf Wunsch bringen wir Ihnen täglich frisches Brot vom Leutascher Bäcker, direkt an Ihre Wohnungstüre.",
+    "Anreisebeschreibung:\nMit dem Auto geht es bis München-Garmisch-Mittenwald-Leutasch in den Ortsteil Gasse, oder über den Fernpass-Telfs-Buchen-Leutasch in den Ortsteil Gasse zum Landhaus Frischmann"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/81fb23d6-2dc1-48ba-bd51-3a64f6fb1f18/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9dfb31df-e347-4c72-8473-42fe0443c03e/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/75a7c4af-66c5-4f58-8f8f-c0d085caac6e/99/image.jpg",
+      "caption": "Hausansicht vorne"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3c455ab3-d7e4-4515-b8ba-f3b65f92861a/99/image.jpg",
+      "caption": "Hausansicht hinten"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8923ca8f-9c5b-4376-aab7-c45894c154fd/99/image.jpg",
+      "caption": "Blick vom Balkon"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/44476e73-3d48-40f7-806d-b900243146d1/99/image.jpg",
+      "caption": "Loipe direkt vor dem Haus"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ea8b1330-05cc-4178-ba6c-74497c443af2/99/image.jpg",
+      "caption": "Hausansicht Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5ad17081-6615-4b1d-8c53-badeb2f61a5f/99/image.jpg",
+      "caption": "Loipe vor dem Haus mit Blick zur Hohen Munde"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3800340634118",
+    "longitude": "11.1620235111145"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "Die Ferienwohnung ist gemütlich und großzügig im Landhaustil ausgestattet.\nSie verfügt über 2 Duschen und 2 WC\u0027s, Wohnraum mit SAT-TV, Küche mit Geschirrspüler und Balkon.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement/Fewo,2 Dusche, 2WC, 2 Schlafräume",
+          "description": "Das Landhaus ist mit 1 Ferienwohnung für 2-6 Personen im gemütlichen Tiroler Landhausstil ausgestattet. Sie verfügt über 2 Schlafzimmer, 2 DU/WC, Wohnzimmer mit großer Sitzecke, Wohnlandschaft (ausziehbar für 1-2 Betten),CD-Radio, Flatscreen SAT-TV, Balkon, komplett eingerichtete Küche (inkl. Geschirrspüler) und Vorraum mit Garderobe. Kostenlose Loipenbenützung im Winter, kostenloser Eintritt in das Alpenbad-Leutasch im Sommer, Schiraum mit Wachsmöglichkeit, Schuhtrockner,Brötchenservice...",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "50.00",
+          "maxPrice": "110.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "69.00",
+          "maxPrice": "120.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "73.00",
+          "maxPrice": "125.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,5135 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://www.karwendelhof.com",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Hotel Karwendelhof",
+    "streetAddress": "Bahnhofstr. 124",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "+4352122655",
+    "faxNumber": "+435212265544",
+    "email": "office@karwendelhof.com",
+    "url": "http://www.karwendelhof.com"
+  },
+  "name": "Hotel Karwendelhof",
+  "description": [
+    "Sie wohnen im Tiroler Wohlfühlambiente in der Seefelder Fußgängerzone und können sich auf kulinarischen Hochgenuss traditionsreicher heimischer sowie internationaler Küche freuen. Um sich zu entspannen laden wir Sie in unsere hoteleigene neue moderne Wellnessanlage mit finnischer Sauna, Bio-Sauna, Kräuterdampfbad und Infrarot-Lounge sowie großem Ruhebereich mit Wasserbetten ein! Lehnen Sie sich zurück und genießen Sie die Tage im Hotel Karwendelhof.",
+    "- reichhaltiges Frühstücksbuffet \n- Mittagssnack \n- Abendessen in Buffetform oder als 4-Gang-Wahlmenü\n- Getränke von 7.30-22.30 Uhr \n- Freie Benützung der Sauna, Dampfbad \n- Solarium und Massage gegen Gebühr \n- großer Parkplatz neben dem Hotel \n- 30% Greenfeeermäßigung im Golfclub Wildmoos \n- 35% Ermäßigung an der Golfacademy Seefeld \n- 20% Ermäßigung für Tenniskurse der O.P.T.A. Tennisschule\n\n",
+    "Check-In: 15.00 Uhr\nCheck-Out: 11.00 Uhr\n\nEgal von welcher Himmelsrichtung Sie Seefeld erreichen - Sie fahren einfach direkt zum Bahnhof. Dort angekommen können Sie Ihr Feriendomizil, das Hotel Karwendelhof sehen."
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "reviewCount": "155"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5db8485c-12a5-4679-878e-3469880cf035/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5f191de2-5a85-44ff-b8a3-d1e4d22f53ef/99/image.jpg",
+      "caption": "Logo Karwendelhof"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2860f80b-25eb-4165-8160-0bff4b16509c/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e29d8b65-16cb-4628-974c-8b80ccf17de6/99/image.jpg",
+      "caption": "Sommeransicht vom Kurpark"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b008c5ab-c266-441b-9524-aeca6500a6b6/99/image.jpg",
+      "caption": "Restaurant "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f915e994-c164-4680-8997-1a85b0372f90/99/image.jpg",
+      "caption": "Wellness"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/53079470-b88c-470e-aded-46fbb551e507/99/image.jpg",
+      "caption": "Ruheraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/971c18f4-4990-4640-ac89-cba62167f133/99/image.jpg",
+      "caption": "Kräutersauna"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c5ad1797-f2b5-48f1-9987-cd9f8ceceece/99/image.jpg",
+      "caption": "Dampfbad"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/70a93554-ae57-4748-a55b-91d445d848c0/99/image.jpg",
+      "caption": "Infrarotraum"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3289920372314",
+    "longitude": "11.1885720491409"
+  },
+  "paymentAccepted": [
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche oder Bad, WC, 1 Schlafraum",
+      "description": "Unsere schönen im Sommer 2013 völlig umgebauten Superior- Doppelzimmer mit ca. 27 m² und optisch getrenntem Schlaf- und Wohnbereich. Springboxbett,Sitzcouch,modernes Badezimmer mit Waschbecken, WC und begehbarer Dusche. Flat- Screen Kabel TV,Radio,Telefon,Mini-Kühlschrank, Safe und Balkon (nach Süder oder NordWesten. Gratis WiFi",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer Superior",
+          "description": "Neuwertiges,2013 renoviertes Zimmer mit Doppelbett und Sitz- Couch, modernes Badezimmer mit begehbarer Duschkabine, Waschbecken und WC, Kosmetik-Spiegel, Föhn; Telefon, Flat- Screen Kabel TV, Radio, Safe, Kühlschrank und Balkon nach Süden. Gratis WiFi im Zimmer!",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Bergweihnacht 5 ÜN",
+          "description": "Highlight des Jahres beim Romantischen Advent in der Olympiaregion Seefeld.\n* 5 Übernachtungen mit All-Inclusive Arrangement\n* am 13.12. - Sektempfang im Casino, Konzert Ursprung Buam im Kurpark\n* am 14.12. - Konzert \"4 Voices of Musical Christmas\" in der WM-Halle\n* am 15.12. - Weihnachtsgala mit \"Kastelruter Spatzen\" in der WM-Halle\n\n",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/8051e53f-0ca0-492f-86ee-e2fd6263df38/99/image.jpg",
+              "caption": "Bergweihnacht"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Advent-Tage",
+          "description": "Romantischer Advent in Seefeld!\n* 3  oder 4 Übernachtungen (Do-So und So-Do) mit All-Inclusive Arrangement\n* 1x abendliche Fackelwanderung mit Glühweinstopp oder 1x Winterwanderung durch die romantische Schneelandschaft\n* 1x wohltuende und entspannende Aromaölmassage (ca.50min)\n* Seefelder Adventmarkt direkt in der Fußgängerzone\n* einen Eintritt in das Krumers Day Spa mit über 2.500m² gleich gegenüber\n* 1x Gutschein für 1 Tasse Glühwein im Bistro \"Platzhirsch\"",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Karwendelhof-Tage",
+          "description": "Karwendelhof-Tage - Erholung pur! \n* 3 Übernachtungen mit All-Inclusive Arrangement (Do-So)\n* 1 Flasche Prosecco am Zimmer zur Begrüßung\n* 1x romantische Kutschenfahrt (Schlittenfahrt) um den Seefelder Wildsee\n* 1x Langschläferfrühstück ans Bett mit einem Glas Prosecco\n* kostenloser Upgrade in die nächsthöhere Kategorie bei Verfügbarkeit",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/f8163d34-a7d7-400b-8dd9-fe52e6c0f6b1/99/image.jpg",
+              "caption": "Karwendelhof"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Verwöhnpaket für Sie und Ihn ",
+          "description": [
+            "Verwöhnung und Entspannung für Geist und Seele!\n* 7 Übernachtungen mit All-Inclusive Arrangement\n* 1x \"Höchste Flexibilität\"- Ganzkörpermassage ganz nach Ihren Wünschen (ca. 50min)\n* 1x Lymphdrainage zur Tiefenentspannung (ca. 25min)\n* \"Starke Kombination\" Spa Maniküre und Pediküre (ca. 80min)\nund 1x Day Spa Eintritt in das Krumers Day Spa mit über 2.500 m² gleich gegenüber\n",
+            "Verwöhnung und Entspannung für Geist und Seele!\n* 7 Übernachtungen mit All-Inclusive Arrangement\n* 1x \"Höchste Flexibilität\"- Ganzkörpermassage ganz nach Ihren Wünschen (ca. 50min)\n* 1x Lymphdrainage zur Tiefenentspannung (ca. 25min)\n* \"Starke Kombination\" Spa Maniküre und Pediküre (ca. 80min)\nund 1x Day Spa Eintritt in das Krumers Day Spa mit über 2.200 m² gleich gegenüber\n"
+          ],
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/9cd7fcda-cad8-4b86-b746-714baac242f7/99/image.jpg",
+              "caption": "Wellness"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Kuscheltage",
+          "description": [
+            "Romantische Auszeit zu zweit - unsere Kuscheltage-Spezial:\n* 3 Übernachtungen mit All-Inclusive Arrangement (Do-So)\n* Obstteller und süße Überraschung zur Begrüßung am Zimmer\n* 1x Langschläferfrühstück ans Bett mit einem Glas Prosecco\n* eine Aromaölmassage zur Entspannung und Lockerung der Muskulatur - bei frühzeitiger Buchung auch in Paar-Behandlungsraum möglich (ca.50min)\n* 1x Krumers Day Spa mit über 2.500 m² großem Wellnessbereich gleich gegenüber.",
+            "Romantische Auszeit zu zweit - unsere Kuscheltage-Spezial:\n* 3 Übernachtungen mit All-Inclusive Arrangement (Do-So)\n* Obstteller und süße Überraschung zur Begrüßung am Zimmer\n* 1x Langschläferfrühstück ans Bett mit einem Glas Prosecco\n* eine Aromaölmassage zur Entspannung und Lockerung der Muskulatur - bei frühzeitiger Buchung auch in Paar-Behandlungsraum möglich (ca.50min)"
+          ],
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/f3de67aa-76ee-4247-a3de-a06a4f18eae5/99/image.jpg",
+              "caption": "Kuscheltage"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Golf \u0026 Wellness",
+          "description": "Golf \u0026 Wellness mit All-Inclusive Arrangement:\n* 5 Übernachtungen mit All-Inclusive Arrangement\n* 1x Deluxe Golfermassage (Ganzkörpermassage ca. 50min)\nund Golf Alpin Card mit 3 Greenfees\n- inkludiert z.B. 1x Greenfee für den Golfclub Wildmoos mit 18 Loch, 1x Greenfee für den Golfclub Mieming mic 18 Loch und 2x Greenfee für den Golfclub Seefeld mit 9 Loch",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/3ac65ce8-579f-4435-b124-d9e1b9c24500/99/image.jpg",
+              "caption": "Golf"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Wellness \u0026 Casino",
+          "description": "- 3 (DO-SO) mit All-Inklusiv\n- 1 Eintritt in das Casino Seefeld gleich nebenan inkl. Spieljetons im Wert von € 25,-\n- einen Tageseintritt in das Krumers Day Spa (mit 2.500m² gleich gegenüber)\n- 1 entspannende Teilmassage (ca. 25min)",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/5004196f-e883-4f86-b689-8bd1a73568d3/99/image.jpg",
+              "caption": "Wellness\u0026Casino"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Winterwoche mit Skipass",
+          "description": "Skivergnügen auf dem Seefelder Plateau! \n* 7 Übernachtungen mit All-Inclusive Arrangement\n* 5 Tages Skipass \"Happy Ski Card\"\n* 1x Krumers Day Spa mit mehr als 2.500m² großem Wellnessbereich \n* 1x Sportmassage zur Lockerung der Muskulatur (ca.50 Min)",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/23097ef9-be83-46a5-a5e7-e528604a81c6/99/image.jpg",
+              "caption": "Ski Alpin"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Langlaufwoche mit Kurs",
+          "description": "Erleben Sie den Langlauf- Paradies Seefeld hautnah!\nUnsere Langlaufpauschale beinhaltet:\n*7 Übernachtungen mit all-inclusive Arrangement\n*3 mal 120 Minuten Langlaufkurs für Anfänger bzw. Fortgeschrittene, Skating oder Klassisch (Kursbeginn Montags)\n*1x 60 Minuten Privatunterricht\n*Loipengebühr für die ganze Woche sowie Regionalbusticket für alle Linienbusse in der Olympiaregion Seefeld\n*Ganzkörpermassage (ca.50 Min) inkl. Krumers Day Spa\n*Schneegarantie!",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/9b6a7158-d6bc-4fc2-b7ce-7562eb18e260/99/image.jpg",
+              "caption": "Langlauf"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Weihnachtswoche",
+          "description": "Familien-Weihnachtsfeier im Karwendelhof inklusive: \n*7 Übernachtungen mit all-inclusive-Arrangement\n*geführte Wanderung\n*1 Gutschein für eine Tasse Glühwein im Café Platzhirsch\n*Am 24.12. - große Familienweihnachtsfeier mit Fackelwanderung mit Adventsgeschichte zur Einstimmung, Weihnachts- Cocktail mit Hausmusik, Überraschung und Geschenke für alle Kinder und anschließendem 6-Gang-Gala- Menü\n*eine entspannende Aromaölmassage inkl. Krumers Day Spa\n*Seefelder Christkindlmarkt direkt im Zentrum",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Karwendelhof- Tage Sommer",
+          "description": [
+            "Neuwertiges,2013 renoviertes Zimmer mit Doppelbett und Sitz- Couch, modernes Badezimmer mit begehbarer Duschkabine, Waschbecken und WC, Kosmetik-Spiegel, Föhn; Telefon, Flat- Screen Kabel TV, Radio, Safe, Kühlschrank und Balkon nach Süden. Gratis WiFi im Zimmer!",
+            "Neuwertiges,2013 renoviertes Zimmer mit Doppelbett und Sitz- Couch, modernes Badezimmer mit begehbarer Duschkabine, Waschbecken und WC, Kosmetik-Spiegel, Föhn; Telefon, Flat- Screen Kabel TV, Radio, Safe, Kühlschrank und Balkon nach Süden. Gratis WiFi im Zimmer!",
+            "Neuwertiges,2013 renoviertes Zimmer mit Doppelbett und Sitz- Couch, modernes Badezimmer mit begehbarer Duschkabine, Waschbecken und WC, Kosmetik-Spiegel, Föhn; Telefon, Flat- Screen Kabel TV, Radio, Safe, Kühlschrank und Balkon nach Süden. Gratis WiFi im Zimmer!"
+          ],
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/acc48185-d2f4-4844-95a7-c8ecdc0978a8/99/image.jpg",
+              "caption": "Karwendelhof"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "SILVESTER in Karwendelhof",
+          "description": "Jahresausklang im \"Karwendelhof\":\n*7 Übernachtungen mit all-inclusive-Arrangement\n*geführte Fackelwanderung mit Glühweinstopp\n*Glühwein-Gutschein im Café-Bistro \"Platzhirsch\"\n*am 31.12. Silvesterfeier mit Neujahrscocktail,exklusivem 6-Gängigem Gala-Dinner,Live-Musik und Tanz,Mitternachtsbuffet(all-inclusive-Angebot bis 18:00 Uhr gültig)\n*am 01.01.-Langschläferfrühstück bis 11Uhr mit Lachs \u0026 Sekt\n*Live-Übertragung des Neujahrskonzertes der Wiener Philharmoniker\n*Christkindlmarkt direkt vorm Hotel",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "5 Tage über Silvester",
+          "description": "Auch Kurzaufenthalt über Silvester möglich!\n*5 Übernachtungen mit All Inklusive- Arrangement\n*1 abendliche Fackelwanderung mit Glühweinstopp\n*romantische Kutschenfahrt\n*am 31.12.2014:Gala- Cocktail,exklusives 6-Gängiges Gala-Dinner,Musik und Tanz,Mitternachtsbuffet mit Gulaschsuppe(Getränke an diesem Abend sind nur bis 18:30 Uhr inkludiert!)\n*Langschläferfrühstück am 01.01.2015 bis 11 Uhr\n*Life-Übertragung des Neujahrskonzertes der Wiener Philharmoniker am 01.01.2015",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Skiwoche mit Kurs",
+          "description": "Ski-Woche mit Kurs inklusive: \n* 7 Übernachtungen mit All- Inklusive- Arrangement\n* 5 Tage Skikurs für Anfänger oder für Fortgeschrittene\n* 1 Fitness- Massage für verspannte Muskeln (50 Min)",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/af6f8552-8bd6-444c-ae01-d254e8277523/99/image.jpg",
+              "caption": "Winterurlaub"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Kurzurlaub mit Ski \u0026 Wellness",
+          "description": [
+            "Kurzurlaub mit Skivergnügen \u0026 Spa: \n- 3 Übernachtungen mit all- inclusive- Arrangement\n- Skipass\"Happy Ski Card\" für 1,5 Tage für alle Skigebiete in Seefeld in Tirol\n- 1x Krumers Day Spa (Reservierung im Voraus notwendig)\n- Buchbar für die Anreisen zwischen Sonntag und Donnerstag, nicht am Wochenenden! ",
+            " Urlaub zwischendurch mit:\n- 2 Übernachtungen mit all- inclusive- Arrangement\n- 1x Tages- Skipass \"Happy Ski Card\" für alle Skigebiete in Seefeld in Tirol\n- 1x Krumers Day Spa (um die Reservierung wird erbeten)\n- Buchbar für die Anreise zwischen Sonntag und Donnerstag, nicht am Wochenende!"
+          ],
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/c003fe51-542d-4716-846b-3237728f34dc/99/image.jpg",
+              "caption": "Langlauf"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Firnwoche",
+          "description": "Genießen Sie einen Kurzaufenthalt in der besten Winterzeit:\n* 5 Übernachtungen mit All Inklusive Arrangement\n* 1 Flasche Prosecco ans Zimmer zur Begrüßung\n* 1 Winter- bzw. Fackelwanderung\n* 3 Tage \"Happy Ski Card\"",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/1f76f87b-cc06-4fbb-9c67-8e30c12cde25/99/image.jpg",
+              "caption": "Karwendelhof"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "\"Be my Valentine\"-Kurzaufenthalt",
+          "description": "\"Valetinstag extended\" - in der ganzen Woche möglich! Romantische Stimmung und winterliches Ambiente inklusive!\n- 1 oder 2 Übernachtungen mit all- inclusive- Arrangement lt. Beschreibung\n- Blumen und Süße Überraschung am Zimmer bei der Anreise\n- Glas Prosecco zum Frühstück\n- Benützung des Wellnessbereiches ab 11:00 Uhr (Saunen, Dampfbad, Wasserbetten, Infrarot- Oase)\n- romantische Kutschenfahrt zu zweit (ca. 50 Min)\n- bei Verfügbarkeit - kostenloser Upgrade in die höhere Kategorie",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/9649c430-6834-4356-8945-53ed853ce1da/99/image.jpg",
+              "caption": "Valentin"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Ostern",
+          "description": "Romantischer Kurzaufenthalt mit Kutschenfahrt\n* 3 Übernachtungen mit All-Inclusive Arrangement\n* 1 Flasche Champagner am Zimmer zur Begrüßung\n* 1x romantische Kutschenfahrt um den Seefelder Wildsee\n* eine kleine Osterüberraschung",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/2af318a1-93d6-4fa4-8bf6-d4365e852523/99/image.jpg",
+              "caption": "Ostern"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Sonne, Schnee \u0026 Spa",
+          "description": "Romantische Stimmung und winterliches Ambiente inklusive!\n- 2 Übernachtungen mit All Inclusive- Arrangement, Aufenthalt zwischen SO und FR \n- eine Flasche Champagner am Zimmer zur Bergüßung\n- 1x Day Spa Eintritt in das Krumers Day Spa mit über 2.200m² gleich gegenüber(Reservierung vor der Anreise!)\n\n",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/37698dcd-6121-481e-bf3a-253c2fdbd38b/99/image.jpg",
+              "caption": "Sonne"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Kurzurlaub mit Ski \u0026 Wellness",
+          "description": "- 3 Übernachtungen mit All Inklusiv, Anreisetage Sonntag bis Freitag\n- 1x Eintritt in das Krumers Day Spa mit 2.200m² gleich gegenüber\n- 1,5 Tage Skipass",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Bergkristall-Fest (Pfingsten)",
+          "description": "* 3 Übernachtungen (Anreise am Do, Fr oder Sa) mit All- Inklusive Arrangement\n* Eintritt zum Bergkristall-Fest (3-Tage)\n     01.06.: Begrüßungsabend\n     02.06.: Konzert \"Hit auf Hit\"\n     03.06.: \"Nacht der Stars\"\n     04.06.: Radio U1 Frühschoppen",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Bergweihnachten 3 ÜN",
+          "description": "Highlight des Jahres beim Romantischen Advent in der Olympiaregion Seefeld.\n* 3 Übernachtungen mit All-Inclusive Arrangement\n* am 13.12. - Sektempfang im Casino, Konzert Ursprung Buam im Kurpark\n* am 14.12. - Konzert \"4 Voices of Musical Christmas\" in der WM-Halle\n* am 15.12. - Weihnachtsgala mit \"Kasteruter Spatzen\" in der WM-Halle\n",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/426a5fbb-d684-4c1f-9dcf-233d3c76801b/99/image.jpg",
+              "caption": "Bergweihnacht"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "SILVESTER im Karwendelhof 5ÜN",
+          "description": "Jahresausklang im \"Karwendelhof\":\n*5 Übernachtungen mit all-inclusive-Arrangement\n*geführte Fackelwanderung mit Glühweinstopp\n*Glühwein-Gutschein im Café-Bistro \"Platzhirsch\"\n*am 31.12. Silvesterfeier mit Neujahrscocktail,exklusivem 6-Gängigem Gala-Dinner,Live-Musik und Tanz,Mitternachtsbuffet(all-inclusive-Angebot bis 18:00 Uhr gültig)\n*am 01.01.-Langschläferfrühstück bis 11Uhr mit Lachs \u0026 Sekt\n*Live-Übertragung des Neujahrskonzertes der Wiener Philharmoniker\n*Christkindlmarkt direkt vorm Hotel",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "3 ÜN KWH_ Tage Winter, Doppelzimmer Superior",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "4 ÜN KWH- Tage Winter, Doppelzimmer Superior",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Winterwoche inkl. Skipass, Doppelzimmer Superior",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "4 ÜN Kwh-Tage DEZ, Doppelzimmer Superior",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "4ÜN KWH, Doppelzimmer Superior",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Langlaufwoche Jan, Doppelzimmer Superior",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "3 ÜN KWH- Tage Somme, Doppelzimmer Superior",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "4 ÜN KWH- Tage Somme, Doppelzimmer Superior",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Golf \u0026 Wellness, Doppelzimmer Superior",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Verwönpaket, Doppelzimmer Superior",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Bergkristall, Doppelzimmer Superior",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "3 ÜN Casino, Doppelzimmer Superior",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "4 ÜN Casino, Doppelzimmer Superior",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "3 ÜN Kuscheltage, Doppelzimmer Superior",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "4 ÜN Kuscheltage, Doppelzimmer Superior",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "3 ÜN Kuscheltage, Doppelzimmer Superior",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "4 ÜN Kuscheltage, Doppelzimmer Superior",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "SS \u0026S, Doppelzimmer Superior",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "272.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "565.00",
+          "maxPrice": "565.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "388.00",
+          "maxPrice": "388.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "308.00",
+          "maxPrice": "399.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "718.00",
+          "maxPrice": "976.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "369.00",
+          "maxPrice": "425.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "693.00",
+          "maxPrice": "839.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "358.00",
+          "maxPrice": "400.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "875.00",
+          "maxPrice": "875.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "836.00",
+          "maxPrice": "836.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "1185.00",
+          "maxPrice": "1185.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "91.00",
+          "maxPrice": "91.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "1494.00",
+          "maxPrice": "1494.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "1360.00",
+          "maxPrice": "1360.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "272.00",
+          "maxPrice": "272.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "525.00",
+          "maxPrice": "525.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "140.00",
+          "maxPrice": "140.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "308.00",
+          "maxPrice": "308.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "325.00",
+          "maxPrice": "325.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "377.00",
+          "maxPrice": "377.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "323.00",
+          "maxPrice": "323.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "380.00",
+          "maxPrice": "380.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "1084.00",
+          "maxPrice": "1084.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "399.00",
+          "maxPrice": "399.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "399.00",
+          "maxPrice": "399.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "875.00",
+          "maxPrice": "1025.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "315.00",
+          "maxPrice": "351.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "836.00",
+          "maxPrice": "991.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "315.00",
+          "maxPrice": "351.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "315.00",
+          "maxPrice": "351.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "706.50",
+          "maxPrice": "839.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "735.00",
+          "maxPrice": "976.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "407.00",
+          "maxPrice": "407.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "364.00",
+          "maxPrice": "400.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "364.00",
+          "maxPrice": "484.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "425.00",
+          "maxPrice": "425.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "425.00",
+          "maxPrice": "425.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "377.00",
+          "maxPrice": "413.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "377.00",
+          "maxPrice": "497.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "199.00",
+          "maxPrice": "199.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Suite, Dusche und Bad, WC, 2 Schlafräume",
+      "description": "Unsere große Suiten \u003d Atelier Deluxe \u003d geräumige Wohlfühlateliers bis zu 65 m² mit Wohn- und Schlafteil oder mit zwei getrennten Schlafzimmern, für 2 - 6 Personen, stilvolles Badezimmer mit Bad und Dusche,Haarföhn, WC, Flat-Screen, Kabel-TV, Radio, Telefon, Safe, Tee-Ecke, kostenloser Internetanschluss bzw. gratis WiFi und Balkon.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Suite/Atelier Deluxe",
+          "description": "Unserer grossen Suiten / Atelier Deluxe ca.65 m²  mit Wohn- und Schlafteil, stilvolles Badezimmer mit Bad und Duschkabine, Bidet und WC, Föhn, Flat-Screen Kabel - TV, Radio, Telefon, Cafe, Tee-Ecke und Balkon. Es sind auf Anfrage auch Suiten mit 2 getrennten Schlafzimmern verfügbar!",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "2"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Golf \u0026 Wellness",
+          "description": "Golf \u0026 Wellness mit All-Inclusive Arrangement:\n* 5 Übernachtungen mit All-Inclusive Arrangement\n* 1x Deluxe Golfermassage (Ganzkörpermassage ca. 50min)\nund Golf Alpin Card mit 3 Greenfees\n- inkludiert z.B. 1x Greenfee für den Golfclub Wildmoos mit 18 Loch, 1x Greenfee für den Golfclub Mieming mic 18 Loch und 2x Greenfee für den Golfclub Seefeld mit 9 Loch",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/7b61959e-6d22-4f4d-b570-b20a51241b43/99/image.jpg",
+              "caption": "Golf"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "2"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Karwendelhoftage Sommer",
+          "description": "Kurzurlaub in Seefeld: Genießen Sie unsere populärste Pauschale!\n* 4 Übernachtungen von Sonntag bis Donnerstag (4\u003d3)mit All Inclusive- Arrangement\n* 1 Flasche Prosecco am Zimmer bei der Anreise\n* Langschläferfrühstück ans Bett mit 1 Glas Prosecco\n* Romantische Kutschenfahrt (ca.50 Min)\n* kostenloser Upgrade in die höhere Kategorie (nach Verfügbarkeit)\n",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/ed20a730-f150-41ce-9b1e-a02841bb25e8/99/image.jpg",
+              "caption": "Karwendelhof"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "2"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Verwöhnpaket für Sie und Ihn",
+          "description": [
+            "Verwöhnung und Entspannung für Geist und Seele!\n* 7 Übernachtungen mit All-Inclusive Arrangement\n* 1x \"Höchste Flexibilität\"- Ganzkörpermassage ganz nach Ihren Wünschen (ca. 50min)\n* 1x Lymphdrainage zur Tiefenentspannung (ca. 25min)\n* \"Starke Kombination\" Spa Maniküre und Pediküre (ca. 80min)\nund 1x Day Spa Eintritt in das Krumers Day Spa mit über 2.500 m² gleich gegenüber\n",
+            "Verwöhnung und Entspannung für Geist und Seele!\n* 7 Übernachtungen mit All-Inclusive Arrangement\n* 1x \"Höchste Flexibilität\"- Ganzkörpermassage ganz nach Ihren Wünschen (ca. 50min)\n* 1x Lymphdrainage zur Tiefenentspannung (ca. 25min)\n* \"Starke Kombination\" Spa Maniküre und Pediküre (ca. 80min)\nund 1x Day Spa Eintritt in das Krumers Day Spa mit über 2.200 m² gleich gegenüber\n"
+          ],
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/62b8de20-179e-4155-bf5d-570c2612f0bb/99/image.jpg",
+              "caption": "Für Sie und Ihn"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "2"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Weihnachtswoche",
+          "description": "Familien-Weihnachtsfeier im Karwendelhof inklusive: \n*7 Übernachtungen mit all-inclusive-Arrangement\n*geführte Wanderung\n*1 Gutschein für eine Tasse Glühwein im Café Platzhirsch\n*Am 24.12. - große Familienweihnachtsfeier mit Fackelwanderung mit Adventsgeschichte zur Einstimmung, Weihnachts- Cocktail mit Hausmusik, Überraschung und Geschenke für alle Kinder und anschließendem 6-Gang-Gala- Menü\n*eine entspannende Aromaölmassage inkl. Krumers Day Spa\n*Seefelder Christkindlmarkt direkt im Zentrum",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/32f5674b-3aa8-4853-9220-29483263d99f/99/image.jpg",
+              "caption": "Weihnachten"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "2"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Langlaufwoche mit Kurs",
+          "description": "Erleben Sie den Langlauf- Paradies Seefeld hautnah!\nUnsere Langlaufpauschale beinhaltet:\n*7 Übernachtungen mit all-inclusive Arrangement\n*3 mal 120 Minuten Langlaufkurs für Anfänger bzw. Fortgeschrittene, Skating oder Klassisch (Kursbeginn Montags)\n*1x 60 Minuten Privatunterricht\n*Loipengebühr für die ganze Woche sowie Regionalbusticket für alle Linienbusse in der Olympiaregion Seefeld\n*Ganzkörpermassage (ca.50 Min) inkl. Krumers Day Spa\n*Schneegarantie!",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/f46b4737-a8dc-44ca-a182-8c6d58553d3a/99/image.jpg",
+              "caption": "Langlauf"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "2"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Winterwoche mit Skipass",
+          "description": "Skivergnügen auf dem Seefelder Plateau! \n* 7 Übernachtungen mit All-Inclusive Arrangement\n* 5 Tage Skipass \"Happy Ski Card\"\n* 1x Krumers Day Spa mit mehr als 2.500m² großem Wellnessbereich \n* 1x Sportmassage zur Lockerung der Muskulatur (ca.50 Min)",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/ea3b1b55-d0b9-4d0f-b2f5-9a3100e4127c/99/image.jpg",
+              "caption": "Ski Alpin"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "2"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Gesunder Rücken",
+          "description": [
+            "Für Ihren Rückengrad das Beste!\n* 7 Übernachtungen mit All-Inclusive Arrangement\n* wir beginnen mit einem Vitalcheck mit Wirbelsäulenscreening(ca.50Min)\n* 100 Minuten Guthaben für individuelle Massagebehandlungen,z.B.Moorpackung, Bindegewebemassage etc.\n* Re-Check zur Erfolgskontrolle am Ende der Woche (ca.30Min)\n* 1 Smovey Workout speziell für den Rücken\n* einen Trainingsplan für den Aufenthalt und für Zuhause\n* 1x Day Spa Eintritt in das Krumers Day Spa mit über 2.200m² gleich gegenüber",
+            "Für Ihren Rückengrad das Beste!\n* 7 Übernachtungen mit All-Inclusive Arrangement\n* wir beginnen mit einem Vitalcheck mit Wirbelsäulenscreening(ca.50Min)\n* 100 Minuten Guthaben für individuelle Massagebehandlungen,z.B.Moorpackung, Bindegewebemassage etc.\n* Re-Check zur Erfolgskontrolle am Ende der Woche (ca.30Min)\n* 1 Smovey Workout speziell für den Rücken\n* einen Trainingsplan für den Aufenthalt und für Zuhause\n* 1x Day Spa Eintritt in das Krumers Day Spa mit über 2.200m² gleich gegenüber"
+          ],
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/c77d67be-1953-4143-a54e-ac015ee1905d/99/image.jpg",
+              "caption": "Gesunder Rücken"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "2"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Advent-Tage",
+          "description": "Romantischer Advent in Seefeld!\n* 3 Übernachtungen (Do-So) mit All-Inclusive Arrangement\n* 1x abendliche Fackelwanderung mit Glühweinstopp oder 1x Winterwanderung durch die romantische Schneelandschaft\n* 1x wohltuende und entspannende Aromaölmassage (ca. 50min)\n* Seefelder Adventmarkt direkt in der Fußgängerzone\n* einen Eintritt in das Krumers day Spa mit über 2.500m² gleich gegenüber",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/36e90400-e6bb-4b2e-8e33-d306e53f26a4/99/image.jpg",
+              "caption": "Advent"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "2"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Bergweihnachten 5 ÜN",
+          "description": "Highlight des Jahres beim Romantischen Advent in der Olympiaregion Seefeld.\n* 5 Übernachtungen mit All-Inclusive Arrangement\n* am 13.12. - Sektempfang im Casino, Konzert Ursprung Buam im Kurpark\n* am 14.12. - Konzert \"4 Voices of Musical Christmas\" in der WM-Halle\n* am 15.12. - Weihnachtsgala mit \"Kasteruter Spatzen\" in der WM-Halle\n",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/5cc34d81-eb04-428e-bcfc-9599b8798578/99/image.jpg",
+              "caption": "Bergweihnacht"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "2"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Bergweihnachten 3 ÜN",
+          "description": "Highlight des Jahres beim Romantischen Advent in der Olympiaregion Seefeld.\n* 3 Übernachtungen mit All-Inclusive Arrangement\n* am 13.12. - Sektempfang im Casino, Konzert Ursprung Buam im Kurpark\n* am 14.12. - Konzert \"4 Voices of Musical Christmas\" in der WM-Halle\n* am 15.12. - Weihnachtsgala mit \"Kasteruter Spatzen\" in der WM-Halle\n",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/54924484-bdde-4eeb-960a-37728b4fc44d/99/image.jpg",
+              "caption": "Bergweihnacht"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "2"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Bergkristall-Fest (Pfingsten)",
+          "description": "* 3 Übernachtungen (Anreise am Do, Fr oder Sa) mit All- Inklusive Arrangement\n* Eintritt zum Bergkristall-Fest (3-Tage)\n     01.06.: Begrüßungsabend\n     02.06.: Konzert \"Hit auf Hit\"\n     03.06.: \"Nacht der Stars\"\n     04.06.: Radio U1 Frühschoppen",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "2"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "SILVESTER im \"Karwendelhof\"",
+          "description": "Jahresausklang im \"Karwendelhof\":\n*7 Übernachtungen mit all-inclusive-Arrangement\n*geführte Fackelwanderung mit Glühweinstopp\n*Glühwein-Gutschein im Café-Bistro \"Platzhirsch\"\n*am 31.12. Silvesterfeier mit Neujahrscocktail,exklusivem 6-Gängigem Gala-Dinner,Live-Musik und Tanz,Mitternachtsbuffet(all-inclusive-Angebot bis 18:00 Uhr gültig)\n*am 01.01.-Langschläferfrühstück bis 11Uhr mit Lachs \u0026 Sekt\n*Live-Übertragung des Neujahrskonzertes der Wiener Philharmoniker\n*Christkindlmarkt direkt vorm Hotel",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/54d24943-81cf-4a26-b059-45746a89fd64/99/image.jpg",
+              "caption": "Sivester"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "2"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "SILVESTER im \"Karwendelhof\" 5ÜN",
+          "description": "Jahresausklang im \"Karwendelhof\":\n*5 Übernachtungen mit all-inclusive-Arrangement\n*geführte Fackelwanderung mit Glühweinstopp\n*Glühwein-Gutschein im Café-Bistro \"Platzhirsch\"\n*am 31.12. Silvesterfeier mit Neujahrscocktail,exklusivem 6-Gängigem Gala-Dinner,Live-Musik und Tanz,Mitternachtsbuffet(all-inclusive-Angebot bis 18:00 Uhr gültig)\n*am 01.01.-Langschläferfrühstück bis 11Uhr mit Lachs \u0026 Sekt\n*Live-Übertragung des Neujahrskonzertes der Wiener Philharmoniker\n*Christkindlmarkt direkt vorm Hotel",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/91942f39-c575-4ac5-94c8-1c9b466f20a2/99/image.jpg",
+              "caption": "Sivester"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "2"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "3 ÜN KWH- Tage Winter, Suite/Atelier Deluxe",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "2"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "4 ÜN KWH- Tage Winter, Suite/Atelier Deluxe",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "2"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Winterwoche inkl. Skipass, Suite/Atelier Deluxe",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "2"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "3 ÜN KWH- Tage Somme, Suite/Atelier Deluxe",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "2"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "4 ÜN KWH- Tage Somme, Suite/Atelier Deluxe",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "2"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Langlaufwoche mit Ku, Suite/Atelier Deluxe",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "2"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Golf \u0026 Wellness, Suite/Atelier Deluxe",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "2"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Verwöhnpaket, Suite/Atelier Deluxe",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "2"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "3 ÜN Casino, Suite/Atelier Deluxe",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "2"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "4 ÜN Casino, Suite/Atelier Deluxe",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "2"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "3 ÜN Kuscheltage, Suite/Atelier Deluxe",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "2"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "4 ÜN Kuscheltage, Suite/Atelier Deluxe",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "2"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "3 ÜN Kuscheltage, Suite/Atelier Deluxe",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "2"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "4 ÜN Kuscheltage, Suite/Atelier Deluxe",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "2"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "300.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "787.00",
+          "maxPrice": "968.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "359.00",
+          "maxPrice": "359.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "832.00",
+          "maxPrice": "1156.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "1299.00",
+          "maxPrice": "1299.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "946.00",
+          "maxPrice": "946.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "980.00",
+          "maxPrice": "980.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "904.00",
+          "maxPrice": "904.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "445.00",
+          "maxPrice": "445.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "655.00",
+          "maxPrice": "655.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "437.00",
+          "maxPrice": "437.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "380.00",
+          "maxPrice": "380.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "1704.00",
+          "maxPrice": "1704.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "1234.00",
+          "maxPrice": "1234.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "459.00",
+          "maxPrice": "459.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "459.00",
+          "maxPrice": "459.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "980.00",
+          "maxPrice": "1150.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "378.00",
+          "maxPrice": "423.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "378.00",
+          "maxPrice": "423.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "946.00",
+          "maxPrice": "946.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "801.00",
+          "maxPrice": "967.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "855.00",
+          "maxPrice": "1156.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "427.00",
+          "maxPrice": "472.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "427.00",
+          "maxPrice": "575.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "482.00",
+          "maxPrice": "482.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "482.00",
+          "maxPrice": "482.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "440.00",
+          "maxPrice": "485.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "440.00",
+          "maxPrice": "588.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Junior Suite, Dusche oder Bad, WC, 1 Schlafraum",
+      "description": "Junior Suiten - unsere Künstlerateliers (Picasso, Walde, Vincent van Gogh, usw...), 36-45m² mit Schlaf- und Wohnbereich, geräumiges Badezimmer mit Bad und Dusche, Föhn, WC, Bidet, Flat-Screen Kabel-TV, Radio, Telefon, Safe, Tee-Ecke, kostenloser Internetanschluss bzw. WiFi und Balkon.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Atelier",
+          "description": [
+            "Junior Suiten - unsere Künstlerateliers (Picasso, Walde, Vincent van Gogh, usw...), 36-45m² mit Schlaf- und Wohnbereich, geräumiges Badezimmer mit Bad und Dusche, Föhn, WC, Bidet, Flat-Screen Kabel-TV, Radio, Telefon, Safe, Tee-Ecke, kostenloser Internetanschluss bzw. WiFi und Balkon.",
+            "Ski-Woche mit Kurs inklusive: \n* 7 Übernachtungen mit All- Inklusive- Arrangement\n* 5 Tage Skikurs für Anfänger oder für Fortgeschrittene\n* 1 Fitness- Massage für verspannte Muskeln (50 Min)"
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Bergweihnacht 5 ÜN",
+          "description": "Highlight des Jahres beim Romantischen Advent in der Olympiaregion Seefeld.\n* 5 Übernachtungen mit All-Inclusive Arrangement\n* am 13.12. - Sektempfang im Casino, Konzert Ursprung Buam im Kurpark\n* am 14.12. - Konzert \"4 Voices of Musical Christmas\" in der WM-Halle\n* am 15.12. - Weihnachtsgala mit \"Kasteruter Spatzen\" in der WM-Halle\n",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/1ee91c49-2950-4e50-8bbf-f9eb91997080/99/image.jpg",
+              "caption": "Bergweihnachten"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Advent-Tage",
+          "description": "Romantischer Advent in Seefeld!\n* 3 Übernachtungen (Do-So)mit All-Inclusive Arrangement\n* 1x abendliche Fackelwanderung mit Glühweinstopp oder 1x Winterwanderung durch die romantische Schneelandschaft\n* 1x wohltuende und entspannende Aromaölmassage (ca. 50min)\n* Seefelder Adventmarkt direkt in der Fußgängerzone\n* einen Eintritt in das Krumers day Spa mit über 2.500m² gleich gegenüber",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/64d4a4c5-01a8-49a4-bf6d-5b4eda428240/99/image.jpg",
+              "caption": "Advent"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Karwendelhof-Tage",
+          "description": "Karwendelhof-Tage - Erholung pur! \n* 3 Übernachtungen mit All-Inclusive Arrangement (Do-So)\n* 1 Flasche Prosecco am Zimmer zur Begrüßung\n* 1x romantische Kutschenfahrt (Schlittenfahrt) um den Seefelder Wildsee\n* 1x Langschläferfrühstück ans Bett mit einem Glas Prosecco\n* kostenloser Upgrade in die nächsthöhere Kategorie bei Verfügbarkeit",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/a4567d62-b2a7-4e82-9a56-cff337d76e5c/99/image.jpg",
+              "caption": "Karwendelhof"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Verwöhnpaket für Sie und Ihn",
+          "description": [
+            "Verwöhnung und Entspannung für Geist und Seele!\n* 7 Übernachtungen mit All-Inclusive Arrangement\n* 1x \"Höchste Flexibilität\"- Ganzkörpermassage ganz nach Ihren Wünschen (ca. 50min)\n* 1x Lymphdrainage zur Tiefenentspannung (ca. 25min)\n* \"Starke Kombination\" Spa Maniküre und Pediküre (ca. 80min)\nund 1x Day Spa Eintritt in das Krumers Day Spa mit über 2.500 m² gleich gegenüber\n",
+            "Verwöhnung und Entspannung für Geist und Seele!\n* 7 Übernachtungen mit All-Inclusive Arrangement\n* 1x \"Höchste Flexibilität\"- Ganzkörpermassage ganz nach Ihren Wünschen (ca. 50min)\n* 1x Lymphdrainage zur Tiefenentspannung (ca. 25min)\n* \"Starke Kombination\" Spa Maniküre und Pediküre (ca. 80min)\nund 1x Day Spa Eintritt in das Krumers Day Spa mit über 2.200 m² gleich gegenüber\n"
+          ],
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/dd89b618-3fc8-4bee-8d8b-76309090658e/99/image.jpg",
+              "caption": "Wellness"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Gesunder Rücken",
+          "description": [
+            "Für Ihren Rückengrad das Beste!\n* 7 Übernachtungen mit All-Inclusive Arrangement\n* wir beginnen mit einem Vitalcheck mit Wirbelsäulenscreening(ca.50Min)\n* 100 Minuten Guthaben für individuelle Massagebehandlungen,z.B.Moorpackung, Bindegewebemassage etc.\n* Re-Check zur Erfolgskontrolle am Ende der Woche (ca.30Min)\n* 1 Smovey Workout speziell für den Rücken\n* einen Trainingsplan für den Aufenthalt und für Zuhause\n* 1x Day Spa Eintritt in das Krumers Day Spa mit über 2.500m² gleich gegenüber",
+            "Für Ihren Rückengrad das Beste!\n* 7 Übernachtungen mit All-Inclusive Arrangement\n* wir beginnen mit einem Vitalcheck mit Wirbelsäulenscreening(ca.50Min)\n* 100 Minuten Guthaben für individuelle Massagebehandlungen,z.B.Moorpackung, Bindegewebemassage etc.\n* Re-Check zur Erfolgskontrolle am Ende der Woche (ca.30Min)\n* 1 Smovey Workout speziell für den Rücken\n* einen Trainingsplan für den Aufenthalt und für Zuhause\n* 1x Day Spa Eintritt in das Krumers Day Spa mit über 2.200m² gleich gegenüber"
+          ],
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/b68b5c70-b250-4690-8aa2-dae2a92abd42/99/image.jpg",
+              "caption": "Gesunder Rücken"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Kuscheltage",
+          "description": [
+            "Romantische Auszeit zu zweit - unsere Kuscheltage-Spezial:\n* 3 Übernachtungen mit All-Inclusive Arrangement (Do-So)\n* Obstteller und süße Überraschung zur Begrüßung am Zimmer\n* 1x Langschläferfrühstück ans Bett mit einem Glas Prosecco\n* eine Aromaölmassage zur Entspannung und Lockerung der Muskulatur - bei frühzeitiger Buchung auch in Paar-Behandlungsraum möglich (ca.50min)\n* 1x Krumers Day Spa mit über 2.500 m² großem Wellnessbereich gleich gegenüber.",
+            "Romantische Auszeit zu zweit - unsere Kuscheltage-Spezial:\n* 3 Übernachtungen mit All-Inclusive Arrangement (Do-So)\n* Obstteller und süße Überraschung zur Begrüßung am Zimmer\n* 1x Langschläferfrühstück ans Bett mit einem Glas Prosecco\n* eine Aromaölmassage zur Entspannung und Lockerung der Muskulatur - bei frühzeitiger Buchung auch in Paar-Behandlungsraum möglich (ca.50min)\n* 1x Krumers Day Spa mit über 2.500 m² großem Wellnessbereich gleich gegenüber."
+          ],
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/1c3dd5ac-9322-42b6-b05c-d32e24cbf43c/99/image.jpg",
+              "caption": "Kuscheltage"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Golf \u0026 Wellness",
+          "description": "Golf \u0026 Wellness mit All-Inclusive Arrangement:\n* 5 Übernachtungen mit All-Inclusive Arrangement\n* 1x Deluxe Golfermassage (Ganzkörpermassage ca. 50min)\nund Golf Alpin Card mit 3 Greenfees\n- inkludiert z.B. 1x Greenfee für den Golfclub Wildmoos mit 18 Loch, 1x Greenfee für den Golfclub Mieming mic 18 Loch und 2x Greenfee für den Golfclub Seefeld mit 9 Loch",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/7a4d4816-c258-49d3-ba54-69652ad0c971/99/image.jpg",
+              "caption": "Golf"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Wellness \u0026 Casino",
+          "description": "- 3 (DO-SO) mit All-Inklusiv\n- 1 Eintritt in das Casino Seefeld gleich nebenan inkl. Spieljetons im Wert von € 25,-\n- einen Tageseintritt in das Krumers Day Spa (mit 2.500m² gleich gegenüber)\n- 1 entspannende Teilmassage (ca. 25min)",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/1600e815-ae25-457e-8037-4dbce6dc57ba/99/image.jpg",
+              "caption": "Wellness\u0026Casino"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Winterwoche mit Skipass",
+          "description": "Skivergnügen auf dem Seefelder Plateau! \n* 7 Übernachtungen mit All-Inclusive Arrangement\n* 5 Tages Skipass \"Happy Ski Card\"\n* 1x Krumers Day Spa mit mehr als 2.500m² großem Wellnessbereich \n* 1x Sportmassage zur Lockerung der Muskulatur (ca.50 Min)",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/0b38ea55-63cb-42a4-9a66-1b649a050117/99/image.jpg",
+              "caption": "Ski Alpin"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Langlaufwoche mit Kurs",
+          "description": [
+            "Erleben Sie den Langlauf- Paradies Seefeld hautnah!\nWir bieten Ihnen unsere Langlaufpauschale mit Kurs an inklusive:\n* 7 Übernachtungen mit \"All Inklusive\"- Arrangement\n* 3mal 120 Minuten Langlaufkurs für Anfänger bzw. Fortgeschrittene, Skating oder Klassisch (Mo bis Mi oder Di bis Do)\n* 1mal 60 Minuten Privatunterricht\n* Loipengebühr für die gesamte Woche ",
+            "Erleben Sie den Langlauf- Paradies Seefeld hautnah!\nUnsere Langlaufpauschale beinhaltet:\n*7 Übernachtungen mit all-inclusive Arrangement\n*3 mal 120 Minuten Langlaufkurs für Anfänger bzw. Fortgeschrittene, Skating oder Klassisch (Kursbeginn Montags)\n*1x 60 Minuten Privatunterricht\n*Loipengebühr für die ganze Woche sowie Regionalbusticket für alle Linienbusse in der Olympiaregion Seefeld\n*Ganzkörpermassage (ca.50 Min) inkl. Krumers Day Spa\n*Schneegarantie!"
+          ],
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/5e48f088-f7e0-46ac-a1bf-163ddf4de8fc/99/image.jpg",
+              "caption": "Langlauf"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Weihnachtswoche",
+          "description": "Familien-Weihnachtsfeier im Karwendelhof inklusive: \n*7 Übernachtungen mit all-inclusive-Arrangement\n*geführte Wanderung\n*1 Gutschein für eine Tasse Glühwein im Café Platzhirsch\n*Am 24.12. - große Familienweihnachtsfeier mit Fackelwanderung mit Adventsgeschichte zur Einstimmung, Weihnachts- Cocktail mit Hausmusik, Überraschung und Geschenke für alle Kinder und anschließendem 6-Gang-Gala- Menü\n*eine entspannende Aromaölmassage inkl. Krumers Day Spa\n*Seefelder Christkindlmarkt direkt im Zentrum",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/10437764-722d-44c5-9674-00655bc8dcc9/99/image.jpg",
+              "caption": "Weihnachten"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Skiwoche mit Kurs",
+          "description": "Ski-Woche mit Kurs inklusive: \n* 7 Übernachtungen mit All- Inklusive- Arrangement\n* 5 Tage Skikurs für Anfänger oder für Fortgeschrittene\n* 1 Fitness- Massage für verspannte Muskeln (50 Min)",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "SILVESTER im \"Karwendelhof\"",
+          "description": "Jahresausklang im \"Karwendelhof\":\n*7 Übernachtungen mit all-inclusive-Arrangement\n*geführte Fackelwanderung mit Glühweinstopp\n*Glühwein-Gutschein im Café-Bistro \"Platzhirsch\"\n*am 31.12. Silvesterfeier mit Neujahrscocktail,exklusivem 6-Gängigem Gala-Dinner,Live-Musik und Tanz,Mitternachtsbuffet(all-inclusive-Angebot bis 18:00 Uhr gültig)\n*am 01.01.-Langschläferfrühstück bis 11Uhr mit Lachs \u0026 Sekt\n*Live-Übertragung des Neujahrskonzertes der Wiener Philharmoniker\n*Christkindlmarkt direkt vorm Hotel",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/df30f50a-eaf1-4336-919e-f946d2b04b28/99/image.jpg",
+              "caption": "Sivester"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Platzreifekurs",
+          "description": "Wir laden Sie ein, Ihren Platzreifekurs bei uns zu machen!Diese Pauschale beinhaltet:\n*7 Übernachtungen mit \"all inclusive\"-Arrangement\n*5 Tage Basistraining (Mo-Fr von 9 bis 11 Uhr)\n*3 Tage Platzreiufekurs (Mo,MI und Fr 14 - 15:30 Uhr)\ninkl. Bälle, Leihschläger und Benützung aller Übungsmöglichkeiten\n*Platzreifeprüfung nach Richtlinien des ÖGV\n*1 Golfermassage für Arme und Rücken nach einem aktiven Tag am Green (ca.25 Min)\n",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Firnwoche",
+          "description": "Genießen Sie einen Kurzaufenthalt mit Sonne und Schnee:\n* 5 Übernachtungen mit All Inklusive Arrangement\n* 1 Flasche Prosecco ans Zimmer zur Begrüßung\n* 1 Winter- bzw. Fackelwanderung\n* 3 Tage \"Happy Ski Card\" ",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/1a042c9e-582f-4134-84bc-e51bdc8fdcbe/99/image.jpg",
+              "caption": "Firnwoche"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Wohlfühltage zum Entspannen",
+          "description": "Gönnen Sie sich eine Auszeit! \n*7 Übernachtungen mit All Inklusive- Arrangement\n*1x wohltuende Teilkörpermassage (25 Min)\n*1x romantische Kutschenfahrt (ca.50 Min)\n*1x Fußreflexzonenmassage( ca. 25 Min)\n*Day Spa Eintritt ins Krumers Day Spa mit über 2.200 m² Wellnessbereich gleich gegenüber",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/cc757ee1-2b28-401b-b855-894b94341edf/99/image.jpg",
+              "caption": "Spa Bereich"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "\"Be my Valentine\"",
+          "description": "\"Valetinstag extended\" - in der ganzen Woche möglich! Romantische Stimmung und winterliches Ambiente inklusive!\n- 1 oder 2 Übernachtungen mit all- inclusive- Arrangement lt. Beschreibung\n- Blumen und Süße Überraschung am Zimmer bei der Anreise\n- Glas Prosecco zum Frühstück\n- Benützung des Wellnessbereiches ab 11:00 Uhr (Saunen, Dampfbad, Wasserbetten, Infrarot- Oase)\n- romantische Kutschenfahrt zu zweit (ca. 50 Min)\n- bei Verfügbarkeit - kostenloser Upgrade in die höhere Kategorie",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/49ae2a0c-6751-48d1-83e9-f5b06d5717ff/99/image.jpg",
+              "caption": "Valentin"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Ostern",
+          "description": "Romantischer Kurzaufenthalt mit Kutschenfahrt\n* 3 Übernachtungen mit All-Inclusive Arrangement\n* eine Flasche Champagner am Zimmer zur Begrüßung\n* 1x romantische Kutschenfahrt um den Seefelder Wildsee\n* eine kleine Osterüberraschung",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/7dd89cf8-df09-43c9-b066-ef2be82e7eec/99/image.jpg",
+              "caption": "Ostern"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Sonne, Schnee \u0026 Spa",
+          "description": "Romantische Stimmung und winterliches Ambiente inklusive!\n- 2 Übernachtungen mit All Inclusive- Arrangement, Aufenthalt zwischen SO und FR \n- eine Flasche Champagner am Zimmer zur Bergüßung\n- 1x Day Spa Eintritt in das Krumers Day Spa mit über 2.200m² gleich gegenüber(Reservierung vor der Anreise!)\n",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/1cbe354d-3cbe-4ddd-bf08-0aea92738a91/99/image.jpg",
+              "caption": "Sonne"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Kurzurlaub mit Ski \u0026 Wellness",
+          "description": "- 3 Übernachtungen mit All Inklusiv, Anreisetage Sonntag bis Freitag\n- 1x Eintritt in das Krumers Day Spa mit 2.200m² gleich gegenüber\n- 1,5 Tage Skipass",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Bergkristall-Fest (Pfingsten)",
+          "description": "* 3 Übernachtungen (Anreise am Do, Fr oder Sa) mit All- Inklusive Arrangement\n* Eintritt zum Bergkristall-Fest (3-Tage)\n     01.06.: Begrüßungsabend\n     02.06.: Konzert \"Hit auf Hit\"\n     03.06.: \"Nacht der Stars\"\n     04.06.: Radio U1 Frühschoppen",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Bergweihnacht 3 ÜN",
+          "description": "Highlight des Jahres beim Romantischen Advent in der Olympiaregion Seefeld.\n* 3 Übernachtungen mit All-Inclusive Arrangement\n* am 13.12. - Sektempfang im Casino, Konzert Ursprung Buam im Kurpark\n* am 14.12. - Konzert \"4 Voices of Musical Christmas\" in der WM-Halle\n* am 15.12. - Weihnachtsgala mit \"Kasteruter Spatzen\" in der WM-Halle\n",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/eead2908-3064-4902-88b5-7702a9eec433/99/image.jpg",
+              "caption": "Bergweihnachten"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "SILVESTER im Karwendelhof 5ÜN",
+          "description": "Jahresausklang im \"Karwendelhof\":\n*5 Übernachtungen mit all-inclusive-Arrangement\n*geführte Fackelwanderung mit Glühweinstopp\n*Glühwein-Gutschein im Café-Bistro \"Platzhirsch\"\n*am 31.12. Silvesterfeier mit Neujahrscocktail,exklusivem 6-Gängigem Gala-Dinner,Live-Musik und Tanz,Mitternachtsbuffet(all-inclusive-Angebot bis 18:00 Uhr gültig)\n*am 01.01.-Langschläferfrühstück bis 11Uhr mit Lachs \u0026 Sekt\n*Live-Übertragung des Neujahrskonzertes der Wiener Philharmoniker\n*Christkindlmarkt direkt vorm Hotel",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/10b3824e-44a2-452d-a5cb-7118a469bacd/99/image.jpg",
+              "caption": "Sivester"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "3 ÜN KWH- Tage Winte, Atelier",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "4 ÜN KWH- Tage- Wint, Atelier",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Winterwoche inkl. Skipass, Atelier",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "4 ÜN KWH- Tage DEZ, Atelier",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Langlaufwoche \u0026Kurs, Atelier",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "3 ÜN KWH- Tage Somme, Atelier",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "4 ÜN KWH- Tage Somme, Atelier",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Golf \u0026 Wellness, Atelier",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Verwöhnpaket, Atelier",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Bergkristall, Atelier",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "3 ÜN Casino, Atelier",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "4 ÜN Casino, Atelier",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "3 ÜN Kuscheltage, Atelier",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "4 ÜN Kuscheltage, Atelier",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "3 ÜN Kuscheltage, Atelier",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "4 ÜN Kuscheltage, Atelier",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "SS \u0026S, Atelier",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "289.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "600.00",
+          "maxPrice": "600.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "410.00",
+          "maxPrice": "410.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "353.00",
+          "maxPrice": "423.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "799.00",
+          "maxPrice": "1110.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "871.00",
+          "maxPrice": "871.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "414.00",
+          "maxPrice": "464.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "760.00",
+          "maxPrice": "934.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "403.00",
+          "maxPrice": "451.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "912.00",
+          "maxPrice": "912.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "876.00",
+          "maxPrice": "876.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "1225.00",
+          "maxPrice": "1225.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "1620.00",
+          "maxPrice": "1620.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "112.00",
+          "maxPrice": "112.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "575.00",
+          "maxPrice": "575.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "156.00",
+          "maxPrice": "156.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "327.00",
+          "maxPrice": "327.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "339.00",
+          "maxPrice": "339.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "397.00",
+          "maxPrice": "397.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "364.00",
+          "maxPrice": "364.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "401.00",
+          "maxPrice": "401.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "1174.00",
+          "maxPrice": "1174.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "423.00",
+          "maxPrice": "423.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "423.00",
+          "maxPrice": "423.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "912.00",
+          "maxPrice": "1075.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "876.00",
+          "maxPrice": "991.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "360.00",
+          "maxPrice": "402.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "360.00",
+          "maxPrice": "402.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "774.00",
+          "maxPrice": "934.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "820.00",
+          "maxPrice": "1110.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "460.00",
+          "maxPrice": "460.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "409.00",
+          "maxPrice": "451.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "409.00",
+          "maxPrice": "550.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "446.00",
+          "maxPrice": "446.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "446.00",
+          "maxPrice": "446.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "422.00",
+          "maxPrice": "464.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "422.00",
+          "maxPrice": "562.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "199.00",
+          "maxPrice": "199.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Bad, WC, 1 Schlafraum",
+      "description": "Doppelzimmer \"Economy\" - günstiges Zimmer im herzhaften Tiroler Stil mit viel Holz. Doppelbett und Sitzcouch oder 2 Sessel, Badezimmer mit Badewanne, WC, Bidet, Waschbecken und großem Spiegel, Föhn und Kosmetikspiegel. Flat-Screen Kabel TV, Telefon, Radio, Safe und Balkon nach Süden.Gratis WiFi.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer Economy",
+          "description": "Nettes Zimmer im herzhaften Tiroler Stil mit viel Kirschholz. Ca. 25 - 29 m², Doppelbett und 2 Sesseln mit Tisch, Telefon, Flat- Screen Kabel TV, Safe, Radio, Balkon nach Süden. Badezimmer mit Bad, Waschbecken, WC und Bidet. Gratis WiFi. ",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Bergweihnacht 5 ÜN",
+          "description": "Highlight des Jahres beim Romantischen Advent in der Olympiaregion Seefeld.\n* 5 Übernachtungen mit All-Inclusive Arrangement\n* am 13.12. - Sektempfang im Casino, Konzert Ursprung Buam im Kurpark\n* am 14.12. - Konzert \"4 Voices of Musical Christmas\" in der WM-Halle\n* am 15.12. - Weihnachtsgala mit \"Kasteruter Spatzen\" in der WM-Halle\n",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/9c1f7c49-7312-47b2-a9a4-8b3206dd664d/99/image.jpg",
+              "caption": "Weihnachten"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Advent-Tage",
+          "description": "Romantischer Advent in Seefeld!\n* 3 Übernachtungen (Do-So) mit All-Inclusive Arrangement\n* 1x abendliche Fackelwanderung mit Glühweinstopp oder 1x Winterwanderung durch die romantische Schneelandschaft\n* 1x wohltuende und entspannende Aromaölmassage (ca. 50min)\n* Seefelder Adventmarkt direkt in der Fußgängerzone\n* einen Eintritt in das Krumers day Spa mit über 2.500m² gleich gegenüber",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/c5a8ef66-a9e3-4257-870d-fa72cc1233f3/99/image.jpg",
+              "caption": "Advent"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Karwendelhof-Tage",
+          "description": [
+            "Karwendelhof-Tage - Erholung pur! \n* 3 Übernachtungen mit All-Inclusive Arrangement (Do-So)\n* 1 Flasche Prosecco am Zimmer zur Begrüßung\n* 1x romantische Kutschenfahrt (Schlittenfahrt) um den Seefelder Wildsee\n* 1x Langschläferfrühstück ans Bett mit einem Glas Prosecco\n* kostenloser Upgrade in die nächsthöhere Kategorie bei Verfügbarkeit",
+            "Gönnen Sie sich eine kurze Auszeit! Karwendelhof- Tage inklusive:\n*3 Übernachtungen (Do-So) mit All- Inklusive- Arrangement\n*1 Flasche Prosecco bei der Anreise am Zimmer\n*1 romantische Kutschenfahrt rund um den Seefelder Wildsee\n*1 entspannende Ganzkörpermassage"
+          ],
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/b56a5c5e-7866-46fa-82fd-078a563fbc9d/99/image.jpg",
+              "caption": "Karwendelhof"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Verwöhnpaket für Sie und Ihn",
+          "description": [
+            "Verwöhnung und Entspannung für Geist und Seele!\n* 7 Übernachtungen mit All-Inklusive Arrangement\n* 1x \"Höchste Flexibilität\"- Ganzkörpermassage ganz nach Ihren Wünschen (ca. 50min)\n* 1x Lymphdrainage zur Tiefenentspannung (ca. 25min)\n* \"Starke Kombination\" Spa Maniküre und Pediküre (ca. 80min)\nund 1x Day Spa Eintritt in das Krumers Day Spa mit über 2.500 m² gleich gegenüber\n",
+            "Verwöhnung und Entspannung für Geist und Seele!\n* 7 Übernachtungen mit All-Inclusive Arrangement\n* 1x \"Höchste Flexibilität\"- Ganzkörpermassage ganz nach Ihren Wünschen (ca. 50min)\n* 1x Lymphdrainage zur Tiefenentspannung (ca. 25min)\n* \"Starke Kombination\" Spa Maniküre und Pediküre (ca. 80min)\nund 1x Day Spa Eintritt in das Krumers Day Spa mit über 2.200 m² gleich gegenüber\n"
+          ],
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/4dd99682-10a9-4ea8-90ad-7ea115601103/99/image.jpg",
+              "caption": "Sie und Ihn"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Gesunder Rücken",
+          "description": [
+            "Für Ihren Rückengrad das Beste!\n* 7 Übernachtungen mit All-Inclusive Arrangement\n* wir beginnen mit einem Vitalcheck mit Wirbelsäulenscreening(ca.50Min)\n* 100 Minuten Guthaben für individuelle Massagebehandlungen,z.B.Moorpackung, Bindegewebemassage etc.\n* Re-Check zur Erfolgskontrolle am Ende der Woche (ca.30Min)\n* 1 Smovey Workout speziell für den Rücken\n* einen Trainingsplan für den Aufenthalt und für Zuhause\n* 1x Day Spa Eintritt in das Krumers Day Spa mit über 2.500m² gleich gegenüber",
+            "Für Ihren Rückengrad das Beste!\n* 7 Übernachtungen mit All-Inclusive Arrangement\n* wir beginnen mit einem Vitalcheck mit Wirbelsäulenscreening(ca.50Min)\n* 100 Minuten Guthaben für individuelle Massagebehandlungen,z.B.Moorpackung, Bindegewebemassage etc.\n* Re-Check zur Erfolgskontrolle am Ende der Woche (ca.30Min)\n* 1 Smovey Workout speziell für den Rücken\n* einen Trainingsplan für den Aufenthalt und für Zuhause\n* 1x Day Spa Eintritt in das Krumers Day Spa mit über 2.200m² gleich gegenüber"
+          ],
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/f66d4106-e765-4399-af45-a38c55dbc962/99/image.jpg",
+              "caption": "Rücken"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Kuscheltage",
+          "description": "Romantische Auszeit zu zweit - unsere Kuscheltage-Spezial:\n* 3 Übernachtungen mit All-Inclusive Arrangement (Do-So)\n* Obstteller und süße Überraschung zur Begrüßung am Zimmer\n* 1x Langschläferfrühstück ans Bett mit einem Glas Prosecco\n* eine Aromaölmassage zur Entspannung und Lockerung der Muskulatur - bei frühzeitiger Buchung auch in Paar-Behandlungsraum möglich (ca.50min)\n* 1x Krumers Day Spa mit über 2.500 m² großem Wellnessbereich gleich gegenüber.",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/11bd563f-25ef-4e38-a300-07bc5a265202/99/image.jpg",
+              "caption": "Kuscheltage"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Golf \u0026 Wellness",
+          "description": "Golf \u0026 Wellness mit All-Inclusive Arrangement:\n* 5 Übernachtungen mit All-Inclusive Arrangement\n* 1x Deluxe Golfermassage (Ganzkörpermassage ca. 50min)\nund Golf Alpin Card mit 3 Greenfees\n- inkludiert z.B. 1x Greenfee für den Golfclub Wildmoos mit 18 Loch, 1x Greenfee für den Golfclub Mieming mic 18 Loch und 2x Greenfee für den Golfclub Seefeld mit 9 Loch",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/1a54e5c2-2042-4f7e-9c3c-7bf1604ff1ee/99/image.jpg",
+              "caption": "Golf"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Wellness \u0026 Casino",
+          "description": "- 3 (DO-SO) mit All-Inklusiv\n- 1 Eintritt in das Casino Seefeld gleich nebenan inkl. Spieljetons im Wert von € 25,-\n- einen Tageseintritt in das Krumers Day Spa (mit 2.500m² gleich gegenüber)\n- 1 entspannende Teilmassage (ca. 25min)",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/14e392eb-9286-4e80-bb3a-3b22318aa4f5/99/image.jpg",
+              "caption": "Wellness\u0026Casino"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Winterwoche inklusive Skipass",
+          "description": "Skivergnügen auf dem Seefelder Plateau! \n* 7 Übernachtungen mit All-Inclusive Arrangement\n* 5 Tages Skipass \"Happy Ski Card\"\n* 1x Krumers Day Spa mit mehr als 2.500m² großem Wellnessbereich \n* 1x Sportmassage zur Lockerung der Muskulatur (ca.50 Min)",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/a022a789-2729-450a-bd24-4e225c97ff35/99/image.jpg",
+              "caption": "Ski Alpin"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Langlaufwoche mit Kurs",
+          "description": "Erleben Sie den Langlauf- Paradies Seefeld hautnah!\nUnsere Langlaufpauschale beinhaltet:\n*7 Übernachtungen mit all-inclusive Arrangement\n*3 mal 120 Minuten Langlaufkurs für Anfänger bzw. Fortgeschrittene, Skating oder Klassisch (Kursbeginn Montags)\n*1x 60 Minuten Privatunterricht\n*Loipengebühr für die ganze Woche sowie Regionalbusticket für alle Linienbusse in der Olympiaregion Seefeld\n*Ganzkörpermassage (ca.50 Min) inkl. Krumers Day Spa\n*Schneegarantie!",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/dd2c2c42-264a-4ed0-8ee5-463531a584d8/99/image.jpg",
+              "caption": "Langlauf"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Weihnachtswoche",
+          "description": "Familien-Weihnachtsfeier im Karwendelhof inklusive: \n*7 Übernachtungen mit all-inclusive-Arrangement\n*geführte Wanderung\n*1 Gutschein für eine Tasse Glühwein im Café Platzhirsch\n*Am 24.12. - große Familienweihnachtsfeier mit Fackelwanderung mit Adventsgeschichte zur Einstimmung, Weihnachts- Cocktail mit Hausmusik, Überraschung und Geschenke für alle Kinder und anschließendem 6-Gang-Gala- Menü\n*eine entspannende Aromaölmassage inkl. Krumers Day Spa\n*Seefelder Christkindlmarkt direkt im Zentrum",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/76f59964-73e5-4d18-8253-21eabec89bfd/99/image.jpg",
+              "caption": "Weihnachten"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Skiwoche mit Kurs",
+          "description": "Ski-Woche mit Kurs inklusive: \n* 7 Übernachtungen mit All- Inklusive- Arrangement\n* 5 Tage Skikurs für Anfänger oder für Fortgeschrittene\n* 1 Fitness- Massage für verspannte Muskeln (50 Min)",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "SILVESTER im \"Karwendelhof\"",
+          "description": "Jahresausklang im \"Karwendelhof\":\n*7 Übernachtungen mit all-inclusive-Arrangement\n*geführte Fackelwanderung mit Glühweinstopp\n*Glühwein-Gutschein im Café-Bistro \"Platzhirsch\"\n*am 31.12. Silvesterfeier mit Neujahrscocktail,exklusivem 6-Gängigem Gala-Dinner,Live-Musik und Tanz,Mitternachtsbuffet(all-inclusive-Angebot bis 18:00 Uhr gültig)\n*am 01.01.-Langschläferfrühstück bis 11Uhr mit Lachs \u0026 Sekt\n*Live-Übertragung des Neujahrskonzertes der Wiener Philharmoniker\n*Christkindlmarkt direkt vorm Hotel",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/83f513a6-cd83-46fa-a919-114783e384c7/99/image.jpg",
+              "caption": "Sivester"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Platzreifekurs",
+          "description": "Wir laden Sie ein, Ihren Platzreifekurs bei uns zu machen!Diese Pauschale beinhaltet:\n*7 Übernachtungen mit \"all inclusive\"-Arrangement\n*5 Tage Basistraining (Mo-Fr von 9 bis 11 Uhr)\n*3 Tage Platzreiufekurs (Mo,MI und Fr 14 - 15:30 Uhr)\ninkl. Bälle, Leihschläger und Benützung aller Übungsmöglichkeiten\n*Platzreifeprüfung nach Richtlinien des ÖGV\n*1 Golfermassage für Arme und Rücken nach einem aktiven Tag am Green (ca.25 Min)\n",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Firnwoche",
+          "description": "Genießen Sie einen Kurzaufenthalt in der besten Winterzeit:\n* 5 Übernachtungen mit All Inklusive Arrangement\n* 1 Flasche Prosecco ans Zimmer zur Begrüßung\n* 1 Winter- bzw. Fackelwanderung\n* 3 -Tage \"Happy Ski Card\" ",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/103a3ab3-e0a0-4b6a-97a5-6ffe3701704a/99/image.jpg",
+              "caption": "Winterspass"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Ostern",
+          "description": "Romantischer Kurzaufenthalt mit Kutschenfahrt\n* 3 Übernachtungen mit All-Inclusive Arrangement \n* eine Flasche Prosecco am Zimmer zur Begrüßung\n* 1x romantische Kutschenfahrt um den Seefelder Wildsee\n* eine kleine Osterüberraschung",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/cc6fcad4-0fa9-484c-ab29-9fcbb06dce30/99/image.jpg",
+              "caption": "Ostern"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Sonne, Schnee \u0026 Spa",
+          "description": "Romantische Stimmung und winterliches Ambiente inklusive!\n- 2 Übernachtungen mit All Inclusive- Arrangement, Aufenthalt zwischen SO und FR \n- eine Flasche Champagner am Zimmer zur Bergüßung\n- 1x Day Spa Eintritt in das Krumers Day Spa mit über 2.200m² gleich gegenüber(Reservierung vor der Anreise!)\n",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/8714cec6-b28e-4b04-bffe-7c2a09ff62f1/99/image.jpg",
+              "caption": "Sonne"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Kurzurlaub mit Ski \u0026 Wellness",
+          "description": "- 3 Übernachtungen mit All Inklusiv, Anreisetage Sonntag bis Freitag\n- 1x Eintritt in das Krumers Day Spa mit 2.200m² gleich gegenüber\n- 1,5 Tage Skipass",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Wohlfühltage zum Entspannen",
+          "description": "Gönnen Sie sich eine Auszeit! \n*7 Übernachtungen mit All Inklusive- Arrangement\n*1x wohltuende Teilkörpermassage (25 Min)\n*1x romantische Kutschenfahrt (ca.50 Min)\n*1x Fußreflexzonenmassage( ca. 25 Min)\n*Day Spa Eintritt ins Krumers Day Spa mit über 2.200 m² Wellnessbereich gleich gegenüber",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/ea2be0e6-290d-4de9-b1db-22867e0f2ae4/99/image.jpg",
+              "caption": "Spa Bereich"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Bergkristall-Fest (Pfingsten)",
+          "description": "* 3 Übernachtungen (Anreise am Do, Fr oder Sa) mit All- Inklusive Arrangement\n* Eintritt zum Bergkristall-Fest (3-Tage)\n     01.06.: Begrüßungsabend\n     02.06.: Konzert \"Hit auf Hit\"\n     03.06.: \"Nacht der Stars\"\n     04.06.: Radio U1 Frühschoppen",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Bergweihnacht 3 ÜN",
+          "description": "Highlight des Jahres beim Romantischen Advent in der Olympiaregion Seefeld.\n* 3 Übernachtungen mit All-Inclusive Arrangement\n* am 13.12. - Sektempfang im Casino, Konzert Ursprung Buam im Kurpark\n* am 14.12. - Konzert \"4 Voices of Musical Christmas\" in der WM-Halle\n* am 15.12. - Weihnachtsgala mit \"Kasteruter Spatzen\" in der WM-Halle\n",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/b5a53ba0-f1ed-4c42-8862-7b0fbc7ff9b9/99/image.jpg",
+              "caption": "Weihnachten"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "SILVESTER im Karwendelhof 5ÜN",
+          "description": "Jahresausklang im \"Karwendelhof\":\n*5 Übernachtungen mit all-inclusive-Arrangement\n*geführte Fackelwanderung mit Glühweinstopp\n*Glühwein-Gutschein im Café-Bistro \"Platzhirsch\"\n*am 31.12. Silvesterfeier mit Neujahrscocktail,exklusivem 6-Gängigem Gala-Dinner,Live-Musik und Tanz,Mitternachtsbuffet(all-inclusive-Angebot bis 18:00 Uhr gültig)\n*am 01.01.-Langschläferfrühstück bis 11Uhr mit Lachs \u0026 Sekt\n*Live-Übertragung des Neujahrskonzertes der Wiener Philharmoniker\n*Christkindlmarkt direkt vorm Hotel",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/ab6a6b0d-d8dd-4946-ae7c-7533f42fd4c9/99/image.jpg",
+              "caption": "Sivester"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Winterwo inkl. Ski, Doppelzimmer Economy",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "3 ÜN KWH- Tage Somme, Doppelzimmer Economy",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "4 ÜN KWH- Tage Somme, Doppelzimmer Economy",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Langlaufwoche mit Ku, Doppelzimmer Economy",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Golf \u0026 Wellness, Doppelzimmer Economy",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Verwöhnpaket, Doppelzimmer Economy",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "3 ÜN Casino, Doppelzimmer Economy",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "4 ÜN Casino, Doppelzimmer Economy",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "3 ÜN Kuscheltage, Doppelzimmer Economy",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "4 ÜN Kuscheltage, Doppelzimmer Economy",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "3 ÜN Kuscheltage, Doppelzimmer Economy",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "4 ÜN Kuscheltage, Doppelzimmer Economy",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "SS \u0026S, Doppelzimmer Economy",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "256.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "515.00",
+          "maxPrice": "515.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "355.00",
+          "maxPrice": "355.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "260.00",
+          "maxPrice": "363.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "603.00",
+          "maxPrice": "870.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "704.00",
+          "maxPrice": "704.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "321.00",
+          "maxPrice": "392.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "621.00",
+          "maxPrice": "763.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "310.00",
+          "maxPrice": "355.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "810.00",
+          "maxPrice": "810.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "776.00",
+          "maxPrice": "776.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "1090.00",
+          "maxPrice": "1090.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "1390.00",
+          "maxPrice": "1390.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "849.00",
+          "maxPrice": "849.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "480.00",
+          "maxPrice": "480.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "278.00",
+          "maxPrice": "278.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "303.00",
+          "maxPrice": "303.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "345.00",
+          "maxPrice": "345.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "280.00",
+          "maxPrice": "280.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "347.00",
+          "maxPrice": "347.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "1009.00",
+          "maxPrice": "1009.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "850.00",
+          "maxPrice": "850.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "267.00",
+          "maxPrice": "306.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "267.00",
+          "maxPrice": "306.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "776.00",
+          "maxPrice": "776.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "634.50",
+          "maxPrice": "763.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "645.00",
+          "maxPrice": "870.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "316.00",
+          "maxPrice": "355.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "316.00",
+          "maxPrice": "427.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "392.00",
+          "maxPrice": "392.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "392.00",
+          "maxPrice": "392.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "329.00",
+          "maxPrice": "368.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "329.00",
+          "maxPrice": "440.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "199.00",
+          "maxPrice": "199.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Bad, WC, 1 Schlafraum",
+      "description": "Doppelzimmer Standard mit Doppelbett und 2 Sessel oder kleinem Couch,ca. 27- 32m², Badezimmer mit Dusche oder Bad, Waschbecken, WC, Spiegel und Kosmetikspiegel,Föhn; \nFlat- Screen- Kabel - TV, Radio, Telefon, Safe, teilweise mit Mini- Kühlschrank und Balkon.Gratis WiFi.\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer Standard",
+          "description": "Unsere neuen Doppelzimmer Standard mit ca.30 m², Doppelbett/Springboxbetten und 2 Fauteuils, Erker mit großem Fenster mit dem Blick zur Rosshütte/Härmelekopf. Neuwertiges Badezimmer mit begehbarer Duschkabine, Waschbecken, WC. Föhn, Flat-Screen Kabel TV, Radio, Safe, Mini- Kühlschrank. Kein Balkon, dafür aber großer Fensterfront nach Süden. Kitchinette (nach Wunsch auch mit Geschirr und Kochgeschirr ausstattbar). ",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Bergweihnacht 5 ÜN",
+          "description": "Highlight des Jahres beim Romantischen Advent in der Olympiaregion Seefeld.\n* 5 Übernachtungen mit All-Inclusive Arrangement\n* am 13.12. - Sektempfang im Casino, Konzert Ursprung Buam im Kurpark\n* am 14.12. - Konzert \"4 Voices of Musical Christmas\" in der WM-Halle\n* am 15.12. - Weihnachtsgala mit \"Kasteruter Spatzen\" in der WM-Halle\n",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/3958141d-7327-4c81-a64c-6462e487b539/99/image.jpg",
+              "caption": "Bergweihnachten"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Advent-Tage",
+          "description": "Romantischer Advent in Seefeld!\n* 3 Übernachtungen (Do-So) mit All-Inclusive Arrangement\n* 1x abendliche Fackelwanderung mit Glühweinstopp oder 1x Winterwanderung durch die romantische Schneelandschaft\n* 1x wohltuende und entspannende Aromaölmassage (ca. 50min)\n* Seefelder Adventmarkt direkt in der Fußgängerzone\n* einen Eintritt in das Krumers day Spa mit über 2.500m² gleich gegenüber",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/714a31bc-0e1d-4eda-873d-08818b61a76d/99/image.jpg",
+              "caption": "Romatischer Advent"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Karwendelhof-Tage",
+          "description": "Karwendelhof-Tage - Erholung pur! \n* 3 Übernachtungen mit All-Inclusive Arrangement (Do-So)\n* 1 Flasche Prosecco am Zimmer zur Begrüßung\n* 1x romantische Kutschenfahrt (Schlittenfahrt) um den Seefelder Wildsee\n* 1x Langschläferfrühstück ans Bett mit einem Glas Prosecco\n* kostenloser Upgrade in die nächsthöhere Kategorie bei Verfügbarkeit",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/164003dc-1963-4d4a-9f9d-1e7c14d46693/99/image.jpg",
+              "caption": "Karwendelhof"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Verwöhnpaket für Sie und Ihn",
+          "description": [
+            "Verwöhnung und Entspannung für Geist und Seele!\n* 7 Übernachtungen mit All-Inclusive Arrangement\n* 1x \"Höchste Flexibilität\"- Ganzkörpermassage ganz nach Ihren Wünschen (ca. 50min)\n* 1x Lymphdrainage zur Tiefenentspannung (ca. 25min)\n* \"Starke Kombination\" Spa Maniküre und Pediküre (ca. 80min)\nund 1x Day Spa Eintritt in das Krumers Day Spa mit über 2.500 m² gleich gegenüber\n",
+            "Verwöhnung und Entspannung für Geist und Seele!\n* 7 Übernachtungen mit All-Inclusive Arrangement\n* 1x \"Höchste Flexibilität\"- Ganzkörpermassage ganz nach Ihren Wünschen (ca. 50min)\n* 1x Lymphdrainage zur Tiefenentspannung (ca. 25min)\n* \"Starke Kombination\" Spa Maniküre und Pediküre (ca. 80min)\nund 1x Day Spa Eintritt in das Krumers Day Spa mit über 2.200 m² gleich gegenüber\n"
+          ],
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/b2d70751-ddce-46ed-8ec2-b7cd67760b19/99/image.jpg",
+              "caption": "Für Sie und Ihn"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Gesunder Rücken",
+          "description": [
+            "Für Ihren Rückengrad das Beste!\n* 7 Übernachtungen mit All-Inclusive Arrangement\n* wir beginnen mit einem Vitalcheck mit Wirbelsäulenscreening(ca.50Min)\n* 100 Minuten Guthaben für individuelle Massagebehandlungen,z.B.Moorpackung, Bindegewebemassage etc.\n* Re-Check zur Erfolgskontrolle am Ende der Woche (ca.30Min)\n* 1 Smovey Workout speziell für den Rücken\n* einen Trainingsplan für den Aufenthalt und für Zuhause\n* 1x Day Spa Eintritt in das Krumers Day Spa mit über 2.200m² gleich gegenüber",
+            "Für Ihren Rückengrad das Beste!\n* 7 Übernachtungen mit All-Inklusive Arrangement\n* wir beginnen mit einem Vitalcheck mit Wirbelsäulenscreening(ca.50Min)\n* 100 Minuten Guthaben für individuelle Massagebehandlungen,z.B.Moorpackung, Bindegewebemassage etc.\n* Re-Check zur Erfolgskontrolle am Ende der Woche (ca.30Min)\n* 1 Smovey Workout speziell für den Rücken\n* einen Trainingsplan für den Aufenthalt und für Zuhause\n* 1x Day Spa Eintritt in das Krumers Day Spa mit über 2.500m² gleich gegenüber"
+          ],
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/5ae2984e-a520-46a8-9346-5d144ecdb250/99/image.jpg",
+              "caption": "Rücken"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Kuscheltage",
+          "description": "Romantische Auszeit zu zweit - unsere Kuscheltage-Spezial:\n* 3 Übernachtungen mit All-Inclusive Arrangement (Do-So)\n* Obstteller und süße Überraschung zur Begrüßung am Zimmer\n* 1x Langschläferfrühstück ans Bett mit einem Glas Prosecco\n* eine Aromaölmassage zur Entspannung und Lockerung der Muskulatur - bei frühzeitiger Buchung auch in Paar-Behandlungsraum möglich (ca.50min)\n* 1x Krumers Day Spa mit über 2.500 m² großem Wellnessbereich gleich gegenüber.",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/3f8233df-ea76-4cc4-8087-5123b0ea5e88/99/image.jpg",
+              "caption": "Kuscheltage"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Golf \u0026 Wellness",
+          "description": "Golf \u0026 Wellness mit All-Inclusive Arrangement:\n* 5 Übernachtungen mit All-Inclusive Arrangement\n* 1x Deluxe Golfermassage (Ganzkörpermassage ca. 50min)\nund Golf Alpin Card mit 3 Greenfees\n- inkludiert z.B. 1x Greenfee für den Golfclub Wildmoos mit 18 Loch, 1x Greenfee für den Golfclub Mieming mic 18 Loch und 2x Greenfee für den Golfclub Seefeld mit 9 Loch",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/0fa23916-0705-43c8-924f-bd286533a101/99/image.jpg",
+              "caption": "Golf"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Wellness \u0026 Casino",
+          "description": "- 3 (DO-SO) mit All-Inklusiv\n- 1 Eintritt in das Casino Seefeld gleich nebenan inkl. Spieljetons im Wert von € 25,-\n- einen Tageseintritt in das Krumers Day Spa (mit 2.500m² gleich gegenüber)\n- 1 entspannende Teilmassage (ca. 25min)",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/3560f824-5ee6-4a70-a07a-187f650e0f3a/99/image.jpg",
+              "caption": "Wellness\u0026Casino"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Winterwoche inkl. Skipass",
+          "description": "Skivergnügen auf dem Seefelder Plateau! \n* 7 Übernachtungen mit All-Inclusive Arrangement\n* 5 Tages Skipass \"Happy Ski Card\"\n* 1x Krumers Day Spa mit mehr als 2.500m² großem Wellnessbereich \n* 1x Sportmassage zur Lockerung der Muskulatur (ca.50 Min)",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/f0e65423-e47d-4aca-b955-c9fa4a2a03d7/99/image.jpg",
+              "caption": "Ski Alpin"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Langlaufwoche mit Kurs",
+          "description": "Erleben Sie den Langlauf- Paradies Seefeld hautnah!\nUnsere Langlaufpauschale beinhaltet:\n*7 Übernachtungen mit all-inclusive Arrangement\n*3 mal 120 Minuten Langlaufkurs für Anfänger bzw. Fortgeschrittene, Skating oder Klassisch (Kursbeginn Montags)\n*1x 60 Minuten Privatunterricht\n*Loipengebühr für die ganze Woche sowie Regionalbusticket für alle Linienbusse in der Olympiaregion Seefeld\n*Ganzkörpermassage (ca.50 Min) inkl. Krumers Day Spa\n*Schneegarantie!",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/f6ad3f87-39bf-42f0-8932-91536ce193c4/99/image.jpg",
+              "caption": "Langlauf"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Weihnachtswoche",
+          "description": "Familien-Weihnachtsfeier im Karwendelhof inklusive: \n*7 Übernachtungen mit all-inclusive-Arrangement\n*geführte Wanderung\n*1 Gutschein für eine Tasse Glühwein im Café Platzhirsch\n*Am 24.12. - große Familienweihnachtsfeier mit Fackelwanderung mit Adventsgeschichte zur Einstimmung, Weihnachts- Cocktail mit Hausmusik, Überraschung und Geschenke für alle Kinder und anschließendem 6-Gang-Gala- Menü\n*eine entspannende Aromaölmassage inkl. Krumers Day Spa\n*Seefelder Christkindlmarkt direkt im Zentrum",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/9f5e47b4-7575-4a48-a956-795438bfcb77/99/image.jpg",
+              "caption": "Weihnachtswoche"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "SILVESTER im \"Karwendelhof\"",
+          "description": "Jahresausklang im \"Karwendelhof\":\n*7 Übernachtungen mit all-inclusive-Arrangement\n*geführte Fackelwanderung mit Glühweinstopp\n*Glühwein-Gutschein im Café-Bistro \"Platzhirsch\"\n*am 31.12. Silvesterfeier mit Neujahrscocktail,exklusivem 6-Gängigem Gala-Dinner,Live-Musik und Tanz,Mitternachtsbuffet(all-inclusive-Angebot bis 18:00 Uhr gültig)\n*am 01.01.-Langschläferfrühstück bis 11Uhr mit Lachs \u0026 Sekt\n*Live-Übertragung des Neujahrskonzertes der Wiener Philharmoniker\n*Christkindlmarkt direkt vorm Hotel",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/93ae0298-2326-4ed6-b0f3-e00e7edf2fb8/99/image.jpg",
+              "caption": "Sivester"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Silvester",
+          "description": "Feiern Sie das schönste Fest des Jahres mit uns! \n*7Übernachtungen mit All Inklusive- Arrangement\n*geführte Fackelwanderung mit Glühweinstopp\n*Glühwein-Gutschein\n*Silvesterfeier am 31.12.2015: Neujahrscocktail,exklusiver 6-Gängiger Gala-Dinner,Live-Musik,Mitternachtsbuffet (Getränke an diesem Abend sind bis 18:30 Uhr inkludiert!)\n*Langschläferfrühstück am 01.01.2016 bis 11:00 Uhr\n*Life- Übertragung des Neujahrskonzertes der Wiener Philharmoniker auf dem großen Bildschirm\n*Neujahrsmarkt bis 6.01.",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/aea4c008-d1e5-4226-98a9-59006d1f7b74/99/image.jpg",
+              "caption": "Silvester"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Last Minute- Kurzurlaub",
+          "description": "3 Übernachtungen mit All-Inclusive Arrangement\n* 1x Flasche Champagner und Obstteller zur Begrüßung am Zimmer\n* 1x Day Spa Eintritt in das Krumers Day Spa mit 2.200m² Wellnessbereich direkt gegenüber (bitte vorher reservieren)",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/5e3fffd3-5fa9-407b-b94b-ff801ca9d72b/99/image.jpg",
+              "caption": "Last Minute"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Firnwoche",
+          "description": "Genießen Sie einen Kurzaufenthalt in der besten Winterzeit:\n* 5 Übernachtungen mit All Inklusive Arrangement\n* 1 Flasche Prosecco ans Zimmer zur Begrüßung\n* 1 Winter- bzw. Fackelwanderung\n* 3 Tage Happy Ski Card",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/441151b6-9d33-4035-b8d6-c6c3bf5dbfd7/99/image.jpg",
+              "caption": "Winter"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "\"Be my Valentine\"- Kurzaufenthalt",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/b9e2397c-4950-4961-b438-e25f8b11ce12/99/image.jpg",
+              "caption": "Valentin"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Ostern",
+          "description": "Romantischer Kurzaufenthalt mit Kutschenfahrt\n* 3 Übernachtungen mit All-Inclusive Arrangement (Do-So oder Fr-Mo)\n* eine Flasche Champagner am Zimmer zur Begrüßung\n* Oster- Gala- Dinner am Sonntag\n* 1x romantische Kutschenfahrt um den Seefelder Wildsee\n* eine kleine Osterüberraschung",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/3f4663b5-06c6-479b-b15c-61392822af4e/99/image.jpg",
+              "caption": "Ostern"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Sonne, Schnee \u0026 Spa",
+          "description": "Romantische Stimmung und winterliches Ambiente inklusive!\n- 2 Übernachtungen mit All Inclusive- Arrangement, Aufenthalt zwischen SO und FR \n- eine Flasche Champagner am Zimmer zur Bergüßung\n- 1x Day Spa Eintritt in das Krumers Day Spa mit über 2.200m² gleich gegenüber\n",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/8ea8bbc2-806a-45bc-9772-42aa206311b4/99/image.jpg",
+              "caption": "Sonne"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Kurzurlaub mit Ski \u0026 Wellness",
+          "description": "- 3 Übernachtungen mit All Inklusiv, Anreisetage Sonntag bis Freitag\n- 1x Eintritt in das Krumers Day Spa mit 2.200m² gleich gegenüber\n- 1,5 Tage Skipass",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Bergkristall-Fest (Pfingsten)",
+          "description": "* 3 Übernachtungen (Anreise am Do, Fr oder Sa) mit All- Inklusive Arrangement\n* Eintritt zum Bergkristall-Fest (3-Tage)\n     01.06.: Begrüßungsabend\n     02.06.: Konzert \"Hit auf Hit\"\n     03.06.: \"Nacht der Stars\"\n     04.06.: Radio U1 Frühschoppen",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Skiwoche mit Kurs",
+          "description": "Ski-Woche mit Kurs inklusive: \n* 7 Übernachtungen mit All- Inklusive- Arrangement\n* 5 Tage Skikurs für Anfänger oder für Fortgeschrittene\n* 1 Fitness- Massage für verspannte Muskeln (50 Min)",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/edb79389-1b2c-4f05-8828-0e4e793f5a1c/99/image.jpg",
+              "caption": "Ski Alpin"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Bergweihnacht 3 ÜN",
+          "description": "Highlight des Jahres beim Romantischen Advent in der Olympiaregion Seefeld.\n* 3 Übernachtungen mit All-Inclusive Arrangement\n* am 13.12. - Sektempfang im Casino, Konzert Ursprung Buam im Kurpark\n* am 14.12. - Konzert \"4 Voices of Musical Christmas\" in der WM-Halle\n* am 15.12. - Weihnachtsgala mit \"Kasteruter Spatzen\" in der WM-Halle\n",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/01b5fd20-4e61-44db-9a03-c1a3b1553bb9/99/image.jpg",
+              "caption": "Bergweihnachten"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "SILVESTER im Karwendelhof 5ÜN",
+          "description": "Jahresausklang im \"Karwendelhof\":\n*5 Übernachtungen mit all-inclusive-Arrangement\n*geführte Fackelwanderung mit Glühweinstopp\n*Glühwein-Gutschein im Café-Bistro \"Platzhirsch\"\n*am 31.12. Silvesterfeier mit Neujahrscocktail,exklusivem 6-Gängigem Gala-Dinner,Live-Musik und Tanz,Mitternachtsbuffet(all-inclusive-Angebot bis 18:00 Uhr gültig)\n*am 01.01.-Langschläferfrühstück bis 11Uhr mit Lachs \u0026 Sekt\n*Live-Übertragung des Neujahrskonzertes der Wiener Philharmoniker\n*Christkindlmarkt direkt vorm Hotel",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/019a8c97-c887-4117-9822-c5cfa161dffc/99/image.jpg",
+              "caption": "Sivester"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "3 ÜN KWH- Tage Winte, Doppelzimmer Standard",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "4ÜN KWH- Tage Winter, Doppelzimmer Standard",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Winterwoche inkl. Sk, Doppelzimmer Standard",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "3 ÜN KWH- Tage Somme, Doppelzimmer Standard",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "4 ÜN KWH- Tage Somme, Doppelzimmer Standard",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Langlaufwoche mit Ku, Doppelzimmer Standard",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Golf \u0026 Wellness, Doppelzimmer Standard",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Verwöhnpaket, Doppelzimmer Standard",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "3 ÜN Casino, Doppelzimmer Standard",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "4 ÜN Casino, Doppelzimmer Standard",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "3 ÜN Kuscheltage, Doppelzimmer Standard",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "4 ÜN Kuscheltage, Doppelzimmer Standard",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "3 ÜN Kuscheltage, Doppelzimmer Standard",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "4 ÜN Kuscheltage, Doppelzimmer Standard",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "SS \u0026S, Doppelzimmer Standard",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "260.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "560.00",
+          "maxPrice": "560.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "382.00",
+          "maxPrice": "382.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "299.00",
+          "maxPrice": "393.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "702.00",
+          "maxPrice": "957.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "774.00",
+          "maxPrice": "774.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "360.00",
+          "maxPrice": "419.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "679.00",
+          "maxPrice": "825.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "349.00",
+          "maxPrice": "391.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "860.00",
+          "maxPrice": "860.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "826.00",
+          "maxPrice": "826.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "1172.00",
+          "maxPrice": "1172.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "1480.00",
+          "maxPrice": "1480.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "1278.00",
+          "maxPrice": "1278.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "384.00",
+          "maxPrice": "384.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "495.00",
+          "maxPrice": "495.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "136.00",
+          "maxPrice": "136.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "291.00",
+          "maxPrice": "291.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "313.00",
+          "maxPrice": "313.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "360.00",
+          "maxPrice": "360.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "315.00",
+          "maxPrice": "315.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "107.00",
+          "maxPrice": "107.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "374.00",
+          "maxPrice": "374.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "1074.00",
+          "maxPrice": "1074.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "381.00",
+          "maxPrice": "381.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "381.00",
+          "maxPrice": "381.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "837.00",
+          "maxPrice": "837.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "306.00",
+          "maxPrice": "342.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "306.00",
+          "maxPrice": "342.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "801.00",
+          "maxPrice": "806.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "693.00",
+          "maxPrice": "825.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "718.00",
+          "maxPrice": "957.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "355.00",
+          "maxPrice": "391.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "355.00",
+          "maxPrice": "473.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "419.00",
+          "maxPrice": "419.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "419.00",
+          "maxPrice": "419.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "368.00",
+          "maxPrice": "404.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "368.00",
+          "maxPrice": "486.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "199.00",
+          "maxPrice": "199.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Museum"
+  ],
+  "name": "Einblicke in die Olympische Geschichte Seefeld",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Rathauspassage",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043)6641216621"
+  },
+  "description": [
+    "Ausstellung zur Olympischen Geschichte Seefelds",
+    "Bis 17.9.2014 und dann ab 7.1. bis 18.3.15 immer mittwochs, von 15.00 bis 17.00 Uhr! "
+  ],
+  "url": [
+    "http://"
+  ]
+}

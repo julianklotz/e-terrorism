@@ -1,0 +1,28 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hostel"
+  ],
+  "url": [
+    "http://www.haemmermoosalm.at"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Hämmermoosalm",
+    "streetAddress": "Gaistal",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 676 3337000",
+    "faxNumber": "(0043) 5212 333715",
+    "email": "sonja@haemmermoosalm.at",
+    "url": "http://www.haemmermoosalm.at"
+  },
+  "name": "Hämmermoosalm",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3710939341434",
+    "longitude": "11.0822439193726"
+  },
+  "currenciesAccepted": "EUR"
+}

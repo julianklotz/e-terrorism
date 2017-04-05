@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure"
+  ],
+  "name": "beim Infobüro",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3117999",
+    "longitude": "11.1456724"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Infobüro Mösern",
+    "streetAddress": "Möserer Dorfstraße 11",
+    "addressLocality": "Mösern/Buchen",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "+4350880520",
+    "email": "info.moesern@seefeld.com",
+    "url": "http://www.seefeld.com"
+  },
+  "description": [
+    "für PKW (mit Parkscheibe)",
+    "für PKW (mit Parkscheibe)"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9e61b12d-3532-4cfa-ae07-449b58e1b591/99/image.jpg",
+      "caption": "beim Infobüro"
+    }
+  ]
+}

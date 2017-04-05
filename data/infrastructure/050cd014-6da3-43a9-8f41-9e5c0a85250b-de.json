@@ -1,0 +1,33 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CafeOrCoffeeShop"
+  ],
+  "name": "Reither Brot, Bäckerei Hueber",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3307154430714",
+    "longitude": "11.187858581543"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Reither Brot",
+    "streetAddress": "Münchner Str. 35",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2059",
+    "email": "baeckerei-hueber@aon.at",
+    "url": "http://www.reither-brot.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5a74c135-a7ba-407d-8437-73ca04b28b8e/99/image.jpg",
+      "caption": "Reither Brot Filiale Seefeld "
+    }
+  ],
+  "url": [
+    "http://www.reither-brot.at"
+  ]
+}

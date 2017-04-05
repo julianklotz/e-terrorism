@@ -1,0 +1,42 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure",
+    "LocalBusiness"
+  ],
+  "name": "Karwendel Camp, Camping,",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3848104990368",
+    "longitude": "11.2628424167633"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Karwendelcamp",
+    "streetAddress": "Oberdorf 390",
+    "addressLocality": "Scharnitz",
+    "postalCode": "6108",
+    "addressCountry": "AT",
+    "telephone": "+4369910109009 ",
+    "faxNumber": "+4352135119",
+    "email": "office@karwendelcamp.at",
+    "url": "http://www.karwendelcamp.at"
+  },
+  "description": "Brand 390\nTel. +43(0)699 10109009\nFAX +43(0)5213 5119\ninfo@karwendelcamp.at\nwww.karwendelcamp.at",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8011d956-16ff-44fa-8d7a-e53dd413b9ba/99/image.jpg",
+      "caption": "Karwendelcamp"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4f02a185-5996-4dd0-993b-562380694eed/99/image.jpg",
+      "caption": "Karwendelcamp Sommer"
+    }
+  ],
+  "url": [
+    "http://www.karwendelcamp.at",
+    "http://www.brandlift.at"
+  ]
+}

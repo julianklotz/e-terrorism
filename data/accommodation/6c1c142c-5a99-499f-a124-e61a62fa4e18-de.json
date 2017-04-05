@@ -1,0 +1,92 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://web.deskline.net/seefeld/de/show_accommodation/SEE/6c1c142c-5a99-499f-a124-e61a62fa4e18/landhaus_hahn",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Landhaus Hahn",
+    "streetAddress": "Panoramaweg 710",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 4288",
+    "faxNumber": "(0043) 5212 4288",
+    "email": "ekhahn@aon.at"
+  },
+  "name": "Landhaus Hahn",
+  "description": [
+    "Unser Haus ist modern und dennoch voll unverkennbarer österreichischer Gemütlichkeit und traditioneller Tiroler Gastlichkeit. Auf einem Wiesenhügel gelegen, fern vom Verkehr und nur zehn Gehminuten vom Zentrum Seefelds.",
+    "Kaffee/Tee-Küche, Sauna, Gaststüberl, Autoplatz vor dem Haus\nKeine Zusatzkosten",
+    "Vom Zentrum die Münchnerstraße entlang, nach der Feuerwehr links abbiegen in die Geigenbühelstraße - über die Brücke und danach den Panoramaweg hinauf (Nr.70)"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/315c11de-f7b6-4d36-9362-26b933ddbf67/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/606f4526-a1cd-44fd-babc-169855227376/99/image.jpg",
+      "caption": "Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3374921729617",
+    "longitude": "11.1897575855255"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche und Bad, WC",
+      "description": "Geräumig, elegant, separierter Schrankraum, Balkon, große Badezimmer",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Dusche, Bad, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 1 Schlafraum",
+      "description": "Wohnraum mit Küche, großes Schlafzimmer mit Schrankraum und Badezimmer, Südbalkon, Autoplatz",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/1 Schlafraum/Dusche, Bad, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure"
+  ],
+  "name": "Taxi Haslwanter",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3287302491459",
+    "longitude": "11.189124584198"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Taxi Haslwanter",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2267",
+    "email": "hhaslwanter@live.com",
+    "url": "http://www.taxi-seefeld.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/78b23a92-19df-4b8d-b951-c2cc16071546/99/image.jpg",
+      "caption": "Taxi Haslwanter"
+    }
+  ],
+  "url": [
+    "http://www.taxi-seefeld.at"
+  ]
+}

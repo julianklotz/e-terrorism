@@ -1,0 +1,1536 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://www.parkhotel-seefeld.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Parkhotel",
+    "streetAddress": "Riehlweg  404",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "0043 5212 24840",
+    "faxNumber": "(0043) 5212 2484 6",
+    "email": "office@parkhotel-seefeld.at",
+    "url": "http://www.parkhotel-seefeld.at"
+  },
+  "name": "Parkhotel",
+  "description": [
+    "Grüß Gott und herzlich willkommen bei uns im Parkhotel in Seefeld in Tirol. Genießen Sie mit Ihrer Familie und Freunden, gerne auch mit Ihrem Vierbeiner, Ihren wohlverdienten Urlaub in unserem 4* Hotel.\n\nUmgeben vom Karwendel- und Wettersteingebirge, ist unser Parkhotel der ideale Ausgangspunkt für jegliche Sommer- und Winteraktivitäten. Die Fußgängerzone Seefeld, der Bahnhof und Busterminal sind nur 300 Meter vom Parkhotel entfernt. Unser Hotel mit Tiroler Charme verfügt über einen gemütlichen Aufenthaltsraum, einer Parkanlage, einer Sonnenterrasse und einer Kaminbar, an der man den Abend mit Freunden ausklingen lassen kann.\n\nSammeln Sie neue Energie und tanken Sie Kraft in unserer Oase der Ruhe und Entspannung. Unser Hallenbad mit Gegenstromanlage, der Wellnessbereich und der Fitnessraum setzen Ihre verborgene Lebensenergie frei. Unsere 39 großzügigen Zimmer sind in einem angenehmen Farbambiente, liebevoll und hell eingerichtet und bieten Ihnen die perfekte Rückzugsoase für Zweisamkeit und Entspannung in Ihrem Urlaub in Seefeld.\n\nAuch der kulinarische Genuss kommt bei uns im Parkhotel in Seefeld nicht zu kurz. Starten Sie den Tag mit einem ausgewogenen und energiereichen Frühstück auf unserer Sonnenterrasse. Nach einem ereignisreichen Ski- oder Wandertag erwarten wir Sie nachmittags mit hausgemachten Kuchen, Kaffee und Tee. Lassen Sie sich abends mit einem 5-Gang-Wahlmenü, in gemütlichem Ambiente, kulinarisch verwöhnen.\n\nIn den Sommermonaten ist die Olympiaregion Seefeld ein wahres Wander- und Mountainbikeparadies. Zahlreiche Spazier-, Wander- und Mountainbikewege starten in unmittelbarer Nähe von unserem Parkhotel. Unsere golfbegeisterten Gäste können sich am 9-Loch oder 18-Loch-Golfplatz austoben. Nach einem aktiven Urlaubstag bietet Ihnen das Parkhotel eine herrliche Liegewiese mit Liegestühlen, von wo aus man beruhigt seine Kinder beim Spielen am großen Kinderspielplatz zuschauen kann.\n\nIm Winter erwarten Sie in der Olympiaregion Seefeld 271 km pures Langlaufvergnügen, Pistenspaß für die ganze Familie und rund 143 km romantische Winterwanderwege. Das Parkhotel befindet sich nur 10 Gehminuten vom Loipeneinstieg entfernt. Bequem können Sie die Loipen, das Familienparadies Bergbahnen Rosshütte und die Gschwandtkopflifte auch mit dem kostenlosen Ski- und Dorfbus erreichen, für welchen sich die Haltestelle nur 5 Gehminuten entfernt befindet.\n\nDie Familien Told und Jansen, samt Team, freuen sich Sie bald im Parkhotel in Seefeld verwöhnen zu dürfen!",
+    "Garage € 9,-\nHund € 15,-\n\nFrei: Gepäckabholung, Transfer vom/zum Bahnhof, Benützung von Hallenbad mit Gegenstromanlage, Sauna, Dampfbad, Infrarotkabine, Kneipp, Fitnessraum, hausgemachter Kuchen am Nachmittag, Liegestühle auf den Balkonen bzw. Terrasse u. Liegewiese",
+    "Check-In ab 14.00 Uhr\nCheck-Out bis 10.00 Uhr\nAn der Bahnlinie Richtung Norden - vom Bahnhof 300 Meter."
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "reviewCount": "448"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8f66beb2-d997-4c4b-b465-4ae2a685fe75/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/85481bb8-b5ed-43c6-97a3-1c7ec3f909bd/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a6dacbe8-d29c-4ee9-9706-58805b0785ea/99/image.jpg",
+      "caption": "Aussenbereich Hallenbad"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7b7b9ce6-5382-4dca-b98f-d42622773222/99/image.jpg",
+      "caption": "Rezeption"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a9289253-3295-472c-9322-f08e5c4f3666/99/image.jpg",
+      "caption": "Buffetbereich"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/84ca65db-6e00-4d20-ad7a-e4d359e7d964/99/image.jpg",
+      "caption": "Speisesaal"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/17b5b4f6-5385-486c-8039-4e5cd6e6c2f1/99/image.jpg",
+      "caption": "Ruhebereich"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b911cbc2-4e80-4ace-a5f6-4f9412b2a4fd/99/image.jpg",
+      "caption": "Kaminbar"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1fc94403-add1-4a89-826a-7c9f974d6743/99/image.jpg",
+      "caption": "Hallenbad"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9b0d2a8a-b843-41e3-9447-533e82e2c631/99/image.jpg",
+      "caption": "Hotelhalle"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8f5ba99d-61fb-43e1-83bf-56e296a5c90d/99/image.jpg",
+      "caption": "Hotel Winterabend"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e34d97ad-30b0-4769-9dde-10d460a8a14a/99/image.jpg",
+      "caption": "Stube"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a08cad17-9122-48a7-93e1-cf4c9ab2e4b7/99/image.jpg",
+      "caption": "Ecke"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.331566217626",
+    "longitude": "11.1895966529846"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Zweibettzimmer, Bad, WC, gartenseitig",
+      "description": "Gemütliche Zimmer mit Balkon und Gartenblick im Landhausstil, Kabel-TV, Radio, Telefon mit Internetanschluss, Bad mit Haarföhn und Kosmetikspiegel.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer \"Landhaus\", Bad/WC/Balkon",
+          "description": "Das Zimmer befindet sich im Nebenhaus, 20 Meter durch die Gartenanlage.\nZimmerausstattung: Balkon, Aussicht , TV, Telefon, Radio, Kabelkanäle, Flachbild-TV,W-LAN, Safe, Sitzecke, Heizung, Teppichboden, Badewanne od. Dusche, Haartrockner, Bademantel, Kostenfreie Pflegeprodukte, WC, Badezimmer, Hausschuhe, Weckservice, Wecker ",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Bergwanderwochen",
+          "description": "Pauschalpreis für 7 Tage Aufenthalt mit allen Parkhotelleistungen\nZusätzlich im Preis enthalten sind:\n* 2 geführte Wanderungen in der Olympiaregion mit Verpflegung\n* eine freie Fahrt mit einer der Seefelder Bergbahnen\n* eine Flasche österreichischen Rotwein pro Zimmer\n* kostenlose Nutzung des Seefelder Dorfbusses",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/4af7e645-2d26-4c4e-80ec-4db361c43afa/99/image.jpg",
+              "caption": "Bergwanderwochen"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Schnuppertage",
+          "description": "3 Übernachtungen inklusive der erweiterten Genusspension\n  bei Anreis ein Glas Prosecco auf unserer Sonnenterrasse\n1 Teilmassage nach Ihrer Wahl \n  gemeinsames Sportprogramm zB.Nordic Walking,Mountenbike,Wandern\nFrei Benützung unseres Hallenbades 6x12m, sowie der Wellnessoase mit frischem Obst, Tee \u0026 Saftbar",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Langlaufvergnügen pur ...ab 3 Tage im Landhaus",
+          "description": "Zimmerausstattung:  Balkon, Aussicht , TV, Telefon, Radio, Kabelkanäle, Flachbild-TV, Safe, Sitzecke, Heizung, Teppichboden, Badewanne, Haartrockner, Bademantel, Kostenfreie Pflegeprodukte, WC, Badezimmer, Hausschuhe, Weckservice, Wecker \n\n ",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "70.00",
+          "maxPrice": "86.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "270.00",
+          "maxPrice": "270.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Einzelzimmer, Bad, WC, gartenseitig",
+      "description": "Gemütliche Zimmer mit Balkon und Gartenblick im Landhausstil, Safe, Kabel-TV, Radio, Telefon mit Internetanschluss, Bad mit Haarföhn und Kosmetikspiegel.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Einzelzimmer \"Hocheder\"  Bad/WC/Balko",
+          "description": "Golftage im Parkhotel\n3 Übernachtungen und 4 Tage geniesen im Einzelzimmer \"Hocheder\"\ninkl. allen Parkhotelleistungen sowie\n* Zur Begrüßung ein Glas Sekt auf der Sonnenterrasse\n* 2 Greenfees am Golfplatz Wildmoos od. Seefeld od.Garmisch(Montag bis Freitag) \n* eine Wellnesstasche mit einem kuscheligen Bademantel, Pantoffel, Handtuch\n(während des Aufenthaltes)\n* \"Neu\" kostenlose Benützung des Whirlpool´s im Freien\n* Kostenlose Benützung unseres Hallenbades 12x6m u.einer Wassertemp.29-30°",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Bergwanderwochen",
+          "description": "Pauschalpreis für 7 Tage Aufenthalt mit allen Parkhotelleistungen\nZusätzlich im Preis enthalten sind:\n* 2 geführte Wanderungen in der Olympiaregion mit Verpflegung\n* eine freie Fahrt mit einer der Seefelder Bergbahnen\n* eine Flasche österreichischen Rotwein pro Zimmer\n* kostenlose Nutzung des Seefelder Dorfbusses",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/3221aea5-1210-4faf-b900-669f554ff72f/99/image.jpg",
+              "caption": "Bergwochen"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Weisse Wochen",
+          "description": "Pauschalpreis für 7 Tage im 4 Sternehotel \"Parkhotel\"\n*mit Benützung unseres Hallenbades und Wellnessanlage\n*mit W-Lan im gesamten Hotel (kostenlos)\n*Willkommenstrunk an der Kaminbar\n*Sektfrühstück am Sonntag\n*täglich Hausgemachter Kuchen,\n sowie Tiroler Suppen vom Buffet\n*Eisstockschießen mit \"Zielschnapserl\"(siehe Wochenprogramm)\n*Wöchentlicher Musikabend mit Tanz\n*Bademantel und Badehandtuch für den Aufenthalt\n*Fackelwanderung mit Glühwein am Lagerfeuer(siehe Wochenprogramm)",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "81.00",
+          "maxPrice": "113.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "728.00",
+          "maxPrice": "728.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Einzelzimmer, Bad, WC",
+      "description": "Gemütliche Zimmer mit Bergblick im Landhausstil, Safe, Kabel-TV, Radio, Telefon mit Internetanschluss, Bad mit Haarföhn und Kosmetikspiegel.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Einzelzimmer \"Wetterstein\" Bad/WC",
+          "description": "Zimmerausstattung: Gartenblick , TV, Telefon, Radio, Kabelkanäle, Flachbild-TV,    W-LAN,Safe, Sitzecke, Heizung, Teppichboden, Badewanne, Haartrockner, Bademantel, Kostenfreie Pflegeprodukte, WC, Badezimmer, Hausschuhe, Weckservice, Wecker ",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Adventzeit",
+          "description": "Romantische Adventtage im Parkhotel\n\n * 3 Übernachtungen im Doppelzimmer\n * Hausgemachte Weihnachtskekse zur Begrüßung am Zimmer\n * Eine Flasche Prosecco zur Begrüßung am Zimmer\n * Eine romantische Kutschfahrt in der Dämmerung\n * Frühstücksbuffet mit Vitalecke von 8.00 bis 10.30 Uhr\n * 5-gängiges-Abendmenü mit Wahlmöglichkeit u. Salatbuffet\n * 6-gängiges Überraschungsmenü \"Gaumenfreude\" \n * Kostenlose Benützung unserer Wellnessanlage\n ",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Langlaufvergnügen pur ...für 3 Tage",
+          "description": "Preis pro Person für 3 Tage Langlaufvergnügen\nder 1 Minute Ihres Urlaubes an\n\nauf bestens präparierten und markierten Loipen in der Olympiaregion über 270 km, die Loipengebühr ist für Sie inkludiert, täglich ein Powerriegel, beheizter Skiraum mit Schuhtrockner, Wachsraum, Kostenloser Wäscheservice für Ihre Langlauf-Funktionswäsche\n* inkl. Halbpension und aller Parkhotelleistungen*\n",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Langlaufvergnügen pur....für 5 Tage ",
+          "description": "Preis pro Person für 5 Tage Langlaufvergnügen\nder 1 Minute Ihres Urlaubes an\n\nauf bestens präparierten und markierten Loipen in der Olympiaregion über 270 km, die Loipengebühr ist für Sie inkludiert, täglich ein Powerriegel, beheizter Skiraum mit Schuhtrockner, Wachsraum, Kostenloser Wäscheservice für Ihre Langlauf-Funktionswäsche\n* inkl. Halbpension und aller Parkhotelleistungen*\n",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Golfen in der Olympiaregion \"3 Tage\"",
+          "description": "Golftage im Parkhotel\n3 Übernachtungen und 4 Tage geniesen im Einzelzimmer \"Wetterstein\"\ninkl. allen Parkhotelleistungen sowie\n* Zur Begrüßung ein Glas Sekt auf der Sonnenterrasse\n* 2 Greenfees am Golfplatz Wildmoos od. Seefeld od.Garmisch(Montag bis Freitag) \n* eine Wellnesstasche mit einem kuscheligen Bademantel, Pantoffel, Handtuch\n(während des Aufenthaltes)\n* \"Neu\" kostenlose Benützung des Whirlpool´s im Freien\n* Kostenlose Benützung unseres Hallenbades 12x6m u.einer Wassertemp.29-30°",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "72.00",
+          "maxPrice": "94.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "289.00",
+          "maxPrice": "289.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "248.00",
+          "maxPrice": "248.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "72.00",
+          "maxPrice": "72.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "72.00",
+          "maxPrice": "72.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Einzelzimmer, Bad, WC",
+      "description": "Gemütliche Zimmer mit Balkon und Gartenblick im Landhausstil, Kabel-TV, Radio, Telefon mit Internetanschluss, Bad mit Haarföhn und Kosmetikspiegel.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Einzelzimmer \"Landhaus\", Bad/WC/Balkon",
+          "description": "Zimmerausstattung: Das Zimmer befindet sich im Nebenhaus, 20 m durch die Gartenanlage, Balkon, Aussicht , TV, Telefon, Radio, Kabelkanäle, Flachbild-TV,    W-LAN, Safe, Sitzecke, Heizung, Teppichboden, Badewanne, Haartrockner, Bademantel, Kostenfreie Pflegeprodukte, WC-Badezimmer, Hausschuhe, Weckservice, Wecker \n",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "67.00",
+          "maxPrice": "87.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Suite, Bad, WC",
+      "description": [
+        "Großzügige, gemütliche Zimmer mit Balkon und Gartenblick im Landhausstil mit Sitzecke, Safe, Kabel TV, Radio, Telefon, W-Lan, Bad mit Haarföhn und Kosmetikspiegel.",
+        "Großzügige, gemütliche Zimmer mit Balkon und Gartenblick im Landhausstil mit Sitzecke, Safe, Kabel TV, Radio, Telefon, W-Lan, Bad mit Haarföhn und Kosmetikspiegel.",
+        "Großzügige, gemütliche Zimmer mit Balkon und Gartenblick im Landhausstil mit Sitzecke, Safe, Kabel TV, Radio, Telefon mit Internetanschluss, Bad mit Haarföhn und Kosmetikspiegel."
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Junior-Suite mit Bad/WC/Balkon",
+          "description": "Zimmerausstattung:  Balkon, Aussicht , TV, Telefon, Radio, Kabelkanäle, Flachbild-TV, W-LAN, Safe, Minibar, Sitzecke, Heizung, Teppichboden, Badewanne od. Dusche, Haartrockner, Bademantel, Kostenfreie Pflegeprodukte, WC, Badezimmer, Hausschuhe, Weckservice, Wecker ",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Naturerlebniswochen",
+          "description": "Pauschalpreis für 7 Tage Aufenthalt mit allen Parkhotelleistungen\nzusätzlich inkl.:\n*Vitalfrühstück mit verschiedenen Müslisorten\n*Kostenlose Nutzung des Dorf und Regionsbusses\n*1 Freifahrt auf die Rosshütte und retour\n*1 Wander-Nordic Walkingkarte von der Olympiaregion",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/52ea5a12-2cd3-4e5a-91a7-81704a4558dc/99/image.jpg",
+              "caption": "Natur"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Bergwanderwochen",
+          "description": "Pauschalpreis für 7 Tage Aufenthalt mit allen Parkhotelleistungen\nZusätzlich im Preis enthalten sind:\n* 2 geführte Wanderungen in der Olympiaregion mit Verpflegung\n* eine freie Fahrt mit einer der Seefelder Bergbahnen\n* eine Flasche österreichischen Rotwein pro Zimmer\n* kostenlose Nutzung des Seefelder Dorfbusses",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/ca54d016-62c7-4b3d-b0b6-cb6f55f13637/99/image.jpg",
+              "caption": "Bergwochen"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Goldene Herbsttage",
+          "description": "Pauschalpreis für Kurzurlauber\nzur Begrüßung eine Flasche Sekt am Zimmer\ngeführte Wanderungen in der Olympiaregion\nKleine Wanderjause\nWanderkartenverleih mit Tourentipps\n",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Langlaufvergnügen pur ...für 3 Tage",
+          "description": "Preis pro Person für 3 Tage Langlaufvergnügen\n\nder 1 Minute Ihres Urlaubes an\n\nauf bestens präparierten und markierten Loipen in der Olympiaregion über 270 km, die Loipengebühr ist für Sie inkludiert, täglich ein Powerriegel, beheizter Skiraum, Kostenloser Wäscheservice für Ihre Langlauf-Funktionswäche\n* inkl. Halbpension und aller Parkhotelleistungen*\n",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Weisse Wochen",
+          "description": "Pauschalpreis für 7 Tage im 4 Sternehotel \"Parkhotel\"\n*mit Benützung unseres Hallenbades und Wellnessanlage\n*mit W-Lan im gesamten Hotel (kostenlos)\n*Willkommenstrunk an der Kaminbar\n*Sektfrühstück am Sonntag\n*täglich Hausgemachter Kuchen,\n sowie Tiroler Suppen vom Buffet\n*Eisstockschießen mit \"Zielschnapserl\"(siehe Wochenprogramm)\n*Wöchentlicher Musikabend mit Tanz\n*Bademantel und Badehandtuch für den Aufenthalt\n*Fackelwanderung mit Glühwein am Lagerfeuer(siehe Wochenprogramm)",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Ski \u0026 Fun für 4 Tage inkl. 3 Tage Skipass",
+          "description": "Pauschalpreis für 4 Tage im 4 Sternehotel \"Parkhotel\"\n*mit inkl.3 Tage Skipass\n*mit Benützung unseres Hallenbades und Wellnessanlage\n*mit W-Lan im gesamten Hotel (kostenlos)\n*Willkommenstrunk an der Kaminbar\n*Sektfrühstück am Sonntag\n*täglich Hausgemachter Kuchen,\n sowie Tiroler Suppen vom Buffet\n*Wöchentlicher Musikabend mit Tanz\n*Bademantel und Badehandtuch für den Aufenthalt\n*Fackelwanderung mit Glühwein am Lagerfeuer(siehe Wochenprogramm)",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Golfen in der Olympiaregion \"3 Tage\"",
+          "description": "Golftage im Parkhotel\n3 Übernachtungen und 4 Tage geniesen in der \"Suite oder Juniorsuite,\ninkl. allen Parkhotelleistungen sowie\n* Zur Begrüßung ein Glas Sekt auf der Sonnenterrasse\n* 2 Greenfees am Golfplatz Wildmoos od. Seefeld od.Garmisch(Montag bis Freitag) \n* eine Wellnesstasche mit einem kuscheligen Bademantel, Pantoffel, Handtuch\n(während des Aufenthaltes)\n* \"Neu\" kostenlose Benützung des Whirlpool´s im Freien\n* Kostenlose Benützung unseres Hallenbades 12x6m u.einer Wassertemp.29-30°",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "85.00",
+          "maxPrice": "113.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "85.00",
+          "maxPrice": "113.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "85.00",
+          "maxPrice": "113.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "707.00",
+          "maxPrice": "707.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "707.00",
+          "maxPrice": "707.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "707.00",
+          "maxPrice": "707.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "295.00",
+          "maxPrice": "295.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "295.00",
+          "maxPrice": "295.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "295.00",
+          "maxPrice": "295.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "285.00",
+          "maxPrice": "285.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "285.00",
+          "maxPrice": "285.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "285.00",
+          "maxPrice": "285.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "777.00",
+          "maxPrice": "777.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "777.00",
+          "maxPrice": "777.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "777.00",
+          "maxPrice": "777.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "85.00",
+          "maxPrice": "85.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "85.00",
+          "maxPrice": "85.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "85.00",
+          "maxPrice": "85.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "520.00",
+          "maxPrice": "520.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "520.00",
+          "maxPrice": "520.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "520.00",
+          "maxPrice": "520.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche oder Bad, Superior",
+      "description": [
+        "Großzügige, gemütliche Zimmer mit Balkon und Gartenblick im Landhausstil mit Sitzecke, Safe, Kabel-TV, Radio, Telefon, W-Lan, Bad mit Haarföhn und Kosmetikspiegel.",
+        "Großzügige, gemütliche Zimmer mit Balkon und Gartenblick im Landhausstil mit Sitzecke, Safe, Kabel-TV, Radio, Telefon, W-Lan, Bad mit Haarföhn und Kosmetikspiegel.",
+        "Großzügige, gemütliche Zimmer mit Balkon und Gartenblick im Landhausstil mit Sitzecke, Safe, Kabel-TV, Radio, Telefon mit Internetanschluss, Bad mit Haarföhn und Kosmetikspiegel."
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer \"Superior\" Bad oder Dusche",
+          "description": "Zimmerausstattung: Balkon, Aussicht , TV, Telefon, Radio, Kabelkanäle, Flachbild-TV,W-LAN, Safe, Minibar, Sitzecke, Heizung, Teppichboden, Badewanne od. Dusche, Haartrockner, Bademantel, Kostenfreie Pflegeprodukte, WC, Badezimmer, Hausschuhe, Weckservice, Wecker ",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Weisse Wochen",
+          "description": "Pauschalpreis für 7 Tage im 4 Sternehotel \"Parkhotel\"\n*mit Benützung unseres Hallenbades und Wellnessanlage\n*mit W-Lan im gesamten Hotel (kostenlos)\n*Willkommenstrunk an der Kaminbar\n*Sektfrühstück am Sonntag\n*täglich Hausgemachter Kuchen,\n sowie Tiroler Suppen vom Buffet\n*Eisstockschießen mit \"Zielschnapserl\"(siehe Wochenprogramm)\n*Wöchentlicher Musikabend mit Tanz\n*Bademantel und Badehandtuch für den Aufenthalt\n*Fackelwanderung mit Glühwein am Lagerfeuer(siehe Wochenprogramm)",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Naturerlebniswochen ",
+          "description": "Pauschalpreis für 7 Tage Aufenthalt mit allen Parkhotelleistungen\nzusätzlich inkl.:\n*Vitalfrühstück mit verschiedenen Müslisorten\n*Kostenlose Nutzung des Dorf und Regionsbusses\n*1 Freifahrt auf die Rosshütte und retour\n*1 Wander-Nordic Walkingkarte von der Olympiaregion",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/fe2bba89-955c-492c-afd8-018841bce30d/99/image.jpg",
+              "caption": "Natur"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Familientage im Parkhotel",
+          "description": "Familienwochen für die ganze Familie\n\n3 Übernachtungen in der Suite (Kinder bis 2 Jahre frei)\n \n * Kindermenü auf Wunsch frei wählbar\n * Wasserkocher am Zimmer - auf Wunsch \n * inkl.alkoholfreier Getränke für die Kinder während der Essenszeiten  \n * frei Benützung unseres Hallenbades (ca. 30°)\n * freie Benützung der Getränke im Hallenbad\n * inkl. hausgemachter Kuchen am Nachmittag\n * große Spielwiese mit div. Spielgeräten",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/7ad47fc0-6972-4bc1-8f87-fd4beb88ece9/99/image.jpg",
+              "caption": "Familie"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Adventzeit",
+          "description": "Romantische Adventtage im Parkhotel\n\n * 3 Übernachtungen im Doppelzimmer\n * Hausgemachte Weihnachtskekse zur Begrüßung am Zimmer\n * Eine Flasche Prosecco zur Begrüßung am Zimmer\n * Eine romantische Kutschfahrt in der Dämmerung\n * Frühstücksbuffet mit Vitalecke von 8.00 bis 10.30 Uhr\n * 5-gängiges-Abendmenü mit Wahlmöglichkeit u. Salatbuffet\n * 6-gängiges Überraschungsmenü \"Gaumenfreude\" \n * Kostenlose Benützung unserer Wellnessanlage\n",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/7b1c061c-8188-4ade-928a-7a483c804d7a/99/image.jpg",
+              "caption": "Advent"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Ski \u0026 Fun für4 Tage inkl. Skipass für3 Tage",
+          "description": "Pauschalpreis für 4 Tage im 4 Sternehotel \"Parkhotel\"\n*mit inkl. 3 Tage Skipass\n*mit Benützung unseres Hallenbades und Wellnessanlage\n*mit W-Lan im gesamten Hotel (kostenlos)\n*Willkommenstrunk an der Kaminbar\n*Sektfrühstück am Sonntag\n*täglich Hausgemachter Kuchen,\n sowie Tiroler Suppen vom Buffet\n*Wöchentlicher Musikabend mit Tanz\n*Bademantel und Badehandtuch für den Aufenthalt\n*Fackelwanderung mit Glühwein am Lagerfeuer(siehe Wochenprogramm)",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "90.00",
+          "maxPrice": "105.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "90.00",
+          "maxPrice": "105.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "81.00",
+          "maxPrice": "105.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "707.00",
+          "maxPrice": "707.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "707.00",
+          "maxPrice": "707.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "707.00",
+          "maxPrice": "707.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "690.00",
+          "maxPrice": "690.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "690.00",
+          "maxPrice": "690.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "690.00",
+          "maxPrice": "690.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "307.00",
+          "maxPrice": "307.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "307.00",
+          "maxPrice": "307.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "307.00",
+          "maxPrice": "307.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "81.00",
+          "maxPrice": "81.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "81.00",
+          "maxPrice": "81.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "81.00",
+          "maxPrice": "81.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Bad, WC, Balkon",
+      "description": "Großzügige Zimmer mit Balkon und Gartenblick im Landhausstil mit Sitzecke, Safe, Kabel TV, Radio, Telefon mit Internetanschluss, Bad mit Haarföhn und Kosmetikspiegel, großteils mit Bidet.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer \"Parkhotel\" mit Bad/WC/Balk",
+          "description": "Zimmerausstattung: Balkon, Aussicht , TV, Telefon, Radio, Kabelkanäle, Flachbild-TV,W-LAN, Safe, Sitzecke, Heizung, Teppichboden, Badewanne od. Dusche, Haartrockner, Bademantel, Kostenfreie Pflegeprodukte, WC, Badezimmer, Hausschuhe, Weckservice, Wecker ",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Bergwanderwochen",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/007e3742-478f-4e39-940d-ed74b26fa886/99/image.jpg",
+              "caption": "Wandern"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Ski \u0026 Fun  für 7 Tage inkl. für 6 Tage Skipass",
+          "description": "Pauschalpreis für 7 Tage im 4 Sternehotel \"Parkhotel\"\n*mit inkl. 6 Tage Skipass\n*mit Benützung unseres Hallenbades und Wellnessanlage\n*mit W-Lan im gesamten Hotel (kostenlos)\n*Willkommenstrunk an der Kaminbar\n*Sektfrühstück am Sonntag\n*täglich Hausgemachter Kuchen,\n sowie Tiroler Suppen vom Buffet\n*Wöchentlicher Musikabend mit Tanz\n*Bademantel und Badehandtuch für den Aufenthalt\n*Fackelwanderung mit Glühwein am Lagerfeuer(siehe Wochenprogramm)",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Weisse Wochen",
+          "description": "Pauschalpreis für 7 Tage im 4 Sternehotel \"Parkhotel\"\n*mit Benützung unseres Hallenbades und Wellnessanlage\n*mit W-Lan im gesamten Hotel (kostenlos)\n*Willkommenstrunk an der Kaminbar\n*Sektfrühstück am Sonntag\n*täglich Hausgemachter Kuchen,\n sowie Tiroler Suppen vom Buffet\n*Eisstockschießen mit \"Zielschnapserl\"(siehe Wochenprogramm)\n*Wöchentlicher Musikabend mit Tanz\n*Bademantel und Badehandtuch für den Aufenthalt\n*Fackelwanderung mit Glühwein am Lagerfeuer(siehe Wochenprogramm)",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Langlaufvergnügen pur....für 5 Tage",
+          "description": "Preis pro Person für 5 Tage Langlaufvergnügen\nder 1 Minute Ihres Urlaubes an\n\nauf bestens präparierten und markierten Loipen in der Olympiaregion über 270 km, die Loipengebühr ist für Sie inkludiert, täglich ein Powerriegel, beheizter Skiraum mit Schuhtrockner, Wachsraum, Kostenloser Wäscheservice für Ihre Langlauf-Funktionswäsche\n* inkl. Halbpension und aller Parkhotelleistungen*\n",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Langlaufvergnügen pur....für 3 Tage",
+          "description": "Preis pro Person für 3 Tage Langlaufvergnügen\nder 1 Minute Ihres Urlaubes an\n\nauf bestens präparierten und markierten Loipen in der Olympiaregion über 270 km, die Loipengebühr ist für Sie inkludiert, täglich ein Powerriegel, beheizter Skiraum mit Schuhtrockner, Wachsraum, Kostenloser Wäscheservice für Ihre Langlauf-Funktionswäsche\n* inkl. Halbpension und aller Parkhotelleistungen*\n\" mit Schneegarantie der beschneiten Loipe\"\n\n",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Naturerlebniswochen",
+          "description": "Pauschalpreis für 7 Tage Aufenthalt mit allen Parkhotel-Leistungen:\nZusätzlich inklusive:\n\n* Täglich Mittagsjause und hausgemachter Suppe (12.30 - 14.00)\n* hausgemachter Kuchen am Nachmittag (15.00 - 16.00)\n* Kostenlose Nutzung des Dorf- und Regionsbusses\n* 1 Freifahrt mit einer Seefelder Bergbahn\n* 2 geführte Wanderung mit Angie und Rolf\n* inkl. Aktivprogramm der Skischule Seefeld (Wandern \u0026 Nordic Walking)\n",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": " Adventzeit",
+          "description": "Romantische Adventtage im Parkhotel\n\n * 3 Übernachtungen im Doppelzimmer\n * Hausgemachte Weihnachtskekse zur Begrüßung am Zimmer\n * Eine romantische Kutschfahrt in der Dämmerung mit Glühwein am offenen Kaminfeuer\n * 5-gängiges-Abendmenü mit Wahlmöglichkeit u. Salatbuffet\n * 6-gängiges Überraschungsmenü \"Gaumenfreude\" \n * Kostenlose Benützung unserer Wellnessanlage\n",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/7ea2b8cf-5800-493f-83ef-73920e4b703a/99/image.jpg",
+              "caption": "Advent"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Langlaufvergnügen pur....für 7 Tage",
+          "description": "von der 1 Minute Ihres Urlaubes an\n\nauf bestens präparierten und markierten Loipen in der Olympiaregion über 270 km, die Loipengebühr ist für Sie inkludiert, täglich ein Powerriegel, beheizter Skiraum, Kostenloser Wäscheservice für Ihre Langlauf-Funktionswäche\n\nPreis pro Person für 7 Tage inklusive Halbpension und aller Inklusivleistungen:\n",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Urlaubsvergnügen \"72 Stunden\"",
+          "description": "*3 Übernachtungen inklusive der erweiterten Genusspension\n   bei Anreis ein Glas Prosecco auf unserer Sonnenterrasse\n*  eine romantische Pferdekutschfahrt um den Wildsee\n* täglich am Nachmittag, hausgemachter Kuchen\n* 1 Flasche österr. Wein zum Abendessen (pro Zimmer für 2 Pers.)\n*  Freie Benützung unseres Hallenbades 6x12m\n*  Freie Benützung unserer Wellnessanlage inkl. frischen Äpfeln, sowie Kräutertee`s\n* kostenlos einen kuscheligen Bademantel, Pantoffel, Handtuch (für den Aufenthalt)",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Goldene Herbsttage 3",
+          "description": "Pauschalpreis für Kurzurlauber\nzur Begrüßung eine Flasche Sekt am Zimmer\ngeführte Wanderungen in der Olympiaregion\nKleine Wanderjause\nWanderkartenverleih mit Tourentipps\n",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "85.00",
+          "maxPrice": "98.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "85.00",
+          "maxPrice": "98.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "859.00",
+          "maxPrice": "859.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "859.00",
+          "maxPrice": "859.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "777.00",
+          "maxPrice": "777.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "395.00",
+          "maxPrice": "395.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "819.00",
+          "maxPrice": "819.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "150.00",
+          "maxPrice": "150.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "150.00",
+          "maxPrice": "150.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "546.00",
+          "maxPrice": "546.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "334.00",
+          "maxPrice": "334.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "334.00",
+          "maxPrice": "334.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "290.00",
+          "maxPrice": "290.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "290.00",
+          "maxPrice": "290.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Bad, WC, Standard",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer \"Wetterstein\" ohne Balkon",
+          "description": "Zimmerausstattung: Gartenblick , TV, Telefon, Radio, Kabelkanäle, Flachbild-TV,    W-LAN, Safe, Sitzecke, Heizung, Teppichboden, Badewanne, Haartrockner, Bademantel, Kostenfreie Pflegeprodukte, WC, Badezimmer, Hausschuhe, Weckservice, Wecker ",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Langlaufvergnügen pur .ab 3 Tage im DZ Wetterstein",
+          "description": "Preis pro Person für 3 Tage Langlaufvergnügen\nder 1 Minute Ihres Urlaubes an\n\nauf bestens präparierten und markierten Loipen in der Olympiaregion über 270 km, die Loipengebühr ist für Sie inkludiert, täglich ein Powerriegel, beheizter Skiraum mit Schuhtrockner, Wachsraum, Kostenloser Wäscheservice für Ihre Langlauf-Funktionswäsche\n* inkl. Halbpension und aller Parkhotelleistungen*\n\" mit Schneegarantie der beschneiten Loipe\"\n",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Langlaufvergnügen pur,ab 5 Tage im DZ Wetterstein",
+          "description": "Preis pro Person für 5 Tage Langlaufvergnügen\nder 1 Minute Ihres Urlaubes an\n\nauf bestens präparierten und markierten Loipen in der Olympiaregion über 270 km, die Loipengebühr ist für Sie inkludiert, täglich ein Powerriegel, beheizter Skiraum mit Schuhtrockner, Wachsraum, Kostenloser Wäscheservice für Ihre Langlauf-Funktionswäsche\n* inkl. Halbpension und aller Parkhotelleistungen*\n",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Ski \u0026 Fun für 4 Tage inkl. 3 Tage Skipass",
+          "description": "Pauschalpreis für 4 Tage im 4 Sternehotel \"Parkhotel\"\n*mit inkl.3 Tage Skipass\n*mit Benützung unseres Hallenbades und Wellnessanlage\n*mit W-Lan im gesamten Hotel (kostenlos)\n*Willkommenstrunk an der Kaminbar\n*Sektfrühstück am Sonntag\n*täglich Hausgemachter Kuchen,\n*Wöchentlicher Musikabend \n*Bademantel und Badehandtuch für den Aufenthalt\n*Fackelwanderung mit Glühwein am Lagerfeuer(siehe Wochenprogramm)",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Weisse Wochen",
+          "description": "Zimmerausstattung: Gartenblick , TV, Telefon, Radio, Kabelkanäle, Flachbild-TV,    W-LAN, Safe, Sitzecke, Heizung, Teppichboden, Badewanne, Haartrockner, Bademantel, Kostenfreie Pflegeprodukte, WC, Badezimmer, Hausschuhe, Weckservice, Wecker ",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Ski \u0026 Fun für 3 Tage inkl. 2 Tage Skipass",
+          "description": "Pauschalpreis für 3 Tage im 4 Sternehotel \"Parkhotel\"\n*mit inkl. 2 Tage Skipass\n*mit Benützung unseres Hallenbades und Wellnessanlage\n*mit W-Lan im gesamten Hotel (kostenlos)\n*Willkommenstrunk an der Kaminbar\n*Sektfrühstück am Sonntag\n*täglich Hausgemachter Kuchen,\n sowie Tiroler Suppen vom Buffet\n*Wöchentlicher Musikabend mit Tanz\n*Bademantel und Badehandtuch für den Aufenthalt\n*Fackelwanderung mit Glühwein am Lagerfeuer(siehe Wochenprogramm)",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Kennenlerntage",
+          "description": "Pauschalpreis für 3 Übernachtungen im Doppelzimmer \"Wetterstein\"\ninkl. aller Parkhotelleistungen, \nsowie *1 Glas Prosecco zur Begrüßung\n      *eine Kutschenfahrt um den Wildsee\n      *eine Flasche österr. Wein zum Abendessen\n       (pro Zimmer für 2 Personen) ",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Mountenbike \"erleben\" in Seefeld",
+          "description": "1 geführte Biketour mit Einkehr in eine urige Alm\n- Tourenkarte mit Tourenberatung\n- Dazu unser Energiepaket mit Riegel und Trinks\n  sowie unseren Energiekorb mit frischen Äpfeln aus\n  der Region, an der Rezeption\n- Kostenlose Benützung der Garage und Serviceraum \n- Kostenlos Wäscheservice für Ihre Bikerbekleidung",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "84.00",
+          "maxPrice": "94.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "84.00",
+          "maxPrice": "94.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "249.00",
+          "maxPrice": "249.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "384.00",
+          "maxPrice": "384.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "320.00",
+          "maxPrice": "320.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "351.00",
+          "maxPrice": "351.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "270.00",
+          "maxPrice": "270.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

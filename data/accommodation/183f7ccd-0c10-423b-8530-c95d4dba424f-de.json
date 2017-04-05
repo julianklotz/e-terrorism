@@ -1,0 +1,138 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.haus-kiener.com/",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Kiener",
+    "streetAddress": "Klamm 76 a",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6772",
+    "email": "hauskiener@gmail.com",
+    "url": "http://www.haus-kiener.com/"
+  },
+  "name": "Haus Kiener",
+  "description": [
+    "Herzlich Willkommen im Haus Kiener!\n\nUnser Haus liegt abseits der Hauptstraße im Ortsteil Klamm. In nur wenigen Gehminuten finden Sie die Bushaltestelle und einen Supermarkt. Wanderwege und der Loipeneinstieg sind ca 150 m vom Haus entfernt und somit ist es für unsere Gäste ein idealer Ausgangspunkt für sämtliche Aktivitäten sowie schöne Kuschtenfahrten auf die Almen ins Wanderparadies Gaistal.\n\nWir freuen uns sehr, Sie als Gäste in unserem Haus zu begrüßen!\n\n",
+    "Inklusivleistungen: Heizung, Wasser, Strom, Bettwäsche, Handtücher, SAT-TV, kostenfreier W-LAN Zugang, kostenfreier Unterstellplatz und Brötchenservice.\n\nExklusiv: Ortstaxe € 2,80/Person/Übernachtung ab dem vollendeten 15. Lebensjahr (Änderungen vorbehalten), Endreinigung € 40,-",
+    "Von Norden kommend fahren Sie nach Mittenwald. Von dort sind es ca. 17 km nach Leutasch/ Klamm. Beim Fiakerstüberl biegen Sie rechts ab. Nach 50 m befindet sich das Haus Kiener.\n\nCheck-In: ab 15.00 Uhr\nCheck-Out: bis 10.00 Uhr",
+    "Leutasch, Appartement, Ferienwohnung, Tirol, Olympiaregion Seefeld, "
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8b683fb6-a760-41e8-8035-d2975d0b6700/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1d91c292-1a30-44d8-85d1-5d7c2ff4ae8d/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/164b6bf3-3fb3-462e-b13a-997f0b6906c6/99/image.jpg",
+      "caption": "Winterlandschaft"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5db531b8-08d1-4843-9d11-e03565e24776/99/image.jpg",
+      "caption": "Winterlandschaft1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c187a139-d529-4370-a741-36e3f7a1a441/99/image.jpg",
+      "caption": "Carport"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.361922116527",
+    "longitude": "11.122240218895"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 2 Schlafräume",
+      "description": "\"Appartement #1\" für 2-3 Personen im Tiroler Landhausstil mit eigenem Eingang im Parterre, \n1 Schlafzimmer sowie 1 Einzelzimmer, mit Dusche/WC, eine komplett ausgestattete Küche, ein Wohnzimmer mit SAT-TV, W-LAN, ein wunderschöner großer Garten mit Terrasse, einen  ksotenfreien Unterstellplatz für Ihr Auto, Einstellplatz für Ihre Ski, Ihnen stehen Rodeln im Winter und Fahrräder im Sommer kostenfrei zur Verfügung.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartem./Ferienw. Nr.  1/2 Schlafräume/Dusche, WC",
+          "description": "",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "50.00",
+          "maxPrice": "68.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "60.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "\"Appartement #2\" für 2 Personen im Tiroler Landhausstil mit eigenem Eingang im Parterre, 1 Schlafzimmer, eine komplett ausgestattete Wohnküche, 1 Dusche/WC, SAT-TV, W-LAN, eine schöne Terrasse mit Garten, einen kostenfreien Unterstellplatz für Ihr Auto, Einstellplatz für Ihre Ski, Ihnen stehen Rodeln im Winter und Fahrräder im Sommer kostenfrei zur Verfügung.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement/Fewo Nr. 2, Dusche, WC, 1 Schlafraum",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "48.00",
+          "maxPrice": "68.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "48.00",
+          "maxPrice": "68.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

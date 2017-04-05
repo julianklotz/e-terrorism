@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant"
+  ],
+  "name": "Gasthof Menthof",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3130212618036",
+    "longitude": "11.1429714443969"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Gasthof Menthof",
+    "streetAddress": "Brochweg 15",
+    "addressLocality": "Mösern",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "+4352124756",
+    "faxNumber": "+43521247568",
+    "email": "info@menthof.at",
+    "url": "http://www.menthof.at"
+  },
+  "description": "Sitzplätze für ca. 120 Personen",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c2377929-0505-468b-8dc4-88d4b7fa630c/99/image.jpg",
+      "caption": "Menthof"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3c099316-62e8-4da3-9d99-78412836bb59/99/image.jpg",
+      "caption": "Hausansicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2f798a85-3858-4d34-b298-cfc1eb541dfa/99/image.jpg",
+      "caption": "Blick auf die Terrasse"
+    }
+  ],
+  "url": [
+    "http://www.menthof.at"
+  ]
+}

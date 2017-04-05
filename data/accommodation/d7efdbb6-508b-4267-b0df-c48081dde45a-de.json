@@ -1,0 +1,196 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.appartement-residenz-seefeld.com"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Appartement Residenz Seefeld",
+    "streetAddress": "Münchnerstr. 126",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2383",
+    "email": "info@marcati.at"
+  },
+  "name": "Appartement Residenz Seefeld",
+  "description": [
+    "Zwangloser Urlaubsgenuss in den eigenen vier Wänden – die Appartement Residenz Seefeld macht’s möglich!\n6 voll ausgestattete Ferienwohnungen, welche im Jahr 2013 errichtet wurden, ermöglichen Urlaubsgenuss in den eigenen vier Wänden in zentraler Lage von Seefeld. Genießen Sie Ihren Urlaub ohne sich an Vorgaben zeitlicher Natur zu halten und entspannen Sie nach Herzenslust – die Wohnungen in der Appartement Residenz Seefeld sind liebevoll eingerichtet und laden zu gemütlichen Stunden ein. Im Hause steht eine Wellnessanlage mit Sauna und Dampfdusche zur Verfügung und die durch die zentrale Lage der Wohnungen sind Sie binnen Minuten zu Fuß im Zentrum von Seefeld.Ganz besonders empfehlenswert die Duplex-Wohneinheit der Kategorie „Chalet“, welche sich über 2 Etagen erstrecken. ",
+    "Die angeführten Preise verstehen sich pro Einheit bis zu 4 Personen pro Nacht. Jede weitere Person wird mit € 20,-- pro Tag verrechnet. Kinder bis 14 Jahren sind frei.\nIm Preis inbegriffen ist die Benutzung des Wellnessbereiches und die Benutzung eines Tiefgaragenstellplatzes pro Wohnung. \nAlle Appartements verfügen über einen Geschirrspüler, Kabel-TV, Radio, Safe, Telefon und Internetzugang. ",
+    "Sommer Urlaub Apartment Appartement Ferienwohnung Tirol Neubau Duplexwohnung Seefeld Tirol Ferien"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "reviewCount": "82"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/32081191-678f-4dd3-bbde-ba39784d8e72/99/image.jpg",
+      "caption": "Winter "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/99861600-9605-44d1-b721-cee6ce700ec9/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c6d9482e-61f3-4b7a-adb0-5b1646f20d82/99/image.jpg",
+      "caption": "Winter 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/201b2ab5-eaf4-41b6-aa85-10ad25bb24c6/99/image.jpg",
+      "caption": "Wohnungsansicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d2c6acc5-e869-4d32-ad90-d0a7589aa0c0/99/image.jpg",
+      "caption": "Aufgang mit Esszimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/49ff6e44-b1ae-4689-bcfa-da3a452ebd03/99/image.jpg",
+      "caption": "Wohnraum 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/dfffb54c-8afe-4ce0-8418-1c4110f5149e/99/image.jpg",
+      "caption": "Aussicht Schlafraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/22679e10-7373-4ef4-bc82-0969e18105f0/99/image.jpg",
+      "caption": "Wohnraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/eaad1878-2c70-433d-96de-2b408d4fb69f/99/image.jpg",
+      "caption": "Wohnzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/45082860-d1c8-4cc8-b0c3-5e8143f5087c/99/image.jpg",
+      "caption": "Bad"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.333719",
+    "longitude": "11.1905211000001"
+  },
+  "paymentAccepted": [
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Toilette und Bad/Dusche getrennt, neuwertig",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Standard Appartement \"Seefeld\"",
+          "description": "Unsere Standard Appartemens \"Seefeld\" (max. 4 Personen) verfügen über einen Balkon oder Terrasse. 1 separates Doppelzimmer, 1 Ausziehcouch, 1 Bad, 1 separates WC und eine voll ausgestattete Wohnküche.\nIm Haus steht eine Wellnessanlage mit Sauna und Dampfbad zur Verfügung und durch die zentrale Lage der Wohnungen sind Sie binnen Minuten zu Fuß im Zentrum von Seefeld. ",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "60.00",
+          "maxPrice": "500.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "70.00",
+          "maxPrice": "500.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "100.00",
+          "maxPrice": "500.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Toilette und Bad/Dusche getrennt, 2 Schlafräume",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Duplex Appartement \"Chalet\"",
+          "description": "Unser Duplex Appartement \"Chalet\" (max. 6 Personen) verfügen über einen Balkon und Terrasse. 2 separaten Doppelzimmern, 1 Ausziehcouch, 2 Bädern, 1 separaten WC und einer voll ausgestatteten Küche.\nIm Haus steht eine Wellnessanlage mit Sauna und Dampfbad zur Verfügung und durch die zentrale Lage der Wohnungen sind Sie binnen Minuten zu Fuß im Zentrum von Seefeld. ",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "168.00",
+          "maxPrice": "800.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "133.00",
+          "maxPrice": "800.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "153.00",
+          "maxPrice": "800.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "800.00",
+          "maxPrice": "800.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "800.00",
+          "maxPrice": "800.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

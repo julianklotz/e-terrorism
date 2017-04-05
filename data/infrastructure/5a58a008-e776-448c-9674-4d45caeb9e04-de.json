@@ -1,0 +1,20 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure"
+  ],
+  "name": "Parkplatz Neuleutasch",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3550657177281",
+    "longitude": "11.1819483200684"
+  },
+  "description": "Parkplatz für Schlepplifte Neuleutasch. Im Sommer kein Parkplatz.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9755d9d9-7616-41fa-9035-5f0d5fb5b112/99/image.jpg",
+      "caption": "Parkplatz"
+    }
+  ]
+}

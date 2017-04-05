@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant"
+  ],
+  "name": "Alte Schmiede, Restaurant",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3279043678801",
+    "longitude": "11.1876370134918"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Hotel Alte Schmiede ",
+    "streetAddress": "Innsbruckerstr. 18",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2253",
+    "faxNumber": "(0043) 5212 2845 53",
+    "email": "info@hotel-hiltpolt.at",
+    "url": "http://www.hotel-alte-schmiede.at"
+  },
+  "description": [
+    " ",
+    "Sitzplätze für ca. 40 Personen\n\nDie ausgezeichnete Küche und Gastfreundschaft des Restaurants Zur Alten Schmiede sind seit Generationen Begriff und Tradition der Familie Hiltpolt.\nGenießen Sie die heimelige Atmosphäre in unserem gemütlichen Restaurant und lassen Sie sich mit Tiroler Schmankerln, internationalen Spezialitäten und erlesenen Weinen verwöhnen."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/521f9ef5-f94a-4a60-9976-15f47fb4f31d/99/image.jpg",
+      "caption": "Rest. Alte Schmiede Winter"
+    }
+  ],
+  "url": [
+    "http://www.hotel-hiltpolt.at"
+  ]
+}

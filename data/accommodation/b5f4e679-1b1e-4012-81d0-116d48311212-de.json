@@ -1,0 +1,18 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Am Herrnholz 45",
+    "addressLocality": "Grasbrunn",
+    "postalCode": "85630",
+    "addressCountry": "DE"
+  },
+  "name": "ZW - Elsten Anke",
+  "currenciesAccepted": "EUR"
+}

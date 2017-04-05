@@ -1,0 +1,22 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BookStore",
+    "Store"
+  ],
+  "name": "Olympia Kiosk",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3274649217747",
+    "longitude": "11.183180809021"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Olympia Kiosk",
+    "streetAddress": "Olympia Sport- \u0026 Kongresszentrum",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 3220"
+  }
+}

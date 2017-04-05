@@ -1,0 +1,241 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://www.info@almhof-seefeld.com",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Hotel Almhof",
+    "streetAddress": "Geigenbühelstr. 746",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "0043 5212 3066",
+    "faxNumber": "(0043) 5212 3066 51",
+    "email": "info@almhof-seefeld.com",
+    "url": "http://www.almhof-seefeld.com/"
+  },
+  "name": "Almhof",
+  "description": [
+    "Unser Hotel Garni liegt in ruhiger, sonniger Lage gegenüber dem Skilift Geigenbühel. Es sind nur wenige Minuten zum Zentrum und zu den schönen Wanderwegen. Entspannen Sie sich am Abend in unserem  Wellnessbereich.  Unsere  Appartements  sind ausgestattet mit Schlafzimmer, Wohnzimmer, Bad, WC , kleiner Kochnische, Balkon.",
+    "\nWellnessbereich kostenlos, Garage Sommer kostenlos, Garage Winter pro Tag €5.-, Haustier €5.- pro Tag",
+    "Check-In 14.00 Uhr/ Check-Out 11.00 Uhr\nUnser Hotel liegt gegenüber vom Lift Geigenbühel oder 150m von der Skischule entfernt."
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "reviewCount": "22"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/514c1df7-141b-4790-97c7-8633678916a6/99/image.jpg",
+      "caption": "Sommeransicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1d82be44-8418-4825-994f-22e4bd0fdfb3/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/fad23ab6-7388-4cbe-ba6d-d9511e567c0e/99/image.jpg",
+      "caption": "Almhof  Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8c9fb4bb-de3d-448d-ab31-807d73f87460/99/image.jpg",
+      "caption": "Mundeblick Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a1275cb6-19cf-4658-a3df-d2b549e2549f/99/image.jpg",
+      "caption": "App. Zimmer Mundeblick"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/420414dc-3df4-4e76-af9e-a78897fad73f/99/image.jpg",
+      "caption": "Zimmer Mundeblick"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.33344799122",
+    "longitude": "11.188576354146"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 1 Schlafraum",
+      "description": "Kochnische, Schlafzimmer separat, Wohn-Schlafzimmer, Badezimmer und WC getrennt, Balkon, TV, Telefon.\nUnsere Appartement sind sehr gemütlich eingerichtet.\nUnser Haus liegt sehr zentral und trotzdem ruhig in einer schönen Blumenwiese.\nGratis W-Lan",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement  Karwendelblick",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "78.00",
+          "maxPrice": "125.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "93.00",
+          "maxPrice": "140.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "108.00",
+          "maxPrice": "155.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 1 Schlafraum",
+      "description": "Kochnische, Schlafzimmer separat, Wohn-Schlafzimmer, Badezimmer und WC getrennt, Balkon, TV, Telefon.\nUnsere Appartement sind sehr gemütlich eingerichtet.\nUnser Haus liegt sehr zentral und trotzdem ruhig in einer schönen Blumenwiese.\nGratis W-Lan",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement  Mundeblick",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "80.00",
+          "maxPrice": "127.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "95.00",
+          "maxPrice": "142.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "110.00",
+          "maxPrice": "157.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Bad, WC, Balkon",
+      "description": "\nUnsere Zimmer (20m) bieten Bdewanne, WC , Fön Kabel TV (Flachbildschirm) und Balkon",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer, Bad, WC, Balkon",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "60.00",
+          "maxPrice": "85.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "40.00",
+          "maxPrice": "60.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC, Balkon",
+      "description": "\nUnsere DZ (20m) bieten Badezimmer mit Dusche, separatem WC, Fön , Kabel TV Flachbildschirm, Zimmersafe und Balkon.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer, Dusche, WC, Balkon",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "60.00",
+          "maxPrice": "85.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "38.00",
+          "maxPrice": "58.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

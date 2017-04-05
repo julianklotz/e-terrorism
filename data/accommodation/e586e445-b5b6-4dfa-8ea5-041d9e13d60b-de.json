@@ -1,0 +1,90 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.haus-fock.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Fock",
+    "streetAddress": "Alte Leutascher Str.105",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 3417",
+    "faxNumber": "(0043) 5212 3417",
+    "email": "haus@fock.at",
+    "url": "http://www.haus-fock.at"
+  },
+  "name": "Haus Fock",
+  "description": [
+    "\nUnser Haus liegt in ruhiger Lage gegenüber dem Olympia. Wir bieten: Ein Appartement 50m² für 2-3 Personen u. ein Apartement 90m² für 4-6 Personen. Weitere Infos siehe Homepage.",
+    "Inklusive: Endreinigung, Kurtaxe",
+    "Anreise 15.00 Uhr / Abreise 10.00 Uhr\nUnser Haus liegt in der Fußgängerzone von Seefeld, gegenüber dem Sport - und Olympia- Schwimmbad."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4be9ffd4-ec42-4e40-96ad-d62eec796bef/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3ecd8406-bf55-4413-bb50-36cdb6c9ef86/99/image.jpg",
+      "caption": "Winter"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3288538714591",
+    "longitude": "11.182826757431"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 2 Schlafräume",
+      "description": "Wohnzimmer ( 40m² ) Küche, Doppelbettzimmer mit Waschbecken, Schlafzimmer mit 2 Einzelbetten u. Gitterbett, Bad / WC, Balkon.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/2 Schlafräume/Bad, WC",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 1 Schlafraum",
+      "description": "Wohnküche mit Eß-und Sitzecke, Schlafzimmer mit Doppelbett, Gitterbett, Bad / WC , Vorraum , Terrasse.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/1 Schlafraum/Bad, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ]
+    }
+  ]
+}

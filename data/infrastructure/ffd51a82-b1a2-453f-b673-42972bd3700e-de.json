@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure",
+    "LocalBusiness"
+  ],
+  "name": "Casino Seefeld",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3288517",
+    "longitude": "11.1888655"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Casino Seefeld",
+    "streetAddress": "Bahnhofstr. 124",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "+4352122340",
+    "email": "info@casinos.at",
+    "url": "http://www.seefeld.casinos.at"
+  },
+  "description": [
+    "Es wartet täglich ab 14:00 Uhr ein breit gefächertes Unterhaltungsprogramm! Ob Roulette, Poker, Black Jack, Macau Baccarat oder Spielautomaten -\nim Casino Seefeld dreht sich alles ums Glück.  Geniesen Sie ein perfekt abgestimmtes Unterhaltungsprogramm samt kulinarischem Spitzenangebot und spannungsgeladener Atmosphäre. Das Geräusch aufeinander klappernder Jetons, das Rollen der Kugel im Roulettekessel, das farbenprachtige Muster der Jetons am Tableau und die Spielkarten, die sich tanzend in den Händen des Croupiers bewegen - eine Erlebniswelt der besonderen Art, die das gemütliche Seefelder Casino bietet. Hohe Gewinne, grose Gewinnmöglichkeiten, Spielerklärungen und Showturniere lassen einen Casinobesuch zu einem unvergesslichen Erlebnis werden. Fur den Casinobesuch sind Volljahrigkeit und ein Lichtbildausweis erforderlich. Mit Ihrer Olympiaregion Seefeld Card haben Sie beim Casinobesuch schon gewonnen: Sie erhalten 15% Rabatt auf das Casino Seefeld Begrüßungspackage (Normalpreis € 30,-), welches Begrüßungsjetons im Wert von € 30,--, ein Glas Frizzante sowie ein Überraschungsgeschenk inkludiert. Alle Infos zu Gewinnspielen, Events oder Veranstaltungen im Casino finden Sie unter www.seefeld.casinos.at. Casino Seefeld - das Erlebnis - täglich schon ab 14.00 Uhr.\n\n",
+    "Täglich (außer am 24.12.) ab 13.00 Uhr."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/271b9b81-9188-4836-b09a-b99bafe1a86f/99/image.png",
+      "caption": "Casino Seefeld Logo"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9c8c7649-61a1-431d-9e1e-0ef3dbbc56b1/99/image.jpg",
+      "caption": "Casino Bild"
+    }
+  ],
+  "url": [
+    "http://www.seefeld.casinos.at"
+  ]
+}

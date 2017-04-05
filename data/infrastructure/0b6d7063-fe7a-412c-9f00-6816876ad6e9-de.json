@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BeautySalon"
+  ],
+  "name": "Hotel Klosterbräu",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3288928413112",
+    "longitude": "11.1858082576721"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Seyrling GmbH \u0026 CoKG",
+    "streetAddress": "Klosterstr. 30",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "+4352122621",
+    "faxNumber": "+4352123885",
+    "email": "info@klosterbraeu.com",
+    "url": "http://www.klosterbraeu.com"
+  },
+  "description": "Spiritueller Luxus-Romantik-SPA mit hochkarätiger Auszeichnung\n\nEs ist eine zeitlos spirituelle Atmosphäre, die \ndas Hotel Klosterbräu***** \u0026 SPA, dass\nheute in der 6. Generation von der Gastgeberfamilie Seyrling\npersönlich und herzlich geführt wird, umgibt.\n\nGegenwärtiges Design und historische Klosterkulisse verschmelzen\nzu einem einladenden Ambiente: Kostbare, antike\nMöbel und luxuriöse Materialien prägen das Interieur.\nInmitten der meterdicken 500 Jahre alten Klostermauern\nbefinden sich 97 individuelle Wohlfühlzimmer und Suiten,\n5 hochklassige Restaurants und Dinnerlocations, eine gemütliche\nPianobar \u0026 Zigarrenlounge, ein romantischer\nKlosterhof mit eigener Hochzeitskapelle sowie ein 150.000m² grosser Garten.\n\nDer brandneue 4.000m² große „Spiritual Spa“ wurde mit dem „Senses“ Award für das beste Spa-Konzept 2011 ausgezeichnet und alle Behandlungen werden durch klösterliche Einstimmungsrituale abgerundet - wahrlich einzigartig!\nwww.klosterbraeu.com  Tel. +43.5212.2621.0 Familie Seyrling - seit über 200 Jahren\n\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/934f3b08-c265-41d6-894a-774a617e1708/99/image.jpg",
+      "caption": "Klosterbräu"
+    }
+  ],
+  "url": [
+    "http://www.klosterbraeu.com"
+  ]
+}

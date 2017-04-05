@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation"
+  ],
+  "name": "Darts/Gasthof Alte Mühle",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3914544712926",
+    "longitude": "11.2642268816147"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Alte Mühle",
+    "streetAddress": "Schanzweg 29",
+    "addressLocality": "Scharnitz",
+    "postalCode": "6108",
+    "addressCountry": "AT",
+    "telephone": "(0043)5213/20047",
+    "email": "ritschi-event@scharnitz.net",
+    "url": "http://www.altemuehle-scharnitz.at"
+  },
+  "description": "Darts im Gasthof Alte Mühle,\nTel.: 05213/20047",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7bc13829-dfad-4a99-b89f-ffbb983535e5/99/image.jpg",
+      "caption": "Darts"
+    }
+  ]
+}

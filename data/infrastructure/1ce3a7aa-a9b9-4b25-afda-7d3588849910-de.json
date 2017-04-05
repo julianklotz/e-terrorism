@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "GroceryStore",
+    "Store",
+    "BookStore"
+  ],
+  "name": "Sparmarkt Gohm",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3596285",
+    "longitude": "11.1249132"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "SPAR Gohm",
+    "streetAddress": "Obern 34a",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6179",
+    "faxNumber": "(0043) ",
+    "url": "http://www.spar.at"
+  },
+  "description": "Obern 34 a\nTel.: +43 5214/6179",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4ac421a7-d8d5-4bc8-bc7c-de257407e72d/99/image.jpg",
+      "caption": "SPAR"
+    }
+  ],
+  "url": [
+    "http://www.spar.at"
+  ]
+}

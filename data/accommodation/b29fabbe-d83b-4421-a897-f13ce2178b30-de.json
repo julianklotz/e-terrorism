@@ -1,0 +1,133 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.landhaus-ines.net",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Landhaus Ines",
+    "streetAddress": "Milserstr. 699",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2372",
+    "faxNumber": "(0043) 5212 2372",
+    "email": "deisenberger.anne@gmail.com",
+    "url": "http://www.landhaus-ines.net"
+  },
+  "name": "Landhaus Ines",
+  "description": [
+    "Gepflegtes Appartementhaus in ruhiger zentraler Lage, 5 Gehminuten zum Zentrum; direkt an der Golfakademie und der Langlaufloipe gelegen, zwei 2 -Zimmer-Komfortwohnungen mit je ca. 52m² komplett ausgestattet, Südbalkon, Kabel-TV, kostenloses W-Lan, Nichtraucherhaus, ganzjährig geöffnet, keine Tiere erwünscht.",
+    "Check in: 15.00 Uhr\nCheck out: 10.00 Uhr\n\nInkl.: Bettwäsche,Tischwäsche,Strom, Heizung\n\n",
+    "Seefeld Abfahrt Mitte bis Kreisverkehr, dann Adreas Hoferstr. dann links Milserstr. und dann 2. Abfahrt links (gegenüber Hotel Olympia)."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/38f657f3-fb16-42d6-b662-8bc23e19235d/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/63d0e2e2-5be9-4c22-ad4a-34c26fc9d98e/99/image.jpg",
+      "caption": "Winter1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7118c438-0a39-4ed4-9dca-d42b838444ab/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/73422e0c-efea-4b3d-841c-6b87ca3f8edc/99/image.jpg",
+      "caption": "Landhaus Ines SeefeldAussicht Winter 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e6c6a390-d1f7-4df3-98de-8c32020daae8/99/image.jpg",
+      "caption": "Landhaus Ines Seefeld Aussicht Winter 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2b9b28db-acad-4149-b4b8-a7742c0a7749/99/image.jpg",
+      "caption": "Landhaus Ines Seefeld Haus Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d54b1467-b228-44c2-848d-90419ca29ca0/99/image.jpg",
+      "caption": "Landhaus Ines Seefeld Terrasse Winter"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3272903914826",
+    "longitude": "11.1935555934906"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 1 Schlafraum",
+      "description": "2- Zimmer- Komfortwohnung mit ca. 53 m² für eine Belegung mit 2 Personen. Komplett ausgestattet, Südbalkon, Kabel-TV, Nichtraucherhaus, ganzjährig geöffnet, Tiere nicht erwünscht, Langzeitvermietung möglich!",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "2- Raum Appartement mit Erker",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "55.00",
+          "maxPrice": "90.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 1 Schlafraum",
+      "description": "2- Zimmer- Komfortwohnung mit ca. 53 m² für eine Belegung mit 2 Personen. Komplett ausgestattet, Südbalkon, Kabel-TV, Nichtraucherhaus, ganzjährig geöffnet, Tiere nicht erwünscht, Langzeitvermietung möglich!\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "2- Raum Appartement Süd",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "55.00",
+          "maxPrice": "90.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

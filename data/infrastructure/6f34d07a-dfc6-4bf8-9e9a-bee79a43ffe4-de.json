@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure",
+    "SportsActivityLocation",
+    "TrainStation"
+  ],
+  "name": "Gschwandtkopflifte",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3245705532491",
+    "longitude": "11.1794257164001"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Happy Gschwandtkopf Lifte",
+    "streetAddress": "Gschwandtkopf 702",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "+4352122490",
+    "email": "gschwandtkopf@tirol.com",
+    "url": "http://www.skigebiet-seefeld.at"
+  },
+  "description": "1 Bahn Sommerbetrieb (1 Sessellift),\n13 Bahnen Winterbetrieb (2 Sessellifte, 11 Schlepplifte),\nHöhe Skigebiet: 1200-1500 m,\nPisten gesamt: ca. 13 km",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ae7cebcc-2fe9-4f32-811d-2ea3c7200e44/99/image.jpg",
+      "caption": "Gschwandtkopf Lifte"
+    }
+  ],
+  "url": [
+    "http://www.skigebiet-seefeld.at"
+  ]
+}

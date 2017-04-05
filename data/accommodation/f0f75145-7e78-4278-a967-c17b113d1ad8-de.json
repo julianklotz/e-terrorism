@@ -1,0 +1,141 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.orplid.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Orplid",
+    "streetAddress": "Andreas-Hofer-Str. 480",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2677",
+    "faxNumber": "(0043) 5212 2115",
+    "email": "haus@orplid.at",
+    "url": "http://www.orplid.at"
+  },
+  "name": "Haus Orplid",
+  "description": [
+    "Gemütliche Zimmer mit Bad oder Dusche/WC, Föhn, Kabel-TV, Radio, größtenteils mit Balkon; reichhaltiges Frühstücksbuffet.\nSauna, Wärmekabine, Sonnenterrasse und Liegewiese, Parkplatz, Greenfree-Ermäßigung Golfplatz Seefeld Wildmoos. Zentrale ruhige und sonnige Lage; drei Gehminuten vom Zentrum entfernt.\n",
+    "sauna, termal cabine, parking no charge",
+    "Sauna, Wärmekabine, Parkplatz gratis",
+    "Einfahrt Seefeld Mitte; ist bereits Andreas-Hofer-Straße; ca 200 m links"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "reviewCount": "114"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/25695319-eb93-4d55-a447-1945ac6fc269/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a5a6da2a-1b49-47df-8dd6-c1b808281475/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5e4b51f6-3e15-45cc-bfcb-7f8005adba8b/99/image.jpg",
+      "caption": "Sauna"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ee7978c3-4d42-4c9a-be55-6df9299880c0/99/image.jpg",
+      "caption": "Frühstücksraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/116b3beb-df54-4d90-9e0d-33e3b6d1f75b/99/image.jpg",
+      "caption": "Frühstücksraum 1"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3290065809758",
+    "longitude": "11.191645860672"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Vierbettzimmer, Bad, WC",
+      "description": "Alle Zimmer mit Bad od. Dusche, WC, Fön, Farb-TV, größtenteils mit Balkon, reichhaltiges Frühstücksbuffet.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Vierbettzimmer mit Bad, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche oder Bad, WC",
+      "description": "Alle Zimmer mit Bad od. Dusche, WC, Fön, Farb-TV, größtenteils mit Balkon, reichhaltiges Frühstücksbuffet.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Dusche od. Bad, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Einzelzimmer, Dusche oder Bad, WC",
+      "description": "Alle Zimmer mit Bad od. Dusche, WC, Fön, Farb-TV, größtenteils mit Balkon, reichhaltiges Frühstücksbuffet.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Einzelzimmer mit Dusche od. Bad, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ]
+    }
+  ]
+}

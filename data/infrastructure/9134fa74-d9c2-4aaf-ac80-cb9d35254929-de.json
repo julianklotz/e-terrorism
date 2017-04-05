@@ -1,0 +1,49 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation",
+    "SportingGoodsStore"
+  ],
+  "name": "SCHIMEIER-Schiverleih",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3248105446088",
+    "longitude": "11.1796832084656"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "SCHIMEIER",
+    "streetAddress": "Am Gschwandtkopf 702",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 4152",
+    "email": "info@schimeier.at",
+    "url": "http://www.schimeier.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3a1f3b51-f01f-4e65-b451-9b547d32e529/99/image.jpg",
+      "caption": "Verleih"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a2c8e60a-135c-42bb-ab78-c14734364f9d/99/image.jpg",
+      "caption": "Schimeier"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f0464e70-b73a-4389-aa2b-c4ebae2b6870/99/image.jpg",
+      "caption": "Logo Schimeier"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5ee901c3-996f-45e5-b3ab-961562e77c50/99/image.jpg",
+      "caption": "Skischule, Shop aussen"
+    }
+  ],
+  "url": [
+    "http://www.schimeier.at"
+  ]
+}

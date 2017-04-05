@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant"
+  ],
+  "name": "Hotel Seespitz-Zeit",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3255086950922",
+    "longitude": "11.1890012025833"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Hotel Seespitz-Zeit",
+    "streetAddress": "Innsbruckerstr. 1",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2217",
+    "faxNumber": "(0043) 5212 2218 50",
+    "email": "info@seespitz.at",
+    "url": "http://www.seespitz.at"
+  },
+  "description": "Sitzplätze für ca. 40 Personen\n\nÀ la carte Restaurant in Seefeld im Hotel Seespitz-Zeit - ein Hochgenuss!\nUnser Restaurant in Seefeld ist ab 11.30 Uhr bis 14.00 Uhr im Hotel Seespitz im Zentrum von Seefeld für Sie geöffnet und wir verwöhnen Sie mit verschiedensten Spezialitäten. Lassen Sie sich von unserem Seespitz-Chef-de-cuisine, Christian Schwertner, mit ausgefallenen Kreationen verwöhnen.\nEssen in Seefeld - Abends haben Sie die Qual der Wahl! Wählen Sie aus unseren 4-Gang-Abendmenüs mit Salatbuffet. Selbstverständlich bieten wir Ihnen auch vegetarische Gerichte an. Zu jedem Menü empfehlen wir Ihnen den passenden Tropfen aus unserer gut sortierten Vinothek.\nEin besonderer Höhepunkt ist unser Galadinner - lassen Sie sich überraschen und lassen Sie es sich schmecken!",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/02b8a90e-889e-4a3b-890d-12ab5f43c3fc/99/image.jpg",
+      "caption": "Seespitz Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0b5d9369-c1fc-4d2c-b457-a7006b8d610f/99/image.jpg",
+      "caption": "Nacht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/27320055-7a5f-4a9c-8159-289516b5aba8/99/image.jpg",
+      "caption": "Winter"
+    }
+  ],
+  "url": [
+    "http://www.seespitz.at"
+  ]
+}

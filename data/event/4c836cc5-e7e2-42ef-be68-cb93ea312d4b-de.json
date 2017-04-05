@@ -1,0 +1,51 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "Jagdtrophäenschau",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Tiroler Jägerverband",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Meinhardstr. 9",
+      "addressLocality": "Innsbruck",
+      "postalCode": "6020",
+      "addressCountry": "AT",
+      "telephone": "(0043)512571093",
+      "faxNumber": "(0043)51257109315",
+      "email": "info@tjv.at",
+      "url": "http://www.tjv.at"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Tiroler Jägerverband",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Meinhardstr. 9",
+      "addressLocality": "Innsbruck",
+      "postalCode": "6020",
+      "addressCountry": "AT",
+      "telephone": "(0043)512571093",
+      "faxNumber": "(0043)51257109315",
+      "email": "info@tjv.at",
+      "url": "http://www.tjv.at"
+    }
+  },
+  "description": "Die Eröffnung erfolgt um 14.00 Uhr durch den Bezirksjägermeister Thomas Messner. Anschließend unterhält Sie Franz Posch mit seinen \"Innbrügglern\". Für die Einhaltung der Termine, Anlieferung der Trophäen, das Aufhängen derselben und deren Abnahme ist der jeweilige Hegemeister zuständig. Eintritt: Freiwillige Spenden. Weitere Informationen auf http://www.tjv.or.at.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f593c5ce-ad5a-486b-945a-d7745be1fc73/99/image.jpg",
+      "caption": "Trophäenschau"
+    }
+  ],
+  "url": [
+    "http://www.tjv.or.at"
+  ],
+  "startDate": "2017-04-08T12:00:00",
+  "endDate": "2017-04-08"
+}

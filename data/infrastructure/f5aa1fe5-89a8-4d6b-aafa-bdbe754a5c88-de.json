@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation"
+  ],
+  "name": "Luftgewehrschießen",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Schützenverein Leutasch",
+    "streetAddress": "Kirchplatzl 128a",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT"
+  },
+  "description": "Bei Erreichen einer bestimmten Punktezahl erhält man ein Abzeichen; € 3,00 für 5 Probe- und 10 normale Schüsse (inkl. Abzeichen)",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/af0da1cd-af82-43c1-82af-857c1ae679ed/99/image.gif",
+      "caption": "luft"
+    }
+  ],
+  "url": [
+    "http://"
+  ]
+}

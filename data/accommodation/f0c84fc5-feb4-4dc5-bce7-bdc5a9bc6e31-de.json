@@ -1,0 +1,227 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.hausliebl.com",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Liebl",
+    "streetAddress": "Claudiastrasse 205",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "0049 89 62001511",
+    "faxNumber": "(0043) 5212 2038 11",
+    "email": "hausliebl@tirol.com",
+    "url": "http://www.hausliebl.com"
+  },
+  "name": "Haus Liebl",
+  "description": [
+    "\nSie genießen in unserem Haus die ruhige, lärmfreie Atmosphäre eines Appartementhauses in einer ruhigen Seitenstraße im Grünen und sind doch vom mondänen Zentrum Seefelds nur 5 Minuten entfernt. Kommen Sie alleine, mit Freunden oder der ganzen Familie. Sie finden bei uns immer das Appartement in der richtigen Größe. Unsere 4 geräumigen Ferienwohnungen sind alle gemütlich im Tiroler Stil und mit Holzmöbeln eingerichtet. Sie verfügen über Balkon oder Terrasse mit Zugang zum Garten, Bad/WC, Kabel TV und W-LAN Anschluß. Im Winter können Sie sich nach einem sportlichen Tag in der Sauna entspannen. Die Gemütlichkeit unserer Appartements und die freundliche Betreuung bieten Ihnen absolute Erholung, auch in den ruhigen Zwischensaisonen. ",
+    "\nPreise inkludieren Strom, Heizung, Wasser, Bettwäsche, Handtücher, Sauna (im Winter) WIFI und Parkplatz. Lieferservice für Brötchen in der Wintersaison möglich. Hunde sind willkommen gegen eine Gebühr von € 15,--. Waschmaschine und Trockner zur Mitbenutzung, 4 € pro Waschgang und 4 € für den Trockner. Garage auf Nachfrage gegen eine Gebühr von € 10,--/Tag.",
+    "\nCheck-in 16:00 Uhr Check-out 10:00 Uhr. Sollten Sie früher ankommen oder später abreisen, besteht die Möglichkeit ihr Gepäck im Haus zu lassen. Sie verlassen die B 177 bei Seefeld Mitte, beim Roundabout nehmen Sie die zweite Ausfahrt und folgen dann der Andreas Hofer Strasse Richtung Zentrum. Die erste Strasse nach rechts ist die Claudiastrasse, nach 200 m rechts sehen Sie schon das Haus."
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "reviewCount": "19"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/44e10804-aafa-4b0b-8649-fb36d52d07a5/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ba7c4704-372a-420a-88be-5562c4e77ad4/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ea4774dc-92c8-4faa-84e2-89f9976671c7/99/image.jpg",
+      "caption": "Sommer2"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3311226531152",
+    "longitude": "11.1926704645157"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 1 Schlafraum",
+      "description": "Das Apartment (55m²) im Erdgeschoß, besteht aus einem Eingangsbereich, einem Schlafzimmer mit einem Doppelbett und einem Stockbett, einem Wohnzimmer mit einem Schlafsofa, Esstisch, Kabelfernseher  und W-LAN. Die neue separate Küche ist mit einer Spülmaschine, Ceranfeld, Backofen, Kühlschrank mit Gefrierfach ausgestattet. Das neu renovierte Badezimmer hat eine Badewanne mit Duschwand. Durch die Glasfront gelangen Sie direkt auf die Terrasse. ",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "App. Nr. 2/1 Schlafraum/Bad, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "60.00",
+          "maxPrice": "155.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "60.00",
+          "maxPrice": "155.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "60.00",
+          "maxPrice": "155.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "60.00",
+          "maxPrice": "155.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC",
+      "description": "\nDas Apartment mit 24m² Wohnfläche liegt im 1. Stock und hat einen herrlichen Ausblick auf die umliegenden Berge. Es besteht aus einem Eingangsbereich, einem Wohn-Schlafzimmer mit einem Doppelbett, Esstisch, Kabelfernseher und W-LAN. Die separate neue Küche ist mit Ceranfeld mit Backofen, Kühlschrank m. Gefrierfach und Mikrowelle ausgestattet. Das neue Badezimmer verfügt über eine Dusche. Durch die Glastür gelangen Sie direkt auf den Balkon. Besuchen Sie unsere Homepage: www.hausliebl.com",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "App. Nr. 7/Wohn-Schlafraum/Bad, WC",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "35.00",
+          "maxPrice": "90.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "35.00",
+          "maxPrice": "90.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 2 Schlafräume",
+      "description": "\nDas Apartment mit 65m² liegt im Erdgeschoß und besteht aus einem Eingangsbereich, einem Schlafzimmer mit einem Doppelbett, einem weiteren Schlafzimmer mit Doppelbett und Stockbett, einem Wohnzimmer mit einem Schlafsofa, Esstisch, Kabelfernseher und W-LAN. Die separate neue Küche ist mit allen modernen Küchengeräten ausgestattet. Das neu renovierte Badezimmer hat eine Badewanne mit Duschwand. Durch die Glasfront gelangen Sie direkt auf die Terrasse und den Garten. Besuchen Sie unsere Homepage.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "App. Nr. 3/2 Schlafräume/Bad, WC",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "8",
+            "minValue": "4"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "75.00",
+          "maxPrice": "175.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "75.00",
+          "maxPrice": "175.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "75.00",
+          "maxPrice": "175.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC",
+      "description": "Das Apartment mit 37m² liegt im 1. Stock und besteht aus einem Eingangsbereich, einem Wohn-Schlafzimmer mit einem Doppelbett und einem Schlafsofa,  Esstisch,  Kabelfernseher  und W-LAN. Die neue separate Küche ist mit einer Spülmaschine, Ceranfeld mit Backofen und Kühlschrank mit Gefrierfach ausgestattet. Neues Badezimmer mit Dusche/WC. Durch die große Glasfront gelangen Sie direkt auf den Balkon. Besuchen Sie unsere Homepage: www.hausliebl.com",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "App. Nr. 5/ Wohn-Schlafraum/Bad,",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "43.00",
+          "maxPrice": "115.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "43.00",
+          "maxPrice": "115.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

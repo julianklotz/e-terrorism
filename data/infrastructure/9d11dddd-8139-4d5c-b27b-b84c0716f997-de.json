@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "HealthAndBeautyBusiness",
+    "BeautySalon"
+  ],
+  "name": "Olympia Sport- und Kongresszentrum/Massagen",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3273776567008",
+    "longitude": "11.183180809021"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Olympia Sport- und Kongresszentrum",
+    "streetAddress": "Klosterstr. 600",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "+4352123220",
+    "email": "info@seefeld-sports.at",
+    "url": "http://www.seefeld-sports.at"
+  },
+  "description": "Das Massageteam um Manfred Knoll, gewerblicher Sport- und Heilmasseur bietet Ihnen wohltuendes, schmerzlinderndes, entspannendes, kühlendes, stressminderndes, hitzig körperformendes, wohlriechendes Lebensgefühl in geschmackvollem Ambiente mit atemberaubender Aussicht auf das Seekirchl mit Bergpanorama im Hintergrund. Wählen Sie aus unserem Angebot, die für Sie passende Anwendung. ",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b9245f1b-b3f1-4a70-a888-cf84033b663a/99/image.jpg",
+      "caption": "Massage"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3bba7412-85da-41f8-af11-5cedf528923c/99/image.jpg",
+      "caption": "Ruheraum"
+    }
+  ],
+  "url": [
+    "http://www.seefeld-sports.at"
+  ]
+}

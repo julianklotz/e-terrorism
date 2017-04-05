@@ -1,0 +1,20 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "TouristAttraction"
+  ],
+  "name": "Nordic Walking Strecke: Stadionrunde 3,3 km",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "description": "Ausgangspunkt: Seefeld / Seekirchl\nStreckenverlauf: Vom Start beim Seefelder Wahrzeichen, dem Seekirchl, führt die leichte Strecke Richtung Gschwandtkopf und am Casinostadion, sowie der Olympiaschanze vorbei. Entlang wunderschöner Felder und herrlicher Forststraßen erreicht man nach einer flachen Runde wieder den Ausgangspunkt.\nStreckenprofil: vorwiegend flach verlaufende Lauf- und Nordic Walkingstrecke\nUntergrund: Waldweg, Wiesenweg",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f2a3c9a5-ad6e-4d2f-b23f-f757e4189937/99/image.jpg",
+      "caption": "Nordic Walking Region"
+    }
+  ]
+}

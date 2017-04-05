@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CafeOrCoffeeShop",
+    "Store"
+  ],
+  "name": "Bäckerei - Baguette im M-Preis",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.371326403762",
+    "longitude": "11.1677322846558"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "M-Preis",
+    "streetAddress": "Weidach 340",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 4201",
+    "url": "http://www.mpreis.at"
+  },
+  "description": "Weidach 340\nTel.: +43 5214/42 01 13\nwww.mpreis.at",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/44b4454f-e168-44a6-9004-8e60f26cae54/99/image.jpg",
+      "caption": "Bäckerei"
+    }
+  ],
+  "url": [
+    "http://www.mpreis.at"
+  ]
+}

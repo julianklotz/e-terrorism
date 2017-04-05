@@ -1,0 +1,88 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://web4.deskline.net/seefeld/de/accommodation/detail/SEE/e116899e-94df-46f6-bb75-96d580587f83/haus_angelika",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Angelika",
+    "streetAddress": "Gasse 180",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6813",
+    "email": "an.melchor@gmail.com"
+  },
+  "name": "Haus Angelika",
+  "description": [
+    "Unser Haus liegt im Ortsteil Gasse, bergseitig zwischen Straße und \"Runst-Wanderweg\". Nach Süden blickt man frei über die Felder. Es ist ein altes Bauernhaus aus dem 17. Jahrhundert, wurde im Inneren jedoch im Herbst 2005 gänzlich neu ausgebaut und auf heutigen Komfortstand gebracht.",
+    "Inklusive: Heizung, Wasser, Stromkosten, Bettwäsche, Hand- und Badetücher, Autoabstellplatz;\n\nExklusive: Ortstaxe, Endreinigung;",
+    "Check-in: 16 Uhr\nCheck-out: 9 Uhr\n\nVon Mittenwald kommend liegt unser Haus kurz vor der Abzweigung Richtung Seefeld rechter Hand; wenn Sie von Richtung Inntal kommen folgen Sie bitte den Schildern Richtung Unterleutasch-Mittenwald bis zum Ortsteil Gasse."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/14ab22fb-758c-432b-97a2-77eef5f5b211/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8551cf49-22bb-4e53-b069-d3433a52e825/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/61ec00d6-3103-4e63-aab1-d2ef3ebeb5b9/99/image.jpg",
+      "caption": "Hausansicht Sommer 2"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3805224055202",
+    "longitude": "11.1610361977778"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Besteht aus Diele, Küche mit Essplatz, Wohn-Schlafraum, 1 Schlafzimmer, 1xDusche/WC, eigener Eingang;",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "37.50",
+          "maxPrice": "37.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "37.50",
+          "maxPrice": "37.50",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

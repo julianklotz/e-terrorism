@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BodyOfWater"
+  ],
+  "name": "Fischwasser Leutascher Ache",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3677640952881",
+    "longitude": "11.1559750767212"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Am Weidachsee",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 8557303",
+    "email": "info@gebirgsforelle.at",
+    "url": "http://www.gebirgsforelle.at"
+  },
+  "description": "reines Fliegenfischerrevier, Fischerprüfung und Anmeldung erforderlich!\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/647ab8cb-88df-4f67-b458-ed49ca636c27/99/image.jpg",
+      "caption": "Leutascher Ache"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/041e8765-b9f6-45f4-a60c-8940cb207b40/99/image.jpg",
+      "caption": "leutascher Ache1"
+    }
+  ],
+  "url": [
+    "http://www.gebirgsforelle.at"
+  ]
+}

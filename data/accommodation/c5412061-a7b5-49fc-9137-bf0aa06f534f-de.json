@@ -1,0 +1,95 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.tirolerweinstube.at",
+    "http://www.culinarium-alpentraum.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Appartements Tiroler Weinstube",
+    "streetAddress": "Moosweg 622",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2208",
+    "faxNumber": "(0043) 5212 2208 20",
+    "email": "info@tirolerweinstube.at",
+    "url": "http://www.tirolerweinstube.at"
+  },
+  "name": "Appartements Tiroler Weinstube",
+  "description": [
+    "inkl: Strom, Wasser, Heizung, Wäsche, Parkplatz, \nGarage Winter geheizt € 8.-- Sommer € 5.--",
+    "Check - Out: 11.00 Uhr\nWeg: Folgen sie den gelben Hotelwegweisern Check -In im Haupthaus Tiroler Weinstube im Zentrum - Fußgängerzone Zufahrt bei An- und Abreise erlaubt."
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "reviewCount": "12"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/83feefce-60e4-40d8-b770-ac57798dac07/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/afee29cb-2bc5-49ef-9ad7-e957468bc8bb/99/image.jpg",
+      "caption": "Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3313771577982",
+    "longitude": "11.1870056390762"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC",
+      "description": "Einraum Appartement mit Küche Bad WC Telefon Balkon",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/Wohn-Schlafraum/Bad, WC",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 1 Schlafraum",
+      "description": "Appartement Wohnraum, Schlafraum, Küche,2 Bäder, Essplatz, TV, Telefon, Balkon",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/1 Schlafraum/Bad, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

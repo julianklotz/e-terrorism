@@ -1,0 +1,61 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Seewald 11",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 05214 20231",
+    "email": "tessimarx@gmail.com"
+  },
+  "name": "S11",
+  "description": [
+    "Inkl. Heizung, Strom, Abstellplatz, Internet",
+    "Check in ab 15.00 Uhr - Check out bi 11.00 Uhr\n\n-\u003e in Weidach Straße gegenüber Info Büro Richtung Alpenbad\n-\u003e Nach nächster Kurve links Richtung Erlebnishotel Kristall / Seewald\n-\u003e Nach Hotel leicht rechts den Berg hinauf - erster \"Neubau\" aud der rechten Seite / S11"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/87c199b1-b9a9-4b41-bb43-2654512917c9/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/045297b4-9898-4454-ae68-c16bff30c262/99/image.jpg",
+      "caption": "Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3672059000856",
+    "longitude": "11.159865128836"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche oder Bad, WC, 1 Schlafraum",
+      "description": "Helles Apartment über 2 Stockwerke, sonnige und ruhige Lage am Waldrand. Rodelbahn, LL-Loipe + Kreithlift über kurzen Fußweg erreichbar.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement/Fewo, Dusche oder Bad, WC, 1 Schlafrau",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ]
+    }
+  ]
+}

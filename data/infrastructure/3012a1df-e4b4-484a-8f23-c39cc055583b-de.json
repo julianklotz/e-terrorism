@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure"
+  ],
+  "name": "Tankstelle Avanti",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3697189668681",
+    "longitude": "11.1665489681229"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Avanti",
+    "streetAddress": "Weidach 372a",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2735"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/71559409-f41f-4f85-b781-72c2db1fbf1e/99/image.jpg",
+      "caption": "avanti"
+    }
+  ],
+  "url": [
+    "http://"
+  ]
+}

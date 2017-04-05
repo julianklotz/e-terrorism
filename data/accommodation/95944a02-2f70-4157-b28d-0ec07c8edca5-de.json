@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Jörg  - Appartement Ottobre",
+    "streetAddress": "Milsterstr. 563 / Top 8",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT"
+  },
+  "name": "Haus Jörg - Appartement Ottobre",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8b3ec094-c5cb-44d9-bb26-919bc6ed773a/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/157f26c6-5d91-4e7a-9df1-be649ce0fc62/99/image.jpg",
+      "caption": "Winter"
+    }
+  ],
+  "currenciesAccepted": "EUR"
+}

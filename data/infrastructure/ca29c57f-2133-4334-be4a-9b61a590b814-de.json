@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Store"
+  ],
+  "name": "Fischladele",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3683926466867",
+    "longitude": "11.1560555429917"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Am Weidachsee",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 8557303",
+    "email": "info@gebirgsforelle.at",
+    "url": "http://www.gebirgsforelle.at"
+  },
+  "description": "Ab-Hofverkauf von frischen und geräucherten Spezialitäten von Forellen und Saiblingen.\nWeidach\nTel.: 05214/ 61410\nwww.gebirgsforelle.at\n\nApril - November: täglich 07:00 - 19:00 Uhr\nDez. - März: Mo - Do 09:00 - 11:30 Uhr und von 14:00 - 16:00 Uhr;\nFr + Sa von 09:00 - 11:30 Uhr\n\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8ec3ad96-53a9-4065-a837-eea695ed5fe9/99/image.jpg",
+      "caption": "Fischladele"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9f753f19-d605-4cba-a1dd-e9cc3781c05a/99/image.jpg",
+      "caption": "Fischerei"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f17866a0-6a60-4873-a5d7-5e89a648ae58/99/image.jpg",
+      "caption": "Fisch"
+    }
+  ],
+  "url": [
+    "http://www.gebirgsforelle.at"
+  ]
+}

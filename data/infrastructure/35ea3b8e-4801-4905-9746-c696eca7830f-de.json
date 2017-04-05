@@ -1,0 +1,41 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "GroceryStore",
+    "BookStore",
+    "CafeOrCoffeeShop",
+    "Store"
+  ],
+  "name": "M-Preis Reith",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3250834007156",
+    "longitude": "11.1991066867249"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "M-Preis Reith bei Seefeld",
+    "streetAddress": "Krinz 34 (Umfahrungsstraße)",
+    "addressLocality": "Reith bei Seefeld",
+    "postalCode": "6103",
+    "addressCountry": "AT",
+    "telephone": "(0043)5212 4707",
+    "url": "http:///www.mpreis.at/"
+  },
+  "description": [
+    " ",
+    " "
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a651acba-7f91-40cd-b1ea-c6ee7b6927e8/99/image.jpg",
+      "caption": "Supermarkt"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8b4355e3-d40e-4a13-aa72-38a3b64fdead/99/image.jpg",
+      "caption": "Foto"
+    }
+  ]
+}

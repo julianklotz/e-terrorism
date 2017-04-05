@@ -1,0 +1,93 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "Karwendelmarsch",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Informationsbüro Scharnitz",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Innsbrucker Str. 282",
+      "addressLocality": "Scharnitz",
+      "postalCode": "6108",
+      "addressCountry": "AT",
+      "telephone": "+4350880540 ",
+      "faxNumber": "+4350880541",
+      "email": "info.scharnitz@seefeld.com",
+      "url": "http://www.seefeld.com"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Informationsbüro Scharnitz",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Innsbrucker Str. 282",
+      "addressLocality": "Scharnitz",
+      "postalCode": "6108",
+      "addressCountry": "AT",
+      "telephone": "+4350880540 ",
+      "faxNumber": "+4350880541",
+      "email": "info.scharnitz@seefeld.com",
+      "url": "http://www.seefeld.com"
+    }
+  },
+  "description": " Um die beeindruckende Schönheit des Alpenpark Karwendel für ambitionierte Wanderer, Nordic Walker und Läufer erlebbar zu machen, organisiert die Olympiaregion Seefeld gemeinsam mit der Vitalregion Achensee den schon legendären Karwendelmarsch.\nAm 26. August ist es wieder soweit: Maximal 2.500 Teilnehmer werden schon in aller Früh in Scharnitz starten, um eine der wohl schönsten Tiroler Landschaften – den Alpenpark Karwendel - zu Fuß zu erobern. Nach 52 Kilometern (oder 35 für alle, die nur bis in die Eng marschieren möchten) bzw. 2.281 Höhenmetern bergauf wartet das Ziel in Pertisau. Dazwischen liegt all das, was den Tiroler Bergsommer ausmacht: Einmalige Naturerlebnisse in ursprünglichen Landschaften, sportliche Herausforderungen und als Stärkung regionale Bio-Köstlichkeiten, die ihres gleichen suchen.\nDas Motto des Karwendelmarschs  \"Wandern und zugleich die Einmaligkeit der Landschaft des Naturparks bewusst wahrnehmen und dies unter größtmöglicher Schonung der so wertvollen Ressource Natur\" wird konsequent umgesetzt.\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8ffd9e56-e149-41cf-a421-e5bba983c6b4/99/image.jpg",
+      "caption": "Scharnitz_Tirol_Karwendelmarsch_Start"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/22b6d4c3-b941-4ddc-ad56-a5e94ca814ad/99/image.jpg",
+      "caption": "Tirol_Karwendelmarsch"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2a9eec13-a29f-49c0-9d3c-9f521eeced8a/99/image.jpg",
+      "caption": "Karwendelmarsch_Läufer_2016"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/41a9d9b0-03ff-45c0-b5dd-a3fca07a42ec/99/image.jpg",
+      "caption": "Seefeld_Tirol_Karwendelmarsch_Gramai"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ae9acae5-6400-468d-bd18-32c91d97b634/99/image.jpg",
+      "caption": "Karwendelmarsch_2016"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/75755b39-0a19-43de-b234-30bed74da4c8/99/image.jpg",
+      "caption": "Scharnitz_Seefeld_Tirol_Karwendelmarsch"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3215e1d7-5e00-4629-ab5b-66b0fac1e990/99/image.jpg",
+      "caption": "Seefeld_Karwendelmarsch_Ziel"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4afe6fa5-1737-49a7-ab09-04a6b5851760/99/image.jpg",
+      "caption": "Karwendelmarsch_Info_Ziel"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b7a66a97-f259-42e4-a664-2931253d9d23/99/image.jpg",
+      "caption": "Karwendelmarsch_Scharnitz_Seefeld_Ziel"
+    }
+  ],
+  "url": [
+    "http://www.seefeld.com",
+    "http://www.seefeld.com",
+    "http://www.karwendel.org"
+  ],
+  "startDate": "2017-08-26T06:00:00",
+  "endDate": "2017-08-26"
+}

@@ -1,0 +1,30 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure",
+    "LocalBusiness"
+  ],
+  "name": "öffentliche Toilette im Bahnhof",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3289847653576",
+    "longitude": "11.1892533302307"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Bahnhof Seefeld",
+    "streetAddress": "Bahnhofsplatz 115",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 4969385"
+  },
+  "description": "ganzjährig offen!",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5131a224-a975-4ec6-b948-4df7f783fd66/99/image.jpg",
+      "caption": "WC"
+    }
+  ]
+}

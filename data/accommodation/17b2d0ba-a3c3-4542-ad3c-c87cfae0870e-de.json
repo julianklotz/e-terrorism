@@ -1,0 +1,18 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Anna",
+    "streetAddress": "Am Anger 10/Top 14",
+    "addressLocality": "Mösern",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "+390630880522",
+    "email": "lhh968@gmail.com"
+  },
+  "name": "ZW-Galluppi Anna",
+  "currenciesAccepted": "EUR"
+}

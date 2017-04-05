@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BarOrPub"
+  ],
+  "name": "Vino Zorzi GmbH, Vinothek",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3766447",
+    "longitude": "11.2365969"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Vino Zorzi GmbH",
+    "streetAddress": "Gießenbach 239",
+    "addressLocality": "Scharnitz",
+    "postalCode": "6108",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2121",
+    "faxNumber": "(0043) 5212 3888",
+    "email": "info@zorzi.at"
+  },
+  "description": "Öffnungszeiten: Montag-Freitag, 07.00-16.00 Uhr, Samstag nach Vereinbarung, Sonntag geschlossen. Weinverkostungen auf Anfrage. Gemeinsam haben die beiden Weinsommeliers Melanie und Hannes Scheiflinger sowie Weinhändler Manfred Zorzi „Vino Zorzi“ in Gießenbach am Seefelder Plateau eröffnet. Dort wurde eine alte Lagerhalle in ein traditionelles Weinkulturhaus umgebaut, welches durch urige Holzwände, einen gemütlichen Kachelofen und gesellige Sitzgarnitur besticht. Für Weininteressierte, vom Anfänger bis hin zum Experten, gibt es hier die Möglichkeit, fair und ehrlich Wein einzukaufen, aber auch einen Ort, um in die Welt des Weins einzutauchen.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5bc03c6e-c522-4fba-b871-fe8e70d38336/99/image.jpg",
+      "caption": "Vino Zorz"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d99c300f-bed0-4c16-a847-766b2b793f0a/99/image.jpg",
+      "caption": "Vino Zorzi 2"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CafeOrCoffeeShop",
+    "Store"
+  ],
+  "name": "Baguette im M-Preis/Bäckerei",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3249591",
+    "longitude": "11.19916"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "M-Preis Reith bei Seefeld",
+    "streetAddress": "Krinz 34 (Umfahrungsstraße)",
+    "addressLocality": "Reith bei Seefeld",
+    "postalCode": "6103",
+    "addressCountry": "AT",
+    "telephone": "(0043)5212 4707",
+    "url": "http:///www.mpreis.at/"
+  },
+  "description": [
+    " ",
+    " ",
+    "Montag bis Donnerstag von 07:30 - 18:30, Freitag von 07:30 - 19:00, Samstag von 07:30 - 18:00"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/24725eee-fb91-495d-9987-0c8db845d1ac/99/image.jpg",
+      "caption": "M-Preis Filiale"
+    }
+  ]
+}

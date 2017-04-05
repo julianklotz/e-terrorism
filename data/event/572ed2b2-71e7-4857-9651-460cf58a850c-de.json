@@ -1,0 +1,68 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "11. Leutascher Bergfrühlingstage - Begrüssungswanderung",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Informationsbüro Leutasch",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Weidach 320",
+      "addressLocality": "Leutasch",
+      "postalCode": "6105",
+      "addressCountry": "AT",
+      "telephone": "+43-50880510",
+      "faxNumber": "+43-50880811",
+      "email": "info.leutasch@seefeld.com",
+      "url": "http://www.seefeld.com"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Sportplatz Leutasch ",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Leutasch",
+      "postalCode": "6105",
+      "addressCountry": "AT"
+    }
+  },
+  "description": "LEICHTE BEGRÜSSUNGSWANDERUNG durch Blumenwiesen, entlang der Leutascher Ache. Im Anschluss Einkehr und Begrüßung durch den Direktor der Olympiaregion Seefeld. Informations- und Anmeldemöglichkeit zu den kostenpflichtigen Programmpunkten der Woche. ",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9bf760bd-64c1-494d-9256-6b5a7729b749/99/image.jpg",
+      "caption": "bergfrühl"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/bd821d06-ba47-4622-812c-9551b8b312cc/99/image.jpg",
+      "caption": "bergfrühling"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/cc2bd0aa-7fd8-4e79-bc26-4e40046852ca/99/image.jpg",
+      "caption": "bergfrühling1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e7594bd9-5a6e-452a-9a7a-02d9fbd41f53/99/image.jpg",
+      "caption": "bergfrühling2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b1beee6f-216e-49b7-b14f-652dd5d1f3e4/99/image.jpg",
+      "caption": "bergfrühling3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/10a9ab60-b4fb-4e37-ae47-720e38c09468/99/image.jpg",
+      "caption": "bergfrühling4"
+    }
+  ],
+  "startDate": "2017-06-04T17:00:00",
+  "endDate": "2017-06-04"
+}

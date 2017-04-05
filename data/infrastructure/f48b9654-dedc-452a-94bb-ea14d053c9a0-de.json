@@ -1,0 +1,20 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "TouristAttraction"
+  ],
+  "name": "Almenparadies Gaistal",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3621881540167",
+    "longitude": "11.115601197876"
+  },
+  "description": "Almenparadies Gaistal\nDas romantische Gaistal, in dem noch die Schönheit\nunberührter Natur das Landschaftsbild prägt,\nerstreckt sich vom Ortsteil Klamm in der Oberleutasch\nwestwärts in die alpine Welt zwischen\nMieminger Kette und Wettersteingebirge. Zentraler\nAusgangspunkt für Wanderungen zu den neun\nbewirtschafteten Almen, sowie den zahlreichen\nBerg- und Schutzhütten sind die fünf Parkplätze\nzwischen Klamm und dem Straßenende am Salzbach.\nDas Gaistal ist einerseits das Reich der Almen,\nandererseits jenes einer sehr ursprünglichen\nund unverwechselbaren Gebirgsnatur. Von beiden\nSeiten grüßen in wundersamen Wechsel schroffe\nKare, grün schimmernde Hochalmen, Bergmähder\nund weißlich graue Felspartien. Das grünlich-türkise\nWasser der Leutascher Ache, die auch als Gaistalache\nbezeichnet wird, begleitet Mountainbiker\ndurch die Talung bis zum Igelsee, wo der Wildbach\naus dem Breitenkopfkar entspringt. Dabei begegnet\neinem die reiche Gebirgsnatur mit Reh, Gämse,\nHirsch, Steinadler und möglicherweise Bartgeier.\nIn jedem Fall überraschen Pfiffe der Murmeltiere,\ndie zahlreich im Gebiet zwischen Rotmoosalm und\nHochfeldernalm ihre Baue anlegen. Die zahlreichen\nWandermöglichkeiten im Gaistal entnehmen\nSie bitte dem Wander- und Kulturführer, welcher in\nallen Informationsbüros der Olympiaregion Seefeld\nfür einen Unkostenbeitrag von € 3,-- erhältlich ist\noder der Website www.seefeld.com.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ce0c8bcb-7e41-44b6-91fb-4cf72a905dda/99/image.jpg",
+      "caption": "Gaistal"
+    }
+  ]
+}

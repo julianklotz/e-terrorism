@@ -1,0 +1,147 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://web.deskline.net/seefeld/de/show_accommodation/SEE/9cb4cae0-f65d-4497-a7ee-afff3dc82086/haus_mag_pension",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus MAG Pension",
+    "streetAddress": "Karwendelweg 129",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "0043 5212 50422",
+    "email": "info@maghaus.de"
+  },
+  "name": "Pension MAG",
+  "description": [
+    "Die MagHaus Pension befindet sich an einem der zwei Hauptskilifte in Seefeld und nur in 8 Gehminuten vom Zentrum von Seefeld.\n\nDie traditionell eingerichteten Zimmer und Apartments sind alle mit Sat-TV ausgestattet. Die Apartments bieten auch einen Balkon und eine Küche.Unser Hotel verfügt über eine Sauna, für die Sonnenbäder funktioniert auf unserem Grundstück rund ums Jahr ein Felsensöller.\n\nBinnen 7-8 Minuten erreichen Sie den Berg.Die Stadtmitte erreichen Sie auch sehr schnell: in 7-8 Gehminuten sind Sie schon am Hauptplatz der Stadt mit den zahlreichen gemütlichen Cafés und allerlei Geschäften.10 Gehminuten vom Hotel entfernt erstreckt sich ein wunderschöner Wald mit mehreren Skipisten und Wanderwegen.\n",
+    "Wir haben Parkplatz direckt beim Haus (für jedes Zimmer),Solarium Terasse,WLAN in jedem Zimmer,Skiraum und Sauna.",
+    "Check in: 16.00 - 21.00\nChech out: 09.00 - 12.00"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "reviewCount": "77"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/cbcffb86-acff-45b1-a07b-2ac599257fd0/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6dd4104b-835c-4566-a022-8fd5698447b5/99/image.jpg",
+      "caption": "Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3343749864694",
+    "longitude": "11.1956284490738"
+  },
+  "paymentAccepted": [
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Zweibettzimmer, Dusche",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Zweibettzimmer, Dusche",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "0"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, Balkon",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer, Dusche, Balkon",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "0"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Familienzimmer, Dusche, Balkon",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Familienzimmer, Dusche, Balkon",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "0"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Familienzimmer, Dusche, WC, 2 Schlafräume",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Familienzimmer, Dusche, WC, 2 Schlafräume",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "2"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "4"
+          }
+        }
+      ]
+    }
+  ]
+}

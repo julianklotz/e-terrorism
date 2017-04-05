@@ -1,0 +1,323 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.appartement-leutasch.com",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Appartements bei Ausserladscheider\u0027s",
+    "streetAddress": "Weidach 322",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6368",
+    "faxNumber": "(0043) 5214 6368 6",
+    "email": "ausserladscheider@gmx.at",
+    "url": "http://www.appartement-leutasch.com"
+  },
+  "name": "Appartements bei Ausserladscheider\u0027s",
+  "description": [
+    "Unser Haus liegt in Weidach, im Zentrum von Leutasch, eingebettet in eine einzigartige Berglandschaft. Überall gemütliche Atmosphäre, liebevolle Details und jene Wärme, die das Gefühl vermittelt zu Haus´zu sein. Kuschelig eingerichtete Appartements. Fühlen Sie sich einfach wohl. Erleben Sie eine wunderbare Zeit bei herzlicher Gastfreundschaft und persönlicher Betreuung.\n\nTäglich: Brötchen/Zeitungs- oder Frühstücks-Service\nGratis Eintritt im Alpenbad(Sommer)\nGroßer Garten mit Spielmöglichkeiten und Grill\nFahrradbenützung gratis\n",
+    "EXKLUSIVE: Ortstaxe, Frühstück, Garage\n\nINKLUSIVE: Heizung, Strom, Wasser"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/64c33c16-89b5-44d8-ba94-2ac4ec6aab17/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c5d95bc3-ca2d-42bb-a7bf-aaa0d666f4cc/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/705551b2-ca73-4946-8d49-2be96007a9c6/99/image.jpg",
+      "caption": "Sommeransicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/22cc50a8-c611-4353-ab9a-4c321f32db21/99/image.jpg",
+      "caption": "Winteransicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ff984642-2a09-4b8f-b387-36ad5f52063c/99/image.jpg",
+      "caption": "Hausansicht Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.371535981876",
+    "longitude": "11.164514979015"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 1 Schlafraum",
+      "description": "App. Beatrix / Christina sind für 2 - 4 Personen mit DU / Bad / WC ausgestattet, 1 Schlafzimmer und 1 Wohnschlafzimmer, Küche, Balkon oder Terrasse, SAT-TV, CD-Player, Bademantel, Föhn, Radio und Telefon sowie Geschirr und Wäsche.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Christina, Ap./1 Schlafraum, Dusche, Bad,WC",
+          "description": "Die App: Beatrix und Christina befinden sich im 2. Stock, haben 40 m²und sind für 2 - 4 Personen geeignet.\nSie finden 1 getrenntes Schlafzimmer und Bad/WC vor.\nEinen Balkon, Geschirrspühlmaschine, Wasserkocher, Toaster, Kaffeemaschine,\nCD-Player uvm. Die Wohnungen sind hell und freundlich möbliert, der Wohnraum ist mit Parkett ausgestattet im Schlafzimmer liegt Teppichboden. Einfach zum Wohlfühlen-\nFür Ihre Traumferien in Leutasch - endlich Zeit zum Genießen!  ",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "46.00",
+          "maxPrice": "46.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "52.00",
+          "maxPrice": "52.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 1 Schlafraum",
+      "description": "App. Beatrix / Christina sind für 2 - 4 Personen mit DU / Bad / WC ausgestattet, 1 Schlafzimmer und 1 Wohnschlafzimmer, Küche, Balkon oder Terrasse, SAT-TV, CD-Player, Bademantel, Föhn, Radio und Telefon sowie Geschirr und Wäsche.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Beatrix, Ap./1 Schlafraum, Dusche, Bad,WC",
+          "description": "Die App: Beatrix und Christina befinden sich im 2. Stock, haben 40 m²und sind für 2 - 4 Personen geeignet.\nSie finden 1 getrenntes Schlafzimmer und Bad/WC vor.\nEinen Balkon, Geschirrspühlmaschine, Wasserkocher, Toaster, Kaffeemaschine,\nCD-Player uvm. Die Wohnungen sind hell und freundlich möbliert, der Wohnraum ist mit Parkett ausgestattet im Schlafzimmer liegt Teppichboden. Einfach zum Wohlfühlen-\nFür Ihre Traumferien in Leutasch - endlich Zeit zum Genießen!  ",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "46.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "53.00",
+          "maxPrice": "89.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 2 Schlafräume",
+      "description": [
+        "App. Alexandra / Daniela sind für 4-6 Personen mit DU/Bad WC ausgestattet, 2 Schlafzimmern und 1 Wohnschlafzimmer, Küche mit Geschirrspüler, Balkon oder Terrasse, SAT-TV, CD-Player, Bademantel, Föhn, Radio und Telefon sowie Geschirr und Wäsche.\nIm Appartment Daniela 2x Dusche/WC.",
+        "Mit einer Größe von 70 m² befindet sich dieses Appartement im 1. Stock. Es ist für 4-6 Personen geeignet. Sie finden 2 Schlafzimmer, Bad mit Dusche und ein getrenntes WC vor. Geschirrspüler, Kaffeemaschine, Toaster, Fön uvm.\nBalkon - Terrasse zur Südseite mit herrlicher Nachmittagssonne, \nDie Wohnung ist hell und freundlich möbliert, der Wohnraum ist mit Parkett ausgestattet im Schlafzimmer liegt Teppichboden. \nEinfach zum Wohlfühlen-Für Ihre Traumferien in Leutasch - endlich Zeit zum Genießen! "
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Elisabeth, 2 Schlafräume, Dusche,WC,Bad,WC",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "4"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "73.00",
+          "maxPrice": "114.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "80.00",
+          "maxPrice": "123.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "87.00",
+          "maxPrice": "132.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 2 Schlafräume",
+      "description": [
+        "App. Alexandra / Daniela sind für 4-6 Personen mit DU/Bad WC ausgestattet, 2 Schlafzimmern und 1 Wohnschlafzimmer, Küche mit Geschirrspüler, Balkon oder Terrasse, SAT-TV, CD-Player, Bademantel, Föhn, Radio und Telefon sowie Geschirr und Wäsche.\nIm Appartment Daniela 2x Dusche/WC.",
+        "Mit einer Größe von 70 m² befindet sich dieses Appartement im 1. Stock. Es ist für 4-6 Personen geeignet. Sie finden 2 Schlafzimmer, Bad mit Dusche und ein getrenntes WC vor. Geschirrspüler, Kaffeemaschine, Toaster, Fön uvm.\nBalkon - Terrasse zur Südseite mit herrlicher Nachmittagssonne, \nDie Wohnung ist hell und freundlich möbliert, der Wohnraum ist mit Parkett ausgestattet im Schlafzimmer liegt Teppichboden. \nEinfach zum Wohlfühlen-Für Ihre Traumferien in Leutasch - endlich Zeit zum Genießen! "
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Alexandra, 2 Schlafraum, Dusche,Bad,WC",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "4"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "64.00",
+          "maxPrice": "109.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "71.00",
+          "maxPrice": "118.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "76.00",
+          "maxPrice": "127.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Daniela, Ap. 2 Schlafräume,2x Dusche, WC",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "4"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "55.00",
+          "maxPrice": "109.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "62.00",
+          "maxPrice": "118.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "69.00",
+          "maxPrice": "123.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Familienzimmer, Dusche und Bad, WC",
+      "description": "Familienzimmer Beatrix / Christina sind für 2 - 4 Personen mit DU / Bad / WC ausgestattet, 1 Schlafzimmer und 1 Wohnschlafzimmer, Küche, Balkon oder Terrasse, SAT-TV, CD-Player, Bademantel, Föhn, Radio und Telefon sowie Geschirr und Wäsche.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Beatrix \u0026 Christina mit Dusche, Bad, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Familienzimmer, Dusche und Bad, WC",
+      "description": "Familienzimmer Alexandra / Daniela sind für 4-6 Personen mit DU/Bad WC ausgestattet, 2 Schlafzimmern und 1 Wohnschlafzimmer, Küche mit Geschirrspüler, Balkon oder Terrasse, SAT-TV, CD-Player, Bademantel, Föhn, Radio und Telefon sowie Geschirr und Wäsche.\nIm Appartment Daniela 2x Dusche/WC.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Alexandra \u0026 Daniela mit Dusche, Bad, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "4"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hostel",
+    "Landform"
+  ],
+  "name": "Kreuzeckhaus",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.4652942491088",
+    "longitude": "11.103572845459"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Kreuzeckhaus",
+    "addressLocality": "Garmisch-Partenkirchen",
+    "postalCode": "82467",
+    "addressCountry": "DE",
+    "telephone": "(0049) 8821 2202",
+    "url": "http://www.kreuzeckhaus.de"
+  },
+  "description": "Übernachtungsmöglichkeit für 100 Personen",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e85ab439-1fd8-4baf-b378-2148e548041c/99/image.jpg",
+      "caption": "Kreuzeckhaus1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5b1fcde7-f684-445c-bba3-a618cb117026/99/image.jpg",
+      "caption": "Kreuzeckhaus"
+    }
+  ],
+  "url": [
+    "http://www.kreuzeckhaus.de"
+  ]
+}

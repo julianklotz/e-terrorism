@@ -1,0 +1,52 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "12. Internationaler Raiffeisen Mountain Run auf die Seefelder Spitze",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Ski-Club Seefeld",
+    "employee": {
+      "@type": "Person",
+      "givenName": "Martin",
+      "familyName": "Mausser"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Seefeld",
+      "postalCode": "6100",
+      "addressCountry": "AT",
+      "telephone": "+436606548630",
+      "email": "nennungen.ltss@ski-club-seefeld.com",
+      "url": "http://www.ski-club-seefeld.com"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Ski-Club Seefeld",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Seefeld",
+      "postalCode": "6100",
+      "addressCountry": "AT",
+      "telephone": "+436606548630",
+      "email": "nennungen.ltss@ski-club-seefeld.com",
+      "url": "http://www.ski-club-seefeld.com"
+    }
+  },
+  "description": "DER BERGLAUF MIT DEM SCHÖNSTEN PANORAMA TIROLS !\nMit dem Start bei der Talstation Rosshütte können zwei verschiedene Routen bewältigt werden. Der erste Trail „Mountainrun“ führt auf knapp 1.000 Höhenmeter, die zweite Strecke „Jedermann-Run“ auf ca. 540 Höhenmeter. Jeder Teilnehmer ist herzlich willkommen, ob als Einzelstarter, Zweierteams oder als Mannschaft. Wertungskombination mit dem Karwendel-Berglauf in Mittenwald möglich. Nennungen \u0026 Organisation: Ski-Club Seefeld - Lauf-und Tourensport, Martin Mausser, Tel.: 0660/6548630, E-mail: nennungen.ltss@ski-club-seefeld.com.\n\n\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/74a55e31-6e19-41f4-bfcf-813886b1031a/99/image.jpg",
+      "caption": "MR"
+    }
+  ],
+  "url": [
+    "http://www.mountainrun-seefeld.at"
+  ],
+  "startDate": "2017-06-18T09:45:00",
+  "endDate": "2017-06-18"
+}

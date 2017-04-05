@@ -1,0 +1,28 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Store"
+  ],
+  "name": "Geschenkehaus Seefeld, Souvenirs",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3297628501701",
+    "longitude": "11.1871719360352"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Geschenkehaus Seefeld",
+    "streetAddress": "Olympiastr. 717",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 52973"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c86d4491-5773-4f1b-91e9-c9d75973e156/99/image.jpg",
+      "caption": "Piktogramm Einkauf"
+    }
+  ]
+}

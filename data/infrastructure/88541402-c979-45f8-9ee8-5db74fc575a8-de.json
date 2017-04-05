@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "TouristAttraction"
+  ],
+  "name": "Fremdenführer - Austria Guide - Bader Alexander",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Appartementhaus Bader",
+    "streetAddress": "Ostbach 9",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 6644040093",
+    "email": "bader-alex@aon.at",
+    "url": "http://www.ferienwohnung-leutasch.info"
+  },
+  "description": "Reiseleiter\n\nFremdenführer (Austria-Guide)\nAlexander Bader, Tel. 0664 4040093\nbader-alex@aon.at \nTirol weite Stadt- bzw. Führungen nach individueller Absprache. Auch Bus- und Privatgruppen.\n\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7836d297-107f-49a6-8e8a-98ce9010bd6c/99/image.jpg",
+      "caption": "Austria Guide"
+    }
+  ],
+  "url": [
+    "http://www.ferienwohnung-leutasch.info"
+  ]
+}

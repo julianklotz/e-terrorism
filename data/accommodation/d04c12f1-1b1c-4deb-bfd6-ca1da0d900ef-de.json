@@ -1,0 +1,541 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://www.astoria-seefeld.com",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Astoria Relax \u0026 Spa Resort ",
+    "streetAddress": "Geigenbühelstr. 185",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2272-0",
+    "faxNumber": "(0043) 5212 2272 100",
+    "email": "hotel@astoria-seefeld.com",
+    "url": "http://www.astoria-seefeld.com"
+  },
+  "name": "Astoria Resort",
+  "description": [
+    "\nDas private 5-Sterne Resort ASTORIA wird von Elisabeth Gürtler, die Ihre Gastgeberin, aber auch Geschäftsführerin der Hotel Sacher Eduard Sacher GmbH ist, persönlich und mit Liebe geführt.Genießen Sie und lassen Sie sich im einzigen Restaurant Seefelds, welches mit 1 Haube Gault Millau (bereits zum 9. Mal in Folge) ausgezeichnet wurde verwöhnen! Das mit 3 Lilien ausgezeichnete Astoria Resort liegt in ruhiger Lage inmitten eines 20.000 m² großen Hotelparks mit traumhaftem Blick auf die Seefelder Berge. Das Herzstück des Wellnessbereiches im Astoria Resort bilden der großzügige miteinander verbundene Innen- und Aussenpool, das 20 Meter beheizte Sportbecken im Außenbereich, das Sole Jacuzzi im Garten und der 800 m² große Astoria Naturbadesee. Ein Ambiente, in welchem der Gast ein Königreich für Leib und Seele entdeckt. Entspannen Sie sich in unserem ca. 4.000 m² großen Relax \u0026 Spa Refugium!",
+    "\nGourmethalbpension: Frühstücksbuffet bis 11 Uhr, mittags im Relax \u0026 Spa Refugium Salatbuffet und Suppe, nachmittags Kuchenbuffet, abends 7-Gang-Wahlmenü mit Salatbuffet, freie Benützung Relax \u0026 Spa Refugium, Teilnahme am Aktivprogramm, Parkplatz Kostenpflichtig: Garage: € 18.- pro Tag, Haustiere: € 29.- pro Tag (ohne Futter), Solarium: € 12.- pro Jeton (10 Min), Kosmetik- und Massageangebote.",
+    "\nSeefeld Mitte abfahren nach Kreisverkehr, Richtung Zentrum über den Bahnübergang, nach 50 m beim Hotel Central rechts abbiegen (Münchner Str.), nach ca. 250 m beim Friseursalon \"Haarschmid\", links in die Geigenbühelstr. abbiegen, der Straße folgen bis zum Astoria Resort."
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "reviewCount": "197"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d7f43660-566e-4efc-9622-dc1a5ef45f7f/99/image.jpg",
+      "caption": "Hotel Astoria Relax Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0e31b62f-e7de-4567-ba8b-2da33c9727c5/99/image.jpg",
+      "caption": "LOGO_web"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5ecce71d-4976-411e-a443-aaf8a058da6a/99/image.jpg",
+      "caption": "Hotel Astoria Relax Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/259aab98-957a-4fd9-b321-575004ba5e42/99/image.jpg",
+      "caption": "Pool Infinity"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/761578bb-993a-4f79-b58d-36df8b5ea3c1/99/image.jpg",
+      "caption": "Girlfriends"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/43ef9b02-ef82-48c6-8d9c-c946bb280e52/99/image.jpg",
+      "caption": "Hallenbad"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/68eaaf26-56dd-4083-a885-0c6761aad8f5/99/image.jpg",
+      "caption": "Hallenbad Liegen mit Aussicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c2752a47-1775-445b-8adf-1076842248a1/99/image.jpg",
+      "caption": "Speisesaal"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/413e09d0-f1ff-4c4a-afc5-f0193df369bd/99/image.jpg",
+      "caption": "Hotelhalle mit Kamin"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/83bb43fb-0cc9-4249-8676-6e949843a7fe/99/image.jpg",
+      "caption": "Ruheraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/873026e5-f427-4569-af7b-d32bffaade9f/99/image.jpg",
+      "caption": "Wellness"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/865b3455-5475-41c7-b8d3-5446f3f04e8f/99/image.jpg",
+      "caption": "Pool-Terrasse"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ee2105e2-5160-4092-8810-f5f2af4b00fb/99/image.jpg",
+      "caption": "See Kein"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b59c10aa-2012-4037-886e-7db98412b3d1/99/image.jpg",
+      "caption": "Freundinnen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8693ff35-36c1-4952-91ec-e7e7f7e70619/99/image.jpg",
+      "caption": "Astoria-Wintergarten-Ausschnitt"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9cf09801-3840-4de1-8787-7c7ee80c638b/99/image.jpg",
+      "caption": "Astoria-Lesehalle-Ausblick"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/407bf75b-265a-4821-b3aa-1b174e67f27d/99/image.jpg",
+      "caption": "Astoria-Außenbereich-Eingang"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c02fbb7c-27bc-41ea-aa12-8a71a333870d/99/image.jpg",
+      "caption": "Astoria-Hundefreundlich-Ella"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7b4f52df-bf57-4037-87ec-dba7bc3f445a/99/image.jpg",
+      "caption": "Herbststimmung_07"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3354345239598",
+    "longitude": "11.188223361969"
+  },
+  "paymentAccepted": [
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Junior Suite, Bad, WC",
+      "description": "Juniorsuite zur Südseite mit Terrasse oder Balkon, ca. 35m²",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Härmelekopf Junior Suite",
+          "description": "\nFreundlich und hell mit großzügigem südseitigem Balkon oder Terrasse, Sitz- und Liegemöglichkeit, Badezimmer mit Badewanne, teilweise mit getrennter Dusche und separaten WC, Minibar, Safe, Flat-TV, kostenloses WLAN, Bademantel und Slipper",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "259.00",
+          "maxPrice": "9999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "199.00",
+          "maxPrice": "592.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "179.00",
+          "maxPrice": "549.33",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Junior Suite, Dusche und Badewanne",
+      "description": "Juniorsuite zur Südseite mit Terrasse oder Balkon, großzügigem Bad, ca. 50m²",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Juniorsuite Alpin Chic",
+          "description": "Juniorsuite 50 m²\n\nGroßzügiger gemeinsamer Wohn- und Schlafraum\nBalkon oder Terrasse mit Panoramablick\ngroßzügiges Bad mit Dusche, Wanne und Bidet\nelektrischer Kamin, Flat-TV, DVD-Player, Minibar, Safe\nkostenloses WLAN\nBademantel und Slipper\n",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "9999.00",
+          "maxPrice": "9999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "241.00",
+          "maxPrice": "668.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "217.00",
+          "maxPrice": "617.67",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Badewanne",
+      "description": "Comfort Doppelzimmer nordseitig ohne Balkon, ca. 30 m²",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Comfort Doppelzimmer \"Karwendel\"",
+          "description": "\nKomfort Doppelzimmer 30 m² Freundlich und hell mit französischem Balkon Marmorbad mit Doppelwaschtisch, Badewanne, getrennte Dusche, separates WC elektrischer Kamin Minibar, Safe, Flat-TV kostenloses WLAN Bademantel und Slipper",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "209.00",
+          "maxPrice": "9999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "167.00",
+          "maxPrice": "531.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Suite, Bad, WC",
+      "description": "Suite ca. 50m², südseitig mit Balkon sowie separatem Wohn- \u0026 Schlafbereich",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Suite Seefelder Spitze",
+          "description": "Suite ca 50m² \n\nSüdseitig mit Balkon und Panoramablick, \nSitz- und Liegemöglichkeit\ngroßzügiges Bad mit getrennter Dusche und Badewanne,separates WC\nSchlaf- \u0026 Wohnbereich getrennt\nFlat-TV, DVD-Player, Minibar, Safe\nkostenloses WLAN\nBademantel und Slipper\n",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "313.00",
+          "maxPrice": "9999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "241.00",
+          "maxPrice": "668.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "217.00",
+          "maxPrice": "617.67",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Badewanne",
+      "description": "Comfort Doppelzimmer \"De Luxe\" südseitig mit Balkon, ca. 35m²",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Comfort Doppelzimmer \"Karwendel De Luxe\"",
+          "description": "\nKarwendel Deluxe Komfort Doppelzimmer 35 m² neu gestaltetes Zimmer mit Wohnecke, großzügigem Balkon zur Südseite, Marmorbad mit Doppelwaschtisch, Badewanne, getrennte Dusche, separates WC/Bidet, Minibar, Safe, Flat-TV kostenloses WLAN Bademantel und Slipper",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "259.00",
+          "maxPrice": "9999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "199.00",
+          "maxPrice": "592.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Suite, Toilette und Bad/Dusche getrennt, 1 Schlafraum",
+      "description": "Astoria Suite ca. 90m², südseitig mit gedeckter Terrasse und Panoramabalkon",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Astoria Suite",
+          "description": "\t\n\nASTORIA SUITE\n\nSuite 90 m²\n\nSüdseitig mit gedeckter Terrasse, Sitz- und Liegemöglichkeit\nSchlafzimmer und Bad mit Panoramablick\nAnkleideraum, Salon, Marmorbad mit getrennter Dusche, freistehender Badewanne, separates WC\nElektrischer Kamin, Flat-TV, DVD-Player, kostenloses WLAN, Minibar, Safe\nBademantel und Slipper\nVerbindungsmöglichkeiten mit angrenzenden Schlafzimmern\n",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "307.00",
+          "maxPrice": "855.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Suite, Dusche und Bad, WC, 1 Schlafraum",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Panorama Suite",
+          "description": "Suite 50 m²\n\ngetrennter Wohn- und Schlafraum\ngroßzügiges Marmorbad\ngetrenntes WC/Bidet\nEichenboden\nelektrischer Kamin\nDachgeschoss mit Balkon\nBlick auf das Seefelder Bergpanorama\n",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "261.00",
+          "maxPrice": "261.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Suite, Dusche und Bad, WC, 1 Schlafraum",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Olympia Suite",
+          "description": "Suite 50 m²\n\ngetrennter Wohn- und Schlafraum\ngroßzügiges Marmorbad\ngetrenntes WC/Bidet\nEichenboden\nelektrischer Kamin\nDachgeschoss mit Balkon\nBlick auf das Seefelder Bergpanorama\n",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "261.00",
+          "maxPrice": "261.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Junior Suite, Dusche und Bad, WC, Balkon",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Wellness Junior Suite",
+          "description": "Wellness-Juniorsuite 50 m²\n\nGroßzügiger gemeinsamer Wohn- und Schlafraum\nBalkon oder Terrasse mit Panoramablick\ngroßzügiges Bad mit Dusche, Wanne und Bidet\nelektrischer Kamin, Flat-TV, DVD-Player, Minibar, Safe\nkostenloses WLAN\nBademantel und Slipper\nVerbindungsmöglichkeiten zu angrenzenden Wellness-Juniorsuiten\n",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "241.00",
+          "maxPrice": "668.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Junior Suite, Bad, WC, Wohn-/Schlafraum",
+      "description": "Juniorsuiteca.  60 m²\nGroßzügiger gemeinsamer Wohn- und Schlafraum\nBalkon oder Terrasse mit Panoramablick\ngroßzügiges Bad mit Dusche, Wanne und Bidet\nFlat-TV, DVD-Player, Minibar, Safe\nkostenloses WLAN\n\n\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Junior Suite Alpin De Luxe",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "313.00",
+          "maxPrice": "9999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "241.00",
+          "maxPrice": "668.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

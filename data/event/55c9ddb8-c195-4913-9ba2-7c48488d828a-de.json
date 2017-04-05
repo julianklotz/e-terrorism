@@ -1,0 +1,62 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "Winter-Erlebnisse - Zu Gast am Zottlhof",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Informationsbüro Leutasch",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Weidach 320",
+      "addressLocality": "Leutasch",
+      "postalCode": "6105",
+      "addressCountry": "AT",
+      "telephone": "+43-50880510",
+      "faxNumber": "+43-50880811",
+      "email": "info.leutasch@seefeld.com",
+      "url": "http://www.seefeld.com"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Zottlhof",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Moos 8 c",
+      "addressLocality": "Leutasch",
+      "postalCode": "6105",
+      "addressCountry": "AT",
+      "telephone": "(0043)  676 6240801",
+      "email": "info@zottlhof.com",
+      "url": "http://www.zottlhof.com"
+    }
+  },
+  "description": "Das Winter-Erlebnisprogramm bietet 15 einzigartige Abenteuer für Jung und Alt! Exklusiv und kostenfrei mit der Olympiaregion Seefeld Card! Gehen Sie auf Tuch- bzw. Haarfühlung mit den „Zottl“ in Leutasch. Erfahren Sie Wissenswertes über Hochlandrinder aus eigener Tiroler Zucht und schwingen je nach Lust \u0026 Laune die Heugabel zur Fütterung.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8a887dc2-90b7-480f-aa5b-0973203c7f9b/99/image.jpg",
+      "caption": "Rinder"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2c2ab8fc-0df6-4f10-8503-da8999bed254/99/image.jpg",
+      "caption": "Zottlhof"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e5e4b639-2bd4-492e-9d78-cfa9534233e8/99/image.jpg",
+      "caption": "Stall"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9c51bd60-b81a-40dd-9fad-ee0d9c83adad/99/image.jpg",
+      "caption": "Zottl"
+    }
+  ],
+  "startDate": "2016-12-09T14:00:00",
+  "endDate": "2017-03-24"
+}

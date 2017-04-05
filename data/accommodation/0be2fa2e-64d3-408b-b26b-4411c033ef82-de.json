@@ -1,0 +1,100 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.pensionbrigitte.beepworld.de",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Appartement Brigitte",
+    "streetAddress": "Andreas Hofer Str. 160",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 3922",
+    "faxNumber": "(0043) 5212 39 22",
+    "email": "pension.brigitte@outlook.com",
+    "url": "http://www.pensionbrigitte.beepworld.de"
+  },
+  "name": "Appartement Brigitte",
+  "description": [
+    "Die Gastgeberfamilie Weber bietet Ihnen im Appartement Brigitte in Seefeld in Tirol zwei liebevoll gestaltete Appartements an, mit allen Vorteilen der zentralen Lage für lebendige Leichtigkeit während Ihres Urlaubes in der Olympiaregion Seefeld.\n\nAb dem Appartement Brigitte erreichen Sie rasch in nur 2 Gehminuten die Seefelder Fußgängerzone, den Bahnhof oder die (Regions-)Bushaltestellen.\n\nDas großzügige 3-Raum-Appartement „Enzian“ besteht aus einem geräumigen Wohnzimmer mit Schlafsofa sowie einem Schlafzimmer, das mit Doppel-Boxspringbett und zusätzlichem Einzelbett 2 bis 4 Personen genügend Raum bietet. Die große Wohnküche mit Esstisch, das Badezimmer mit Dusche/WC und ein den gesamten Wohnbereich umfassenden Süd-West-Balkon mit verglaster Veranda-Ecke in Richtung Garten sorgen für lichtdurchflutetes Wohlfühlambiente. \nIm 2-Raum-Appartement „Edelweiß“ fühlen sich bis zu 3 Personen wohl. Ein Schlafzimmer mit Doppelbett, Bad mit Dusche/WC und ein Wohnzimmer mit Schlafsofa und Küchenblock zählen hier zu den Ausstattungsmerkmalen. Der Südbalkon ist ein weiteres Highlight für den ganz privaten Genuss der Tiroler Bergwelt. In beiden Nichtraucher-Ferienwohnungen können Sie auch Gratis-WLAN nutzen. Auf Wunsch ist das Frühstück in unserem Haus zubuchbar.\n\nGönnen Sie sich im Sommer eine Fahrt mit der Pferdekutsche oder dem kostenlosen Dorfbus durch Seefeld, die Haltestelle liegt mit 2 Gehminuten in unmittelbarer Nähe zum Appartement Brigitte. Golfer können ihre Leidenschaft im 500 m entfernten Golfclub Seefeld - Reith ausleben.\n\nWanderer können sich im Winter mit 145 km geräumten Wegen über wunderschöne Naturerlebnisse in der Olympiaregion Seefeld freuen. Von der Loipe trennen Langlaufbegeisterte nur maximal 10 Gehminuten und Wintersportler finden auf den Skipisten der Bergbahnen Rosshütte und Gschwandtkopflifte in Seefeld beste Bedingungen. Die Skibushaltestelle sorgt mehrmals täglich und kostenlos für schnelle Busverbindungen in eines der Seefelder Skigebiete. \n\nFür Ihre Ski steht Ihnen der hauseigene Skiraum zur Verfügung; Ihr Auto können Sie bequem und kostenlos auf unserem Parkplatz beim Appartement Brigitte abstellen!\n\nTipp: Neben den Appartements verfügt die Pension Brigitte ebenfalls über Doppel- und Einzelzimmer und deckt somit ganz flexibel auch den Komfort einer Frühstückspension ab.\n\nDie Familie Weber begrüßt Sie gerne persönlich im Appartement Brigitte, wo Sie Ihren Aktiv- oder Erholungsurlaub in der Olympiaregion Seefeld verbringen können.\n",
+    "Inklusive: Heizung, Wasser, Stromkosten\nExklusive: Frühstück auf Wunsch (7,--)\n\n",
+    "Check-In: 14 Uhr, Check-Out: 10 Uhr\n\nWeg: Unser Haus liegt ca. 100 m vom Kurpark und Dorfzentrum entfernt."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/eb9d385e-d92a-43d5-9668-a5443edd5bfb/99/image.jpg",
+      "caption": "Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3299373722925",
+    "longitude": "11.1906427145004"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Schlafzimmer mit Doppelbett, Dusche/WC, Wohnzimmer mit Südbalkon zur Gartenseite.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement Edelweiß",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "50.00",
+          "maxPrice": "50.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "55.00",
+          "maxPrice": "55.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement Enzian",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

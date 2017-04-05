@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation"
+  ],
+  "name": "Schiverleih",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3821369486978",
+    "longitude": "11.2626178213959"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Brandlift",
+    "streetAddress": "Brand 390",
+    "addressLocality": "Scharnitz",
+    "postalCode": "6108",
+    "addressCountry": "AT",
+    "telephone": "(0043)664 9175135 ",
+    "email": "info@brandlift.at",
+    "url": "http://www.brandlift.at"
+  },
+  "description": [
+    "Scharnitz\nBrandlift\nTel.: 0664/9175135, www.brandlift.at\nAlpin komplett pro Tag € 11,00\nLanglauf komplett pro Tag € 10,00\nSchischuhe pro Tag € 4,00\nStocke pro Tag € 2,00\nRodel pro Tag € 3,00\nFun Carver pro Tag € 8,00\nBig Foot pro Tag € 8,00\nSnowboard pro Tag € 16,00\nSnowboard . Tag € 8,00\nSnowboard Boots pro Tag € 4,00",
+    "Scharnitz\nBrandlift\nTel.: 0664/9175135, www.brandlift.at\nAlpin komplett pro Tag € 11,00\nLanglauf komplett pro Tag € 10,00\nSchischuhe pro Tag € 4,00\nStocke pro Tag € 2,00\nRodel pro Tag € 3,00\nFun Carver pro Tag € 8,00\nBig Foot pro Tag € 8,00\nSnowboard pro Tag € 16,00\nSnowboard . Tag € 8,00\nSnowboard Boots pro Tag € 4,00"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/df381086-82ec-4ed7-92d7-59895b5ee176/99/image.gif",
+      "caption": "Brandlift"
+    }
+  ]
+}

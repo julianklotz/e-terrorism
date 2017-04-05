@@ -1,0 +1,229 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.wirtseppeler.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Wirtseppelerhof",
+    "streetAddress": "Obern 30 b",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6768",
+    "faxNumber": "(0043) 5214 6768",
+    "email": "info@wirtseppeler.at",
+    "url": "http://www.wirtseppeler.at"
+  },
+  "name": "Wirtseppelerhof",
+  "description": [
+    "Die Apartments im Wirtseppelerhof liegen im schönen Ortsteil Obern am Eingang ins Gaistal. Im Winter steht Ihnen der Loipeneinstieg (279 km) direkt vor unserem Haus zu Verfügung. Außerdem liegen wir perfekt für Winterwanderungen, Rodeltouren oder im Sommer als Ausgangspunkt für Wander- und Radtouren. \nEin Garten zum Ausruhen steht ihnen genauso zu Verfügung wie ein Grill. Ein Carport steht pro Wohnung für Sie bereit. \nEine Haltestelle (sowohl für Ausflüge im Sommer, als auch zum nächsten Schigebiet) erreichen sie zu Fuß in nur 4 Minuten. Ein Lebensmittelgeschäft und Restaurants stehen in unmittelbarer Nähe zu Verfügung. Gerne bringen wir Ihnen frisches Gebäck zum Frühstück auf Ihr Apartment. \nGenießen Sie unser Quellwasser oder genießen Sie ein frisch gelegtes Ei unserer Hühner.",
+    "Inklusive: Wäsche, Autounterstellplatz, Heizung, Strom, Fahrräder, Rodeln\nExklusive: Ortstaxe",
+    "Check-In 14.00 Uhr / Check-Out 9.30 Uhr\nMittenwald - Unterleutasch - Gasse vorbei an der Kirche bis Ortsteil Obern, kleiner Sparmarkt - Kreuzung links.",
+    "Bauernhof, Tiere, Kinder, Leutasch, Ruhe, Entspannung, Bioprodukte, Bio, Kräuter, Familie, Bauernhof"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "reviewCount": "18"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/cdd246b1-d387-4fe6-ae05-8d38080ea6cc/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b4aa1c3a-c9f5-443b-aa5e-f1ba1df5917d/99/image.jpg",
+      "caption": "Logo Wirtseppelerhof"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5ab7a37e-bf42-4e40-81cf-530d1b0b5f37/99/image.jpg",
+      "caption": "Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.358024720315",
+    "longitude": "11.125503398221"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "Die Ferienwohnung Karwendel besteht aus zwei separaten Schlafzimmern, einer Wohnküche mit Wohnzimmer (mit Schlafcouch), einem Bad mit Dusche sowie einem kleinen Gang. Am Balkon können Sie nach einer Langlauf- oder Wandertour die Aussicht genießen. Ein Frühstück am Balkon bietet sich bei diesem tollen Ausblick natürlich auch sehr an. Die Ferienwohnung wurden frisch renoviert. Das Wohnzimmer ist mit einem Flachbildschirm (mit SATTV) ausgestattet. Bettwäsche und Handtücher werden gestellt.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Karwendel/1 Schlafraum/Dusche, WC",
+          "description": "Die Ferienwohnung Karwendel besteht aus einem seperaten Schlafzimmer, einer Küche, einem Wohnzimmer (mit Schlafcouch), einem Bad mit Dusche sowie einem kleinen Gang. Am Balkon können Sie nach einer Langlauf- oder Wandertour die Aussicht genießen. Ein Frühstück am Balkon bietet sich bei diesem tollen Ausblick natürlich auch sehr an. Das Bad und das Schlafzimmer wurden frisch renoviert. Das Wohnzimmer ist mit einem Flachbildschirm (mit SATTV) ausgestattet. Bettwäsche und Handtücher werden gestellt",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "50.00",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "50.00",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "50.00",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "50.00",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "50.00",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "50.00",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Die Ferienwohnung Hochmoos besteht aus einem Wohnzimmer(mit Sat TV und Schlafcouch) mit Kochnische, einem separaten Schlafzimmer, Bad mit Dusche, und Balkon (Richtung Süden). Bitte beachten Sie, dass das Bad der Wohnung über einen kleinen Gang außerhalb der Wohnung zu erreichen ist. Viele unserer Gäste stört dies nicht und sie fühlen sich sehr wohl in dieser Wohnung. Am Balkon können Sie nach einer Langlauf- oder Wandertour die Aussicht genießen. Bettwäsche und Handtücher werden von uns gestellt",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Hochmoos/1 Schlafraum/Dusche, WC",
+          "description": "Die Ferienwohnung Hochmoos besteht aus einem Wohnzimmer(mit Sat TV und Schlafcouch) mit Kochnische, einem separaten Schlafzimmer, Bad mit Dusche, und Balkon (Richtung Süden). Bitte beachten Sie, dass das Bad der Wohnung über einen kleinen Gang außerhalb der Wohnung zu erreichen ist. Viele unserer Gäste stört dies nicht und sie fühlen sich sehr wohl in dieser Wohnung. Am Balkon können Sie nach einer Langlauf- oder Wandertour die Aussicht genießen. Bettwäsche und Handtücher werden von uns gestellt",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "38.00",
+          "maxPrice": "70.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "38.00",
+          "maxPrice": "70.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "38.00",
+          "maxPrice": "70.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "38.00",
+          "maxPrice": "70.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Die Ferienwohnung Hohe Munde besteht aus einem Wohnzimmer mit SATTV (mit Schlafcouch) und Kochnische, einem separaten Schlafzimmer, einem Bad mit Dusche und einem Balkon. Am Balkon (Richtung Süden u. Westen) können Sie nach einer Langlauf- oder Wandertour die Aussicht genießen. Ein Frühstück am Balkon bietet sich bei diesem tollen Ausblick natürlich auch sehr an.\nBettwäsche und Handtücher werden von uns gestellt.\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Hohe Munde/1 Schlafraum/Dusche, WC",
+          "description": "Die Ferienwohnung Hohe Munde besteht aus einem Wohnzimmer mit SATTV (mit Schlafcouch) und Kochnische, einem separaten Schlafzimmer, einem Bad mit Dusche und einem Balkon. Am Balkon (Richtung Süden u. Westen) können Sie nach einer Langlauf- oder Wandertour die Aussicht genießen. Ein Frühstück am Balkon bietet sich bei diesem tollen Ausblick natürlich auch sehr an.\nBettwäsche und Handtücher werden von uns gestellt.\n",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "42.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "42.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "42.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "42.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

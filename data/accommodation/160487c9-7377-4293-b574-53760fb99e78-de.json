@@ -1,0 +1,157 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.harrys-huette-tirol.info",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Harrys Hütte",
+    "streetAddress": "Am Inrain 494",
+    "addressLocality": "Scharnitz",
+    "postalCode": "6108",
+    "addressCountry": "AT",
+    "telephone": "+436644666883",
+    "email": "harrys2@a1.net",
+    "url": "http://www.harrys-huette-tirol.info"
+  },
+  "name": "Harrys Hütte",
+  "description": [
+    "PANORAMAHAUS für 14 Personen in sonniger Hanglage am Waldrand. 250m2 Baujahr 2009. Mit Sauna, Whirlpool, beheiztem Freisitz und Spielzimmer mit Tischfussball und Wii-Konsole. Kostenlos: W-LAN, Fahrräder, E-Bikes und Rodeln.5 Schlafzimmer, 3 Bäder.  \nDas Haus liegt direkt an den Wanderwegen und Mountainbikerouten des ALPENPARK KARWENDEL. Die Langlaufloipe ist 800m entfernt und die Skigebiete in Seefeld 9 Autominuten.",
+    "Inklusive:\n* Bettwäsche, Badetücher, Saunatücher und Bademäntel\n* Strom, Heizung, 5 Parkplätze, MTB-Fahrräder, Damen u. Kinderfahrräder, 2 E-Bikes\n* im Winter: Schischuhtrockner, 6 Rodeln für unsere 2 Naturrodelbahnen im Ort\n* W-LAN kostenlos!\n* deutscher Handynetzempfang\n* Grillplatz mit Kugelgrill\nExklusive: Ortstaxe und Endreinigung\n\nCheck-In: ab 16:00 Uhr / Check-Out: bis 10:00 Uhr",
+    "Von Deutschland kommend:\nIn der Ortsmitte von Scharnitz vor der Kirche links abbiegen Richtung Parkplatz Karwendeltäler. Nach der großen Wiese links über die Günter Klinge Brücke fahren und der Beschilderung rechts hinauf folgen.\n",
+    "Ferienhaus Seefeld Mountainbiken Tirol, Familienurlaub Seefeld, Gruppenurlaub Seefeld, Hütte Tirol, "
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/daab6b2d-0b96-4d9f-acc1-4c5052049749/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1cf71035-2639-4d39-bf00-c9bac7173390/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2c511316-9e79-4774-b69d-d5a812c563ca/99/image.jpg",
+      "caption": "Hausfoto WI seite"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/35f92c92-c3c6-4294-b0a3-f3815f0780ad/99/image.jpg",
+      "caption": "Sommer II"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d2f2d5b9-4efb-4683-8b80-4b4fc92689d5/99/image.jpg",
+      "caption": "Sommer I"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/22c4a83d-d992-4da0-82aa-ac9f6a9fe5c9/99/image.jpg",
+      "caption": "Harry\u0027s Chalet Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/473866df-ba9d-4c09-917f-64ec7b050637/99/image.jpg",
+      "caption": "Aussicht WI"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/96e4ab85-721f-46ed-9945-52087fe1ced8/99/image.jpg",
+      "caption": "Sauna"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/84811ef5-fb47-45e2-a7a2-1f5e6b6da005/99/image.jpg",
+      "caption": "Harry\u0027s Chalet Sauna"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/377cf4d0-fc66-478e-b294-ff83dd306dca/99/image.jpg",
+      "caption": "Ruheraum mit Whirlpool"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/02b5c6af-40df-49cb-95b7-97f6638e8050/99/image.jpg",
+      "caption": "Aufenthaltsraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e2356563-7d7f-4556-bb2f-0c398c501296/99/image.jpg",
+      "caption": "Freizeitraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6568a48e-e635-4657-9800-95bd7269d9a3/99/image.jpg",
+      "caption": "Harry\u0027s Chalet Winter 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4a5e09a7-6e39-4691-b58d-4cd5b426cc28/99/image.jpg",
+      "caption": "Harry\u0027s Chalet Eingang"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/38311bc1-fa2b-4b16-8d32-d4f7744ded8b/99/image.jpg",
+      "caption": "Harry\u0027s Chalet Spielraum"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3860398",
+    "longitude": "11.2730218"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Ferienhaus, Bad, WC, 4 oder mehr Schlafräume",
+      "description": "Wohnzimmer: 1 x 3,5 m Sofa, 3 x 1,5 m Sessel, 1 SAT-LCD-TV, 1 Sideboard, Radio-CD, diverse Spiele.\n \nKüche: Esstisch 2,70 x 90 cm, Eckbank und 5 - 7 Stühle, große Kühl-Gefrierkombination, Herd mit Induktionskochfeld, 2 Wärmeschubladen, Spülmaschine, Mikrowelle, 2 Raclettegeräte, Jura Kaffeeautomat, Dunstabzugshaube.\n \nSchlafzimmer: 3 Schlafzimmer mit Doppelbett 180 x 200 cm, 1 Schlafzimmer mit Doppelbett und Schlafsofa, \n1 Schlafzimmer mit 2 Einzelbetten 80 x 200 cm / 90 x 200 cm ",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Ferienhaus Harry\u0027s Hütte 1",
+          "description": "Wohnzimmer: 1 x 3,5 m Sofa, 3 x 1,5 m Sessel, 1 SAT-LCD-TV, 1 Sideboard, Radio-CD, diverse Spiele.\n \nKüche: Esstisch 2,70 x 90 cm, Eckbank und 5 - 7 Stühle, große Kühl-Gefrierkombination, Herd mit Induktionskochfeld, 2 Wärmeschubladen, Spülmaschine, Mikrowelle, 2 Raclettegeräte, Jura Kaffeeautomat, Dunstabzugshaube.\n \nSchlafzimmer: 3 Schlafzimmer mit Doppelbett 180 x 200 cm, 1 Schlafzimmer mit Doppelbett und Schlafsofa, \n1 Schlafzimmer mit 2 Einzelbetten 80 x 200 cm / 90 x 200 cm ",
+          "numberOfRooms": "6.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "14",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Ferienhaus, Bad, WC, 4 oder mehr Schlafräume",
+      "description": "Wohnzimmer: 1 x 3er Sofa, 2 x 2er Sofa, 1 x Sessel, SAT-LCD-TV, 1 Sideboard, diverse Spiele\nKüche: 2 Esstische á 210 x 90 cm, 6 Stühle, Eckbank, Herd mit Induktionskochfelder, 2 Spülmaschinen, Mikrowelle, 2 Raclettegeräte,\nJura Kaffeevollautomat, Dunstabzugshaube, etc.\n\nSchlafzimmer: 4 Schlafzimmer mit 180 x 200 cm Doppelbett, 1 Schlafzimmer mit Doppelbett und einem Nebenzimmer mit 4 Matratzen,\n1 Schlafsofa 180 x 200 cm im Mehrzweckraum. Qualität und Ausführung: Wendematratzen hartweich, Bettdecken 155 x 220 cm,\n2 Kinderbetten (Gitterbetten)\nSanitärbereich: 2 Gäste-WC, 3 x Duschbad/WC, 1 x Wannenbad/WC. Fußbodenheizung in allen Sanitärbereichen.\n\nWellnessbereich: Finnische Sauna/Sanarium, Whirlpool, Liegebereich mit komfortablen Liegen und Terrasse.\n\nWaschküche: 2 Waschmaschinen, 2 Trockner\n\nVerglaster- und überdachter Freisitz: Große gepolsterte Eckbank, 2 Terrassenstrahler á 1300 Watt, Infrarot-Dunkelstrahler unter der Eckbank.\nGroßer Mehrzweckraum: Schrank mit TV und Wii-Videospielekonsole, Schlafsofa 180 x 200 cm, 2er Sofa, Tischtennisplatte,\ndiverse Spiele",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Ferienhaus Harry\u0027s Chalet",
+          "description": "*HARRY\u0027S CHALET - das NEUE Panoramahaus bietet auf 350qm Platz für 16 Personen. Eingebettet in die bezaubernde Landschaft des Alpenparks Karwendel, liegt es auf 1.020 m, oberhalb des idyllischen Ortes Scharnitz.\nMit Whirlpool und Sauna mit Entspannungsmusik, Sanitärbereich mit Fußbodenheizung.\nFür Ihre Kinder bietet das Spielezimmer mit Wii und Tischtennis den idealen Ausgleich zu den naturnahen Aktivitäten unter Tags. \nKostenlos: 5 Parkplätze, W-LAN, 10 Mountainbikes, Kinderräder und 2 E-Bi",
+          "numberOfRooms": "7.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "16",
+            "minValue": "1"
+          }
+        }
+      ]
+    }
+  ]
+}

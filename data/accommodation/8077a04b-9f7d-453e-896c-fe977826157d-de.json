@@ -1,0 +1,125 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.ferienwohnungen-seefeld.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus St. Gertrud",
+    "streetAddress": "Heilbadstr. 508",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 4228646 ",
+    "email": "st.gertrud@ferienwohnungen-seefeld.at",
+    "url": "http://www.ferienwohnungen-seefeld.at"
+  },
+  "name": "Haus St. Gertrud",
+  "description": [
+    "Sonnig und ruhig am Ortsrand gelegen, in ca. 12 Minuten sind Sie zu Fuß und in 2 Minuten mit dem Auto im Zentrum. Ausgangspunkt herrlicher Wanderungen.",
+    "Inklusive: Heizung, Parkplatz, Wasser, Strom\n",
+    "Check-in: 14.30 Uhr, Ceck-out: 10:00 Uhr\nWeg: Seefeld Nord ausfahren, ca. nach 200 Meter beim Hotel Bergresort rechts abbiegen; immer gerade aus, ca. 300 Meter weiter auf der rechten Seite."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/dfaee1b2-cc76-407b-989b-a023f31d994b/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f2570f44-3873-42e4-8053-afd7f7600001/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c5f59d31-50e3-4fc7-9b48-e8637068889a/99/image.jpg",
+      "caption": "Garten 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c9de77a3-650e-4bfc-94d2-4d0b5a367e81/99/image.jpg",
+      "caption": "Garten"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0e4bdb72-2858-471d-8af8-c7a69afcb6b5/99/image.jpg",
+      "caption": "Garten 2"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3391571376668",
+    "longitude": "11.1941027641296"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 1 Schlafraum",
+      "description": "Halbmansarde(2.Stock), 1 SZ, Bad/Duschvorhang/WC, Küche mit Essecke, kl.Geschirrspüler, Vorraum, Wohnzimmer mit gr. Schlafsofa, Balkon.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Hocheder/1 SZ, 1 Schlafsofa, Bad, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "1. Stock mit Balkon, 2 Doppelbettzimmer, 2 Duschen/WC, Wohnzimmer mit Kochnische und Esstisch",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Edelweiss/2 Schlafräume/2 Duschen, WC",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 2 Schlafräume",
+      "description": "Halbmansarde(2.Stock), 2 Schlafzimmer, Bad/Duschvorhang/WC, Küche mit Essecke, kl. Geschirrspüler, Vorraum, Wohnzimmer mit Schlafsofa, Balkon.\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Hocheder/2 SZ, 1 Schlafsofa, Bad, WC",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

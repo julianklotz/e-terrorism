@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant"
+  ],
+  "name": "Reblaus",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3132043924512",
+    "longitude": "11.143290448935"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Pension Krösbacherhof",
+    "streetAddress": "Broch-Weg 12",
+    "addressLocality": "Mösern",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "+436504753001",
+    "faxNumber": "+4352124886",
+    "email": "info@kroesbacherhof.at",
+    "url": "http://www.kroesbacherhof.at"
+  },
+  "description": "Sitzplätze für ca. 50 Personen",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/20c965b9-a6c2-456a-8ff4-578274a00d18/99/image.jpg",
+      "caption": "Reblaus/Bar"
+    }
+  ],
+  "url": [
+    "http://www.kroesbacherhof.at"
+  ]
+}

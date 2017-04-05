@@ -1,0 +1,22 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Kurz",
+    "streetAddress": "Emmat 370h",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6463"
+  },
+  "name": "Haus Kurz",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3774378",
+    "longitude": "11.1739029"
+  },
+  "currenciesAccepted": "EUR"
+}

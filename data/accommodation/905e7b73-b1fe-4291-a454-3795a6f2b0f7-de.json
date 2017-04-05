@@ -1,0 +1,126 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.karwendel.net",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Leismüller Gretl",
+    "streetAddress": "Feldweg 236",
+    "addressLocality": "Scharnitz",
+    "postalCode": "6108",
+    "addressCountry": "AT",
+    "telephone": "+4352135398",
+    "email": "gretl.leismueller@a1.net",
+    "url": "http://www.karwendel.net"
+  },
+  "name": "Haus Leismüller Gretl",
+  "description": [
+    "\nDas Haus Leismüller Gretl stellt sich vor! Im schönen Ort Scharnitz in der Olympiaregion Seefeld befindet sich das vom Privatvermieterverband Tirol mit 3 Edelweiss ausgezeichnete Haus Leismüller Gretl.\nAbseits von der Hauptstraße in ruhiger Lage umgeben von dem markanten Karwendelgebirge bietet Ihnen unser Haus den perfekten Ausgangspunkt für zahlreiche Freizeitaktivitäten. Das Haus Leismüller Gretl bietet Ihnen zwei schöne, helle 2-Raum Ferienwohnungen für 2-3 Personen mit komfortabler und traditioneller Holzeinrichtung. Aufgeteilt sind die 32 m² großen und komplett ausgestatteten Appartements in einen Wohnraum mit Küche und Esstisch, einen separaten Schlafraum und einen sauberen Badezimmer mit Dusche/WC. Einen traumhaften Blick auf unseren Hausberg, die Hohe Gleirsch, erleben Sie von Ihrem Ost-Süd Balkon aus. Für das tägliche Brot am Morgen, geben Sie uns einfach Ihre Vorlieben bekannt und wir bestellen für Sie mit. Auf Wunsch kann das Frühstück auch dazugebucht werden und Sie genießen jeden Morgen frisch zubereitete Köstlichkeiten in unserem Aufenthaltsraum.\nStarten Sie zu Fuß oder mit dem Rad ab dem Haus Leismüller Gretl und begeben Sie sich auf Entdeckungsreise in den wunderschönen Naturpark Karwendel. Spüren Sie die Kraft des Wassers auf Ihrem Weg entlang des türkisblauen Flusses Isar. Für diejenigen die es in ihrem Sommerurlaub lieber gemütlicher angehen wollen, haben die Möglichkeit das Karwendeltal auch mit der Traktorkutsche zu erkunden. Genaues Programm dazu im Infobüro Scharnitz erhältlich. Besuchen Sie auch die historische Sehenswürdigkeit die Ruine der Grenzfestung Porta Claudia.\nIm Urlaubsdorf Scharnitz kommen auch Wintersportler auf ihre Kosten. Passionierte Skitourengeher finden im Karwendel eine wahre Spielwiese mit unzähligen Tourenvarianten. Für das Skivergnügen steht in Scharnitz auch eine bestens präparierte Skipiste zur Verfügung. Mega Spaß für Groß und Klein bietet auf dieser Skipiste auch das Snowtubing, ein spaßiges „Reifenrutschen“ für die ganze Familie. Weitere Wintersportmöglichkeiten wie Schneeschuhwandern, Langlaufen, Winterwandern und Eislaufen können Sie in Scharnitz ausüben.\nUrlaub in der Natur, wenn Sie das erleben möchten, dann sind Sie bei uns richtig!\nWir, die Familie Leismüller, freut sich, Ihnen bald im Haus Leismüller Gretl in Scharnitz, in der Olympiaregion Seefeld, die Türe öffnen zu dürfen!",
+    "inklusive: Strom, Heizung, Wasser, Endreinigung frei ab 14 Tage frei\nexklusive: Telefon, Ortstaxe, Auf Wunsch Frühstück 4,- pro Person/Tag, Endreinigung",
+    "von Deutschland kommend nach der Kirche links nach Bahnübergang 1. Haus links"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/206189c3-c13c-455c-bbc6-bb68e502b497/99/image.jpg",
+      "caption": "Winteransicht Haus Leismüller Gretl Scharnitz"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b43781b9-f438-4d5d-beaa-616d4f36c80f/99/image.jpg",
+      "caption": "Sommer Hausansicht Haus Leismüller Scharnitz"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/80fb47cf-6736-47a2-8a7f-c0ad265c7836/99/image.jpg",
+      "caption": "Winter Hausansicht Haus Leismüller Gretl Scharnitz"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3870525577292",
+    "longitude": "11.2642921552706"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Gemütlich eingerichtes Appartement mit 1 Schlafzimmer und 1 Wohn-Schlafraum, Spannteppich, Balkon",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement 1",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "37.00",
+          "maxPrice": "40.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "47.00",
+          "maxPrice": "51.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Großer Wohn-Schlafraum mit freiem Dachstuhl, Schlafzimmer, getrennte Küche,\nBalkon und Abstellraum",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement 2",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "37.00",
+          "maxPrice": "40.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "47.00",
+          "maxPrice": "51.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

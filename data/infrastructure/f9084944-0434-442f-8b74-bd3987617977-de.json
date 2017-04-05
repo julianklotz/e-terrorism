@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant"
+  ],
+  "name": "Natur Hotel Lärchenhof \u0026 Spa",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3358671458662",
+    "longitude": "11.1871558427811"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Natur \u0026 Spa Hotel Lärchenhof",
+    "streetAddress": "Geigenbühelstr. 203",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "+4352122383",
+    "faxNumber": "+4352122583",
+    "email": "info@marcati.at",
+    "url": "http://www.hotel-laerchenhof-seefeld.com"
+  },
+  "description": [
+    " ",
+    "Sitzplätze für ca. 100 Personen\n\nÜber den Dächern von Seefeld auf dem Geigenbühel gelegen, ist der Laerchenhof Ihre Wohlfühl-Oase in der sich die schönste Zeit des Jahres in vollen Zügen genießen lässt. \nJeden Tag erwartet Sie unser Küchenchef aufs Neue mit kulinarischen Höhepunkten und unsere Mitarbeiter sind stets bemüht, Ihnen jeden Wunsch von den Augen abzulesen.\n\nnur auf Anfrage!"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f1910c88-ee76-49ae-9c39-e6536a602ff7/99/image.jpg",
+      "caption": "Lärchenhof Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/49b7ec98-d525-46fd-ad21-796688b81ef5/99/image.jpg",
+      "caption": "Lärchenhof Winter"
+    }
+  ],
+  "url": [
+    "http://www.hotel-laerchenhof-seefeld.com/"
+  ]
+}

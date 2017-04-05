@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation",
+    "BikeStore",
+    "SportingGoodsStore",
+    "TouristAttraction"
+  ],
+  "name": "Fahrradverleih Sport Günter GmbH",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3724928",
+    "longitude": "11.1629425"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Sport Günter",
+    "streetAddress": "Weidach 318c",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6305",
+    "faxNumber": "(0043) 810 9554 445 584",
+    "email": "info@nordicshop.at",
+    "url": "http://www.nordicshop.at"
+  },
+  "description": " \n\n\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/71c779fd-6afd-49bd-9030-ed5500d8dd46/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b8b6158b-070f-4498-a036-02aa1daf015d/99/image.jpg",
+      "caption": "Bild Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/716b11ca-a8eb-496c-9899-7d5a53d77cb5/99/image.jpg",
+      "caption": "Bild Winter"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Store",
+    "ElectronicsStore"
+  ],
+  "name": "Smekal Radio und TV",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3291883774439",
+    "longitude": "11.1864638328552"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Smekal Radio und TV",
+    "streetAddress": "Klosterstr. 43",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2937"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e11e96d5-be96-4009-af4e-f74cf9959d86/99/image.jpg",
+      "caption": "Smekal Radio und TV"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation",
+    "TouristAttraction"
+  ],
+  "name": "E-Bike Verleih - Astoria Relax \u0026 Spa Hotel",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3360452832681",
+    "longitude": "11.1863887310028"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Astoria Relax \u0026 Spa Resort ",
+    "streetAddress": "Geigenbühelstr. 185",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2272-0",
+    "faxNumber": "(0043) 5212 2272 100",
+    "email": "hotel@astoria-seefeld.com",
+    "url": "http://www.astoria-seefeld.com"
+  },
+  "description": [
+    "  E-Bike Verleih auf Anfrage!",
+    "Massagen, kosmetische Behandlungen, Day Spa nach telefonischer Voranmeldung möglich. Day Spa (€ 35,-/ Person) inkludiert die Nutzung der gesamten Spa Anlage mit Schwimmbad, div. Saunen, Fitnessstudio, Salat- und Suppenbuffet am Nachmittag mit anschließendem Kuchenbuffet, vorbereitete Tees an der Wellnessbar."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/49ee1d90-898d-4027-9e62-2a0fb3ec7880/99/image.jpg",
+      "caption": "E-Bike"
+    }
+  ],
+  "url": [
+    "http://www.astoria-seefeld.com"
+  ]
+}

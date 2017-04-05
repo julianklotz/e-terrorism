@@ -1,0 +1,200 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://www.hubertushof-leutasch.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Erlebnishotel Hubertushof",
+    "streetAddress": "Reindlau 230 a",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6561",
+    "faxNumber": "(0043) 5214  6961",
+    "email": "office@hubertushof-leutasch.at",
+    "url": "http://www.hubertushof-leutasch.at"
+  },
+  "name": "Erlebnishotel Hubertushof",
+  "description": [
+    "„Genießen Sie  das Leben“ - in unserem familiären Erlebnishotel mit Hallenbad und Saunalandschaft (finnische-, Biostuben-, Infrarotsauna uvm.)\nWir möchten Sie verwöhnen mit unserer ¾-Wohlfühlpension mit Frühstücksbuffet, , Nachmittagskuchen und unserem 5-Gang-Themenabendmenü.\n\n50m von der Langlaufloipen entfernt und Ausgangspunkt zahlreicher Wanderungen.",
+    "Haustiere € 10,00 pro Tag,\nSolarium 10,00 €\nGarage 7,50 € pro Tag\nFreie Benützung des Hallenbades und der Sauna",
+    "Haustiere € 5,00 - € 10,00 pro Tag,\nSolarium 10,00 €\nGarage 7,50 € pro Tag\nFreie Benützung des Hallenbades und der Sauna",
+    "Check in: ab 15.00 UIhr\nCheck out: bis 11.00 Uhr",
+    "Check in: 15.00 UIhr\nCheck out: 11.00 Uhr"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "reviewCount": "98"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b51502c2-1024-4220-b589-48d39a1fd892/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/44a56f14-05e1-44df-9f57-6786870ebecf/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1eb9a37a-489d-470a-8de5-d6fd4f04c31a/99/image.jpg",
+      "caption": "Restaurant"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/68ac53aa-930b-4554-9657-1a77bac432d2/99/image.jpg",
+      "caption": "Zirbenstube"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9ac43e08-c554-4963-83d4-ce28dacee924/99/image.jpg",
+      "caption": "Hallenbad"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f1862a2e-5252-47b8-acc5-a9048857bb7a/99/image.jpg",
+      "caption": "Sauna"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e78b38d4-14f6-48e3-9c23-0aad5e319d77/99/image.jpg",
+      "caption": "Ruhebereich"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.40074132298",
+    "longitude": "11.180533517191"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche und Badewanne",
+      "description": "Fast alle im hellen Holz ausgestattet (ab ca. 25m²), Badewanne oder Dusche, süd- oder westseitig, fast alle mit Balkon",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer \"Hubertus\" ",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Einzelzimmer, Dusche, WC",
+      "description": "Schöne Einzelzimmer, ca. 18m², im hellen Holz, südseitig mit Balkon",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Einzelzimmer \"Hubertus\"",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Helle Doppelzimmer, ca. 27m², bergseitig, ohne Balkon",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer \"Waldidyll\"",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Helle Doppelzimmer, Dusche \u0026 WC getrennt, süd- oder westseitig mit Balkon",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer \"Superior\"",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Kleines Doppelzimmer (ca. 20m²), im dunklen Holz ausgestattet,südseitig mit Balkon",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer \"Ganghofer\"",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

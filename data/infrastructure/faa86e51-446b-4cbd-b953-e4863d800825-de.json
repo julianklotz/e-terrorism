@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "GolfCourse"
+  ],
+  "name": "Golfclub Seefeld-Wildmoos",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3280964712693",
+    "longitude": "11.1340012736695"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Golfclub Seefeld-Wildmoos",
+    "streetAddress": "Wildmoos 11",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 699 16066060",
+    "url": "http://www.seefeldgolf.com"
+  },
+  "description": [
+    " ",
+    "18-Loch-Meisterschaftsplatz, PAR 72, Mitglied der Leading Golf Courses, Driving Range, überdachte Abschlagplätze, Puttinggreen, Chippinggreen, PGA Golfschule, Pro Shop, Golfrestaurant auch für Nichtgolfer geöffnet. Der Golfplatz Seefeld-Wildmoos gilt als ein Juwel unter den alpinen Plätzen. Vor über 40 Jahren wurde der Platz nach Plänen von Architekt Donald Harradine mit sehr viel Gefühl in die Landschaft eingefügt. Trotz der Höhenlage von fast 1300 m haben Fairways und Greens top Qualität. Für ältere oder gehandikapte Spieler gibt es E-Trollies und einsitzige E-Carts."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/330dc25c-a590-4c3d-88b2-6491520807af/99/image.jpg",
+      "caption": "Golfclub Seefeld-Wildmoos"
+    }
+  ],
+  "url": [
+    "http://www.seefeldgolf.com"
+  ]
+}

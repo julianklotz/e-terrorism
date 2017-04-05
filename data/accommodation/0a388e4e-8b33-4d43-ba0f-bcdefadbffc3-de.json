@@ -1,0 +1,116 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.fewo-drescher.com",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Christina und Drescher",
+    "streetAddress": "Weidach 322 i",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6188",
+    "email": "mariannedrescher@gmx.de",
+    "url": "http://www.fewo-drescher.com"
+  },
+  "name": "Haus Christina und Drescher",
+  "description": [
+    "Verbringen Sie Ihre Ferien in unseren Ferienwohnungen oder im Ferienhaus.\n\nLage: zentral in Weidach, ruhig am Waldrand, in d. Nähe guter Einkaufsmöglichkeiten und Restaurants, Schwimmbad, Skilifte, Einstieg in Langlauf-Loipen, im Sommer freier Eintritt ins Schwimmbad.\n\n",
+    "INKLUSIVE: Heizung, Wasser, Strom, Garage\n\nEXKLUSIVE: Endreinigung, Ortstaxe, Telefon",
+    "Abreise bis 10.00 Uhr   -    Anreise ab 14.00 Uhr\n\nWegbeschreibung: Fahren sie bis zum Tourismusbüro in Weidach. Nach 20 m Richtung Seefeld, biegen sie rechts in den Privatweg und fahren bis ans Ende dieses Weges."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a7c4961a-dfd2-4a83-b482-777322ff8c53/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ead8ec71-1f27-4d15-a2ab-aade9ceb510d/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5c72df0e-1b81-4a4c-9133-dfe9a525f6d9/99/image.jpg",
+      "caption": "Garten"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/878e13b0-1387-40e0-8d59-07f30a83634e/99/image.jpg",
+      "caption": "Terrasse"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e13293bb-0cb3-44c9-b020-514cb16cba92/99/image.jpg",
+      "caption": "Eingang"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/664ca279-51bc-4012-86c3-5450cc1ae312/99/image.jpg",
+      "caption": "Skizze"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9161cf38-8a6b-4093-b143-1e74bef95fe7/99/image.jpg",
+      "caption": "Abendsonne"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.371535981876",
+    "longitude": "11.164514979015"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 2 Schlafräume",
+      "description": "Ruhig, zentral, großzügig, Gästetoilette, Küche, Terrasse, Garten, Garage",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/2 Schlafräume/Dusche, Bad, WC",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "110.00",
+          "maxPrice": "114.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "114.00",
+          "maxPrice": "120.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "114.00",
+          "maxPrice": "130.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

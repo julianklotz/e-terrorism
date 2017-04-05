@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "GolfCourse",
+    "SportsActivityLocation"
+  ],
+  "name": "Golfschule Christoph Schwarz",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Golfschule Christoph Schwarz",
+    "streetAddress": "Golfclub Seefeld-Wildmoos",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 2251583",
+    "faxNumber": "(0043) ",
+    "url": "http://www.golf-seefeld.at"
+  },
+  "description": "im Golfclub Seefeld-Wildmoos\nGolfschule für Anfänger und Fortgeschrittene (diverse Kurse, Abnahme der Platzerlaubnis bzw. Turniererlaubnis).",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/bc23fb8d-4e54-40ce-bced-c75ce3d68ac7/99/image.jpg",
+      "caption": "Golfschule Christoph Schwarz"
+    }
+  ],
+  "url": [
+    "http://www.golf-seefeld.at"
+  ]
+}

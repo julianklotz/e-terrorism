@@ -1,0 +1,33 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "TouristAttraction"
+  ],
+  "name": "Kaiserstand",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.294212650528",
+    "longitude": "11.2175998421723"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Kaiserstand",
+    "streetAddress": "Kaiserstandweg",
+    "addressLocality": "Reith bei Seefeld",
+    "postalCode": "6103",
+    "addressCountry": "AT"
+  },
+  "description": "Stempelstelle",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b414b54e-adc3-43ee-995e-afe391989d9e/99/image.jpg",
+      "caption": "Aussicht Kaiserstand Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9ab41c20-69c1-4f52-9d29-c23a5240544e/99/image.jpg",
+      "caption": "Aussicht Kaiserstand Winter"
+    }
+  ]
+}

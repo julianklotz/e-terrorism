@@ -1,0 +1,47 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "Festgottesdienst/Prozession",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Pfarrkirche Maria Heimsuchung",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Kirchweg 4",
+      "addressLocality": "Mösern",
+      "postalCode": "6100",
+      "addressCountry": "AT",
+      "telephone": "+4350880520",
+      "faxNumber": "+4350880521",
+      "email": "info.moesern@seefeld.com",
+      "url": "http://www.seefeld.com"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Pfarrkirche Maria Heimsuchung",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Kirchweg 4",
+      "addressLocality": "Mösern",
+      "postalCode": "6100",
+      "addressCountry": "AT",
+      "telephone": "+4350880520",
+      "faxNumber": "+4350880521",
+      "email": "info.moesern@seefeld.com",
+      "url": "http://www.seefeld.com"
+    }
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e4fe7b62-fdc2-481f-9be3-1be2f098d6c8/99/image.jpg",
+      "caption": "Kirche"
+    }
+  ],
+  "startDate": "2017-07-02T10:30:00",
+  "endDate": "2017-07-02"
+}

@@ -1,0 +1,110 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://members.aon.at/haus-michelitsch",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Michelitsch",
+    "streetAddress": "Obere Wiese 11",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6518",
+    "faxNumber": "(0043) 5214 6518",
+    "email": "walter.michelitsch@aon.at",
+    "url": "http://members.aon.at/haus-michelitsch"
+  },
+  "name": "Haus Michelitsch",
+  "description": [
+    "Unser Haus liegt in ruhiger Hanglage in der Nähe der Langlaufloipen und der Wanderwege. Gästekühlschrank und W-LAN Anschlussmöglichkeit.",
+    "Freier Eintritt ins Alpenbad Leutasch, Fahrrad Benützung frei.",
+    "Unser Haus liegt im Ortsteil Obere Wiese. "
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "reviewCount": "73"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/254ab7d9-7dd1-4bc1-bbcb-06d83bf1eb35/99/image.jpg",
+      "caption": "100_0033"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b62d8aff-b4eb-4091-9fee-491a96855194/99/image.jpg",
+      "caption": "IMG_0005 (1024x768)"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d00eebb6-5db5-455e-a3c2-5d19116569d6/99/image.jpg",
+      "caption": "Hinteres Zimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2b2cf22f-d1ea-4392-9c81-55c4421b6b3d/99/image.jpg",
+      "caption": "IMG_0005"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/32ded8f6-34c4-4ee4-8191-e4738cf2b8e5/99/image.jpg",
+      "caption": "100_0112"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ab20f43c-20a3-431d-aa14-f6843c6028d0/99/image.jpg",
+      "caption": "20150401_161227"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/12e68ba0-bbea-424e-a0f4-9348944de998/99/image.jpg",
+      "caption": "20131229_080631"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.366950017106",
+    "longitude": "11.13743773187"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "19.00",
+          "maxPrice": "25.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

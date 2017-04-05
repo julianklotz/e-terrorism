@@ -1,0 +1,223 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.haus-kremser.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Kremser",
+    "streetAddress": "Am Kirchwald 378",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2579",
+    "faxNumber": "(0043) 5212 2579 8",
+    "email": "info@haus-kremser.at",
+    "url": "http://www.haus-kremser.at"
+  },
+  "name": "Haus Kremser",
+  "description": [
+    "In familiärer Atmosphäre komfortabel wohnen: Luxuriös eingerichtete Studios und Doppelzimmer, alle mit Balkon, Parkettboden, DU/WC, Sat-TV (mehrsprachig), Radio-Wecker, Telefon, Safe, Föhn, kabelloser Internetzugang, ein gemütlicher im Tiroler Stil gestalteter Aufenthaltsraum steht Ihnen jederzeit zur Verfügung; Parkplätze vor dem Haus. In der Nähe befinden sich Loipen, Lifte, Sportzentrum, Tennisplätze und Tennishalle. Mehr Informationen finden Sie auf unserer neuen Webseite www.haus-kremser.at.\n\nMit dem Prädikat \"Besonders empfehlenswert\" ausgezeichnet. Nichtraucherhaus!\n",
+    "Ermäßigung auf der Golfacademy/Lenerwiese Seefeld.\n35% Ermäßigung im Olympia-Hallenbad.\nHaltestelle für den gratis Shuttlebus nur 2 Minuten vom Haus entfernt.",
+    "Check-In ab 12.00 Uhr / Check-Out bis 11.00 Uhr\n\nv. Norden/Süden\nAusf.Seefeld Mitte-Kreuzung Olympiastr./Mösererstr. links abbiegen,1ste Str.rechts abbiegen, folgen Sie den orangen Wegweisern, Ortspl. B5, HNr. 378\n\nv. Westen\nA12-Telfs-Mösern-Seefeld\n\nUnter www.haus-kremser.at können Sie die Anfahrtsbeschreibung bequem als PDF Datei herunterladen,ausdrucken und auf ihre Reise zu uns mitnehmen.",
+    "frühstückspension, privatzimmer, gästehaus"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/aa786336-4ae2-4db0-939b-f769e7199789/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ce256351-9418-48f0-b72e-bc2adf4da9a2/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f539d11c-0c48-4344-9c1a-9b9b85c5b2a6/99/image.jpg",
+      "caption": "Sommer2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e02fd72d-acf1-4334-beba-7ac3e1ca1456/99/image.jpg",
+      "caption": "Frühstücksraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/59cccc74-7533-4679-8161-5660514b4a91/99/image.jpg",
+      "caption": "Frühstücksraum 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/36b078e6-8c49-428b-91eb-e9de2b6cc9ee/99/image.jpg",
+      "caption": "Panorama Neujahr"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e8db2ad7-0b74-4ecf-bfb9-5263716dbc64/99/image.jpg",
+      "caption": "Wintergarten Weihnachten"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/40e8d6b9-13f0-46d6-8d9a-2209d8fdb1b4/99/image.jpg",
+      "caption": "Aussicht Rosshütte"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b256ef96-a284-462d-85d2-2934fcee95d0/99/image.jpg",
+      "caption": "Aussicht Wetterstein"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3286066265435",
+    "longitude": "11.180123090744"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Luxuriöses, hell eingerichtetes Doppelzimmer, Balkon m. herrlichem Blick auf Seefeld u. seiner Bergwelt, separates Badezimmer m. DU/WC, Haarfön, Vorraum m. großem Kleiderschrank, Garderobe, Sitzgelegenheit m. Tisch, Parkettboden, Telefon, SAT-TV (mehrsprachig), Radio-Wecker, Safe, kabelloser Internetzugang, Allergikerbetten auf Anfrage. Nichtraucherzimmer! Genießen Sie ein einzigartiges Panorama!",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer, Nr. 1 + 2",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "33.00",
+          "maxPrice": "43.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Modernes m. vielen liebevollen Details ausgestattetes Doppelzimmer,separates Badezimmer m. DU/WC, südseitiger Balkon m. Tisch u. Stühlen, Parkettboden, Telefon,\nSat-TV (mehrsprachig), Safe, Radio-Wecker, Haarfön, Garderobe, großer Kleiderschrank, Sitzgelegenheit m. Tisch, kabellosser Internetzugang, Allergikerbetten auf Anfrage. Nichtraucherzimmer!",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer Nr. 5",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "33.00",
+          "maxPrice": "43.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Sehr geräumiges, komfortables Studio, Doppelzimmer m. Wohnbereich u. gemütlicher Couch-Garnitur, südseitiger Balkon, Terrasse mit Liegestühle, großer Kleiderschrank, Garderobe, Tisch m. Sitzgelegenheit, DU/WC, Haarfön, Radio-Wecker, Telefon, Safe, Parkettboden, Sat-TV (mehrsprachig), kabelloser Internetzugang, Allergikerbetten auf Anfrage. Nichtraucherzimmer!",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Dusche, WC /Studio 3",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "35.00",
+          "maxPrice": "45.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "35.00",
+          "maxPrice": "45.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Sehr geräumiges, luxuriöses Studio m. Schlafbereich u. separaten Wohnbereich in der oberen Etage, südseitiger Balkon, Terrasse m. Liegestühlen u. Sonnenschirm, separates Badezimmer mit Dusche/WC, Parkettboden, Radio-Wecker, Telefon, SAT-TV (mehrsprachig), Safe, Haarfön, großer Kleiderschrank, Garderobe, gemütliche Sitzecke im Wohnbereich, kabelloser Internetzugang, Allergikerbetten auf Anfrage. Nichtraucherzimmer! \n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Dusche, WC/Studio 4",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "35.00",
+          "maxPrice": "45.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

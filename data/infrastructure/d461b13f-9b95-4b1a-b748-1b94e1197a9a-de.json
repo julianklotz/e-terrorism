@@ -1,0 +1,22 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportingGoodsStore"
+  ],
+  "name": "Rückenwind",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3272086020242",
+    "longitude": "11.1807222153443"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Rueckenwind",
+    "streetAddress": "Mösererstrasse 120",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 05212 52987",
+    "url": "http://www.rueckenwind.at"
+  }
+}

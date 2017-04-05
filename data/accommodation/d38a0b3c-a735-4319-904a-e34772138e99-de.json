@@ -1,0 +1,186 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://www.marcati.at/",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Marcati KG",
+    "streetAddress": "Geigenbühelstraße 125",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2383",
+    "email": "info@marcati.at",
+    "url": "http://www.marcati.at"
+  },
+  "name": "Hotel Alpina",
+  "description": [
+    "Das Hotel Alpina*** ist ein elegantes Hotel im traditionellen Tiroler Stil mit gemütlich eingerichteten Zimmern, alle mit Bad oder Dusche, WC, Kabel-TV, großteils Balkon oder Terrasse, Internetanschluss und Telefon.\nFolgen Sie den grünen Hotelwegweisern zur Geigenbühelstr. 125 (links bei der Apotheke). Am Fuße des Geigenbühels gelegen ist das Zentrum in 10 Gehminuten erreichbar.\n\nDas Hotel befindet sich in bester Lage – ruhig und doch zentral gelegen, mit atemberaubendem Blick auf die umliegende Bergkulisse.",
+    "Kostenlose inkludierte Leistungen: Frühstücksbuffett, Relaxen im Schwimmbad, Sauna \u0026 Sonnenterrasse."
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.8",
+    "reviewCount": "259"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/96a1f52c-5c4b-4dd5-9443-58547095b5b7/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c953e1fb-bcd9-4e0e-afd6-6685348ad0be/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a83c9616-13c2-4dd9-a411-d12214a0c668/99/image.jpg",
+      "caption": "Suite 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7eff5100-60a4-4e55-bde9-c9dd47b12c9f/99/image.jpg",
+      "caption": "Suite"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/81ca934b-a389-4547-8c7a-88a71b4032a9/99/image.jpg",
+      "caption": "Zimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9a539abe-1cf9-44bf-89be-e0d26681587e/99/image.jpg",
+      "caption": "Zimmer 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/37c4d2c0-6aa9-4b80-b0db-343052fb8b78/99/image.jpg",
+      "caption": "Aufenthaltsraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/02e19b55-edcf-4dc9-8314-64f0b61a9f28/99/image.jpg",
+      "caption": "Schwimmbad"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/169ba2fe-4f4c-459e-84a1-9dcd418a6714/99/image.jpg",
+      "caption": "Speisesaal"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3343839714814",
+    "longitude": "11.1881936055465"
+  },
+  "paymentAccepted": [
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Einzelzimmer, Dusche oder Bad, WC, gartenseitig",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Standard Einzelzimmer, Gartenblick",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "0.00",
+          "maxPrice": "250.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche oder Bad, Standard",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Standard Doppelzimmer Gartenblick",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "300.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche oder Bad, gartenseitig",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Superior Doppelzimmer mit Balkon",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "1000.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

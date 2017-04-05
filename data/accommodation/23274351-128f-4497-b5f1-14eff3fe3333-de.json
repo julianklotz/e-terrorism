@@ -1,0 +1,757 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://www.kaltschmid.info",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Ferienhotel Kaltschmid",
+    "streetAddress": "Olympiastr. 101",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "+4352122191",
+    "faxNumber": "+4352122191116",
+    "email": "ferienhotel@kaltschmid.info",
+    "url": "http://www.kaltschmid.info"
+  },
+  "name": "Ferienhotel Kaltschmid",
+  "description": [
+    "Direkt an der Fußgängerzone befindet sich das Familienhotel (auch mit Appartements) und Tiefgaragen. Bei uns können Sie sich einfach nur verwöhnen lassen oder das großzügige Freizeitangebot nützen. Eine wundervolle Aussicht bietet Ihnen das Panorama-Hallenbad im 4. Stock mit großartiger Badelandschaft und einem zweiten Erlebnis-Schwimmbecken mit Kinderrutsche, Hot-Whirl-Pool auf der Dachterrasse im Freien, sowie 2 Saunen und 4 Dampfbäder. Kindergarten mit Betreuung ab 3 Jahren und Animationsprogramm lt. Anschlag. Gratis Fahrradverleih und Minigolf im Sommer. \n2 Café-Restaurants mit Terrasse, ein Premiere-Sport-Pub und mehrere Tanz- und Unterhaltungslokale. Halbpension \u003d Frühstücksbuffet und Abendessen mit 4-Gang-Wahlmenü + Salatbuffet mit Käsebrett, Getränke (lt. Karte) sind inkludiert!\n",
+    "Alle Preise sind ohne Verpflegung. Frühstück/ Halbpension kann direkt über das Hotel gebucht werden!\nAlle Wellnessanlagen kostenlos zu benützen. \nBei Halbpension Getränke zum Abendessen inklusive (lt. Karte). \nExtra zu bezahlen: Massagen, Solarium, Tiefgarage, Haustiere € 10,- pro Tag (ohne Futter), Bademantel (Leihgebühr), Münzwaschmaschine, Clubkarte für Ermäßigungen in unseren Lokale ",
+    "Direkt im Zentrum an der Fußgängerzone.",
+    "Seefeld\nZentrum\nFamilie\nUnterhaltung\nTanz\nKinder\nWellness\nGetränke zum Abendessen inkl\nMusik"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "reviewCount": "1575"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1bb99d6f-8c99-4b30-9f9a-2cfd673b7286/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e3ba1405-95ae-4c14-a791-564d880b49c4/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a6984294-dba0-40a1-9956-d4d29ff7d96c/99/image.jpg",
+      "caption": "Sommer 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/bec2eb09-137a-4310-bc36-07648dce2a8e/99/image.jpg",
+      "caption": "Bar"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ca57ba02-6767-4d61-8670-866c04de4b4a/99/image.jpg",
+      "caption": "Speisesaal"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c27adf05-b5af-479b-bc1f-68e7617bdecb/99/image.jpg",
+      "caption": "Britannia Club"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/975364f6-2498-40a1-9890-3bc8e68d8832/99/image.jpg",
+      "caption": "Tenne"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0d132d1e-eca4-4c3f-bde4-f109d8a5c37e/99/image.jpg",
+      "caption": "Schwimmbad"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/43f5f5c2-59ee-46c1-a3ec-34229966ab4d/99/image.jpg",
+      "caption": "Ruheraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9c8bdfe8-fbe3-4fc4-a5c2-9f8dcbfc91dc/99/image.jpg",
+      "caption": "Wellness"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3296465017682",
+    "longitude": "11.1869466304779"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Einzelzimmer, Dusche oder Bad, WC",
+      "description": "Süden, ca. 12 m², Bad oder Dusche/WC, Telefon, Radio, Safe, TV, Rasierspiegel, Föhn",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Einzelzimmer klein",
+          "description": "",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "43.00",
+          "maxPrice": "112.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Einzelzimmer, Bad, WC",
+      "description": "Westen, ca. 18 m², Bad/WC, Telefon, Radio, Safe, TV, Rasierspiegel, Föhn, Ausziehsessel für 2. Person, Balkon oder französischer Balkon",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Einzelzimmer mit französischem Balkon",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Single Package",
+          "description": "2 Nächte im Einzelzimmer mit franz. Balkon inkl. Halbpension\n- 1 Teilmassage (20 Min.)\n- 1 Solariummünze\n- kostenloser Leihbademantel und Pantoffeln\n- kosenloser Garagenplatz",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Singlewoche",
+          "description": "7 Nächte im Einzelzimmer mit französischen Balkon inkl. Halbpension\n- Gutschein für 1 Massage 30 Minuten\n- 1 Solariummünze\n- kostenloser Leihbademantel und Pantoffeln\n- kostenloser Garagenplatz\n",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "63.00",
+          "maxPrice": "143.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Bad, WC",
+      "description": "Osten oder Westen, ca. 24-33 m², Bad/WC, Radio, Safe, TV, Telefon, Rasierspiegel, Föhn, Balkon oder französischer Balkon, für 2-3 Personen",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer Balkon oder französischem Balkon",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "91.00",
+          "maxPrice": "146.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "91.00",
+          "maxPrice": "146.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Bad, WC",
+      "description": "hofseitig, ca. 24 m², Bad/WC, Telefon, Radio, Safe, TV, Rasierspiegel, Föhn, für 2-3 Personen",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Wohnteil",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "91.00",
+          "maxPrice": "116.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "91.00",
+          "maxPrice": "146.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Bad, WC",
+      "description": "hofseitig, ca. 18-20 m², Bad/WC, Telefon, Radio, Safe, TV, Rasierspiegel, Föhn",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer klein",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "83.00",
+          "maxPrice": "222.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "83.00",
+          "maxPrice": "222.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Junior Suite, Bad, WC",
+      "description": "hofseitig, ca. 30 m², Bad/WC, Radio, Safe, TV, Telefon, Rasierspiegel, Föhn, für 3-4 Personen",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Juniorsuite Haus \"Hohe Munde\"",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "3"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Family Package",
+          "description": "7 Übernachtungen für 2 Erwachsene und 1-2 Kinder bis 11 Jahre inkl. Halbpension.\nKinderbetreuung (ab 3 Jahre) lt. Anschlag\n1 Kutschenfahrt durch Seefeld (ca. 40 Minuten)\nAbschiedsgeschenk für die Kinder",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "123.00",
+          "maxPrice": "333.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "123.00",
+          "maxPrice": "333.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Familienzimmer, Bad, WC",
+      "description": "Südost, ca. 40 m², 1 Doppelzimmer, Verbindungsgang zu 2. Schlafzimmer mit 2 getrennten Betten und Sitzecke, Bad/WC, Telefon, Radio, Safe, TV, Rasierspiegel, Föhn, Balkon, für 3-4 Personen",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Familiensuite Haus \"Hohe Munde\"",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "3"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "135.00",
+          "maxPrice": "383.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Bad, WC",
+      "description": "ca. 25-35 m², Bad/WC, Bidet, Telefon, Radio, Safe, TV, Föhn, Rasierspiegel, Balkon oder Dachterasse",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer De Luxe",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Wander Package",
+          "description": "3 Übernachtungen im Doppelzimmer \"de Luxe\" inkl. Halbpension:\n* Begrüßungsteller\n* Bademantel und Badeschuhe im Zimmer\n* Ganzkörpermassage\n* Wanderprogramm lt. Anschlag",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Ski Fun",
+          "description": "3 Übernachtungen im Doppelzimmer de Luxe inkl. Halbpension\n- Begrüßungsteller und Abschiedsgeschenk\n- 1 Ganzkörpermassage\n- 2-Tages Skipass auf der Rosshütte\n- 2 Tage Leihausrüstung",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Ski Fun XXL",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Relaxtage",
+          "description": "3 Nächte im Doppelzimmer de Luxe inkl. Halbpension\nGutschein € 50,00 für Massage oder Alpenspa im Bergresort\nAbschiedsgeschenk",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "109.00",
+          "maxPrice": "263.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "109.00",
+          "maxPrice": "263.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC",
+      "description": "Osten oder Westen, ca. 30-35 m² Bad/WC, Bidet, Telefon, Radio, Safe, TV, Rasierspiegel, Föhn, Kochnische, Balkon",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "1-Raum-Appartement \"Fürstenhaus\"",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "109.00",
+          "maxPrice": "263.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "109.00",
+          "maxPrice": "263.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche oder Bad, WC, 2 Schlafräume",
+      "description": "Norden oder Süden, ca. 45 m², 1 Schlafzimmer, 1 Wohnzimmer mit Kachelofen, extra Küche, Bad, extra WC, Telefon, Radio, Safe, 2 TV, Rasierspiegel, Föhn, Balkon",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "2-Raum-Appartement \"Seefeld\"",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Family Special",
+          "description": "7 Übernachtungen für 2 Erwachsene und max. 3 Kinder bis 11 Jahre inkl. Halbpension\nKinderbetreuung (ab 3 Jahre) lt. Anschlag\n1 Kutschenfahrt durch Seefeld (ca. 40 Minuten)\ngratis Minigolf und Fahrradverleih\nAbschiedsgeschenk für die Kinder\n",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "152.00",
+          "maxPrice": "394.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "152.00",
+          "maxPrice": "394.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "152.00",
+          "maxPrice": "394.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "152.00",
+          "maxPrice": "394.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "152.00",
+          "maxPrice": "394.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "1982.00",
+          "maxPrice": "1982.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 2 Schlafräume",
+      "description": "ca. 40 m², Doppelzimmer mit Bad/WC, Bidet, Telefon, Radio, Safe, TV, Rasierspiegel, Föhn, Kochnische, Balkon, 1 Kinderzimmer mit getrennten Betten und 2. TV, Dusche/WC",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "2-Raum-Appartement \"Fürstenhaus\"",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "135.00",
+          "maxPrice": "383.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "135.00",
+          "maxPrice": "383.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "135.00",
+          "maxPrice": "383.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 3 Schlafräume",
+      "description": "ca. 64 m², 2 Schlafzimmer, 1 Wohnzimmer mit Kachelofen, Küche, Bad, extra Dusche, extra WC, Föhn, Telefon, Radio, Safe, 2 TV, Rasierspiegel, Balkon",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "3-Raum-Appartement \"Seefeld\"",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "7",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "175.00",
+          "maxPrice": "492.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "175.00",
+          "maxPrice": "492.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "175.00",
+          "maxPrice": "492.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "175.00",
+          "maxPrice": "492.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche und Bad, WC, Superior",
+      "description": "ca. 35 m2, für 2 bis 3 Personen, Haus \"hohe Munde\" zur Westseite,\neingerichtet im \"modernen Tiroler Stil\" mit französischem Balkon oder Wohnteil,\nmit Bad/WC, extra Dusche, Telefon, Radio, Safe, Flat TV, Holzboden und Kachelofen  ",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer Superior",
+          "description": "Doppelzimmer \"Superior\" im modernen Tiroler Stil mit franz. Balkon oder Wohnteil, ca. 35 m2, für 2-4 Personen, mit Bad/WC, Telefon, Radio, Safe, Flat-TV, Holzboden, Kachelofen und extra Dusche",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "117.00",
+          "maxPrice": "277.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

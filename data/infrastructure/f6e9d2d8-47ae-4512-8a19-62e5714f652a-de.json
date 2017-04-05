@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation"
+  ],
+  "name": "Naturpark Karwendel Information",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3891177220334",
+    "longitude": "11.2648346671467"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Naturpark Karwendel",
+    "addressLocality": "Scharnitz",
+    "postalCode": "6108",
+    "addressCountry": "AT",
+    "telephone": "(0043)06642041015 ",
+    "email": "herman.sonntag@karwendel.org",
+    "url": "http://www.karwendel.org"
+  },
+  "description": "Eines der grössten Schutzgebiete der Nördlichen Kalkalpen mit 110 km Wanderwegen, über 30 Hütten und Almen. Detaillierte Angaben zum Naturpark Karwendel erhalten Sie auf www.karwendel.org oder bei Hermann Sonntag, Tel.: 0664/2041015.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/39a72e41-63eb-4990-945e-16c279d55917/99/image.jpg",
+      "caption": "Alpenpark Karwendel Isar"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a5e1cd2c-7dd5-45c4-aead-cfcd3415039d/99/image.jpg",
+      "caption": "Alpenpark Karwendel"
+    }
+  ],
+  "url": [
+    "http://www.karwendel.org",
+    "http://www.seefeld.com"
+  ]
+}

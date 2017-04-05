@@ -1,0 +1,88 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "19. Ganghofer Hubertuswoche",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Informationsbüro Leutasch",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Weidach 320",
+      "addressLocality": "Leutasch",
+      "postalCode": "6105",
+      "addressCountry": "AT",
+      "telephone": "+43-50880510",
+      "faxNumber": "+43-50880811",
+      "email": "info.leutasch@seefeld.com",
+      "url": "http://www.seefeld.com"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Informationsbüro Leutasch",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Weidach 320",
+      "addressLocality": "Leutasch",
+      "postalCode": "6105",
+      "addressCountry": "AT",
+      "telephone": "+43-50880510",
+      "faxNumber": "+43-50880811",
+      "email": "info.leutasch@seefeld.com",
+      "url": "http://www.seefeld.com"
+    }
+  },
+  "description": "Natur, Kultur und ganz viel Jägerlatein: Monika und Hans Neuner, vulgo „Bantl“ begleiten auf Ludwig Ganghofers Spuren durch die Woche. Themenwanderungen, interessante Veranstaltungen und allerlei „Wildes“ aus der regionalen Küche begeistern seit knapp zwanzig Jahren. ",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/53524d16-a701-467f-b9a8-9df6b3c52701/99/image.jpg",
+      "caption": "Ganghofer Hubertuswoche"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/88392a5b-42b6-4117-bd39-cff656cbd74a/99/image.jpg",
+      "caption": "hubertus"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c82731c9-edd9-423d-aad7-77671a26807f/99/image.jpg",
+      "caption": "Ganghofer Hubertuswoche1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c4b8b9b0-19fc-419e-820e-93a83f00f830/99/image.jpg",
+      "caption": "Ganghofer Hubertuswoche2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0e9c9324-9f15-40d8-9226-7642220642bc/99/image.jpg",
+      "caption": "Ganghofer Hubertuswoche3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e4d8eed9-0ee8-4195-8e66-fe34cdf00bb2/99/image.jpg",
+      "caption": "Ganghofer Hubertuswoche4"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f661efa4-04dc-4c20-842f-cec3c3c7f6ee/99/image.jpg",
+      "caption": "Ganghofer Hubertuswoche5"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/bd869835-c80a-46c5-8258-1f390666fa7a/99/image.jpg",
+      "caption": "Ganghofer Hubertuswoche6"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/388b5db1-2d69-405e-a5da-35c60f663d8b/99/image.jpg",
+      "caption": "Ganghofer Hubertuswoche7"
+    }
+  ],
+  "startDate": "2017-10-01T00:00:00",
+  "endDate": "2017-10-07"
+}

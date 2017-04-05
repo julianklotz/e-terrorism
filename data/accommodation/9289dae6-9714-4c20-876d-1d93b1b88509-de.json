@@ -1,0 +1,98 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.members.aon.at/cnikolai",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Landhaus Corinna",
+    "streetAddress": "Obere Wiese 5",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6984",
+    "email": "family.nikolaise@aon.at",
+    "url": "http://www.members.aon.at/cnikolai"
+  },
+  "name": "Landhaus Corinna",
+  "description": [
+    "1 große FW 64 m² für 2-5 Personen in ruhiger Lage:\n3 Räume + Bad u. Vorraum, Schlafzimmer, Wohnschlafzimmer, Küche (eigener Raum) mit Sitzecke, Bad m. Badewanne/Duschtrennwand + WC, Sat-TV, Terrasse, Liegewiese, Gartenmöbel + Gartengrill, Kinderspielplatz. Internetanschluss f. Ihren Laptop. Kinder 0-3 Jahre frei, 4-14 Jahre € 5,- Rabatt. Sommeraktion: 7 Tage buchen-6 Tage bezahlen.",
+    "INKLUSIVE: Bett- und Frotteewäsche, Heizung, Wasser, Strom, Gartenmöbel- und Gartengrillbenutzung, Kinderspielplatz, Parkplatz, Fahrrad -und Rodelverleih nach Verfügbarkeit, im Sommer freier Eintritt ins Alpenbad, gratis Surfen\n \nEXKLUSIVE: Ortstaxe, Endreinigung, Brötchen, Telefon",
+    "Unser Haus liegt eingebettet zwischen Bergen, Wiesen und Wäldern in der nähe der Kirche, Gemeindeamt und Bauernladen in Oberleutasch. Absolut ruhige Lage.\n\nCheck-In 14.00 Uhr / Check-Out 10.00 Uhr"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/befa37bb-50f9-406a-8b57-97a6c56f3cea/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d7fde00f-30bf-4f28-97e1-8e16d6c4aebe/99/image.jpg",
+      "caption": "Winter"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.367509848923",
+    "longitude": "11.137997363111"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 2 Schlafräume",
+      "description": "FW 64 m² f. 2-4 Personen: Schlafzimmer, Wohnschlafzimmer m. 2 Schlafcouchen, SAT-TV, Küche m. Sitzecke f. 6 Pers.,Gratis Surfen mit Ihrem Laptop, Brötchenservice,\nGratis Loipenbenutzung für unsere Feriengäste, Bad m. Duschabtrennung + WC, \nAbstellraum, Terrasse m. Markiese, Tisch + Stühle, Safe, Sonnenschirm, Liegewiese, Spielplatz, im Sommer freier Eintrittins Alpenbad Leutasch (5 Std. pro Tag/Sauna exkl.)",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/2 Schlafräume/Bad, WC",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "47.00",
+          "maxPrice": "83.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "25.00",
+          "maxPrice": "47.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "20.00",
+          "maxPrice": "57.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "17.50",
+          "maxPrice": "67.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

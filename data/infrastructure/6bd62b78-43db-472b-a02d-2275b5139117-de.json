@@ -1,0 +1,33 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "TouristAttraction"
+  ],
+  "name": "Fußgängerzone Seefeld, Seefeld - OPEN (FL)AIR",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Fußgängerzone",
+    "streetAddress": "Klosterstr. 43",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT"
+  },
+  "description": "Fußgängerzone Seefeld- die genussreichste Fußgängerzone im Alpenraum!\nEindrucksvoll kreuzförmig und völlig barrierefrei - mondäner Mittelpunkt der Olympiaregion Seefeld mit neu gestaltetem, offenem Dorfplatz.\nShopping Hotspot – über 60 Geschäfte mit persönlicher Note, individueller Beratung und Tiroler Handschlagqualität. \nÜber 20 gastronomische Verführungen und TOP Hausmannskost\nPfarrkirche St. Oswald: eine der schönsten spätgotischen Kirchenbauten Tirols\nDas wohl gemütlichste Casino der Welt\nInternationale Filmdrehs, aktuellster Botschafter aus Hollywood: Hugh Jackman\n\nAKTUELLES JUBILÄUM:\n40 Jahre Fußgängerzone Seefeld - eine der ersten in Tirol, 640 Jahre Hostienwunder Seefeld",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/187b329d-ba63-4110-a2f6-35feacbc541d/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5f39848e-0961-4754-8dfc-60ad2b803a8a/99/image.jpg",
+      "caption": "Sommer"
+    }
+  ]
+}

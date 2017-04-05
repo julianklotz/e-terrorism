@@ -1,0 +1,142 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://www.hubertushof-moesern.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Hotel Garni Hubertushof",
+    "streetAddress": "Möserer Seeweg 8",
+    "addressLocality": "Mösern",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "+4352124733",
+    "faxNumber": "+43521247332",
+    "email": "hubertushof@moesern.net",
+    "url": "http://www.hubertushof-moesern.at"
+  },
+  "name": "Hotel Garni Hubertushof",
+  "description": [
+    "Ferien im Hubertushof - 1.250 Meter über dem Alltag. Hier erleben Sie Ihren Wunschurlaub in Freundschaft mit Sonne, Bergen, Wiesen und Wäldern.\nRundum eine imposante Bergwelt - rundum Ruhe.\nDer Hubertushof - ein Haus mit stilvollem Ambiente, viel Holz, viel Licht und gemütlicher Atmosphäre.\nGroßzügige Komfortzimmer, Kaminzimmer - gemütliche Stuben.\nGeschützte Sonnenterrasse und Liegewiese.",
+    "Inkl. Sauna - Solarium kostenlos\ngeführte Wanderungen kostenlos\nSchneeschuhwanderungen kostenlos\nexkl. Haustier Euro 5,-",
+    "Von Seefeld kommend, liegt unser Haus am Anfang des Ortes, am Waldrand rechts oberhalb des Schiliftes."
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "reviewCount": "53"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2d8daf56-ea08-4875-9055-761c69c10505/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/018dfae9-5883-4509-a36e-dec26f07eb15/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2704e9d9-d235-4cc8-9054-eb93e91cf41d/99/image.jpg",
+      "caption": "Aufenthaltsraum 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a9ebcaa8-208a-4f1a-9ca6-3ea3f20354b5/99/image.jpg",
+      "caption": "Aufenthaltsraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/920e0e46-d677-40b2-b3ec-1e49dba15fe5/99/image.jpg",
+      "caption": "Aufenthaltsraum 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c560bcae-08da-488e-9cd3-98ec1fdc7c20/99/image.jpg",
+      "caption": "Aussicht "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/37719452-a5ac-4f42-9946-7cd93b0a5a0e/99/image.jpg",
+      "caption": "Ausblick"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/cfd177b8-ea9e-4117-8458-7967cc81c3cc/99/image.jpg",
+      "caption": "Wellness"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2f4bb9e3-12dd-4f47-9b92-3ab0c54ca867/99/image.jpg",
+      "caption": "Seitenansicht Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/990d859a-8706-43f9-a524-54d4a6a9d22d/99/image.jpg",
+      "caption": "Halle "
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.312626690673",
+    "longitude": "11.151927833146"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Familienzimmer, Bad, WC",
+      "description": "Doppelzimmer mit Schlaf- und eigenem Wohnteil, extra Kinderzimmer für 1 od. 2 Kinder, Kabel TV, Bad/WC, Balkon + Telefon , Kochnische",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Familienzimmer mit Bad, WC",
+          "description": "Alle Zimmer sind mit einem Schlaf- und eigenem Wohnteil, mit Kabel-Farb-TV, Bad/WC, Balkon und Telefon ausgestattet.\nDie Familienzimmer haben neben dem Wohnteil noch ein extra Kinderzimmer für ein bzw. zwei Kinder (+ Kochnische).",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Junior Suite, Bad, WC",
+      "description": "Doppelzimmer mit Schlaf- und eigenem Wohnteil, Kabel TV, Bad/WC, Balkon u. Telefon",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Juniorsuite mit Bad, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ]
+    }
+  ]
+}

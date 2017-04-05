@@ -1,0 +1,20 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure"
+  ],
+  "name": "Parkplatz Moos Rödlach",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3463430577118",
+    "longitude": "11.1278749863282"
+  },
+  "description": "Gebührenpflichtig",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6e10b9fa-3c5b-4b75-a13c-8f20a849b099/99/image.jpg",
+      "caption": "Parkplatz"
+    }
+  ]
+}

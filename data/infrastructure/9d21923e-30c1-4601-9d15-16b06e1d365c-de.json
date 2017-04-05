@@ -1,0 +1,28 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure",
+    "LocalBusiness"
+  ],
+  "name": "Camp Alpin, Camping",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.337026845928",
+    "longitude": "11.1782777309418"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Camp Alpin Seefeld",
+    "streetAddress": "Leutascherstrasse 810",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 4848",
+    "faxNumber": "(0043) 5212 4848 10",
+    "email": "info@camp-alpin.at",
+    "url": "http://www.camp-alpin.at"
+  },
+  "url": [
+    "http://www.camp-alpin.at"
+  ]
+}

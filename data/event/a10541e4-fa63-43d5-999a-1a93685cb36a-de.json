@@ -1,0 +1,55 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "Tiroler Buffet-Abend mit heimischer Live Musik",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Natur \u0026 Spa Hotel Lärchenhof",
+    "employee": {
+      "@type": "Person",
+      "familyName": "Marcati"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Geigenbühelstr. 203",
+      "addressLocality": "Seefeld",
+      "postalCode": "6100",
+      "addressCountry": "AT",
+      "telephone": "+4352122383",
+      "faxNumber": "+4352122583",
+      "email": "info@marcati.at",
+      "url": "http://www.hotel-laerchenhof-seefeld.com"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Natur \u0026 Spa Hotel Lärchenhof",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Geigenbühelstr. 203",
+      "addressLocality": "Seefeld",
+      "postalCode": "6100",
+      "addressCountry": "AT",
+      "telephone": "+4352122383",
+      "faxNumber": "+4352122583",
+      "email": "info@marcati.at",
+      "url": "http://www.hotel-laerchenhof-seefeld.com"
+    }
+  },
+  "description": "Zünftiger Heimatabend mit tradtionellem Buffet und Tiroler Live Musik (ohne Tanzvorführung). Reservierung erbeten, \nTel. 05212 2383.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3a8ad420-2612-4ba4-9ad3-5f29b160168e/99/image.jpg",
+      "caption": "Lärchenhof"
+    }
+  ],
+  "url": [
+    "http://www.hotel-laerchenhof-seefeld.com"
+  ],
+  "startDate": "2016-12-22T19:00:00",
+  "endDate": "2017-03-22"
+}

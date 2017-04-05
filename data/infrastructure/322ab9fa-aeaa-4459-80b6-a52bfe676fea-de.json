@@ -1,0 +1,56 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsClub",
+    "HealthAndBeautyBusiness",
+    "BeautySalon"
+  ],
+  "name": "ErlebnisWelt Alpenbad Leutasch",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3715679674239",
+    "longitude": "11.1520455015136"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "ErlebnisWelt Alpenbad Leutasch",
+    "streetAddress": "Weidach 275 ",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6380 ",
+    "email": "info@alpenbad-leutasch.com ",
+    "url": "http://www.alpenbad-leutasch.com"
+  },
+  "description": "Öffnungszeiten entnehmen Sie bitte der Homepage unter www.alpenbad-leutasch.com \n\nSauna-Welt\nTelefon 05214/ 6380 - 12\n\nMassagen\nTelefon 05214/ 6380 - 15\n\nFriseur Beauty Hair\nTelefon 05214/ 6490\n\nTennis und Squash\nMontag bis Sonntag von 10.00 bis 21.00 Uhr\nReservierung Alpenbad / Kassa (Tel. 05214/6380)\n\n\nErleben, Genießen, Entspannen...\n\nDas Alpenbad Leutasch beeindruckt nicht nur architektonisch, sondern hat auch einiges zu bieten. Fühlen Sie sich wohl und genießen Sie die angenehme Atmosphäre in unserem Erlebnisbad. Mit dem 25 m Sportbecken, dem Sprudelpool im Außenbereich, der 86 m Röhrenrutsche, einem Kinderbereich und einer einzigartigen Saunalandschaft zählt das Alpenbad Leutasch zu den schönsten Österreichs. \n\nDie Saunawelt im Alpenbad Leutasch ist eine Wohlfühloase mit Biosauna, Finnische Sauna, Heusauna, Kelo- Blockhaussauna, Dampfbad und Großraum Infrarotkabine. Zusätzlich bieten unsere verschiedenen Ruheräume den richtigen Ort um zu entspannen. \nWeiteres bietet die Anlage eine Tennishalle, Squashplätze, sowie zwei Restaurants mit kulinarischen Schmankerl für den Gaumen. \n\nNutzen Sie auch das umfangreiche Wohlfühlprogramm unserer Massageabteilung und lassen Sie sich mit klassischen Massagen bis hin zu Alpenbad-Spezialbehandlungen verwöhnen.\n\n\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9865f59c-1108-4c2b-bcc3-cd1c0a458a29/99/image.jpg",
+      "caption": "Alpenbad"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ee5380ba-ee82-4984-bf38-38248fdb8f46/99/image.jpg",
+      "caption": "Friseur"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c839d7fe-75f5-49ff-ac92-429188cd877f/99/image.jpg",
+      "caption": "Massage"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6c47a143-96a9-44cd-8189-472d403c64cc/99/image.jpg",
+      "caption": "Sauna"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/92331a36-fa73-475a-aa5c-a025dfaf2852/99/image.jpg",
+      "caption": "Tennis"
+    }
+  ],
+  "url": [
+    "http://www.alpenbad-leutasch.at"
+  ]
+}

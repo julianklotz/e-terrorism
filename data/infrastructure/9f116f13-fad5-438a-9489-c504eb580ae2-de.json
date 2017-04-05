@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CafeOrCoffeeShop",
+    "IceCreamShop",
+    "FastFoodRestaurant"
+  ],
+  "name": "Nannis Café-Restaurant",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3283739243892",
+    "longitude": "11.1874401569366"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Café Nanni\u0027s",
+    "streetAddress": "Dorfplatz 24",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2229622",
+    "email": "nannis.cafe@aon.at",
+    "url": "http://www.nannis-cafe.at"
+  },
+  "description": [
+    " ",
+    "Am Dorfplatz von Seefeld in der Fußgängerzone finden Sie unser ganzjährig geöffnetes Cafe-Restaurant.\nZum bekannt guten Kaffee freut sich der Gast auf traditionelle, österreichische Mehlspeisen, hausgemachte Strudel und Kuchen aus unserer eigenen Konditorei. Besonders beliebt ist unsere Vitaminbar wegen der frisch gepressten Fruchtsäfte in vielfältiger Auswahl. Den ganzen Tag bieten wir unseren Gästen köstliche Gerichte für den kleinen und großen Hunger.Genießen Sie an schönen Tagen ein cremiges Eis aus eigener Produktion, garniert mit frischen Früchten.\nDie Backstube garantiert täglich ofenfrisches Brot und Gebäck, auch an Sonn- und Feiertagen. "
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f077211d-04d4-4799-bbd8-e1e68bee346d/99/image.jpg",
+      "caption": "Nannis Café-Restaurant"
+    }
+  ],
+  "url": [
+    "http://www.nannis-cafe.at"
+  ]
+}

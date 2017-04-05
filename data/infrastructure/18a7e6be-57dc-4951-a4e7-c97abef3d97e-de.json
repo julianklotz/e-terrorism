@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "TouristAttraction"
+  ],
+  "name": "Nature Watch im Naturpark Karwendel",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Informationsbüro Scharnitz",
+    "streetAddress": "Innsbrucker Str. 282",
+    "addressLocality": "Scharnitz",
+    "postalCode": "6108",
+    "addressCountry": "AT",
+    "telephone": "+4350880540 ",
+    "faxNumber": "+4350880541",
+    "email": "info.scharnitz@seefeld.com",
+    "url": "http://www.seefeld.com"
+  },
+  "description": [
+    "Nature Watch im Naturpark Karwendel Von Anfang Juni bis Ende September, im Rahmen des Sommerprogramms \"Entdecke die Olympiaregion Seefeld\". Jeden Montag. Kostenlos  mit der Olympiaregion Seefeld Card. Anmeldung erforderlich. Treffpunkt: Wanderparkplatz \"Länd\"",
+    "Tourenbeschreibung: Einen Alpenfluss mit allem was dazu gehört erleben; Wasserfälle und Schluchten - und das eingebettet in die\nschroffen Berge des Karwendels. Diese Tour ermöglicht viele Weit- und Nahblicke in das größte Tiroler Schutzgebiet. Natur-Highlights:\nDer Naturpark Karwendel steckt voller „natürlicher“ Besonderheiten und umfasst eine reiche Flora und Fauna, die es zu bewundern\naber auch zu schützen gilt. Im Tal findet man wunderschöne, sehr artenreiche Blumenwiesen, die natürlich auch jede Menge Insekten\nanlocken. Neben häufigen Arten, wie die Witwenblume oder die Tauben-Skabiose wächst hier auch die Pracht-Nelke, die ihren Namen\nnicht zu Unrecht trägt und in Nordtirol sehr selten vorkommt. Die Pflanzen müssen sich hier teilweise mit sehr kargen Schotterbänken\nzufrieden geben. Der Kiefernwald im Karwendel ist typisch für trockene Standorte. Er mag beim ersten Blick eintönig wirken, aber bei\ngenauerem Hinsehen zeigen sich viele bunte Details. So blühen hier geschützte heimische Orchideen, wie das Knabenkraut oder das Rote\nWaldvögelein. Beim Blick nach oben zu den schroffen Gipfeln des Karwendels, kann man mit hoher Wahrscheinlichkeit in einem Kar ein\nGamsrudel erblicken, und mit etwas Glück, vielleicht sogar einen Steinbock. Das Gebirge ist auch Lebensraum des Kolkraben und der\nAlpendohle und natürlich des Königs der Lüfte, des Steinadlers. Nicht weniger beeindruckend ist der Blick in die Ferne ins Karwendeltal.\nDie Schlucht des Karwendelbaches und die Teufelslochklamm mit dem Wasserfall zeigen die immensen Kräfte des Wassers. Einen etwas\nruhigeren Ausklang der Wanderung bieten die Isarauen. Am verzweigten Flusslauf und seinen Schotterbänken tummeln sich Molche und\nviele Wasserinsekten. Als Besonderheit unter den Vögeln gilt die Wasseramsel, der einzige heimische Singvogel, der tauchen kann. Nähere\nInformationen unter www.karwendel.org."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/93957c6b-01ef-4f69-8648-115f7fdd14fc/99/image.jpg",
+      "caption": "Nature Watch"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6433408a-28fa-4fb9-8dc7-66d879521063/99/image.jpg",
+      "caption": "Nature Watch Tour"
+    }
+  ]
+}

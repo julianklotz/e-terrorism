@@ -1,0 +1,18 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Landhaus Almidyll - App. Refosco",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 3367",
+    "faxNumber": "(0043) 5212 3789",
+    "email": "therese.prettner@aon.at"
+  },
+  "name": "ZW-Refosco Roberto",
+  "currenciesAccepted": "EUR"
+}

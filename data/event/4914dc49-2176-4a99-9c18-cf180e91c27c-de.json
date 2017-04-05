@@ -1,0 +1,73 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "11. Leutascher Bergfrühlingstage - \"Bergfrühlingsstammtisch\"",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Informationsbüro Leutasch",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Weidach 320",
+      "addressLocality": "Leutasch",
+      "postalCode": "6105",
+      "addressCountry": "AT",
+      "telephone": "+43-50880510",
+      "faxNumber": "+43-50880811",
+      "email": "info.leutasch@seefeld.com",
+      "url": "http://www.seefeld.com"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Informationsbüro Leutasch",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Weidach 320",
+      "addressLocality": "Leutasch",
+      "postalCode": "6105",
+      "addressCountry": "AT",
+      "telephone": "+43-50880510",
+      "faxNumber": "+43-50880811",
+      "email": "info.leutasch@seefeld.com",
+      "url": "http://www.seefeld.com"
+    }
+  },
+  "description": "Essen und Zusammensitzen in unserer „Bergfrühlingsrunde”. ",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f4d5272c-d424-43ec-945e-7c73b606351f/99/image.jpg",
+      "caption": "bergfrühl"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a9b9380b-e23e-4e80-9956-e8207fcdfff2/99/image.jpg",
+      "caption": "bergfrühling"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/424ee84b-838c-4be2-8f9b-3fb8f2a1d789/99/image.jpg",
+      "caption": "bergfrühling1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a0265960-f5c0-4196-bdaa-64dfb2251329/99/image.jpg",
+      "caption": "bergfrühling2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d2cd5feb-bd49-4cd8-b049-ab196396edeb/99/image.jpg",
+      "caption": "bergfrühling3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/22823bd6-3be0-477c-b550-868dbfd81729/99/image.jpg",
+      "caption": "bergfrühling4"
+    }
+  ],
+  "startDate": "2017-06-08T18:00:00",
+  "endDate": "2017-06-08"
+}

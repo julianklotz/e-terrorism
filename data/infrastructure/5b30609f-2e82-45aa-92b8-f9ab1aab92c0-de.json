@@ -1,0 +1,20 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure"
+  ],
+  "name": "Parkplatz Gasse",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3768152038508",
+    "longitude": "11.1580015579834"
+  },
+  "description": "Nur ein Winterparkplatz. Gebührenpflichtig.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/08e074ff-e13e-4e26-b4b8-5b6353d61f3a/99/image.jpg",
+      "caption": "Parkplatz"
+    }
+  ]
+}

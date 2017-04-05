@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure"
+  ],
+  "name": "beim Musikpavillon",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2986014123698",
+    "longitude": "11.2031042575836"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Musikplatzl",
+    "streetAddress": "Römerstraße 24",
+    "addressLocality": "Reith bei Seefeld",
+    "postalCode": "6103",
+    "addressCountry": "AT"
+  },
+  "description": [
+    "Gebührenfrei",
+    "Gebührenfrei"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/534bb0f5-dedf-41e4-b63a-1e457b5d9a34/99/image.jpg",
+      "caption": "Ansicht"
+    }
+  ]
+}

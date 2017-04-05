@@ -1,0 +1,337 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://www.hoteltyrolalpenhof.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Hotel Tyrol \u0026 Alpenhof",
+    "streetAddress": "Münchnerstr. 114",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2221",
+    "faxNumber": "(0043) 5212 4311",
+    "email": "info@hoteltyrolalpenhof.com",
+    "url": "http://www.hoteltyrolalpenhof.at"
+  },
+  "name": "Hotel Tyrol \u0026  Alpenhof",
+  "description": [
+    "Neue Leitung seit 2014/2015!!!\n\nMitten in den Alpen gelegen, und durch die einzigartige Lage die optimale Urlaubsanlaufstelle für Sportler, Wanderer, Genießer und alle, die die Berge und die Natur lieben.  \nDas Hotel Tyrol \u0026 Alpenhof befindet sich nur 400 Meter vom Ortszentrum entfernt, besteht aus 2 verbundenen Gebäuden und ist individuell eingerichtet - ein Ort wie man ihn selten findet. \nDie 77 Zimmer sind mit Klasse und Eleganz eingerichtet und mit Dusche oder Bad, WC, Flat Satelliten-TV, Telefon, Minibar, Safe, kostenfreiem Wifi-Internetanschluss und überwiegend mit Balkon ausgestattet.\n\nDie Reservierung muss mit VISA oder Mastercard garantiert werden. \n\nStornobedingungen:\nBis 7 Tage vor Anreise kostenfrei. Bei späterer Stornierung, wird der Gesamtpreis in Rechnung gest",
+    "Reichhaltiges Geniesserfrühstücksbuffet. Nachmittags Kaffee, Tee und Kuchen. Abends 3-Gänge-Wahlmenü mit grossem Vorspeisen-,Salat- und Gemüsebuffet. \nIn unserem Wellnessbereich mit Schwimmbad, Sauna, Dampfbad u. Fitnessraum entspannen Sie nach einem herrlichen Tag auf der Piste. \nSpielzimmer für Kinder, Tischtennisraum, Billard.\nKostenfreie Parkplätze.\n",
+    "Anreise: ab 14.00 Uhr\nAbreise: bis 10.00 Uhr ",
+    "Seefeld Tyrol Alpenhof Hotel 3 Sterne Ski Urlaub"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.0",
+    "reviewCount": "496"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5936e7dc-573a-485f-81c2-0ad417adf583/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0dbf7d0c-218b-4a3d-917e-d9a17da23bb9/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0fc2f321-f421-40b5-87a9-0491176aa155/99/image.jpg",
+      "caption": "Restaurant"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3b9970da-770d-4065-9ccc-ef5a7f42cdc6/99/image.jpg",
+      "caption": "Buffet"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d0dd8a0d-a990-4257-890b-503bb1a99551/99/image.jpg",
+      "caption": "Lobby"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/38a0c608-abca-4594-a1f3-798d4bc816c7/99/image.jpg",
+      "caption": "Lounge mit Bar"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/42a19f9d-3c94-44a2-904c-98d903b7263a/99/image.jpg",
+      "caption": "Schwimmbad"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/06260641-befd-45a9-b364-8009adb56469/99/image.jpg",
+      "caption": "Wellness"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3339876207652",
+    "longitude": "11.1915600468353"
+  },
+  "paymentAccepted": [
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Einzelzimmer, Dusche oder Bad, WC, 1 Schlafraum",
+      "description": "Einzelzimmer",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Einzelzimmer",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "79.00",
+          "maxPrice": "79.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche oder Bad, WC, 1 Schlafraum",
+      "description": "Basic Doppelzimmer",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Basic Doppelzimmer",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche oder Bad, 1 Schlafraum",
+      "description": "Standard Doppelzimmer",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Standard Doppelzimmer",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Dreibettzimmer, Dusche oder Bad, WC, 1 Schlafraum",
+      "description": "Standard Dreibettzimmer",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Standard Dreibettzimmer",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche oder Bad, WC, 1 Schlafraum",
+      "description": "Komfort Doppelzimmer",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Komfort Doppelzimmer",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche oder Bad, WC, 1 Schlafraum",
+      "description": "Superior Doppelzimmer",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Superior Doppelzimmer",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Dreibettzimmer, Dusche oder Bad, WC, 1 Schlafraum",
+      "description": "Superior Dreibettzimmer",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Superior Dreibettzimmer",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "3"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Familienzimmer, Dusche und Bad, WC, 2 Schlafräume",
+      "description": "Familienzimmer 4 Personen",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Familienzimmer bis zu 4 Personen",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "2"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "4"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Familienzimmer, Dusche und Bad, WC, 2 Schlafräume",
+      "description": "Familienzimmer 5 Personen",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Familienzimmer bis zu 5 Personen",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "2"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "5"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Familienzimmer, Dusche und Bad, WC, 2 Schlafräume",
+      "description": "Panorama Familienzimmer 5 Personen",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Panorama Familienzimmer bis zu 5 Personen",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "2"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "5"
+          }
+        }
+      ]
+    }
+  ]
+}

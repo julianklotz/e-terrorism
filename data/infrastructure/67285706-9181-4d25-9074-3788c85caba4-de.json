@@ -1,0 +1,33 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "JewelryStore",
+    "Store"
+  ],
+  "name": "Swarovski Premium Shop",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.328795696289",
+    "longitude": "11.187686920166"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Swarovski Premium Shop",
+    "streetAddress": "Dorfplatz 25",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 52540",
+    "url": "http://www.swarovski.com"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1fdf252a-477c-42bf-8422-47a5b3251e4d/99/image.png",
+      "caption": "Swarovski"
+    }
+  ],
+  "url": [
+    "http://www.swarovski.com"
+  ]
+}

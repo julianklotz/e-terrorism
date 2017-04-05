@@ -1,0 +1,259 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.schloesslhof.com",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Der Schlösslhof in der Olympiaregion",
+    "streetAddress": "Foehrenwald 14",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 20102",
+    "faxNumber": "(0043) 5214 6454 54",
+    "email": "fam.neuner@schloesslhof.com",
+    "url": "http://www.schloesslhof.com"
+  },
+  "name": "Der Schlösslhof in der Olympiaregion",
+  "description": [
+    "Sonnig - ruhig -zentral\nSauna, Aromadampfbad, Infrarot mit Lichttherapie, Heubad, Massage, Babyausst., Spielhütte, Gaststube, Fahrräder, Schiservice, Rodeln, Schneeschuhe.\nReiterbauernhof - Mölcheralm\nWo Haflingerpferde und Ponys zu Hause sind. Traumhafte Ausrittmöglichkeiten, Spielen, Grillen u.v.m.",
+    "INKLUSIVE: Infrarot m. Lichttherapie, 2 x pro Woche Sauna, bzw. Aroma-Dampfsauna, Heizung, Wasser, Strom, Parkplatz, Abholservice v. Bahnhof, Fahrräder, Spiel- u. Fitnessgeräte, Gartengrill, Gartenmöbel, Reiten, geführte (Schneeschuh-)Wanderungen\n\nEXKLUSIVE: Heubad, Massagen, Telefon, Reinigung, Flughafentransfer, Reitunterricht, Kutschenfahrten\n\nSpezielle Kinderpreise auf Anfrage!",
+    "Check-In 15.00 Uhr / Check-Out 10.00 Uhr\nSo finden Sie uns: Von München über Garmisch - Mittenwald oder von Innsbruck über Zirl - Seefeld ins gelobte Leutaschtal.\nWeiter zum Leutascher Ortsteil Weidach - Föhrenwald wo Sie die grünen Hotelwegweiser zum Schlösslhof führen! \n\nWir wünschen Ihnen eine gute Fahrt!"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7c54feb5-5821-4c97-838b-e74fc3b92302/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1ade83cf-275e-4da5-959d-2921f4305a5c/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b8ed6794-2c5c-43f7-bde5-ad21e6822b4e/99/image.jpg",
+      "caption": "Winter Nacht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5b2cb757-1e10-4ec8-b3fe-93d6643fc4a0/99/image.jpg",
+      "caption": "Reiten mit Kindern"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/380c5d27-34e0-4798-893c-c2dc697f2cfa/99/image.jpg",
+      "caption": "Winter 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d231efa3-f86c-4c10-b17c-1d37a9f5644e/99/image.jpg",
+      "caption": "Ausflug"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.373343640321",
+    "longitude": "11.167753162798"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Schlafen wie ein Murmeltier!\nAppartement 32 m² \"klein aber fein\", Maximalbel. 3 Pers., kompl. + komfort. Ausstattung, Wäschewechsel nach belieben, Balkon;",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Ap. Ahrnspitz /1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Wo die Morgensonne Sie langsam erwachen lässt!\nAppartement 54 m², \"ruhig und schön\", Maximalbel. 4 Pers., kompl. + komfort. Ausstattung, Südbalkon;\n\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Ap. Wetterstein /1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Vom Abendrot geblendet!\nAppartement 45 m² \"familienfreundlich\", Maximalbel. 4 Pers., kompl. + komfort. Ausstattung, Wäschewechsel nach belieben, Balkon;",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Ap. Gehrnspitz /1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Den Bergkristall funkeln sehen!\nAppartement 38 m², \"lässig\", Maximalbelegung 3 Pers., kompl. + komf. Ausstattung, Wäschewechsel nach belieben, Balkon;",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Ap. Öfelekopf /1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 2 Schlafräume",
+      "description": "Im Zauber eines Turmzimmers!\nAppartement 75 m², \"Panoramawohnung\", Maximalbel. 5 Pers., kompl. + komfort. Ausstattung, Wäschewechsel nach belieben, Balkon, 2 Badezimmer;",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Ap. Hohe Munde/2 Schlafräume/DU, Bad, WC",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC",
+      "description": "Schlafen wie ein Murmeltier!\nHotelappartement 32 m² \"klein aber fein\", Maximalbel. 3 Pers., kompl. + komfort. Ausstattung, Wäschewechsel nach belieben, Balkon;",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Hotelappartement mit Dusche, WC",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC",
+      "description": "Wo die Morgensonne Sie langsam erwachen lässt!\nHotelappartement 54 m², \"ruhig und schön\", Maximalbel. 4 Pers., kompl. + komfort. Ausstattung, Südbalkon;",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Hotelappartement II mit Dusche, WC",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, rollstuhlgerecht",
+      "description": "Unsere neueste, erst kürzlich fertiggestellte Wohnung widmen wir insbesondere unseren Gästen mit Behinderungen.\nDie exklusiv eingerichtete Wohnung liegt im Parterre und ist komplett barrierefrei!\npassend  dazu einige Empfehlungen für Rollstuhlfahrer in der Olympiaregion:\n\nhttp://www.seefeld.com/de/aktivitaeten/barrierefrei ",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement Natura",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ]
+    }
+  ]
+}

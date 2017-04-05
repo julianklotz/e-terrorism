@@ -1,0 +1,83 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://web.deskline.net/seefeld/de/show_accommodation/SEE/68b685b5-1924-48ca-b824-e4d53b8678a4/haus_theresia",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Theresia",
+    "streetAddress": "Platzl 107 b",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6606",
+    "faxNumber": "(0043) 5214 6606",
+    "email": "kuehrer@gmx.at"
+  },
+  "name": "Haus Theresia",
+  "description": [
+    "Ruhige, sonnige Lage\nSüdbalkon \nLoipen in 2 min. zu Fuß erreichbar",
+    "inkl: Strom, Heizung, Wasser\nexkl: Endreinigung, Ortstaxe",
+    "Mittenwald - Gasse - Kirchplatzl - Aue - Platzl - Sackgasse links"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a74f3c2a-258c-4f8a-96e0-0b63eda36292/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7a38e860-6ff9-4604-840c-2ba6580ec193/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b833207a-a00c-4c67-9490-83c2921563e5/99/image.jpg",
+      "caption": "Aussicht Küche"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/538472b2-9487-410a-9159-325fde137c3a/99/image.jpg",
+      "caption": "Aussicht Balkon"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/783c7c93-cb66-4f63-86b6-1bb2c738d9f8/99/image.jpg",
+      "caption": "Aussicht Wohnzimmer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.361892431444",
+    "longitude": "11.137025778612"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "komplette Etage zur Verfügung ;freier Blick von jedem Raum  in die herrliche Bergwelt, Südbalkon; gemütliche Wohnküche;",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

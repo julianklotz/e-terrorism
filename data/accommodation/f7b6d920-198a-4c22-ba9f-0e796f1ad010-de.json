@@ -1,0 +1,29 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Lärchenwald - Top 10",
+    "streetAddress": "Kindergartenweg 573",
+    "addressLocality": "Seefeld ",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "email": "petermitteregger@yahoo.com"
+  },
+  "name": "Haus Lärchenwald - App. Mitteregger",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c0029e7b-2e2b-48fe-ab64-7ed2d717f6bc/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8ffbf307-84fe-4711-a862-073c8c57eaa0/99/image.jpg",
+      "caption": "Ortsbild Winter"
+    }
+  ],
+  "currenciesAccepted": "EUR"
+}

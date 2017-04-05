@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BankOrCreditUnion"
+  ],
+  "name": "BTV, Bank für Tirol und Vorarlberg",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.329210192978",
+    "longitude": "11.1858308315277"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "BTV, Bank für Tirol und Vorarlberg",
+    "streetAddress": "Klosterstr. 397",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5053334207",
+    "url": "http://www.btv.at"
+  },
+  "description": [
+    " ",
+    "mit Außen-Bankomat"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c6f47f30-7076-4893-b1ac-34659acc347e/99/image.jpg",
+      "caption": "BTV"
+    }
+  ],
+  "url": [
+    "http://www.btv.at"
+  ]
+}

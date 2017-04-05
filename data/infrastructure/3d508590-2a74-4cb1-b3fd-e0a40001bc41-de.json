@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "PostOffice",
+    "GovernmentOffice"
+  ],
+  "name": "Postservicestelle Reith",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.299300494908",
+    "longitude": "11.2030444429917"
+  },
+  "openingHours": [
+    "Mon,Tue,Wed,Thu,Fri 08:00-12:00"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Gemeindeamt Reith bei Seefeld",
+    "streetAddress": "Lauserweg 15",
+    "addressLocality": "Reith bei Seefeld",
+    "postalCode": "6103",
+    "addressCountry": "AT",
+    "telephone": "(0043)5212 3116",
+    "email": "amtsleiter@reith-seefeld.at",
+    "url": "http://www.reith-seefeld.at/"
+  },
+  "description": "Gemeindeamt Reith, Lauserweg 15: Paketabholung;\nInfobüro Reith, Römerstraße 52: Briefmarken, Telefonkarten;",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/fd3aaf6e-6ec2-4039-980e-9483cbfe56cd/99/image.jpg",
+      "caption": "Piktogramm"
+    }
+  ]
+}

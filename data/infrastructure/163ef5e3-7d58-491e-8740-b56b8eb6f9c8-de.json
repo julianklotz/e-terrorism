@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CafeOrCoffeeShop",
+    "FastFoodRestaurant"
+  ],
+  "name": "Landcafé Schöpf",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3117562545425",
+    "longitude": "11.146214206221"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Landhaus Schöpf",
+    "streetAddress": "Möserer Dorfstr. 7",
+    "addressLocality": "Mösern",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "0043 5212 4752",
+    "faxNumber": "0043 5212 475235",
+    "email": "info@landhaus-schoepf.at",
+    "url": "http://www.landhaus-schoepf.at"
+  },
+  "description": "Sitzplätze für ca. 20 Personen\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0b5ebcae-7be5-4111-8f07-5cfb383de331/99/image.jpg",
+      "caption": "Schöpf"
+    }
+  ],
+  "url": [
+    "http://www.landhaus-schoepf.at"
+  ]
+}

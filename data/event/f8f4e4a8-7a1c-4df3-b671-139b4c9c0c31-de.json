@@ -1,0 +1,49 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "Skihütten Open Air Party",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bergbahnen Rosshütte",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Rosshütte Seefeld",
+      "addressLocality": "Seefeld",
+      "postalCode": "6100",
+      "addressCountry": "AT",
+      "telephone": "(0043) 5212 24160",
+      "email": "info@rosshuette.at",
+      "url": "http://www.rosshuette.at"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Bergbahnen Rosshütte",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Rosshütte Seefeld",
+      "addressLocality": "Seefeld",
+      "postalCode": "6100",
+      "addressCountry": "AT",
+      "telephone": "(0043) 5212 24160",
+      "email": "info@rosshuette.at",
+      "url": "http://www.rosshuette.at"
+    }
+  },
+  "description": "Sensationelle Live Acts auf der Rosshütte! Samstag: 14:00 Uhr, ORF Radio Tirol Hit Box, 15:00 Uhr, Auftritt der „Seer“, 19:30 Uhr, Konzert der „Zillertaler Mander“ (Rosshütte \u0026 Standseilbahn bis 23:30 Uhr geöffnet). Details: www.rosshuette.at.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1e57ef45-bb3d-45a3-8038-72ff7d1114ac/99/image.jpg",
+      "caption": "Skihütten Open Air Party"
+    }
+  ],
+  "url": [
+    "http://www.rosshuette.at"
+  ],
+  "startDate": "2017-03-18T14:00:00",
+  "endDate": "2017-03-18"
+}

@@ -1,0 +1,171 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://aaronseefeld.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Aaron Appartements",
+    "streetAddress": "Geigenbühelstraße 169",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 75009646",
+    "email": "aaronseefeld@gmail.com",
+    "url": "http://aaronseefeld.at"
+  },
+  "name": "Aaron Appartements",
+  "description": [
+    "\nGroßes Ferienhaus mit 2 großzügig geschnittenen, exklusiven Ferienwohnungen. Eine Wohnung hat einen großen eigenen Garten dabei. Die Tiefgarage bietet Platz für bis zu 6 PKWs, Zentrumsnahe, und trotzdem ruhig gelegen. Gute Infrastruktur durch nahegelegenen (20 m entfernte) Bushaltestelle für Dorfshuttle und Skibus. ",
+    "\nInklusive: Bettwäsche, Handtüchern, Heizung, Strom, Wasser, Tiefgarage,\nExklusive: Hund (€ 7 pro Tag), Endreinigung € 100,00\nbei starker Verschmutzung zusätzliche Reinigungskosten",
+    "\nCheck In: 16:00 Uhr\nCheck Out: 10:00 Uhr",
+    "große Appartements, kinderfreundlich, Rollstuhlgängig, ruhige Lage, Zentrumsnahe, hundefreundlich"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/dc0fddce-2639-4a6b-81bf-896203e03fae/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/503f14d4-cb6e-40c2-b845-7cf30b32ec5a/99/image.jpg",
+      "caption": "Winter"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3354781498589",
+    "longitude": "11.186243891716"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 2 Schlafräume",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Seefeld Neubau",
+          "description": "121 m², sehr großes Appartment, 2 Schlafzimmer, großes Bad mit Dusche, Badewanne und WC, separates WC, Garderobe, Wohn- Esszimmer und Küche mit Geschirrspüler, Kamin, Terrasse, Garten, Lift.",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "199.00",
+          "maxPrice": "199.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "199.00",
+          "maxPrice": "199.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "199.00",
+          "maxPrice": "199.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "218.00",
+          "maxPrice": "218.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 3 Schlafräume",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Rosshütte Neubau",
+          "description": "185m², sehr großes Appartement mit Steinböden, 3 Schlafzimmer, 1  großes Bad mit WC, 2 Waschbecken und mit Waschmaschine, ein kleineres Bad mit Dusche mit WC, Wohnzimmer mit Kamin und Balkon, Wintergarten als Esszimmer, große Küche mit Geschirrspüler, Garderobe, Lift bis vor die Wohnung.",
+          "numberOfRooms": "4.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "8",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "229.00",
+          "maxPrice": "229.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "229.00",
+          "maxPrice": "229.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "229.00",
+          "maxPrice": "229.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "229.00",
+          "maxPrice": "229.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "229.00",
+          "maxPrice": "229.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 7",
+          "minPrice": "248.00",
+          "maxPrice": "248.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 8",
+          "minPrice": "267.00",
+          "maxPrice": "267.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.Hauskreuzeck.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Kreuzeck",
+    "streetAddress": "Am Kirchwald 339",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 5211071",
+    "email": "hauskreuzeck@gmail.com",
+    "url": "http://www.Hauskreuzeck.at"
+  },
+  "name": "Haus Kreuzeck",
+  "description": [
+    "Unser Haus liegt in einer ruhigen Wohngegend mit traumhafter Aussicht. Es steht das gesamte obere Stockwerk zu Ihrer freien Verfügung. Von Ihrem Balkon aus haben Sie Blick auf den Gschwandtkopft welchen Sie in 3 min erreichen können. Der gratis Dorfbus hält auf der gegenüberliegenden Straßenseite. Für Wanderungen in Sommer oder Winter können Sie direkt von der Wohhnung aufbrechen und in ca. 40 min auf der Wildmoosalm sein.\n\nDen Loipeneinstieg sowie die WM Halle sind in 2 min erreichbar. Das Dorfzentrum und Einkaufsmöglichkeiten sind knapp 7 min entfernt. ",
+    "Inkl. Strom",
+    "In der Regel gilt Anreise ab 14:00 Uhr, sofern es möglich ist, gehen wir gerne auf Ihre Wünsche ein. \nDie Abreise Formalitäten hätten wir gerne bis 10:00 Uhr erledigt. "
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "reviewCount": "23"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/dd1fe4db-2e97-429f-9788-fecb1c4ca00c/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/79d56de6-ddce-47df-808c-36d69edb521e/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6f73864a-bb59-4b3d-b444-e8f4d9a16c7f/99/image.jpg",
+      "caption": "Panorama Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f213b168-24bf-4050-a607-24866c7833c3/99/image.jpg",
+      "caption": "Panorama Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/df219565-e98d-4653-b2b9-8584eb39c52c/99/image.jpg",
+      "caption": "Garten im Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f2a0ce70-30b0-4866-9d46-3ad3d5a719c6/99/image.jpg",
+      "caption": "Gartenhaus Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f59249ed-e1c1-4c84-a770-f850c5d0e129/99/image.jpg",
+      "caption": "Aussicht im Winter"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3277703483983",
+    "longitude": "11.1781811714172"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Die Wohnung verfügt über drei Zimmer, Schlafzimmer, Wohnzimmer und eine Küche mit Sitzecke und natürlich ein Badezimmer mit Dusche und Toilette.\nDie Küche verfügt über den gewohnten Standard mit E-Herd und Backrohr sowie einem Kühlschrank mit Gefrierfach. Die Eckbank bietet Platz für bis zu 6 Personen.\nDer Südbalkon zieht sich über die gesamte Wohnung und bietet eine Aussicht auf Loipe und Skigebiet \"Gschwandtkopf\". Im Wohnzimmer steht eine Aussziehbare Couch zur Verfügung. ",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "55.00",
+          "maxPrice": "55.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "60.00",
+          "maxPrice": "60.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "70.00",
+          "maxPrice": "70.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

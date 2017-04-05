@@ -1,0 +1,191 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.haus-weiskopf.com",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Weiskopf",
+    "streetAddress": "Klosterstrasse 295",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2280",
+    "faxNumber": "(0043) 5212 2280",
+    "email": "seefeld@rantnerhof.com",
+    "url": "www.haus-weiskopf.com"
+  },
+  "name": "Haus Weiskopf",
+  "description": [
+    "Sehr geehrter Gast, \nSie suchen eine schöne, neue Wohnung im Zentrum?\nDas HAUS WEISKOPF ist direkt in der Fußgängerzone - vis á vis vom Hotel Klosterbräu und neben dem Postamt.\nIn unmittelbarer Nähe sind sämtliche Geschäfte und Restaurants sowie das Casino. \nFalls Sie mit dem Zug anreisen: Zum Bahnhof sind es etwa 5 Minuten!\nDie Langlaufloipen am Seekirchl, die Skigebiete Gschwandtkopf und Geigenbühel, das Olympiazentrum, der Eislaufplatz und die Bushaltestelle für den Skibus und den Dorfbus: alles ist in ein wenigen Minuten zu Fuß erreichbar. Die Wohnungen wurden dieses Jahr komplett neu renoviert!\nUnser Haus ist lärmgeschützt gebaut - Ruhe und Erholung mitten im Zentrum!\nParkplätze sind ebenfalls vorhanden.",
+    "In unseren Preisen enthalten sind die Kosten für Strom, Wasser, Heizung, Bettwäsche, Hand- und Badetücher, Küchenwäsche. \n\nAnreise ist ab ca. 15.00 Abreise bis 10.00 \nSollten Ihnen diese Zeiten nicht möglich sein, so werden wir nach Absprache bemüht sein, Ihren Wünschen entgegenzukommen."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/412558a8-9623-472b-a74e-16e1a1face95/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d822f2ab-eb57-4937-9ba2-fa34753be79a/99/image.jpg",
+      "caption": "Aussicht Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2abc4878-f672-4b13-9f3a-64b26d317121/99/image.jpg",
+      "caption": "Aussicht 2"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3292283725829",
+    "longitude": "11.185530424118"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Sehr geehrter Gast,\nwir freuen uns, Ihnen eine schöne, n e u e Wohnung mitten im Zentrum anbieten zu können. Die Räume sind hell und gemütlich eingerichtet. \nDie abgeteilte Küche ist mit allem ausgestattet: Elektroherd mit Ceranfeld und Backrohr, Dunstabzug, Geschirrspüler, Kühlschrank mit Gefrierfach, Mikrowelle, Toaster, Kaffeemaschine, Wasserkocher usw. \nDas große, helle Badezimmer ist mit Fenster.\nW-LAN ist kostenlos!",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Nr. 1 Appartement/1 Schlafraum/ Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "54.00",
+          "maxPrice": "107.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "54.00",
+          "maxPrice": "107.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "68.00",
+          "maxPrice": "122.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "Eine schöne, n e u e  Wohnung direkt in der Fußgängerzone, mit großer Terrasse nach Süden und Balkon nach Osten. Die Wohnung ist komfortabel und top ausgestattet: 2 Schlafzimmer, Wohnzimmer mit Küchenzeile, DU/WC, Fernseher, W-LAN. Sie ist gemütlich und gediegen eingerichtet. \nDie Küche verfügt über Elektroherd mit Ceranfeld und Backrohr, Mikrowelle, Kühlschrank mit Gefrierfach, Geschirrspüler, Wasserkocher, Kaffeemaschine usw.\nDiese Wohnung ist passend für 2 - 4 Personen",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Nr. 2 Apartment/2 Schlafräume/Dusche, WC",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "60.00",
+          "maxPrice": "144.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "60.00",
+          "maxPrice": "144.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "72.00",
+          "maxPrice": "160.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "85.00",
+          "maxPrice": "160.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Sehr geehrter Gast,\nwir freuen uns, Ihnen eine schöne, n e u e Wohnung mitten im Zentrum anbieten zu können. Die Räume sind hell und gemütlich eingerichtet. Der Balkon ist ost- und westseitig mit schönem Ausblick.\nDie separate Küche ist mit allem ausgestattet: Elektroherd mit Ceranfeld und Backrohr, Dunstabzug, Geschirrspüler, Kühlschrank mit Gefrierfach, Mikrowelle, Toaster, Kaffeemaschine, Wasserkocher usw. \nDas große, helle Badezimmer ist mit Fenster.\nW-LAN ist kostenlos!",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Nr. 3 Apartment/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "56.00",
+          "maxPrice": "110.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "56.00",
+          "maxPrice": "110.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "70.00",
+          "maxPrice": "125.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

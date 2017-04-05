@@ -1,0 +1,258 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://www.weidacherhof.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Hotel Garni Weidacherhof",
+    "streetAddress": "Weidach 342",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6248",
+    "faxNumber": "(0043) 5214 20012",
+    "email": "info@weidacherhof.at",
+    "url": "http://www.weidacherhof.at"
+  },
+  "name": "Hotel Garni Weidacherhof",
+  "description": [
+    "Der \"Weidacherhof\" wird familiär als Hotel-Garni geführt. Die Lage ist zentral und doch sehr ruhig. Genießen Sie Ihre Urlaubstage in unseren Komfort- und Exclusivzimmern mit großzügigen Bädern, sowie Balkon. Nach einem ausgiebigen Frühstück können Sie die naturbelassene Gegend bei ausgiebigen Wander- oder Mountainbiketouren erkunden. Anschließend finden sie Erholung im Alpenbad Leutasch -der Eintritt für unsere Gäste ist im Sommer kostenlos (5-Stunden-Karte/Tag/Person).\n\nKommen Sie als Gäste und gehen Sie als Freunde !!!\n",
+    "Verleih von Fahrrädern (gut gewartete Mountainbikes) und Rodeln kostenlos.",
+    "Check in 14.00 Uhr, Check out 10.00 Uhr.\n\nWeg: Folgen Sie dem Wegweiser nach Weidach/Unterweidach. Unser Haus liegt gegenüber des Supermarktes \" M-Preis.\"\n"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "reviewCount": "77"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3d3cea02-cd9a-4e03-98a7-9f4984e1bd17/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/492d80c1-d28f-400e-98e2-7654a3ca6aa0/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2c9f7980-8f48-45b2-b78e-fc6cab5392b0/99/image.jpg",
+      "caption": "Hausansicht Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f1820010-46c6-47ec-ad53-6960d3e14211/99/image.jpg",
+      "caption": "Hausansicht NORD Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a229d6fe-7995-4ba4-b081-038795f43fa7/99/image.jpg",
+      "caption": "Hausansicht Nacht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/988e6468-9a80-449f-ac6d-fcae68df6f4c/99/image.jpg",
+      "caption": "P7030145"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e708374f-f3c8-4b9a-af88-6310bd12d918/99/image.jpg",
+      "caption": "Foyer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4f53a31e-47f3-42c2-8e3a-6997466e5296/99/image.jpg",
+      "caption": "Frühstücksraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/78ff878d-3fb9-4d79-8f9f-31c85e50e226/99/image.jpg",
+      "caption": "Frühstücksraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/53474891-9e0b-4f00-bdd6-adf7c3d68608/99/image.jpg",
+      "caption": "Schikeller"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d5fdc02f-8738-420c-a36a-ab98662310bf/99/image.jpg",
+      "caption": "Sonnenterrasse"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.372159392228",
+    "longitude": "11.16748382385"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Familienzimmer, Dusche, WC",
+      "description": "Familienzimmer DU/WC/TV - 1 Elternschlafzimmer und 1 getrenntes Kinderschlafzimmer mit Stockbett; gemeinsame DU/WC",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Familienzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "38.00",
+          "maxPrice": "48.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "38.00",
+          "maxPrice": "48.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "38.00",
+          "maxPrice": "48.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Einzelzimmer, Bad, WC",
+      "description": "Geräumiges Einzelzimmer Bad/WC/TV",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Einzelzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "43.00",
+          "maxPrice": "53.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Hell möbliertes Doppelzimmer mit großzügiger DU/WC und Balkon.  Auch als Dreibettzimmer möglich !",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer \"Komfort\" mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "38.00",
+          "maxPrice": "48.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "38.00",
+          "maxPrice": "48.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Sehr geräumiges Doppelzimmer DU/WC/TV/Balkon (hell möbliert) mit gemütlicher Sitzecke und kl. Kachelofen.\n(Auch als Dreibett- bzw. Vierbettzimmer vermietbar)",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer \"Exclusiv\" mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "43.00",
+          "maxPrice": "53.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "43.00",
+          "maxPrice": "53.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

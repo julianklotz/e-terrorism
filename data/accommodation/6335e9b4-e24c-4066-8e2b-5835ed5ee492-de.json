@@ -1,0 +1,580 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://www.bergresort.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Bergresort Seefeld",
+    "streetAddress": "Münchnerstrasse 215",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2191",
+    "faxNumber": "(0043) 5212 2191 116",
+    "email": "bergresort@kaltschmid.info",
+    "url": "http://www.bergresort.at"
+  },
+  "name": "Bergresort Seefeld",
+  "description": [
+    "Der ehemalige Tümmlerhof begrüßt Sie ab Sommer 2010 mit einem völlig neuen Hotelkonzept als ****S Bergresort Seefeld.\nGastfreundschaft, Natürlichkeit und Erdverbundenheit Tirols machen \"Dein Stück Heimat\" für Sie erlebbar.\nINDIVIDUELL WIE SIE ... wunderschön gelegen, ca. 15 Gehminuten vom Zentrum Seefeld entfernt, mit großzügiger Badelandschaft bestehend aus 2 Hallenbädern, beheiztem Freischwimmbad, Whirlpool, Kneippanlage, diversen Saunen u. Dampfbädern, Panoramaruheraum, Wärmeliegen und Wasserbetten, Bio-Badeteich und Fitnessraum mit Cardiogeräten. Des weiteren werden Massagen- und Kosmetikbehandlungen sowie Solarien angeboten. Abholung von/zum Bahnhof Seefeld.",
+    "Kostenlos: Wöchentl. Aktivprogramm, Willkommenscocktail, Begrüßungsteller,Bademantel, Tanz-und Musikabende, freie Benützung der Badelandschaft, Ausenpool, Massagen \u0026 Körperanwendungen geg. Gebühr, Fitnessraum mit Cardiogeräten, Sommer: Tischtennis, Fahrradverleih, Nordic-Walking Stöcke; Winter: Rodelverleih\nGratis Parkplätze vorm Haus,Garage \u0026 Carport geg. Gebühr\nHaustier € 15,00/Tag (ohne Futter)",
+    "http://www.bergresort.at/das-hotel/ankommen/anreise-abfahrt/\n",
+    "Seefeld, Wellness, Beauty, Familie, Kinder, Paare, Hunde, Gourmet, tarditionell, Romantik, Sport"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "reviewCount": "673"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d110b6ba-6da3-4a6f-8d50-daab15fd6af8/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/60fa40b3-7642-424d-81ec-5f0d4134cb3f/99/image.jpg",
+      "caption": "Logo"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ffc27ff7-3ba7-46d1-b7bf-d7447afb10af/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5a257555-6198-443f-bc23-1b3e719cf591/99/image.jpg",
+      "caption": "Wellness"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/21aa89b5-7066-4c9a-853e-fccda057e6c0/99/image.jpg",
+      "caption": "Sauna"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/69a6ec6b-866f-4fb6-a764-2add3522311b/99/image.jpg",
+      "caption": "Restaurant"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/bbe4eb73-f39e-4096-b2ea-227352ef29b4/99/image.jpg",
+      "caption": "Pool"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4a5d1c3d-2780-4b3d-8e55-c090cd6889ac/99/image.jpg",
+      "caption": "Sauna 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d17fafb7-2f3f-4c3b-ad3e-27aeea3a0592/99/image.jpg",
+      "caption": "Konferenzraum"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.337245208724",
+    "longitude": "11.1947348779979"
+  },
+  "paymentAccepted": [
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Einzelzimmer, Bad, WC",
+      "description": "Einzelzimmer \"Sonnalm\"\nGeräumiges Einzelzimmer, teilweise mit Grand Lit, teilweise begehbarer Schrankraum, Bad/WC, Balkon",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Einzelzimmer Sonnalm",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "0.00",
+          "maxPrice": "246.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Einzelzimmer, Bad, WC",
+      "description": "Einzelzimmer \"Edelweiss\"\nGemütliches Einzelzimmer mit Bad/WC, Balkon",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Einzelzimmer Edelweiss",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "104.00",
+          "maxPrice": "226.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Einzelzimmer, Bad, WC",
+      "description": "Einzelzimmer \"Alpspitz\"\nGemütliches Einzelzimmer mit Bad/WC, teilweise mit Balkon",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Einzelzimmer Alpspitz",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Ski Aktiv 7 Tage",
+          "description": "- 7 Übernachtungen inkl. Genusspension\n- Skipass auf der Rosshütte für 6 Tage\n- 1 Ganzkörpermassage\n- Begrüßungsteller am Zimmer und Abschiedsgeschenk\n- Relaxen in unserem SPA-Bereich\n- Flauschiger Bademantel und Badeschuhe am Zimmer",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/415f7c8c-8fb0-402f-acf4-d9e235faa8e1/99/image.jpg",
+              "caption": "Ski Aktiv"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Wander Package 7 Nächte",
+          "description": "- 7 Übernächtigungen pro Erwachsener im Alpspitz Zimmer inkl. Genusspension\n- 1 Ganzkörpermassage\n- Begrüßungsteller und Abschiedsgeschenk\n- Kuscheliger Bademantel und Badeschuhe am Zimmer\n- Nutzung des SPA und Fitnessraums sowie Teilnahme am Wander und Aktiv Programm\n\n",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/68cc504b-f009-4268-8955-72b5b9abb1ea/99/image.jpg",
+              "caption": "Wandern"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "94.00",
+          "maxPrice": "206.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "650.00",
+          "maxPrice": "650.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Bad, WC",
+      "description": "Doppelzimmer \"Edelweiss\" für 2 Personen\n1 Kind auf Anfrage direkt im Hotel möglich\nGroßzügiges Doppelzimmer mit Bad/WC, Wohnecke, teilweise mit begehbarem Schrankraum, Balkon",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer Edelweiss",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "208.00",
+          "maxPrice": "452.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Bad, WC",
+      "description": "Doppelzimmer \"Alpspitz\" für 2 Personen\nGemütliche Doppelzimmer mit Bad/WC, Balkon",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer Alpspitz",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Kaltschmid Tage",
+          "description": "- 3 Übernachtungen inkl. unserer Genusspension\n- 1 Begrüßungsteller und Abschiedsgeschenk\n- Behandlungen Ihrer Wahl in unserem ALPENSPA im Wert von € 100,00 pro Person\n- Bademantel \u0026 Badeschuhe am Zimmer\n- tägl. Aktiv-\u0026 Unterhaltungsprogramm",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/bebdf992-b678-41e9-b678-a4f65ecb2e2d/99/image.jpg",
+              "caption": "Bergresort"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Alpengruss Package",
+          "description": "- 2 Übernachtungen inkl. Genusspension\n- Verwöhnpaket Bergritual\n- Begrüßungsteller am Zimmer und Abschiedsgeschenk\n- Relaxen in unserem Spa-Bereich\n- Flauschiger Bademantel und Badeschuhe am Zimmer",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Edelweiss Package",
+          "description": "- 2 Übernachtungen inkl. Genusspension\n- 1 Flasche Sekt bei Anreise am Zimmer\n- 1 EDELWEISS - PLATIN Beauty Day (ca. 4 Stunden) für Paare\n- Begrüßungsteller und Abschiedsgeschenk\n- Relaxen in unserem Spa-Bereich\n- Flauschiger Bademantel und Badeschuhe am Zimmer",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/276ccbd0-5cce-415c-9681-269ce46a2206/99/image.jpg",
+              "caption": "Edelweiss"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Schmankerl Tag",
+          "description": "- 1 Übernachtung inkl. unserer Genusspension\n- 1 Begrüßungsteller und Abschiedsgeschenk\n- Behandlungen Ihrer Wahl in unserem ALPENSPA im Wert von € 50,00 pro Person\n- Bademantel \u0026 Badeschuhe am Zimmer",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/d734b1d1-7cf7-424b-9ac9-7923474166d6/99/image.jpg",
+              "caption": "Schmankerl"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Ski Aktiv 5 Tage ",
+          "description": "- 5 Übernachtungen inkl. Genusspension\n- Skipass auf der Rosshütte für 4 Tage\n- 1 Ganzkörpermassage pro Person\n- Begrüßungsteller am Zimmer und Abschiedsgeschenk\n- Relaxen in unserem SPA-Bereich\n- Flauschiger Bademantel und Badeschuhe am Zimmer",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/c9a29b4c-cda2-4ea1-82bc-f3af9a87f43f/99/image.jpg",
+              "caption": "Ski Alpin"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "3 Relaxtage",
+          "description": "- 3 Übernachtungen inkl. unserer Genusspension\n- 1 Begrüßungsteller und Abschiedsgeschenk\n- Kurland Basis-Gesichtsbehandlung\n- Verwöhnbad\u0027l nach Wahl\n- Maniküre\n- Bademantel \u0026 Badeschuhe am Zimmer\n- tägl. Aktiv-\u0026 Unterhaltungsprogramm",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/80438949-3646-47b2-afa8-7cf53625cc47/99/image.jpg",
+              "caption": "Relaxen"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "188.00",
+          "maxPrice": "412.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "537.00",
+          "maxPrice": "537.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Bad, WC",
+      "description": "Doppelzimmer \"Bergblick\" für 2 Personen\nGemütliche Doppelzimmer mit Bad/WC, ohne Balkon",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer Bergblick",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "178.00",
+          "maxPrice": "404.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Familienzimmer, Dusche und Bad, WC",
+      "description": "Familienzimmer \"Steinbock\" für 2 Personen\nBis zu 2 Kinder auf Anfrage direkt im Hotel möglich.\nSehr großzügige Doppelzimmer mit Wohnteil, die meisten mit begehbarem Schrankraum, Bett teilweise mit Baldachin, Bad/WC getrennt, Balkon",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Familienzimmer Steinbock",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Family Package",
+          "description": "- für 2 Erwachsene und 2 Kinder bis 12 Jahre\n- 7 Übernachtungen inklusive Genusspension\n- Begrüßungsteller und Abschiedsgeschenk für Groß und Klein\n- Kinderbetreuung an 6 Tagen in der Woche\n- 1 Kutschenfahrt durch Seefeld\n- 1 Picknickkorb für einen Ausflug zum Seefelder Wildsee",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/d80d91d1-93cc-4083-9ca0-f19bcd44562d/99/image.jpg",
+              "caption": "Familie"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "4"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "228.00",
+          "maxPrice": "492.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Suite, Dusche und Bad, WC",
+      "description": "Suite \"Bergkristall\" für 2 Personen\nBis zu 3 Kinder auf Anfrage direkt im Hotel möglich.\nBestehend aus einem Schlafzimmer, großzügigem Wohnzimmer, begehbarem Schrankraum, fast alle mit 2 Bädern und Balkon",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Suite Bergkristall",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "248.00",
+          "maxPrice": "532.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

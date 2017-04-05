@@ -1,0 +1,170 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.hausmeinrad.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Meinrad",
+    "streetAddress": "Am Klosterwald 657",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 69915125301",
+    "faxNumber": "(0043) 5212 4140",
+    "email": "hausmeinrad@hotmail.com",
+    "url": "http://www.hausmeinrad.at"
+  },
+  "name": "Haus Meinrad",
+  "description": [
+    "Unser Haus liegt in einer ruhigen Wohnsiedlung am Waldrand. Der Dorfbus hält fast vor dem Haus. Kostenlos! Familienfreundlich! Haustiere erlaubt! Ganzjährig geöffnet! Terrasse, Liegewiese. ",
+    "Im Preis sind Bett und Tischwäsche sowie Strompreise enthalten. \n\nHunde willkommen: Euro 20,- pro Aufenthalt",
+    "Anreise: In der Regel ab 14:00 Uhr, sofern es möglich ist gehen wir gerne auf Ihre Wünsche ein.  \n \nAbreise: Hätten wir gerne bis 10:00 Uhr erledigt. \n "
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "reviewCount": "29"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/81f554c8-7d31-40df-8d0f-c07b50e3237b/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/21cc1435-b0f0-4c48-a9ab-f2a5de4749a8/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c125acfd-b30d-42ad-80ee-1f5252703ae9/99/image.jpg",
+      "caption": "Winter 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5b75521d-b03b-4dd1-8d4e-c67771acb8bf/99/image.jpg",
+      "caption": "Garten Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6073577f-741a-4525-834f-71acf837d15c/99/image.jpg",
+      "caption": "Wohnungseingang"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6bbbe8aa-3d31-4877-b22d-9bded3e65978/99/image.jpg",
+      "caption": "Skizzen der App."
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3332531830486",
+    "longitude": "11.1775052547455"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Parterre/1 Schlafzimmer 1 Wohnschlafzimmer+Küche\nGeschirrspühlmaschine, Mikrowelle, Backrohr, 2 Fernseher",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Nr. 1 Apartment/1 Schlafraum/Dusche, WC",
+          "description": "Unser Haus liegt in einer ruhigen Wohnsiedlung am Waldrand. Der Dorfbus hält fast vor dem Haus! Geschirrspühlmaschine, Mikrowelle, Familienfreundlich, 2 Fernseher",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "47.00",
+          "maxPrice": "67.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "47.00",
+          "maxPrice": "67.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "57.00",
+          "maxPrice": "77.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Parterre/1 Schlafzimmer 1 Wohnschlafzimmer+Küche, Bad - WC Seperat,\nGeschirrspühlmaschine, Mikrowelle, Backrohr, 2 Fernseher",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Nr. 2 Apartment/1 Schlafraum/Dusche, WC",
+          "description": "Unser Haus liegt in einer ruhigen Wohnsiedlung am Waldrand. Der Dorfbus hält fast vor dem Haus! Geschirrspühlmaschine, Mikrowelle, Familienfreundlich, 2 Fernseher.",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "51.00",
+          "maxPrice": "77.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "51.00",
+          "maxPrice": "77.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "61.00",
+          "maxPrice": "87.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "71.00",
+          "maxPrice": "97.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

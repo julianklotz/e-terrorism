@@ -1,0 +1,21 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure",
+    "LocalBusiness"
+  ],
+  "name": "Ostbachbrücke",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3534334498811",
+    "longitude": "11.1312276020997"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Ostbachbrücke",
+    "streetAddress": "Ostbach",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT"
+  }
+}

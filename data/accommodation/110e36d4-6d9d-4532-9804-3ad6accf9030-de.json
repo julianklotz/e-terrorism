@@ -1,0 +1,79 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.hausjamnig.com",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Jamnig",
+    "streetAddress": "Am Klosterwald 663",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2963",
+    "faxNumber": "(0043) 5212 2963",
+    "email": "haus_jamnig@yahoo.de",
+    "url": "www.hausjamnig.com"
+  },
+  "name": "Haus Jamnig",
+  "description": [
+    "Unser gemütliches Haus liegt am Waldrand, mit überdachtem Parkplatz und bietet den idealen Erholungsraum für Sie und Ihre Familie. Von den Balkonen bzw. von der Terrasse aus bietet sich Ihnen ein wunderbares Panorama, mit freiem Ausblick auf das Karwendel- und Wettersteingebirge.Auf der großzügigen Terrasse befinden sich zur freien Entnahme Sonnenliegen, die für erholsame Stunden sorgen.\n\nzu unseren 2 Komfort-Wohnungen: beide im Tiroler Stil,Größe: ca. 65 m2\n\nEine Wohnung befindet sich im Paterre die andere im 2. Stock. Beide sind mit Balkon (inkl. Stühlen und Tisch) ausgestattet und können von 2-4 Personen gebucht werden.\n \nEinrichtungsmerkmale und Service:\n\n• Küche komplett mit Spülmaschine\n• Wohnzimmer\n• 1 oder 2 Schlafzimmer (je nach Anzahl der Personen)\n• Brötchenservice",
+    "In den Preisen enthalten:\n•\tStromkosten\n•\tHeizkosten\n•\tBettwäsche\n•\tBade- und Handtücher\n•\tSkistall\n•\tüberdachtes Carboard (1 Auto/Wohnung)\n\n\nDie Preise gelten für 4 Personen, 2 Personen: Preis auf Anfrage, Kinder bis 6 Jahre sind frei. \n\nBezahlung: BARZAHLUNG",
+    "Von Garmisch kommend: Ausfahrt Seefeld Nord, Richtung Zentrum, dann Richtung Leutasch halten, bei der Rettung links Richtung Klosterwald abbiegen und Schild \"Haus Jamnig\" folgen\n\nVom Fernpass kommend: über Telfs, Mösern, Seefeld, Richtung Leutasch halten, bei der Rettung links Richtung Klosterwald abbiegen und Schild \"Haus Jamnig\" folgen\n"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/407ae8ee-0ac3-4b82-8785-9b332573c8e7/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3e03383d-1bf2-4a58-916e-b2cabdcd589b/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/cb232a8e-9498-4661-9f8c-67b9d712c7f2/99/image.jpg",
+      "caption": "Aussicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d7540866-ce21-4f1c-adaa-e9491def942f/99/image.jpg",
+      "caption": "Aussicht2"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3325405921593",
+    "longitude": "11.1778163909912"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 2 Schlafräume",
+      "description": "Unser gemütliches Haus liegt am Waldrand, mit überdachtem Parkplatz und bietet den idealen Erholungsraum für Sie und Ihre Familie.\n\n1 Wohnung im Parterre, die andere im 2. Stock ca.65m2:\nIm Tiroler Stil für 2-4 Personen mit Wohnzimmer, 1 oder 2 Schlafzimmern. Komplett eingerichtete Küche mit Spülmaschine,TV 40Programme,Radio,Telefon,Wandsafe und Diele. \nBettwäsche,Handtücher,Badetücher,Tischwäsche,Strom und Heizung sind im Preis inbegriffen zuzügl. Kurtaxe (1.50/Tag) und Endreinigung",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/2 Schlafräume/Dusche, Bad, WC",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Ferienhaus Auland",
+    "streetAddress": "Gstoag 44",
+    "addressLocality": "Reith bei Seefeld",
+    "postalCode": "6103",
+    "addressCountry": "AT",
+    "telephone": "0043 5212 2411",
+    "faxNumber": "(0043) 5212 2433",
+    "email": "andrea.haslwanter@aon.at"
+  },
+  "name": "Ferienhaus Auland",
+  "description": [
+    "Das Ferienhaus Auland ist ein ebenerdiger Bungalow mit 2 Doppel- und 1 Einbettzimmer, Bad, Dusche und WC extra, Küche, Speisezimmer, Wohnzimmer und Diele, zusammen ca 100 m² Wohnfläche voll ausgestattet, auf eigenem Gartengrundstück und Gartenmöbeln, besonders beliebt bei Familien mit Kindern oder für den Urlaub mit Freunden. Auf Wunsch wird täglich frisches Brot geliefert, Haustiere bitte nur nach Absprache",
+    "Das Ferienhaus Auland ist komplett ausgestattet, Sie brauchen selbst nichts mitzubringen. \n",
+    "Check in: bis 14.00 Uhr\nCheck out: bis 9.00 Uhr\n\nAuf der B 177 von Garmisch/ D oder von Kufstein und dem Brenner über den Zirler Berg kommend die  Ausfahrt Seefeld Süd dann gleich links abbiegen - beim Gästehaus Olympia bitte melden und Schlüssel für das Ferienhaus Auland übernehmen."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2474959b-ffbb-443f-89a7-bffe83fe7a21/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/dfda26b8-8d59-4aa1-8b76-65c95aebd562/99/image.jpg",
+      "caption": "Winter"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.313578169631",
+    "longitude": "11.1986994796978"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Ferienhaus, Bad, WC, 3 Schlafräume",
+      "description": "DAS FERIENHAUS AULAND IST EIN BUNGALOW MIT CA 120 M² WOHNFLÄCHE AUF EINEM EIGENEN GARTENGRUNDSTÜCK IN AULAND (2 km südlich vn Seefeld)DAS HAUS VERFÜGT ÜBER 2 ZWEIBETTZIMMER-1 EINBETTZIMMER- 2SCHRANKBETTEN IM WOHNZIMMER-SPEISEZIMMER-KÜCHE-WOHNZIMMER-DIELE-WC-DUSCHE-BADEZIMMER IN EINEM DER ZWEIBETTZIMMER. DIE KÜCHE IST VOLL AUSGESTATTET; TISCH-BETTWÄSCHE AUSREICHEND VORHANDEN.EIN HAUS AUFGRUND SEINER GROSSZÜGIGEN RÄUME UND GARTEN IDEAL FÜR DIE FAMILIE ODER AUCH FÜR 2PERSONEN MIT FREUDE AN DER RUHE",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Ferienhaus",
+          "numberOfRooms": "5.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "7",
+            "minValue": "1"
+          }
+        }
+      ]
+    }
+  ]
+}

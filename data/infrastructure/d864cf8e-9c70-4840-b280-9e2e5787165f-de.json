@@ -1,0 +1,48 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CafeOrCoffeeShop",
+    "Restaurant"
+  ],
+  "name": "Café-Bar \"Segafredo Espresso\" (Rosshütte Bergstation)",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3414000311308",
+    "longitude": "11.2280595302582"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Bergbahnen Rosshütte",
+    "streetAddress": "Rosshütte Seefeld",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 24160",
+    "email": "info@rosshuette.at",
+    "url": "http://www.rosshuette.at"
+  },
+  "description": [
+    " ",
+    "Mächtig thront der gläserne „Schlemmerpalast“ im herrlichen Ski- und Wanderparadies der Bergbahnen Rosshütte in 1.760 Metern Seehöhe über Seefeld.\nSchon vom Ortszentrum Seefeld aus sieht man das neue Gastronomische Juwel mit seiner großen Glasfassade an den Hängen unter dem Seefelder Joch funkeln. Es lässt sich jetzt schon die Größe erahnen…"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/10fb883c-2f85-4fab-b3c4-5eb8da3c8065/99/image.jpg",
+      "caption": "Cafe-bar-segarfredo-espresso"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7c6c2695-c0a9-46ef-9e71-bc3c045281bf/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b38f5d0c-18e3-43d0-9315-fb185f118d62/99/image.jpg",
+      "caption": "Winter"
+    }
+  ],
+  "url": [
+    "http://www.rosshuette.at"
+  ]
+}

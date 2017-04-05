@@ -1,0 +1,99 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.rabitsch.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Rabitschhof",
+    "streetAddress": "Innsbruckerstr. 363",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "0043 5212 2498 0",
+    "email": "urlaub@rabitsch.at",
+    "url": "http://www.rabitsch.at"
+  },
+  "name": "Rabitschhof",
+  "description": [
+    "Schönes Landhaus, ruhig gelegen, mit großem Garten, Nähe Zentrum und Wildsee. Familiär geführt.\nGolfgründerhaus hohe Ermäßigungen auf Greenfees.\n\n",
+    "Gründerhaus, hohe Ermäßigung auf Greenfees.\nIncklusive: Strom, Wäsche, Heizung, Parkplatz\n",
+    "Check in: 15.00 Uhr\nCheck out: 10.00 Uhr"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "reviewCount": "172"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9013963c-967a-4d1d-8ded-ca5783c5a025/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b0f69fdb-47de-4e19-84a9-bbd2385e3b89/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b83f479a-0c93-439c-9aaa-be7cc77606e4/99/image.jpg",
+      "caption": "Eingangsbereich"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3245571",
+    "longitude": "11.1913277"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Wohnzimmer mit Balkon oder Terrasse, Schlafzimmer, Kochnische, Dusche mit WC.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC",
+      "description": "Wohn- Schlafraum mit Terrasse , Eßecke und Sitzgarnitur, Kochnische, Dusche- Bad/WC.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/Wohn-Schlafraum/Bad, WC",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

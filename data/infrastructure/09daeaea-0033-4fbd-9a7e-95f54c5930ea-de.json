@@ -1,0 +1,22 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Store"
+  ],
+  "name": "KW Classics, Oldtimer",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "KW Classics OG",
+    "streetAddress": "Bahnhofsplatz 389",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "email": "office@kw-classics.at",
+    "url": "http://www.kw-classics.at"
+  }
+}

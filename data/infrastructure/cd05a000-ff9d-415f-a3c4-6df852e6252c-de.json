@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation",
+    "TouristAttraction"
+  ],
+  "name": "E-Bike Verleih - Hotel Diana",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3288414",
+    "longitude": "11.1841821"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Hotel Diana",
+    "streetAddress": "Klosterstr. 97",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2060",
+    "faxNumber": "(0043) 5212 2188",
+    "email": "info@hotel-diana.at",
+    "url": "http://www.hotel-diana.at"
+  },
+  "description": "E-Bike Verleih auf Anfrage!",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/bba29066-c02f-4876-912e-0574a0db5b90/99/image.jpg",
+      "caption": "E-Bike"
+    }
+  ],
+  "url": [
+    "http://www.hotel-diana.at"
+  ]
+}

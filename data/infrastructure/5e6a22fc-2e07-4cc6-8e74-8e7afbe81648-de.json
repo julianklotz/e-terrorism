@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation",
+    "TouristAttraction",
+    "BikeStore"
+  ],
+  "name": "Fahrradverleih Fun-Sport Frank",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3292284",
+    "longitude": "11.184981"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Funsport Frank",
+    "streetAddress": "Klosterstr. 608",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 5162863",
+    "url": "http://www.seefeld-skiverleih.com"
+  },
+  "description": "Mountainbikeverleih (auch für Kinder)\nMountainbike Erwachsene € 20,00 bis 30,00 (je nach Modell)\nKinder-Mountainbike, 1 Tag € 10,00\nWochenendpauschale € 30,00\nE-Bike-Verleih: zwischen € 25,00 und € 35,00\npro Tag (je nach Modell)\nRadanhänger (für bis zu 2 Kinder) € 20,00",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/236d6f52-af37-46c6-bd02-9cb85c99a586/99/image.jpg",
+      "caption": "Außenansicht"
+    }
+  ],
+  "url": [
+    "http://www.funsport-frank.com"
+  ]
+}

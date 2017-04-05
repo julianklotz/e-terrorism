@@ -1,0 +1,78 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "18. IML 3 Tage Einhornmarsch",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Olympiaregion Seefeld",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Seefeld in Tirol",
+      "postalCode": "6100",
+      "addressCountry": "AT",
+      "telephone": "+4350880520",
+      "faxNumber": "+4350880521",
+      "email": "iml@seefeld.com",
+      "url": "http://www.seefeld.com"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Festhalle Wetterstein bei d. ErlebnisWelt Alpenbad",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Weidach 275 b",
+      "addressLocality": "Leutasch",
+      "postalCode": "6105",
+      "addressCountry": "AT",
+      "telephone": "+4350880520",
+      "email": "iml@seefeld.com",
+      "url": "http://www.seefeld.com"
+    }
+  },
+  "description": [
+    "„Nos iungat ambulare“ lautet das Motto der internationalen Genusswanderer, die pro Veranstaltungstag bis zu 42 Kilometer bewältigen. Mit Start und Ziel in Leutasch erkunden rund 2.000 erwarteten Teilnehmer die reizvollsten Touren der Region. Die dafür benötigte Zeit spielt dabei nur eine untergeordnete Rolle, was zählt ist die Freude an der Bewegung. Raum und Zeit zum geselligen Beisammensein bietet die Festhalle Wetterstein.",
+    "IML Einhornmarsch - STRECKEN"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d491d886-25a3-4dcd-b55b-b57cf8db53da/99/image.jpg",
+      "caption": "IML"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/22e0b75e-154b-4c9e-a481-4f7eb220ae59/99/image.jpg",
+      "caption": "IML1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/418fd5ae-74b0-4682-bb2b-c7b75e02ba0d/99/image.jpg",
+      "caption": "Almenparadies Gaistal"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e5b82410-940f-4aef-af87-13504eec90bf/99/image.jpg",
+      "caption": "Leutasch-Luftbild"
+    }
+  ],
+  "url": [
+    "http://www.seefeld.com/urlaub-tirol-wandern/wanderwege/a-iml-tag1-10-km-runst-wanderung",
+    "http://www.seefeld.com/urlaub-tirol-wandern/wanderwege/a-iml-tag1-20-km-achen-wanderung",
+    "http://www.seefeld.com/urlaub-tirol-wandern/wanderwege/a-iml-tag1-30-km-geisterklamm-wanderung",
+    "http://www.seefeld.com/urlaub-tirol-wandern/wanderwege/a-iml-tag1-42-km-rund-um-die-arnspitze",
+    "http://www.seefeld.com/urlaub-tirol-wandern/wanderwege/a-iml-tag2-10-km-wildmoos-wanderung",
+    "http://www.seefeld.com/urlaub-tirol-wandern/wanderwege/a-iml-tag2-20-km-katzenkopf-wanderung",
+    "http://www.seefeld.com/urlaub-tirol-wandern/wanderwege/a-iml-tag2-30-km-inntalblick-wanderung",
+    "http://www.seefeld.com/urlaub-tirol-wandern/wanderwege/a-iml-tag2-42-km-olympia-wanderung",
+    "http://www.seefeld.com/urlaub-tirol-wandern/wanderwege/a-iml-tag3-10-km-bichlwald-wanderung",
+    "http://www.seefeld.com/urlaub-tirol-wandern/wanderwege/a-iml-tag3-20-km-wiesenweg-wanderung",
+    "http://www.seefeld.com/urlaub-tirol-wandern/wanderwege/a-iml-tag3-30-km-gaistal-wanderung",
+    "http://www.seefeld.com/urlaub-tirol-wandern/wanderwege/a-iml-tag3-42-km-almenparadies-wanderung"
+  ],
+  "startDate": "2017-09-14T06:00:00",
+  "endDate": "2017-09-17"
+}

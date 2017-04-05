@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.harrys-huette-tirol.info"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Harrys Hütte",
+    "streetAddress": "Am Inrain 494",
+    "addressLocality": "Scharnitz",
+    "postalCode": "6108",
+    "addressCountry": "AT",
+    "telephone": "+436644666883",
+    "email": "harrys2@a1.net",
+    "url": "http://www.harrys-huette-tirol.info"
+  },
+  "name": "Harrys Chalet",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/06032d64-c451-4d20-8262-61310a97c640/99/image.jpg",
+      "caption": "Harrys Chalet"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/25a684a9-95c4-466e-8a36-3dec41e9b4df/99/image.jpg",
+      "caption": "Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3860107439307",
+    "longitude": "11.2731344527787"
+  },
+  "currenciesAccepted": "EUR"
+}

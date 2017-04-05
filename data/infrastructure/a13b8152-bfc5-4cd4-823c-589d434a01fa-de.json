@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure",
+    "LocalBusiness"
+  ],
+  "name": "Kunstschmiede Nairz",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3623157854819",
+    "longitude": "11.1389350891113"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Platzl 113a",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6658"
+  },
+  "description": "Platzl 113 a\nTel.: +43 5214/6658",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8d4d3214-046c-482e-94fc-7a42e0cab0a9/99/image.jpg",
+      "caption": "Kunstschmiede"
+    }
+  ],
+  "url": [
+    "http://www.fahrzeugbau-nairz.at"
+  ]
+}

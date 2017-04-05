@@ -1,0 +1,60 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "Feier des Ostermorgens",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Pfarramt Seefeld",
+    "employee": {
+      "@type": "Person",
+      "familyName": "Pfarrer Pfeifer"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Maximilianweg 29",
+      "addressLocality": "Seefeld",
+      "postalCode": "6100",
+      "addressCountry": "AT",
+      "telephone": "+43521223190",
+      "faxNumber": "+435212231911",
+      "email": "pfarre.seefeld@dibk.at",
+      "url": "http://www.pfarramt-seefeld.at"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Pfarramt Seefeld",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Maximilianweg 29",
+      "addressLocality": "Seefeld",
+      "postalCode": "6100",
+      "addressCountry": "AT",
+      "telephone": "+43521223190",
+      "faxNumber": "+435212231911",
+      "email": "pfarre.seefeld@dibk.at",
+      "url": "http://www.pfarramt-seefeld.at"
+    }
+  },
+  "description": "Heilige Messe mit Osterfeuer- \u0026 Speisenweihe und der Erneuerung des Taufgelübdes. ",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b15fd2c7-1942-448c-8fa0-1cfc24596057/99/image.jpg",
+      "caption": "Kirche"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/32ac5c3e-f6bc-411a-a4f5-2355d41b8b9b/99/image.jpeg",
+      "caption": "Mösern"
+    }
+  ],
+  "url": [
+    "http://www.pfarramt-seefeld.at"
+  ],
+  "startDate": "2017-04-16T06:00:00",
+  "endDate": "2017-04-16"
+}

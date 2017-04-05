@@ -1,0 +1,30 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Store",
+    "ClothingStore"
+  ],
+  "name": "Trachten Loisel, Trachtenmode, Kindermode",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3291411104224",
+    "longitude": "11.1848437786102"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Trachtenloisl",
+    "streetAddress": "Klosterarkaden 608",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2147",
+    "url": "http://www.trachten-mode-seefeld.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4b43560d-c91d-447a-bbcd-36c7b1fc3b71/99/image.jpg",
+      "caption": "Trachtenloisl"
+    }
+  ]
+}

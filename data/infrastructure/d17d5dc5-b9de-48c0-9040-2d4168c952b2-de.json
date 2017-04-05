@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Store"
+  ],
+  "name": "Tiroler Speckklause, Österreichische Spezialitäten",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3910892472291",
+    "longitude": "11.2652269858966"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Tiroler Speckklause",
+    "streetAddress": "Innsbrucker Str. 67 - 68",
+    "addressLocality": "Scharnitz",
+    "postalCode": "6108",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5213 5767",
+    "email": "info@tiroler-speckklause.at",
+    "url": "http://www.tiroler-speckklause.at"
+  },
+  "description": "Innsbrucker Str. 27\nTel.: +43 5213/5767",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/339f9e30-b803-41b9-a1ee-86cb89534aef/99/image.jpg",
+      "caption": "Tiroler Speckklause"
+    }
+  ]
+}

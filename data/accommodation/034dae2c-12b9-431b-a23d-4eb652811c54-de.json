@@ -1,0 +1,331 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://www.hotel.cristallago.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Hotel Cristallago",
+    "streetAddress": "Innsbruckerstr. 231",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2550",
+    "faxNumber": "(0043) 5212 452 450",
+    "email": "info@cristallago.at",
+    "url": "http://www.hotel.cristallago.at"
+  },
+  "name": "Hotel Cristallago",
+  "description": [
+    "Herzlich willkommen im Hotel Cristallago in der Olympiaregion Seefeld, wo persönliche Betreuung noch großgeschrieben wird! Unser 3-Sterne-Familienbetrieb liegt direkt am Seefelder Wildsee, umgeben von den Kalkkögeln und dem Karwendelgebirge.\n\nDas Hotel Cristallago in Seefeld befindet sich nur 5 Gehminuten vom Zentrum Seefeld entfernt, wo eine der ältesten Fußgängerzonen Tirols zum Flanieren und Verweilen einlädt. Zudem ist die Lage unseres Hotels ein idealer Ausgangspunkt für Wander- und Mountainbiketouren. Oder haben Sie Lust auf eine kleine Tretbootfahrt auf dem Wildsee, eine Partie Minigolf oder einem „Hole in One“ auf dem 9-Loch-Golfplatz Seefeld-Reith? All diese Einrichtungen finden Sie direkt vor unserem Haus.\n\nUnsere 28 Hotelzimmer, bestehend aus 20 Doppelzimmer, einer Juniorsuite und 7 Einzelzimmer, sind in einem angenehmen Farbambiente, liebevoll und gemütlich eingerichtet. In allen Zimmern steht Ihnen kostenloses WLAN zur Verfügung. Die Ausrichtung der Zimmer, teils mit großzügigen Balkonen, bietet Ihnen atemberaubende Ausblicke, zum Beispiel auf die Kalkkögel, den Wildsee, den Golfplatz oder auf das Karwendelgebirge.\n\nBeginnen Sie den Tag mit einem reichhaltigen Frühstück und lassen Sie sich am Abend bei unserem 3-Gang-Wahlmenü, mit täglich frischem Salatbuffet, kulinarisch überraschen. Das urige Kellerstüberl, in unserem Hotel Cristallago in Seefeld, lädt Sie zu geselligem Zusammensein ein. Auch Ihre Kinder sind mit vielen Spielmöglichkeiten, in unserem Spieleraum, bestens unterhalten.\n\nIm Sommer bietet Ihnen das Hotel Cristallago einen gepflegten Garten mit Liegewiese und Kinderspielplatz, eine wahre Ferienoase für Familien, inklusive Hund. Ab unserem Haus steht Ihnen ein weitläufiges Wege- und Mountainbikenetz, mit vielen Almhütten, die zur Einkehr laden, zur Verfügung. Nach einem aktiven Sommer-Urlaubstag gönnen Sie sich eine Abkühlung im gegenüberliegenden Wildsee.\n\nIm Winter können Sie in der Olympiaregion Seefeld puren Langlaufgenuss erleben. Der Einstieg in die Loipe A2 befindet sich direkt hinter unserem Hotel Cristallago. Pistenspaß finden Sie bei unseren Skigebieten Rosshütte, Gschwandtkopf und Geigenbühel. Die Skigebiete sind bequem, mit dem kostenlosen Skibus, zu erreichen. Die Haltestelle für den Ski- und Dorfbus befindet sich nur 4 Gehminuten vom Hotel entfernt.\n\nWir, die Familie Tonolini, freut sich, Sie bald in unserem Hotel Cristallago, im Herzen der Olympiaregion Seefeld, begrüßen und verwöhnen zu dürfen!",
+    "Bei Buchung mit Halbpension bitte vor 18.00 Uhr anreisen! Sollte dies nicht möglich sein , bitten wir um einen rechtzeitigen Anruf. \n\nTransferservice nach Möglichkeit vom bzw. zum Bahnhof Seefeld kostenlos, Haustier € 7,- pro Tag. gratis W-LAN im gesamten Hotel, Fahrradverleih, Nordic Walking Stöcke",
+    "Check in 15.00 Uhr, Check out 11.00 Uhr. \n\nWeg: Vom Bahnhof die Bahnhofstraße entlang gerade aus bis zur Kreuzung gehen und dann nach links in die Innsbruckerstr. abbiegen und weitergehen, nach ca. 5 Minuten erreichen Sie gegenüber das Hotel Cristallago.\n\nAutobahn: Richtung Garmisch halten, von Innsbruck kommend erste Ausfahrt Seefeld nehmen, nach ca. 500m sind wir auf der rechten Seite  "
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "reviewCount": "104"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ac7305ee-68cd-4c9f-8130-f4edbc83891a/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7baf09f3-f541-41ce-ba67-5b145daae2ec/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/542f8f4d-f464-4f49-8000-aaaa8247a5ef/99/image.jpg",
+      "caption": "Hoteleingang"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ed842791-a195-4d9d-ab4e-f789f6c07427/99/image.jpg",
+      "caption": "Lobby"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/42eda58d-a3fd-43d9-90b3-54c84eb52434/99/image.jpg",
+      "caption": "Frühstücksbuffet"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/34006abe-9a39-4f4d-81b3-5b95213d589f/99/image.jpg",
+      "caption": "Spielplatz"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d7abdedd-052e-41cc-a78b-5e611c35ba7a/99/image.jpg",
+      "caption": "Hotel lago"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d2ec7ac4-ccd3-4abe-bf22-eb4baa377c6e/99/image.jpeg",
+      "caption": "Terrasse"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/86421244-eefa-46c9-b446-0149546dc2f6/99/image.jpg",
+      "caption": "Winter Ausblick"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0af56b2f-2ca2-4521-8a54-f50e0dd48774/99/image.jpg",
+      "caption": "Badezimmer Beispiel"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8f845dcc-2375-4a63-a2a4-9d2888cde676/99/image.jpg",
+      "caption": "Aussicht auf den Wildsee"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4bac24b2-c66c-4c91-b7c8-d0138f5a9690/99/image.jpg",
+      "caption": "Doppelzimmer ohne Balkon"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/530c34c8-e086-4858-920e-89eb551ab924/99/image.jpg",
+      "caption": "Doppelzimmer mit Balkon"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/631c93f4-da99-4639-b92e-a83ec245e958/99/image.jpg",
+      "caption": "Doppelzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/39763c69-eb81-4521-9518-42066902b19f/99/image.jpg",
+      "caption": "Ausblick Rosshütte"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2c5ce470-118e-447f-bd96-650fb4ea64c4/99/image.jpg",
+      "caption": "Doppelzimmer mit Balkon"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/68119b4c-e41d-4ec4-a83b-b817ea24b0ba/99/image.jpg",
+      "caption": "Doppelzimmer mit Balkon"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3cc76146-83c9-4271-bda4-a07521af3dd0/99/image.jpg",
+      "caption": "Dreibettzimmer mit Balkon"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1f7d8f08-8cc0-465b-822b-78d7bae74ce2/99/image.jpg",
+      "caption": "Terrasse"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/38895dd4-98b5-4fc6-b938-1de7aa56e90b/99/image.jpg",
+      "caption": "Terrasse"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/feb1a0f5-2c33-4bcf-a92c-46026398ddd0/99/image.jpg",
+      "caption": "Einzelzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9688073b-8f0d-4e00-bf1e-cfc7c2e833d4/99/image.jpg",
+      "caption": "Dreibettzimmer mit Balkon"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/275c9e82-bbfd-483b-8020-2e67f37d1f15/99/image.jpg",
+      "caption": "Hotelhalle - Bar"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3246287330728",
+    "longitude": "11.1903503537178"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Bad, WC",
+      "description": "Doppelzimmer m. Bad/Dusche, WC, Telefon, Radio, Sat-TV und Balkon m. Seeblick",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Bad, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "100.00",
+          "maxPrice": "102.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "60.00",
+          "maxPrice": "61.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "61.00",
+          "maxPrice": "61.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Einzelzimmer, Bad, WC",
+      "description": "Einbettzimmer mit Bad, WC, Telefon,Radio u. Sat-TV, mit Blick über die Golfacademie zum Karwendelgebirge",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Einzelzimmer mit Bad, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "51.00",
+          "maxPrice": "71.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Bad, WC, Balkon",
+      "description": "Doppelzimmer m. Bad/Dusche, WC, Telefon, Radio, Sat-TV und Balkon m. Seeblick",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Balkon, Bad, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "102.00",
+          "maxPrice": "108.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "61.00",
+          "maxPrice": "64.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "61.00",
+          "maxPrice": "61.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Junior Suite, Bad, WC, Balkon",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Junior Suite, Bad, WC, Balkon",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "56.00",
+          "maxPrice": "68.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "56.00",
+          "maxPrice": "56.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "56.00",
+          "maxPrice": "56.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

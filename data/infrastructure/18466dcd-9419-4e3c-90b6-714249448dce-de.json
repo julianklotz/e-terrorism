@@ -1,0 +1,42 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure"
+  ],
+  "name": "Bahnhof Reith",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3015354006985",
+    "longitude": "11.2006285786629"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Bahnhof Reith",
+    "streetAddress": "Bahnhofsweg 4",
+    "addressLocality": "Reith bei Seefeld",
+    "postalCode": "6103",
+    "addressCountry": "AT"
+  },
+  "description": [
+    "Bahnhof ist nicht besetzt, Fahrkarten erhalten Sie im Zug!",
+    "Bahnhof ist nicht besetzt, Fahrkarten erhalten Sie im Zug!",
+    "Bahnhof ist nicht besetzt, Fahrkarten erhalten Sie im Zug!!"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/092ecda0-1d6b-4773-a27e-0be4d22219c7/99/image.jpg",
+      "caption": "Bahnhof Reith 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ea747057-f6ac-48c6-acee-e0719d9ea488/99/image.jpg",
+      "caption": "Bahnhof Reith"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1c124dcf-2e01-473d-bacd-e48c1e125625/99/image.jpg",
+      "caption": "Bahnhof Reith altes Motiv"
+    }
+  ]
+}

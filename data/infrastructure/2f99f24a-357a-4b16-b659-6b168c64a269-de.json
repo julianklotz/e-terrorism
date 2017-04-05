@@ -1,0 +1,26 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure",
+    "LocalBusiness"
+  ],
+  "name": "Freigelände bei der Festhalle Wetterstein",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3704086060426",
+    "longitude": "11.1523512888855"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Festhalle Wetterstein",
+    "streetAddress": "Weidach 275 b",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "email": "info@alpenbad-leutasch.com",
+    "url": "http://www.alpenbad-leutasch.com"
+  },
+  "url": [
+    "http://www.alpenbad-leutasch.com"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation"
+  ],
+  "name": "La Bamba",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3700184",
+    "longitude": "11.166978"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Weidachstube",
+    "streetAddress": "Weidach 373 b",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6456",
+    "email": "weidachstube@a1.net",
+    "url": "http://http://www.culinarium-alpentraum.at/restaurant-weidachstube.html"
+  },
+  "description": " ",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/bfb14373-a6e8-4fff-b368-0dcc2d81f8a4/99/image.jpg",
+      "caption": "Billard"
+    }
+  ]
+}

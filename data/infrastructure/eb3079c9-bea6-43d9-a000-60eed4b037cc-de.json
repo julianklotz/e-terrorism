@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure"
+  ],
+  "name": "Bahnhof Scharnitz",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.392238997414",
+    "longitude": "11.2669408635071"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Infobüro Scharnitz",
+    "streetAddress": "Innsbrucker Str. 282",
+    "addressLocality": "Scharnitz",
+    "postalCode": "6108",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5088040"
+  },
+  "description": "Bahnhof nicht besetzt, Fahrkarten im Zug erhältlich",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/434101e3-47cf-4a98-af2a-18dad2f43c8b/99/image.jpg",
+      "caption": "Bahnhof Scharnitz"
+    }
+  ],
+  "url": [
+    "http://"
+  ]
+}

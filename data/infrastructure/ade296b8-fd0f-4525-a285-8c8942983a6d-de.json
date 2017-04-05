@@ -1,0 +1,28 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation"
+  ],
+  "name": "Biathlon",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3234214886014",
+    "longitude": "11.1774730682373"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Nordisches Kompetenzzentrum",
+    "streetAddress": "in der Casino Arena",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 52789",
+    "email": "arena@seefeld-sports.at",
+    "url": "http://www.seefeld-sports.at"
+  },
+  "description": "12 Stände für Kleinkaliber fix angelegt, 5 Schießstände für Luftdruckgewehre.\nSommer-Biathlon für Gäste und Profis gegen Anmeldung. Schießstandreservierung für Trainingsmannschaften (Mannschaften mit Schießtrainern) unter Tel. 0512/52789. Kurse für Gäste werden von der Cross Country Academy Martin Tauber und der Schischule Seefeld angeboten.",
+  "url": [
+    "http://www.seefeld-sports.at",
+    "http://www.xc-academy.com"
+  ]
+}

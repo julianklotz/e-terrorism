@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant"
+  ],
+  "name": "Gasthof Neuleutasch",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3527522",
+    "longitude": "11.1823146"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Ferienhaus Neuleutasch",
+    "streetAddress": "Neuleutasch 384",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6834",
+    "faxNumber": "(0043) 5124 6834",
+    "email": "info@neuleutasch.at",
+    "url": "http://web.deskline.net/seefeld/de/show_accommodation/SEE/f6d70710-6048-4df4-aa4"
+  },
+  "description": "frische Forellen!\nSitzplätze für ca. 60 Personen",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/876af4d4-6882-46b0-91c4-fb2b9c141637/99/image.jpg",
+      "caption": "Sommer1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/45002cb4-7085-44d9-a9af-5979df401811/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f1b92d54-897e-42b4-8159-023fb90e92da/99/image.jpg",
+      "caption": "Neuleutasch"
+    }
+  ],
+  "url": [
+    "http://web.deskline.net/seefeld/de/show_accommodation/SEE/f6d70710-6048-4df4-aa4"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Museum"
+  ],
+  "name": "Bergbauernmuseum",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3345591",
+    "longitude": "11.1074649"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Landgasthof Ropferstub´m",
+    "streetAddress": "Buchen 6-8, am Jakobsweg",
+    "addressLocality": "Mösern/Buchen",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "+43526265949 ",
+    "email": "info@ropferhof.at",
+    "url": "http://www.pure-natur.at"
+  },
+  "description": [
+    "Bergbauernmuseum\nBeim Landgasthof Ropferstub´m,\nGeoffnet taglich zwischen Mitte Dezember\n bis Mitte Marz und Mitte Juni bis Mitte Oktober (ausgenommen\nRuhetage der Ropferstub´m) von 11.00 Uhr -\n18.00 Uhr.\nDie Filmvorfuhrung „Bergbauern im Otztal“\nkann gegen Voranmeldung taglich ab 14.30 Uhr\ngebucht werden. Eintritt: freiwillige Spenden.",
+    "Geöffnet täglich (ausgenommen Ruhetage und Schließzeiten der Ropferstub´m) von 10.30 Uhr - 18:00 Uhr. Die Powerpointpräsentation \"Bergbauern im Ötztal\" (Bilder und Texte aus Tirol) kann gegen Voranmeldung täglich ab 14.30 Uhr gebucht werden. "
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6ab0d7cc-47ff-4efc-8167-26d26113c58a/99/image.jpg",
+      "caption": "Bergbauernmuseum"
+    }
+  ],
+  "url": [
+    "http://www.pure-natur.at"
+  ]
+}

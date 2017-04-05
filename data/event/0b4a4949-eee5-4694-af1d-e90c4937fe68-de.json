@@ -1,0 +1,52 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "Seefelder Sommerkonzerte 2017  - \"Sing your Soul - Musik für die Seele\"",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Kulturring Seefeld",
+    "employee": {
+      "@type": "Person",
+      "givenName": "Gerhard",
+      "familyName": "Sailer"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Münchner Str. 69",
+      "addressLocality": "Seefeld / Tirol",
+      "postalCode": "6100",
+      "addressCountry": "AT",
+      "email": "ge.sailer@tsn.at",
+      "url": "http://www.seefelder-kulturring.at"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Kulturring Seefeld",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Münchner Str. 69",
+      "addressLocality": "Seefeld / Tirol",
+      "postalCode": "6100",
+      "addressCountry": "AT",
+      "email": "ge.sailer@tsn.at",
+      "url": "http://www.seefelder-kulturring.at"
+    }
+  },
+  "description": "Der Seefelder Kulturring organisiert auch in diesem Sommer zwischen Juli und September wieder ein anspruchsvolles Konzertprogramm für alle Musikfreunde in bewährt professioneller Manier unter dem Motto „Barock \u0026 Moderne“.  Programm am 18.8.2017: Musik für die Seele von Bach bis Gardel! Eintrittsspende: € 5,00.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/53880650-5034-4bde-a5fc-7bd99025dc28/99/image.jpg",
+      "caption": "SK"
+    }
+  ],
+  "url": [
+    "http://www.seefelder-kulturring.at"
+  ],
+  "startDate": "2017-08-18T20:30:00",
+  "endDate": "2017-08-18"
+}

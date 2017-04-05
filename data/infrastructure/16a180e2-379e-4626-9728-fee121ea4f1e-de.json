@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation"
+  ],
+  "name": "Kutschen-Fiaker Enver Kastrati",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3271231327449",
+    "longitude": "11.1880785226822"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Fiakerei Enver Kastrati",
+    "streetAddress": "Wettersteinstr. 285",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 8695300",
+    "email": "contact@fiaker-seefeld.at",
+    "url": "http://www.fiaker-seefeld.at"
+  },
+  "description": "Kutschfahrten zu Ausflugszielen und Hütten in die Olympiaregion Seefeld. \nAbfahrt der Kutschen vom Fiakerstandplatz an der Innsbrucker Straße.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b7df4eaf-553b-4035-bc8f-57e19d330b14/99/image.jpg",
+      "caption": "Fiakerei"
+    }
+  ]
+}

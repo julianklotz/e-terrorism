@@ -1,0 +1,99 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.haus-gabriele.com",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Gabriele",
+    "streetAddress": "Ahrn 217",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6614",
+    "email": "ricci-kirchebner@aon.at",
+    "url": "http://www.haus-gabriele.com"
+  },
+  "name": "Haus Gabriele",
+  "description": [
+    "Unser Haus liegt im Ortsteil Ahrn mit schöner Aussicht auf die Bergwelt. Idealer Ausgangspunkt für Wanderungen, Berg- und Radtouren. Im Winter führt die Loipe direkt am Haus vorbei.\nFamiliäre Atmosphäre, kinderfreundlich, Haustiere auf Anfrage erlaubt, ganzjährig geöffnet.",
+    "Parkplatz und Haustiere sind kostenlos."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4675f80b-7702-4c8f-8397-acb5726ec22e/99/image.gif",
+      "caption": "Sommer_"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3863b288-a6c4-4e37-86a7-de5a592c4c3a/99/image.jpg",
+      "caption": "Winter_"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6a1affe7-b03f-44fc-b5f5-5360b3fe7eca/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a5e8a66e-b828-46cc-b066-9f57c468b6f5/99/image.jpg",
+      "caption": "Winter"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.386228774722",
+    "longitude": "11.17275028418"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Dreibettzimmer, Dusche, WC",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Dreibettzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 1 Schlafraum",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/1 Schlafraum/Dusche, Bad, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

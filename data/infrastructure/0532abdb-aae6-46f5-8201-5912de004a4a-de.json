@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "GroceryStore",
+    "Store"
+  ],
+  "name": "Fleisch- \u0026 Wild-Spezialitäten - Gut Leutasch",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3611082592669",
+    "longitude": "11.1239623081124"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Klamm 80b",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 5226",
+    "email": "info@gutleutasch.at",
+    "url": "http://www.gutleutasch.at"
+  },
+  "description": "Bieten regionale Fleisch- \u0026 Wild-Spezialitäten (Frischfleisch vom Rind, Lamm und Schwein, verschiedene Würstl, Wildwürste, Speck, Schinken und Wildschinken)\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4c0dc3f0-e33c-4572-bb6b-78380a3aa26d/99/image.jpg",
+      "caption": "Gut Leutasch 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/640a06d6-c01e-4bb0-ac52-72d445a75325/99/image.jpg",
+      "caption": "Gut Leutasch 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f3cf5ee5-b851-4688-8b1b-8b03b3c8ea2a/99/image.jpg",
+      "caption": "Gut Leutasch 3"
+    }
+  ],
+  "url": [
+    "http://www.gutleutasch.at"
+  ]
+}

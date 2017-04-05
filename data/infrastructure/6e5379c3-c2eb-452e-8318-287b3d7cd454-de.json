@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "GovernmentOffice",
+    "PlaceOfWorship"
+  ],
+  "name": "Pfarramt Reith",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2985044957291",
+    "longitude": "11.2041445515899"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Pfarramt Reith",
+    "streetAddress": "Römerstraße 24",
+    "addressLocality": "Reith bei Seefeld",
+    "postalCode": "6103",
+    "addressCountry": "AT",
+    "telephone": "(0043)521252782 ",
+    "email": "Pfarre.Reith@dibk.at",
+    "url": "http://www.dibk.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8937ba06-36db-44a4-aaef-8449db06e226/99/image.jpg",
+      "caption": "Pfarrkirche"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c5966cc4-5d46-40e7-853d-089785ac73ed/99/image.jpg",
+      "caption": "Friedhof "
+    }
+  ]
+}

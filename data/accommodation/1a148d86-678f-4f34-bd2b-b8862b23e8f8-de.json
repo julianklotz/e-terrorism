@@ -1,0 +1,69 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.seefeld.com/de/unterkunft/haus-gaistalblick_dad-31252_accommodation?",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Gaistalblick",
+    "streetAddress": "Ostbach 1",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6423"
+  },
+  "name": "Haus Gaistalblick",
+  "description": [
+    "Unser Haus ist umgeben von Wiesen und Feldern, sowohl Wanderwege als auch Loipen führen direkt bei uns vorbei. Sehr familiär geführtes Heim.\n\n",
+    "inkl.: Ortstaxe, Frühstück, Parkplatz",
+    "Mittenwald-Gasse-Kirchplatzl-Ortsteil-Ostbach-1. Haus links"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/08277947-061b-4f87-84c5-ded84caf713d/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d3bbffd4-e240-4acd-bfce-fbdc371f6ed8/99/image.jpg",
+      "caption": "Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.359490992923",
+    "longitude": "11.13431747268"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Doppelbett, Tisch, 2 Stühle u. Dusche.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Adlerhof",
+    "streetAddress": "Andreas Hofer Straße 237",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2384",
+    "faxNumber": "(0043) 5212 2384 13"
+  },
+  "name": "Adlerhof",
+  "description": [
+    "Unser gepflegtes Haus liegt ruhig inmitten eines großen Gartens, abseits der Verkehrsstraßen, nur 2 Gehminuten vom Ortszentrum entfernt. Sonnenterrasse mit Liegewiese, Privatparkplätze.\nDie sonnige, ruhige Lage und der gemütliche Landhausstil machen Ihre Ferien erholsam.\n15% Greenfee-Ermäßigung am Golfplatz Wildmoos.",
+    "In den Appartementpreisen (pro Tag, pro Appartement) sind inbegriffen: Übernachtung, Heizung (Winter), Strom, Privatparkplatzbenützung\n\nZu bezahlende Leistungen:\nGaragenplatz Euro 6,- pro Tag"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/75bbdef8-8db1-4764-b4c4-73ff38c9e5b2/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/083ae340-8b3a-4f19-9d75-aaaa0386f2b3/99/image.jpg",
+      "caption": "Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3306609057735",
+    "longitude": "11.1912435293198"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 3 Schlafräume",
+      "description": "Ruhig in grossem Garten mit Liegewiese u. Terrasse, Balkon Garge, Parkpläte. 140 qm Appartement, grosses rustikales Woihnzimmer mit offenem Kamin, Kabel TV u. Tiroler Sutbe. Geschirrspüler. 15 % Ermässigung Greenfee am Golfpaltz Wildmoos",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/3 Schlafräume/Dusche, Bad, WC",
+          "numberOfRooms": "4.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "7",
+            "minValue": "4"
+          }
+        }
+      ]
+    }
+  ]
+}

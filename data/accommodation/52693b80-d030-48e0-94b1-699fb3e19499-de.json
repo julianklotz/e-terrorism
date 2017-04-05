@@ -1,0 +1,945 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://www.alpenpark-seefeld.com",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Alpenpark Resort ",
+    "streetAddress": "Speckbacherstr. 182",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2951",
+    "faxNumber": "(0043) 5212 2951 5209",
+    "email": "alpenpark@kaltschmid.info",
+    "url": "http://www.alpenpark-seefeld.com"
+  },
+  "name": "Alpenpark Resort",
+  "description": [
+    "Ihr 4 Sterne Superior Hotel in Seefeld in Tirol - Alpenpark Resort Seefeld. In unserem Haus befindet sich ein eigener Family-Spa mit Water-Splash World, Riesenrutsche uvm. Eine Oase der Erholung erwartet Eltern im separaten Erwachsenen Spa, während die Kinder in unserem Filo’s Kids Club auf über 1.000 m² bestens betreut werden. Unser Hausdrache Filo ist stets auf der Suche nach wackeren Mitstreitern in Sachen Abenteuer, Spiel und Spaß. Die Verwöhnpension mit reichhaltigem Frühstücksbuffet, Saftbar, Brunchbuffet, 5-Gang-Abendwahlmenü, Baby- und Kinderbuffet verspricht Kulinarik auf höchstem Niveau. Ein Besuch in  unserer Beauty \u0026 Vialoase, in der auch unsere kleinsten Gäste nicht zu kurz kommen, rundet einen schönen Urlaubstag ab.",
+    "Kostenlos: Teilnahme am wöchentlic wechselnden Animationsprogramm mit\nKegelabend, Tanz- und Musikabende, frei Benützung der Spa-Anlagen, Kindererlebniswelt, Kinder-Kino, Fitness-Studio mit Cardio- und Bodybuildingbereich, Tischtennis, Fahrradverleih (nur im Sommer nach Verfügbarkeit), Gästeshuttle zum Bahnhof in Seefeld, Parkplatz im Freien, Bademäntel und Badetücher während des Aufenthaltes.\nKostenpflichtig: Tiefgarage (Reservierung erbeten), Solarien, Kegeln, Squash,\nBilliard, Indoorgolf, Tennissimulator, Haustiere, Behandlungen in unserer Vitaloase wie z.B. Massagen, kosmetische Behandlungen, Schönheitsbäder, Maniküre, Pediküre... \nAufpreis für Weihnachts- und Silvestermenü",
+    "Aus Richtung Garmisch: Ausfahrt Seefeld Nord - der Strasse folgen, vor dem Bahnübergang in den Riehlweg einbiegen und die nächste lins in die Speckbacherstrasse -\u003e Hotel nach ca. 50 m.\nAus Richtung Innsbruck: Ausfahrt Seefeld Mitte - Richtung Ortszentrum - nach ca. 800 m rechts in die Claudiastrasse  und dann nur mehr nach links in die Speckbacherstrasse einbiegen.\nAus Richtung Telfs/Mösern: Richtung Rosshütte, ca. 200 m nach dem Bahnübergang links in die Claudiastrasse - dann nur noch links in die Speckbacherstrasse einbiegen."
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "reviewCount": "408"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c4cb8feb-6f73-4d54-a142-a55b7f772631/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/735e34ae-2217-4ead-9b38-3dd9d8268924/99/image.jpg",
+      "caption": "Logo"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a22bf783-289a-43be-8d08-171be32f334a/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3aa01061-725d-47ce-89ce-092ced448d8e/99/image.jpg",
+      "caption": "Speisesaal"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5a09f40f-db2c-4559-afee-fe69f36b500b/99/image.jpg",
+      "caption": "Eigener Family-Spa Bereich"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6167146f-6155-4500-9a48-395e8bdb59b3/99/image.jpg",
+      "caption": "Familie"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/cae4255c-6eac-46a0-9495-83b02186d6ed/99/image.jpg",
+      "caption": "Beauty"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/02c300cd-9ca5-4e68-9da9-98ef0693730e/99/image.jpg",
+      "caption": "Pool innen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/52af658a-fd1a-4a8f-b92d-acad9627a182/99/image.jpg",
+      "caption": "Beauty Blütenbad"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6b51e02e-b6b7-4a7a-a022-47f886c0ce81/99/image.jpg",
+      "caption": "Hausfoto Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/edea4992-0626-4fe0-8747-da4b1bcf4eab/99/image.jpg",
+      "caption": "Baby_Spielecke 5,64 MB"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d56693eb-581a-46d7-9b66-557a8d09d224/99/image.jpg",
+      "caption": "Bar_Stube 5,45 MB"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a691687d-4dfa-4f92-9dbd-931b8f503dfd/99/image.jpg",
+      "caption": "Beauty_Blütenbad 3,43 MB"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/211d397e-3dff-4aca-86fa-3b9a47017b9f/99/image.jpg",
+      "caption": "Beauty_Massage 101 KB"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/46f760c9-89be-4e8e-bb4b-242552cf66f3/99/image.jpg",
+      "caption": "Beauty_Creme 2,79 MB"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f17fc6c9-85a8-4957-a9cf-9a9045838903/99/image.jpg",
+      "caption": "DSCN1525"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/bb23701b-8a11-4614-93d9-d67b916650b5/99/image.jpg",
+      "caption": "DSCN1562"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3c148971-020d-43ef-9c03-eb568fda3bf3/99/image.jpg",
+      "caption": "Fitness_Hanteln 3,15 MB"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/457b46cb-09aa-47ac-a69f-cf43079b6e89/99/image.jpg",
+      "caption": "Familie _Im Zimmer 1,15 MB"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/848d4265-9823-4493-ad48-2a8d3d05df42/99/image.jpg",
+      "caption": "Haus_Kinderpool 3,96 MB"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c8c0d00d-6bd6-4bf9-95ff-426fe461072f/99/image.jpg",
+      "caption": "Haus_Panorama 5,72 MB"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f1252871-d175-4b27-a8fd-758797e2343c/99/image.jpg",
+      "caption": "Kind_Hüpfburg 1,73 MB"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/17c2751f-ef73-4fc6-a2ba-fa642e5ade7b/99/image.jpg",
+      "caption": "Haus_Panorama 7,59 MB"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2845b228-0402-4d15-ab82-0877f2e9a7c3/99/image.jpg",
+      "caption": "Kind_Spielecke 5,12 MB"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5a928fd0-243f-4186-8e73-fa4f5b0bddf8/99/image.jpg",
+      "caption": "Kind_Spielecke 5,52 MB"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d70e6275-24a0-4716-8256-18272b83d9d0/99/image.jpg",
+      "caption": "Kind_Splash World 2,08 MB"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/cb5bcf9f-b340-4927-8414-dc2620a0a73e/99/image.jpg",
+      "caption": "Stube Alpenpark"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/14f05ba3-2f50-40f0-a603-5e46eafbe014/99/image.jpg",
+      "caption": "Wellness_4 Senses Lounge 3,53 MB"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e0020c30-9395-4dfc-a7ea-7b3f6b799993/99/image.jpg",
+      "caption": "Wellness_Heubad 2,96 MB"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f07c258d-104f-490d-98a8-2d27a441f223/99/image.jpg",
+      "caption": "Kind_Spielecke 2,22 MB"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/394ce7f8-4a6e-4112-8c6e-69f8d46e573c/99/image.jpg",
+      "caption": "Wellness_Sauna 1,04 MB"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a1c242df-75d9-4ffd-b989-f3691ad529df/99/image.jpg",
+      "caption": "Wellness_Relax 2,56 MB"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.331886163485",
+    "longitude": "11.1907875537872"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Bad, WC, Balkon",
+      "description": "Eleganter Landhausstil mit Bad/Duschkombination, Doppelwaschbecken, Haarföhn, Kosmetikspiegel, Bidet, getrenntes WC mit Handwaschbecken, Personenwaage, Radio, TV, Zimmersafe, Internetzugang, Kachelofen, Wohnbereich, Balkon oder Terrasse oder Wintergarten, ca. 42m² ...",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer \"Superieure\"",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "246.00",
+          "maxPrice": "999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "999.00",
+          "maxPrice": "999.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Bad, WC",
+      "description": "Eleganter Landhausstil mit Bad/Duschkombination, Doppelwaschbecken, Haarföhn, Kosmetikspiegel, Bidet, getrenntes WC mit Handwaschbecken, Personenwaage, Radio, TV, Zimmersafe, Internetzugang, Kachelofen, Wohnbereich, Balkon oder Terrasse, ca. 35-38m² ...",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer \"De Luxe\" zur Südseite",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "236.00",
+          "maxPrice": "999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "999.00",
+          "maxPrice": "999.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Bad, WC",
+      "description": "Eleganter Landhausstil mit Bad/Duschkombination, Doppelwaschbecken, Haarföhn, Kosmetikspiegel, Bidet, getrenntes WC mit Handwaschbecken, Personenwaage, Radio, TV, Zimmersafe, Internetzugang, Kachelofen, Wohnbereich, Balkon oder Terrasse, ca. 35m² ...",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer \"De Luxe\" zur Nordseite",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "216.00",
+          "maxPrice": "999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "999.00",
+          "maxPrice": "999.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Bad, WC",
+      "description": "Rustikal-eleganter Landhausstil mit Bad oder Dusche, WC, Kosmetikspiegel, Haarföhn, Radio, TV, Telefon, Zimmersafe, Internetzugang, ca. 25m² ...",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer ohne Balkon",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "170.00",
+          "maxPrice": "999.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche oder Bad, WC, Balkon",
+      "description": "Rustikal-eleganter Landhausstil mit Bad, WC, Kosmetikspiegel, Haarföhn, Radio, TV, Telefon, Zimmersafe, Wohnbereich, Internetzugang, ca. 28-33m² ...",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Balkon \"Seefeld\"",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "206.00",
+          "maxPrice": "999.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche oder Bad, WC",
+      "description": [
+        "Rustikal-eleganter Landhausstil mit Bad, WC, Kosmetikspiegel, Haarföhn, Radio, TV, Telefon, Zimmersafe, Internetzugang, ca. 28m² ...",
+        "Rustikal-eleganter Landhausstil, im Haus Dreitorspitz, ca. 28 m², Südseite"
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer ohne Balkon \"Seefeld\"",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "186.00",
+          "maxPrice": "999.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche oder Bad, WC",
+      "description": "Rustikal-eleganter Landhausstil mit Bad oder Dusche, WC, Kosmetikspiegel, Haarföhn, Radio, TV, Telefon, Zimmersafe, Internetzugang, ca. 18-22m² ...",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Balkon \"Dreitorspitz\"",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "186.00",
+          "maxPrice": "999.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Einzelzimmer, Dusche oder Bad, WC, Balkon",
+      "description": "Rustikal-eleganter Landhausstil mit Bad oder Dusche, WC, Kosmetikspiegel, Haarföhn, Radio, TV, Telefon, Zimmersafe, Internetzugang, ca. 13-16m² ...",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Einzelzimmer mit Balkon \"Dreitorspitz\"",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "93.00",
+          "maxPrice": "999.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Einzelzimmer, Badewanne",
+      "description": "Rustikal-eleganter Landhausstil mit Grand Lit, Loggia, Bad, WC, Kosmetikspiegel, Haarföhn, Radio, TV, Telefon, Zimmersafe, Internetzugang, ca. 20m² ...",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Einzelzimmer ohne Balkon \"Seefeld\"",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "93.00",
+          "maxPrice": "999.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Junior Suite, Bad, WC, Balkon",
+      "description": "Rustikal-eleganter Landhausstil mit Bad, getrenntes WC, Kosmetikspiegel, Haarföhn, Radio, 3 TVs, Telefon, Zimmersafe, Internetzugang. Schlafzimmer mit Schlafmöglichkeit für die 3. + 4. Person auf der Ausziehcouch, 2 miteinander verbundene Einzelzimmer, ca. 55m² ...",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Juniorsuite mit Balkon \"Gschwandtkopf\"",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "216.00",
+          "maxPrice": "999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "999.00",
+          "maxPrice": "999.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Junior Suite, Bad, WC",
+      "description": "Rustikal-eleganter Landhausstil mit Bad, WC, Kosmetikspiegel, Haarfön, Radio, TV , Telefon, Zimmersafe, Internetzugang, Kachelofen. Doppelzimmer und getrenntes Wohnzimmer mit Schlafmöglichkeit für die 3. + 4. Person auf der Ausziehcouch, ca. 40m² …",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Juniorsuite ohne Balkon \"Rosshütte\"",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "216.00",
+          "maxPrice": "999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "999.00",
+          "maxPrice": "999.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Familienzimmer, Bad, WC, Balkon",
+      "description": "Rustikal-eleganter Landhausstil mit Bad, WC, Kosmetikspiegel, Haarföhn, Telefon, Zimmersafe, Wohnbereich, separates Kinderzimmer, Internetzugang, ca. 35-40m² ...",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Familienzimmer mit Balkon",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "222.00",
+          "maxPrice": "999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "999.00",
+          "maxPrice": "999.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Junior Suite, Dusche und Bad, WC, Balkon",
+      "description": "Rustikal-eleganter Landhausstil mit Bad oder Dusche, WC, Kosmetikspiegel, Haarföhn, Radio, TV, Telefon, Zimmersafe, Internetzugang, Kachelofen. Doppelzimmer, Wohnzimmer mit Schlafmöglichkeit für die 3. + 4. Person auf der Ausziehcouch, ca. 55m² ...",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Juniorsuite mit Balkon \"Tirol\"",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "271.00",
+          "maxPrice": "999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "999.00",
+          "maxPrice": "999.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Junior Suite, Dusche und Bad, WC",
+      "description": "Rustikal-eleganter Landhausstil mit Bad und Dusche, WC, Kosmetikspiegel, Haarföhn, Radio, 3 TVs, Telefon, Zimmersafe, Internetzugang, Kachelofen. Doppelzimmer mit Schlafmöglichkeit für die 3. auf der Ausziehcouch, Einzelzimmer, Wohnzimmer mit Schlafmöglichkeit für die 5. + 6. Person auf der Ausziehcouch, ca. 55m² ...",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Juniorsuite ohne Balkon \"Sonnenblick\"",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "271.00",
+          "maxPrice": "999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "999.00",
+          "maxPrice": "999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "999.00",
+          "maxPrice": "999.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Suite, Bad, WC, Balkon",
+      "description": "1 Badezimmer mit Bad/Duschkombination, Haarföhn, Kosmetikspiegel, Bidet, Personenwaage, 1 Badezimmer mit Dusche, Haarföhn und Kosmetikspiegel, Schlafzimmer, getrenntes Wohnzimmer mit Schlafmöglichkeit für die 3. + 4. Person auf der Ausziehcouch, Teeküche, Wohnbereich, Radio, Zimmersafe, Internetzugang, Kachelofen, 2 Balkone bzw. Terrassen zur Nord- und Westseite, ca. 70m² ...",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Suite Residenz",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "312.00",
+          "maxPrice": "999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "999.00",
+          "maxPrice": "999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "999.00",
+          "maxPrice": "999.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Suite, Dusche und Bad, WC, Balkon",
+      "description": "1 Badezimmer mit Whirlwanne, große Dusche, Sanarium, Haarföhn, Kosmetikspiegel, Personenwaage, 1 Badezimmer mit Bad/Duschkombination, Haarföhn, Kosmetikspiegel, Personenwaage, Bidet, getrenntes WC und Bidet. 2 Schlafzimmer, 1 Wohn- und Schlafzimmer mit Kachelofen, offenem Kamin, Bar mit integrierter Küche, 3 TVs, Stereoanlage, Video- und DVD-Recorder, Zimmersafe, Internetzugang, Nord- und Südbalkon, ca. 140m² ...",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Präsidentensuite mit Balkon",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "4"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "518.00",
+          "maxPrice": "999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "999.00",
+          "maxPrice": "999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "999.00",
+          "maxPrice": "999.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche und Bad, WC, Balkon",
+      "description": "Moderner Landhausstil mit Wohnbereich, großzügiges Badezimmer mit Bad und Dusche, Doppelwaschbecken, Kosmetikspiegel, Haarföhn, getrenntes WC und Bidet, Radio, Flat-TV, Zimmerkühlschrank, Safe, Internetzugang, Balkon oder Terrasse, ca. 42-45m² ...",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer Royal",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "270.00",
+          "maxPrice": "999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "999.00",
+          "maxPrice": "999.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Suite, Dusche und Bad, WC, Komfort",
+      "description": "Moderner Landhausstil, Doppelzimmer mit Wohnbereich und Ausziehcouch (Schlafmöglichkeit für die 3. und 4. Person), separates Einzelzimmer, Badezimmer mit Bad und Dusche, Doppelwaschbecken, Kosmetikspiegel, Haarföhn, getrenntes WC und Bidet, Flat-TV, Zimmerkühlschrank, Safe, Balkon oder Terrasse zur Nordseite, Badekorb mit kuscheligem Bademantel...",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Familien Suite Royal, Komfort",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "2"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "286.00",
+          "maxPrice": "999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "999.00",
+          "maxPrice": "999.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Familienzimmer, Dusche und Bad, WC, Komfort",
+      "description": "Moderner Landhausstil, Doppelzimmer mit Wohnbereich, separates Kinderzimmer für 1-2 Personen (mit Stockbett oder Einzelbett), Badezimmer mit Bad und Dusche, Kosmetikspiegel, Haarföhn, getrenntes WC, Radio, Flat-TV, Zimmerkühlschrank, Safe, Internetzugang, Balkon, Südseite ...",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Familienzimmer Royal, Komfort",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "2"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "278.00",
+          "maxPrice": "999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "999.00",
+          "maxPrice": "999.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

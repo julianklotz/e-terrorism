@@ -1,0 +1,78 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.ferienwohnungen-seefeld.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Reichmann",
+    "streetAddress": "Am Kirchwald 344",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 4228646",
+    "email": "haus.reichmann@ferienwohnungen-seefeld.at",
+    "url": "http://www.ferienwohnungen-seefeld.at"
+  },
+  "name": "Haus Reichmann",
+  "description": [
+    "Sonnig und ruhig im Ortsteil \"Am Kirchwald\", nicht an den Hauptstraßen und doch erreichen Sie in nur wenigen Minuten ohne Auto das Ortszentrum, die Tennisanlagen und das Sport- und Kongresscenter.\nIm Sommer sowie im Winter ist unser Haus ein idealer Ausgangspunkt herrlicher Wanderungen. Wir bieten unseren Gästen eine Liegewiese und Terrasse.",
+    "INKLUSIVE: Heizung, Parkplatz, Wasser, Tisch- und Bettwäsche, Strom\n",
+    "check-in: 15:00 Uhr\ncheck-out: 10:00 Uhr\nWeg: Unser Haus liegt im Ortsteil Kirchwald\n          Ortsplan: Farbe Orange"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/47a9510e-2152-4246-9665-ec97c8f1e5b6/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d7b73e3f-3de2-47ce-8acc-e51c365a514a/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f4c7b8c6-066b-4bd0-8f84-9eebc6be42e8/99/image.jpg",
+      "caption": "Sommer2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/802dc142-019c-4333-811d-81679f278b98/99/image.jpg",
+      "caption": "Aussen 3"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.328552087068",
+    "longitude": "11.1794498562813"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 1 Schlafraum",
+      "description": "1 Doppelbettzimmer, Küche, Vorraum, Wohnzimmer mit Schlafsofa, Badewanne mit Duschvorhang/WC, Terrasse, Liegewiese",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Enzian - 2 Zimmerappartement",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ]
+    }
+  ]
+}

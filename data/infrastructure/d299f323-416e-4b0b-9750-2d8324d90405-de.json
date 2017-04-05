@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "HealthAndBeautyBusiness"
+  ],
+  "name": "Kneippanlage bei der Isar - Nähe Scharnitzer Alm",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3793293867305",
+    "longitude": "11.28313601017"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Informationsbüro Scharnitz",
+    "streetAddress": "Innsbrucker Str. 282",
+    "addressLocality": "Scharnitz",
+    "postalCode": "6108",
+    "addressCountry": "AT",
+    "telephone": "+4350880540 ",
+    "faxNumber": "+4350880541",
+    "email": "info.scharnitz@seefeld.com",
+    "url": "http://www.seefeld.com"
+  },
+  "description": [
+    "Kneippanlage in Richtung Scharnitzer Alm.\nDiese moderne und doch natürliche Ruheoase am Eingang zum Karwendel, zwischen Isarsteig und Kreidegraben, lässt keine Wünsche offen!\nDas große Tretbecken gefüllt mit Isarsteinen, das Armtauchbecken und die großzügige Entspannungsliege bieten Raum zur Erholung\nund Regeneration nach einem anstrengenden, erlebnisreichen Tag im Karwendel.",
+    "Kneippanlage in Richtung Scharnitzer Alm.\nDiese moderne und doch natürliche Ruheoase am Eingang zum Karwendel, zwischen Isarsteig und Kreidegraben, lässt keine Wünsche offen!\nDas große Tretbecken gefüllt mit Isarsteinen, das Armtauchbecken und die großzügige Entspannungsliege bieten Raum zur Erholung\nund Regeneration nach einem anstrengenden, erlebnisreichen Tag im Karwendel."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3650a017-c99f-4c78-8ecb-a306764d5674/99/image.jpg",
+      "caption": "Kneippanlage"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b83f4d2f-1452-4efe-8a8a-7d12a2dd6303/99/image.jpg",
+      "caption": "Kneippanlage 1"
+    }
+  ],
+  "url": [
+    "http://www.seefeld.com"
+  ]
+}

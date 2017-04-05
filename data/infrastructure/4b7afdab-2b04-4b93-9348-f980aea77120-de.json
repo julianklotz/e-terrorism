@@ -1,0 +1,48 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "HealthAndBeautyBusiness",
+    "BeautySalon"
+  ],
+  "name": "Bodypoint Seefeld, Physiotherapie",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.326148658263",
+    "longitude": "11.1764860153198"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Bodypoint Seefeld",
+    "streetAddress": "Möserer Str. 632",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2063",
+    "email": "fitness@bodypoint.at",
+    "url": "http://www.bodypoint.at"
+  },
+  "description": [
+    "Wir bieten dir ein Allround-Paket bestehend aus ­individueller Beratung, Fitnesscoaching und Physio­therapie. Ganz egal ob du deine ­Muskeln oder ­Kondition aufbauen, deine Haltung ­verbessern, dich bewusster ernähren, einfach nur mal entspannen oder deine Beschwerden in den Griff bekommen willst. Wir stehen dir mit ­unserem Fachwissen, individuellen Trainings­plänen und guten Tipps zur Seite!\n\nTerminvereinbarung für Physiotherapie und Massage unter Tel: 0650/7201047\n\n",
+    "Mo, Mi \u0026 Fr: 9.30 - 12.00 Uhr \u0026 14.00 - 21.30 Uhr\nDi \u0026 Do: 14.00 - 21.30 Uhr\nSa \u0026 So: 16.00 - 20.00 Uhr \n\n"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3b787fd3-1c16-48b4-bc69-f3ad0ebc6697/99/image.jpg",
+      "caption": "Bodypoint Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7b6c78e6-526d-472e-8e13-58f5b3a015ac/99/image.jpg",
+      "caption": "Fitnesscenter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/645a1170-daa7-4e8a-a2ef-177b1b817310/99/image.jpg",
+      "caption": "Piktogramm"
+    }
+  ],
+  "url": [
+    "http://www.bodypoint.at"
+  ]
+}

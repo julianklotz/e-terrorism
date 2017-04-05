@@ -1,0 +1,90 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel",
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.goldenes-kreuz-leutasch.com",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Gasthof Goldenes Kreuz",
+    "streetAddress": "Gasse 158",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6291",
+    "email": "gh.goldenes.kreuz@aon.at",
+    "url": "http://www.goldenes-kreuz-leutasch.com"
+  },
+  "name": "Gasthof Goldenes Kreuz",
+  "description": [
+    "Schöne, ruhige Terrasse - gutbürgerliche Küche, Wildgerichte - Spezialtäten. Ein Ausflug, der sich lohnt. Parkplatz - Wanderwege - Loipeneinstieg u. Schwimmbad in der Nähe.\n\n",
+    "Mittenwald-Leutasch -Gasse 158"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/595cfbbd-b474-4748-9e03-e3fe95e3781c/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e18432f0-64c5-467d-85fd-d073b1557895/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d788b7b5-72a2-4ac9-8c51-f0870f41d995/99/image.jpg",
+      "caption": "Speisesaal"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/367cbe5a-cfbc-4172-a6b6-8f7f9af13f1f/99/image.jpg",
+      "caption": "Kachelofen in der Stube"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/cc8c5ffd-fa08-4f99-ad51-6fe5421b75d4/99/image.jpg",
+      "caption": "Liegewiese"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3a0fff96-3dd5-4790-a2c1-15deacbe5f02/99/image.jpg",
+      "caption": "Terasse"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.376693059657",
+    "longitude": "11.155026924955"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Etagendusche/Etagen-WC",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Etagendusche/Etagen WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

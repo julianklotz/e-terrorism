@@ -1,0 +1,27 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "FastFoodRestaurant"
+  ],
+  "name": "Bratwerk, Imbiss",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Bratwerk",
+    "streetAddress": "Andreas-Hofer-Str. 292",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9919d9c9-de2b-4ebf-b10a-fa886afcd6e5/99/image.jpg",
+      "caption": "Imbiss"
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.haus-grosek.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Grosek",
+    "streetAddress": "Moos 23",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 1234 199",
+    "email": "hausgrosek@aon.at",
+    "url": "http://www.haus-grosek.at"
+  },
+  "name": "Haus Grosek",
+  "description": [
+    "Fühlen Sie sich wie der \"König der Berge\" in einzigartiger Umgebung, weit weg vom hektischen Alltag und dem Lärm der Großstadt. Unser 2008 neu renoviertes Ferienhaus bietet Ihnen eine herrliche Sonnenterrasse, Liegewiese mit Gartengrill und Sonnenliegen, einen idyllischen Teich und ein uriges Gartenhaus mit lauschigen Plätzchen nur für Sie allein zum Entspannen und Genießen. Unser Haus ist optimaler Ausgangspunkt für Wanderungen ins Gaistal und Karwendel, Berg- und Mountainbiketouren. Herrliche Spazierwege direkt vor der Haustüre bieten sich auch für Nordic Walking Begeisterte an. Im Winter finden Sie direkt vor unserm Haus den Einstieg in das Olympia-Loipennetz von insgesamt 260 km (klassich \u0026 Skatingspur) und den Aufstieg (1,5h Gehzeit) ins Tourenskigebiet zur legendären Rauthütte.",
+    "Unser Haus liegt direkt an der Olympialoipe im Ortsteil Moos. \n\nwww.haus-grosek.at",
+    "Der Preis versteht sich inkl. Kurtaxe für 2Personen, Langlaufkarte für 2 Personen, Gratis-W-Lan und Carport-Autoabstellplatz inkl. täglicher Schneeräumung."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4c58fea2-5a4c-4864-9556-0c32406d7a47/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5d17bef3-72b6-4b41-b83e-599f99ee88e0/99/image.jpg",
+      "caption": "Logo"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a4522ad5-4795-4d7f-8bc6-e2a812b27208/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/74d72866-5f37-4a37-b306-51c40c8179bf/99/image.jpg",
+      "caption": "Liegewiese"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/531a57a9-67b8-4fa5-b110-d2f5ea86764c/99/image.jpg",
+      "caption": "Carport"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8d8bc511-03ca-447f-a28f-e8283ef5a090/99/image.jpg",
+      "caption": "Gartenhaus"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/58876c79-c25c-4adb-84ad-c6052c58e7f9/99/image.jpg",
+      "caption": "Blick auf die Loipe"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/dc9592c4-c79b-420f-965a-a4987cd405a3/99/image.jpg",
+      "caption": "Gartenidylle"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1a0dead3-f183-46a4-a55d-0fedd7227880/99/image.jpg",
+      "caption": "Terrasse WI"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3564161",
+    "longitude": "11.1226578"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Ausstattung unserer gemütlichen Ferienwohnung „Hohe Munde\": 36m², Wohn-Schlafraum, Doppelbett, Sofa, seperate Küche mit Sitzecke moderne Geräte wie Geschirrspüler, Backrohr, Kühlschrank, Kaffeemaschine Dunstabzug, 4 Kochplatten, Besteck, Geschirr, Gläser, Toaster, Eierkocher, Stauraum für Getränke und Lebensmittel, Dusche/WC, Bett- \u0026 Tischwäsche, Bade- und Handtücher, Bademäntel,Fön, Sat/TV, CD-Radio, Terrasse, Liegewiese, Teich \u0026 Gartenhaus, Ski-\u0026 Fahrradkeller, Wachsstation, Carport/Auto.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Niedere Munde/ 1 Schlafraum/Dusche, WC *",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Niedere Munde/1 Schlafraum/Dusche, WC*",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/f9eef941-19bc-4a11-bb67-841f1109836c/99/image.jpg",
+              "caption": "Küche"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/a27e5c67-7259-4cbc-b24d-538371330d86/99/image.jpg",
+              "caption": "Diele"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/880f1887-a211-4566-bd5a-89b5ef739142/99/image.jpg",
+              "caption": "Dusche/WC"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/57a106d1-fd32-45f0-8a5c-e5e15e51c4ed/99/image.jpg",
+              "caption": "Essecke"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/39c36615-c7fb-4554-ab72-366bda4b2d88/99/image.jpg",
+              "caption": "Wohnzimmer"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/0cff582d-c8ef-4383-be6c-298b97504453/99/image.jpg",
+              "caption": "Schlafzimmer"
+            }
+          ],
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "58.00",
+          "maxPrice": "68.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "58.00",
+          "maxPrice": "68.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "58.00",
+          "maxPrice": "68.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, Wohn-/Schlafraum",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Hohe Munde/ Wohn-Schlafraum/Dusche, WC",
+          "numberOfRooms": "0.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "48.00",
+          "maxPrice": "68.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "48.00",
+          "maxPrice": "68.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

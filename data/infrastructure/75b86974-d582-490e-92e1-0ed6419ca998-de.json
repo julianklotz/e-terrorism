@@ -1,0 +1,33 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation",
+    "TouristAttraction"
+  ],
+  "name": "E-Bike Verleih - Sportalm",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3245143799496",
+    "longitude": "11.1787284576722"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Sportalm",
+    "streetAddress": "Gschwandtkopf 277",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2689"
+  },
+  "description": "E-Bike Verleih auf Anfrage!\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ea1059fb-53ed-42da-ae85-c44b54be2135/99/image.jpg",
+      "caption": "E-Bike"
+    }
+  ],
+  "url": [
+    "http://"
+  ]
+}

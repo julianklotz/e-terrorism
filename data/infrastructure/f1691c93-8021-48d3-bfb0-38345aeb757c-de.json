@@ -1,0 +1,41 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant"
+  ],
+  "name": "Gasthaus-Cafe Wiesenhof",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3812250646509",
+    "longitude": "11.2918243552948"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Gasthof Wiesenhof",
+    "streetAddress": "Hinterautalstr. 283",
+    "addressLocality": "Scharnitz",
+    "postalCode": "6108",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5213 5380",
+    "email": "gasthofwiesenhof@aon.at",
+    "url": "http://www.gasthof-wiesenhof.at"
+  },
+  "description": "Sitzplätze für ca. 80 Personen\n\nKinderspielplatz, Stempelstelle",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1aa70fe2-bb88-4790-a0a6-e7750bf0873b/99/image.jpg",
+      "caption": "Gasthof Wiesenhof neu"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0eebd634-d765-4638-b068-8f57886e604b/99/image.jpg",
+      "caption": "Winter Wiesenhof"
+    }
+  ],
+  "url": [
+    "http://www.gasthof-wiesenhof.at",
+    "http://www.karwendel.org",
+    "http://www.seefeld.at"
+  ]
+}

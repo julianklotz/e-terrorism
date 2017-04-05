@@ -1,0 +1,29 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "TouristAttraction",
+    "LandmarksOrHistoricalBuildings"
+  ],
+  "name": "Seefelder Waldfriedhof",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3302573280191",
+    "longitude": "11.1977505683899"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Römerweg",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043)5212 23190"
+  },
+  "description": "Dieser befindet sich beim Kreisverkehr am Römerweg (Nähe Umfahrungsstraße). Er wurde 1947 als letzte Ruhestätte jener 63 jüdischen KZ-Häftlinge, die kurz vor dem Ende des 2. Weltkrieges im Raum Seefeld, auf dem Transport von einem KZ kommend, erschossen wurden bzw. an völliger körperlicher Erschöpfung und Auszehrung starben, angelegt. Ein im linken oberen Teil des Friedhofs angebrachter Gedenkstein erinnert an sie und an die in den Lazaretten in Seefeld verstorbenen Soldaten, welche ebenfalls hier ihre letzte Ruhestätte fanden. Später wurde die Anlage zum allgemeinen Friedhof Seefelds ausgebaut, in dem auch Berühmtheiten, wie der Schriftsteller Julius Kiener und die Dichterin Lilly von Sauter begraben sind. Weiters sehenswert ist auch das Monument des Ungeborenen Kindes.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8773ca77-6331-4b82-87c2-4c011e16f597/99/image.jpg",
+      "caption": "Waldfriedhof"
+    }
+  ]
+}

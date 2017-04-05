@@ -1,0 +1,21 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Church",
+    "CatholicChurch"
+  ],
+  "name": "Gottesdienste Katholisch in Unterkirchen",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "description": "Sonntag 8:30 Uhr\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d1cb7ad6-2b3d-4d69-bdaf-aabe96100a75/99/image.jpg",
+      "caption": "Kirche Unterkirchen"
+    }
+  ]
+}

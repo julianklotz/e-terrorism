@@ -1,0 +1,28 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation"
+  ],
+  "name": "Fiakerei Norbert Kluckner",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2896452952624",
+    "longitude": "11.2195149524841"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Leithen 63",
+    "addressLocality": "Reith bei Seefeld",
+    "postalCode": "6103",
+    "addressCountry": "AT",
+    "telephone": "(0043)699 10872502 "
+  },
+  "description": "Pferdekutschenfahrten im Winter!\nIm Sommer Almbetrieb auf der Hochfelderalm!",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7532536e-43df-443b-903f-5a9baab7b92b/99/image.jpg",
+      "caption": "Fiaker"
+    }
+  ]
+}

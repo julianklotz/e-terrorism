@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "TouristAttraction"
+  ],
+  "name": "Bio \u0026 Wanderhotel Leutascherhof",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3693784010713",
+    "longitude": "11.1625658441803"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Wandl OHG",
+    "streetAddress": "Weidach 305",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6208",
+    "faxNumber": "(0043) 5214 6978",
+    "email": "info@leutascherhof.at",
+    "url": "http://www.leutascherhof.at"
+  },
+  "description": "Verleih von Schneeschuhen wenn eine Tour über den Anbieter gebucht wird!",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3b82b3dd-f55d-4536-98d5-b6668020c5e6/99/image.jpg",
+      "caption": "leutascherhof"
+    }
+  ],
+  "url": [
+    "http://www.leutascherhof.at"
+  ]
+}

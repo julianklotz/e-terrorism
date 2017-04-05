@@ -1,0 +1,52 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "Fronleichnamsprozession",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Pfarramt Seefeld",
+    "employee": {
+      "@type": "Person",
+      "familyName": "Pfarrer Pfeifer"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Maximilianweg 29",
+      "addressLocality": "Seefeld",
+      "postalCode": "6100",
+      "addressCountry": "AT",
+      "telephone": "+43521223190",
+      "faxNumber": "+435212231911",
+      "email": "pfarre.seefeld@dibk.at",
+      "url": "http://www.pfarramt-seefeld.at"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Pfarramt Seefeld",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Maximilianweg 29",
+      "addressLocality": "Seefeld",
+      "postalCode": "6100",
+      "addressCountry": "AT",
+      "telephone": "+43521223190",
+      "faxNumber": "+435212231911",
+      "email": "pfarre.seefeld@dibk.at",
+      "url": "http://www.pfarramt-seefeld.at"
+    }
+  },
+  "description": "Erleben Sie echtes religiöses Brauchtum in Tirol!",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b1228f33-6c5b-4b76-b135-6e5b51ef8458/99/image.jpg",
+      "caption": "Fronleichnam"
+    }
+  ],
+  "startDate": "2017-06-15T09:00:00",
+  "endDate": "2017-06-15"
+}

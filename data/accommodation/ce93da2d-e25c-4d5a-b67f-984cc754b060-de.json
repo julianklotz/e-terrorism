@@ -1,0 +1,1085 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://www.marthe.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "My Mountainlodge",
+    "streetAddress": "Krinz 1",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "0043 5212 2502",
+    "faxNumber": "0043 5212 2502 62",
+    "email": "info@marthe.at",
+    "url": "http://www.marthe.at"
+  },
+  "name": "MY MOUNTAIN LODGE",
+  "description": [
+    "GEMEINSAM . ORIGINELL . \nUNKOMPLIZIERT . NATURVERBUNDEN .\nAlles, nur nicht alltäglich!!!\n                                                                               Ideal nahe am Schi-und Wandergebiet ROSSHÜTTE mit neuem Kinderareal! Relaxen in unserem schönen Wellnessbereich mit Hallenbad und immer \u0027was los an der stylishen Bar und in der neuen Lounge! Spaß und Action im Schnee mit Julia, unserer coolen Wanderführerin. Sei neugierig auf unsere originelle LODGE Pension: Essen als Erlebnis!\nTHINK YOUNG - egal wie alt du bist!\n\nNEU! 3 Top-Apartments für 2 - 6 Personen, tirolerisch behaglich und luxuriös.\n\n\n",
+    "Haustiere € 8 pro Tag ohne Futter\nKostenlos: \nHallenbad, Wellnessbereich, Liegestühle, Bademäntel, Teilnahme an LODGE aktiv, ein schnelles W-Lan in allen Zimmern, Mountain bikes, Schlitten, LODGE shuttle\nCheck-In nach 15.00/ Check-Out bis 11.00\n",
+    "Unser Haus liegt im sonnigen Osten Seefelds, direkt am Wald, nahe der ROSSHÜTTEN-Liftanlage, 100m oberhalb der Bundesstraße Innsbruck-Garmisch. Bei der AVIA-Tankstelle (nach SEEFELD-Mitte) bergseitiges Abbiegen. \nCheck-In nach 15.00/ Check-Out bis 11.00"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "reviewCount": "185"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/28c66038-3c83-4455-a261-088e7670a6b2/99/image.jpg",
+      "caption": "Winter in Seefeld, My Mountain Lodge"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/933744b0-7e0f-43f9-9444-4af9be8b79f0/99/image.jpg",
+      "caption": "Marthe"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c781d60e-5475-4a1a-80ab-d6745b5247c1/99/image.jpg",
+      "caption": "Willkommen in Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/af04b64b-4f30-4bee-8fca-d4bf43abf12c/99/image.jpg",
+      "caption": "Nightlife in Seefeld in Tirol"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b5993a4b-e7c6-4e80-9814-12d927f70904/99/image.jpg",
+      "caption": "Buffet in My Mountain Lodge, Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7567a732-8b5d-45f8-8824-d9f931a65213/99/image.jpg",
+      "caption": "Stylisch Abendessen in Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/30c2cff6-e3a7-43ff-ab18-0f17c5511f35/99/image.jpg",
+      "caption": "Vielfältiges Frühstücksangebot in Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ab86fe9d-2301-457c-8004-bef05b31f024/99/image.jpg",
+      "caption": "Täglich frisches Brot in My Mountain Lodge"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/79b92ab7-6cd5-476c-a05f-6637a8cccb63/99/image.jpg",
+      "caption": "Gemütliche Atmosphäre in Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/81db00af-be0b-41b2-a0a9-bb9a5947a999/99/image.jpg",
+      "caption": "Gemütlich Essen in Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4f71318f-70eb-474a-9aa4-a259aacba3da/99/image.jpg",
+      "caption": "Sonnige Tage in Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/029a8acf-fe68-4f44-86f9-bd286b6fc9e8/99/image.jpg",
+      "caption": "Hauseigener kostenloser Shuttle in Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/cd623061-1f2f-4ac4-a3d0-3f508f78a596/99/image.jpg",
+      "caption": "Where to go in Seefeld? My Mountain Lodge"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/85f0ed08-6efb-4599-9ca6-e32452191c40/99/image.jpg",
+      "caption": "Gemütlich Essen in Seefeld, My Mountain Lodge"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/98f73aa2-6ada-4938-83a1-f53bae1b7722/99/image.jpg",
+      "caption": "Wellnessbereich in My Mountain Lodge"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/82f9e013-9602-4cc7-8986-dc1ba731e4c0/99/image.jpg",
+      "caption": "Hallenbad im Dreisterne Hotel in Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4d7189b5-5c12-4f52-b989-e19d227e4168/99/image.jpg",
+      "caption": "Die Ruhe genießen in Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6e7da9a3-2e65-405b-90db-d479d6e6c6a6/99/image.jpg",
+      "caption": "Kaltwassersee auf der Rosshütte in Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e4d2d50b-aadd-4d55-b60d-3aa679269a51/99/image.jpg",
+      "caption": "Sauna und Wellness in My Mountain Lodge"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ac9627e4-97e5-4291-ba5c-4b37fa9a23ae/99/image.jpg",
+      "caption": "Bouldern in Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/fd5b4bce-6dc6-44bd-b791-8a90f3dfd062/99/image.jpg",
+      "caption": "Outdoor Bouldern in Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/831ec770-09db-4118-a73d-952532a70722/99/image.jpg",
+      "caption": "Sonnige Aussicht in Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c157cbc9-5973-412e-a8ff-1f60a2147d40/99/image.jpg",
+      "caption": "Großer Garten mit Kinderspielplatz in Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4be021f1-6b92-4515-aa7f-13ea11ae900a/99/image.jpg",
+      "caption": "Snowboarden auf der Rosshütte in Seefeld"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3271449491321",
+    "longitude": "11.200470328331"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Bad, WC",
+      "description": "Doppelzimmer  TYP MEDIUM  ca. 22 m²  2 - 3 Personen\nDU-WC, TV, WLAN, Zustellbett möglich",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer MEDIUM",
+          "description": "helles, freundliches Doppelzimmer  Typ MEDIUM   ca. 22 m² \nmit DU-WC, Zustellbett möglich, Flatscreen, WLan",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Langlauffreundinnen II",
+          "description": "entspannte männer-und kinderlose Tage inklusive LODGE Pension, Loipenpass, LODGE aktiv, Ortstaxe - \nauf die Loipe, in die City, an die schneebar(s), in den Spa, in den Pool, ran ans gesunde Buffet, RAUS aus dem Alltag\n\n7 Tage zum Preis von 535 Euro/ pro Person\nim Zimmertyp M twin\n",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/134ba43e-2339-45f8-b61c-981aa927fa73/99/image.jpg",
+              "caption": "freundinnen"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/16de930f-dff0-4571-bb12-1949ffee100b/99/image.jpg",
+              "caption": "logo"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "BERGE WASSER LUFT - Wellness in Seefeld",
+          "description": [
+            "im Zeitraum 28.05. bis 09.08.2014 und 30.08. bis 05.10.2014\n\n7 Tage mit Halbpension zum Preis von 370 Euro pro Person *\ninklusive 1 Krug Quellwasser zum Essen\ninklusive 1 Teilmassage\ninklusive 4 geführte Touren\ninklusive 1 Wanderkarte und\ninklusive aller MARTHE Vorteile\n\nReservieren Sie Ihr Zimmer heute\n\n*im Doppelzimmer Typ Wetterstein A 22m²\n",
+            "im Zeitraum 07.06. bis 13.08.2013 und 31.08. bis 06.10.2012\n\n7 Tage mit Halbpension zum Preis von 355 Euro pro Person *\ninklusive 1 Krug Quellwasser zum Essen\ninklusive 1 Teilmassage\ninklusive 1 Glas Reitheralm Berghonig\ninklusive 4 geführte Touren\ninklusive 1 Wanderkarte und\ninklusive aller MARTHE Vorteile\n\nReservieren Sie Ihr Zimmer heute\n\n*im Doppelzimmer Typ Wetterstein A 22m²\n"
+          ],
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/4677b85b-9a63-4311-b241-f63d515108b5/99/image.jpg",
+              "caption": "Wellness am Berg"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "WUNDERBAR WANDERBAR - Wandern in Seefeld",
+          "description": "im Zeitraum 28.05. bis 09.08.2014\nund\nim Zeitraum 30.08. bis 06.10.2014\n7 Tage mit Halbpension zum Preis von 340€ pro Person *\ninklusive 1 kräftiges Bergfrühstück\ninklusive Leihfahrräder für 1 Tag\ninklusive 1 Grillabend\ninklusive 4 geführte Touren\ninklusive 1 Wanderkarte und\ninklusive aller MARTHE Vorteile\n\nReservieren Sie Ihr Zimmer heute\n\n* Zimmertyp Wetterstein A 22 m²",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/4ea3cce7-71e4-4ad2-83a3-a6d363a2def7/99/image.jpg",
+              "caption": "Wandern"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Langlauffreundinnen I",
+          "description": "4 entspannte männer-und kinderlose Tage inklusive LODGE Pension, Loipenpass, LODGE aktiv, Ortstaxe \nzum Preis von 280 Euro/4 Tage pro Person im Zimmertyp M twin\n\nauf die Loipe, in die City, an die schneebar(s), in den Spa, in den pool, ran ans gesunde buffet, RAUS aus dem Alltag\n",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/71f84cf9-d657-4440-b379-527378c29d0a/99/image.jpg",
+              "caption": "freundinnen"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/3d9baa3b-b9c3-4803-a383-6d54b0c0d497/99/image.jpg",
+              "caption": "Logo"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "workout in den alpen",
+          "description": "Ferien mit Suchtpotential \ninklusive LODGE Pension, LODGE aktiv, Loipenpass, 1 Tages-Alpinskipass, eine Winterwanderung, Ortstaxe \n\nab 5 Tage im Zimmertyp M twin\n\nBesser schmerzende Muskeln vom Tag auf der Piste als einen steifen Nacken vom Stress im Job! ",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/1b13c608-be70-440b-8ad1-31b520b577a8/99/image.jpg",
+              "caption": "workout"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/36524422-d738-4cd4-bf6a-953edfa904df/99/image.jpg",
+              "caption": "logo"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "einfach nur genießen....",
+          "description": "7 Tage inklusive LODGE Pension, LODGE aktiv, 4 aus 6 Skipass: schilaufen und/oder snowboarden, Ortstaxe. \n\npreisWERT für 633 Euro im Doppelzimmer M\n\nausschlafen, gut essen, 4 aus 6 Tage schilaufen und/oder snowboarden, winterwandern, chillen, party machen, mit netten leuten tratschen, glühwein trinken, kaiserschmarrenbackenlernen - alles ganz ohne Stress..\n\n",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/d1f69955-2a91-480d-a211-b153a1629fac/99/image.jpg",
+              "caption": "7tage"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/225e15b3-604f-43d3-8845-9bdca14c29c1/99/image.jpg",
+              "caption": "Logo"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "berg freundinnen I",
+          "description": "4 entspannte männer- und kinderlose Tage in der Olympiaregion Seefeld:\nauf die Berge, in die City, an die Bar(s), in den Spa, in den Pool, ran ans gesunde Buffet, RAUS aus dem Alltag",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/2886e6e9-cff8-4bfc-9db0-9b4985361c39/99/image.jpg",
+              "caption": "Bergfreundin"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "berg freundinnen II",
+          "description": "4 entspannte männer- und kinderlose Tage in der Olympiaregion Seefeld:\nauf die Berge, in die City, an die Bar(s), in den Spa, in den Pool, ran ans gesunde Buffet, RAUS aus dem Alltag",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/92407d23-4fc8-4181-84d0-58436a514fe3/99/image.jpg",
+              "caption": "Bergfreundin"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "MÄNNER mountain weekend",
+          "description": "3 wilde, unrasierte Power Tage im Karwendel und Wetterstein, abends Sauna, gut essen und viel trinken, tiefsinnig und endlos debattieren am Kamin in der Lounge\n\nvon DO - SO\npreisWERT im Twinzimmer M\n3 Tage für 1 Person/inkl. Lodge Pension/inkl. Lodge aktiv/inkl. Bar Gutschein für 2 Halbe Zillertal Weizen",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/ffe1b94b-1b9e-4a20-9679-771d47fb2ddb/99/image.jpg",
+              "caption": "Männer"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "7 tage einfach genießen",
+          "description": "7 Tage ausschlafen, gut essen, ein wenig wandern, kneippen, biken, chillen, grillen, Party machen, meditieren, mit netten leuten tratschen, sonnen,...\nvielleicht mal ausprobieren: bouldern Tretboot fahren, air jumpen, paragliden - alles ohne Stress...",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/964ba561-675d-45d9-b113-4e184633eb83/99/image.jpg",
+              "caption": "7 Tage"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "langlauffreundinnen",
+          "description": "5 entspannte männer- und kinderlose Tage in der Olympiaregion Seefeld: \nauf die Loipe, in die City, an die Schneebar(s), in den Spa, in den Pool, ran ans gesunde Buffet, RAUS aus dem Alltag!\n\nSO - FR\npreisWERT im Twinzimmer M\n5 Tage für 1 Person/inkl. Lodgepension/inkl. 5-Tage-Loipenpass/inkl. Lodge aktiv",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/da71217a-e393-44ed-abe4-fc7130c95f6d/99/image.jpg",
+              "caption": "Langlauffreundinnen"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "winter workout in den alpen",
+          "description": "Besser schmerzende Muskeln vom Tag auf der Piste als einen steifen Nacken vom Stress im Job! \nTag 0: Ankunft bei Freunden,\nTag 1: Einstiegsstunde mit privatem Langlauflehrer\nTag 2: all you can ski (Langlauf)\nTag 3: mind. 15 x down the Rosshuette hills\nTag 4: Winterwanderung\nTag 5: Abreise mit einer Träne im Auge und Vorreservierung für nächstes Mal\n\n5 Tage SO - FR/pro Person/mit LODGEpension /inkl. 1 Loipenpass pP /inkl. 1 Tagesskipass alpin pP/inkl.Lodge aktiv",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/e4f747d5-650b-45e9-93aa-00545d193b61/99/image.jpg",
+              "caption": "workout"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "7 tage schnee geniessen",
+          "description": "7 Tage ausschlafen, gut essen, ein wenig snowboarden, skilaufen, winterwandern, chillen, party machen, mit netten leuten tratschen, glühwein trinken, kaiserschmarrenbackenlernen...\nmal ausprobieren: langlaufen, schneeschuhwandern, eisstockschießen - alles ganz ohne Stress...\n\npreisWERT im Doppelzimmer M\n7 Tage/pro Person/mit LODGEpension/inkl. LODGE aktiv/inklusive Skipass 4 x aus 6 schilaufen und/oder snowboarden\n",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/2b576112-7afb-4aa3-9fdb-ee084b9ddae8/99/image.jpg",
+              "caption": "einfach genießen"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "7 Tage einfach geniessen",
+          "description": "7 Tage ausschlafen, gut essen, ein wenig wandern, kneippen, biken, chillen, grillen, Party machen, meditieren, mit netten leuten tratschen,sonnen \nvielleicht mal ausprobieren: bouldern, Tretboot fahren, air jumpen, paragliden - alles ganz ohne Stress...\n\npreisWERT im Doppelzimmer M\n7 Tage/pro Person/mit LODGEpension/inkl. LODGE aktiv/inklusive Teilnahme am Seefelder Sommerprogramm \"Entdecke die Olympiaregion\"\n",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/fa743c9a-b5a7-46bb-b480-7ef4328c0bd0/99/image.jpg",
+              "caption": "einfach genießen"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "berg freundinnen",
+          "description": "5 entspannte männer-und kinderlose Tage in der Olympiaregion Seefeld: auf die Berge, in die City, an die Bar(s), in den Spa, in den Pool, ran ans gesunde Buffet, RAUS aus dem Alltag\n\nSO - FR\npreisWERT im Twinzimmer M\t\n5 Tage/1 Person/inkl. Lodge Pension/inkl. Lodge aktiv/inkl. Bargutschein für 2 Aperol Spritz/inkl. \"Entdecke die Olympiaregion Seefeld\"",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/b89e512e-e805-46a5-b608-db7b3f7b9be3/99/image.jpg",
+              "caption": "einfach genießen"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "MÄNNER weekend mit LANGLAUF",
+          "description": "3 Tage langlaufen mit unzähligen Zwischenstopps, abends Sauna, gut essen und viel trinken, tiefsinnig und endlos debattieren am Kamin in der Lounge \n\nDO - SO\npreisWERT  im Zweibettzimmer M\n3 Tage für 1 Person/inkl. Lodge Pension/inkl. 3-Tage-Loipenpass/inkl. Lodge aktiv",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/d914ca0e-cb93-4ef9-b23d-d98d4b2ed0e9/99/image.jpg",
+              "caption": "männerweekend"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "51.00",
+          "maxPrice": "97.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "535.00",
+          "maxPrice": "535.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "370.00",
+          "maxPrice": "370.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "340.00",
+          "maxPrice": "340.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "280.00",
+          "maxPrice": "280.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "444.00",
+          "maxPrice": "444.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "633.00",
+          "maxPrice": "633.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "200.00",
+          "maxPrice": "200.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "400.00",
+          "maxPrice": "400.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "188.00",
+          "maxPrice": "188.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "399.00",
+          "maxPrice": "399.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "377.00",
+          "maxPrice": "377.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "466.00",
+          "maxPrice": "466.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "666.00",
+          "maxPrice": "666.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "399.00",
+          "maxPrice": "399.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "288.00",
+          "maxPrice": "288.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "266.00",
+          "maxPrice": "266.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Bad, WC",
+      "description": "großes Doppelzimmer  TYP LARGE   ca 26 m²  2 - 4 Personen\n\nDu-WC, Flatscreen, WLAN, Zimmersafe",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer LARGE",
+          "description": "großes Doppelzimmer Typ LARGE  mind. 26 m² 2 - 4 Personen\nDu-WC, Flatscreen, WLAN, Zimmersafe",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "\"mamas, papas \u0026 kids\" - Familienwandern in Seefeld",
+          "description": "im Zeitraum 12.07. bis 09.08.2014\n\n7 Tage mit Halbpension zum Preis von 945 Euro für 4 Personen *\ninklusive Leihfahrräder für einen Tag inkl. Radlerjause\ninklusive 4 geführte Familienwanderungen\ninklusive aller MARTHE Vorteile\n\nReservieren Sie Ihr Zimmer heute\n\n*im Doppelzimmer Typ Wetterstein B  26m²\n",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/9e6fc131-a09d-46ba-b1bd-95dd09a196ed/99/image.jpg",
+              "caption": "Mamas, papas \u0026 Kids"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Männer weekend mit Langlauf",
+          "description": "3 Tage für 1 Person/inkl. Lodge Pension/inkl. 3-Tage-Loipenpass/inkl. Lodge aktiv/inklusive Ortstaxe\n\npreisWERT für 249 Euro pro Person im Mehrbettzimmer L\n\nlanglaufen mit unzähligen Zwischenstopps, abends Sauna, gut essen und viel trinken,\ntiefsinnig und endlos debattieren am Kamin in der Lounge\n\n",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/cbfa08ac-f05c-442f-b777-91dc6c02c301/99/image.jpg",
+              "caption": "männer"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "MÄNNER weekend mit Langlauf",
+          "description": "3 Tage Langlaufen mit unzähligen Zwischenstopps, abends Sauna, gut essen und viel trinken, tiefsinnig und endlos debattieren am Kamin in der Lounge\n\npreisWERT für 249 Euro/im Mehrbettzimmer L\n3 Tage für 1 Person/inkl. Lodge Pension/inkl. 3-Tages-Loipenpass/inkl. Lodge aktiv/exklusive Kurtaxe",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/4ff22642-d302-4f27-ac46-b96a4f0e730a/99/image.jpg",
+              "caption": "männerweekend"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "56.00",
+          "maxPrice": "103.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "56.00",
+          "maxPrice": "103.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "45.00",
+          "maxPrice": "95.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "249.00",
+          "maxPrice": "249.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "249.00",
+          "maxPrice": "249.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Junior Suite, Dusche oder Bad, WC",
+      "description": "Junior Suite, Typ X-LARGE  ca. 35 m²   für 2 - 5 Personen\ngroßes Schlafzimmer mit separatem Schlaf/Wohnteil, Dusche-WC, Südbalkon,\nFlatscreen, WLAN  ",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Suite X-LARGE",
+          "description": "Juniorsuite, Typ X-LARGE  35 m² 2 - 5 Personen\n2 getrennte Schlafzimmer, Dusche-WC, Flatscreen Kabel TV, WLAN, Südbalkon",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "71.00",
+          "maxPrice": "116.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "71.00",
+          "maxPrice": "116.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "71.00",
+          "maxPrice": "116.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Suite, Dusche und Bad, WC",
+      "description": "sehr große Familien-Suite   TYP XX-LARGE   ca. 47 m² 2 - 6 Personen\n   \ngroßes Elternschlafzimmer mit Wohnteil, kleineres Kinderschlafzimmer, Bad, WC separat, Südbalkon, Zimmersafe,2 Flatscreens, WLAN, Parkettboden ",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Suite XX-LARGE",
+          "description": "Hotelsuite, 47 m² 2 - 6 Personen\n2 Schlafzimmer, Bad mit DU und Wanne,WC separat, Südbalkon, Flatscreen, WLan, Safe",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "76.00",
+          "maxPrice": "126.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "76.00",
+          "maxPrice": "126.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "55.00",
+          "maxPrice": "126.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Einzelzimmer, Dusche, WC",
+      "description": "Zimmer  Typ SMALL   ca. 14 m² - 18 m², 1 - 2 Personen\n\nmit Dusche-WC, TV, WLAN, Zimmersafe\ngibt es je nach Belegung mit Doppelbett, Einzelbett oder mit Zustellbett",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Einzelzimmer SMALL",
+          "description": "helles, kleines Zimmer 14 - 18 m²   1 - 2 P \nDU-WC, TV, WLan, Zimmersafe\nje nach Belegung mit Zustellbett oder Doppelbett verfügbar\n\n",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "einfach nur genießen....",
+          "description": "7 Tage inklusive LODGE Pension, LODGE aktiv, 4 x aus 6 schilaufen und/oder snowboarden, Ortstaxe. \n\npreisWERT für 666 Euro im Einzelzimmer S\n\nausschlafen, gut essen, 4 aus 6 Tage schilaufen und/oder snowboarden, winterwandern, chillen, party machen, mit netten leuten tratschen, glühwein trinken, kaiserschmarrenbackenlernen - alles ganz ohne Stress..\n\n",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/54ad3214-b875-4fab-8130-21da50b4b84f/99/image.jpg",
+              "caption": "7tage"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/d575e73a-3561-4965-98cc-218ad2767b91/99/image.jpg",
+              "caption": "Logo"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "workout in den alpen",
+          "description": "Besser schmerzende Muskeln vom Tag am Berg als einen steifen Nacken vom Stress im Job\n\nmit Bergtour: ROTHMOOS oder RAUTHHÜTTE,\nsunrise-Tour auf die Seefelderspitz\nbike a day ins Hinterautal\nKneippen an der Isar\none day of relaxation and meditation",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/0291fdc7-3509-46ee-b36f-ee1fbe3d1da0/99/image.jpg",
+              "caption": "Workout"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "sommer workout in den alpen",
+          "description": "Besser schmerzende Muskeln vom Tag am Berg als einen steifen Nacken vom Stress im Job\n\nim Zimmer S \n7 Tage/pro Person/inkl. LODGEpension/inkl. LODGE aktiv\n\n\n4 geführte Touren\nsunrise hike auf die SEEFELDERSPITZ mit Gipfelfrühstück\nbike a day ins HINTERAUTAL\nkneippen an der ISAR\none day of relaxation and meditation",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/b089dcaa-ff90-44d5-9282-f2c73a89f50f/99/image.jpg",
+              "caption": "Workout"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "53.00",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "60.00",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "666.00",
+          "maxPrice": "666.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "455.00",
+          "maxPrice": "455.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "455.00",
+          "maxPrice": "455.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

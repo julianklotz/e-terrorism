@@ -1,0 +1,29 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BarOrPub"
+  ],
+  "name": "Café in der Länd/Bar",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3860294199841",
+    "longitude": "11.2660910754631"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Cafe in der Länd",
+    "streetAddress": "Hinterautalstrasse 355",
+    "addressLocality": "Scharnitz",
+    "postalCode": "6108",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 5532194"
+  },
+  "description": "Sonntag ab 18.00 Uhr und Montag.\nSchliesszeiten auf Anfrage!",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ac4d3059-bfce-4c12-8b20-4593abb546cf/99/image.jpg",
+      "caption": "Cafe Länd"
+    }
+  ]
+}

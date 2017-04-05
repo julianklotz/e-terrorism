@@ -1,0 +1,49 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "Konzert der Bürgermusikkapelle Seefeld",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Informationsbüro Seefeld",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Klosterstraße 43",
+      "addressLocality": "Seefeld",
+      "postalCode": "6100",
+      "addressCountry": "AT",
+      "telephone": "+43508800",
+      "email": "region@seefeld.com",
+      "url": "http://www.seefeld.com"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Informationsbüro Seefeld",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Klosterstraße 43",
+      "addressLocality": "Seefeld",
+      "postalCode": "6100",
+      "addressCountry": "AT",
+      "telephone": "+43508800",
+      "email": "region@seefeld.com",
+      "url": "http://www.seefeld.com"
+    }
+  },
+  "description": "Der Musikpavillon im Kurpark Seefeld wird zwischen Juni bis Ende September wieder Dreh- und Angelpunkt eines bunten und unterhaltsamen Konzertprogrammes, welches sowohl einheimische Musikkapellen aus ganz Tirol, wie auch internationale musikalische Gäste miteinschließt. Der Eintritt zu allen Konzerten ist frei, die Musiker freuen sich über zahlreiche Besucher.\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b7514da0-4753-483f-8290-49a8d7887ec5/99/image.jpg",
+      "caption": "Bürgermusikkapelle Seefeld"
+    }
+  ],
+  "url": [
+    "http://www.musikkapelle-seefeld.at"
+  ],
+  "startDate": "2017-08-10T19:30:00",
+  "endDate": "2017-08-10"
+}

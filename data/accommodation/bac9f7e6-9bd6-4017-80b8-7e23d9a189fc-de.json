@@ -1,0 +1,215 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://www.xander-leutasch.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Gästehaus Xander",
+    "streetAddress": "Kirchplatzl 145",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6581",
+    "faxNumber": "(0043) 5214 6943",
+    "email": "info@xander-leutasch.at",
+    "url": "http://www.xander-leutasch.at"
+  },
+  "name": "Gästehaus Xander",
+  "description": [
+    "Abseits vom Ortskern und dennoch zentral, bieten wir unseren Gästen u.a. folgende gastronomische Einrichtungen: 57 Appartements und 12 Doppelzimmer mit Bad / WC, Nichtraucherzimmer, Telefon, Radio, SAT/TV, High-Speed Internet Connection, Urlaubsküche (nur im Haupthaus), \"Bade-Sauna-Aktiv-Zentrum\", u.a. mit Bio-Sauna, Finnische Sauna, Dampfgrotte, Frischluftraum, Hobbyraum, Kinderspielraum, Zirbenstube, Wintergarten, großer Parkplatz mit Garagen, Restaurant \"Kirchenwirt\": Bekannt für sehr gute ganztägig warme Küche, große Auswahl an traditionellen und internationalen Speisen, Spezialitätenwochen, kein Ruhetag.\nWir freuen uns auf Sie!\nFamilie Dr. K. Ennemoser\nDir. Petra Bühler\nund das \"Xander-Team\"",
+    "Hund pro Tag ohne Futter 11,00 €,\nGarage pro Tag € 8,00 im Sommer und € 10,00 im Winter\nSauna u. Hallenbad kostenlos, Whirlpool und Solarium 7,00 €\nWäschebeutel (Wäscheservice 8,00 €)\nOrtstaxe pro Person und Tag 1,50 €",
+    "Check in 14:00 Uhr, Check out 11:00 Uhr.\nWegbeschreibung: Liegt im Ortsteil Kirchplatzl direkt bei der Pfarrkirche Oberleutasch."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8510d676-2682-457f-a827-abcd13521d7e/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/761f136a-a453-43c1-a5ec-966f8e054798/99/image.jpg",
+      "caption": "Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.369999462928",
+    "longitude": "11.142491267928"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Gästehaus Xander: nordseitige Zimmer mit Dusche / WC, Telefon, SAT-TV, High-Speed Internet Conection, Safe, Mitbenützung von Hallenbad, Dampfbad, Sauna und Fitnessraum im Sporthotel Xander (20 Meter vom Haupthaus entfernt).",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Dusche, WC mit FÜ",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Dusche, WC mit HP",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Xander Weisse Wochen",
+          "description": "Ihre XANDER Pauschal-Vorteile:\n\n* 7 Übernachtungen inkl. \"Xander-Verwöhnpension\"\n* Alle Xander-Inklusiv-Leistungen\n* Obstkorb auf dem Zimmer\n* 1 x Gesichtsbehandlung 30 Min.\n* 1 x Whirlpool\n* 1 x Solarium\n* Pferdekutschenfahrt durch die Leutascher Wälder\n* Ortstaxe inklusive\n* Singlefreundlich - kein Einzelzimmerzuschlag\n\nLeutasch: Bekannt für absolute Schneesicherheit!",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Xander Langlauf-Gaudi",
+          "description": "Ihre XANDER Pauschal-Vorteile:\n\n* 7 Übernachtungen inkl. \"Xander-Verwöhnpension\"\n* Alle Xander-Inklusiv-Leistungen\n* Obstkorb auf dem Zimmer\n* 1 x Hot Stone Massage 20 Min.\n* 1 x Whirlpool\n* 1 x Solarium\n* Loipenkarte inklusive, Loipeneinstieg direkt beim Hotel\n* Pferdekutschenfahrt durch die Leutascher Wälder\n* Gratis WLAN\n* Ortstaxe inklusive",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "58.00",
+          "maxPrice": "58.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "58.00",
+          "maxPrice": "58.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "58.00",
+          "maxPrice": "58.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "58.00",
+          "maxPrice": "58.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "58.00",
+          "maxPrice": "58.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC, Balkon",
+      "description": "Gästehaus Xander: Zimmer mit Dusche / WC, Balkon, Telefon, SAT-TV, High-Speed Internet Conection, Safe, Mitbenützung von Hallenbad, Dampfbad, Sauna und Fitnessraum im Sporthotel Xander (20 Meter vom Haupthaus entfernt).",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Dusche, WC mit Balkon mit FÜ",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Dusche, WC mit Balkon mit HP",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "69.00",
+          "maxPrice": "69.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "69.00",
+          "maxPrice": "69.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

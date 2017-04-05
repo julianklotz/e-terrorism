@@ -1,0 +1,46 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CafeOrCoffeeShop",
+    "BarOrPub",
+    "Restaurant"
+  ],
+  "name": "Loungis - Bar",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3261516167974",
+    "longitude": "11.176082893254"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Loungis",
+    "streetAddress": "Mösererstraße 632",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2095",
+    "email": "info@loungis-seefeld.at",
+    "url": "http://www.loungis-seefeld.at"
+  },
+  "description": "Sitzplätze für ca. 40 Personen",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/31818e40-8915-465b-9acb-4d24e70b378e/99/image.jpg",
+      "caption": "Essen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/546578ab-05a2-4d18-a357-d32bce132bc7/99/image.jpg",
+      "caption": "Loungis Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6f1fefa9-181d-4d95-b964-928a7f39fb84/99/image.jpg",
+      "caption": "Loungis"
+    }
+  ],
+  "url": [
+    "http://www.loungis-seefeld.at"
+  ]
+}

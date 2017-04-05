@@ -1,0 +1,33 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Store"
+  ],
+  "name": "Benediktiner Seifenmanufaktur",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3275521867046",
+    "longitude": "11.1878800392151"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Benediktiner Seifenmanufaktur",
+    "streetAddress": "Innsbrucker Str. 14",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2013",
+    "email": "shop@seifenmanufaktur.at",
+    "url": "http://www.seifenmanufaktur.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c5c8a2b4-e88d-4642-98af-f127dd67b2a4/99/image.jpg",
+      "caption": "Benediktiner Seifenmanufaktur"
+    }
+  ],
+  "url": [
+    "http://www.seifenmanufaktur.at"
+  ]
+}

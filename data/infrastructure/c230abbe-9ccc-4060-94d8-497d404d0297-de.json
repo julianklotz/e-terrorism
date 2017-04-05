@@ -1,0 +1,33 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "EmergencyService"
+  ],
+  "name": "Bergrettung Leutasch",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3676511",
+    "longitude": "11.1424589"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Kirchplatzl 128",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 4354665",
+    "email": "leutasch@bergrettung-tirol.com",
+    "url": "http://www.leutasch.bergrettung-tirol.at"
+  },
+  "description": "Alpiner Notruf:\nTel. 140 (ohne Vorwahl auch vom Handy)\nTel. +43 (512) 140 (vom ausländischen Handy)\nEU-Notruf: Tel. 112 (ohne Vorwahl, auch vom Handy)\n\nAlpines Notsignal:\nInnerhalb einer Minute sechsmal in regelmäßigen Abständen ein akustisches Zeichen (z.B.: Rufen oder Pfeifen) oder ein optisches Signal abgeben (Schwenken eines weißen Tuches oder Blinkzeichen mit einer Taschenlampe) - ständiges Wiederholen mit einminütiger Pause. ",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/557f32a3-1a5a-4ac5-9849-a3e54c66d43e/99/image.jpg",
+      "caption": "Bergrettung"
+    }
+  ],
+  "url": [
+    "http://www.bergrettung-leutasch.com"
+  ]
+}

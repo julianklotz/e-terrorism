@@ -1,0 +1,243 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast",
+    "Hotel"
+  ],
+  "url": [
+    "http://www.gasthofgaistal.at",
+    "http://www.seefeld.com/de/unterkunft/gasthof-gaistal_dad-33439_accommodation",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Gasthof Gaistal",
+    "streetAddress": "Obern 39",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 20343",
+    "faxNumber": "(0043) 5214 203434",
+    "email": "zimmer@gasthofgaistal.at",
+    "url": "http://www.gasthofgaistal.at"
+  },
+  "name": "Gasthof Gaistal",
+  "description": [
+    "Ankommen ... Wohlfühlen ... Geniessen ... und sich wie zu Hause fühlen bei unserem familiär geführten Gasthof Gaistal. Zwischen der Tiroler Bergwelt. Schöne Komfort Zimmer alle mit einer herrlicher Aussicht auf Leutasch.\n\n",
+    "Bushaltestelle direkt vor der Haustüre, kostenfreies Parken, W-Lan inklusive, Willkommens Getränk.\nGegen Gebühr privat Sauna und Solarium.",
+    "Check-in: ab 14.00 Uhr / Check-out: bis 10.00 Uhr\n\nFolgen Sie den Gaistalwegweisern."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/eec4f9de-f95c-4b44-a9ac-1e7b5dc2397d/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/25193970-b67e-44bc-be4b-ff08ef14a1fb/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c152154e-a4a8-40c2-9d71-52b06d445cc7/99/image.jpg",
+      "caption": "Gang"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f575d133-3e0d-45fb-83f9-ac585ee1c73c/99/image.jpg",
+      "caption": "Stiegenhaus"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e1330347-3426-4980-a828-fb33d7b8ed37/99/image.jpg",
+      "caption": "Eingang"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4af1fadc-275b-4dc2-9857-b433a440e1e1/99/image.jpg",
+      "caption": "Terrasse"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9e05961e-31a4-498f-8b60-ab9b4b9da7f8/99/image.jpg",
+      "caption": "Gastraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6c5c6ec5-a034-4054-b8c4-637cbe645ae8/99/image.jpg",
+      "caption": "Gastraum1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/72a4bade-9650-4327-bbb1-14c88f6ffd7e/99/image.jpg",
+      "caption": "Gastraum2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a4c39d7a-3352-464d-abf6-a1df6a67272b/99/image.jpg",
+      "caption": "Gasthof bei Nacht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/25563812-6bcc-4a05-8c85-ed8873735fe0/99/image.jpg",
+      "caption": "Eingang bei Nacht"
+    }
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC, Balkon",
+      "description": "Zimmer mit Doppelbett, Sofa, Flat Screen TV, Sitzecke, Badezimmer und Balkon.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Dusche, WC und Balkon",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "80.00",
+          "maxPrice": "120.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "80.00",
+          "maxPrice": "120.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC, Komfort",
+      "description": "Zimmer mit Doppelbett, Flat Screen TV, Sitzecke und Badezimmer.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "70.00",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "70.00",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Suite, Toilette und Bad/Dusche getrennt, Superior",
+      "description": "Wohnbereich, Kaffee/Tee Ausstattung, 2 Doppelzimmer, Flat-Screen TV, großer Balkon, Badezimmer.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Tiroler Suite mit Dusche, WC und Balkon",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "2"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "130.00",
+          "maxPrice": "130.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Dreibettzimmer, Dusche, WC, 2 Schlafräume",
+      "description": "2 separate Schlafzimmer, Flat-Screen TV, Sitzecke, Badezimmer und Balkon.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Dreibettzimmer mit Dusche, WC und Balkon",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "2"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "110.00",
+          "maxPrice": "110.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "110.00",
+          "maxPrice": "110.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

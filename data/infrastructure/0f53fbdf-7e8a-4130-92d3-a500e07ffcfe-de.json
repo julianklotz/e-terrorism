@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation"
+  ],
+  "name": "Alpinpower Tiroler Skischule Seefeld, Alpiner Skilauf \u0026 Langlauf Ulrich Strauß",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Alpinpower Tiroler Skischule Seefeld",
+    "streetAddress": "Talstation Rosshütte 419",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 06803047222"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/08b72f4e-6419-42fd-a014-9d5bd254e5f2/99/image.jpg",
+      "caption": "Alpinpower"
+    }
+  ],
+  "url": [
+    "http://"
+  ]
+}

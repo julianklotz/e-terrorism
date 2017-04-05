@@ -1,0 +1,204 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.appartements-leutasch.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Landfrieden",
+    "streetAddress": "Obern 36",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6472",
+    "faxNumber": "(0043) 5214 6472",
+    "email": "ferienwohnungen@appartements-leutasch.at",
+    "url": "http://www.appartements-leutasch.at"
+  },
+  "name": "Haus Landfrieden",
+  "description": [
+    "Herzlich willkommen im Appartement Haus Landfrieden in der Leutasch bei Familie Maurer. Unser Haus mit seinen 3 gemütlich rustikal eingerichteten Appartements finden Sie im Ortsteil Obern. In unserem Leutasch Tal können Sie wunderschöne Wanderungen, Spaziergänge, Walking und Rad oder Mountainbike Touren im Sommer-Herbst unternehmen.\nIm Winter ist für Loipen Besucher der Einstieg direkt vor der Haustüre von Vorteil, doch auch die kleinen Besucher kommen nicht zu kurz, da sich ein Haus weiter ein toller Rodelhügel befindet.\nGanzjähriges Angebot im Leutasch Tal ist das Erlebnis-Alpenbad Leutasch mit Rutsche, sowie Sauna zum Entspannen.\n",
+    "inkl.: Heizung, Wasser, Müllgebühren, Stromkosten\n\nexkl.: Telefongesprächskosten, Ortstaxe, Endreinigung\n",
+    "Check in 15:00 Uhr / Check out 10:00 Uhr \n\nFolgen sie den Ortstafeln, Unser Haus liegt mitten im Ortskern von Obern neben der Kapelle und in der Näche vom Sparladen Gohm",
+    "Wandern,Langlauf, Skating, Rodeln, Berg gehen,Radfahren, Mounten Biken, Loipennähe, Klettern, jagen,"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/baf5fbac-dd56-40dc-bfcb-c79c6fa18e9f/99/image.jpg",
+      "caption": "Haus Landfrieden \u0026 Kapelle Obern Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/dbbd735a-0aff-4965-bc73-d1b73196ee99/99/image.jpg",
+      "caption": "Winterbild"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/548889cf-0c26-464e-b6e4-f81a6b502909/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0420a1b3-961d-4531-97c6-a13c7e0b656d/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/37ee4a92-70bc-40e4-94fe-f14000ec9dbc/99/image.jpg",
+      "caption": "Garten"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/fa99db75-405a-487a-9e0e-b1f0c8386157/99/image.jpg",
+      "caption": "Sommerbild"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/920ba6db-a838-4b8e-bcfe-8316a8af2288/99/image.jpg",
+      "caption": "Sommerbild 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6caf75b9-6d0c-4ad4-a41d-60953162f69a/99/image.jpg",
+      "caption": "Sommer Haus Landfrieden"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/530260c1-2a4a-40ed-895b-50a61498f498/99/image.jpg",
+      "caption": "Haus Landfrieden 2013"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.359407294232",
+    "longitude": "11.124385735423"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "Ferienwohnung im 1. Stock, Balkon- Südseite über die ganze Länge der FW, 2 Schlafzimmer, geräumige Wohnküche, Du u. WC getrennt",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment 1 /2 Schlafräume/Dusche, WC",
+          "description": "Ferienwohnung im 1. Stock, Balkon- Südseite über die ganze Länge der FW, 2 Schlafzimmer, geräumige Wohnküche, Du u. WC getrennt.",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "43.00",
+          "maxPrice": "71.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "43.00",
+          "maxPrice": "71.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "43.00",
+          "maxPrice": "71.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Im 1. Stock mit Balkon nach Westen, Wohnküche, Schlafzimmer, Du/Wc, Sat TV, Aussicht auf Hohe Munde",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment 2 /1 Schlafraum/Dusche, WC",
+          "description": "Im 1. Stock mit Balkon nach Westen, Wohnküche, Schlafzimmer, Du/Wc, Sat TV, Aussicht auf Hohe Munde",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "29.00",
+          "maxPrice": "57.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "29.00",
+          "maxPrice": "57.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "Befindet sich im 2. Stock und besteht aus einer Schlafkammer, Schlafzimmer, WC und Dusche, Wohnküche mit Sat-TV und Südbalkon.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment 3 /2 Schlafräume/Dusche, WC",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "40.00",
+          "maxPrice": "69.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "40.00",
+          "maxPrice": "69.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

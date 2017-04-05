@@ -1,0 +1,159 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.haus-moosplatzl.com",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Moosplatzl",
+    "streetAddress": "Moos 20 a",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6458",
+    "email": "haus.moosplatzl@aon.at",
+    "url": "http://www.haus-moosplatzl.com"
+  },
+  "name": "Haus Moosplatzl",
+  "description": [
+    "Unser Haus liegt am Waldrand ruhig und sonnig mitten in der schönen Natur mit freien Ausblick ins Hochgebirge. Zu jeder Wohnung gehört ein eigener Südbalkon wo fast den ganzen Tag die Sonne scheint. Idealer Ausgangspunkt für Wanderungen und Fahrradtouren. Nähe zur Loipe(50m), Rodelbahn Rauthütte (direkt hinterm Haus), Bushaltestelle, Geschäft und mehrere Gasthäuser. Im Sommer haben wir für die Kinder einen kleinen Spielplatz eingerichtet. Hinter dem Haus befindet sich ein schöner abschließbarer Raum für Fahrräder und Skier mit der Möglichkeit für die perfekte Wartung Ihrer Sportgeräte. Unsere Wohnungen sind gemütlich mit schönen Fichtenholz eingerichtet. Vor dem Haus befindet sich eine schöne Liegewiese wo sich unsere Gäste in den bereitgestellten Liegestühlen perfekt entspannen können.",
+    "INKLUSIVE: Heizung, Strom, Wasser, Brotservice, Tisch- u. Bett Wäsche, Handtücher die öfters gewechselt werden, Fahrräder, W-LAN Internet, im Winter die Loipengebühr sowie im Sommer der Eintritt in das Erlebnisbad Leutasch tägl. für 5 Stunden. \nEXKLUSIVE: Telefonkosten, Ortstaxe, Brot, Endreinigung. \nZu jeder Ferienwohnung stellen wir gratis einen überdachten Autounterstellplatz zur Verfügung! ",
+    "Anreise von Mittenwald (D) über Unteleutasch Schanz ca. 14 km, immer dem Straßenverlauf der Hauptstraße durchs ganze Leutaschtal bis Ortsteil Obern. Von Obern (Kapelle) links abbiegen ca. 400 m bis Ortsteil Moos. Auf der rechten Seite sehen Sie ein Hinweisschild - Haus Moosplatzl - nach rechts, vorbei am HAUS TIEFENBRUNNER ca. 50m von der Straße entfernt. Von Telfs kommend, direkt nach Moos.",
+    "Urlaub Leutasch Moos Rauthütte Langlauf Fahrrad Ruhe ruhig gemütlich freie Natur Sonne entspannen "
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/91ac3810-72d2-4198-ab95-7edaa1170d49/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8d9468dc-3424-4096-9f66-16dfcbb02ad7/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a619f231-7f8c-4dbb-8565-235c41479c70/99/image.jpg",
+      "caption": "Winterbild"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/af279241-bf09-4814-a986-ce994103bf93/99/image.jpg",
+      "caption": "Parkplatz"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/cc25f82e-f53a-485c-97c9-c4ac445ca463/99/image.jpg",
+      "caption": "carport"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ac36530f-92dc-4cd4-b231-42e519fda9df/99/image.jpg",
+      "caption": "blick nach süden"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3197b0fb-3edc-4e65-9738-0a889f10007c/99/image.jpg",
+      "caption": "Carport Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2677c993-8198-4dbb-94e9-9f3e0f841a6a/99/image.jpg",
+      "caption": "DSC_0121"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3553632404632",
+    "longitude": "11.1220545687992"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 2 Schlafräume",
+      "description": "Ferienwohnung im 1. Stock ca. 48 m². Vorraum, Bad/WC, DU/WC, Wohnzimmer,2 separate Schlafzimmer, 1 Südbalkon und 1 Westbalkon mit freier Aussicht, komplett eingerichtete Küchenzeile, Kühlschrank mit Gefrierfach. Flat TV 32\" mit SAT Empfang, Telefon,\nW-LAN Internet und Autounterstellplatz in unserem Carport kostenlos!\nEndreinigung: € 30,--\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "App. TYP A/2 Schlafräume/Dusche, Ba",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "50.00",
+          "maxPrice": "75.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "65.00",
+          "maxPrice": "85.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "65.00",
+          "maxPrice": "95.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "ca. 38 m², Vorraum, Wohnzimmer, separates Schlafzimmer, Südbalkon mit freier Aussicht, Du/WC,komplett eingerichtete Küchenzeile, Kühlschrank mit Gefrierfach. Flat TV 32\" mit SAT Empfang, Telefon,\nW-LAN Internet und Autounterstellplatz in unserem Carport kostenlos!\nEndreinigung: € 25,--\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "App. TYP B/1 Schlafraum/Dusche, W",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "44.00",
+          "maxPrice": "70.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "54.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

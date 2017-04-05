@@ -1,0 +1,151 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http:///www.reitherhof.at.",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Hotel Reitherhof",
+    "streetAddress": "Römerstrasse 36",
+    "addressLocality": "Reith bei Seefeld",
+    "postalCode": "6103",
+    "addressCountry": "AT",
+    "telephone": "0043 5212 3136",
+    "faxNumber": "(0043) 5212 3136",
+    "email": "hotel-reitherhof@aon.at",
+    "url": "http:///www.reitherhof.at."
+  },
+  "name": "Hotel Reitherhof",
+  "description": "Herzlich willkommen in unserem Familienbetrieb in zentraler Lage. Alle Zimmer mit Bad - Dusche, WC, TV, Balkon. Sauna, Fitness, Solarium, rustikale Aufenthaltsräume, Restaurant, Cafe, Bar, Wintergarten, Sonnenterrasse. Bushaltestelle direkt vor der Tür. Wir würden uns freuen, Sie hier bei uns begrüßen zu dürfen.",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "3.8",
+    "reviewCount": "258"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/92f6ca42-4fed-4c12-86cb-d1dc31c4eeb6/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c5985914-c08c-4976-b962-227325fa9aa4/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e92fb314-1305-4599-a592-0828720ca7aa/99/image.jpg",
+      "caption": "Hausansicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/20272518-d8d1-4ec7-99c4-03e846458f80/99/image.jpg",
+      "caption": "Wintergarten"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d30e312b-bc03-49d4-ba17-529f446e11a0/99/image.jpg",
+      "caption": "Wintergarten 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ea287710-7107-43f1-8764-92e6848facdf/99/image.jpg",
+      "caption": "Herr Reindl"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8baee123-7621-4289-9509-87a6372e4c65/99/image.jpg",
+      "caption": "Reither Moor"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/56a625e2-daba-4aad-86a8-8a7e19d02692/99/image.jpg",
+      "caption": "Hausfoto Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.298253828706",
+    "longitude": "11.205394601277"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Einzelzimmer, Dusche, WC",
+      "description": "Zimmer mit TV, Dusche, WC, Balkon;",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Einzelzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Zimmer mit TV, Dusche - WC (Bad) teilweise Balkon;\nKinderermäßigung auf Anfrage!",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Dreibettzimmer, Dusche, WC",
+      "description": "Zimmer mit Dusche/WC (Bad) und TV, Balkon.\nKinderermäßigungen auf Anfrage!",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Dreibettzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

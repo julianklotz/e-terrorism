@@ -1,0 +1,15 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Albrecht Dürer Weg 25 / Top 56",
+    "addressLocality": "Seefeld in Tirol",
+    "postalCode": "6100",
+    "addressCountry": "AT"
+  },
+  "name": "ZW - Gstöhl-Baumann Elisabeth",
+  "currenciesAccepted": "EUR"
+}

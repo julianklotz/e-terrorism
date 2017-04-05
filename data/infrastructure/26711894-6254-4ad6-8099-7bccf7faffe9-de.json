@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure",
+    "LocalBusiness"
+  ],
+  "name": "DVD-Verleihautomat - Shell Tankstelle",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3254286991508",
+    "longitude": "11.1897039413452"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Shell Tankstelle",
+    "streetAddress": "Innsbrucker Str. 272",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2914",
+    "url": "http://www.cinethek.at"
+  },
+  "description": [
+    " ",
+    "DVD-Verleih am Automaten, direkt bei der SHELL Tankstelle"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7143207e-68f5-430f-8ef2-f087fcd06254/99/image.jpg",
+      "caption": "DVD\u0027s"
+    }
+  ],
+  "url": [
+    "http://www.capi.at",
+    "http://www.capi.at"
+  ]
+}

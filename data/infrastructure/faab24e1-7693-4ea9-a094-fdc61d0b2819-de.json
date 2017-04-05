@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Landform",
+    "Hostel"
+  ],
+  "name": "Hallerangerhaus",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3547590857973",
+    "longitude": "11.4771804213524"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Hallerangerhaus",
+    "streetAddress": "Inrain 79",
+    "addressLocality": "Scharnitz",
+    "postalCode": "6108",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 8937583",
+    "email": "info@hallerangerhaus.at",
+    "url": "http://www.hallerangerhaus.at"
+  },
+  "description": "Das Hallerangerhaus liegt im Herzen des Alpenpark Karwendel, eingebettet in eine einzigartig schöne Naturlandschaft und ist Stützpunkt auf verschiedenen Weitwanderwegen. So zum Beispiel  dem Traumpfad München Venedig, dem Adlerweg oder auch dem Karwendel Höhenweg West.\nAusgestattet mit Duschen, Telefon, Trockenraum und einer schönen Sonnenterrasse, welche einlädt, die wunderbare Natur zu genießen und  Stress und Hektik des Alltages zu vergessen. \nUnser Haus bietet Platz für 86 Personen in Zimmern und Matratzenlager und ist von Anfang Juni bis Mitte Oktober geöffnet. Mitnahme von Hunden nur nach Rücksprache.\nAuf Ihren Besuch am Hallerangerhaus freut sich Familie Lehner mit Team. \nStempelstelle\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c175205e-5217-47bc-a4c4-e984654312bf/99/image.jpg",
+      "caption": "Hallerangerhaus"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6180d650-7bdd-42b1-bdeb-5236290d4f5d/99/image.jpg",
+      "caption": "Haus"
+    }
+  ],
+  "url": [
+    "http://www.hallerangerhaus.at"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Library"
+  ],
+  "name": "Öffentliche Bibliothek Seefeld, Leihbücherei",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3285048194771",
+    "longitude": "11.1865121126175"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Öffentliche Leihbücherei Seefeld",
+    "streetAddress": "Maximilianweg ",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 52877",
+    "faxNumber": " ",
+    "email": "info@bibliothek-seefeld.at",
+    "url": "http://www.bibliothek-seefeld.at"
+  },
+  "description": [
+    "Leihbücherei Seefeld - Öffentliche Leihbücherei im Pfarrhof \n(gegenüber der Pfarrkirche), Tel.: 05212/52877, www.bibliothek-seefeld.at \nLeseraum, 1 PC mit Internetzugang, Druckmöglichkeit, Wireless-Internetzugang, Bücher, E-Books, Hörbücher, Zeitschriften, Comics, Spiele, DVDs. Öffnungszeiten:  So, 10.30 -12.00 Uhr, Di, 17.00 - 18.30 Uhr, Do, 18.00 - 19.30 Uhr.",
+    "DI: 17.00 - 18.30 Uhr,\nDO: 18.00 - 19.30 Uhr,\nSO: 10.30 - 12.00 Uhr"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/aa032477-52f9-4902-ad59-3c8b418688d6/99/image.jpg",
+      "caption": "Leihbücherei Seefeld"
+    }
+  ],
+  "url": [
+    "http://www.bibliothek-seefeld.at"
+  ]
+}

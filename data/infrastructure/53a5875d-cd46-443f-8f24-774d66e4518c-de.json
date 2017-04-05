@@ -1,0 +1,29 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Store",
+    "ClothingStore"
+  ],
+  "name": "Outlet Factory",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3288502355128",
+    "longitude": "11.188405752182"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Outlet Factory",
+    "streetAddress": "Bahnhofstr. 389",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2474"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3d896a3d-1c39-481d-8d77-3ada2f3d2f16/99/image.jpg",
+      "caption": "Outlet Factory"
+    }
+  ]
+}

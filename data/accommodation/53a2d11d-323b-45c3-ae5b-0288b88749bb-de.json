@@ -1,0 +1,151 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.gaestehaus-paula.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Gästehaus Paula",
+    "streetAddress": "Föhrenwald 9",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6452",
+    "email": "gaestehaus-paula@aon.at",
+    "url": "http://www.gaestehaus-paula.at"
+  },
+  "name": "Gästehaus Paula",
+  "description": [
+    "Mitten in Leutasch, in sonniger Süd-Westlage in einer ruhigen Nebenstraße finden Sie unsere Nichtraucher-Frühstückspension. In nur wenigen Minuten erreichen Sie alle Einkaufsmöglichkeiten, viele Restaurants, die Bushaltestelle und die einmalige Natur, die Leutasch auszeichnet.\n\nUnsere 3 sonnigen, hellen Wohlfühlzimmer sind gemütlich und mit viel Liebe individuell im Tiroler Landhausstil eingerichtet.\n\nInklusiv-Leistungen:\nGenießer- Frühstück, W-LAN, Skischuhtrockner, Ski-Abstellraum, Gästekühlschrank, Granderwasser, gemütliche Sonnenterrasse \u0026 große Liegewiese, Parkplätze; Im Winter: gebührenfreie Loipenbenützung und Regio-Bus-Nutzung\n\nIdealer Ausgangspunkt für Langläufer (Loipeneinstieg in wenigen Minuten erreichbar), für Wandertouren, Mountainbike-Ausflüge \u0026 für Angler.\n\nWir freuen uns auf Sie!\n",
+    "freie Loipenbenützung sowie Regio-Bus-Nutzung\nGranderwasser - erhöht den Trinkgenuss, steigert Ihr Wohlbefinden und ist sanft zur Ihrer Haut und Ihrem Haar",
+    "Bei Ihrer Anreise stehen Ihnen unsere Zimmer ab 13.30 Uhr zur Verfügung.  Am Abreisetag bitten wir Sie die Zimmer bis 10.00 Uhr freizugeben. \n\nAnreise: \nvon Garmisch-Partenkirchen - Mittenwald - Leutasch/Unterleutasch -Gasse - Weidach - nach dem Informationsbüro links in die Seitenstraße abbiegen\noder\nvon Seefeld - Leutasch - Weidach - nach dem \"Jagdhof\" gleich rechts abbiegen\n\n"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a45ce94a-08c3-4ecd-aacc-211b4b9a2ceb/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c8f3786e-bc6a-435d-9251-1a22e5d18a5c/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/57cb8f15-3e45-4567-a130-b8238a526156/99/image.jpg",
+      "caption": "Frühstücksraum"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.373077445852",
+    "longitude": "11.166531830399"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC, Balkon",
+      "description": "Das ca. 20m² große Doppelzimmer ist im Tiroler Landhausstil eingerichtet und mit Du/WC, Fön und Kosmetikspiegel, Süd-Westbalkon mit Waldblick, Flat-TV und Safe sowie einer gemütlichen Sitzgelegenheit ausgestattet. ",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Vergissmeinnicht mit Dusche, WC, Balkon",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "25.50",
+          "maxPrice": "33.50",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC, Balkon",
+      "description": "Das ca. 19m² große Doppelzimmer ist im Tiroler Landhausstil eingerichtet und mit Du/WC, Fön und Kosmetikspiegel, Westbalkon mit Blick auf die Hohe Munde und das Wettersteingebirge, mit TV und Safe sowie einem gemütlichen Sofa ausgestattet.\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Enzian mit Dusche, WC, Balkon",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "22.50",
+          "maxPrice": "29.50",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC, Balkon",
+      "description": "Das ca. 18m² große Doppelzimmer ist im Tiroler Landhausstil eingerichtet und mit Du/WC, Fön und Kosmetikspiegel, Südbalkon mit Waldblick, Flat-TV und Safe sowie einer gemütlichen Sitzgelegenheit ausgestattet. ",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Arnika mit Dusche, WC, Balkon",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "22.50",
+          "maxPrice": "29.50",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

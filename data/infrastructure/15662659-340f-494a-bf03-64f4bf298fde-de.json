@@ -1,0 +1,33 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BankOrCreditUnion"
+  ],
+  "name": "Raiffeisenbank Seefeld",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3297046760012",
+    "longitude": "11.1875474452972"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Raiffeisenbank Seefeld",
+    "streetAddress": "Römerstraße 52",
+    "addressLocality": "Reith",
+    "postalCode": "6103",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2100",
+    "url": "http://www.rb-seefeld.at"
+  },
+  "description": "mit Indoor-Bankomat",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4f882783-1102-4fd3-b990-e587e9ea9b90/99/image.jpg",
+      "caption": "Raiffeisenbank Seefeld"
+    }
+  ],
+  "url": [
+    "http://www.rb-seefeld.at"
+  ]
+}

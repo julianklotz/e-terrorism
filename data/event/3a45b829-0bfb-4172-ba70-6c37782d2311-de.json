@@ -1,0 +1,51 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "Konzert mit dem Duo \"Le Bang Bang\"",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Interalpen-Hotel Tyrol GmbH",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Dr.Hans-Liebherr-Alpenstrasse 1",
+      "addressLocality": "Telfs-Buchen",
+      "postalCode": "6410",
+      "addressCountry": "AT",
+      "telephone": "+4305080930",
+      "faxNumber": "+4305080937190",
+      "email": "reservation@interalpen.com",
+      "url": "http://www.interalpen.com"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Interalpen-Hotel Tyrol GmbH",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Dr.Hans-Liebherr-Alpenstrasse 1",
+      "addressLocality": "Telfs-Buchen",
+      "postalCode": "6410",
+      "addressCountry": "AT",
+      "telephone": "+4305080930",
+      "faxNumber": "+4305080937190",
+      "email": "reservation@interalpen.com",
+      "url": "http://www.interalpen.com"
+    }
+  },
+  "description": "„Le Bang Bang“ ziehen ihren Songs den unnötigen Ballast vom Leib, bis es zwischen den Noten knistert. Seit nunmehr sechs Jahren wagen sich Stefanie Boltz und Sven Faller ausschließlich mit Stimme und Kontrabass bewaffnet auf Konzertbühnen jeder Größe. Ein musikalischer Drahtseilakt! Information auf www.interalpen.com.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/65b24160-8d21-4507-bddc-21046bc95f1a/99/image.jpg",
+      "caption": "Le Bang Bang"
+    }
+  ],
+  "url": [
+    "http://www.interalpen.com"
+  ],
+  "startDate": "2017-07-22T18:00:00",
+  "endDate": "2017-07-22"
+}

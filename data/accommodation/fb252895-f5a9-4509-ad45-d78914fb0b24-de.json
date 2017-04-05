@@ -1,0 +1,69 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.marlene-mair.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Krug",
+    "streetAddress": "Weidach 330",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6853",
+    "faxNumber": "(0043) 5214 6853 3",
+    "email": "mair.marlene@utanet.at",
+    "url": "http://www.marlene-mair.at"
+  },
+  "name": "Haus Krug",
+  "description": [
+    "Renoviertes, familiär geführtes Haus in ruhiger, sonniger und zentraler Lage. 2000m² Liegewiese. Einkaufsmöglichkeiten, Arzt, Alpenbad, Banken, Bushaltestelle, Langlaufloipe u. Lift, Kinderspielplatz, Spielpark zu Fuß in 2-5 Minuten zu erreichen. Seenähe; Idealer Ausgangspunkt für alle Wanderungen.\n\n                                                      A K T I O N\n                                               Wandern im Frühling\n\nDie schönste Zeit um unsere schöne Flora und Fauna zu bewundern ist der Frühling. Wir bieten unseren Gästen bei einem Aufenthalt von 2 Wochen 4 geführte Wanderungen und einen Grundkurs in Nordic-Walking zu einem Sonderpreis von \n                         \n                                                      € 500,-- inklusive aller Abgaben.\n\nDas Frühlingsangebot gilt von 1.5. bis 10.6.2006 für 2 Personen.",
+    "Inlusive:\nEndreinigung, Heizung, Strom, Wasser, Garage. Bei einem Aufenthalt von 14 Tagen eine geführte Wanderung und ein einstündiger Grundkurs in Nordic-Walking gratis.\nExklusive:\nTelefonkosten, Ortstaxe",
+    "Mittenwald - Leutasch - Weidach - Infobüro - Sparkasse - 20m 1. Seitenstraße links - 50m links - Haus Krug.\nSeefeld - Weidach - OMV Tankstelle - Frisör Claudia - rechts - sofort linke Seitenstrasse - 50m Links - Haus Krug"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/921df315-82f8-4e23-9a12-95cff4d6f39f/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6740f31d-eb78-4aeb-a38d-84fff04d4aad/99/image.jpg",
+      "caption": "Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.371784763655",
+    "longitude": "11.166240478879"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 2 Schlafräume",
+      "description": "1 Zi Dusche /WC, 1 Zi Dusche/bad/WC, Große Wohnküche mit Essecke für 6 Personen und Schlafgelgenheit f. 2 Pers. NEU, Küche: Herd mit 4 Kochplatten, Backrohr, Kühlschrank, Kaffeemaschine, Telfon mit Direktwahl, Farb-TV mit DVD Sat-Anl. großer Balkon",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Hohe Munde/2 Schlafräume/Dusche, Bad, WC",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "GroceryStore",
+    "CafeOrCoffeeShop"
+  ],
+  "name": "Reither Brot, Bäckerei Hueber",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3895610602939",
+    "longitude": "11.2649830159386"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Reither Brot - Filiale Scharnitz",
+    "streetAddress": "Innsbruckerstr. 76",
+    "addressLocality": "Scharnitz",
+    "postalCode": "6108",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5213 20235",
+    "url": "http://www.reither-brot.at"
+  },
+  "description": "Innsbruckerstrasse 76\nTel. Nr. 05213/20235",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6e1890a8-71c5-4a33-918e-d3e773bc6c23/99/image.jpg",
+      "caption": "Reither Brot neu"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/afa94778-5ed4-4e95-a3c7-3df2838a6430/99/image.jpg",
+      "caption": "Winter "
+    }
+  ],
+  "url": [
+    "http://www.reither-brot.at"
+  ]
+}

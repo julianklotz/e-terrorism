@@ -1,0 +1,55 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant"
+  ],
+  "name": "Weidachstube",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3699966013268",
+    "longitude": "11.1669672711639"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Weidachstube",
+    "streetAddress": "Weidach 373 b",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6456",
+    "email": "weidachstube@a1.net",
+    "url": "http://http://www.culinarium-alpentraum.at/restaurant-weidachstube.html"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/262cebf0-c077-4b64-86a9-ca382fef754d/99/image.jpg",
+      "caption": "1. Weidachstube"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d72edcf1-284c-43d4-85ed-79ceaa2257e5/99/image.jpg",
+      "caption": "Restaurant"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/744cef1b-0779-4afd-bb8e-c71c77c213cb/99/image.jpg",
+      "caption": "Restaurant Bild 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/24b8ad6b-86f9-41ce-af9b-b6ad48fcca6d/99/image.jpg",
+      "caption": "Pizzaofen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2233c2a9-a184-4079-97a5-622afdd55e6e/99/image.jpg",
+      "caption": "Küche"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e850ec02-883f-4fb5-b809-91ac3e4950f7/99/image.jpg",
+      "caption": "Küche Bild 2"
+    }
+  ]
+}

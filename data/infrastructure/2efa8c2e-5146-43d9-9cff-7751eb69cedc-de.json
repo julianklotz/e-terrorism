@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Winery"
+  ],
+  "name": "Weinseminar im Hotel Zum Gourmet",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3344965584104",
+    "longitude": "11.1900901794434"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Aktivhotel Zum Gourmet",
+    "streetAddress": "Geigenbühelstr. 158",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "+4352122101",
+    "faxNumber": "+4352124382",
+    "email": "info@zumgourmet.at",
+    "url": "http://www.zumgourmet.at"
+  },
+  "description": "Dipl. Sommeliere Christina Saurer gibt eine Einführung in das Weinland Österreich und Tipps, wie man Weine besser beurteilen kann. Jeden Donnerstag von 20.30 - 22.30 Uhr (ab 22.12.2016 bis 09.03.2017). Preis: € 25,00 mit Unterlagen und Verkostung. Anmeldung bis 10.00 Uhr des Veranstaltungstages,Tel. 05212/2101 oder christina@zumgourmet.at. Mindestteilnehmeranzahl 8 Personen.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/019f541a-139c-498e-89ca-018d016e23f4/99/image.jpg",
+      "caption": "Piktogramm"
+    }
+  ],
+  "url": [
+    "http://www.zumgourmet.at"
+  ]
+}

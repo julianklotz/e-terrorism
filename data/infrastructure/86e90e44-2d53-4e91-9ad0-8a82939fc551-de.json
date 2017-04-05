@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure",
+    "TrainStation",
+    "SportsActivityLocation"
+  ],
+  "name": "Geigenbühellift",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3322351931204",
+    "longitude": "11.1871933937073"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Geigenbühel Lift",
+    "streetAddress": "am Geigenbühel",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2777"
+  },
+  "description": "1 Schlepplift, nur im Winter geöffnet und 2 Förderbänder mit 33/100 Metern\nHöhe Skigebiet: 1.180 m - 1.236 m, \n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f161ba21-f121-479a-a074-0890ad2ae650/99/image.jpg",
+      "caption": "Geigenbühel"
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.hausamwiesenrain.com",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus am Wiesenrain",
+    "streetAddress": "Plaik 84 a",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6825",
+    "faxNumber": "(0043) 5214 6825",
+    "email": "bichler.wiesenrain@aon.at",
+    "url": "http://www.hausamwiesenrain.com"
+  },
+  "name": "Haus am Wiesenrain",
+  "description": [
+    "Unser Haus befindet sich auf einer kleinen Anhöhe im Ortsteil Plaik in einer kleinen Häusergruppe mit Aussicht auf ein Bergmassiv der Stubaier Alpen und dem Wettersteingebirge mit Hausberg Hohe Munde. Wir liegen umgeben von herrlichen Blumenwiesen und naturbelassener Berglandschaft mit ein paar Bauernhöfen in der Umgebung.\nDas Einfamilienhaus hat zwei Ferienwohnungen und ist neu renoviert und im leichten hellblau angemalt.\nAm Haus ist eine Terrasse mit anliegender Naturspielwiese mit Schaukel, Spielhäuschen und Sandkasten. Ein Parkplatz bietet für Platz für 3 PKW.",
+    "Inklusive: Endreinigung, Heizung, Wasser, Handtücher, Toilettenpapier, \nExklusive: Ortstaxe",
+    "Check-In 14.00 Uhr / Check-Out 9.00 Uhr\nVom Zentrum Weidach beim Info-Büro halten Sie sich bitte Richtung Oberleutasch, im Ortsteil Platzl befindet sich eine Reithalle, dort ist ein Wegweiser Telfs-Buchen, hier bitte nach rechts Richtung Wandergebiet Gaistal einbiegen und über Brücke fahren, dort beginnt Ortsteil Plaik, bei kleiner Kapelle davor die rechte Auffahrt zum Ferl-Hof Nr. 84 nehmen, unser Haus liegt 50m nördlich davon."
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "reviewCount": "20"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/09337525-e281-4bd3-b83d-4d148750352b/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d765da1f-f060-46ea-9835-089c68ff6d6b/99/image.jpg",
+      "caption": "Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.362415696366",
+    "longitude": "11.126816484817"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "Ferienwohnung mit 1 Schlafzimmer mit Duschkabine, ein Kinderzimmer, südseitig mit Balkon, eine Wohnküche mit Küchenzeile und sämtl. Geräten. Ceranfeld mit Backofen und Geschirrspüler. Gemütliche Sitzecke  und separaten Essplatz. Sat-Tv. Separate Dusche und Toilette.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/2 Schlafräume/Dusche, WC",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "60.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "65.00",
+          "maxPrice": "85.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "70.00",
+          "maxPrice": "90.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC",
+      "description": "Einraumappartment, südseitig mit Balkon, Betten, Nachtkästchen, Kommoden und Schubladen, Eckschrank, Sat-TV, kleiner Küche, Geschirr, (2 Kochplatten) Minibackofen (auf Wunsch Mikrowelle), Kühlschrank und Spüle. Dusche mit Toilette",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/Wohn-Schlafraum/Dusche, WC",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "2 Pers. Bikepackage / Gratis Fahrradverleih",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Genuss-Wandern, Apartment/Wohn-Schlafraum/Dusche, ",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "40.00",
+          "maxPrice": "55.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "45.00",
+          "maxPrice": "60.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "55.00",
+          "maxPrice": "55.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "45.00",
+          "maxPrice": "45.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

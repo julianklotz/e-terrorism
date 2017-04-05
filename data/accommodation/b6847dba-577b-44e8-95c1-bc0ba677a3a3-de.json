@@ -1,0 +1,250 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.abanico.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Abanico",
+    "streetAddress": "Geigenbühelstr. 209",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 3606",
+    "email": "urlaub@abanico.at",
+    "url": "http://www.abanico.at"
+  },
+  "name": "Haus Abanico",
+  "description": [
+    "Unser Haus liegt ruhig, sonnig, mit schönem Ausblick am Fuße des Geigenbühels–und doch erreichen Sie das Zentrum von Seefeld in nur wenigen Gehminuten. Der Sammelplatz der Schischule Seefeld sowie der Geigenbühel-Lift befinden sich direkt vor unserem Haus. Auch die Skibus-und Shuttlebushaltestelle mit direkten Verbindungen zum Skigebiet Rosshütte und Gschwandkopf sowie dem Langlaufbus zur Wildmoos-Alm befinden sich in unmittelbarer Nähe. Genießen Sie im hauseigenen Schiverleih „Modern Ski“ beste Beratung. Eleganz gepaart mit unaufdringlichem Luxus macht Ihre Urlaubszeit in unseren komplett ausgestatteten Appartements zum einmaligen Erlebnis!",
+    "Inkl.: Heizung, Strom, Wasser, Bettwäsche, (1x pro Woche), Handtücher (2x pro Woche), 1 überdachter Stellplatz je Appartement\nExcl.: Telekommunikationskosten, Haustiere",
+    "Check-In: ab 15:00 Uhr\nCheck-Out: bis 10:00 Uhr\nAnreise: B177 Ausfahrt Seefeld Nord, folgen Sie der Münchnerstraße südwärts, ca. 150 m nach dem Bahnübergang biegen Sie rechts in die Geigenbühelstraße ein. nun finden Sie unser Haus nach 50 m auf der linken Seite",
+    "Appartement,Ferienwohnung,Zentrum,Schilift,Skischule,Skiverleih,kinderfreundlich,Babyurlaub"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "reviewCount": "36"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/109ef478-1f73-4045-9171-32fe25a5d97c/99/image.jpg",
+      "caption": "Wohnbereich Typ II Haus Abanico Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d22a59a0-b162-4d00-9937-3f8795cd48ba/99/image.jpg",
+      "caption": "SüdWestAnsicht Abanico Appartements Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9d94ce71-4f6f-4a05-b379-9060cd871715/99/image.jpg",
+      "caption": "Eingang Abanico Apartments Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/23b36cf8-a28b-4a99-8ce9-715ebf9964d3/99/image.jpg",
+      "caption": "Frontansicht Abanico Appartements Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3e0c692f-594c-44dc-a117-0cf5de9b8452/99/image.jpg",
+      "caption": "Impressionen Abanico Appartements Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/774493f0-c59c-43af-8899-4cd981aa84f2/99/image.jpg",
+      "caption": "Impression Abanico Appartements Seefeld"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3323806214544",
+    "longitude": "11.1876225471497"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 2 Schlafräume",
+      "description": "Unsere Appartements „Typ II“ (ca. 80m²) verfügen über Wohnzimmer mit Schlafsofa, komplett ausgestatteter Küche inklusive Geschirrspüler, zwei Schlafzimmern (Vi-spring Betten), zwei Bäder (Bad/WC und Dusche/WC), Flat-TV, Radio, Telefon, W-LAN, Safe und Balkon. Sie bieten jeweils Platz für 2-6 Personen",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/2 Schlafräume/Bad, WC Typ II",
+          "description": "Unsere Appartements „Typ II“ (ca. 80m²) verfügen über Wohnzimmer mit Schlafsofa, komplett ausgestatteter Küche inklusive Geschirrspüler, zwei Schlafzimmern (Vi-spring Betten), zwei Bäder (Bad/WC und Dusche/WC), Flat-TV, Radio, Telefon, W-LAN, Safe und Balkon. Sie bieten jeweils Platz für 2-6 Personen",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "103.00",
+          "maxPrice": "165.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "103.00",
+          "maxPrice": "165.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "103.00",
+          "maxPrice": "165.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "120.00",
+          "maxPrice": "182.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "137.00",
+          "maxPrice": "199.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 1 Schlafraum",
+      "description": "Unsere Appartements „Typ I“ (ca. 60m²) verfügen über Wohnzimmer mit Schlafsofa, komplett ausgestatteter Küche inklusive Geschirrspüler, geräumigem Schlafzimmer (Vi-spring Betten), Bad/WC, zusätzlich separatem WC, Flat-TV, Radio, Telefon, W-LAN, Safe und Balkon bzw. Terrasse. Sie bieten jeweils Platz für 2-4 Personen.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/1 Schlafraum/Bad, WC Typ I",
+          "description": "Unsere Appartements „Typ I“ (ca. 60m²) verfügen über Wohnzimmer mit Schlafsofa, komplett ausgestatteter Küche inklusive Geschirrspüler, geräumigem Schlafzimmer (Vi-spring Betten), Bad/WC, zusätzlich separatem WC, Flat-TV, Radio, Telefon, W-LAN, Safe und Balkon bzw. Terrasse. Sie bieten jeweils Platz für 2-4 Personen.",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "72.00",
+          "maxPrice": "113.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "72.00",
+          "maxPrice": "113.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "99.00",
+          "maxPrice": "130.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 2 Schlafräume",
+      "description": "Unsere Appartements „Typ III“ (ca. 110m²) verfügen über ein großzügiges Wohnzimmer mit Schlafsofa, komplett ausgestatteter Küche inklusive Geschirrspüler, zwei geräumigen Schlafzimmern (Vi-spring Betten), zwei Bäder (Bad/WC und Dusche/WC), Flat-TV, Radio, Telefon, W-LAN, Safe und Balkon. Sie bieten jeweils Platz für 2-8 Personen.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/2 Schlafräume/Bad, WC Typ III",
+          "description": "Unsere Appartements „Typ III“ (ca. 110m²) verfügen über ein großzügiges Wohnzimmer mit Schlafsofa, komplett ausgestatteter Küche inklusive Geschirrspüler, zwei geräumigen Schlafzimmern (Vi-spring Betten), zwei Bäder (Bad/WC und Dusche/WC), Flat-TV, Radio, Telefon, W-LAN, Safe und Balkon. Sie bieten jeweils Platz für 2-8 Personen.",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "8",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "118.00",
+          "maxPrice": "144.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "118.00",
+          "maxPrice": "144.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "118.00",
+          "maxPrice": "144.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "135.00",
+          "maxPrice": "161.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "152.00",
+          "maxPrice": "178.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 7",
+          "minPrice": "169.00",
+          "maxPrice": "195.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 8",
+          "minPrice": "186.00",
+          "maxPrice": "212.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

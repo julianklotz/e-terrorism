@@ -1,0 +1,46 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "Konzert des 1. Ergoldinger Akkordeon-Orchesters (D)",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Informationsbüro Seefeld",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Klosterstraße 43",
+      "addressLocality": "Seefeld",
+      "postalCode": "6100",
+      "addressCountry": "AT",
+      "telephone": "+43508800",
+      "email": "region@seefeld.com",
+      "url": "http://www.seefeld.com"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Informationsbüro Seefeld",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Klosterstraße 43",
+      "addressLocality": "Seefeld",
+      "postalCode": "6100",
+      "addressCountry": "AT",
+      "telephone": "+43508800",
+      "email": "region@seefeld.com",
+      "url": "http://www.seefeld.com"
+    }
+  },
+  "description": "Der Musikpavillon im Kurpark Seefeld wird zwischen Mai bis Ende September wieder Dreh- und Angelpunkt eines bunten und unterhaltsamen Konzertprogrammes, welches sowohl einheimische Musikkapellen aus ganz Tirol, wie auch internationale musikalische Gäste miteinschließt. Der Eintritt zu allen Konzerten ist frei, die Musiker freuen sich über zahlreiche Besucher.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ed6a7b7e-c498-4ec2-805e-2b1002e777b9/99/image.jpg",
+      "caption": "Ergoldinger Akkordeion Orchester"
+    }
+  ],
+  "startDate": "2017-05-20T14:00:00",
+  "endDate": "2017-05-20"
+}

@@ -1,0 +1,90 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.öfeler-leutasch.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Öfeler",
+    "streetAddress": "Reindlau 225 b",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 20162",
+    "faxNumber": "(0043) 5214 20162",
+    "email": "haus-oefeler@aon.at",
+    "url": "http://www.öfeler-leutasch.at"
+  },
+  "name": "Haus Öfeler",
+  "description": [
+    "Das familienfreundliche \"Haus Öfeler\" liegt etwas außerhalb des Zentrums, direkt an zahlreichen Winterwanderwegen und Langlaufloipen.\nIm Sommer idealer Ausgangspunkt für verschiedene Wander-, Kletter- und Mountainbiketouren. \n",
+    "Inklusive: Stromkosten, Heizung, Wasser, Bettwäsche und Handtücher\nExklusive: Ortstaxe, Endreinigung",
+    "München - Garmisch - Mittenwald - Leutasch - Mautfrei\n\nFüssen - Reutten - Fernpass - Telfs - Leutasch\n\nBrenner - Innsbruck - Seefeld - Leutasch"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/923e9923-d17f-4a87-b105-83fc6385a3f1/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f00743cf-f97f-4028-9d75-8f74dcb762cb/99/image.jpg",
+      "caption": "Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.396872642931",
+    "longitude": "11.177284790444"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 1 Schlafraum",
+      "description": "Gemütliche und Komfortable FW im Tiroler Stil eingerichtet mit Balkon und herrlicher Aussicht.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Ahrnspitz/1 Schlafraum/Dusche, Bad, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "Gemütliche und Komfortable FW im Tiroler Stil eingerichtet mit 2 Balkonen und herrlicher Aussicht.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Gehrnspitz/2 Schlafräume/Dusche, WC",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "4"
+          }
+        }
+      ]
+    }
+  ]
+}

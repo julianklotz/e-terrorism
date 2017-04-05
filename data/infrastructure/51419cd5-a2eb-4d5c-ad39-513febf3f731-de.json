@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CafeOrCoffeeShop"
+  ],
+  "name": "Osteria Zum Stefan - Café Restaurant",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.316642553258",
+    "longitude": "11.1204114301636"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Bairbach 6a",
+    "addressLocality": "Mösern/Buchen",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5262 63260",
+    "email": "info@osteria-zumstefan.at"
+  },
+  "description": "Sitzplätze für ca. 70 Personen",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/afbd06b5-4b2b-4b41-b592-ee12abfd50d0/99/image.jpg",
+      "caption": "Zum Stefan"
+    }
+  ],
+  "url": [
+    "http://"
+  ]
+}

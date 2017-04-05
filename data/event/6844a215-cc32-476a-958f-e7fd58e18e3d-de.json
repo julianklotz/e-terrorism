@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "Fastensuppe essen bei der Föhrenwaldkrippe",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Föhrenwaldkrippe",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Föhrenwald",
+      "addressLocality": "Leutasch",
+      "postalCode": "6105",
+      "addressCountry": "AT"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Föhrenwaldkrippe",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Föhrenwald",
+      "addressLocality": "Leutasch",
+      "postalCode": "6105",
+      "addressCountry": "AT"
+    }
+  },
+  "description": "Die Suppen können entweder mitgenommen oder direkt Vorort konsumiert werden. Die Einnahmen kommen einen guten Zweck zu Gute.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ad10a07c-3f9a-4d4d-9c04-121461669411/99/image.jpg",
+      "caption": "föhrenwaldkrippe"
+    }
+  ],
+  "startDate": "2017-03-01T11:30:00",
+  "endDate": "2017-03-01"
+}

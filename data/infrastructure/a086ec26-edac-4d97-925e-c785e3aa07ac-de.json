@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation"
+  ],
+  "name": "Eislaufplatz und Eisstockbahn Scharnitz, Eisschießen, Eislaufen",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3844807",
+    "longitude": "11.2682978"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Eislaufplatz",
+    "streetAddress": "Länd 422",
+    "addressLocality": "Scharnitz",
+    "postalCode": "6108",
+    "addressCountry": "AT"
+  },
+  "description": "Natureislaufplatz:\nTägl. von 11.00 - 19.00 Uhr geöffnet,  Benützung auf eigene Gefahr\n\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1ad48cc4-2cb8-416b-a780-2deec8e9725a/99/image.jpg",
+      "caption": "Eisplatz"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/54386846-4d89-4173-b4d4-bc8cf508885a/99/image.jpg",
+      "caption": "Eislaufplatz"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7f2e3399-2cce-494a-82e3-3a51b6b3ba27/99/image.jpg",
+      "caption": "Eislaufen"
+    }
+  ]
+}

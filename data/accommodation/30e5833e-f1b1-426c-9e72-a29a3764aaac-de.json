@@ -1,0 +1,328 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.gaestehaus-neurauter.com",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Gästehaus Neurauter",
+    "streetAddress": "Am Kirchwald 340",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2323",
+    "faxNumber": "(0043) 5212 2323 6",
+    "email": "gaestehaus.neurauter@aon.at",
+    "url": "http://www.gaestehaus-neurauter.com"
+  },
+  "name": "Gästehaus Neurauter",
+  "description": [
+    "Genießen Sie Ihren wohlverdienten Urlaub bei uns im Gästehaus Neurauter in Seefeld. Die Familie Neurauter empfängt Sie das ganze Jahr über in heimeliger Atmosphäre. Lassen Sie sich von Ruhe und Natur pur verzaubern.\n\nDas Gästehaus Neurauter hat sowohl für Ihren Winter- als auch Ihren Sommerurlaub, mit Ihrem Partner oder Freunden, die optimale Lage. Wir befinden uns nur 8 Gehminuten vom Ortszentrum Seefeld entfernt, wo Sie traditionelle Gasthäuser finden und durch eine der ältesten Fußgängerzonen Tirols flanieren können. Für Ihren Aktivurlaub in Seefeld finden Sie das Olympia Sport- und Kongresszentrum in nur 5 Gehminuten Entfernung. Nur 50 Meter vom Gästehaus Neurauter entfernt, befindet sich die Haltestelle für den kostenlosen Dorf- und Skibus. Nützen Sie den Komfort, um bequem die Skigebiete Rosshütte und Gschwandtkopflifte zu erreichen.\n\nUnsere Zimmer im Gästehaus Neurauter in Seefeld, sind im Tiroler Stil, mit viel Holz und warmen Farben, eingerichtet. Die Badezimmer sind geräumig und mit Badewanne oder Dusche ausgestattet. Einige Zimmer verfügen über einen Südbalkon oder einer Terrasse, welche Ihnen nach einem aufregenden Skitag in der Olympiaregion Seefeld einen grandiosen Blick auf den Gschwandtkopf und die Rosshütte bieten. Beginnen Sie Ihren Tag mit einem energiereichen Frühstück auf unserer Sonnenterrasse und lassen Sie ihn in unserer Sauna ausklingen.\n\nLanglaufen in Seefeld, auf den Loipen, auf welchen 2019 die nordischen Skiweltmeisterschaften stattfinden werden. Ab unserem Gästehaus sind es nur 5 Gehminuten bis zum Einstieg in 271 km pures Langlaufvergnügen. Für unsere Hausgäste ist das Langlaufen gratis. Aber nicht nur das, ab unserem Haus können Sie auch einen Spaziergang durch die verschneite Winterlandschaft Seefelds genießen. Der morgendliche Blick, von unserem Haus, auf die frisch präparierten Skipisten des Gschwandtkopfes und der Rosshütte, lässt jedes Skifahrerherz höherschlagen.\n\nAuch in Ihrem Sommerurlaub bietet Ihnen das Gästehaus Neurauter in Seefeld den idealen Ausgangspunkt für Wander- und Mountainbiketouren. Markierte Wanderwege befinden sich direkt vor der Haustüre. Nach einem erlebnisreichen Tag in der Olympiaregion Seefeld gönnen Sie sich und Ihren müden Wanderfüßen eine Kneippeinheit. Die Kneippanlage (Lebensquelle) befindet sich nur 6 Gehminuten von unserem Gästehaus entfernt.\n\nDie Familie Neurauter, freut sich, Sie bald im Gästehaus Neurauter verwöhnen zu dürfen!\n",
+    "Sauna im Haus\nfreies WLAN\nParkplätze direkt vor dem Haus",
+    "Check-in: ab 14:00 Uhr\nCheck-out: bis 10:30 Uhr"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.2",
+    "reviewCount": "218"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1652e259-36db-454f-b050-b3612e9bab34/99/image.jpg",
+      "caption": "Neurauter Hausansicht Winter Seefeld in Tirol"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/85eda1ab-5f85-4c3c-975e-5d164229cbd1/99/image.jpg",
+      "caption": "Neurauter Hausansicht Sommer Seefeld in Tirol"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c2ce42f8-a857-4a32-83ac-7f8e5229be42/99/image.jpg",
+      "caption": "Neurauter Terrasse Sommer Seefeld in Tirol"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ea386170-5b3f-4db2-a1f7-bd4edec79a74/99/image.jpg",
+      "caption": "Neurauter Terrasse Winter Seefeld in Tirol"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d0bbbd71-cc3a-4a5d-aea7-99e376ef425d/99/image.jpg",
+      "caption": "Neurauter Terrasse Aussicht Winter Seefeld"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3276612676641",
+    "longitude": "11.1779773235321"
+  },
+  "paymentAccepted": [
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Einzelzimmer, Dusche, WC",
+      "description": "Zweibettzimmer als Einzelzimmer ohne Balkon, DU/WC, Kabel - TV, Internetanschluss, Tel, Radio, .Sauna Solarium im Hause.\nReichhaltige Frühstücksbüffet im Sommer auch auf der Terrasse möglich.\nParkplatz. Kostenlose Benützung aller Loipen.\nkostenloses WLan.\nWebsite: www.gaestehaus-neurauter.com",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Zweibettzimmer als Einzelzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "45.00",
+          "maxPrice": "49.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Panoramazimmer mit Südbalkon. Alle Zimmer sehr sonnig mit herrlicher unverbauter Aussicht,( Liegeterrasse ) Dusche/WC, Kabel-TV,Telefon, Radio Haarföhn. Kostenloses WLan im Zimmer.\nWebsite: www.gaestehaus-neurauter.com",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Panoramazimmer",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "35.00",
+          "maxPrice": "36.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Studio, Dusche, WC, Balkon",
+      "description": "Hochederblick Wohnstudio mit Südbalkon und Erker  herrliche Aussicht  2 Räume,  (Appartement ohne Küche, 2-4 Personen ) Du/WC getrennt, Kabel Tv, kostenloses WLan, Telefon, Radio.Haarföhn .\nWebsite: www.gaestehaus-neurauter.com",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "2-Raum Studio",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "49.00",
+          "maxPrice": "62.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "49.00",
+          "maxPrice": "62.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "49.00",
+          "maxPrice": "62.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Studio, Dusche oder Bad, WC, Balkon",
+      "description": "Gschwandtkopf-(Nr. 15)  komfortables Wohnstudio mit Balkon 1 Raum, (Appartement ohne Küche ), 2-4 Personen, Du Wc getrennt.  Kabel TV, Internetanschluss im Zimmer, Telefon, Radio, Haarfön. \nKarwendelblick Nr.23 )komfortables Wohnstudio mit Balkon 1 Raum, ( Appartement ohne Küche,) 2-4 Personen, Dusc Wc.  Kabel TV, Intern.  \nSauna und Solarium im Haus.Kostenlose Loipenbenützung\nReichhaltiges Frühstücksbüffet.Im Sommer auch auf der Terrasse möglich. \n \nHomepage www.gaestehaus-neurauter.com",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "1-Raum Studio",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "38.00",
+          "maxPrice": "45.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "38.00",
+          "maxPrice": "45.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "38.00",
+          "maxPrice": "45.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche oder Bad, WC, Terrasse",
+      "description": "Komfortable Doppelzimmer mit Südbalkon, Erker oder Sitzecke, zusätzlicher Loggia, Dusche oder Bad und WC .\nAlle Zimmer mit Kabel TV, Telefon, Radio, kostenloses WLan.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Erker, Balkon und Terrasse",
+          "description": "",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "33.00",
+          "maxPrice": "45.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Zweibettzimmer, Dusche, WC",
+      "description": "Zweibettzimmer mit getrennt stehende Betten ohne Balkon, DU/WC, Kabel - TV, kostenloses WLan, Tel, Radio.  \n\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Zweibettzimmer",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "37.00",
+          "maxPrice": "42.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche oder Bad, Balkon",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer, Dusche oder Bad, Balkon",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "0"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "39.00",
+          "maxPrice": "42.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

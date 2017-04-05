@@ -1,0 +1,30 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Store",
+    "JewelryStore"
+  ],
+  "name": "Tiroler Schmuckkastl Armbruster OG",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3280175972286",
+    "longitude": "11.1874186992645"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Tiroler Schmuckkastl Armbruster OG",
+    "streetAddress": "Innsbrucker Str. 22",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2317",
+    "url": "http://www.armbruster.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f0a5f0ef-3e2b-482e-a221-7650fa8f3203/99/image.jpg",
+      "caption": "Tiroler Schmuckkastl"
+    }
+  ]
+}

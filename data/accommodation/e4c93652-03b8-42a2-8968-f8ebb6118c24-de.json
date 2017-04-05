@@ -1,0 +1,19 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Appartement Inntalblick",
+    "streetAddress": "Albrecht Dürer Weg 23 / Top 23",
+    "addressLocality": "Mösern bei Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "+436608186373",
+    "faxNumber": "+43521252777",
+    "email": "haus.inntalblick@gmx.at"
+  },
+  "name": "ZW-Loeb Micha",
+  "currenciesAccepted": "EUR"
+}

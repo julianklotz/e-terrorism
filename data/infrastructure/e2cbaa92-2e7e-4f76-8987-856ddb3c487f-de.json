@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant",
+    "CafeOrCoffeeShop"
+  ],
+  "name": "Gasthof Brücke",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.4190450973415",
+    "longitude": "11.2193278306885"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Burggraben 257",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6930",
+    "faxNumber": "(0043) ",
+    "email": "zur.bruecke@aon.at",
+    "url": "http://www.zurbruecke-leutasch.com"
+  },
+  "description": "Sitzplätze für ca. 50 Personen, Stempelstelle\n\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ea9fa174-d7dc-45cf-ba10-10044cbfad8c/99/image.jpg",
+      "caption": "Impression"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e9b96e61-e0a9-4844-aaca-5786e5353273/99/image.jpg",
+      "caption": "Gasthof Brücke"
+    }
+  ],
+  "url": [
+    "http://www.zurbruecke-leutasch.com"
+  ]
+}

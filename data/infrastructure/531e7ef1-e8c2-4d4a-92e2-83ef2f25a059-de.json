@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CafeOrCoffeeShop"
+  ],
+  "name": "Bäckerei Pichler",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3781752",
+    "longitude": "11.1574126"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Pension Pichler",
+    "streetAddress": "Gasse 167",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6246",
+    "faxNumber": "(0043) 5214 6246 6",
+    "email": "info@pension-pichler.at",
+    "url": "http://www.pension-pichler.at"
+  },
+  "description": "Gasse 167\nTel.: +43 5214/6247",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ce345da7-f6da-4dc8-b4dd-438e74bcbdae/99/image.jpg",
+      "caption": "Bäckerei"
+    }
+  ],
+  "url": [
+    "http://www.pension-pichler.at"
+  ]
+}

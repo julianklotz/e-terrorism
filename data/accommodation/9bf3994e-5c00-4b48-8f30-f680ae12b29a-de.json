@@ -1,0 +1,74 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.suedtirolerstube.com",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Suedtiroler Stube",
+    "streetAddress": "Reitherspitzstr. 17",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "0043 5212 50446",
+    "faxNumber": "0043 5212 51902",
+    "email": "guido@suedtirolerstube.com",
+    "url": "http://www.suedtirolerstube.com"
+  },
+  "name": "Südtiroler Stube",
+  "description": [
+    "Im Haus Südtirolerstube wohnen Sie in bester, zentraler Lage am Beginn der Fußgängerzone in unmittelbarer Nähe zum Casino sowie der Bus- und Bahnstation.",
+    "Inkl. Wasser, Strom, Bettwäsche, \n",
+    "Von Deutschland: Ausfahrt Seefeld Mitte, gerade aus bis Zentrum, nach dem Bahnübergang links, 300 m gerade aus!\n\nVon Innsbruck: Ausfahrt Seefeld Süd bis Zentrum, bei neuem Fiakerstandplatz rechts!"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "reviewCount": "39"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8a43a635-bc3a-436a-800c-fd95e1af70e9/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/83fe93c5-0777-4225-992f-fe27ae5bf978/99/image.jpg",
+      "caption": "Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3275303704856",
+    "longitude": "11.1886847019196"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 1 Schlafraum",
+      "description": "Gemütliches, elegantes App.im Zentrum für 2-3 Personen. Modern eingerichtet mit Vorraum, Küche und Schlafzimmer, großzügigem Bad, 2 Balkone, Parkplatz, 15% Ermäßigung im Restaurant.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement/1 Schlafraum/Dusche, Bad, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ]
+    }
+  ]
+}

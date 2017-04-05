@@ -1,0 +1,97 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.katharina-seefeld.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Gästehaus Friedrich",
+    "streetAddress": "Am Kirchwald 552/1",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 4397",
+    "faxNumber": "(0043) 5212 4397",
+    "email": "haus@katharina-seefeld.at",
+    "url": "http://www.katharina-seefeld.at"
+  },
+  "name": "Gästehaus Friedrich",
+  "description": [
+    "Das Wohlfühl-Appartement mit ca. 100m² für 2-4 Erwachsene verfügt über ein Schlafzimmer mit begehbarem Schrank und TV, ein Schlafzimmer mit getrennten Betten, einem großen Bad mit Eckbadewanne und Dusche sowie einem Doppelwaschbecken und WC, noch ein zusätzliches getrenntes WC, neue voll ausgestattete Küche mit Geschirrspüler,Backofen, Herd, Wasserkocher, Toaster und Essecke, ein sehr großes Wohnzimmer in hellen Holz-Einbau-Möbeln mit großer Leder-Eckcoutch und Esstisch, Kabel-FLAT-TV, Radio, Balkon zur Süd-Seite mit Blick zum Geschwandtkopf und einen Abstellraum. Auto-Abstellplatz. Gratis W-Lan. Brötchenservice möglich.Shuttlebus-Haltestelle in unmittelbarer Nähe. Waldnähe mit schönen Wanderwegen. Langlauf-Einstiegsstelle ca. 5 Minuten entfernt.\n",
+    "INKLUSIVE: Bettwäsche, Handtücher, Heizung, Strom, Wasser, kostenloser Eintritt im Freizeitbereich des Hotels Central (ca. 5 Min. entfernt) mit Sauna, Erlebnisduschen, Kneipprondell, Dampfbad, Fitnessbereich,\n",
+    "Sonnige und ruhige Lage in der Nähe des Sport u. Kongesszentrums Olympia, der Eislaufplätze, Tennishallen und Freiplätze, der Loipen und Schilifte. Ca 5 Minuten zur Fussgängerzone."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7c87bc96-691f-4757-8e39-2bdd11d7ea46/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/08058776-f4dd-4456-aff0-0555bca8c144/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/25b9da26-86e5-46ef-989c-ad16aecad914/99/image.jpg",
+      "caption": "Aussicht Winter"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.328286660817",
+    "longitude": "11.1776554584503"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 2 Schlafräume",
+      "description": "Haus Friedrich, Kirchwald 552, A-6100 Seefeld, Tel.:0043 5212 4397 , haus@katharina-seefeld.at  ,  www.katharina-seefeld.at \n3-Raum-Appartement (ca. 100 m2) mit 2 Schlafzimmern, komplett ausgestattete neue Küche mit Geschirrspüler und Essecke, sehr großes Wohnzimmer mit Kabel- Flat-TV und großes Bad mit Dusche und Eckbadewanne, Doppelwaschbecken und WC, extra WC,  Abstellraum. Für max. 4 ERWACHSENE. Brötchenservice möglich. GRATIS W-LAN und GRATIS EINTRITT in den Wellnessbereich im Hotel Central.\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Wohlfühlappartement/2 Schlafräume/Du und Bad",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "75.00",
+          "maxPrice": "155.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "85.00",
+          "maxPrice": "155.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "95.00",
+          "maxPrice": "155.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

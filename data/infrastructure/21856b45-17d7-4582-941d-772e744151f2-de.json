@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant"
+  ],
+  "name": "Hotel Central",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3300391765976",
+    "longitude": "11.1877405643463"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Hotel Central",
+    "streetAddress": "Münchnerstr. 41",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 3288",
+    "faxNumber": "(0043) 5212 3288 66",
+    "email": "central@seefeld.at",
+    "url": "http://www.central-seefeld.at"
+  },
+  "description": [
+    " ",
+    "Sitzplätze für ca. 50 Personen\n\nTirol ist ein Land der Kulinarischen Genüsse. Überzeugen Sie sich davon bei Ihrem nächsten Urlaub in Österreich.\n\nBei der Zubereitung geben wir unseren heimischen Produkten den Vorzug. Unbeschwertes Genießen gehört zu den schönsten Dingen des Lebens und darf deshalb weder  im Sommer-, noch im Winterurlaub fehlen.\n\nÖsterreichische Herzlichkeit und ein edler Tropfen aus unserem Weinkeller runden unser kulinarisches Angebot ab.\n\nTesten Sie erlesene Weinspezialitäten bei der wöchentlichen Weinverkostung mit dem Chef des Hauses. Dabei werden sowohl typische österreichische Rotweine, wie der Blaue Zweigelt, der Blaufränkische oder der St. Laurent verkostet, als auch die klassischen österreichischen Weißweine, wie der Grüne Veltliner, der Welschriesling oder der Chardonnay."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b63d7935-7f14-497b-9491-2c8a4ccf6183/99/image.jpg",
+      "caption": "Hotel Central Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/56fe8ef5-f9da-4133-8111-d7869937dc47/99/image.jpg",
+      "caption": "Hotel Central Winter"
+    }
+  ],
+  "url": [
+    "http://www.central-seefeld.at"
+  ]
+}

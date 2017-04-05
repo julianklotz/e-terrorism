@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportingGoodsStore"
+  ],
+  "name": "Sportalm Gapp",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3634204010869",
+    "longitude": "11.1663794517517"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Sportalm",
+    "streetAddress": "Kreith 381 c",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6375",
+    "faxNumber": "(0043) 5214 20012",
+    "email": "sportalm@weidacherhof.at",
+    "url": "http://www.schiverleih-leutasch.at"
+  },
+  "description": "Weidach 381 c\nTel.: +43 5214/6375\n\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/fe53f083-a905-44b0-afda-ae423b3448dc/99/image.jpg",
+      "caption": "Bild1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/952d4291-8eda-4a39-8012-f08aa8cc3130/99/image.png",
+      "caption": "logo"
+    }
+  ],
+  "url": [
+    "http://www.schiverleih-leutasch.at"
+  ]
+}

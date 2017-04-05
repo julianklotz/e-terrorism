@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure",
+    "SportsActivityLocation"
+  ],
+  "name": "Brandlift Scharnitz und Schiverleih Brandlift",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3840041683652",
+    "longitude": "11.2619948387146"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Brandlift",
+    "streetAddress": "Brand 390",
+    "addressLocality": "Scharnitz",
+    "postalCode": "6108",
+    "addressCountry": "AT",
+    "telephone": "(0043)664 9175135 ",
+    "email": "info@brandlift.at",
+    "url": "http://www.brandlift.at"
+  },
+  "description": [
+    "Alpin komplett pro Tag \t€ 11,00\nLanglauf komplett pro Tag \t€ 10,00\nSchischuhe pro Tag \t€ 4,00\nStöcke pro Tag \t\t€ 2,00\nRodel pro Tag \t\t€ 3,00\nFun Carver pro Tag \t€ 8,00\nBig Foot pro Tag \t€ 8,00\nSnowboard pro Tag \t€ 16,00\nSnowboard ½ Tag \t€ 8,00\nSnowboard Boots pro Tag \t€ 4,00\n",
+    "Im Winter von ca. Mitte Dezember bis ca. Mitte März geöffnet!"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c7964f23-4977-491c-837b-88437ad123fb/99/image.gif",
+      "caption": "Brandlift"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4d87c8e9-80ab-483c-81d4-750f375be7ef/99/image.jpg",
+      "caption": "Schlepplift"
+    }
+  ],
+  "url": [
+    "http://www.brandlift.at",
+    "http://www.karwendelcamp.at",
+    "http://www.seefeld.com"
+  ]
+}

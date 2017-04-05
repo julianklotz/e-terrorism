@@ -1,0 +1,68 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://seefeld-urlaub.com",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Enzian",
+    "streetAddress": "Milserstr. 299",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5223 492301",
+    "email": "enzian@tsn.at",
+    "url": "http://seefeld-urlaub.com"
+  },
+  "name": "Haus Enzian",
+  "description": [
+    "Das Haus Enzian liegt in ruhiger und zentraler Lage, ca. 5 Gehminuten vom Dorfzentrum. Es besteht die Möglichkeit eine Garage anzumieten.",
+    "inkl.: Heizung, Wasser, Strom, Handtücher, Bettwäsche\nexkl.: evtl. Garage\n\ncheck-in: ab 15.00 Uhr\ncheck-out: bis 11.00 Uhr",
+    "",
+    "Appartement, Seefeld, Urlaub in Seefeld, Ferienwohnung, Appartement in Seefeld, Unterkunft, Seefeld"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0d782050-0555-4b21-9ccc-0e869eb318e3/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/bd358212-281f-41f0-82c4-04c7e8e93610/99/image.jpg",
+      "caption": "Winter"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3277048999848",
+    "longitude": "11.1920320987701"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ]
+    }
+  ]
+}

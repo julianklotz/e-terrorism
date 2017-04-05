@@ -1,0 +1,82 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Campground"
+  ],
+  "url": [
+    "http://www.camp-alpin.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Camp Alpin Seefeld",
+    "streetAddress": "Leutascherstrasse 810",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 4848",
+    "faxNumber": "(0043) 5212 4848 10",
+    "email": "info@camp-alpin.at",
+    "url": "http://www.camp-alpin.at"
+  },
+  "name": "Camp Alpin Seefeld",
+  "description": [
+    "Das erwartet Sie: 140 Komfortstellplätze, alle mit Gas, Tv, Strom und Kanal. \n*Kiosk für den täglichen Bedarf (frische Brötchen; Zeitungen usw.) *Restaurant mit ausgezeichneter Küche, Fernsehraum, Behinderten-WC und Duschen, Duschen und Waschkabinen zur freien Benützung, zu mieten: komfortables Einzelbad mit Dusche und WC (abschließbar), Bushaltestelle, Sauna, Dampfbad, Liegeraum, frei benützbar, zentrales Sanitärgebäude, Geschirrspülraum, Waschmaschine,  mit Münzautomat und Trockner, Kinderspielplatz, Jugendaufenthaltsraum, Hundedusche, Entsorgungsanlage für Chemie-Toiletten etc. etc.",
+    "Alle Komfortstellplätze verfügen über 22 TV und Radioprogramme, 16 Ampere-Stromanschlüsse, Abwasserkanal und eine modernst ausgestattete Gasstraße.\n\nSauna und Dampfbad sind für unsere Gäste zur freien Benützung!\nHaustier pro Tag € 4,50; Strom,\nCheck in:  8.00 Uhr\nCheck out: 12.00 Uhr",
+    "Camping, Appartments, Seefeld, Österreich, Tirol, Wellness, Run, Sport, Wandern, Langlauf, Ski"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "reviewCount": "36"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/68243948-7cfa-48b8-af55-347ccfea1604/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/df150a00-a979-4c39-9933-a7e06cd13006/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1594cb6a-3af6-4bf9-a88d-cb915133a63a/99/image.jpg",
+      "caption": "Camp Restaurant"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3370959181688",
+    "longitude": "11.1782079935074"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Stellplatz",
+      "description": "Das erwartet Sie: 140 Komfortstellplätze, alle mit Gas, Tv, Strom und Kanal. \n*Kiosk für den täglichen Bedarf (frische Brötchen; Zeitungen usw.) *Restaurant mit ausgezeichneter Küche, Fernsehraum, Behinderten-WC und Duschen, Duschen und Waschkabinen zur freien Benützung, zu mieten: komfortables Einzelbad mit Dusche und WC (abschließbar), Bushaltestelle, Sauna, Dampfbad, Liegeraum, frei benützbar, zentrales Sanitärgebäude, Geschirrspülraum, Waschmaschine,  mit Münzautomat und Trockner, Kinderspie",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Komfortstellplatz A",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ]
+    }
+  ]
+}

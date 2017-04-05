@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BarOrPub"
+  ],
+  "name": "Espresso Lounge - Bar - Café",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Espresso Lounge",
+    "streetAddress": "Bahnhofsplatz 613 - Cittypassage",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 699 14060299"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/174fe25e-e94f-4d84-92a8-4e4c068fadc3/99/image.jpg",
+      "caption": "Esspresso Lounge"
+    }
+  ],
+  "url": [
+    "http://"
+  ]
+}

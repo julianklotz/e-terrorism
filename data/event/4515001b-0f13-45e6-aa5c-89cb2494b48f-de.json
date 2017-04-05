@@ -1,0 +1,46 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "Kontaktkaffee - Hilfe, meine Eltern werden alt!",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Katholischer Familienverband",
+    "employee": {
+      "@type": "Person",
+      "givenName": "Lisi",
+      "familyName": "Krug"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Kirchplatzl",
+      "addressLocality": "Leutasch",
+      "postalCode": "6105",
+      "addressCountry": "AT",
+      "telephone": "(0043) 5214 6090"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "\"Lui-Treff\" in der Gemeinde",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Kirchplatz 128a",
+      "addressLocality": "Leutasch",
+      "postalCode": "6105",
+      "addressCountry": "AT"
+    }
+  },
+  "description": "Was es als Angehöriger heißt, betroffen zu sein. Mit Mag. Sabine Sulzenbacher und Beate Stelzl. Freiwillige Spenden. Nähere Informationen bei Elisabeth, Tel. 05214 6090.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a749e638-d141-46b5-8703-b947a576ac26/99/image.jpg",
+      "caption": "Familie"
+    }
+  ],
+  "startDate": "2017-03-16T09:00:00",
+  "endDate": "2017-03-16"
+}

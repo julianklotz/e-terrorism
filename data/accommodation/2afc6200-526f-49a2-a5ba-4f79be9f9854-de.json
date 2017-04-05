@@ -1,0 +1,108 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast",
+    "Hotel"
+  ],
+  "url": [
+    "http://www.menthof.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Gasthof Menthof",
+    "streetAddress": "Brochweg 15",
+    "addressLocality": "Mösern",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "+4352124756",
+    "faxNumber": "+43521247568",
+    "email": "info@menthof.at",
+    "url": "http://www.menthof.at"
+  },
+  "name": "Gasthof Menthof",
+  "description": [
+    "Verbringen Sie einen einmaligen Urlaub im Herzen der Alpen, mit allen Sport- und Freizeitaktivitäten, die Sie sich vorstellen können in der näheren Umgebung!\nDas alteingesessene Gasthaus liegt in absolut ruhiger Lage auf 1.250 m mit einmaligem Ausblick über das Inntal. Wir verwöhnen Sie mit unserer bekannt guten Küche und einer großen Auswahl an Speisen aus der Region. Genießen Sie unsere hausgemachten Mehlspeisen auf unserer Sonnenterrasse oder in unserem Restaurant. Der idyllische Möserer Badesee ist in nur 5 Gehminuten von unserem Haus zu erreichen. Auch die Loipen können Sie in 5 Minuten zu Fuß errreichen.",
+    "Zimmer mit Halbpension buchbar ab 7 Tagen Aufenthalt",
+    "Check in ab 12.00 Uhr | Check out 11.00 Uhr\nVon Seefeld kommend beim Feuerwehrhaus rechts abbiegen. Nach 50 m links abbiegen."
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "reviewCount": "95"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b1c9a64a-6c1f-4a18-ad05-9f2af0e6d699/99/image.jpg",
+      "caption": "Winter Aussicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/69c1ebbd-6180-4f12-8136-a3424490ea2a/99/image.jpg",
+      "caption": "Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.31280463182",
+    "longitude": "11.14289406834"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Bad, WC",
+      "description": "Ruhig gelegenes Zimmer mit Südbalkon und einmaligem Blick über das Inntal.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Bad, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "30.80",
+          "maxPrice": "30.80",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 1 Schlafraum",
+      "description": "gemütliche Appartements mit Balkon und einmaligem Blick über das Inntal",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/1 Schlafraum/Bad, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure",
+    "LocalBusiness"
+  ],
+  "name": "Joslhof",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.4024061647331",
+    "longitude": "11.1899965510651"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Lochlehn 232",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT"
+  },
+  "url": [
+    "http://"
+  ]
+}

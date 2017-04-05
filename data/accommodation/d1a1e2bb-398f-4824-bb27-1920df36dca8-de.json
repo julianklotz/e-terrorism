@@ -1,0 +1,27 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Hotel Waldfrieden",
+    "streetAddress": "Reitherspitzstr. 166",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2216",
+    "faxNumber": "(0043) 5212 221622",
+    "email": "waldfrieden.seefeld@aon.at"
+  },
+  "name": "Hotel Waldfrieden",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3257668629862",
+    "longitude": "11.1946177482605"
+  },
+  "currenciesAccepted": "EUR"
+}

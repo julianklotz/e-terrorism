@@ -1,0 +1,37 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Church"
+  ],
+  "name": "Rosenkapelle (Nikolauskapelle) in Reith",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2985336",
+    "longitude": "11.2037905"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Pfarramt Reith",
+    "streetAddress": "Römerstraße 24",
+    "addressLocality": "Reith bei Seefeld",
+    "postalCode": "6103",
+    "addressCountry": "AT",
+    "telephone": "(0043)521252782 ",
+    "email": "Pfarre.Reith@dibk.at",
+    "url": "http://www.dibk.at"
+  },
+  "description": [
+    "Nischenkapelle aus dem 17. Jahrhundert mit modernem Altarbild\n(hl. Nikolaus ) von J. Obleitner und seitlichen Bildern mit den Hl. Augustinus\nund Nikolaus bzw. Magdalena und Vitus aus dem frühen 18. Jahrhundert.\nDer Grund für den Bau dieses Bildstockes ist nicht bekannt und überliefert.",
+    "Nischenkapelle aus dem 17. Jahrhundert mit modernem Altarbild\n(hl. Nikolaus ) von J. Obleitner und seitlichen Bildern mit den Hl. Augustinus\nund Nikolaus bzw. Magdalena und Vitus aus dem frühen 18. Jahrhundert.\nDer Grund für den Bau dieses Bildstockes ist nicht bekannt und überliefert."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6d9bbb19-aa68-43fc-a746-5c611c80824d/99/image.jpg",
+      "caption": "Kapelle"
+    }
+  ],
+  "url": [
+    "http://www.dibk.at"
+  ]
+}

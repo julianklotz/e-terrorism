@@ -1,0 +1,244 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://www.naturwirt.at"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Naturwirt",
+    "streetAddress": "Gasse 190",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 20182",
+    "faxNumber": "(0043) 5214 20182 22",
+    "email": "info@naturwirt.at",
+    "url": "http://www.naturwirt.at"
+  },
+  "name": "Naturwirt",
+  "description": "Wirtshaus Naturwirt\n\nDer Naturwirt ist ein Wirtshaus für alle, die Genuss ohne künstliche Verstärker, Gemütlichkeit ohne Inszenierung und Gastlichkeit ohne Kompromisse suchen.\n„Kimm eina, Hock di nieder, Lehn di zrugg, Lass dir’s schmeck\u0027n!\"\n\nSo empfängt die Naturwirtin Monika Klimitsch ihre Gäste, die mit einem abwechslungsreichen Angebot überrascht werden. Für alle Gelegenheiten wie Hochzeiten, Feste und Feiern bietet das Haus ganzjährig den passenden Rahmen.\n\nWohnen im Naturwirt\n\nDer Naturwirt bietet insgesamt 4 gemütliche Ferienwohnungen. Abgeschlossenen Räumlichkeiten (Doppelzimmer), komplett ausgestattet.\n\nBei der Auswahl der Einrichtung unserer hochwertigen Wohnung haben wir wie bereits im Restaurant die Natur ins Haus geholt.\nErleben Sie gemütliche Urlaubstage bei uns in der Leutasch.",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "reviewCount": "53"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c8fd4d2a-5f64-4329-9fe3-8513ee4f9ec0/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/438171ff-d252-487b-9086-a59088ca5ad1/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9502fce7-7a3d-4abb-a24b-f12159bf4bcd/99/image.jpg",
+      "caption": "Hausansicht Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f6446634-75f9-4fc6-97ab-bfa1da596f18/99/image.jpg",
+      "caption": "Spielplatz mit Blick auf die Terrasse"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7854536e-9ead-4071-bd39-b1d61eb7491f/99/image.jpg",
+      "caption": "Eingangsbereich"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2a4d573b-1451-4118-8ab2-b59aa1070be9/99/image.jpg",
+      "caption": "Deko"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3816431476762",
+    "longitude": "11.1636830914017"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, Wohn-/Schlafraum",
+      "description": "Die Ferienwohnung bietet Platz für 1-2 Personen und hat ca. 25m².\nAusstattung:\n-1 Schlafzimmer\n-Gemütlicher Wohnraum\n-Küche\n-Kaffeemaschine, Teller, Besteck, Wasserkocher\n-Dusche/WC, Föhn",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "FEWO \"Nestl 3\", Dusche, WC, 1 Schlafraum",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "70.00",
+          "maxPrice": "70.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "70.00",
+          "maxPrice": "70.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, Wohn-/Schlafraum",
+      "description": "Die Ferienwohnung bietet Platz für 1-2 Personen und hat ca. 25 m²\nAusstattung:\n-1 Schlafzimmer\n-Gemütlicher Wohnraum\n-Küche\n-Kaffeemaschine, Teller, Besteck, Wasserkocher\n-Dusche/WC, Föhn",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "FEWO \"Nestl 2 \", Dusche, WC, 1 Schlafraum",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "70.00",
+          "maxPrice": "70.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "70.00",
+          "maxPrice": "70.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, Wohn-/Schlafraum",
+      "description": "Die Ferienwohnung bietet Platz für 1-2 Personen und hat ca. 28 m².\nAusstattung:\n-1 Schlafzimmer\n-Gemütlicher Wohnraum\n-Küche\n-Kaffeemaschine, Teller, Besteck, Wasserkocher\n-Dusche/WC, Föhn",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "FEWO \"Nestl 1\", Dusche, WC, 1 Schlafraum",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "70.00",
+          "maxPrice": "70.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "70.00",
+          "maxPrice": "70.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 3 Schlafräume",
+      "description": "Die Ferienwohnung bietet Platz für 4-6 Personen und hat ca. 120 m².\n\nSie werden sich im \"Hoamatl\" vom ersten Moment an wie zu Hause fühlen!\nDurch die liebevoll ausgewählte Ausstattung und die großzügigen Räume wollen wir unseren Gästen eine private Atmosphäre vermitteln.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "FEWO \"Hoamatl\", Dusche, WC, 3 Schlafräume",
+          "numberOfRooms": "4.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "100.00",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "100.00",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "200.00",
+          "maxPrice": "200.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "200.00",
+          "maxPrice": "200.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "300.00",
+          "maxPrice": "300.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "300.00",
+          "maxPrice": "300.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

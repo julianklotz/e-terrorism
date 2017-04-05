@@ -1,0 +1,28 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant"
+  ],
+  "name": "Chinarestaurant Asia",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3333804304098",
+    "longitude": "11.1905944347382"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "China-Restaurant Asia",
+    "streetAddress": "Münchner Str. 605",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 3065"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c5abc56e-a341-4084-b4f7-5b1b7f0b551a/99/image.jpg",
+      "caption": "Chinarestaurant Asia Sommer"
+    }
+  ]
+}

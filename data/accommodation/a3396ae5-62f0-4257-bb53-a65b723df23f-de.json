@@ -1,0 +1,792 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.pension-frankenhof.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Frankenhof",
+    "streetAddress": "Innsbruckerstrasse 2",
+    "addressLocality": "Scharnitz",
+    "postalCode": "6108",
+    "addressCountry": "AT",
+    "telephone": "+4352135212",
+    "faxNumber": "+4352135212",
+    "email": "frankenhof@aon.at",
+    "url": "http://www.pension-frankenhof.at"
+  },
+  "name": "Frankenhof",
+  "description": [
+    "Ein herzliches „Grüß Gott“ im Frankenhof in Scharnitz! Genießen Sie Ihren wohlverdienten Urlaub in der 3* Komfort-Frühstückspension inmitten des wunderschönen Karwendelgebirges. Egal ob Sommer oder Winter, zu zweit oder mit der ganzen Familie – bei uns sind Sie richtig!\n\nFür alle Naturliebhaber und Sportbegeisterte ist unsere familiär geführte Frühstückspension der ideale Ausgangspunkt für unzählige Sommer- und Winteraktivitäten. Ausflugsliebhaber sind nur 5 Gehminuten vom Bahnhof entfernt. Nach einem aktiven Urlaubstag entspannen Sie in unserer Hüttensauna und Infrarotkabine in unserem neuen, im Tiroler Stil, gehaltenen Saunabereich. Der warme Ruheraum und ein kleiner Außenbereich zum Abkühlen, sorgen für einen gelungenen Saunagang.\n\nUnsere 12 Doppelzimmer sind hell und komfortabel eingerichtet und verfügen über einen Balkon mit herrlichem Blick auf das Karwendelgebirge. Für einen guten Start in den Tag sorgt unser reichhaltiges Frühstücksbuffet. In unseren 5 geräumigen Appartements fühlt sich Ihre ganze Familie wohl. Sie sind liebevoll eingerichtet und komplett ausgestattet, für Selbstversorger ideal. Auf Wunsch werden wir Ihnen am Morgen gerne frische Brötchen vom ortsansässigen Bäcker bringen.\n\nScharnitz – das Tor zum Karwendel bietet Ihnen im Sommer alles was das Wander- und Bikerherz höher schlagen lässt. Familienwanderungen, anspruchsvolle Mehrtagestouren und Gipfelbesteigungen sowie Mountainbiketouren zu urigen Hütten und Almen. Für Ihr mitgebrachtes Fahrrad steht Ihnen bei uns im Frankenhof ein Radlraum zur Verfügung. Kinder können sich am „Steinmännchen“ bauen entlang der Isar erfreuen.\n\nWinterurlaub in Scharnitz in der Olympiaregion Seefeld! 271 km täglich frisch gespurte Loipen, mit leichtem Pulverschnee bedeckte Skipisten und romantische Winterwanderwege warten auf Sie! Langlaufbegeisterte können gleich hinter unserer Komfort-Frühstückspension Frankenhof in die klassisch und skating Loipe A12 einsteigen. Wedler können stressfrei mit dem kostenlosen Skibus in nur 10 Minuten zu den Skigebieten Bergbahnen Rosshütte und Gschwandtkopflifte gelangen. Aber nicht nur das, Scharnitz und das Karwendel ist auch ein Eldorado für Schneeschuhwanderer und Skitourengeher. In unserem Skiraum mit Wachsstation können Sie täglich für den perfekten Schliff sorgen. Unsere Schuhtrockner sorgen für warme Füße an einem kalten Wintertag.\n\nBei uns im Frankenhof in Scharnitz erleben Sie viel Herzlichkeit und den nötigen Schuss Tradition!\n\nBis bald, wir freuen uns auf Sie!\n\nIhre Familie Glas",
+    "Check-in 13.00 - 21 Uhr / Check-out 11.00 Uhr",
+    "Unser Haus liegt mitten im Dorfzentrum gegenüber der Kirche."
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "reviewCount": "627"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7a81b695-5c97-4613-9684-795803b0a069/99/image.jpg",
+      "caption": "Pension Frankenhof Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3d634ead-84e0-4aae-b2de-233a3d96da23/99/image.jpeg",
+      "caption": "Sauna"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/09098692-4f16-4653-a18d-2a68a9552505/99/image.jpg",
+      "caption": "Frankenhof Zimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8f05ab42-3e24-4759-9544-856f75ec35d5/99/image.jpg",
+      "caption": "Badezimmer Frankenhof"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e518f592-5757-496c-9dea-9d53a6156812/99/image.jpg",
+      "caption": "Skifahren im Gelände"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/af3e3649-cd28-4d38-9a4d-b97cb2eaf57e/99/image.jpeg",
+      "caption": "Ruheraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/608362c2-6835-4677-bed0-4f03b50c153a/99/image.jpg",
+      "caption": "Frankenhof Zimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a95602de-c607-4eaf-a537-67d0e80905c4/99/image.jpg",
+      "caption": "Euroloppet Ganghoferlauf Leutasch"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/68e8236b-e2b2-4708-b114-74a4c9abeab8/99/image.jpg",
+      "caption": "Ferienwohnung 1 Schlafzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4960ebc3-75d0-4bd2-b50a-ab67a3e85f36/99/image.jpg",
+      "caption": "Schiraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/fab4c1da-3c0b-4f29-98f4-3b86adfacd79/99/image.jpg",
+      "caption": "Ferienwohnung 1 Schlafzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c425c36f-9293-49c2-8c9c-20083790447e/99/image.jpg",
+      "caption": "Ferienwohnung 1 Schlafzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/23b53984-6363-41ed-9031-b3f852e51954/99/image.jpg",
+      "caption": "Hauseingang"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a78e16d8-006f-4ad5-aac3-45184001b157/99/image.jpg",
+      "caption": "Rosshütte"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/49e711ed-46bc-4117-ada5-0e23eaaab380/99/image.jpg",
+      "caption": "Frankenhof Frühstücksraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/11e351c6-7a5f-4f7d-b12c-8c4150441fb7/99/image.jpg",
+      "caption": "Isar Karwendel"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6e168cd6-b169-496e-ac5c-8920b976f02a/99/image.jpg",
+      "caption": "Pension Frankenhof Zimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1eef53ad-f944-452b-9962-f1f52dc53055/99/image.jpg",
+      "caption": "Frankenhof Zimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c033a674-8f52-4a62-892b-31b1da921748/99/image.jpg",
+      "caption": "Frankenhof Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2ded8027-ba7c-4fea-b408-bd446bcc32e3/99/image.jpg",
+      "caption": "Frankenhof Frühstücksraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c75a89eb-9c68-41c7-8065-be3a0ba60b4b/99/image.jpg",
+      "caption": "Winterwandern"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3191c4cc-b673-47a4-805b-04428922869c/99/image.jpg",
+      "caption": "grubsee4"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a5041539-88d7-4f8b-9af4-b7b95e207e9f/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2155826c-76eb-4714-a706-c016873e5b26/99/image.jpg",
+      "caption": "scharnitz-panorama"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c1bba62e-8408-4bfe-ba32-6c73bcb510d6/99/image.jpg",
+      "caption": "Isar Karwendel - Scharnitz"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4e727963-941d-4100-82a6-90842ecfc0e8/99/image.jpg",
+      "caption": "Wildsee - Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/cb526904-d9a4-47b3-8fc2-4b75a4b62375/99/image.jpg",
+      "caption": "Wandern in der Olympiaregion Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f854b84f-67b6-4a1b-a687-205c4d90a40a/99/image.jpg",
+      "caption": "Kapellenwanderung Leutasch"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4a075fee-dd7d-425e-811a-c2f676cc37cd/99/image.jpg",
+      "caption": "Wandern in der Olympiaregion Seefeld"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3887775067014",
+    "longitude": "11.2627438672562"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Mit Liebe eingerichtet ...\n    … für Momente der Erholung,\nHarmonie und vollendeter Gemütlichkeit.\nAngenehmes Ambiente mit dem nötigen Schuss Tradition.\n \nAusstattung\n\n    Dusche\n    WC\n    Haarfön\n    Flachbildschirm-TV mit 24 Programmen\n    kostenloser W-LAN Anschluss\n    Zimmersafe\n    Balkon\n    großteils Balkon",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Dusche, WC",
+          "description": "Mit Liebe eingerichtet ...\n    … für Momente der Erholung,\nHarmonie und vollendeter Gemütlichkeit.\nAngenehmes Ambiente mit dem nötigen Schuss Tradition",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Skifahren inkl. Skipass/ 5 Nächte im Doppelzimmer",
+          "description": "5 NÄCHTE IM KORFORTDOPPELZIMMER MIT FRÜHSTÜCKSBUFFET \n\n\n    3 Tage Ski Card (gültig für Rosshütte, Gschwandkopf und vielen mehr)\n    Freier Saunabesuch\n    Ski - Busticket\n    1 Flasche Wein zur Begrüßung\n\nSkiausrüstung 3 Tage ab € 54,40 bei www.skirental.at  buchbar.\n",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Skifahren inkl. Skipass/ 7 Nächte im Doppelzimmer",
+          "description": "7 NÄCHTE IM KOMFORTDOPPELZIMMER MIT FRÜHSTÜCKSBUFFET \n                   \n\n    5 Tage Ski Card (gültig für Rosshütte, Gschwandkopf und vielen mehr)\n    Freier Saunabesuch\n    Ski - Busticket\n    1 Flasche Wein zur Begrüßung\n\n    Skiausrüstung 5 Tage ab € 83,20 bei www.skirental.at buchbar.",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "3 Tage  Langlaufpauschale im Doppelzimmer",
+          "description": "3 NÄCHTE  IM KOMFORTDOPPELZIMMER MIT FRÜHSTÜCKSBUFFET  \n\n    Langlaufkarte für 279 km gespurte Loipen in der Region    \n    Bustiket und Loipenplan für die Olympiaregion\n    Freier Saunabesuch\n    1 Flasche Wein zur Begrüßung \n\n",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "7 Tage Langlaufpauschale im Doppelzimmer",
+          "description": "7 NÄCHTE  IM DOPPELZIMMER MIT FRÜHSTÜCKSBUFFET\n\n    Langlaufkarte für 279 km gespurte Loipen in der Region    \n    Bustiket und Loipenplan für die Olympiaregion\n    Freier Saunabesuch\n    1 Flasche Wein zur Begrüßung ",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "5 Tage Langlaufpauschale im Doppelzimmer",
+          "description": "5 NÄCHTE  IM KOMFORTDOPPELZIMMER MIT FRÜHSTÜCKSBUFFET\n\n    Langlaufkarte für 279 km gespurte Loipen in der Region    \n    Bustiket und Loipenplan für die Olympiaregion\n    Freier Saunabesuch\n    1 Flasche Wein zur Begrüßung ",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Skifahren 7 T, Doppelzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "all inclusive, Doppelzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "45.00",
+          "maxPrice": "60.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "56.00",
+          "maxPrice": "75.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "320.00",
+          "maxPrice": "320.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "270.00",
+          "maxPrice": "270.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "540.00",
+          "maxPrice": "540.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "405.00",
+          "maxPrice": "405.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "138.00",
+          "maxPrice": "138.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "98.00",
+          "maxPrice": "98.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "280.00",
+          "maxPrice": "280.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "198.00",
+          "maxPrice": "198.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "210.00",
+          "maxPrice": "210.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "155.00",
+          "maxPrice": "155.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "450.00",
+          "maxPrice": "450.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "450.00",
+          "maxPrice": "450.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "499.00",
+          "maxPrice": "499.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "399.00",
+          "maxPrice": "399.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Wohlfühlen für die ganze Familie in unseren komfortablen und liebevoll eingerichteten Appartements. Unsere Ferienwohnungen empfehlen sich speziell für mehr Flexibilität\nfür 2-3 Personen.\nAusstattung\n\n    Kochnische\n    1 Schlafzimmer\n    Wohnzimmer (mit Schlafcouch)\n    Dusche/WC\n    Loggia oder Balkon\n    Flachbildschirm-TV mit 24 Programmen\n    kostenloser W-LAN Anschluss\n    Zimmersafe\n    Haarfön\n    Bettwäsche und Handtücher inclusive\nEndreinigung € 20,-\n    ",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment Standart",
+          "description": "\n\n\nWohlfühlen für die ganze Familie in unseren komfortablen und liebevoll eingerichteten Appartements. Unsere Ferienwohnungen empfehlen sich speziell für mehr Flexibilität\nfür 2-3 Personen.\nAusstattung\n\n    Kochnische\n    1 Schlafzimmer\n    Wohnzimmer \n    Dusche/WC\n    Loggia oder Balkon\n    Flachbildschirm-TV mit 24 Programmen\n    kostenloser W-LAN Anschluss\n    Zimmersafe\n    Haarfön\n    Bettwäsche und Handtücher inclusive\n    Brötchenservic",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Skifahren inkl. Skipass/ 5 Nächte im Apartment",
+          "description": "5 NÄCHTE IM APARTMENT\n                    \n\n    3 Tage Ski Card (gültig für Rosshütte, Gschwandkopf und vielen mehr)\n    Freier Saunabesuch\n    Busticket\n    1 Flasche Wein zur Begrüßung \n\nSkiausrüstung 3 Tage ab € 54,40 bei www.skirental.at  buchbar.\n    ",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "3 Tage  Langlaufpauschale im Aparment",
+          "description": "3 NÄCHTE  IM KOMFORTDOPPELZIMMER MIT FRÜHSTÜCKSBUFFET  \n\n    Langlaufkarte für 279 km gespurte Loipen in der Region    \n    Bustiket und Loipenplan für die Olympiaregion\n    Freier Saunabesuch\n    1 Flasche Wein zur Begrüßung ",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "7 Tage Langlaufpauschale im Apartment",
+          "description": "7 NÄCHTE  IM DOPPELZIMMER MIT FRÜHSTÜCKSBUFFET\n\n    Langlaufkarte für 279 km gespurte Loipen in der Region    \n    Bustiket und Loipenplan für die Olympiaregion\n    Freier Saunabesuch\n    1 Flasche Wein zur Begrüßung ",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "5 Tage Langlaufpauschale im Apartment",
+          "description": "5 NÄCHTE  IM KOMFORTDOPPELZIMMER MIT FRÜHSTÜCKSBUFFET\n\n    Langlaufkarte für 279 km gespurte Loipen in der Region    \n    Bustiket und Loipenplan für die Olympiaregion\n    Freier Saunabesuch\n    1 Flasche Wein zur Begrüßung ",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Skifahren inkl. Skipass/ 7 Nächte im Apartment",
+          "description": "7 NÄCHTE IM KOMFORTDOPPELZIMMER MIT FRÜHSTÜCKSBUFFET \n                   \n\n    5 Tage Ski Card (gültig für Rosshütte, Gschwandkopf und vielen mehr)\n    Freier Saunabesuch\n    Ski - Busticket\n    1 Flasche Wein zur Begrüßung\n\n    Skiausrüstung 5 Tage ab € 83,20 bei www.skirental.at buchbar.",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "all inklusive, Apartment Standart",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "68.00",
+          "maxPrice": "68.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "57.00",
+          "maxPrice": "68.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "260.00",
+          "maxPrice": "260.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "155.00",
+          "maxPrice": "155.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "105.00",
+          "maxPrice": "105.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "250.00",
+          "maxPrice": "320.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "198.00",
+          "maxPrice": "260.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "240.00",
+          "maxPrice": "240.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "170.00",
+          "maxPrice": "170.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "520.00",
+          "maxPrice": "520.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "420.00",
+          "maxPrice": "420.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "499.00",
+          "maxPrice": "499.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "399.00",
+          "maxPrice": "399.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Wohlfühlen für die ganze Familie in unseren komfortablen und liebevoll eingerichteten Appartements. \nfür 2-3 Personen.\n\n    moderner Kochbereich, komplett ausgestattet\n    1 Schlafzimmer\n    Wohnzimmer (mit Schlafcouch)\n    Dusche/WC\n    Loggia oder Balkon\n    Flachbildschirm-TV mit 24 Programmen\n    kostenloser W-LAN Anschluss\n    Zimmersafe, Haarfön\n    Bettwäsche und Handtücher inclusive\n\nEndreinigung € 20,-\n    ",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment 1 Schlafzimmer 55m²",
+          "description": "\n\n\nWohlfühlen für die ganze Familie in unseren komfortablen und liebevoll eingerichteten Appartements. Unsere Ferienwohnungen empfehlen sich speziell für mehr Flexibilität\nfür 2-3 Personen.\nAusstattung\n\n    moderner Kochbereich, komplett ausgestattet\n    1 Schlafzimmer\n    Wohnzimmer (mit Schlafcouch)\n    Dusche/WC\n    Loggia oder Balkon\n    Flachbildschirm-TV mit 24 Programmen\n    kostenloser W-LAN Anschluss\n    ",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "all inclusive, Apartment 1 Schlafzimmer 55m²",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "langlaufen, Apartment 1 Schlafzimmer 55m²",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "skifahren, Apartment 1 Schlafzimmer 55m²",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "72.00",
+          "maxPrice": "72.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "58.00",
+          "maxPrice": "72.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "445.00",
+          "maxPrice": "445.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "290.00",
+          "maxPrice": "290.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "550.00",
+          "maxPrice": "550.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "450.00",
+          "maxPrice": "450.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "Apartment (70qm) mit 2 Schlafzimmer, 2 Badezimmer Du/Wc, großem Wohnbereich mit voll ausgestatteter Küche, große Terrasse mit Bergblick \nneue Sauna \"Tirol\" mit Bergblick\nBrötchenservice, Bettwäsche inklusive, Safe\nEndreinigung € 30,-",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment 2 Schlafzimmer 70m²",
+          "description": "",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "4"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "89.00",
+          "maxPrice": "105.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "89.00",
+          "maxPrice": "105.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

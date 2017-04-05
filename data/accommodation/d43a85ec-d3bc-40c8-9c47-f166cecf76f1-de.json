@@ -1,0 +1,109 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Ferienhaus Maria",
+    "streetAddress": "Panoramaweg 601",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 3956",
+    "email": "m.scherfler@gmail.com"
+  },
+  "name": "Ferienhaus Maria",
+  "description": [
+    "Das Ferienhaus Maria ist ein gemütliches Haus 1 km vom Zentrum von Seefeld entfernt mit großem Garten und einer herrlichen Terrasse. \nDas Ferienhaus verfügt über ein Wohnzimmer mit Flachbild-TV, Esszimmer, einer  voll ausgestatteten Küche mit Geschirrspüler, Mikrowelle und Backofen, Wasserkocher und Kaffeemaschine. Weiters 2 Bäder mit jeweils einer Badewanne, 3 Schlafzimmer mit Doppelbett sowie ein zusätzliches Zimmer mit Schlafsofa. \nAn der Unterkunft stehen Ihnen 2 kostenfrei nutzbare Garagenparkplätze zur Verfügung.",
+    "\n",
+    "check-in: 16:00 - 22:00\n\ncheck- out: 8:00 - 10:00"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "reviewCount": "17"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/65aace0a-1009-4091-8aaa-9be3dc891f58/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ace55f1a-2b76-496a-9dd5-f2aa17bf5141/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4a13fdac-2e05-40db-9ba8-cb60b006bf0a/99/image.jpg",
+      "caption": "Winter 1"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3381807599701",
+    "longitude": "11.1892686674591"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Ferienhaus, Bad, WC, 4 oder mehr Schlafräume",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Ferienhaus, Bad, WC, 4 oder mehr Schlafräume",
+          "numberOfRooms": "5.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "10",
+            "minValue": "4"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "280.00",
+          "maxPrice": "280.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "280.00",
+          "maxPrice": "280.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "320.00",
+          "maxPrice": "320.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 7",
+          "minPrice": "320.00",
+          "maxPrice": "320.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 8",
+          "minPrice": "320.00",
+          "maxPrice": "320.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

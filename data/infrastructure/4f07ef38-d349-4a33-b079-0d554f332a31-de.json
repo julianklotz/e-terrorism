@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Store",
+    "Florist"
+  ],
+  "name": "Blumen \"Bella\"",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3285048194771",
+    "longitude": "11.1889100074768"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Blumen Bella",
+    "streetAddress": "Bahnhofsplatz 389",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 50313"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/81ac0111-612d-4da7-a7fd-6cb19050f727/99/image.gif",
+      "caption": "Blumen Bella"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/43a50e9b-1524-4dac-945c-ff08e34b57cd/99/image.jpg",
+      "caption": "Piktogramm"
+    }
+  ]
+}

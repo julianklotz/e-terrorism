@@ -1,0 +1,109 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.hahnenhof.com"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Hahnenhof",
+    "streetAddress": "Obern 28 b",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6171",
+    "email": "info@hahnenhof.com",
+    "url": "http://www.hahnenhof.com"
+  },
+  "name": "Haus Hahnenhof",
+  "description": [
+    "Vor der atemberaubenden Kulisse des Leutasch-Hochtals liegt der Hahnenhof direkt an vielen Wanderwegen und einem Loipeneinstieg direkt vor dem Haus. \n\nDer Hahnenhof bietet Ihnen drei gemütliche Ferienwohnungen für 2-5 Gäste. Diese sind mit allem ausgestattet, was Sie während Ihres Aufenthalts in Tirol benötigen.",
+    "Loipengebühr inklusive\nHaustiere nach Absprache",
+    "Hahnenhof, Ferienwohnung, Obern, Wandern, Langlauf, Skaten"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/84b7bf4e-c10c-4967-a4e0-0abcb8e46ef9/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3c2dacb3-c1bf-4f3a-b85d-934c6d97e3e7/99/image.jpg",
+      "caption": "Winter"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3584149",
+    "longitude": "11.122586"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, Wohn-/Schlafraum",
+      "description": "Diese 30 m² große Wohnung ist sehr sonnig und gemütlich. Eine kleine Kochnische bietet die Möglichkeit kleine Mahlzeiten zu zubereiten.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "App. \"Mieming\", Dusche, WC, Wohn-/Schlafraum",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "Diese 65 m² große Ferienwohnung bietet genügend Platz und Komfort für eine fünfköpfige Familie. Die urgemütliche Einrichtung lässt keine Wünsche offen.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "App. \"Wetterstein\", Dusche, WC, 2 Schlafräume",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "Diese 65 m² große Ferienwohnung bietet genügend Platz und Komfort für eine fünfköpfige Familie. Die urgemütliche Einrichtung lässt keine Wünsche offen.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "App. \"Karwendel\", Dusche, WC, 2 Schlafräume",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "1"
+          }
+        }
+      ]
+    }
+  ]
+}

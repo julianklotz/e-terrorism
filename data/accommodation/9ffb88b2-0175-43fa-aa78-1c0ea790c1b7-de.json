@@ -1,0 +1,20 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Weidach 379 a",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0049) 8458348936",
+    "email": "tina-und-joerg@web.de"
+  },
+  "name": "ZW-Müller Jörg und Christina",
+  "currenciesAccepted": "EUR"
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure"
+  ],
+  "name": "Interalpen-Hotel Tyrol",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Interalpen-Hotel Tyrol GmbH",
+    "streetAddress": "Dr.Hans-Liebherr-Alpenstrasse 1",
+    "addressLocality": "Telfs-Buchen",
+    "postalCode": "6410",
+    "addressCountry": "AT",
+    "telephone": "+4305080930",
+    "faxNumber": "+4305080937190",
+    "email": "reservation@interalpen.com",
+    "url": "http://www.interalpen.com"
+  },
+  "description": "E-Bike Verleih nur für Hausgäste.\n\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/bc2f540e-8d7f-4d6b-9ab3-9c646789d5b4/99/image.jpg",
+      "caption": "E-Bike"
+    }
+  ],
+  "url": [
+    "http://www.interalpen.com"
+  ]
+}

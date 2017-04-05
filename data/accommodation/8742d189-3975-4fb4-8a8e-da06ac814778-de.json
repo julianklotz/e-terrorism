@@ -1,0 +1,68 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.marlene-mair.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Alpenflora",
+    "streetAddress": "Weidach 336 a",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6853 1",
+    "email": "mair.marlene@utanet.at",
+    "url": "http://www.marlene-mair.at"
+  },
+  "name": "Haus Alpenflora",
+  "description": [
+    "Traumhafte, ruhige, sonnige und zentrale Lage am Waldrand in Seenähe. Einkaufsmöglichkeiten, Arzt, Alpenbad, Banken, Bushaltestelle, Langlaufloipe, Lift- und Spielpark zu Fuß in 2-5 Minuten erreichbar. Eigener großer Spielplatz für Kinder. Idealer Ausgangspunkt für alle Wanderungen.\n\n                                                      A K T I O N\n                                               Wandern im Frühling\n\nDie schönste Zeit um unsere schöne Flora und Fauna zu bewundern ist der Frühling. Wir bieten unseren Gästen bei einem Aufenthalt von 2 Wochen 4 geführte Wanderungen und einen Grundkurs in Nordic-Walking zu einem Sonderpreis von \n                         \n                                                      € 500,-- inklusive aller Abgaben.\n\n",
+    "Inklusive: Endreinigung, Heizung, Strom, Wasser, Autounterstellplatz-Bei einem Aufenthalt von 14 Tagen eine geführte Wanderung und ein einstündiger Grundkurs in Nordic-Walking gratis\nExklusive: Telefonkosten und Ortstaxe",
+    "Mittenwald - Leutasch - Weidach - Infobüro - Musikpavillon;\nSeefeld - Weidach - OMV Tankstelle - Musikpavillon;\nFernpassstrecke - Telfs - Buchen - Ostbach - Kirchplatzl - Weidach - Infobüro - Musikpavillon;"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/93555afa-0b85-4c6c-baa6-9dbdd971ea5c/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a9e47e89-9c47-400a-9fad-b4c24e4bd7c4/99/image.jpg",
+      "caption": "Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3704966416445",
+    "longitude": "11.1647487765381"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 1 Schlafraum",
+      "description": "Gemütliche Komfortwohnungen, Schlafzimmer, Wohnschlafzimmer, getrennte Küche, E-Herd mit 4 Platten und Backrohr, Kühlschrank, Kaffeemaschine, Telefon mit Direktwahl, Farb-TV mit DVD-Sat-Anlage,Safe, bei Bedarf wird gewaschen",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/1 Schlafraum/Bad, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ]
+    }
+  ]
+}

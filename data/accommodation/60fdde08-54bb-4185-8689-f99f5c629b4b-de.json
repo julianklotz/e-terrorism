@@ -1,0 +1,74 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://web.deskline.net/seefeld/de/show_accommodation/SEE/60fdde08-54bb-4185-8689-f99f5c629b4b/haus_m%c3%bcnchen_ganglbauer",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus München",
+    "streetAddress": "Andreas Hoferstr. 517 / Top 2",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "email": "aralavan@gmail.com"
+  },
+  "name": "Haus München - App. Ganglbauer",
+  "description": [
+    "Wir bieten im Erdgeschoß ein neu renoviertes 2-Zimmer-Appartement, komplett ausgestattet mit Garten, 50m von der Fußgängerzone (Ortszentrum) entfernt, in ruhiger Lage, Bahnhofsnähe, mit eigenem Tiefgaragenplatz (2,20m hoch). Erfüllt alle Wünsche für ideale Winter- oder Sommerferien.",
+    "INKLUSIVE: Heizung, Wasser, Garage, Strom\n"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/79dcb830-8f66-46a4-9baa-545a4313ab5d/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/637cccbb-789f-4d85-bbeb-deda29c298d3/99/image.jpg",
+      "caption": "Haus München"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/413070f6-25ae-476a-a4b9-bcf1a60f0e75/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4bc4f994-c2d4-48f5-9e85-a672254820ee/99/image.jpg",
+      "caption": "Appartement Sophia2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c8191a1b-ccce-49f2-b491-edf19b00f5a3/99/image.jpg",
+      "caption": "Appartement Sophia Terrasse"
+    }
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement Sophia",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

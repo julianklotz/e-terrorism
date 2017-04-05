@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "FoodEstablishment"
+  ],
+  "name": "Schmankerl Alm, in der Appartementanlage Kerber",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Schmankerl Alm",
+    "streetAddress": "Geigenbühelstr. 624",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 319045",
+    "email": "gunthernautr@hotmail.com"
+  },
+  "description": "Sitzplätze für ca.50 Personen",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e9720116-da76-47f8-936d-cc22bc2ba910/99/image.jpg",
+      "caption": "Essen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4cd9f4b7-0412-4c39-9ec3-77c2b3d54760/99/image.jpg",
+      "caption": "Schmankerl Alm"
+    }
+  ],
+  "url": [
+    "http://"
+  ]
+}

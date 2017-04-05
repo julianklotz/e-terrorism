@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant"
+  ],
+  "name": "Jausenalm am Lärchenhang",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3640013674327",
+    "longitude": "11.1309368211487"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Jausenalm am Lärchenhang",
+    "streetAddress": "Plaik 95 b",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 52146647",
+    "email": "jausenalm@a1.net",
+    "url": "http://www.birkegg.at"
+  },
+  "description": "Sitzplätze für ca. 35 Personen",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/fc86a1d8-0636-4a0f-a552-a0d4bd5c78a5/99/image.jpg",
+      "caption": "Jausenalm am Lärchenhang"
+    }
+  ],
+  "url": [
+    "http://www.birkegg.at"
+  ]
+}

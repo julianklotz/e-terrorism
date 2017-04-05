@@ -1,0 +1,100 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.haid-seefeld.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Landhaus Haid",
+    "streetAddress": "Am Kirchwald 550",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2850",
+    "faxNumber": "(0043) 5212 2037",
+    "email": "eveline.haid@aon.at",
+    "url": "http://www.haid-seefeld.at"
+  },
+  "name": "Landhaus Haid",
+  "description": [
+    "Unser Haus ist sehr gepflegt, sonnig und ruhig gelegen (am Kirchwald), wenige Gehminuten von der Fußgängerzone, dem \"Olympia\" Sport- und Kongresszentrum, der Tennishalle und den Langlaufloipen entfernt. Die Bushaltestelle für den kostenlosen \"Orts-Shuttlebus\" ist in unmittelbarer Nähe. Kostenloser Internetzugang direkt im Appartement sowie kostenloser Fahrradverleih.Ermäßigter Eintritt in das öffentliche Hallenschwimmbad im Sport- und Kongresszentrum, Gratisbenützung der Loipen in der gesamten Region.\n",
+    "Preise inklusive MwSt.,  Strom und Heizung\nPreise exklusive Brötchenservice",
+    "Ausfahrt \"Seefeld-Mitte\" - ins Zentrum, Weiterfahrt in westlicher Richtung in den Ortsteil Kirchwald. Folgen Sie der Hausbeschilderung \"Landhaus Haid\".\nCheck in: 14.00 Uhr\nCheck out: 10.00 Uhr"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "reviewCount": "21"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/41c1fb8a-9522-404f-a546-80b9719541f7/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f0d57681-1987-479c-bf33-234d44aebe00/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3cb49ddc-fb10-4add-b613-de3603d58f57/99/image.jpg",
+      "caption": "Landhaus Haid Seefeld Aussicht vom Balkon im SO"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3287120693696",
+    "longitude": "11.1775213479996"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "Wohn-Schlafzimmer, zwei Schlafzimmer, Balkon, wunderschöner Bergblick, Küche, Dusche/ WC, Sat-TV, hell möbliert, geräumig, komfortabel, ganzjährig geheizt. Hauseigener Parkplatz,auf Wunsch täglich frisches Brot, Shuttlebus in unmittelbarer Nähe. Wenige Geminuten ins Ortszentrum, zur Tennishalle und Hallenbad. Ruhige Lage. WLAN in den Appartements.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/2 Schlafräume/Dusche, WC",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Wohn-Schlafzimmer mit wunderschönen Bergblick undBalkon, einem Schlafzimmer, Küche, Dusche/WC, SAT-TV, hell möbliert, geräumig, komfortabel, ganzjährig geheizt. Hauseigener Parkplatz, zwei gratis Fahrräder, ermäßigter Eintritt in das Hallenbad des Olympia Sport-Zentrum, auf Wunsch täglich frisches Brot, Shuttlebus in unmittelbarer Nähe, wenige Gehminuten ins Ortszentrum, zur Tennishalle und zum Hallenbad. Ruhige Lage.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

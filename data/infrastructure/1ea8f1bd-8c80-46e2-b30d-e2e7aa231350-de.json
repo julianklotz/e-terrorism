@@ -1,0 +1,24 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure",
+    "LocalBusiness"
+  ],
+  "name": "Volks- und Musikschule Seefeld",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3288016",
+    "longitude": "11.1980383"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Volks- und Musikschule Seefeld",
+    "streetAddress": "Föhrenwald 582",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT"
+  },
+  "url": [
+    "http://"
+  ]
+}

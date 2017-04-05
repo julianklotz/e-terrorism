@@ -1,0 +1,33 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Store"
+  ],
+  "name": "Hundezubehör, Zoey´s Hundehütte",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Zoey´s Hundehütte",
+    "streetAddress": "Klosterstr.43 - Rathauspassage",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043)664 1738905",
+    "url": "http://www.zoeys-hundehuette.at"
+  },
+  "description": "Hundezubehör",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/250b70c4-a9cb-45a2-ace7-d0745119ad9c/99/image.jpg",
+      "caption": "Zoeys"
+    }
+  ],
+  "url": [
+    "http://"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BankOrCreditUnion"
+  ],
+  "name": "Raiffeisenbank",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3907729168859",
+    "longitude": "11.2644869515207"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Raiffeisenbank Scharnitz",
+    "streetAddress": "Innsbruckerstr. 28",
+    "addressLocality": "Scharnitz",
+    "postalCode": "6108",
+    "addressCountry": "AT",
+    "telephone": "(0043)05213/5245-54813",
+    "url": "http://www.rb-seefeld.at"
+  },
+  "description": "Innsbrucker Str. 28\nTel.: +43 5213/5245 (Raiffeisenbank Vermittlung)",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f9ea75a2-feef-484e-b631-280fb88e88b1/99/image.jpg",
+      "caption": "Logo Raika"
+    }
+  ]
+}

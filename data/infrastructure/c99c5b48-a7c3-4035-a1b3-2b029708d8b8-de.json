@@ -1,0 +1,33 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation"
+  ],
+  "name": "Kutschen-Fiaker Neuner Edi",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3301155296976",
+    "longitude": "11.1996442079544"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Fiakerei Neuner",
+    "streetAddress": "Krinz 12",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 3945",
+    "url": "http://www.fiakerei.at"
+  },
+  "description": "Kutschfahrten zu Ausflugszielen und Hütten in die Olympiaregion Seefeld. \nAbfahrt der Kutschen vom Fiakerstandplatz an der Innsbrucker Straße.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2db9725c-7135-41ec-8a56-3c73875658d8/99/image.jpg",
+      "caption": "Fiakerei Neuner"
+    }
+  ],
+  "url": [
+    "http://www.fiakerei.at"
+  ]
+}

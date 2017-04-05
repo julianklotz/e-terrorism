@@ -1,0 +1,272 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.gruggerhof.at/",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Gruggerhof",
+    "streetAddress": "Leutascherstr. 64",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 3254",
+    "faxNumber": "(0043) 5212 3254",
+    "email": "info@gruggerhof.at",
+    "url": "www.gruggerhof.at"
+  },
+  "name": "Gruggerhof",
+  "description": [
+    "Unser Haus liegt am Fuße des Kirchwaldes in der Nähe von Loipen, Schihängen, Eislaufplatz, Tennishalle und Tennisplätzen, dem Hallenbad, Sauna und Kino. 3 Minuten zum Zentrum mit Fußgängerzone.  Bushaltestelle vor dem Haus, PKW-Abstellplätze vorhanden.",
+    "Das Appartement besteht aus einem Wohnraum mit Couch, Esstisch, Küchenzeile, Kabel TV, Radio, sowie einem Schlafzimmer mit Doppelbett , Dusche/WC und Balkon - Bettwäsche, Handtücher vorhanden\n\nW-LAN gratis\n",
+    "Von Süden und Norden: Abfahrt Seefeld Mitte Richtung Zentrum, weiter auf der Olympiastraße, Kreuzung Richtung Leutasch, nach 30 Meter erstes Haus links.\n\nVon Westen: Autobahn A12 Abfahrt Telfs Ost, über Mösern, Ortseinfahrt geradeaus bis Kreuzung Richtung Leutasch, nach 30 Meter erstes Haus links."
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "reviewCount": "26"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/554a98af-78d2-4311-9540-e43fd35df733/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ac4426b4-85c7-45b4-bd54-3520e31f376b/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/cefc2867-30c7-4983-b2f7-c582348046f0/99/image.jpg",
+      "caption": "Garten"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e4aa49c3-b5ba-4619-863f-0fb455ec779e/99/image.jpg",
+      "caption": "Garten 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/462a7fd0-2958-4020-a9db-99c02439e3fe/99/image.jpg",
+      "caption": "Garten 3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/cac4bc70-bb4e-496e-b51d-30343546061c/99/image.jpg",
+      "caption": "Aussicht"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3300700814371",
+    "longitude": "11.1810618638992"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Schlafzimmer, Wohnraum mit Küchenblock, Esstisch, Schlafcouch, Kabel-TV, Radio, Vorraum, Dusche/WC, Balkon - Bettwäsche und Handtücher sind vorhanden\n\nW-LAN gratis\n\nExtrakosten: Endreinigung und Kurtaxe",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Typ B (1.Stock)/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "60.00",
+          "maxPrice": "65.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "70.00",
+          "maxPrice": "75.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Schlafzimmer mit Doppelbett und Schlafcouch, Wohnraum mit Küchenblock, Esstisch, Schlafcouch, Kabel TV, Radio, Vorraum, Dusche/WC, Balkon - Bettwäsche und Handtücher sind vorhanden.\n\nW-LAN gratis\n\nEXTRA-Kosten: Endreinigung und Kurtaxe\n\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Typ B (2. Stock)/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "60.00",
+          "maxPrice": "65.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "70.00",
+          "maxPrice": "75.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 2 Schlafräume",
+      "description": "2 Schlafzimmer, Wohnraum mit Küchenblock, Esstisch, Couch, Kabel-TV, Radio, Vorraum, Bad/Dusche/WC, Balkon - Bettwäsche und Handtücher sind vorhanden.\n\nW-LAN gratis\n\nEXTRA-Kosten: Endreinigung und Kurtaxe",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Typ C (2. Stock)/2 Schlafräume/Dusche, B",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "70.00",
+          "maxPrice": "75.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "80.00",
+          "maxPrice": "85.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "90.00",
+          "maxPrice": "95.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "95.00",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC",
+      "description": "Schlafzimmer, Wohnbereich mit Küchenblock, Esstisch, Sitzcouch, Kabel- TV, Radio, Dusche/WC, Balkon - Bettwäsche und Handtücher sind vorhanden.\n\nW-LAN gratis\n\nExtra-Kosten: Endreinigung und Kurtaxe",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Typ A (1.Stock)/Wohn-Schlafraum/Du/WC",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "55.00",
+          "maxPrice": "60.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "55.00",
+          "maxPrice": "60.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC",
+      "description": "Schlafzimmer mit Doppelbett und Sitzcouch, Kabel-TV und Radio, Wohnbereich mit Küchenblock, Esstisch, Dusche/WC, Balkon - Bettwäsche und Handtücher sind vorhanden\n\nW-LAN gratis\n\nExtrakosten: Endreinigung und Kurtaxe",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Typ A (2.Stock)/Wohn-Schlafraum/Du/WC",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "55.00",
+          "maxPrice": "60.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "55.00",
+          "maxPrice": "60.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://web.deskline.net/seefeld/de/show_accommodation/SEE/c2c8ae62-fc42-41a9-8032-650e4b100e8f/landhaus_loinger",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Landhaus Loinger",
+    "streetAddress": "Obere Wiese 1 a",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 5160",
+    "email": "landhaus.loinger@aon.at"
+  },
+  "name": "Landhaus Loinger",
+  "description": [
+    "Idyllisch eingebettet in die intakte Natur des Leutaschtals ist das Landhaus Loinger inmitten von Wiesen \u0026 lichten Birkenwäldchen gelegen. Dem Ruhe suchenden Gast bietet es das ideale Feriendomizil. Verbringen Sie erholsame Urlaubstage in unserer komfortablen Wohnung im Tiroler Landhausstil.\n\nIn nur wenigen Gehminuten erreichen Sie zahlreiche Gasthöfe \u0026 Restaurants sowie das Alpenbad, Leutasch\u0027s Wohlfühloase mit verschiedenen Saunen, Erlebnisschwimmbad, Freibadebereich, Luftsprudelliegen uvm. \n\nZu den weiteren Annehmlichkeiten zählen ein großer Parkplatz, regelmäßig gewechselte Bett-, Tisch- \u0026 Handwäsche sowie ein Ski- \u0026 Wachsraum.",
+    "Inklusive: Heizung (auch im Sommer), Wasser, Strom, Hand- und Badetücher, Bett- und Tischwäsche, Geschirrtücher, freier Eintritt ins Alpenbad für Erwachsene im Sommer, für Kinder \u0026 Jugendliche bis zum vollendeten 15. Lebensjahr ganzjährig\nExklusive: Ortstaxe, Endreinigung: € 40,-, Brötchenservice",
+    "Check-In: 14.00 Uhr, auf Anfrage bereits früher\nCheck-Out: 10.00 Uhr, auf Anfrage auch später\nWeg: Folgen Sie im Ortsteil Kirchplatzl dem Wegweiser zur Oberen Wiese. Bei der Weggabelung halten Sie sich links und fahren anschließend geradeaus."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/799d85a9-644f-4252-b2ee-5b0cdf553ded/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/755670b6-8b77-4e26-9579-3957de46420e/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/25d644cb-238a-41fe-9303-8987dc26b3b4/99/image.jpg",
+      "caption": "Haus Loinger"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5e27e29f-d98f-470d-a90c-3a96a5b29cef/99/image.jpg",
+      "caption": "Terrasse"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3674862046639",
+    "longitude": "11.1387795209885"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Unsere komfortable Ferienwohnung verfügt über ein Schlafzimmer mit begehbarem Schrank, Dusche/WC, einem Wohn-Schlafzimmer mit gemütlicher Sitzecke, Sat-TV und seperatem Doppelbett, einer großer Küche, Abstellraum/Garderobe, einer Terrasse zur Südseite und einem eigenen Eingang. Ihr Ferienzuhause ist mit Cottoboden ausgelegt und wird auch im Sommer bei entsprechender Temperatur mit der angenehmen Wärme einer Fußbodenheizung beheizt.\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "45.00",
+          "maxPrice": "90.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

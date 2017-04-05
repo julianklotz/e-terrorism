@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant",
+    "CafeOrCoffeeShop"
+  ],
+  "name": "Mundestadl",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3492984742056",
+    "longitude": "11.1178153753281"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Mundestadl",
+    "streetAddress": "Moos 7a",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 20008",
+    "email": "mundestadl@aon.at"
+  },
+  "description": "Sitzplätze für ca. 37 Personen",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/cb7b719c-f206-4f8f-8068-9fa1490b1151/99/image.jpg",
+      "caption": "mundestadl"
+    }
+  ]
+}

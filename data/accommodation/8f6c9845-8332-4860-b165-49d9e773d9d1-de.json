@@ -1,0 +1,493 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://www.alpenlove.at"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Alpenhotel ... fall in Love ****",
+    "streetAddress": "Dorfplatz 28",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043)  5212 2191",
+    "faxNumber": "(0043) 5212 2191",
+    "email": "alpenlove@kaltschmid.info",
+    "url": "http://www.alpenlove.at"
+  },
+  "name": "Alpenhotel ... fall in Love",
+  "description": [
+    "****Alpenhotel ... fall in Love\nEin „Lieblings-Hotel“ im wahrsten Sinne des Wortes – das ist unser Alpenhotel... fall in Love! Für ein romantisches Wochenende, ein Wochenende für zwei oder ein richtiges Kuschelwochenende, werden Sie kaum einen schöneren Ort finden.\n\nHier gibt es sozusagen den Freiflug für Ihre Schmetterlinge im Bauch – und jede Menge Kuschelextras! Denn unser Hotel ist genau dafür gemacht, dem geliebten Menschen in zauberhafter Atmosphäre ganz nahe zu sein.\n\nVielleicht in unserer romantischen Wellness \u0026 Spa Landschaft oder – etwas ganz besonderes – in unserem Lovers Spa. Auf jeden Fall: romantische Wellness ist garantiert!\n\nKindern unter 16 Jahren ist der Zutritt im kompletten SPA Bereich nicht gestattet.",
+    "Romantisches Hotel in Seefeld, Tirol\nDas **** Alpenhotel ... fall in Love Hotel in Seefeld\nUnser Alpenhotel ... fall in Love liegt ganz zentral in der Seefelder Fußgängerzone, direkt am naturbelassenen Pfarrhügel. So genießen Sie einerseits die Umtriebigkeit einer der beliebtesten Tourismusgemeinden Österreichs – und andererseits die Ruhe und die Distanz zum hektischen Alltag.",
+    "Wegbeschreibung: http://www.alpenlove.at/de/anfahrt/\nSie können direkt von der Innsbrucker Str. durch die Fußgängerzone zu unserem Hotel am Dorfplatz vorfahren."
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "reviewCount": "1787"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b5b91174-7eca-4ff5-ad0f-b6be831f22a3/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/58df1799-f568-4548-937c-0136acb7d139/99/image.jpg",
+      "caption": "Logo"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/df4f0dfb-e6d1-488f-9dac-4c4ce44a69d5/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/290009ca-8c35-42d6-be75-85c56d326432/99/image.jpg",
+      "caption": "Speisesaal"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1d6225bf-633a-4a61-bb26-11d68905d95f/99/image.jpg",
+      "caption": "Pool"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b3e3ff33-8416-4aa0-bd03-097ce83c9e57/99/image.jpg",
+      "caption": "Fitness"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c46eba8f-009b-4a77-acff-5876e8a04dbe/99/image.jpg",
+      "caption": "Bar"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/75ddbe32-7a3e-4603-9606-bb4e6606bddf/99/image.jpg",
+      "caption": "Sommer Abend"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2dd4861f-380b-4634-b847-3e31772e1cfa/99/image.jpg",
+      "caption": "Restaurant"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3f67bd81-5f0a-4dcb-9d4a-cf309471a766/99/image.jpg",
+      "caption": "Ruheraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4d53f655-baf3-43bd-989c-b8fac3c181cc/99/image.jpg",
+      "caption": "Früchteteller"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3284596",
+    "longitude": "11.1867944232788"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Einzelzimmer, Dusche, WC",
+      "description": "Das heimelige Einzelzimmer im rustikalen Stil ist ca. 23-28m² groß und verfügt über einen Westbalkon.  Die getäfelte Decke und das gemütliche Interieur vermitteln ein Gefühl von Wärme und Geborgenheit. Das Zimmer ist ausgestattet mit einer Sitzgelegenheit, Bad mit Dusche, WC, Haarfön, Kosmetikspiegel, TV, Telefon, Wireless LAN, Minibar und Safe.  Kuschlige Bademäntel, Badeschuhe, sowie Badetücher für unseren BLACK CRYSTAL SPA und unsere SENSUAL BEAUTY finden Sie am Zimmer.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Kuschelnest",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "0.00",
+          "maxPrice": "195.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Bad, WC",
+      "description": "Das kuschlige Doppelzimmer im rustikalen Stil für 2 Personen ist ca. 30-32m² groß und verfügt über einen Ost- oder Westbalkon. Dunkles, warmes Holz bringt ein Gefühl von Behaglichkeit in den Raum. Das Zimmer ist ausgestattet mit einer Sitzecke, Bad mit Wanne, Doppelwaschbecken, separatem WC, Haarfön, Kosmetikspiegel, TV, Telefon, Wireless LAN, Minibar und Safe.  Kuschlige Bademäntel, Badeschuhe, sowie Badetücher für unseren BLACK CRYSTAL SPA und unsere SENSUAL BEAUTY finden Sie am Zimmer.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Liebesglück",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "360.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche und Bad, WC",
+      "description": "Das geräumige Doppelzimmer im rustikalen Stil für 2 Personen ist 37m² groß. Tiroler Gemütlichkeit steckt hier in jedem Detail. Der sonnige Erker mit bequemer Sitzgruppe verleiht dem Raum sein besonderes Flair. Das Zimmer ist ausgestattet mit Bad mit Wanne, Doppelwaschbecken, separatem WC, Haarfön, Kosmetikspiegel, TV, Telefon, Wireless LAN, Minibar und Safe.  Kuschlige Bademäntel, Badeschuhe, sowie Badetücher für unseren BLACK CRYSTAL SPA und unsere SENSUAL BEAUTY finden Sie am Zimmer.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Kirchenglocken",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "390.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche und Bad, WC",
+      "description": "Das großzügige, helle Doppelzimmer im romantischen Stil für 2 Personen ist ca. 34-42m² groß und verfügt über einen Ost- oder Westbalkon. Das Zimmer ist ausgestattet mit einem großzügigen Wohnteil, Bad mit Wanne, separatem WC, Haarfön, Kosmetikspiegel, TV, Telefon, Wireless LAN, Minibar und Safe.  Kuschlige Bademäntel, Badeschuhe, sowie Badetücher für unseren BLACK CRYSTAL SPA und unsere SENSUAL BEAUTY finden Sie am Zimmer.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Deluxe Kuschelzimmer Sweet Dreams",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "432.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Junior Suite, Dusche und Bad, WC",
+      "description": "Die gemütliche Juniorsuite im modernen, traditionellen Stil ist geeignet für 2 Personen und hat eine Größe von 45-55m² und verfügt über einen Westbalkon. Als besonderes Highlight verfügt diese Suite teilweise über eine integrierte Sauna. Das Zimmer verfügt über ein Schlafzimmer und ein großzügigen Wohnzimmer, Bad mit Wanne, Dusche, Doppelwaschbecken, separatem WC, Haarfön, Kosmetikspiegel, TV, Telefon, Wireless LAN, Minibar und Safe. Bademäntel, Badeschuhe, sowie Badetücher  sind am Zimmer. ",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Herzilein",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "452.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Suite, Dusche und Bad, WC",
+      "description": "Die Suite ist geeignet für 2 Personen und hat eine Größe von 62m². Auf der großzügigen Terrasse auf dem Dach des Hauses verspüren Sie das Gefühl unendlicher Zweisam- und Glückseligkeit.\nGenießen Sie modernen Komfort und ursprüngliche Geborgenheit. Das Zimmer ist ausgestattet mit einer Sitzecke, offener Badbereich mit Wanne und großem schalenförmigen Designerwaschbecken für 2, abgetrennte Dusche, separatem WC, Haarfön, Kosmetikspiegel, TV, Telefon, Wireless LAN, Minibar und Safe.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Siebter Himmel",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "472.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche und Bad, WC",
+      "description": "Das stilvolle Doppelzimmer für 2 Personen hat eine Größe von 34-42m² und verfügt über einen Ost- oder Westbalkon. Schlichte Eleganz und höchster Komfort gehen eine sinnliche Symbiose ein. Das Zimmer ist ausgestattet mit einer Sitzecke, Bad mit Wanne, Dusche, großes schalenförmiges Designerwaschbecken für 2, separatem WC, Haarfön, Kosmetikspiegel, TV, Telefon, Wireless LAN, Minibar und Safe.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Love Paradise",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "432.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche und Bad, WC",
+      "description": "Das liebevoll eingerichtete Doppelzimmer für 2 Personen ist ca. 34-42m² groß und verfügt über einen Ost- oder Westbalkon. Ein Zusammenspiel aus Farben und Formen regt Ihre Sinne an. Das Zimmer ist ausgestattet mit einer Sitzecke, Bad mit Wanne, Dusche, teilweise Doppelwaschbecken separatem WC, Haarfön, Kosmetikspiegel, TV, Telefon, Wireless LAN, Minibar und Safe.  Kuschlige Bademäntel, Badeschuhe, sowie Badetücher für unseren BLACK CRYSTAL SPA und unsere SENSUAL BEAUTY finden Sie am Zimmer.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Red Passion",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "432.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Junior Suite, Dusche und Bad, WC",
+      "description": "Die komfortable Juniorsuite für 2 Personen hat eine Größe von 45-55m² und verfügt über einen Ostbalkon.  Durch die stilvolle Einrichtung gelangen Sie hier in eine eigene Welt voller Sinnlichkeit. Das Zimmer ist ausgestattet mit einer Sitzecke, offener Badbereich mit Wanne und großem schalenförmigen Designerwaschbecken für 2, abgetrennte Dusche, separatem WC, Haarfön, Kosmetikspiegel, TV, Telefon, Wireless LAN, Minibar und Safe.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Chocolate Dream",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "472.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Suite, Dusche und Bad, WC",
+      "description": "Die sinnliche Suite ist für 2 Personen geeignet, ca. 62m² groß und verfügt über einen Westbalkon oder eine Terrasse. Bewusst zurückgenommenes Interieur sorgt für prickelnde Momente zu zweit.\nDas Zimmer verfügt über ein Schlafzimmer und ein großzügigen Wohnzimmer, Bad mit Wanne, Dusche, großes schalenförmiges Designerwaschbecken für 2, separatem WC, Haarfön, Kosmetikspiegel, TV, Telefon, Wireless LAN, Minibar und Safe.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Sensual Romance",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "492.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Junior Suite, Dusche, WC, 1 Schlafraum",
+      "description": "In der royalen Juniorsuite finden Sie Platz in weiß-goldenem Kuschelambiente für Ihren Traumurlaub. Ein offenes Badezimmer und raumhohe Glasfronten mit Blick auf den unberührten Pfarrhügel entspannt Körper und Geist. \nZimmerausstattung: Bad/Dusche, separates WC mit Bidet Funktion, Balkon, W-Lan, Telefon, TV, Minibar, Safe und Haartrockner, Wellnesskorb mit Bademänteln und Schuhen, Toilettenartikel, Kosmetikspiegel, Heizung, Weckservice/Wecker, Schreibtisch, Klimaanlage",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Royal Juniorsuite",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "480.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Suite, Dusche, WC, 1 Schlafraum",
+      "description": "Eine royale Kutsche aus Gold und weißem Lack umfunktioniert zum Himmelbett lädt zum Kuscheln ein. Das offene Badezimmer mit der großen freistehenden Badewanne bietet persönliche Wellnessmomente in Ihrer Love Suite. Das abgegrenzte Schlafzimmer schafft einen Bereich zum Zurückziehen.\nBad/Dusche, separates WC mit Bidet Funktion, Balkon, W-Lan, Telefon, TV, Minibar, Safe, Haartrockner, Wellnesskorb mit Bademänteln und Schuhen, Toilettenartikel, Kosmetikspiegel, Heizung, Weckservice, Klimaanlage",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Royal Love Suite",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "500.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure",
+    "LocalBusiness"
+  ],
+  "name": "EV Immobilienagentur GmbH",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3290538481177",
+    "longitude": "11.1849564313889"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "EV Immobilienagentur GmbH",
+    "streetAddress": "Klosterstr. 608",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 52639",
+    "url": "http://www.engelvoelkers.com/seefeld"
+  },
+  "url": [
+    "http://www.engelvoelkers.com/seefeld"
+  ]
+}

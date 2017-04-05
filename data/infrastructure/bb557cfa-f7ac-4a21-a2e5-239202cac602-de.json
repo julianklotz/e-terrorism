@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Physician"
+  ],
+  "name": "Dr. med. univ. Alois Durnes/ Arzt/ Sportarzt",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3312462698287",
+    "longitude": "11.1872577667236"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Münchner Str. 300",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 3781"
+  },
+  "description": [
+    "Arzt für Allgemeinmedizin \n",
+    "Mo-Fr 8.30 - 12.00 Uhr und 16.00- 18.00 Uhr, und nach Vereinbarung"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7774d91c-bdb7-4e24-961c-cee956ea315b/99/image.jpg",
+      "caption": "Arzt"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BarOrPub",
+    "CafeOrCoffeeShop",
+    "Restaurant"
+  ],
+  "name": "Platzhirsch, Restaurant, Bar, Bistro",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3287047974573",
+    "longitude": "11.1874240636826"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Platzhirsch",
+    "streetAddress": "Dorfplatz 25",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2201571",
+    "email": "post@krumers.com",
+    "url": "http://www.krumers.com"
+  },
+  "description": [
+    " ",
+    "Sitzplätze für ca. 50 Personen\n\nErfrischende Getränke, gutes Essen und dem bunten Treiben am Seefelder Dorfplatz zusehen – was gibt es Schöneres? Das neue Bistro „Platzhirsch“ vom Hotel Die Post bietet Köstlichkeiten und Snacks aus der regionalen Küche. Dazu stehen zahlreiche Weine aus dem eigenen Weinkeller sowie Cognac- und Whiskyspezialitäten zur Auswahl!\nUnser Tipp: Fragen Sie nach dem Tagesgericht! Jeder Tag steht unter dem Zeichen eines ganz bestimmten Gerichtes… Lassen Sie sich überraschen! Wir freuen uns auf Ihren Besuch!"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6937d164-b15c-446f-8001-945b7ca2a3d1/99/image.jpg",
+      "caption": "Platzhirsch Sommer"
+    }
+  ],
+  "url": [
+    "http://www.krumers.com"
+  ]
+}

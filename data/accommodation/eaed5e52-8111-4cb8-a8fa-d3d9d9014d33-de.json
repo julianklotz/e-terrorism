@@ -1,0 +1,173 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://members.aon.at/beim-hackl",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Beim Hackl",
+    "streetAddress": "Weidach 351 a",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6780 0",
+    "faxNumber": "(0043) 5214 6780 7",
+    "email": "beim-hackl@aon.at",
+    "url": "http://members.aon.at/beim-hackl"
+  },
+  "name": "Beim Hackl",
+  "description": [
+    "Beim Hackl - ruhig und zentral am Waldrand, im Ortsteil Weidach steht unser Haus, mit herrlicher Aussicht auf die Leutascher Berge.\nDie Fw. Größe ca. 42 m² mit großer sonniger überdachter Terrasse -  Tisch und Stühle - Sonnenschirm - eigener Eingang im Parterre  - Diele - Kochnische mit Eßplatz - Wohnraum mit Couch und Tisch - Raumteiler - mit 2 Betten - Dusche/ WC.\nIn unmittelbarer Nähe: Einkaufsmöglichkeiten, Cafe´s, Restaurants, Gasthöfe, Wander- und Spazierwege, Loipen, Skilift.",
+    "INKLUSIVE: Strom, Heizung, freier Eintritt im Sommer - Alpenbad - Leutasch \n           W.- Lan\nEXKLUSIVE: Ortstaxe, Telefon, Endreinigung",
+    "Kommen Sie von Mittenwald oder Telfs: Leutasch - Weidach - Supermarkt  M - Preis - 50 m rechts - Beim Hackl."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d2a351d5-69e6-4ffa-b7a3-77be53eced80/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/26770a4b-573e-428b-9be9-e91a5132bd6c/99/image.jpg",
+      "caption": "Winter"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.372546301658",
+    "longitude": "11.169375935352"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC",
+      "description": "Diele, Dusche/WC, Wohnschlafraum mit Doppelbett durch Raumteiler von Wohnbereich getrennt, Sitzgruppe, Kochzeile und Eßplatz, Parterre große sonnige Terrasse - mit Tisch \nund Liegen ! Großer Garten !",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/Wohn-Schlafraum/Bad, WC",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "68.00",
+          "maxPrice": "68.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Größe;ca.45m²Diele,Wohnschlafraum,mit Kochnische u.Eßplatz\n 1Schlafzimmer,Dusche, WC, Balkon mit Traumhaften Blick\n auf unsere schöne Bergwelt. Ruhig,zentral gelegen.\n\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "100.00",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "100.00",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "100.00",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "100.00",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Diele, 1 oder 2 Schlafzimmer,  jewels Dusche,WC, Bauernofen, Sitzgruppe, Wohnschlafraum, Kochnische, Eßplatz, beidseitiger Balkon mit traumhaften Blick auf unsere schöne Bergwelt. Sat-TV,Radio,Telephon,Wäsche\nvorhanden.Ruhig zentral am Waldrand.\n\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "58.00",
+          "maxPrice": "98.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "68.00",
+          "maxPrice": "108.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "68.00",
+          "maxPrice": "118.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

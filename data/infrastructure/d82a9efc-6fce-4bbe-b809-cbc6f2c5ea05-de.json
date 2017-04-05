@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant"
+  ],
+  "name": "Südtiroler Stube",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3274540136484",
+    "longitude": "11.1886632442474"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Suedtiroler Stube",
+    "streetAddress": "Reitherspitzstr. 17",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "0043 5212 50446",
+    "faxNumber": "0043 5212 51902",
+    "email": "guido@suedtirolerstube.com",
+    "url": "http://www.suedtirolerstube.com"
+  },
+  "description": [
+    " ",
+    "Sitzplätze für ca. 80 Personen\n\nDie richtige Adresse für alle die sich gerne in gemütlicher Atmosphäre mit sorgfältig zubereiteten, frischen Gerichten und ausgesuchten Weinen verwöhnen lassen.\nEs gibt drei Bereiche in unserem Restaurant. Das Innere des Restaurants, den Wintergarten und die Terrasse.\nZu einem Aperitif vor dem Essen oder einem Digestif danach ist unsere Bar der ideale Ort dafür.\nNehmen Sie Platz, entspannen Sie sich und genießen Sie, mit den Augen, mit dem Gaumen und allen Sinnen. Neben vielfältigen Kreationen aus der Küche wartet eine groß Auswahl von edelsten Weinen darauf, Ihren Gaumen zu erfreuen."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e662874b-7483-4fb2-a9fc-73ac3355740a/99/image.jpg",
+      "caption": "Südtiroler Stube Sommer"
+    }
+  ],
+  "url": [
+    "http://www.suedtirolerstube.com"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "PlaceOfWorship"
+  ],
+  "name": "Pfarramt Scharnitz",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3893372496001",
+    "longitude": "11.2630026963299"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Katholisches Pfarramt",
+    "streetAddress": "Porta-Claudia-Str. 7",
+    "addressLocality": "Scharnitz",
+    "postalCode": "6108",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5213 5217"
+  },
+  "description": "Katholisches Pfarramt\n\nPorta Claudia Str. 7\nTel.: +43 5213/5217",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/bd17658a-2c85-435c-a815-b91df42d33f4/99/image.jpg",
+      "caption": "Ort mit Pfarrkirche"
+    }
+  ]
+}

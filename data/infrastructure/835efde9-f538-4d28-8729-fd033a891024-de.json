@@ -1,0 +1,21 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure",
+    "LocalBusiness"
+  ],
+  "name": "Telefonwertkarten",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "description": "erhältlich bei:\nAlbrecht/Kaufhaus, Trafik\nAVIA\nBahnhofstrafik\nFinsterwalder- Seefelder Touristenshop\nM-Preis\nPostamt Seefeld\nShell Tankstelle",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9c8cbf8b-689b-4a78-a3ba-be992c2e1042/99/image.jpg",
+      "caption": "Telefonwertkarte"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation"
+  ],
+  "name": "Hotel Garni Egerthof E-Bike Verleih",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3271350508804",
+    "longitude": "11.1912862423279"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Hotel Garni Egerthof",
+    "streetAddress": "Reitherspitzstr. 294",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 4444",
+    "faxNumber": "(0043) 5212 4444 60",
+    "email": "info@egerthof.at",
+    "url": "http://www.egerthof.at"
+  },
+  "description": "E-Bike Verleih auf Anfrage!\n\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/693318dc-4a14-43d6-afb3-aacb9c511e6b/99/image.jpg",
+      "caption": "E-Bike"
+    }
+  ],
+  "url": [
+    "http://www.egerthof.at"
+  ]
+}

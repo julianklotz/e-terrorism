@@ -1,0 +1,26 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure",
+    "LocalBusiness"
+  ],
+  "name": "gmawerbetechnik",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2968645",
+    "longitude": "11.2069625"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "gmawerbetechnik",
+    "streetAddress": "Meilerweg 48a",
+    "addressLocality": "Reith bei Seefeld",
+    "postalCode": "6103",
+    "addressCountry": "AT",
+    "telephone": "(0043)650 5447715",
+    "email": "office@gma-werbetechnik.at"
+  },
+  "url": [
+    "http://"
+  ]
+}

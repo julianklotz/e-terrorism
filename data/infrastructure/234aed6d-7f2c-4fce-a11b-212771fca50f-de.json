@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure"
+  ],
+  "name": "Klosterbräu Parkplatz (P11)",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3299664592569",
+    "longitude": "11.1848115921021"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Klosterbräu-Parkplätze (P11)",
+    "streetAddress": "Olympiastraße",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043)52122621"
+  },
+  "description": [
+    " ",
+    "gebührenpflichtig"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/64fef520-f7d9-48f1-b181-48aab14b95b7/99/image.jpg",
+      "caption": "Parkplatz"
+    }
+  ]
+}

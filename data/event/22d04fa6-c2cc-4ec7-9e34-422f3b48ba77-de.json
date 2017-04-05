@@ -1,0 +1,48 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "Hl. Messe Ostersonntag",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "",
+    "employee": {
+      "@type": "Person",
+      "givenName": "Pfarramt",
+      "familyName": "Leutasch"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Kirchplatzl",
+      "addressLocality": "Leutasch",
+      "postalCode": "6105",
+      "addressCountry": "AT",
+      "telephone": "(0043)52146235",
+      "email": "pfarramt@pfarren-leutasch.at"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Pfarrkirche St. Magdalena",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Kirchplatzl",
+      "addressLocality": "Leutasch",
+      "postalCode": "6105",
+      "addressCountry": "AT",
+      "telephone": "(0043)52146235"
+    }
+  },
+  "description": "Hochfest der Auferstehung des Herrn mit Speisensegnung. Musikalische Umrahmung: Orgel Paul Humer",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c40e3f2d-20b0-439f-8b8c-2c30fb330d17/99/image.jpg",
+      "caption": "Kirche OL"
+    }
+  ],
+  "startDate": "2017-04-16T10:00:00",
+  "endDate": "2017-04-16"
+}

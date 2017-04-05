@@ -1,0 +1,49 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "Sommeranfangskonzert der Musikkapelle Scharnitz",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Musikkapelle Scharnitz",
+    "employee": {
+      "@type": "Person",
+      "givenName": "Magdalena",
+      "familyName": "Mattle"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Adolf-Klinge-Platz 72",
+      "addressLocality": "Scharnitz",
+      "postalCode": "6108",
+      "addressCountry": "AT",
+      "telephone": "(0043)0664-3916219",
+      "email": "magdalena.reitmair@gmx.at"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Musikkapelle Scharnitz",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Adolf-Klinge-Platz 72",
+      "addressLocality": "Scharnitz",
+      "postalCode": "6108",
+      "addressCountry": "AT",
+      "telephone": "(0043)0664-3916219",
+      "email": "magdalena.reitmair@gmx.at"
+    }
+  },
+  "description": "Ein bunter Strauß voll Blasmusik präsentiert von der Musikkapelle Scharnitz\nEintritt: freiwillige Spenden ",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/cc9ec231-69aa-4df0-9358-54008c1a5750/99/image.jpg",
+      "caption": "MK Scharnitz"
+    }
+  ],
+  "startDate": "2017-06-17T20:00:00",
+  "endDate": "2017-06-17"
+}

@@ -1,0 +1,188 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.sporthaus-kirchmair.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Sporthaus Kirchmair",
+    "streetAddress": "Münchnerstr. 42",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "0043 5212 2268",
+    "faxNumber": "0043 5212 22684",
+    "email": "info@sporthaus-kirchmair.at",
+    "url": "http://www.sporthaus-kirchmair.at"
+  },
+  "name": "Sporthaus Kirchmair",
+  "description": [
+    "Unser Haus befindet sich im Zentrum von Seefeld, in der Fußgängerzone. Wir bieten Ihnen komplett eingerichtete Appartements für 2 bis 4 Personen. Komfortabel und gemütlich. Parkplatz vorhanden. Alle Sport- und Freizeiteinrichtungen erreichen Sie bequem zu Fuß. Als unsere Gäste erhalten Sie ermäßigte Preise in unserem Geschäft und Schiverleih.",
+    "Inkl. ",
+    "Check in: 14.00 Uhr\nCheck out bis 10.30 Uhr\nUnser Haus befindet sich im Zentrum von Seefeld in der Fußgängerzone."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/41b166e9-e28d-486f-8068-5c54061ca5aa/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5dc352f3-d31f-46eb-b9f2-19721c9e0fa4/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5ef0a82d-0433-411b-ba29-bca65e052fe6/99/image.jpg",
+      "caption": "Plan"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/859c6a7a-0cfe-4e79-9c24-dbdb833c93b6/99/image.jpg",
+      "caption": "Wohnzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/dc000a41-7325-4f78-a011-83cffba0bcb4/99/image.jpg",
+      "caption": "Schlafzimmer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3297083118886",
+    "longitude": "11.1872953176498"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC",
+      "description": "Appartement 1 und 2 :  für 2 Personen, 30 m, mit kombiniertem Wohn- Schlafraum,\n                       Kochnische, Bad und WC.\n                       Komplett ausgestattet incl. Bettwäsche und Handtücher.\n                       Kabel-TV,free Wlan",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Nr.1, 2, Apartment/Wohn-Schlafraum/Bad,",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "49.00",
+          "maxPrice": "79.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "49.00",
+          "maxPrice": "79.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 1 Schlafraum",
+      "description": "Appartement 3: Für 2 - 3 Personen, 40 m, mit Schlafzimmer, Wohnzimmer ( mit Schlafge-\n               legenheit für 1 Pers.), Kochnische, Bad und WC.\n               Komplett eingerichtet incl. Bettwäsche und Handtücher.\n               Kabel-TV,free Wlan\n               kleiner Balkon\n\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Nr. 3, Apartment/1 Schlafraum/Bad, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "65.00",
+          "maxPrice": "109.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "65.00",
+          "maxPrice": "109.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "65.00",
+          "maxPrice": "109.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 3 Schlafräume",
+      "description": "Appartement 4: Für 4 Personen, 54 m, mit 1 Doppelzimmer, 2 Einzelzimmer, Wohnzimmer, \n               Kochnische, Bad und WC.\n               Komplett eingerichtet incl. Bettwäsche und Handtücher.\n               Kabel-TV,free Wlan\n               Kleiner Balkon",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Nr. 4, Apartment/3 Schlafräume/Bad, WC",
+          "numberOfRooms": "4.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "89.00",
+          "maxPrice": "145.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "89.00",
+          "maxPrice": "145.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "89.00",
+          "maxPrice": "145.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Appartement Alexander",
+    "streetAddress": "Alte Leutascherstr. 59 / Top 22",
+    "addressLocality": "Seefeld in Tirol",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 680 1349015",
+    "email": "hayley.calverley@yahoo.com"
+  },
+  "name": "Appartement Alexander",
+  "currenciesAccepted": "EUR"
+}

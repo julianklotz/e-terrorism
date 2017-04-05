@@ -1,0 +1,49 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation"
+  ],
+  "name": "Paintball",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3977255196591",
+    "longitude": "11.2650488787735"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Paintball Tirol",
+    "streetAddress": "Innsbruckerstraße",
+    "addressLocality": "Scharnitz",
+    "postalCode": "6108",
+    "addressCountry": "AT",
+    "telephone": "(0043) 699 10 10 90 09",
+    "email": "info@paintball-tirol.at",
+    "url": "http://www.paintball-tirol.at"
+  },
+  "description": "Bei uns sind Sie genau richtig um Paintball zu spielen! Ob Vereine oder kleine Gruppen, jeder ist willkommen. Mindestteilnehmer: 6 Pers., Mindestalter 16 Jahre, Preis: € 42,-/Pers. inkl. Ausrustung, Feldmiete sowie 500 Paintballs. Nur nach Terminvereinbarung.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9f3ab3df-0586-48a3-9891-6a9bd5812bf9/99/image.jpg",
+      "caption": "Paintball"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/29fca91f-141b-471b-8c4c-5197715f282e/99/image.jpg",
+      "caption": "Paintball woodland"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/28f17d1b-a01e-4468-9cf8-1f55b566208f/99/image.jpg",
+      "caption": "Paintball Gruppe"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f22a5068-f7a6-44db-bd52-ed4fb67421b6/99/image.jpg",
+      "caption": "Paint"
+    }
+  ],
+  "url": [
+    "http://www.paintball-tirol.at"
+  ]
+}

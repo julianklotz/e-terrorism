@@ -1,0 +1,30 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation"
+  ],
+  "name": "Wanderverein Seefeld",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Wanderverein Seefeld",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT"
+  },
+  "description": [
+    "Wanderwochen: 5 geführte Wanderungen mit autorisierten und geprüften Bergwanderführern, jeden Tag 3 verschiedene Schwierigkeitsstufen.\n\"Goldener Herbst\": 17.09. - 24.09.11 - € 79,-\n\"Goldener Herbst\": 24.09. - 01.10.11 - € 79,-",
+    "Wanderwochen: 5 geführte Wanderungen mit autorisierten und geprüften Bergwanderführern, jeden Tag 3 verschiedene Schwierigkeitsstufen.\n\"Goldener Herbst\": 17.09. - 24.09.11 - € 79,-\n\"Goldener Herbst\": 24.09. - 01.10.11 - € 79,-"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4d183a19-e923-4880-83ff-3c66e28efbe5/99/image.jpg",
+      "caption": "Wandern Sommer"
+    }
+  ]
+}

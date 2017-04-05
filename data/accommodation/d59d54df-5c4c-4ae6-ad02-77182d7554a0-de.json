@@ -1,0 +1,16 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Birkenwald - Top C4",
+    "streetAddress": "Andreas Hofer Str. 606",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT"
+  },
+  "name": "ZW-Heise Edith und Albrecht",
+  "currenciesAccepted": "EUR"
+}

@@ -1,0 +1,48 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "Bunter Unterhaltungsabend mit Live-Musik",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Anti-Stress-Resort Alpenhotel Karwendel",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Ostbach 18",
+      "addressLocality": "Leutasch",
+      "postalCode": "6105",
+      "addressCountry": "AT",
+      "telephone": "(0043) 5214 6304",
+      "faxNumber": "(0043) 5214 6304 22",
+      "email": "hotel@karwendel.com",
+      "url": "http://www.karwendel.com"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Anti-Stress-Resort Alpenhotel Karwendel",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Ostbach 18",
+      "addressLocality": "Leutasch",
+      "postalCode": "6105",
+      "addressCountry": "AT",
+      "telephone": "(0043) 5214 6304",
+      "faxNumber": "(0043) 5214 6304 22",
+      "email": "hotel@karwendel.com",
+      "url": "http://www.karwendel.com"
+    }
+  },
+  "description": "Eintritt frei. Tischreservierung erbeten unter Tel. 05214 6304.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a5399c8f-6fd7-4106-9520-5912c4cdb109/99/image.jpg",
+      "caption": "karwendel"
+    }
+  ],
+  "startDate": "2017-01-11T19:30:00",
+  "endDate": "2017-03-09"
+}

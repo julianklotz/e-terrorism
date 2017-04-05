@@ -1,0 +1,77 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.villacaroline.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Villa Caroline - App. Bisson Francesca",
+    "streetAddress": "Leutascherstr. 281 / Top 3",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "0043 69917866781",
+    "email": "info@holiday-seefeld.at",
+    "url": "http://holiday-seefeld.at"
+  },
+  "name": "Villa Caroline - App. Bisson Francesca",
+  "description": [
+    "leutascherstraße",
+    "Luxusapartment, zentrale Lage, 2 Schlafzimmer, 2 Badezimmer, Fußbodenheizung, Kamin"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5bbbd472-ef9d-4d38-a024-5334c8d57269/99/image.jpg",
+      "caption": "Sommer "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/519ec37c-580d-49c2-b6bd-943e9bf057b0/99/image.jpg",
+      "caption": "Sommer 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2e66384d-878b-4762-8334-47c77602b53f/99/image.jpg",
+      "caption": "Aussicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/13e7c8df-a45c-4c99-80f5-8a4788f832aa/99/image.jpg",
+      "caption": "Panoramafoto von Wohnung"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3307658",
+    "longitude": "11.1802740000001"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 2 Schlafräume",
+      "description": "Luxusappartement (110 m2) in zentrale Lage, mit Lift und Garage.\nDas Wohnzimmer hat einen gemütlichen Kamin, elegante Sitzgarnitur, SAT-Fernseher und -Radio, DVD-Player, Telefon und gratis Internet. Es gibt eine schöne Eßecke und eine bestens ausgestattete Küche.\n4 Personen schlafen in 2 Schlafzimmern. 2 Kinder können schlafen auf dem Schlafcouch schlafen. Für ein zusätzliches Babybett ist ebenfalls Platz.\nWeiters gibt es 2 Luxusbäder mit Fußbodenheizung und einen Rundumbalkon mit Eßecke.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement 3",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "1"
+          }
+        }
+      ]
+    }
+  ]
+}

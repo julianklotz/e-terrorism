@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Landform",
+    "Hostel"
+  ],
+  "name": "Tillfussalm",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3717369778346",
+    "longitude": "11.0402995347977"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Tillfussalm",
+    "streetAddress": "Wettersteingebirge Leutasch",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 5516344",
+    "url": "http://www.tillfussalm.at"
+  },
+  "description": "Nur im Sommer geöffnet! Stempelstelle, Übernachtungsmöglichkeit für 10 Personen, E-Bike Akkuwechselstation, Butter und Käse aus eigener Erzeugung \n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1d3a735e-ab33-44a4-b87e-d661b4bc7929/99/image.jpg",
+      "caption": "Tillfussalm"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/68e363a6-c8cb-4db8-b55b-6b0c571316b8/99/image.jpg",
+      "caption": "tillfuss"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/edef3e2e-7585-4053-914e-4485a0d266f4/99/image.jpg",
+      "caption": "Tillfussalm1"
+    }
+  ],
+  "url": [
+    "http://www.tillfussalm.at"
+  ]
+}

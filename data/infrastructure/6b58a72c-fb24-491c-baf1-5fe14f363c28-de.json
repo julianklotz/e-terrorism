@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure"
+  ],
+  "name": "Parkplatz Reithalle (P17)",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3347510468343",
+    "longitude": "11.1778485774994"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Parkplatz Reithalle (P17)",
+    "streetAddress": "Leutascherstr. ",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043)52122241"
+  },
+  "description": [
+    " ",
+    "gebührenfrei"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3a21ef71-b9d1-4666-94b4-ff586f071c63/99/image.jpg",
+      "caption": "Parkplatz"
+    }
+  ]
+}

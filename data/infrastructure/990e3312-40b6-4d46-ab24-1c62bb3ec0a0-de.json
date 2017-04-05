@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BarOrPub",
+    "IceCreamShop",
+    "CafeOrCoffeeShop"
+  ],
+  "name": "Enzo PS - Szene Café/Bar",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3295301531099",
+    "longitude": "11.1846023797989"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Enzo PS - Szene Café",
+    "streetAddress": "Olympiastr. 882",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 8697205",
+    "email": "info@enzops.at",
+    "url": "http://www.enzops.at"
+  },
+  "description": [
+    " ",
+    "Sitzplätze für ca. 80 Personen\n\nSonnenterrasse, W-LAN, Formel 1 und Top Sport Events auf Großbildschirm, Buchverleih, Anmieten eines Ferraris möglich (auf Anfrage), warme Küche ab 11.30 Uhr."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/430e0cd1-184d-433c-ae81-7a50eb735279/99/image.jpg",
+      "caption": "Enzo PS - Szene Café"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e2a093f3-d846-4437-a397-ffa3a7179dcd/99/image.jpg",
+      "caption": "Enzo Terrasse"
+    }
+  ],
+  "url": [
+    "http://www.enzops.at"
+  ]
+}

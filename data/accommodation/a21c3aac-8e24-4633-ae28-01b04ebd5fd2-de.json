@@ -1,0 +1,18 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Wildmoos 8",
+    "addressLocality": "Telfs",
+    "postalCode": "6410",
+    "addressCountry": "AT"
+  },
+  "name": "ZW - Lechle Dora",
+  "currenciesAccepted": "EUR"
+}

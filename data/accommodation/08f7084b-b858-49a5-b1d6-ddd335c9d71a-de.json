@@ -1,0 +1,265 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.rantnerhof.com",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Rantnerhof",
+    "streetAddress": "Hermannstalstr.138",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "0043 5212 2280",
+    "faxNumber": "(0043) 5212 2280",
+    "email": "seefeld@rantnerhof.com",
+    "url": "http://www.rantnerhof.com"
+  },
+  "name": "Rantnerhof",
+  "description": [
+    "Neu gebautes Haus\nin sonniger, ruhiger Lage, wenige Minuten vom Zentrum entfernt. \nGroße, komfortable Zwei- oder Dreizimmer-Wohnungen mit schöner Aussicht, Kabel-TV, kostenloses W-LAN und Radio. \n\nSchöne und geräumige Duschen.\n\nKüchenzeile: Ceranfeld, Kühlschrank mit Gefrierteil,\nToaster, Mikrowelle, Wasserkocher, Kaffeemaschine, Geschirrspüler,\nsämtliches Geschirr \n\nGemütliche Sitzecken\n \nNichtraucherwohnungen\n\nFamiliär geführtes Haus, kinderfreundlich\n\nüberdachter Autoabstellplatz! \n\nkurze Entfernung zu den Liften und zur Skibushaltestelle \n\nBrötchenservice\n\nMitglied der Golfakademie\n\nSchuhtrockner für Winterurlauber",
+    "INKLUSIV: Strom, Wasser, \nHeizung in der Wintersaison, \nBettwäsche, Hand- und Badetuch,Küchenwäsche, Putzmittel\n\n\n2 x wöchentlich Wechsel der Hand- und Badetücher\n\nOlympiabad Ermässigung 35%  \nMitglied Golakademie 50% Ermässigung auf Greenfee"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ae259a9f-9e0b-41bc-a27a-11bad4160cd0/99/image.jpg",
+      "caption": "Winter Rantnerhof Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9abc1efc-9175-4cf9-96e5-8a55d297785a/99/image.jpg",
+      "caption": "Sommer Rantnerhof Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/82050d49-b81b-4e78-a362-e3972125f931/99/image.jpg",
+      "caption": "Hausansicht Winter Rantnerhof Seefeld"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3334131511103",
+    "longitude": "11.1944514513016"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Das Appartement Nr. 1 ist eine helle, ca. 40m² grosse Wohhung in einem gemütlichen, ländlichen Stil eingerichtet  hat eine herrliche Aussicht.\nSie besteht aus einem Schlafzimmer für 2 Personen, \ndem Wohnraum mit Küchenzeile sowie DU/WC \nder Wohnraumbereich hat eine Ausziehcouch, Kabel-TV und Esstisch.\nDie Küchenzeile: 4-Plattenherd, Kühlschrank mit Gefrierfach, Mikro, Geschirrspüler, Kaffeemaschine, Toaster sämtliches Geschirr\nW-LAN ist KOSTENLOS!",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment Nr. 1/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "46.00",
+          "maxPrice": "95.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "46.00",
+          "maxPrice": "95.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Appartment Nr. 2 ist eine neue, wunderschöne, helle  Wohnung mit Erker und ca. 50m2 gross.Im grossen Schlafzimmer kann problemlos ein Kinderbett dazugestellt werden, \nder Essbereich ist räumlich etwas getrennt, der Wohnraum mit Couch (auch ausziehbar) und Kabel-TV \nWeiters hat die Wohnung eine grosse Nasszelle mit DU/WC, einen grossen Balkon, \nKüche mit Ceranfeld, Geschirrspüler, Kühlschrank mit Gefrierfach, Kaffeemaschine, Mikro, \nüberdachter Parkplatz am Haus\nGRATIS W-LAN ZUGANG!",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment Nr. 2/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "40.00",
+          "maxPrice": "106.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "53.00",
+          "maxPrice": "106.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "66.00",
+          "maxPrice": "121.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Appartement Nr. 3 ist eine neue, sehr schöne, helle  Wohnung mit  ca. 50m2 und Südbalkon und herrlicher Aussicht.\nSie besteht aus einem Schlafzimmerfür 2 Personen,  Dusche/WC, separates WC, \ngrosser Wohnraum mit Couch (auch ausziehbar) und dem Esstisch. \nDie Küchenzeile: Ceranfeld, Geschirrspüler, Mikro, Toaster, Kaffeemaschine, Wasserkocher, sämtliches Geschirr usw. \nein überdachter Autoabstellplatz ist direkt am Haus. Der W-LAN Zugang ist KOSTENLOS!",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment Nr. 3/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "40.00",
+          "maxPrice": "106.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "53.00",
+          "maxPrice": "106.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "Das Appartement Nr.4 ist eine neue, sehr helle Wohnung mit  Erker und  Südbalkon.  Grosse ca. 45m2\nEs gibt ein Schlafzimmer für 2 Personen und ein Einbettzimmer.\nDusche/WC ist angenehm gross und hat helle Fliesen.  \nDer Wohnbereich ist mit Couch und Kabel-TV und sowie dem  Esstisch, \ndie Küchenzeile: Ceranfeld, Kühlschrank mit Gefrierfach, Geschirrspüler, Mikrowelle, Toaster und sämtlichem Geschirr, ausgestattet.\nDer W-LAN Zugang ist KOSTENLOS!\nDer überdachte Autoabstellplatz ist direkt am Haus.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment Nr. 4/2 Schlafräume/Dusche, WC",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "40.00",
+          "maxPrice": "106.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "53.00",
+          "maxPrice": "106.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "67.00",
+          "maxPrice": "120.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 3 Schlafräume",
+      "description": "Das Appartement Nr. 5 ist App. Nr. 1 und 2 zusammengelegt und hat ca. 100m2  \nEs ist eine grosse, helle Wohnung mit Traumaussicht und Westbalkon. \nEin schöner Wohnbereich sowie ein grosser Essplatz für 6-8 Personen,\n2 Schlafzimmer, 1 Schlafraum mit Verbindungstüre, \n2x Dusche/WC, 2 Kabel-TV\n\nGRATIS W-LAN ZUGANG!\n\nDie Küche: Ceranfeld, Kühlschrank mit Gefrierteil, Toaster, Kaffeemaschine, Wasserkocher und sämtliches Geschirr\n\nDer überdachte Autoabstellplatz ist direkt am Haus.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment Nr. 5/3 Schlafräume/Dusche, WC",
+          "numberOfRooms": "4.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "83.00",
+          "maxPrice": "200.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "83.00",
+          "maxPrice": "200.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "99.00",
+          "maxPrice": "200.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "113.00",
+          "maxPrice": "214.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant"
+  ],
+  "name": "Birkegg",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3686255634766",
+    "longitude": "11.1379107251312"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Gasthof Birkegg",
+    "streetAddress": "Kirchplatzl 129",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6854",
+    "faxNumber": "(0043) 5214 6854 190",
+    "email": "birkegg@utanet.at",
+    "url": "http://www.birkegg.at"
+  },
+  "description": "Sitzplätze für ca. 70 Personen\n\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5816f5e2-30e0-4612-896b-1172399e1e85/99/image.jpg",
+      "caption": "birkegg"
+    }
+  ],
+  "url": [
+    "http://www.birkegg.at"
+  ]
+}

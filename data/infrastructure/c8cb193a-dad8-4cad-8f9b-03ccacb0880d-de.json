@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation",
+    "TouristAttraction"
+  ],
+  "name": "Schischule Seefeld, Skischule",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3293556296419",
+    "longitude": "11.1871182918549"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Tiroler Schischule Seefeld",
+    "streetAddress": "Münchner Str. 142",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 05212/2412",
+    "email": "schischule@schi-seefeld.at",
+    "url": "http://www.schi-seefeld.at"
+  },
+  "description": "Öffnungszeiten: täglich 8.30 - 18.00 Uhr, Sammelplatz: Geigenbuhel - Gruppeneinteilung, Gruppenunterricht: alle Kurse enden am Freitag (ausgenommen Hauptferienzeit). Kinder und Erwachsene inkl. Schirennen: \nKlassenunterricht Erwachsene - Kinder: 1-6 Tages Kurse a 4 Stunden inkl. Rennen, Beginn So oder Mo, in der Ferienzeit täglich\nKinderkurs für Kinder von 3 bis 15 Jahren mit Mittagessen und Betreuung: Kinder Schikurse inkl. Mittagessen und Betreuung, Einzelbuchung für Mittagessen und Betreuung möglich.\nZwergerl-Schikurs: Für Kinder von 3 bis max. 5 Jahren, ca. 8 Kinder pro Gruppe, nur für Anfänger, Beginn Montag Snowboard: Kurs a 2 Stunden, gleicher Preis fur Erwachsene u. Kinder, ca. 8 Personen pro Gruppe, auf Anfrage auch Freestylekurse (gleicher Preis)\nPrivatunterricht Alpin und Snowboard: Privatunterricht täglich von 1-6 Stunden möglich, fur Anfänger oder fortg. Schifahrer und auch fur Snowboarder.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/63a6184d-cf68-4d66-b1ce-2154afe17f18/99/image.jpg",
+      "caption": "Logo Schischule"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/314d19ef-8035-4ef3-9765-0f041b5d9723/99/image.jpg",
+      "caption": "Schischule Seefeld"
+    }
+  ],
+  "url": [
+    "http://www.schi-seefeld.at"
+  ]
+}

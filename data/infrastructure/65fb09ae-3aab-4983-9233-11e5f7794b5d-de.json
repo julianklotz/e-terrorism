@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Landform"
+  ],
+  "name": "Ederkanzel",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.4413018",
+    "longitude": "11.2640301"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Ederkanzel",
+    "streetAddress": "Ederkanzel 1",
+    "addressLocality": "Mittenwald",
+    "postalCode": "82481",
+    "addressCountry": "DE",
+    "telephone": "+4988231681"
+  },
+  "description": "Stempelstelle",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5f8908b1-0c0e-43c8-8d16-b266ecd42e3f/99/image.jpg",
+      "caption": "Ederkanzel"
+    }
+  ],
+  "url": [
+    "http://"
+  ]
+}

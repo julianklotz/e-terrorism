@@ -1,0 +1,99 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.haussonja-seefeld.at/",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Sonja",
+    "streetAddress": "Am Klosterwald 644",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 1633205",
+    "email": "info@haussonja-seefeld.at",
+    "url": "http://www.haussonja-seefeld.at"
+  },
+  "name": "Haus Sonja",
+  "description": [
+    "Unser familiär geführtes Haus, gelegen auf einer kleinen Anhöhe, begrüßt Sie nur 5 Gehminuten vom Stadtzentrum von Seefeld entfernt mit Appartements im alpinem Stil mit einer Terrasse mit atemberaubendem Bergblick. Entspannen Sie sich auf unserer Sonnenterrasse mit Garten und kleinem Spielplatz, umgeben vom Karwendel und Wettersteingebirge. \nMorgens werden Ihnen auf Anfrage frisch gebackene Brötchen vom Bäcker in unser Haus geliefert. Ihrem Komfort dient ein Trockenraum mit einem Schuhtrockner in der Unterkunft. Ihr Fahrzeug können Sie kostenfrei an der Unterkunft parken.\nDer gratis Seefeld-Shuttle Bus hält direkt unterhalb unseres Hauses. Mehrere Geschäfte, Supermärkte, Restaurants, Olympia Schwimmbad,Skigebiete und Langlaufloipen sind in wenigen Minuten erreichbar.",
+    "Inklusive : Radio, Flatscreen TV, gratis W-LAN, Terrasse, Garten, Kinderspielplatz, Wäsche, Transfer vom Bahnhof, Trockenraum, Gartengrill\n\nExklusive : Brötchenservice",
+    "Check - in 15:00 / Check - out bis 10:00\nUnser Haus befindet sich am Klosterwald Richtung Leutasch, kurz vor dem Ortsende, genau gegenüber dem Roten Kreuz.",
+    "Ferienwohnung Seefeld, Appartement Seefeld, Unterkunft Seefeld, Urlaub in Seefeld Österreich, "
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "reviewCount": "14"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/fd2ea677-8c42-4cd7-891f-9caf81f4d7fd/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1fc6b2e4-23a5-49e3-8b36-522bb73ecc40/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ac2c6d33-18f2-4ca0-a3e3-22a76260e659/99/image.jpg",
+      "caption": "Ausblick vom Haus"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1ef732a6-8c98-4aa4-a539-7505918ff6a5/99/image.jpg",
+      "caption": "Grundriss Wohnungen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/951220d3-96be-42dd-b428-287e4ae75e8d/99/image.jpg",
+      "caption": "Garten Bild 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ea31269d-9224-4327-a83f-ec51598454ba/99/image.jpg",
+      "caption": "Garten Bild 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/19260c22-947e-48c0-b76c-8ae50c5ce7fd/99/image.jpg",
+      "caption": "Garten Bild 3"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3329986874062",
+    "longitude": "11.1784493923187"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Unsere Ferienwohnung mit ca. 50m² bestehen  aus einer Dusche/Badezimmer/WC Einheit, einer Küchenzeile mit Kochnische und Kühlschrank, einem Schlafzimmer mit großem Doppelbett, geräumiges Wohnzimmer mit Schlafsofa und Essbereich. Beide Wohnungen bieten direkten Zugang zum Garten/Terrassenbereich. Direkt vor unserer Unterkunft stehen kostenlose Parkmöglichkeiten zur Verfügung.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "FoodEstablishment"
+  ],
+  "name": "Bierstüberl - Goldener Adler",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3887665886323",
+    "longitude": "11.2645677938484"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Goldener Adler",
+    "streetAddress": "Innsbrucker Str.  123",
+    "addressLocality": "Scharnitz",
+    "postalCode": "6108",
+    "addressCountry": "AT",
+    "telephone": "+4352135239",
+    "email": "adlerscharnitz@gmx.at",
+    "url": "http://www.adlerscharnitz.at"
+  },
+  "description": "Bierstüberl ab 16 h geöffnet, Mo/Di Ruhetag",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/62872098-555d-4656-a378-d93fc87751ed/99/image.jpg",
+      "caption": "Sommer Goldener Adler"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/bfdf0a1a-aec1-49f3-a782-c704020b64aa/99/image.jpg",
+      "caption": "Winter Goldener Adler"
+    }
+  ],
+  "url": [
+    "http://www.adlerscharnitz.at",
+    "http://www.karwendel.org",
+    "http://www.seefeld.com"
+  ]
+}

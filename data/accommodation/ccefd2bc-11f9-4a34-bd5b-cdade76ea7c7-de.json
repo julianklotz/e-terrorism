@@ -1,0 +1,232 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.pensionmargret.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Pension Margret",
+    "streetAddress": "Moos 19 a",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6641",
+    "faxNumber": "(0043) 5214 6641",
+    "email": "pension-margret@aon.at",
+    "url": "http://www.pensionmargret.at"
+  },
+  "name": "Pension Margret",
+  "description": [
+    "Erholung pur in unberührter Natur!\nRuhige Panoramalage abseits der Straße für Rad-, Berg- und Wandertouren. Loipennähe (3 Min.Gehzeit) Zweiraum-Appartements und Zimmer mit neuer, heller Einrichtung komplett ausgestattet, zweites Doppelzimmer zusätzlich buchbar, Brötchenservice, verschließbarer Abstellraum für Fahrräder,  geheizter Schiraum, möblierte Balkone, windgeschützte Sonnenterrasse mit Gartengrill. Geschäft und Restaurants in der Nähe. Sat- TV mit Flachbildschirm, regelmäßige Schneeräumung.\n\nIm Preis inklusive:\nüberdachter Autoabstellplatz, W-Lan, Loipengebühr, Leihfahrrad, ebenso gratis Eintritt in die ErlebnisWlet Alpenbad Leutasch im Sommer und die gesamte Wäscheausstattung.\n\n\n",
+    "Kostenlos: Fahrräder, Teeküchenbenützung - Nachmittags-Kaffee, überdachter Autoabstellplatz, täglich freier Eintritt in das Alpenbad Leutasch im Sommer\n\nNebenkosten: Ortstaxe, Endreinigung",
+    "Von Mittenwald kommend immer geradeaus in Richtung Oberleutasch ziemlich am Ortsende im Ortsteil Moos an der rechten Seite am Waldrand."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/155260d6-a5f6-4874-9647-c62d89d9719d/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2a16ef31-fb95-4777-9ca3-59c574a1f8ef/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/12b5f366-349f-41b5-9158-5559ea1bc5de/99/image.jpg",
+      "caption": "Frühstücksraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/cb2e19f1-a9e1-423d-bf2b-4dd0befc80dc/99/image.jpg",
+      "caption": "Teeküche"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.354701313813",
+    "longitude": "11.121682073085"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "schönes 2-Raum-Appartement in stilvoller Einrichtung mit Blick zum Tal und Gebirge, möblierter Balkon, Dreibettzimmer,Dusche/WC, Wohnzimmer mit Küchenzeile, SAT- TV, täglich freier Eintritt in das Alpenbad Leutasch im \nSommer, überdachter Autoabstellplatz\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment Nr. 1/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "45.00",
+          "maxPrice": "74.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "50.00",
+          "maxPrice": "78.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "gemütliches 2-Raum-Appartement im Tiroler Stil, hell eingerichtet, mit kompletter Ausstattung herrlicher Panoramablick, möblierter Balkon,\ntäglich freier Eintritt in das Alpenbad Leutasch im Sommer,\nüberdachter Autoabstellplatz",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment Nr. 2/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "45.00",
+          "maxPrice": "74.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Gemütliches,kleines 2-Raum-Appartement im Tiroler Stil eingerichtet, in sehr ruhiger Lage mit kompletter Aus-\nstattung,möblierter Balkon, täglich freier Eintritt in das Alpenbad Leutasch im Sommer, überdachter Autoabstellplatz\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment Nr. 3/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "40.00",
+          "maxPrice": "57.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Komplett neues 2-Raum-Appartement für Allergiker mit möbliertem Südbalkon, hell eingerichtet, mit wunderschönem Rundblick auf Tal und Gebirge.Das zweite Doppelzimmer ist ebenfalls mit Dusche/WC,SAT-TV und Balkon ausgestattet. Täglich freier Eintritt in das Alpenbad Leutasch im Sommer,\nüberdachter Autoabstellplatz\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment Nr. 4/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "46.00",
+          "maxPrice": "77.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "50.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "80.00",
+          "maxPrice": "110.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Sehr geschmachvolle helle Einrichtung, Blick auf die umliegende Bergwelt, möblierter Balkon,Teeküchenbenützung\nmit Kühlschrank und Kafeemaschine,täglich Gratiseintritt in das Alpenbad Leutasch im Sommer\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "28.00",
+          "maxPrice": "32.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

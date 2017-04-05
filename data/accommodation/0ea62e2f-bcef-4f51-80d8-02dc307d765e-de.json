@@ -1,0 +1,65 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Hermannstalstraße 435",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2808",
+    "faxNumber": "(0043) 5212 2808"
+  },
+  "name": "Berghäusl",
+  "description": [
+    "Unser Haus liegt sonnig und ruhig, ca. 12 Gehminuten vom Ortszentrum und den Langlaufloipen bzw. der Golfakademie entfernt. Das Schigebiet Rosshütte erreichen Sie in 5 Minuten. Die Dorfbushaltestelle ist von unserem Haus ca. 300 m entfernt.",
+    "Inkl.: Heizung, Strom, Wasser, Bettwäschewechsel einmal wöchentlich, Handtuchwechsel bei Bedarf, Mo-Sa freier Eintritt in das \"Olympia Hallenbad, Skidepot, Parkplatz\n\nExkl.: Brötchenservice",
+    "Check-in: 15 Uhr, Check-out: 11 Uhr\nAnfahrt: Von IBK auf die A12 Richtung Arlberg - fahren Sie bei Zirl Ost Richtung Seefeld ab (B177). Biegen Sie bei der 2. Einfahrt Seefeld Mitte rechts ab vor bis zur Kreuzung - links abbiegen - durch die Unterführung - vor bis zum Kreisverkehr - im Kreisverkehr die 1. Ausfahrt rechts bis zum Waldhotel - 50 m weiter auf der rechten Seite finden Sie uns (zweites Haus) \nVon Garmisch: über Mittenwald- Scharnitz - Seefeld - Seefeld Mitte abfahren - rechts abbiegen bis zum Kreisverkehr, ab Kreisverkehr weiterfahren wie oben angegeben."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0850b7f5-a07c-433d-b33f-53f6dae2ae3f/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f12f880c-f49c-4781-b0d6-c3025a9b71ff/99/image.jpg",
+      "caption": "Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3324169784754",
+    "longitude": "11.1969137191772"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Gemütliches, rustikales 2-Raum Appartement (ca. 45 m2) mit Südbalkon, Dusche/WC, Wohnzimmer, mit integrierter Kochnische, Schlafcouch u. Kabel TV, Separates Schlafzimmer mit Doppelbett.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

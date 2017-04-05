@@ -1,0 +1,48 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "\"Wir machen Reith sauber\"",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Informationsbüro Reith",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Römerstraße 52",
+      "addressLocality": "Reith bei Seefeld",
+      "postalCode": "6103",
+      "addressCountry": "AT",
+      "telephone": "(0043)50880530 ",
+      "faxNumber": "(0043)50880831",
+      "email": "info.reith@seefeld.com",
+      "url": "http://www.seefeld.com"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Informationsbüro Reith",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Römerstraße 52",
+      "addressLocality": "Reith bei Seefeld",
+      "postalCode": "6103",
+      "addressCountry": "AT",
+      "telephone": "(0043)50880530 ",
+      "faxNumber": "(0043)50880831",
+      "email": "info.reith@seefeld.com",
+      "url": "http://www.seefeld.com"
+    }
+  },
+  "description": "HILF MIT!\nWIR MACHEN REITH SAUBER!\nAlle großen und kleinen Reither sind eingeladen, beim diesjährigen Frühjahrsputz unserer Gemeinde mitzuhelfen.\n22. April 2017, 9 Uhr Treffpunkte: Leithen Bushaltestelle, Reith Volksschule, Auland Bushaltestelle\nMüllzangen und Müllsäcke werden von der Gemeinde zur Verfügung gestellt.\nAls Dankeschön gibts für alle Helfer eine kleine Jause!",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e7864a30-1745-4b25-99cf-252a2233d11d/99/image.jpg",
+      "caption": "Müllsammlung"
+    }
+  ],
+  "startDate": "2017-04-22T09:00:00",
+  "endDate": "2017-04-22"
+}

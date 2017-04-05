@@ -1,0 +1,53 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant"
+  ],
+  "name": "Mooswirt, Restaurant",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3640988716887",
+    "longitude": "11.1657940518371"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Mooswirt",
+    "streetAddress": "Weidach 381 e",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043)5214 6680",
+    "email": "federico.bonaso@hotmail.com"
+  },
+  "description": "Sitzplätze für ca. 80 Personen",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/20e6316d-e8d7-4f19-aa16-82036e6d41af/99/image.jpg",
+      "caption": "Mooswirt"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4e12b037-70c6-4cc3-a687-7b1498aa460c/99/image.jpg",
+      "caption": "Mooswirt2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7ed8b37a-3c55-41a2-bb52-97f8b6fbfc8e/99/image.jpg",
+      "caption": "Mooswirt3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/cd8c1bb1-8693-4ca4-b326-839261eabb5d/99/image.jpg",
+      "caption": "Mooswirt1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/59b39be5-f94f-4711-ba65-79334c2c88ce/99/image.jpg",
+      "caption": "Mooswirt4"
+    }
+  ],
+  "url": [
+    "http://"
+  ]
+}

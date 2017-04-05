@@ -1,0 +1,157 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.prantmerhof.com",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Prantmerhof",
+    "streetAddress": "Ahrn 207",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6389",
+    "faxNumber": "(0043) 5214 6389",
+    "email": "klotz.martin@aon.at",
+    "url": "http://www.prantmerhof.com"
+  },
+  "name": "Prantmerhof",
+  "description": [
+    "Unser Haus liegt in einer schönen und sonnigen Lage, umgeben von Wiesen und Feldern. Im Sommer idealer Ausgangspunkt für Wanderungen. Im Winter direkter Einstieg in die Loipe. Aufenthaltsraum mit Kachelofen, rustikal eingerichtete FW und Zimmer, familienfreundlich, überdachter Abstellplatz, Grillplatz.\nZu den Appartements kann gerne ein Doppelzimmer dazu vermietet werden.",
+    "Überdachter Unterstellplatz für PKW´s kostenlos.",
+    "Von Mittenwald kommend finden sie unser Haus nach ca. 7 km im Ortsteil Ahrn auf der rechten Seite.\n\nVon Weidach kommend fahren sie in Richtung Gasse und weiter nach Ahrn. Dort finden sie unser Haus auf der linken Seite."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f9a08904-830d-48a0-8975-7ffdff82998b/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/91ff9666-221e-44f8-ad65-aa70ba3b9f3d/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a9f53ed5-0539-4146-bd7b-fecc67ea2dcd/99/image.jpg",
+      "caption": "Winter1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1bf4bf3f-381f-4fd6-b76e-ff2d009d60fd/99/image.jpg",
+      "caption": "Frühstücksraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/692688e2-8d58-402d-895c-93692bbd0a0a/99/image.jpg",
+      "caption": "Kachelofen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5622e0a3-2b8c-4a8e-9cae-dcfebf37c9af/99/image.jpg",
+      "caption": "Hausgang"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c4c7ce8f-3015-4f16-8569-ac4dbdff9d7f/99/image.jpg",
+      "caption": "Bauernschrank"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.383010873915",
+    "longitude": "11.168707630571"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "2 Doppelzimmer mit DU/WC, SAT-TV, Schlafcouch für 3. Person, Balkon",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "App. für 2-3 Personen mit sep. Schlafzimmer, Wohn-Schlafzimmer, 2 Bäder, Küche mit Essplatz, Balkon; gerne kann ein zusätzliches Schlafzimmer dazugemietet werden.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appt.-ROT/1 Schlafraum/Dusche, WC,2 Bad",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "45.00",
+          "maxPrice": "45.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "App. für 2-4 Pers. mit sep. Schlafzimmer, Wohn-Schlafzimmer, Küche mit Essplatz, Balkon; gerne kann ein zusätzliches Schlafzimmer dazugemieter werden.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment-GRÜN/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "45.00",
+          "maxPrice": "45.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

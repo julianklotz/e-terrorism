@@ -1,0 +1,52 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "Kabarett am Vorabend des Dirndljägerballs 2017",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Kristallzauber GesnBr",
+    "employee": {
+      "@type": "Person",
+      "givenName": "Armin",
+      "familyName": "Wanner u. Mitges."
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Gschwandtweg 21",
+      "addressLocality": "Reith bei Seefeld",
+      "postalCode": "6103",
+      "addressCountry": "AT",
+      "telephone": "+436605767773 ",
+      "url": "http://www.gregorglanz.at"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Kristallzauber GesnBr",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Gschwandtweg 21",
+      "addressLocality": "Reith bei Seefeld",
+      "postalCode": "6103",
+      "addressCountry": "AT",
+      "telephone": "+436605767773 ",
+      "url": "http://www.gregorglanz.at"
+    }
+  },
+  "description": "Der legendäre Dirndljägerball hat sich zum absoluten Sommerhighlight in Tirol etabliert und ist ein glamouröses Top-Event mit einem großartigen Showprogramm. Am Fuße des Gschwandtkopfs in der urigen Sportalm mit Festzelt wird dieses Jahr erneut der „Pink Carpet“ für alle Ballbesucher, Dirndl- und Lederhosenfans ausgerollt. Darüber hinaus werden auch beim diesjährigen Dirndljägerball erneut eine „Dirndlkönigin“ und ein „Lederhosenkönig“ gekrönt. Weiters gibt es auch ein Rahmenprogramm mit einem Kabarett von Alex Kristan am Freitag!\n\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d651f8f7-fc90-4a74-93b9-396c48a33e36/99/image.jpg",
+      "caption": "Alex Kristan"
+    }
+  ],
+  "url": [
+    "http://www.sportalm-seefeld.at"
+  ],
+  "startDate": "2017-06-09T19:00:00",
+  "endDate": "2017-06-09"
+}

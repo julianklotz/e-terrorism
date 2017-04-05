@@ -1,0 +1,51 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "Erstkommunion",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Pfarramt Reith",
+    "employee": {
+      "@type": "Person",
+      "givenName": "Ernst",
+      "familyName": "Ranalter"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Römerstraße 24",
+      "addressLocality": "Reith bei Seefeld",
+      "postalCode": "6103",
+      "addressCountry": "AT",
+      "telephone": "(0043)521252782 ",
+      "email": "Pfarre.Reith@dibk.at",
+      "url": "http://www.dibk.at"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Pfarramt Reith",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Römerstraße 24",
+      "addressLocality": "Reith bei Seefeld",
+      "postalCode": "6103",
+      "addressCountry": "AT",
+      "telephone": "(0043)521252782 ",
+      "email": "Pfarre.Reith@dibk.at",
+      "url": "http://www.dibk.at"
+    }
+  },
+  "description": "Erstkommunion in der Pfarrkirche Reith",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/86c070a9-6c5b-4dc2-89fd-4772d64f6309/99/image.jpg",
+      "caption": "Kinder"
+    }
+  ],
+  "startDate": "2017-05-28T10:00:00",
+  "endDate": "2017-05-28"
+}

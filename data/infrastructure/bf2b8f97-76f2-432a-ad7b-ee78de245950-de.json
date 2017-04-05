@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure"
+  ],
+  "name": "Tankstelle Gutmann GmbH",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3869421521309",
+    "longitude": "11.2591474087067"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Innsbruck Str. 195",
+    "addressLocality": "Scharnitz",
+    "postalCode": "6108",
+    "addressCountry": "AT",
+    "telephone": "(0043)05213 20296",
+    "email": "schanzer@aon.at"
+  },
+  "description": [
+    "Geöffnet: täglich von 6:00 - 22.00 Uhr\nmit M-Preis, Stehcafe und Back-Shop, Hermes Paketdienst",
+    "täglich von 06.00 bis 22.00 Uhr. "
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4b729d89-9b55-4d40-807c-ce07096103a9/99/image.jpg",
+      "caption": "Tankstelle"
+    }
+  ]
+}

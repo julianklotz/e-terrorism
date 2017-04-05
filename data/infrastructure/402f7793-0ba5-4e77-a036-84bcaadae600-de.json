@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "TouristAttraction"
+  ],
+  "name": "Zur Adlerkanzel / Weg Nr. 27",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Informationsbüro Scharnitz",
+    "streetAddress": "Innsbrucker Str. 282",
+    "addressLocality": "Scharnitz",
+    "postalCode": "6108",
+    "addressCountry": "AT",
+    "telephone": "+4350880540 ",
+    "faxNumber": "+4350880541",
+    "email": "info.scharnitz@seefeld.com",
+    "url": "http://www.seefeld.com"
+  },
+  "description": [
+    "Zur Adlerkanzel / Weg Nr. 27\nStrecke: Scharnitz / Informationsbüro – Platt – Adlerkanzel\nGehzeit: ca. 1 ½ Stunden\nVor dem Informationsbüro links hinauf bis zum Bahnübergang. Nach dem Übergang zweigen Sie\nlinks ab zwischen den Häusern dem Plattsteig folgend bis zur Weggabelung. Von dort folgen Sie\ndem markierten Steig in Serpentinen – teilweise steil – hinauf bis zum Aussichtspavillon „Adlerkanzel“.\nHerrlicher Panoramablick über das gesamte Dorf. Rückweg auf gleicher Strecke. Nicht für\nKinderwägen geeignet.",
+    "Zur Adlerkanzel / Weg Nr. 27\nStrecke: Scharnitz / Informationsbüro – Platt – Adlerkanzel\nGehzeit: ca. 1 ½ Stunden\nVor dem Informationsbüro links hinauf bis zum Bahnübergang. Nach dem Übergang zweigen Sie\nlinks ab zwischen den Häusern dem Plattsteig folgend bis zur Weggabelung. Von dort folgen Sie\ndem markierten Steig in Serpentinen – teilweise steil – hinauf bis zum Aussichtspavillon „Adlerkanzel“.\nHerrlicher Panoramablick über das gesamte Dorf. Rückweg auf gleicher Strecke. Nicht für\nKinderwägen geeignet."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/275a8080-db6c-4dbe-b182-f292d998d93f/99/image.jpg",
+      "caption": "Adlerkanzel"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f5d07448-4139-4b3f-908d-226bb93fa7a0/99/image.jpg",
+      "caption": "Scharnitz"
+    }
+  ],
+  "url": [
+    "http://www.seefeld.com"
+  ]
+}

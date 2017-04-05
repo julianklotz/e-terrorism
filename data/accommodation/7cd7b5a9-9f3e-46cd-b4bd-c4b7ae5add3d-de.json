@@ -1,0 +1,28 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Chalet Föhrenheim",
+    "streetAddress": "Weidach 348",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 2219928",
+    "faxNumber": "(0043) 5214 20212"
+  },
+  "name": "Chalet Föhrenheim (Fam. Grassi)",
+  "description": [
+    "Ehemaliges Bauernhaus 1991 renoviert; Zentrumsnähe von Weidach, ruhige sonnige Lage Loipennähe; Liegewiese mit Spielplatz, Gartenterrasse, Autoabstellplatz, Schiraum Fahrräder und Brötchenservice inkl.",
+    "Inklusive: Heizung, Strom, Wasser, Autoabstellplatz, benützung von Waschmaschine und Trockner.\nExklusive: Endreinigung und Kurtaxe",
+    "Anreisezeit: ab 15.00 Uhr\nAbreisezeit: bis 11.00 Uhr\n\nUnser Haus liegt in Weidach 348, dem Einkaufsmarkt M-Preis linkerhand."
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.373508337383",
+    "longitude": "11.168369160473"
+  },
+  "currenciesAccepted": "EUR"
+}

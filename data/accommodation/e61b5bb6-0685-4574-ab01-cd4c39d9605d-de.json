@@ -1,0 +1,475 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.appartement-torri-seefeld.com/",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf",
+    "http://www.immobilien-seefeld.com",
+    "http://www.marcati-jagd.com"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Torri di Seefeld, Appartemenhaus",
+    "streetAddress": "Olympia Straße 59",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "0043 5212 2383",
+    "faxNumber": "0043 5212 2583",
+    "email": "info@marcati.at",
+    "url": "http://www.appartement-torri-seefeld.com/"
+  },
+  "name": "Torri di Seefeld",
+  "description": [
+    "In unserem neuen Aparthotel „Torri di Seefeld“ finden Sie Ferienwohnungen für gehobene Ansprüche in denen man sich einfach wohl fühlt. Unsere Appartements sind geschmackvoll eingerichtet und bieten voll ausgestattete Küche, Fernseh- und Radioanschluss, Internetzugang, Zimmersafes, Handtücher und Bettwäsche. Alle unserer Appartements verfügen über einen Balkon bzw. einen kleinen Garten. Die Benutzung des Wellnessbereiches für unsere Hausgäste ist im Preis inbegriffen.\nEndreinigungsgebühr:\n€ 65.00 Für \u0027Apartment mit 1 Schlafzimmer\u0027\n€ 75.00 Für \u0027Superior Apartment mit 2 Schlafzimmern\u0027\n€ 85.00 Für \u0027Deluxe Apartment mit 2 Schlafzimmern\u0027",
+    "Stornogebühren:\nFür jede Buchung fällt mindestens eine Bearbeitungsgebühr von € 32,-. Ab 1 Monat vor Anreise 20% des Buchungspreises, jedoch mindestens die oben genannte Bearbeitungsgebühr in Höhe von € 32,-. Ab 2 Wochen vor Anreise 60% des Buchungspreises, jedoch mindestens die Bearbeitungsgebühr. Ab 1 Woche vor Anreise 80% des Buchungspreises und bei Nichterscheinen fallen 100% des Buchungspreises an.",
+    "Alle Appartements verfügen über einen Geschirrspüler, Kabel-TV, Radio, Safe, Telefon und Internetzugang. Die Wohungen sind bei Anreise mit Wäsche, Handtüchern und Geschirr (Teller, Gläser, Besteck) ausgestattet. Der Wäschewechsel von Handtüchern und Bettwäsche ist einmal pro Woche inklusive. Bademäntel sind gegen Kaution an der Rezeption erhältlich. Haustiere sind nicht gestattet!",
+    "Urlaub, Ferien, Appartments, Unterkunft, Ferienwohnung, Seefeld in Tirol, Wellness, Winterurlaub,"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "reviewCount": "460"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/aa3edeb1-2187-4641-9942-b1c763a186c7/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8d8f68b7-afdb-449c-8c09-0b04bc35de9d/99/image.jpg",
+      "caption": "Torri di Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/41860474-b813-49f5-bffc-8969b0662081/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/12407381-e929-4bfc-bb00-48a0d6bb5d27/99/image.jpg",
+      "caption": "Kaffeebereich"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2a710e36-c9ac-4226-ba36-fb9c7d90eb0c/99/image.jpg",
+      "caption": "Wellness"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/cc8d3a76-05d8-4b05-a71c-e95f7c3730d1/99/image.jpg",
+      "caption": "Barbereich"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8338b208-e39c-4d0d-bd34-b0ca32726272/99/image.jpg",
+      "caption": "Küche"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/61916f68-af35-4e19-b665-3deff90b276b/99/image.jpg",
+      "caption": "Wohnraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0c4743ce-4e32-49df-b368-e90981175d12/99/image.jpg",
+      "caption": "Wellness 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3c91eac5-2490-4372-b4d3-4e2f46c38c69/99/image.jpg",
+      "caption": "Wellness 3"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3294174401027",
+    "longitude": "11.1822366714478"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche oder Bad, WC, 2 Schlafräume",
+      "description": "NARCISO sind zw. 50- 70 m² groß, mit 2 separaten Schlafzimmern, Balkon, voll eingerichtete Küche, Bad, WC, TV, Internet, Safe",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "App.\"Narciso\" 2 DZ ohne Verpflegung",
+          "description": "Unsere Appartment \u0027\u0027Narciso\u0027\u0027 sind ausgestattet mit: 2 Schlafzimmern, Wohnküche mit Mikrowelle, Geschirrspüler und Schlafcouch, Bad und Balkon. Es ist ein Garagenplatz verfügbar.\nEndreinigung € 60,--\n\n",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "169.00",
+          "maxPrice": "500.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "134.00",
+          "maxPrice": "465.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "154.00",
+          "maxPrice": "485.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche oder Bad, WC, 2 Schlafräume",
+      "description": "NARCISO sind zw. 50- 70 m² groß, mit 2 separaten Schlafzimmern, Balkon, voll eingerichtete Küche, Bad, WC, TV, Internet, Safe",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "App.\"Narciso\" 2 DZ mit FÜ",
+          "description": "Unsere Appartment \u0027\u0027Narciso\u0027\u0027 sind ausgestattet mit: 2 Schlafzimmern, Wohnküche mit Mikrowelle, Geschirrspüler und Schlafcouch, Bad und Balkon. Es ist ein Garagenplatz verfügbar.\nEndreinigung € 85,-- \n\n",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "205.00",
+          "maxPrice": "533.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "205.00",
+          "maxPrice": "498.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "205.00",
+          "maxPrice": "518.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "205.00",
+          "maxPrice": "205.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "205.00",
+          "maxPrice": "205.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche oder Bad, WC, 2 Schlafräume",
+      "description": "Campanula sind ca. 60m² groß, 2 sep. Schlafzimmer, Balkon oder Terrasse, voll eingerichtete Küche, Bad/WC, TV, Internet, Safe",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "App.\"Campanula\" 1 DZ \u0026 1 EZ ohne Verpflegung",
+          "description": "Unsere Appartments \u0027\u0027Campanula\u0027\u0027 sind ausgestattet mit: \n1 Doppelzimmer und 1 Einbettzimmer, Wohnküche inkl. Geschirrspüler und Microwelle \u0026 mit ausziehbarer Schlafcouch, TV, Bad und Balkon - Garagenplatz\nEndreinigung € 75,--\n\n",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "102.00",
+          "maxPrice": "370.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "112.00",
+          "maxPrice": "380.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "127.00",
+          "maxPrice": "395.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "179.00",
+          "maxPrice": "179.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche oder Bad, WC, 2 Schlafräume",
+      "description": "Campanula sind ca. 60m² groß, 2 sep. Schlafzimmer, Balkon oder Terrasse, voll eingerichtete Küche, Bad/WC, TV, Internet, Safe",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "App.\"Campanula\" 1 DZ \u0026 1 EZ mit FÜ",
+          "description": "Unsere Appartments \u0027\u0027Campanula\u0027\u0027 sind ausgestattet mit: \n1 Doppelzimmer und 1 Einbettzimmer, Wohnküche inkl. Geschirrspüler und Microwelle \u0026 mit ausziehbarer Schlafcouch, TV, Bad und Balkon - Garagenplatz\nEndreinigung € 75,--\n\n",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "162.00",
+          "maxPrice": "430.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "167.00",
+          "maxPrice": "435.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "175.00",
+          "maxPrice": "455.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "175.00",
+          "maxPrice": "175.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche oder Bad, WC, 1 Schlafraum",
+      "description": "Margherita sind ca. 40m² groß, 1 sep. Schlafzimmer, verfügen über Terrasse oder Balkon, voll eingerichtete Küche, Bad, WC, TV, Internet, Safe;",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "App.\"Margherita\" 1 DZ ohne Verpflegung",
+          "description": "Unsere Appartment \u0027\u0027Margherita\u0027\u0027 sind ausgestattet mit: \n1 Schlafzimmer für 2 Personen, eine Wohnküche mit Geschirrspüler, Microwelle und ausziehbarer Schlafcouch,  Bad und Balkon, Garagenplatz\nEndreinigung € 65,--\n\n",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Adventpauschale \"Margherita\" 3 Tage/ 2 Personen",
+          "description": "3 Übernachtungen für 2 Personen im Appartement Typ „Margherita”\nmit Balkon - 1 Doppelzimmer + 1 Ausziehcouch\nJede weitere Person wir mit € 20,-- pro Tag berechnet.\nIm Preis inbegriffen:\nFrühstücks-Buffet und Endreinigung sowie die Benutzung des Wellnessbereiches und die Benutzung eines Tiefgaragenstellplatzes pro Wohnung\n\t",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Adventpauschale \"Margherita\" 4 Tage/ 2 Personen",
+          "description": "4 Übernachtungen für 2 Personen im Appartement Typ „Margherita”\nmit Balkon - 1 Doppelzimmer + 1 Ausziehcouch\nJede weitere Person wird mit € 20,-- pro Tag berechnet.\nIm Preis inbegriffen:\nFrühstücks-Buffet und Endreinigung sowie die Benutzung des Wellnessbereiches und die Benutzung eines Tiefgaragenstellplatzes pro Wohnung\n",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Adventpauschale \"Margherita\" 7 Tage/ 2 Personen",
+          "description": "7 Übernachtungen für 2 Personen im Appartement Typ „Margherita”\nmit Balkon - 1 Doppelzimmer + 1 Ausziehcouch\nJede weitere Person wird mit € 20,-- pro Tag berechnet.\nIm Preis inbegriffen:\nFrühstücks-Buffet und Endreinigung sowie die Benutzung des Wellnessbereiches und die Benutzung eines Tiefgaragenstellplatzes pro Wohnung\n",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Adventpauschale \"Margherita\" 3 Tage/ 4 Personen ",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Adventpauschale \"Margherita\" 4 Tage/ 4 Personen ",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Adventpauschale \"Margherita\" 7 Tage/ 4 Personen ",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "73.00",
+          "maxPrice": "359.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "78.00",
+          "maxPrice": "364.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "93.00",
+          "maxPrice": "379.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche oder Bad, WC, 1 Schlafraum",
+      "description": "Margherita sind ca. 40m² groß, 1 sep. Schlafzimmer, verfügen über Terrasse oder Balkon, voll eingerichtete Küche, Bad, WC, TV, Internet, Safe;",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "App.\"Margherita\" 1 DZ mit FÜ",
+          "description": "Unsere Appartment \u0027\u0027Margherita\u0027\u0027 sind ausgestattet mit: \n1 Schlafzimmer für 2 Personen, eine Wohnküche mit Geschirrspüler, Microwelle und ausziehbarer Schlafcouch,  Bad und Balkon, Garagenplatz\nEndreinigung € 65,--\n\n",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "121.00",
+          "maxPrice": "407.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "126.00",
+          "maxPrice": "412.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "141.00",
+          "maxPrice": "427.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

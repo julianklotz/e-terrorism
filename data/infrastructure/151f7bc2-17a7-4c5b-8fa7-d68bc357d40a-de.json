@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hostel",
+    "Landform"
+  ],
+  "name": "Steinernes Hütt\u0027l",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3862333520172",
+    "longitude": "11.0382530093193"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Steinernes Hütt\u0027l",
+    "streetAddress": "Wettersteingebirge Leutasch",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043)664 2469125",
+    "email": "steinerneshuettl@a1.net",
+    "url": "http://www.steinerneshuettl.eu"
+  },
+  "description": "Nur im Sommer geöffnet! Stempelstelle, Übernachtungsmöglichkeit für 12 Personen",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/50226c7a-4be0-4a88-9d0d-61487ba4fc18/99/image.jpg",
+      "caption": "Steinernes"
+    }
+  ],
+  "url": [
+    "http://www.steinerneshuettl.eu"
+  ]
+}

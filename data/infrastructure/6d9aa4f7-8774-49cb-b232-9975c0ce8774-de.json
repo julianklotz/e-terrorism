@@ -1,0 +1,30 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Store",
+    "ClothingStore"
+  ],
+  "name": "Pf´s - Souvenier, Mode \u0026 Accessoires",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3715298968238",
+    "longitude": "11.1656498908997"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Weidach 331",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 4458156",
+    "url": "http://www.erlebnishotels.org"
+  },
+  "description": "Weidach\n+43 664 1015765",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/db213561-38ee-48af-8601-1e1c28d8e8c6/99/image.gif",
+      "caption": "Logo"
+    }
+  ]
+}

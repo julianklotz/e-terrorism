@@ -1,0 +1,24 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hostel"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Jugendhaus Unterleutasch",
+    "streetAddress": "Unterkirchen 247",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6235",
+    "email": "pfarramt@pfarren-leutasch.at"
+  },
+  "name": "Jugendhaus Unterleutasch",
+  "description": "€ 9,- pro Person und pro Nacht inkl. Heizung, Strom, Wasser\nexkl. Ortstaxe und Endreinigung bei Bedarf",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.4158369",
+    "longitude": "11.2116787"
+  },
+  "currenciesAccepted": "EUR"
+}

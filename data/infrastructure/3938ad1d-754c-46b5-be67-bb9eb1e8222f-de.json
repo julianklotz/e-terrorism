@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant",
+    "CafeOrCoffeeShop",
+    "InternetCafe"
+  ],
+  "name": "Gasthof Risserhof",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3904402052464",
+    "longitude": "11.2643446429917"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Gasthof Risserhof",
+    "streetAddress": "Innsbruckerstr. 26",
+    "addressLocality": "Scharnitz",
+    "postalCode": "6108",
+    "addressCountry": "AT",
+    "telephone": "(0043) 05213/5240",
+    "email": "restaurant@risserhof.com"
+  },
+  "description": [
+    "Sitzplätze für ca. 130 Personen\n\nWireless Access-Point\n\n",
+    "Durchgehend geöffnet. In der Nichtsaison Mittwoch Ruhetag"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/bb00caeb-c194-4949-b3e7-d61205a78f57/99/image.jpg",
+      "caption": "Gasthof Risserhof"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/bc3cf6b2-f8fd-4767-97ad-cffdbc0bcbaa/99/image.jpg",
+      "caption": "Winter"
+    }
+  ]
+}

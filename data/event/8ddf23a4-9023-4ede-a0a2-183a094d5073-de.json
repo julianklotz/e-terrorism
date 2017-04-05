@@ -1,0 +1,48 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "Winter-Erlebnisse -\"Auf der Pirsch\"",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Informationsbüro Reith",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Römerstraße 52",
+      "addressLocality": "Reith bei Seefeld",
+      "postalCode": "6103",
+      "addressCountry": "AT",
+      "telephone": "(0043)50880530 ",
+      "faxNumber": "(0043)50880831",
+      "email": "info.reith@seefeld.com",
+      "url": "http://www.seefeld.com"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Informationsbüro Reith",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Römerstraße 52",
+      "addressLocality": "Reith bei Seefeld",
+      "postalCode": "6103",
+      "addressCountry": "AT",
+      "telephone": "(0043)50880530 ",
+      "faxNumber": "(0043)50880831",
+      "email": "info.reith@seefeld.com",
+      "url": "http://www.seefeld.com"
+    }
+  },
+  "description": "Wildtierbeobachtung - wer füttert die Tiere im Winter? Wie überleben die Tiere den kalten Winter? Begleiten Sie unseren Förster bei der Hege und Pflege des Wildes und erfahren Sie Wissenswertes rund um die Wildtierfütterung. Anmeldung: bis Mittwoch, 17:00 Uhr, bei Ihrem Vermieter oder in einem der Infobüros, Max. Teilnehmer: 5 Pers.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c6e5df8a-2c6f-46a8-9437-9e7d891d1d78/99/image.jpg",
+      "caption": "\"Auf der Pirsch\""
+    }
+  ],
+  "startDate": "2016-12-08T16:00:00",
+  "endDate": "2017-03-23"
+}

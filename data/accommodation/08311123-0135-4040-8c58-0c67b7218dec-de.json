@@ -1,0 +1,90 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.central-seefeld.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Thyrsus",
+    "streetAddress": "Olympiastrasse. 717",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 3288",
+    "faxNumber": "(0043) 5212 3288 66",
+    "email": "central@seefeld.at",
+    "url": "http://www.central-seefeld.at"
+  },
+  "name": "Haus Thyrsus",
+  "description": [
+    "In der Fußgängerzone, gegenüber dem Kurpark, 1- und 2- Zimmer-Appartements mit Wohnlandschaft, Kabel- TV, Telefon, Safe, Kochnische, Balkon, HP oder VP im gegenüberliegenden  Hotel Central möglich. Gratis Verleih von Top- Mountainbikes. Wellness in der Central-Therme mit Sauna. Dampfbad, Solarium, Whirlpool, Massage...",
+    "Heizung / Wasser inkl.\nCentral-Therme: Sauna, Dampfbad, Erlebnisdusche, Kneipprondell, Fitness kostenlos.\nWhirlpool und Solarium € 6.--\nHundepauschale € 8.--\n\nGesicherter Parkplatz\nIm Winter: Gratis Schibus\nIm Sommer: Gratis Mountainbikeverleih\nErmäßigung Greenfee Golfakademie\n",
+    "Im Herzen von Seefeld, am Anfang der Fußgängerzone gegenüber dem Kurpark und dem Hotel Central, liegt das Haus Thyrsus."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/faaa3f0a-b23f-4e60-a16c-05a4b82d30e6/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d9257801-1ac0-454c-a976-1df1f477d72b/99/image.jpg",
+      "caption": "Winter"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3297046760012",
+    "longitude": "11.186957359314"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC",
+      "description": "Appartement gegenüber vom Hotel Central gelegen, direkt in der Fußgängerzone. Preise inklusive Kurtaxe und Endreinigung.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment Thyrsus 1",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche oder Bad, WC, 1 Schlafraum",
+      "description": "2-Raum Appartement gegenüber vom Hotel Central, direkt in der Fußgängerzone. Preise exklusiv Kurtaxe und Endreinigung",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment Thyrsus 2",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ]
+    }
+  ]
+}

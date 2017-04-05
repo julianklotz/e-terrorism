@@ -1,0 +1,56 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "Kleines Weinseminar",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Aktivhotel Zum Gourmet",
+    "employee": {
+      "@type": "Person",
+      "givenName": "Saurer-",
+      "familyName": "Suitner"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Geigenbühelstr. 158",
+      "addressLocality": "Seefeld",
+      "postalCode": "6100",
+      "addressCountry": "AT",
+      "telephone": "+4352122101",
+      "faxNumber": "+4352124382",
+      "email": "info@zumgourmet.at",
+      "url": "http://www.zumgourmet.at"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Aktivhotel Zum Gourmet",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Geigenbühelstr. 158",
+      "addressLocality": "Seefeld",
+      "postalCode": "6100",
+      "addressCountry": "AT",
+      "telephone": "+4352122101",
+      "faxNumber": "+4352124382",
+      "email": "info@zumgourmet.at",
+      "url": "http://www.zumgourmet.at"
+    }
+  },
+  "description": "Dipl. Sommelière Christina Saurer gibt eine Einführung in das Weinland Österreich und Tipps, wie man Weine besser beurteilen kann. Preis: € 25,00 mit Unterlagen und Verkostung. Anmeldung bis spätestens 10:00 Uhr des  Veranstaltungstages, Tel. 05212 2101, (Mindestteilnehmerzahl 8 Personen). Weitere Informationen auf www.zumgourmet.at.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/058ecfcc-48d9-47ec-b88a-0fb11a638ed6/99/image.jpg",
+      "caption": "Weinseminar"
+    }
+  ],
+  "url": [
+    "http://www.zumgourmet.at"
+  ],
+  "startDate": "2016-12-22T20:30:00",
+  "endDate": "2017-03-09"
+}

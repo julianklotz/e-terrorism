@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Church"
+  ],
+  "name": "Kapelle Reindlau",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3979692358351",
+    "longitude": "11.1782252603272"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Kapelle Reindlau",
+    "streetAddress": "Reindlau",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6235",
+    "email": "pfarramt@pfarren-leutasch.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d4e3ca01-5f42-4ba4-8c9d-8027b38ba166/99/image.jpg",
+      "caption": "Kapelle Reindlau"
+    }
+  ],
+  "url": [
+    "http://"
+  ]
+}

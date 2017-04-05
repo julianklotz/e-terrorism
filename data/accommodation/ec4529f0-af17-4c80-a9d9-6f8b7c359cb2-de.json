@@ -1,0 +1,408 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://www.lehnerhof.at"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Pension Lehnerhof",
+    "streetAddress": "Lehner 199",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6278",
+    "faxNumber": "(0043) 5214 6278 5",
+    "email": "info@lehnerhof.at ",
+    "url": "http://www.lehnerhof.at"
+  },
+  "name": "Pension Lehnerhof",
+  "description": [
+    "In sonnigster Lage, am Fuße des Wettersteingebirges präsentiert sich die 3* Pension Lehnerhof in Leutasch. Mit viel Herzblut und ehrlicher Gastfreundschaft ist Familie Neuner stets um das Wohl ihrer Gäste bemüht.\n\nDer Lehnerhof liegt im Ortsteil Lehner in Leutasch. Umringt von unverbauten saftig grünen Wiesen, fernab von Hektik und Stress, ist hier ein erholsamer Urlaub garantiert. Touristische Einrichtungen, Geschäfte und Banken sind im Umkreis von 2 km mit dem Regionsbus oder auch zu Fuß bequem erreichbar.\n\nDie 10 Komfort-Doppelzimmer und 3 Komfort-Einzelzimmer sind geräumig mit neuwertigen Vollholzmöbeln eingerichtet. Im Zimmerpreis inkludiert ist ein gesundes reichhaltiges Frühstück, mit Produkten von heimischen Bauern. Die 4 modernen Ferienwohnungen von 43m² bis 90m² Größe, mit abgeschlossener Küche oder moderner Küchenzeile, separater Essecke und großzügigem Wohnbereich eignen sich sowohl für Paare als auch für die ganze Familie. Auf Wunsch können sich Gäste der Ferienwohnungen, gegen einen Aufpreis, auch an dem Frühstücksbuffet bedienen. In den Badezimmern ist eine Fußbodenheizung integriert, die für zusätzliche Wohlfühlmomente sorgt. Alle Zimmer und Appartements sind nach Süden oder Westen ausgerichtet und verfügen über einen breiten Balkon, mit herrlicher Aussicht wie zum Beispiel auf die Arnspitze. Für Ihre optimale Urlaubsplanung steht Ihnen im ganzen Haus kostenloses WLAN zur Verfügung.\n\nDie Pension Lehnerhof in Leutasch ist der ideale Ausgangspunkt für verschiedene Aktivitäten - egal ob im Wanderurlaub mit Familie oder im Mountainbikeurlaub mit Partner und Freunden. Fahrräder, Wanderstöcke und Rucksäcke können bei uns gerne kostenlos ausgeliehen werden. Kletterbegeisterte Gäste können sich in den, nur 10 Gehminuten entfernten, Klettergärten Chinesische Mauer und Mauerbogen neuen Herausforderungen stellen. Als qualitätsgeprüfte Kletterunterkunft bieten wir Ihnen auch eine Kletterinfoecke und persönliche Beratung.\n\nAuch im Winter hat Leutasch viel zu bieten. Langlaufaffine Gäste können direkt vor der Pension Lehnerhof in die Loipen Lehner und Unterleutasch einsteigen. Erkunden Sie die faszinierende Winterlandschaft des Leutaschtals auch zu Fuß auf den bestens präparierten Winterwanderwegen oder mit Schneeschuhen stapfend durch den Tiefschnee.\n\nNach einem erlebnisreichen Tag in der frischen Luft, lassen Sie diesen in der wärmenden Infrarotkabine oder bei einer Partie Tischtennis, Billard oder Tischfußball ausklingen.\n\nFamilie Neuner freut sich, zusammen mit Ihnen, Ihren Wohlfühlurlaub zu einem besonderen und unvergesslichen Erlebnis zu gestalten!",
+    "KOSTENLOSE LEISTUNGEN:\nWLAN, Fahrräder, Mountainbikes, Wanderstöcke, Rucksäcke, Schirme, Schneeschuhe, Bibliothek, Tischtennis, Tischfußball, Billard, Fitnessraum ....etc.\n------\nZu zahlende Leistungen:\nInfrarotwärmekabine, Haustiere EUR 5,--.",
+    "Check in 14.00, Check out 11.00 Uhr\nWeg: Von Seefeld in Richtung Mittenwald über die Ortsteile Weidach, Gasse nach Lehner - \"Lehnerhof\".\nVon Mittenwald in Richtung Leutasch über die Ortsteile Burggraben, Lochlehn, Ahrn nach Lehner - \"Lehnerhof\"."
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "reviewCount": "115"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a2cfe9c3-288d-4ae8-b2a6-5458e1d7ae8c/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e81f909f-2954-4412-8804-eb5397ea987a/99/image.jpg",
+      "caption": "Logo"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/bc05055e-92fa-460c-9e13-88c36539d9bd/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/398b4968-18b3-4e4f-b599-d41c90c3d4f3/99/image.jpg",
+      "caption": "Luftansicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4f0ca46d-8167-4331-8595-1499a42271bb/99/image.jpg",
+      "caption": "Fahnen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d693c90e-bd79-4026-b29e-6ffc5d288791/99/image.jpg",
+      "caption": "Frühstücksraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/86955080-004d-4575-8fb7-7dd2054f2cbc/99/image.jpg",
+      "caption": "Frühstücksraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/bd1134bd-2033-4011-8b13-da966318e633/99/image.jpg",
+      "caption": "Spielzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/75b187c1-6cfc-455c-b756-129d6fa36936/99/image.jpg",
+      "caption": "Winterlandschaft1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/34d6f83b-1622-4941-85d1-93c46ba98240/99/image.jpg",
+      "caption": "Winterlandschaft"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/daf99ed0-4f21-4c97-8e76-3833351438b4/99/image.jpeg",
+      "caption": "Langlaufen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/da1f980c-bea3-4937-b2c4-76687d7775e5/99/image.jpeg",
+      "caption": "Wintersport"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/869fb9dc-8b4b-4f14-a6d5-38154a438db0/99/image.jpg",
+      "caption": "Langlaufen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ad0b0262-7db1-451e-ab44-118267b2415b/99/image.jpg",
+      "caption": "Winterlandschaft"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5c57b0b4-625c-4a54-adfa-81bc38107711/99/image.jpeg",
+      "caption": "Alm"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/70bf79cd-a5fb-4aa6-bc80-082597dff89f/99/image.jpeg",
+      "caption": "Natur"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0a662b03-8c4b-47f9-824a-51dc776b5d17/99/image.jpeg",
+      "caption": "Wandern"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ebb7f7cf-d5de-45b2-90fe-89cb929dd3b4/99/image.jpeg",
+      "caption": "Klettern"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/783e053a-b578-44ab-92a1-0af98e7bcc55/99/image.jpeg",
+      "caption": "Bergbewohner"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c895ff58-f44f-4529-8af9-c602e4d135a1/99/image.jpeg",
+      "caption": "Wandern"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e5092466-4a93-4322-8b63-0cb7e070da5d/99/image.jpeg",
+      "caption": "Geisterklamm"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f249886d-781b-40f7-a86e-c6b3a807c166/99/image.jpeg",
+      "caption": "Berggipfel"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.383585046328",
+    "longitude": "11.164337104382"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Einzelzimmer, Dusche, WC",
+      "description": "KOMFORT-EINBETTZIMMER, Westbalkon, sehr geräumig mit 25 m², hell, freundlich, Wohnecke (2. Bett), SAT/TV, Telefon-Radio, Bad mit Fußbodenheizung, eigenes Kühlschrankfach am Gang. Bestens geeignet auch als Zweibettzimmer.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Puittal Einzelzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "36.00",
+          "maxPrice": "49.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "33.00",
+          "maxPrice": "39.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "KOMFORT-DOPPELZIMMER, Süd- oder Westbalkon, sehr geräumig mit 30 m², ganz neu und gemütlich eingerichtet, großzügige Wohnecke, SAT/TV, Telefon-Radio, Bad mit Fussbodenheizung, eigenes Kühlschrankfach am Gang.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Hohe Munde Doppelzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "32.00",
+          "maxPrice": "45.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "32.00",
+          "maxPrice": "39.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "KOMFORTWOHNUNG, 2 getrennte Schlafzimmer, 2x DU/WC, extra Küche,Geschirrspüler,Backrohr,Wohnzimmer mit Westbalkon und Parkettboden,Vorraum u.Diele, 2x SAT/TV, 2x Telefon-Radio, erster Stock. Bei Bedarf DRITTES Schlafzimmer mit Bad/WC kann direkt zur Wohnung dazugeschlossen werden, kostenloses Service: 1x pro Woche REINIGUNG möglich außer Sonn- und Feiertag.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Gehrnspitze Apartment/2 Schlafräume/Dusc",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "3"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "82.00",
+          "maxPrice": "120.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "90.00",
+          "maxPrice": "135.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "90.00",
+          "maxPrice": "145.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "90.00",
+          "maxPrice": "150.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "NEU! NEU! NEU!\nDie Ferienwohnung \"Leutasch\" für 2 Personen mit 43 m² Wohn-Schlaf-Essraum, extra Küche und Bad, Südbalkon SAT/TV, Telefon u.Radio. Mit extra Schlafzimmer für 2 Kinder hat die Wohnung eine Größe von 55m².\nKomplett neue Einrichtung (Vollholzmöbel) \nDie Wohnung befindet sich im dritten Stock, leider ohne Lift, dafür verfügt das Apartment über eine schöne Aussicht.\nkostenloser Service: 1x pro Woche REINIGUNG möglich außer Sonn- und Feiertage.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Leutasch /1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "54.00",
+          "maxPrice": "84.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "54.00",
+          "maxPrice": "94.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "54.00",
+          "maxPrice": "104.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "NEU! NEU! NEU!\nKomplett neu gebaut,komfortabel mit 58m², erster Stock, moderner Wohnraum, großer Südbalkon, Küchenzeile mit Geschirrspüler, gemütliche Essecke, separates WC, Parkettböden, Schlafzimmer, DU/WC, helle Vollholzmöbel.\nkostenloses Service: 1x pro Woche REINIGUNG möglich außer Sonn- und Feiertage.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Öfelekopf /1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "56.00",
+          "maxPrice": "68.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "56.00",
+          "maxPrice": "78.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "NEU! NEU! NEU!\nKomplett umgebaut, modernes Wohnzimmer mit Südbalkon,Sat-TV,Telefon-Radio,Küchenzeile mit Geschirrspüler,gemütliche Essecke,2 Schlafzimmer mit Parkettböden u.je DU/WC,helle Vollholzmöbel, kostenloses Service: 1x pro Woche REINIGUNG möglich außer Sonn- und Feiertage. Das Apartment befindet sich im dritten Stock, leider ohne Lift, dafür aber mit schöner Aussicht!",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Tyrol Apartement/2 Schlafräume/Dusche,WC",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "62.00",
+          "maxPrice": "88.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "80.00",
+          "maxPrice": "110.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "85.00",
+          "maxPrice": "125.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

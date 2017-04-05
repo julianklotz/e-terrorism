@@ -1,0 +1,138 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://members.aon.at/cvogel1/",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Gästehaus Vogel",
+    "streetAddress": "Unterkelle 386 b",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6734",
+    "faxNumber": "(0043) 5214 6734",
+    "email": "cvogel1@aon.at",
+    "url": "http://members.aon.at/cvogel1/"
+  },
+  "name": "Gästehaus Vogel",
+  "description": [
+    "Auf der sonnigen Seite in Neuleutasch Unterkelle, mitten im Wald gelegen bietet unser Haus der ganzen Familie einen ruhigen, erholsamen Aufenthalt. Die Zimmer sind mit DU/WC, Balkon und SAT-TV, die Ferienwohnungen mit Wohnküche, SAT-TV, Balkon ausgestattet. Reichhaltiges Frühstück, gr. Liegewiese, Sonnenterrasse.",
+    "Bettwäsche, Handtücher, Liegestühle, Tischtennis, Gartengrill, große Liegewiese und Haustiere - kostenlos\nGarage € 2,-- pro Tag.\nFahrräder € 3,-- pro Tag\nKurtaxe € 1,50",
+    "Check-In 14.00 Uhr\nCheck-Out 10.00 Uhr\n\nUnser Haus liegt ca. 3 km von Leutasch Ortsmitte und ca. 2,5 km von Seefeld entfernt.\nAbseits der Straße in sonniger Waldnähe."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3b265302-caf8-4fd2-af8f-91ee58f03b65/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4465265e-0a05-430e-b969-a838ca8fbc69/99/image.jpg",
+      "caption": "Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3495285085022",
+    "longitude": "11.1874994254019"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Die Zimmer verfügen über DU/WC , SAT-TV und Balkon",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "23.00",
+          "maxPrice": "23.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 1 Schlafraum",
+      "description": "Kleiner Vorplatz, Wohnküche, Balkon, SAT-TV, Schlafzimmer, Badezimmer, Kaffeemaschine, Wasserkocher, Geschirr;",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/1 Schlafraum/Bad, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "45.00",
+          "maxPrice": "45.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "55.00",
+          "maxPrice": "55.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/2 Schlafräume/Dusche, WC",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "ElectronicsStore"
+  ],
+  "name": "Elektro Norz",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.315245",
+    "longitude": "11.19903"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Elektro Norz",
+    "streetAddress": "Fichtenweg 82",
+    "addressLocality": "Reith bei Seefeld",
+    "postalCode": "6103",
+    "addressCountry": "AT",
+    "telephone": "(0043)5212 3216",
+    "email": "office@elektro-norz.at"
+  },
+  "url": [
+    "http://"
+  ]
+}

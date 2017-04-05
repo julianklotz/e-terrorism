@@ -1,0 +1,21 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Church",
+    "CatholicChurch"
+  ],
+  "name": "Gottesdienste Katholisch in Kirchplatzl",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "description": "Samstags, 19:00 Uhr; Sonntag 10:00 Uhr",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/170562d4-8c46-4a3f-b52c-82da5fcb9221/99/image.jpg",
+      "caption": "Kirche St. Magdalena"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Villa Caroline App. 1  App. 3",
+    "streetAddress": "Leutascherstraße 281 Top 1",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "0043 664 3603249",
+    "email": "info@villacaroline.at",
+    "url": "www.villacaroline.at"
+  },
+  "name": "ZW-Clegg C.",
+  "currenciesAccepted": "EUR"
+}

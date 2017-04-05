@@ -1,0 +1,139 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.schoepf-leutasch.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Schöpf",
+    "streetAddress": "Weidach 349 a",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6352",
+    "faxNumber": "(0043) 5214 6352",
+    "email": "m.schoepf@aon.at",
+    "url": "http://www.schoepf-leutasch.at"
+  },
+  "name": "Haus Schöpf",
+  "description": [
+    "2 neuerbaute Wohnungen in ruhiger, zentraler Lage, Loipennähe, Vorraum, Wohnschlafzimmer, extra Schlafzimmer, Küche komplett ausgestattet, Du/WC, Parkettböden, helle Naturholzmöbel, Sat-TV, Radio/CD, Radiowecker, W-Lan, eigener Balkon, großer Garten, im Sommer täglich gratis Eintritt ins neue Erlebnisbad Leutasch\n1 Wohnung mit 2 Schlafzimmer und 2 Bäder\nBesuchen Sie uns auf unserer Homepage!",
+    "Preis auf Anfrage\nInklusive: Strom, Heizung, Wasser, Loipenbenutzung, im Sommer freier Eintritt ins Alpenbad",
+    "Von Mittenwald nach Leutasch Richtung Weidach Zentrum bis Supermarkt M-Preis, dann ca. 200m Richtung Ortsteil Ematt linke Seite Haus Schöpf/ 349a"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0d6e7926-9b2d-441d-8498-d0847abb119b/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a3699e37-9b4f-4052-8735-b0312e24c0ff/99/image.jpg",
+      "caption": "Winteransicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/913a60c3-b82e-4c43-b250-9ed6f1039b47/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/dbccfb13-df4a-492a-9f9b-88fbcf26ef6b/99/image.jpg",
+      "caption": "Sommeransicht"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3738077432206",
+    "longitude": "11.1675274372101"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 2 Schlafräume",
+      "description": "Neue Wohnung ( mit 3 Edelweiß ausgezeichnet ), \n2 Schlafzimmer, 2 Bäder, helle Naturholzmöbel, Parkettböden, komplett ausgestattete Küchenzeile mit Eßecke,großer Balkon,Sat-TV, Radio/CD, Radiowecker, W-Lan, \nBettwäsche, Hand- Badetücher.\nIm Sommer täglich freier Eintritt ins neue Erlebnisbad Leutasch\nIm Winter freie Loipenbenützung",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement Nr. 1/2 Schlafräume/2 Bäder",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "40.00",
+          "maxPrice": "40.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "50.00",
+          "maxPrice": "50.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "55.00",
+          "maxPrice": "55.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Neues Appartement (mit 3 Edelweiß ausgezeichnet), Komfort-Schlafcouch, Schlafzimmer, Dusche/WC,komplett eingerichtete Kochecke mit Eßecke, helle Naturholzmöbel, Parkettböden, Sat TV, Radio/CD, Radiowecker, W-Lan, großer Balkon, Hand-und Badetücher,\nim Sommer  täglich gratis Eintritt ins neue Erlebnisbad Leutasch",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartment Nr. 2/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "38.00",
+          "maxPrice": "38.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "45.00",
+          "maxPrice": "45.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

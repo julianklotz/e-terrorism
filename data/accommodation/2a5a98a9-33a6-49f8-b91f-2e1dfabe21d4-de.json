@@ -1,0 +1,69 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Appartement Clubhotel",
+    "streetAddress": "Muenchner Str. 605, Top 5",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 3523",
+    "faxNumber": "(0043) 5212 3523",
+    "email": "ap18869@gmail.com",
+    "url": "http://www.seefeld.com"
+  },
+  "name": "Appartement Clubhotel",
+  "description": [
+    "Wir bieten ein Studio im Tiroler Stil für 2-4 Personen an. Es befindet sich in einer sehr schönen Gegend, nur fünf Gehminuten vom Zentrum, in der Nähe der Schibus Haltestelle mit fantastischem Bergenausblick, ideal für einen erholsamen Urlaub. Das Studio vefügt über eine vollausgestattete Küche, ein großes Badezimmer, Heizung und warmes Wasser den ganzen Tag. Ein Tiefgaragenplatz steht den Gästen auch zur Verfügung.",
+    "Inklusive: Heizung, Wasser, Tiefgaragenplatz\n",
+    "Check-In: 12.00 Uhr\nCheck-Out: 11.00 Uhr",
+    "SEEFELD SKI APPARTEMENT,CLUBHOTEL APPARTEMENT SKI SEEFELD,"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/42aeec91-ff97-4219-9e7f-ba4cf2981bdd/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/66ab72ef-d5ae-4fad-a5da-67be164260ce/99/image.jpg",
+      "caption": "Winter"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3333417",
+    "longitude": "11.1906415"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, Wohn-/Schlafraum",
+      "description": "Wir bieten ein Studio im Tiroler Stil für 2-4 Personen an. Es befindet sich in einer sehr schönen Gegend, nur fünf Gehminuten vom Zentrum, in der Nähe der Schibus Haltestelle mit fantastischem Bergenausblick, ideal für einen erholsamen Urlaub. Das Studio vefügt über eine vollausgestattete Küche, ein großes Badezimmer, Heizung und warmes Wasser den ganzen Tag. Ein Tiefgaragenplatz steht den Gästen auch zur Verfügung.You can see us at: http://youtube/2xsK04e3EH8\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement/Fewo, Dusche, WC, Wohn-/Schlafraum",
+          "numberOfRooms": "0.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

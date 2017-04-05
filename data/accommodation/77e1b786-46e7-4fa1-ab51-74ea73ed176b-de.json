@@ -1,0 +1,20 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Platzl 101",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0049) 173 2114568",
+    "email": "alexander.ringholz@communicative.de"
+  },
+  "name": "ZW - Ringholz Alexander",
+  "currenciesAccepted": "EUR"
+}

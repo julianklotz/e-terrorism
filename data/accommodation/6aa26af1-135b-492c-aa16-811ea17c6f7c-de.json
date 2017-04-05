@@ -1,0 +1,162 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.xanderhof.net",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Xanderhof",
+    "streetAddress": "Kirchplatzl 148",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6931",
+    "faxNumber": "(0043) 5214 6931",
+    "email": "thomas9er@aon.at",
+    "url": "http://www.xanderhof.net"
+  },
+  "name": "Xanderhof",
+  "description": [
+    "Familienfreundliches Haus in ruhiger sonniger Lage, direkt an Wander u. Loipenmeter angeschlossen. Schöner Ausblick auf die Bergwelt. Benützung des Hallenbades und der dazugehörigen Saunalandschaft im Sporthotel Xander gegen einen Aufpreis von € 8.- pro Person möglich. (100m entfernt). Wir sind ein Bauernhof, vermieten insgesamt 3FW, wobei 2 ganz neu umgebaut sind und auf neuesten Stand sind. Wir haben WLAN Internetanschluss. unser Haus liegt sehr ruhig, aber doch zentral.\n ",
+    "Inklusive: Heizung, Wasser, Strom, Parkplatz\n\nExklusive: Ortstaxe, Endreinigung, Frühstück auf Wunsch",
+    "Über Seefeld: Seefeld - Leutasch - OT Kirchplatzl\n\nÜber Mittenwald: Mittenwald - Leutasch OT Kirchplatzl\n\nÜber Fernpass: Reutte - Telfs - Leutasch - OT Kirchplatzl"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/16906bb3-4920-4dda-8186-b85bfc987cf5/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2aa20f4d-bd93-448e-a063-e8ea1b1fdac3/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b78d6478-f3fe-4ad4-a6b0-65dcb81acd69/99/image.jpg",
+      "caption": "Almabtrieb"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/74db3a7f-7fb1-4f26-a9e6-d88b4fa2b22a/99/image.jpg",
+      "caption": "Kirche mit unserem Bauernhaus"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7f6564f4-fd2e-4e11-a165-a0bd567e1b4d/99/image.jpg",
+      "caption": "Weidachsee zum Fischen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7c1c39a0-6100-450a-8f34-d6b3a33489bc/99/image.jpg",
+      "caption": "Blick zur Zugspitz"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2985d265-ecbb-4678-b163-bf0243488437/99/image.jpg",
+      "caption": "Gipfelkreuz -Gehrnspitze"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8a43745c-4a32-4040-94b0-21ec27f93206/99/image.jpg",
+      "caption": "Ziegen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7de9dcb4-236f-4673-af26-d89951efbcfe/99/image.jpg",
+      "caption": "Blick zum Seebensee"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/bd811a5a-3746-4944-b706-c7702af4790e/99/image.jpeg",
+      "caption": "langlaufen-in-leutasch-am-kirchplatz"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b15a7a95-fadb-4327-a99d-175b9784d763/99/image.jpg",
+      "caption": "Gaistalalm_02_a016a950fb"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0f20715c-7ede-4bd7-811d-470cd7fa82c5/99/image.jpg",
+      "caption": "Geisterklamm_-_024_81bab34f74"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.37025260471",
+    "longitude": "11.143487717147"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Wir sind ein Bauernhof, vermieten insgesamt 3FW, wobei 2 ganz neu umgebaut sind und auf neuesten Stand sind. Wir haben WLAN Internetanschluss. unser Haus liegt sehr ruhig, aber doch zentral.\nWir bieten Ihnen eine Schwimmbadbenützung und Sauna im nebenstehenden Hotel Xander ( 2 min. entfernt) gegen Aufpreis von 5.-€ pro Eintritt an.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/1 Schlafraum/Dusche, WC",
+          "description": "Es ist eine schöne grosse Ferienwohnung.Die Küche ist sehr gut ausgestattet Mikro., Toaster, Backofen usw.Das Schlafzimmer ist seperat. Ein gemütlicher Wohnraum mit TV-SAT steht Ihnen zur Verfügung. Wir bieten Ihnen auch WLAN Internetanschluss an.Bettwäsche, Handtücher und Geschirrtücher sind vorhanden.Auf Wunsch bekommen Sie Brötchenservice und frische Milch. Auf unserem sonnigen Balkon haben  Sie eine herrliche Aussicht.",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Gehrenspitze, Dusche, WC",
+          "description": "Die Ferienwohnung ist neu umgebaut.Die Küche ist sehr gut ausgestattet mit Mikro., Toaster, usw. Das Schlafzimmer istseperat. ein gemütlicher wohnraum mit TV-Sat steht Ihnen zur Verfügung.Wir bieten Ihnen WLAN-Internetanschluss an. Bettwäsche,Handtücher und Geschirrtücher sind vorhanden. Auf unserem sonnigen Balkon haben Sie eine herrliche Aussicht.Auf Wunsch bekommen Sie Brötchenservice und frische Milch.",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Hochmoos, Dusche, WC",
+          "description": "Die Ferienwohnung ist neu umgebaut. Die Küche ist sehr gut ausgestattet mit Mikro., Toaster usw.. Das Schlafzimmer ist seperat. Ein gemütlicher Wohnraum mit TV-SAT steht Ihnen zur Verfügung.Wir bieten Ihnen auch WLAN- Internetanschluss an.Bettwäsche, Handtücher und Geschirrtücher sind vorhanden. Auf Wunsch bekommen Sie Brötchenservice und frische Milch.",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://www.christina-seefeld.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Hotel Christina",
+    "streetAddress": "Reitherspitzstr. 415",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2553",
+    "email": "info@christina-seefeld.at",
+    "url": "http://www.christina-seefeld.at"
+  },
+  "name": "Hotel Christina",
+  "description": [
+    "Klein, aber vom Feinsten . . . Wie ein Blumenaquarell aus zarten Pastellfarben spiegelt sich Licht und Sonne auf liebevollen Details. Entdecken Sie bei uns im ganzen Haus die Leidenschaft für \"Schön Wohnen und Einrichten\".",
+    "Die Preise sind pro Person und Tag inklusive Kurtaxe, Bedienung, Frühstücksbuffet, Personenlift, freie Benützung von Hallenbad, Sauna, Tischtennis, Skistall, Garten und Sonnenterrasse mit Liegen und Parkplatz ab einem Aufenthalt von 3 vollen Tagen.\nDie Zimmer sind mit Bad/WC, Kabel-TV, Radio, Durchwahltelefon (extra verrechnet), Safe, Bademantel u. Internet ausgestattet.\nKinder bis 10 Jahre im Zimmer der Eltern 50% Ermäßigung.\nExtras: Solarium (€2,50 pro Münze), Minibar, Telefon, Fax",
+    "In unmittelbarer Nähe der Golfacademy, nur ein paar Minuten von der Fußgängerzone und ein paar Meter von der Talstation der Bergbahnen \"Rosshütte\" in der Reitherspitzstraße, finden Sie in ruhiger, jedoch zentraler Lage das Hotel Christina.\nCheck-In ab 13.00 Uhr / Check-Out bis 11.00 Uhr"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "reviewCount": "90"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/812bb9a4-3fc5-4c14-95e7-646e4641d5b7/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/df165c8a-b8b7-4d76-b831-0886e7e771cd/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d35714e8-b738-43ff-8c3f-e5f8c735e078/99/image.jpg",
+      "caption": "Terrasse"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/48a7960d-a85b-4ed5-8af6-a4b14e1ba33b/99/image.jpg",
+      "caption": "Hallenbad"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8efd25c0-d080-450c-badc-71671ddee1d6/99/image.jpg",
+      "caption": "Frühstücksraum"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3267667971462",
+    "longitude": "11.1950254440308"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Suite, Dusche und Bad, WC",
+      "description": "Alle Suiten (35m2) haben einen Balkon und sind mit Badewanne/Dusche, WC (getrennt), Bademantel, Haarföhn, Kabel-TV, Radio, Durchwahltelefon, Safe und Internet ausgestattet.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Suite mit Dusche, Bad, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Bad, WC",
+      "description": "Die Doppelzimmer sind mit Badewanne/Dusche/WC, Bademantel, Haarföhn, Kabel-TV, Radio, Durchwahltelefon, Safe und Internet ausgestattet.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Bad, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Bad, WC",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Komfortdoppelzimmer",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

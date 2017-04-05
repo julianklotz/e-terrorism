@@ -1,0 +1,27 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation"
+  ],
+  "name": "Parashuttle Seefeld",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.328851109542",
+    "longitude": "11.1981333306885"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Parashuttle Seefeld",
+    "streetAddress": "Föhrenwald 584",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 1244010",
+    "email": "parashuttle@seefeld.at",
+    "url": "http://www.parashuttle.info"
+  },
+  "description": "\"Die wohl schönste Art in die Luft zu gehen!\"\nEin Traum für Jung und Alt! Fliegen Sie frei wie ein Vogel und genießen Sie die atemberaubende Landschaft hunderte Meter unter sich. Der Start erfolgt vom Härmelekopf/Seefeld (2.040m; Höhenunterschied 840m), mit den erfahrensten Gleitschirmpiloten Tirols. Jugendliche unter 18 Jahren benötigen eine Bestätigung des Erziehungsberechtigten. Flüge täglich nach telefonischer Vereinbarung. Tandemflug inkl. Liftkosten und Taxi (zurück zum Treffpunkt) € 110,00.",
+  "url": [
+    "http://www.parashuttle.info"
+  ]
+}

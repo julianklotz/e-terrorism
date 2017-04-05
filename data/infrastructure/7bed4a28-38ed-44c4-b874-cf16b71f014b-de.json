@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Landform",
+    "Hostel"
+  ],
+  "name": "Binsalm",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3968242797566",
+    "longitude": "11.5781051733154"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Binsalm",
+    "addressLocality": "Hinterriß",
+    "postalCode": "6215",
+    "addressCountry": "AT",
+    "telephone": "+43 (0) 5245 / 214",
+    "email": "norbert@binsalm.at"
+  },
+  "description": "Nur im Sommer geöffnet, Übernachtungsmöglichkeit für 80 Personen",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a9687fca-c969-4fe5-b6ce-aa16c6a94804/99/image.jpg",
+      "caption": "Binsalm"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/51b5cced-1dca-421e-83bf-18abdb405432/99/image.jpg",
+      "caption": "Kapelle"
+    }
+  ],
+  "url": [
+    "http://"
+  ]
+}

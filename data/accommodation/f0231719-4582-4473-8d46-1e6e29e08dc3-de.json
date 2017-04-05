@@ -1,0 +1,22 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.homeaway.com"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Jörg - Appartement Cervelli",
+    "streetAddress": "Milserstr. 563 / Top 2",
+    "addressLocality": "Seefeld ",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 699 1786 6781",
+    "email": "info@holiday-seefeld.at",
+    "url": "http://www.holiday-seefeld.at"
+  },
+  "name": "ZW-Cervelli Ilaria",
+  "currenciesAccepted": "EUR"
+}

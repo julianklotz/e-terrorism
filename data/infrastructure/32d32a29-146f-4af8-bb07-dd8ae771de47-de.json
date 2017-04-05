@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "EmergencyService"
+  ],
+  "name": "Bergrettung Scharnitz",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3891300377072",
+    "longitude": "11.2653518760574"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Bergrettung Scharnitz",
+    "streetAddress": "Inrain 79",
+    "addressLocality": "Scharnitz",
+    "postalCode": "6108",
+    "addressCountry": "AT",
+    "telephone": "(0043) 6648937583",
+    "email": "scharnitz@bergrettung-tirol.com",
+    "url": "http://www.bergrettung-scharnitz.at"
+  },
+  "description": [
+    "Thomas Lehner\nTel.: +43 664/8937583",
+    "Thomas Lehner\nTel.: +43 664/8937583"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a97db435-c49d-4ac0-9cc2-5cc51f7f7528/99/image.jpg",
+      "caption": "Logo Bergrettung"
+    }
+  ],
+  "url": [
+    "http://www.bergrettung-scharnitz.at",
+    "http://www.karwendel.org"
+  ]
+}

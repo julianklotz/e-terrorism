@@ -1,0 +1,37 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "TouristAttraction",
+    "LandmarksOrHistoricalBuildings"
+  ],
+  "name": "Holzbildstock am \"Gstoag\"",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3170709748979",
+    "longitude": "11.1976120205933"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Holzbildstock am \"Gstoag\"",
+    "streetAddress": "Seefelderstraße",
+    "addressLocality": "Reith bei Seefeld",
+    "postalCode": "6103",
+    "addressCountry": "AT"
+  },
+  "description": "Am Scheitelpunkt der Bundesstraße zwischen Auland und dem Wildsee steht\nein eigenartiger Lärchenpfosten mit einem Kreuz.\nEs ist das älteste Marterl weitum, denn in die verwitterte Säule ist die Jahreszahl\n1611 eingekerbt. Es soll an die glückliche Auffindung eines Kindes\nerinnern. Beim „Ströb rechnen“ hatten Eltern einen kleinen Buben mitgehabt\nund auf einmal nicht mehr finden können. Verzweifelt habe man die ganze\nGegend abgesucht.\nAn dieser Stelle sei ein großer Stöbhaufen gewesen. In diesen habe sich das\nKind verkrochen und sei darin eingeschlafen.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/31b64f29-8cb1-4fc1-be15-536697c32fe7/99/image.jpg",
+      "caption": "Marterle"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/38f0c084-6584-4463-af6d-1aa1b0eca1e7/99/image.jpg",
+      "caption": "Holzbildstock in Auland"
+    }
+  ],
+  "url": [
+    "http://www.seefeld.com"
+  ]
+}

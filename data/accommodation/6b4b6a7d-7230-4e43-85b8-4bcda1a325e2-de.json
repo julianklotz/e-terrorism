@@ -1,0 +1,74 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.wiesenhof-ritz.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Landhaus Ritz",
+    "streetAddress": "Am Wiesenhang 8",
+    "addressLocality": "Mösern",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "+4352124731",
+    "faxNumber": "+43521252603",
+    "email": "christian-klotz@aon.at",
+    "url": "http://www.wiesenhof-ritz.at"
+  },
+  "name": "Landhaus Ritz",
+  "description": [
+    "Umgeben von den Tiroler Bergen und mit Weitblick ins Inntal liegt unser Haus auf einer der sonnigsten Höhen von Mösern. Das Landhaus Ritz heißt Sie im Schwalbennest von Mösern herzlich willkommen. In bester Freundschaft mit der Sonne können Sie Ihren Urlaub beruhigt beginnen. Sport und Spaß, Wandern, Biken, Schwimmen, Ski- u. Langlauf, Rodeln und noch mehr ist möglich. Natur so weit das Auge reicht und das alles vor Ihrer Haustüre bzw. in unmittelbarer Nähe.\n     \nSehr geehrter Gast, leh\u0027n Dich zurück, lass es dir gut gehen, sei einfach Mensch. 1.250 Meter über dem Alltag. Rundum grün, rundum schön, allein od. zu zweit, genieße den Urlaub im Landhaus Ritz!\n\nVielleicht haben Sie noch Freunde oder eine große Familie, welche Sie mitbringen wollen, so können wir Ihnen zusätzlich unsere sehr schönen Wohnungen im Haus Wiesenhof (für 1-8 Pers.) (nur 50m von uns entfernt) anbieten.\n\nWEITERE INFOS UNSERER BEIDEN HÄUSER  FINDEN SIE NUR AUF UNSERER EIGENEN HOMPAGE www.wiesenhof-ritz.at",
+    "Preise inkl.: Strom, Heizung, Wasser, Bettwäsche, Handtücher\nPreise exkl.: Ortstaxe, Endreinigung, Waschmaschinen und Trocknerbenützung\nGanzjährig geöffnet! Spezialpreise auf Anfrage! Haustiere erlaubt (p.T.€ 6,00 ohne Futter).\nBei Mitnahme eigener Bettwäsche einmaliger Abzug von Euro 40,- \n",
+    "Check in 14.00 Uhr / Check out 10.00 Uhr\nBitte im Haus Wiesenhof (direkt am Bauernhof gegenüber Schilift) melden"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1f05d010-f1e0-41d9-b5cb-5ebe0f18fad4/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c21012fd-0b39-445f-9ba6-f40d2fbe91ce/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/361b7f63-d40c-42c9-bfad-9d10c8445d1a/99/image.jpg",
+      "caption": "Hausfoto Winter 2"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3118699",
+    "longitude": "11.1496511"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 1 Schlafraum",
+      "description": "In unserem Haus erwartet Sie ein äußerst komfortables Wohnzimmer mit gemütlichem Kachelofen, Kabel TV, voll ausgestattete exclusive Küche, und ein großes Badezimmer/WC (Waschmaschine und Trockner). Ein seperates Schlafzimmer mit TV, kl. Abstellraum, eigener Hauseingang, überdachte Garage. Wäsche, Kabel-TV , W- Lan, Radio-CD-Player sind im Preis inkludiert.\nSchönster Ausblick auf Ihrer eigenen großen süd- westlichen Sonnenterrasse.\n\nPreise inkl.: Strom, Heizung, Wasser,",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/1 Schlafraum/Bad, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ]
+    }
+  ]
+}

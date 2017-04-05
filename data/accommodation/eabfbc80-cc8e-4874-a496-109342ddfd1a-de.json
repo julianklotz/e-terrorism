@@ -1,0 +1,18 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Burgstr. 36",
+    "addressLocality": "Oberkirch",
+    "postalCode": "77704",
+    "addressCountry": "DE"
+  },
+  "name": "ZW - Erdle Volker",
+  "currenciesAccepted": "EUR"
+}

@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation"
+  ],
+  "name": "Pferdeschlittenfahrten in Leutasch",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Informationsbüro Leutasch",
+    "streetAddress": "Weidach 320",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "+43-50880510",
+    "faxNumber": "+43-50880811",
+    "email": "info.leutasch@seefeld.com",
+    "url": "http://www.seefeld.com"
+  },
+  "description": "Pferdeschlittenfahrten in Leutasch ab dem Standplatz Weidach und Klamm.  Es werden Ortsrundfahrten und Fahrten zu verschiedenen Almen (z.B. Gaistal/Wildmoosgebiet) angeboten. Genauere Infos über Routen und Preise erhalten Sie im Infobüro Weidach.\nAnbieter: Paul Ripfl Tel. +43 664/2469125 (Standplatz Weidach), Wirtseppelerhof Tel. +43 5214/6768 (Standplatz Klamm), Josef Kluckner Tel. +43 5214/6491 (Standplatz Klamm) und Meinrad Rauth Tel. +43 664/5344079 oder +43 5214/6645 (Standplatz Klamm).",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d61c9b64-2d82-4d21-99b8-bbaae35c0029/99/image.jpg",
+      "caption": "pferdeschlitten"
+    }
+  ]
+}

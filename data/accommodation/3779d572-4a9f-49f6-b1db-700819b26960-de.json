@@ -1,0 +1,132 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.seefeld.com/de/unterkunft/stoeffelhof_dad-19630_accommodation",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Stöffelhof",
+    "streetAddress": "Gasse 171",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "0043 676 7859912",
+    "email": "stoeffelhof@hotmail.com",
+    "url": "http://www.stoeffelhof.com"
+  },
+  "name": "Stöffelhof",
+  "description": [
+    "Unser familiär geführtes Haus in sonniger Lage im Ortsteil Gasse liegt direkt an der Loipe.\n5 moderne Doppelzimmer mit DU/WC, Sat-TV, Balkon, im Tiroler Stil, laden zum gemütlichen Verweilen ein. \nDen Gästen steht ein gemütlicher Aufenthaltsraum mit Kühlschrank und eine Liegewiese zur Verfügung. Von einem reichhaltigen  Frühstück gestärkt, können Sie von unserem Haus aus zahlreiche Wanderungen und Langlauftouren unternehmen. Bushaltestelle in unmittelbarer Nähe.\nKostenloser Abholservice.",
+    "Kostenlose Hausleistungen: Kleintiere erlaubt, Fahrradverleih, Grillen auf der Liegewiese, Rodelverleih sowie kostenloser Transfer von den Bahnhöfen Mittenwald und Seefeld.",
+    "Check out: 10:00\nCheck in: 14:00\n\nWir sind Mautfrei erreichbar!\nSo finden Sie uns:\n\nüber Brenner: Innsbruck -  Seefeld - Leutasch \nüber München: Garmisch - Mittenwald - Leutasch \nüber Zürich: Bregenz - Telfs - Leutasch \n"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "reviewCount": "12"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b5e4afec-e403-4d4f-bf2a-8af746129aa9/99/image.jpg",
+      "caption": "stöffelhof neu"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3bf9a15f-a2a1-4dac-ac6a-e7aca4b7f2d6/99/image.jpg",
+      "caption": "Stöffelhof früher"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/925dc4eb-6700-47ae-8427-49138cad1683/99/image.jpg",
+      "caption": "Frühstücksraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/44074487-19d3-49d5-a22a-aa0ec7805b4c/99/image.jpg",
+      "caption": "Hauseingang"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7e157cec-35c0-4226-b8b0-5e0cdcc62575/99/image.jpg",
+      "caption": "Frontansicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b1a8b025-5984-465f-9a56-ac7fc7c037de/99/image.jpg",
+      "caption": "Stöffelhof Sommer 2 new"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ad7fa536-42e7-4dd0-8a42-79f179262079/99/image.jpg",
+      "caption": "_DSC2818"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ac8050c3-6869-4e3e-a63a-8d971f680d2f/99/image.jpg",
+      "caption": "_DSC2853"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7ec0b72a-043c-4690-bb53-35a75347b2e2/99/image.jpg",
+      "caption": "_DSC2847"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/48d099ee-00bc-4ba1-b513-b369cb4f551c/99/image.jpg",
+      "caption": "Hauseingangfenster"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.377872412133",
+    "longitude": "11.158344050009"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Gemütliche, helle, modern-rustikale Doppelzimmer mit Du/WC, Sat-TV mit Flachbildschirm, Balkon und kostenloses W-LAN.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "30.00",
+          "maxPrice": "30.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "30.00",
+          "maxPrice": "30.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,527 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://www.appartementhaus-handl.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Appartementhaus Handl",
+    "streetAddress": "Weidach 318 e",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6655",
+    "faxNumber": "(0043) 5214 6655 30",
+    "email": "office@appartementhaus-handl.at",
+    "url": "http://www.appartementhaus-handl.at"
+  },
+  "name": "Appartementhaus Handl",
+  "description": [
+    "Unser Haus liegt zentral im Ortsteil Weidach. Von unseren Appartements haben Sie einen wunderbaren Ausblick auf die Bergwelt mit Ihren Wiesen und Wäldern. Zahlreiche Wanderwege und verschiedene Freizeiteinrichtungen ermöglichen Ihnen einen abwechslungsreichen Aufenthalt.  \nWir bieten Whg. für 2, 4 oder 6 Personen,teilweise mit Kachelofen, Geschirrspüler, Zirbenholz-Ausstattung, Balkon od.Terrasse an. W-LAN ist im ganzen Haus kostenlos möglich. Unsere hauseigene Sauna bietet Ihnen Ruhe, Erholung und Entspannung.",
+    "\nEXKLUSIVE: Ortstaxe pro Person/pro Tag (€ 2,80), Telefonkosten, Haustiere NUR AUF Anfrage\nINCLUSIVE: Endreinigung pro Wohnung zw. € 45,00 und € 65,00",
+    "Von Mittenwald kommend liegen wir im Ortsteil Weidach gleich auf der rechten Seite. \nVon Seefeld kommend im Ortsteil Weidach auf der linken Seite und vom Fernpass kommend über Telfs, Buchen bis nach Weidach und dann wieder rechts und dann gleich nach der Brücke ist unser Haus.",
+    "Langlaufen, Wandern, Ruhe, Sport, Familie, Winter, Sommer, Frühling, Herbst, Berg, Sonne, Wiesen,"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "reviewCount": "50"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9ea12c14-76b1-427c-a607-fa6f2cc69fe7/99/image.jpg",
+      "caption": "Appartementhaus Handl-Winteransicht hinten"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/624301d0-4cc6-401c-83b9-ae94385ed93b/99/image.jpg",
+      "caption": "logo_appartementhaus_handl_2016_positiv-01"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/bd4a9b0f-ef2f-4239-8fe1-8f7a55c28d30/99/image.jpg",
+      "caption": "logo_appartementhaus_handl_2016_positiv-01"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5d75dbd4-4c18-4776-b7d6-92026af740ae/99/image.jpg",
+      "caption": "Nachtbild Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/083a18f5-afbe-458d-a4a6-cf71095e89a3/99/image.jpg",
+      "caption": "Hausansicht Sommer Wiese"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/91892de5-623e-469c-b582-c4d27f209b1b/99/image.jpg",
+      "caption": "Appartementhaus Handl-Garten Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5fc45e88-faaf-4620-b794-24ab3269a3df/99/image.jpg",
+      "caption": "IMG_9143"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5a7f7699-7a1e-49a3-b7b6-06718f5843f3/99/image.jpg",
+      "caption": "IMG_9105"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/fb8021b7-2d69-4d52-8aa7-fc84b0a74fd0/99/image.jpg",
+      "caption": "IMG_8552"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/fd703ccb-6b34-4e98-b0fc-9194dc4e471f/99/image.jpg",
+      "caption": "IMG_8655"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/521f6fb0-ded9-4125-9c4b-9aba37043b45/99/image.jpg",
+      "caption": "IMG_8712"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e8505c9d-96a9-4e4a-a7ef-b96821d044e8/99/image.jpg",
+      "caption": "IMG_8654"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.372173686009",
+    "longitude": "11.16349498593"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 2 Schlafräume",
+      "description": "Dieses Appartement ist bestens und sehr komfortabel ausgestattet (wie etwa mit Bio-Matratzen, Holzböden, usw..) und ist ca. 100 m² groß;\nes besteht aus 2 getrennten Schlafräumen mit Safe, 1 gemütlicher Wohnraum, 1 Essraum mit Kachelofen, 1 Küche mit Geschirrspüler, 2 Bäder , 1 große Terasse, usw...",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Deluxe App. Reitherspitz, 2 Schlafräume",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "4"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "120.00",
+          "maxPrice": "161.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 2 Schlafräume",
+      "description": "Dieses Appartement ist ca. 80 m² groß, sehr komfortabel und bestens ausgestattet, es verfügt über 2 getrennte Schlafräume mit Safe, 1 gemütlicher Wohnraum, 1 Küche mit Geschirrspüler, 2 Bäder, 1 großer Balkon,  usw.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Standard App. Munde, 2 Schlafräume",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "4"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "99.00",
+          "maxPrice": "122.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 2 Schlafräume",
+      "description": "Das besondere an diesem Appartement ist, dass sich mit einer Verbindungstür dieses Appartement schnell und einfach mit dem Appartement von nebenan kombinieren lässt - diese Wohnung ist dann ca. 120 m² groß und mit sehr viel Komfort ausgestattet, ideal und sehr gut geeignet für 5 Personen.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Deluxe Kombi Seefeld, 2 Schlafräume",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "4"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "119.00",
+          "maxPrice": "142.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Dieses Appartement ist ca. 40 - 48 m² groß und bestens ausgestattet und ideal für 2-4 Personen, es ist eine Wohnung mit einem Wohnschlafzimmer und 1 getrennten Schlafzimmer mit Komfortmatratzen, 1 Küche, 1 Dusche, 1 WC, TV, Radio, Telefon, Safe, Haarföhn, Handtücher, Bettwäsche, Geschirr, Balkon, usw...",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Standard Appartement Panorama , 1 Schlafraum",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "60.00",
+          "maxPrice": "93.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "90.00",
+          "maxPrice": "93.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "90.00",
+          "maxPrice": "93.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Dieses Appartement ist ca. 40 - 48 m² groß und bestens ausgestattet und ideal für 2-4 Personen, es ist eine Wohnung mit einem Wohnschlafzimmer und 1 getrennten Schlafzimmer mit Komfortmatratzen, Küche mit Geschirrspüler,  Dusche,  WC, , TV, Radio, Telefon, Safe, Haarföhn, Handtücher, Bettwäsche, Geschirr,  usw...",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Standard Appartement Wetterstein, 1 Schlafraum",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "60.00",
+          "maxPrice": "93.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "90.00",
+          "maxPrice": "93.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "90.00",
+          "maxPrice": "93.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Das besondere Appartement mit dem Schwerpunkt - gesunder Schlafbereich: Ausstattung - Küche mit Geschirrspüler, Wohnzimmer, getr. Schlafzimmer, Dusche, WC, TV, Internetanschluss, Balkon, usw….. \nDas Schlafzimmer besteht aus Zirbenholz u. Gesundheitsmatratzen. Zirbenholz verbessert das Raumklima u. hat positive Wirkung auf stressgeplate Gemüter. Zudem wird eine bessere Schlafqualität geschaffen, die Herzfrequenz wird reduziert und der Wetterfühligkeit wird kein Platz mehr gelassen.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Comfort-App.Claudia, 1 Schlafraum",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "72.00",
+          "maxPrice": "98.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "95.00",
+          "maxPrice": "98.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Das besondere Appartement mit dem Schwerpunkt - gesunder Schlafbereich: Ausstattung - Küche mit Geschirrspüler, Wohnzimmer, getr. Schlafzimmer, Dusche, WC, TV, Internetanschluss, Balkon, usw….. \nDas Schlafzimmer besteht aus Zirbenholz u. Gesundheitsmatratzen. Zirbenholz verbessert das Raumklima u. hat positive Wirkung auf stressgeplate Gemüter. Zudem wird eine bessere Schlafqualität geschaffen, die Herzfrequenz wird reduziert und der Wetterfühligkeit wird kein Platz mehr gelassen.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Comfort-App.Sarah, 1 Schlafraum",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "72.00",
+          "maxPrice": "98.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "95.00",
+          "maxPrice": "98.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Das besondere Appartement mit dem Schwerpunkt - gesunder Schlafbereich: Ausstattung - Küche mit Geschirrspüler, Wohnzimmer, getr. Schlafzimmer, Dusche, WC, TV, Internetanschluss,Garten, usw….. \nDas Schlafzimmer besteht aus Zirbenholz u. Gesundheitsmatratzen. Zirbenholz verbessert das Raumklima u. hat positive Wirkung auf stressgeplate Gemüter. Zudem wird eine bessere Schlafqualität geschaffen, die Herzfrequenz wird reduziert und der Wetterfühligkeit wird kein Platz mehr gelassen.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Comfort-App.Christine, 1 Schlafraum",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "72.00",
+          "maxPrice": "98.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "95.00",
+          "maxPrice": "98.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, Wohn-/Schlafraum",
+      "description": "Dieses Appartement ist ca. 35 m² groß und trotzdem ideal für 2 Personen und sehr geräumig ausgestattet, es verfügt über  Wohnschlafzimmer, Küche, Dusche,  WC,  direkter Gartenzugang, Safe, TV, Radio, Telefon, Handtücher, Bettwäsche, Geschirr, usw..",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Studio Mathias",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "55.00",
+          "maxPrice": "72.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, Wohn-/Schlafraum",
+      "description": "Dieses Appartement ist ca. 35 m² groß und trotzdem ideal für 2 Personen und sehr geräumig ausgestattet, es verfügt über  Wohnschlafzimmer, Küche, Dusche, WC, Safe, TV, Radio, Telefon, Handtücher, Bettwäsche, Geschirr, usw..",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Studio Markus",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "55.00",
+          "maxPrice": "72.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, Wohn-/Schlafraum",
+      "description": "Dieses Appartement ist ca. 35 m² groß und trotzdem ideal für 2 Personen und sehr geräumig ausgestattet, es verfügt über  Wohnschlafzimmer, Küche, Dusche, WC, Balkon, Safe, TV, Radio, Telefon, Handtücher, Bettwäsche, Geschirr, usw..",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Studio Leutasch",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "55.00",
+          "maxPrice": "72.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 1 Schlafraum",
+      "description": "Dieses Appartement befindet sich im 1. Stock. Eine große Terrasse mit traumhaften Blick auf die Hohe Munde . Es ist ca. 80m2 groß und für 2 - 4 Personen geeignet. Das Appartement verfügt über ein gemütliches Wohnzimmer mit einer Ausziehcouch, Essbereich mit Kachelofen, Küche mit Geschirrspüler, ein getrenntes Schlafzimmer, Bad mit Badewanne, Dusche und WC.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Deluxe App. Seefeld, 1 Schlafraum",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "90.00",
+          "maxPrice": "113.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "110.00",
+          "maxPrice": "113.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "110.00",
+          "maxPrice": "113.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

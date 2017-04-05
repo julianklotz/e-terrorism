@@ -1,0 +1,249 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.seefeld-alba.com",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Gabriel",
+    "streetAddress": "Innsbruckerstr. 14",
+    "addressLocality": "Seefeld in Tirol",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "email": "booking@hausgabriel.com"
+  },
+  "name": "Haus Gabriel",
+  "description": [
+    "\nEingebettet in die herrliche Tiroler Landschaft, im Herzen des hübschen Ortes Seefeld, liegt das Haus Gabriel. Das große, gemütliche Haus hat 8 unterschiedliche Suiten, die Ihnen einen einzigartigen und ganz auf Sie zugeschnittenen Urlaub bieten. Sie werden sich sofort in unser Haus verlieben – in seine Einrichtung, das Material, die Details. Die Suiten im Haus Gabriel sind nach original Tiroler Tradition gestaltet und bieten einen unverfälschten Urlaubsgenuss.\n\nAuch an Ihre Bequemlichkeit haben wir gedacht: Ihnen steht modernster Komfort zur Verfügung – für einen unbeschwerten Urlaub.",
+    "Für Aufenthalte die länger als 3 Nächte dauern wird am Check-in, wie unten angegeben, eine Kaution einbehalten, um einen perfekten Service gewährleisten zu können:\n\n    100 € für die junior suite\n    300 € für die standard suite\n    500 € für die superior suite\n    750 € für die owner suite\n    1200 € für die Penthouse\n\nDie Kaution wird in bar oder mittels Kreditkarte einbehalten.\n\n"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0af76e0b-e827-4a8b-9569-790cd19394ff/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/45458193-030e-488e-96b9-1a98d9325b94/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/031e1286-4623-4fd3-b6d7-24b7a902a731/99/image.jpg",
+      "caption": "Winterfoto"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/db68ee1d-f071-4c72-b4cd-4aac43f10874/99/image.jpg",
+      "caption": "Abendaussicht im Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f4a5ff5f-95d4-4dab-bf7a-257ba65cf013/99/image.jpg",
+      "caption": "Eingang"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3283884683039",
+    "longitude": "11.187504529953"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Suite, Dusche, WC, 1 Schlafraum",
+      "description": "\n\nDie Kreme Junior Suite liegt im Erdgeschoss des Haus’ Gabriel und präsentiert sich nach der Tradition des Ortes. Im Schlafzimmer überwiegen die typischen Materialien der Region. Das Ambiente ist entspannend und ideal für Ihren Urlaub. Das Badezimmer ist modern und geschmackvoll eingerichtet, es bietet den Gästen umfassenden Komfort, darunter Föhn, Handtücher und zwei Bademäntel.\n\nIn der Suite steht Ihnen ein Wasserkocher und eine Espresso-Maschine sowie entsprechendes Geschirr zur Verfügung.\n\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Juniorsuite",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "56.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Suite, Dusche, WC, Deluxe",
+      "description": "\n\nDie Deluxe Suiten befindeen sich im ersten \u0026  zweiten Stock des Haus’ Gabriel, in einer privilegierten Position, die zu jeder Zeit durch die großen Fenster oder vom hübschen Balkon den Blick auf die Landschaft freigibt.\n\nDie Suite bietet zwei Gästen viel Platz und hat ein bequemes Schlafzimmer. Im Hauptraum befindet sich außerdem eine Schlafcouch für zwei weitere Personen. Die Wohnung hat zwei moderne und funktionale Bäder, außerdem eine Kochnische mit allem Komfort.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Deluxesuite",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "60.00",
+          "maxPrice": "117.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Suite, Dusche, WC, Standard",
+      "description": "Die Standard Suiten im ersten \u0026 obersten Stockwerk von Haus Gabriel bietet ihren Gästen zu jeder Zeit einen herrlichen Blick auf Seefeld und verfügt über große Fenster und einen schönen Balkon.\n\nDie Standard Suite ist in einem moderneren Stil gehalten und besteht aus einem Hauptraum mit Esstisch und einem bequemem Sofa mit Fernseher: Ein ideales Ambiente, das man zusammen mit Freunden oder der Familie genießen kann. Ein elegantes Bad mit allem Komfort steht den Gästen zur Verfügung. ",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Standardsuite",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "97.50",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Suite, Dusche, WC",
+      "description": "Die Owner’s Suite im Haus Gabriel schenkt Ihren Gästen den größten Luxus von allen: einen wunderbaren Blick über den Ort Seefeld.\n\nSie besteht aus zwei großen Zimmern für insgesamt 4 Personen sowie aus zwei wunderschönen, mit den Zimmern verbundenen Duschbädern. Eine elegante Küche schließt sich an das große Wohnzimmer an, das viel Raum für gute Gespräche bietet, sowie ein zentraler Kamin und der Essbereich mit einem schönen großen Tisch. ",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Owners Suite",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "2"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "390.00",
+          "maxPrice": "390.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "425.00",
+          "maxPrice": "425.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "460.00",
+          "maxPrice": "460.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Suite, Dusche, WC",
+      "description": "Die Penthouse Suite im Haus Gabriel verbreitet die Gemütlichkeit eines echten Tiroler Heims und lädt Sie ein, es in allem, was es bietet, zu genießen.\nEs besteht aus zwei bequemen Doppelzimmern für insgesamt 4 Personen. Für eine fünfte Person kann das Schlafsofa im Salon genutzt werden. Außerdem gibt es ein schönes, kleines „Nest“ für drei Kinder oder Jugendliche unter dem Dach des zweiten Schlafzimmers. Drei Badezimmer, davon eines im Doppelzimmer, vervollständigen den Schlafbereich. ",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Penthouse Suite",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "2"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "390.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "0.00",
+          "maxPrice": "425.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "0.00",
+          "maxPrice": "460.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

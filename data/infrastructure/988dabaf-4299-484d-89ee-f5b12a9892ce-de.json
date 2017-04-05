@@ -1,0 +1,33 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation",
+    "TouristAttraction"
+  ],
+  "name": "E-Bike Verleih - Tirol.Camp Leutasch",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3982021577359",
+    "longitude": "11.1801817714417"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Tirol.Camp Leutasch",
+    "streetAddress": "Reindlau 230 b",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6570",
+    "faxNumber": "(0043) 5214 6570 30",
+    "email": "info@tirol.camp",
+    "url": "http://www.tirol.camp"
+  },
+  "description": "E-Bike Verleih auf Anfrage!",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/064f86fb-d8bb-45d0-a902-fff4e8161caf/99/image.jpg",
+      "caption": "E-Bike"
+    }
+  ]
+}

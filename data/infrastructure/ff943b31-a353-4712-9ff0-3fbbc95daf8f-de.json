@@ -1,0 +1,29 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant"
+  ],
+  "name": "Kastenalm",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3695153557896",
+    "longitude": "11.4348658919334"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Kastenalm",
+    "streetAddress": "Inrain 89",
+    "addressLocality": "Scharnitz",
+    "postalCode": "6108",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 5316796"
+  },
+  "description": "Nur im Sommer geöffnet! Speck aus eigener Produktion, Stempelstelle",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/799643c2-e775-48bf-8546-ab9ddd823c95/99/image.jpg",
+      "caption": "Kastenalm"
+    }
+  ]
+}

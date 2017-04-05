@@ -1,0 +1,30 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BowlingAlley"
+  ],
+  "name": "Kegelbahn im Gasthof Risserhof",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.390207775649",
+    "longitude": "11.2644680246063"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Gasthof Risserhof",
+    "streetAddress": "Innsbrucker Str. 26",
+    "addressLocality": "Scharnitz",
+    "postalCode": "6108",
+    "addressCountry": "AT",
+    "telephone": "(0043)05213/5240",
+    "email": "restaurant@risserhof.com"
+  },
+  "description": "2 vollautomatische Kegelbahnen, pro Bahn € 9,00 pro Stunde (€1,00 Ermäßigung mit der \"Olympiaregion Seefeld Card\".\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ae93d797-a7c2-4e8d-8c07-e5cfaf49dc08/99/image.jpg",
+      "caption": "Piktogramm"
+    }
+  ]
+}

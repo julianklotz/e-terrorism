@@ -1,0 +1,28 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant",
+    "CafeOrCoffeeShop"
+  ],
+  "name": "\"Bella Vista\" zum Kirchplatzl",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3890137455861",
+    "longitude": "11.2641187423278"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Innbruckerstr. 20",
+    "addressLocality": "Scharnitz",
+    "postalCode": "6108",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5213 20161"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6357371c-5cec-4337-85a6-21ef5e0cab2b/99/image.jpg",
+      "caption": "Restaurant"
+    }
+  ]
+}

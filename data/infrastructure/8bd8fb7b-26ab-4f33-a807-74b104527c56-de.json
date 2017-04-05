@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Zoo"
+  ],
+  "name": "Damwildgehege in Reith",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3138093661365",
+    "longitude": "11.1960245529785"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Damwildgehege",
+    "streetAddress": "Liftweg",
+    "addressLocality": "Reith bei Seefeld",
+    "postalCode": "6103",
+    "addressCountry": "AT"
+  },
+  "description": [
+    " ",
+    "ganzjährig geöffnet!"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b762f6ed-a72e-4f60-b8f8-24533c519dd2/99/image.jpg",
+      "caption": "Damhirsch"
+    }
+  ]
+}

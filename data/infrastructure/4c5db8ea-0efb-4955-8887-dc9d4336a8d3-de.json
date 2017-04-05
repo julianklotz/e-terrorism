@@ -1,0 +1,37 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant",
+    "CafeOrCoffeeShop"
+  ],
+  "name": "Englhof",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3100023627565",
+    "longitude": "11.198008"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Gasthof Englhof",
+    "streetAddress": "Auland 13",
+    "addressLocality": "Reith bei Seefeld",
+    "postalCode": "6103",
+    "addressCountry": "AT",
+    "telephone": "(0043)5212 3138     ",
+    "faxNumber": "(0043)5212 3138 15 ",
+    "email": "englhof@engl-hof.com"
+  },
+  "description": "Sitzplätze für ca. 100 Personen, Stempelstelle",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3c38d68d-7856-46d3-9342-b2adb1fb6723/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b4f61d7d-ae1c-4b06-90c7-bf9332330987/99/image.jpg",
+      "caption": "Winter"
+    }
+  ]
+}

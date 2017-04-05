@@ -1,0 +1,51 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "Galaabend Im Rahmen des Genussgipfels",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Krumers Post Hotel \u0026 Spa",
+    "employee": {
+      "@type": "Person",
+      "familyName": "Albrecht Hotel GmbH"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Dorfplatz 25",
+      "addressLocality": "Seefeld",
+      "postalCode": "6100",
+      "addressCountry": "AT",
+      "telephone": "(0043) 52122201",
+      "email": "post@krumers.com"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Krumers Post Hotel \u0026 Spa",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Dorfplatz 25",
+      "addressLocality": "Seefeld",
+      "postalCode": "6100",
+      "addressCountry": "AT",
+      "telephone": "(0043) 52122201",
+      "email": "post@krumers.com"
+    }
+  },
+  "description": "Unser Haubenkoch Julius Polak und 3 Winzer (Weingut Goldenits, Weingut Heitlinger und Weingut La Tunella) verköstigen Sie mit einem Galadinner und Top-Weinen. Preis: Menü € 89,-- und Wein € 39,--. Reservierung \u0026 Infos: Krumers Post Hotel \u0026 Spa, Tel: 05212 2201, post@krumers.com, www.krumers.com.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/515f42eb-7b2e-4f89-b3cd-7f8f6b6e0e43/99/image.jpg",
+      "caption": "Krumers Post Hotel"
+    }
+  ],
+  "url": [
+    "http://www.krumers.com"
+  ],
+  "startDate": "2017-04-19T18:00:00",
+  "endDate": "2017-04-19"
+}

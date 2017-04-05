@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "TouristAttraction"
+  ],
+  "name": "Kulturwanderweg Reith",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2991787379886",
+    "longitude": "11.2030944558197"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Informationsbüro Reith",
+    "streetAddress": "Römerstraße 52",
+    "addressLocality": "Reith bei Seefeld",
+    "postalCode": "6103",
+    "addressCountry": "AT",
+    "telephone": "(0043)50880530 ",
+    "faxNumber": "(0043)50880831",
+    "email": "info.reith@seefeld.com",
+    "url": "http://www.seefeld.com"
+  },
+  "description": [
+    "Der Reither Kulturwanderweg ist ein Rundwanderweg, der Sie von Reith nach Leithen und wieder retour führt.\nAuf Ihrer Wanderung entdecken Sie wichtige historische Denkmäler und deren Geschichte. Erleben Sie ein Stück Kultur in Verbindung mit Natur.\n\nStation 1\tTourismusverband\t\t\nStation 2\tMusikpavillon\t\t\nStation 3\tSunnroanweg\t\t\nStation 4\tPfarrkirche\t\t\nStation 5\tMeilenstein\t\t\nStation 6\tUnsere Frau\t\t\nStation 7\tKapelle zum Heiligen Magnus\t\t\nStation 8\tGasthof Hirschen\t\t\nStation 9\tDas Riesenhaus\t\t\nStation 10\tDie Pestsäule\t\n",
+    "Der Reither Kulturwanderweg ist ein Rundwanderweg, der Sie von Reith nach Leithen und wieder retour führt.\nAuf Ihrer Wanderung entdecken Sie wichtige historische Denkmäler und deren Geschichte. Erleben Sie ein Stück Kultur in Verbindung mit Natur.\n\nStation 1\tTourismusverband\t\t\nStation 2\tMusikpavillon\t\t\nStation 3\tSunnroanweg\t\t\nStation 4\tPfarrkirche\t\t\nStation 5\tMeilenstein\t\t\nStation 6\tUnsere Frau\t\t\nStation 7\tKapelle zum Heiligen Magnus\t\t\nStation 8\tGasthof Hirschen\t\t\nStation 9\tDas Riesenhaus\t\t\nStation 10\tDie Pestsäule\t\n"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2c097a58-5510-4ece-8c48-04008cfb333e/99/image.jpg",
+      "caption": "Unsere Frau in Leithen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0dd77c7e-002d-414f-a594-4366aeeaf428/99/image.jpg",
+      "caption": "Bombe"
+    }
+  ]
+}

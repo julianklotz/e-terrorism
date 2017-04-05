@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation",
+    "SportingGoodsStore"
+  ],
+  "name": "Ski Rent",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3297773937024",
+    "longitude": "11.1898970603943"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Skin Rent",
+    "streetAddress": "Andreas Hofer Str. 292",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2107",
+    "email": "mail@skirental.at",
+    "url": "http://www.skirent.at"
+  },
+  "description": [
+    " \n",
+    "auch Verleih von Ski-Bekleidung!\n"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4b24d1bc-5025-4d3f-b91e-3b96928cf822/99/image.jpg",
+      "caption": "logo"
+    }
+  ],
+  "url": [
+    "http://www.skirent.at"
+  ]
+}

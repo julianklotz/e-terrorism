@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant"
+  ],
+  "name": "Forellenhof",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3685660985558",
+    "longitude": "11.1571180674591"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Forellenhof",
+    "streetAddress": "Weidach 290d",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6455",
+    "email": "info@forellen-hof.at",
+    "url": "http://www.forellen-hof.at"
+  },
+  "description": "Sitzplätze für ca. 80 Personen\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6304afd8-33d8-4463-a5a3-370a865cd6ef/99/image.jpg",
+      "caption": "forellenhof"
+    }
+  ],
+  "url": [
+    "http://www.forellen-hof.at"
+  ]
+}

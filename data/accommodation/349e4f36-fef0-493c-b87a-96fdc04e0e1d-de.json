@@ -1,0 +1,355 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://www.for-friends-hotel.at"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "NIDUM Casual Luxury Hotel",
+    "streetAddress": "Am Wiesenhang 1",
+    "addressLocality": "Mösern bei Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "+43521220300",
+    "email": "info@nidum-hotel.com",
+    "url": "http://www.nidum-hotel.com/"
+  },
+  "name": "NIDUM Casual Luxury Hotel",
+  "description": [
+    "Ein Schritt in das neue NIDUM Casual Luxury Hotel in der Olympiaregion Seefeld ist ein Schritt in eine andere Welt - wir sind das innovative „Luxus-Nest“ hoch über den Dächern des Inntals. In traumhafter Lage auf dem Seefelder Hochplateau erblüht unsere „Luxus-Insel“ mit Weitblick ungestört und unabhängig im nur 4 km von Seefeld in Tirol entfernten Ort Mösern.\n\nDas NIDUM definiert „Casual Luxury“ als Antwort auf das Lebensgefühl einer sich neu formenden Generation von Reisenden und kreiert ein erfrischendes Konzept für den individuellen „Luxus-Moment“.\n\n„Ohne Krawatte - ohne Sorgen“ verkörpert auch der Hotelier und persönliche Gastgeber Maximilian Pinzger selbst mit jugendlichem Charme das Motto des NIDUM Casual Luxury Hotel, das mit insgesamt 57 Zimmern und Suiten Klasse abseits der Masse bietet. Hier kann moderner Lifestyle in lockerer, elegant-gemütlicher Atmosphäre ohne Verzicht auf Qualität und jeglichen Luxus gelebt werden. \n\nPrickelnder Champagner im sprudelnden Whirlpool? Auf 1.500 m2 knüpft auch der SPA-Bereich mit Infinity-Außenpool inklusive unendlich schöner Aus- und Weitsicht, Innenpool, Whirlpool, 3 Saunen, Dampfbad, Fitnessareal sowie genügend Raum zum Relaxen an die neuartige Luxus-Philosophie an. Einzigartig, außergewöhnlich und „extrem heiß“ ist die direkt in den Fels gebaute und nur über eine Hängebrücke erreichbare „In Da Mountains Sauna“, für den doppelten Adrenalin-Kick im NIDUM Casual Luxury Hotel in Tirols prachtvoller Bergwelt! \n\nKulinarische Abwechslung und die mit 3 Optionen flexible Restaurantauswahl lassen unserem anspruchsvollen, aber experimentierfreudigen Publikum auch hier seine Freiheit, bevor Partystimmung auf der „Apero Terrace“ oder an der Champagnerbar aufkommt - der perfekte Tagesausklang für die „lebenshungrige“ Generation. \n\nPures Naturerlebnis vor der Tür trifft auf das breit gefächerte Freizeitangebot in der Olympiaregion Seefeld. Skipisten, Langlaufloipen und Schneeschuhpfade im Winter sowie Wanderwege, Nordic Walking Strecken und Radrouten im Sommer sorgen für die optimale Urlaubsmischung.\n\nDas NIDUM Casual Luxury Hotel in Mösern bei Seefeld in Tirol schließt alles ein und nichts aus: Erlebt Luxus ohne Zwänge, Genuss ohne Reue und Freiheit (fast) ohne Einschränkung. \n\nGastgeber Maximilian Pinzger und das gesamte NIDUM-Team versprechen: \n“Casual Chic, Casual Charm and the perfect choice for Casual Luxury.”\n",
+    "Kinderpreise:\nKinder 0-5 Jahre: 45 €\nKinder 6- 12 Jahre 75€\nKinder 13-17 Jahre 95€\n\nStornierungen: \nGenerell werden Stornierungen von Reservierungen nur in schriftlicher Form angenommen. Es gelten die österreichischen Hotelvertragsbedingungen.\n\n- bis zu 3 Monate vor Urlaubsantritt verrechnen wir keine Stornokosten\n- innerhalb 3 Tage vor Anreise 90%\n- innerhalb 10 Tage vor Anreise 70%\n- innerhalb 3",
+    "Von O: Ausfahrt Zirl Ost Richtung Seefeld. Nach 8 km, kurz vor Seefeld, links abbiegen nach Mösern. In Mösern rechts ab auf Pfarrer-Prieth-Weg, nach 50 m rechts auf „Am Wiesenhang“ und… Endlich Urlaub! \nVon W: Ausfahrt Telfs Ost Richtung Mösern/Seefeld. In Mösern links ab auf Pfarrer-Prieth-Weg, nach 50 m rechts auf „Am Wiesenhang\". \nBei Anreise per Flugzeug oder Zug Abholservice (50€/Fahrt).",
+    "5 Sterne Hotel Tirol Mösern Seefeld Luxushotel Wellness Spa Gourmet\n"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4d9bd647-a42d-473f-9cb5-d60c9ded20bc/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/128ee07a-6bf6-4966-9f0e-1385a49000d9/99/image.png",
+      "caption": "NIDUM-Logo"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/bbfbf2c0-af82-41eb-986e-648139c752f6/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/dfa761c3-8c06-44bd-82be-7d6d76b5e447/99/image.jpg",
+      "caption": "NIDUM Pool aussen-02863"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a6cc13f9-130c-4108-99db-ff2b1b993ebf/99/image.jpg",
+      "caption": "Bar Schnapsidee"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/92a55c28-0e8b-4bb5-a9da-9d1f94ee2bbd/99/image.jpg",
+      "caption": "Restaurant Maultasch"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/29533dd4-8957-4bab-b37a-09a9c64b47c9/99/image.jpg",
+      "caption": "Ausblick"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/751fa9cc-f3f1-4516-9d5d-95c058fa3014/99/image.jpg",
+      "caption": "Mountain Spa Ruheraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/75f4378d-d6bf-41da-ad27-88add93296ec/99/image.jpg",
+      "caption": "Mountain Spa Night"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b1ee8a3c-e348-45d4-9732-8636cbaf39f5/99/image.jpg",
+      "caption": "Mountain Spa Ausblick"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3a3da70f-57a3-4eb2-b782-bd7d64d9a8b2/99/image.jpg",
+      "caption": "Rezeption"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/62379566-c199-44a6-9429-e6366f26d271/99/image.jpg",
+      "caption": "Goethe Bibliothek"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1ece4c82-3651-472f-be9a-df3af64aae50/99/image.jpg",
+      "caption": "Ruheraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d6e0dc51-4d1d-4f9a-a67c-f7e7196bea76/99/image.jpg",
+      "caption": "Mountain Spa Sauna"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c6528438-7799-41ac-98e8-c5db75e10357/99/image.jpg",
+      "caption": "Mountain Spa Whirlpool"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c8d1d6bd-a4ce-477f-95d7-15f5c77c8920/99/image.jpg",
+      "caption": "Restaurant For Friends Dining"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/da49a19c-7d9b-4247-8053-f137b5651e9a/99/image.jpg",
+      "caption": "Vinothek Glasweise"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1bd3c213-5dc7-4578-bb97-8439ac6247dd/99/image.jpg",
+      "caption": "Energia Alpina Jurt mit Ausblick"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c2c76c8f-dbaa-41cd-b1d2-13c1a12009ec/99/image.jpg",
+      "caption": "TS-Nidum-Pool"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/46d32ebe-3c1d-4d0c-97c9-f0f936d8ed7f/99/image.jpg",
+      "caption": "nidum drone fall "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/296690c1-5363-47fc-9086-e44b2482e374/99/image.jpg",
+      "caption": "aussicht inntal 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/702adcb4-5593-42ba-ba57-87692f95e515/99/image.jpg",
+      "caption": "aussicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/038b5a06-4822-46e6-b980-e32786c466de/99/image.jpg",
+      "caption": "Bar detail"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/755cc34d-ce71-4146-9620-dd8cf45a0a53/99/image.jpg",
+      "caption": "Bibliothek 2"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3122421226664",
+    "longitude": "11.1476895502624"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Toilette und Bad/Dusche getrennt, Süd",
+      "description": "No tie, please! Mit seinen ca. 35 Quadratmetern ist Casual eigentlich die kleinste unter unseren Zimmerkategorien. Trotzdem bietet es ausreichend Platz für zwei oder mehrere Bäder und ein getrenntes WC. Casual verfügt wie alle unsere Zimmer und Suiten über einen nach Süden ausgerichteten Balkon. Habt Ihr also mal keine Lust, das Zimmer zu verlassen, könnt Ihr einfach so das schöne Wetter und den herrlichen Blick auf die Berge genießen. ",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "CASUAL",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "145.00",
+          "maxPrice": "225.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Toilette und Bad/Dusche getrennt, Süd",
+      "description": "Just Enjoy NIDUM… Das Zimmer Enjoy gehört zwar nicht zu unseren größten Zimmern, es mit 36 Quadratmetern als klein zu bezeichnen wäre allerdings arg untertrieben. Im geräumigen Bad mit Badewanne habt Ihr die Freiheit, Euch Eure persönliche Wellness-Session zu gönnen. Das WC ist natürlich separat. Wie alle Zimmer und Suiten im NIDUM ist auch das Enjoy zum sonnigen Süden hin ausgerichtet und bietet durch seine Panoramafenster einen eindrucksvollen Blick auf die atemberaubende Landschaft. ",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "ENJOY",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "150.00",
+          "maxPrice": "280.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, Terrasse",
+      "description": "38 m² pure Freiheit bietet das Zimmer Free. Wie in all unseren Zimmern und Suiten wurde auch hier Wert gelegt auf Luxus und Komfort. Durch seine offene Architektur hebt sich Free jedoch in bestimmter Weise von anderen Zimmern dieser Größenordnung ab. Ein geräumiges Badezimmer bietet Euch genügend Raum für Euer Schönheitsprogramm. Das WC ist natürlich separat. Ein absoluter Hingucker ist die Dusche mitten im Zimmer, die Euch ganz neue Ein- bzw. Ausblicke gewähren kann, wenn Ihr möchtet. ",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "FREE",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "155.00",
+          "maxPrice": "285.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Suite, Toilette und Bad/Dusche getrennt, Wohn-/Schlafraum",
+      "description": "Die Nice Suite verbindet lässige Atmosphäre mit gediegener Eleganz. Sie verfügt über zwei Schlafräume und zwei getrennte Bäder mit Wanne oder Dusche und bietet so reichlich Platz für zwei befreundete Paare oder ein Paar mit größeren Kindern. Wie alle unsere Zimmer und Suiten ist der Balkon nach Süden hin ausgerichtet, um Euch ausreichend Möglichkeit zum Sonne Tanken direkt in Eurem neuen Lieblingszimmer zu geben. ",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "NICE SUITE",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "185.00",
+          "maxPrice": "325.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Suite, Dusche und Badewanne, Terrasse",
+      "description": "Luxus und Wohlbefinden auf 72 Quadratmetern. So lässt sich die Wow Suite kurz und prägnant beschreiben. Mit ihren zwei Schlafzimmern bietet sie Platz für bis zu 4 Gäste. Auf dem sonnigen Südbalkon finden alle ausreichend Platz, um die Sonne und die fesselnde Aussicht auf das umliegende Bergpanorama zu genießen oder um sich nach einem Aufguss in der eigenen Sauna abzukühlen. Die Wow Suite verfügt über zwei oder mehrere Bäder und ein getrenntes WC.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "WOW SUITE",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "245.00",
+          "maxPrice": "445.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Suite, Dusche und Badewanne, Terrasse",
+      "description": "Die Awesome Suite ist eine wahre Perle. Auf 118 Quadratmetern bietet sie einen 360 Grad Panoramablick auf die atemberaubende Gipfelkulisse des oberen Inntals. Zwei großzügig ausgelegte Schlafräume mit eigenen Bädern sowie getrenntem WC stehen ebenso für Luxus wie die in der Suite befindliche Sauna. Für Erholung im Freien steht Euch exklusiv der große Roof Top Garden samt Südterrasse zur Verfügung. Selbstverständlich steht auch eine Illy- Kaffeemaschine für euch bereit.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "AWESOME SUITE",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "4"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "250.75",
+          "maxPrice": "395.25",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

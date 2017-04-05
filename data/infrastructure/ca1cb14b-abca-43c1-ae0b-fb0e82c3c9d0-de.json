@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure",
+    "LocalBusiness"
+  ],
+  "name": "Tirol.Camp Leutasch",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3978317771392",
+    "longitude": "11.1799993812286"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Tirol.Camp Leutasch",
+    "streetAddress": "Reindlau 230 b",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6570",
+    "faxNumber": "(0043) 5214 6570 30",
+    "email": "info@tirol.camp",
+    "url": "http://www.tirol.camp"
+  },
+  "description": "Tirol.Camp Leutasch\nReindlau 230 b\n6105 Leutasch\nTel.: +43 5214 6570\nFax: +43 5214 6570 30\ninfo@tirol.camp\nhttp://www.tirol.camp",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/51b34f8d-fbac-41c2-b511-7d4786544f19/99/image.jpg",
+      "caption": "Holiday Camping"
+    }
+  ],
+  "url": [
+    "http://www.holiday-camping.at"
+  ]
+}

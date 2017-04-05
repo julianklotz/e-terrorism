@@ -1,0 +1,203 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.abanico.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Ski-Depot",
+    "streetAddress": "Moosweg 394",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 3606 ",
+    "email": "urlaub@abanico.at",
+    "url": "http://www.abanico.at"
+  },
+  "name": "Haus Ski-Depot",
+  "description": [
+    "Das Gästehaus Ski-Depot liegt am Fuße des Geigenbühels, nur drei Gehminuten vom Zentrum entfernt und ist im modernen Tiroler Stil, hell und freundlich eingerichtet. Unser Appartement im Haus Ski-Depot (ca. 110m²) verfügt über ein großzügiges Wohnzimmer mit Schlafsofa, komplett ausgestatteter Küche inklusive Geschirrspüler, zwei geräumigen Schlafzimmern, drei Bäder (ein Bad/WC und zweimal Dusche/WC), Flat-TV, Radio, W-LAN, Safe und südseitigem Balkon. Es bietet Platz für 2-8 Personen.\nHausbeschreibung „Beim Schuaster“ \nUnser Appartement „Beim Schuaster“ befindet sich in einem schönen Tiroler Landhaus am Römerweg am Rande von Seefeld; das Ortszentrum ist in 7 bis 10 Gehminuten erreichbar. Der wunderschön gelegene 9-Loch-Panoramagolfplatz und die Golfschule „Golfacademy“, sowie die Talstation der Bergbahnen Rosshütte sind in unmittelbarer Nähe. \n",
+    "Inklusive: Heizung, Strom, Wasser, Wäsche(1x pro Woche), Handtücher (2x pro Woche),Parkplatz, WiFi\n",
+    "Check-In ab 15.00 Uhr/ Check-Out bis 10.00 Uhr\nAnreise Haus Ski Depot: B177 Ausfahrt Seefeld Nord. Folgen Sie der Münchnerstraße südwärts bis Sie auf der rechten Seite nach dem Feuerwehrhaus und dem Schischulbüro rechts in den Moosweg einbiegen. Unser Haus liegt am Ende der Straße auf der rechten Seite.\nAnreise Haus \"Beim Schuaster\": Anreise: B177 Ausfahrt Seefeld Mitte. Folgen Sie der Straße bis zum Kreisverkehr. Nehmen Sie die 3. Ausfahrt in den Römerweg. Folgen Sie der Straße bis zum nächsten Kreisverkehr und nehmen Sie wieder die 3.Ausfahrt. Nach 50m rechts einbiegen.\n",
+    "Appartement, Familie, Schiverleih, Apartment, Ferienwohnung, Zentrum, Schifahren, Wandern, geräumig"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/23b33bc2-f278-4923-8d44-2fe50dc0b6c7/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/14281ba0-e7d6-44d6-a683-1964ef80bee9/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/abdf3157-91b7-41a9-8ab6-d1ab6334c2e6/99/image.jpg",
+      "caption": "Wohnzimmer Appartement Ski-Depot Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/667bd5b8-af7f-4532-b4b4-1479179730cb/99/image.jpg",
+      "caption": "Bad Appartement Ski-Depot Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e5dfbe6f-528b-46db-a8ed-080067938baa/99/image.jpg",
+      "caption": "Küche Apartments Ski-Depot Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f13310cb-be68-439c-af50-fe968efec4c0/99/image.jpg",
+      "caption": "Schlafzimmer Apartment Ski-Depot Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8b7fb604-987e-4bdd-b79c-0a82cb20bd8d/99/image.jpg",
+      "caption": "Appartement Ski-Depot Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4e956fec-cd45-469f-9d87-02ba7534002b/99/image.jpg",
+      "caption": "Appartement Beim Schuaster Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ccdc6f3a-0527-498a-a7df-e4f1d178e90f/99/image.jpg",
+      "caption": "Wohn/Schlafraum Appartement Beim Schuaster Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/aa566bc8-1bed-4104-ada9-b0f8718be5ca/99/image.jpg",
+      "caption": "Bad Apartment Beim Schuaster Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a92514c8-c287-4e76-8f17-ee0baaccc1fd/99/image.jpg",
+      "caption": "Essbereich Apartment Beim Schuaster Seefeld"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3315953036932",
+    "longitude": "11.186785697937"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 2 Schlafräume",
+      "description": "Das Gästehaus Ski-Depot liegt am Fuße des Geigenbühels, nur drei Gehminuten vom Zentrum von Seefeldn entfernt und ist im modernen Tiroler Stil, hell und freundlich eingerichtet. Der beliebte Geigenbühel-Schilift befindet sich ca. 50m von unserem Haus entfernt, die Bushaltestelle mit den Verbindungen zu den umliegenden Schigebieten befindet sich in unmittelbarer Nähe (ca. 100m). Außerdem verfügen wir über einen hauseigenen Schiverleih mit speziellen Angeboten für unsere Gäste.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/2 Schlafräume/Dusche, Bad, WC",
+          "description": "Unser Appartement im Haus Ski-Depot (ca. 110m²) verfügt über ein großzügiges Wohnzimmer mit Schlafsofa, komplett ausgestatteter Küche inklusive Geschirrspüler, zwei geräumigen Schlafzimmern, drei Bäder (ein Bad/WC und zweimal Dusche/WC), Flat-TV, Radio, W-LAN, Safe und südseitigem Balkon. Es bietet Platz für 2-8 Personen.\n",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "8",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "113.00",
+          "maxPrice": "180.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "113.00",
+          "maxPrice": "180.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "113.00",
+          "maxPrice": "180.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "130.00",
+          "maxPrice": "197.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "147.00",
+          "maxPrice": "214.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 7",
+          "minPrice": "164.00",
+          "maxPrice": "231.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 8",
+          "minPrice": "181.00",
+          "maxPrice": "248.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, Balkon",
+      "description": "Unser Appartement „Beim Schuaster“ befindet sich in einem schönen Tiroler Landhaus am Römerweg am Rande von Seefeld; das Ortszentrum und der Wildsee sind in 7 bis 10 Gehminuten erreichbar. Die Talstation der Bergbahnen Rosshütte, der wunderschön gelegene 9-Loch-Panoramagolfplatz „Golfacademy\", eine Langlaufloipe, sowie ein Supermarkt befinden sich in unmittelbarer Nähe. ",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement \"Beim Schuaster\"",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "57.00",
+          "maxPrice": "93.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "57.00",
+          "maxPrice": "93.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

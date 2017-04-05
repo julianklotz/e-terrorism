@@ -1,0 +1,23 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation"
+  ],
+  "name": "Spielplatz oberhalb der WM-Halle",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3270722278066",
+    "longitude": "11.1760568618774"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Casino WM-Halle",
+    "streetAddress": "Möserer Str. 632",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2095 ",
+    "email": "info@seefeld-sports.at",
+    "url": "http://www.seefeld-sports.at"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "TouristInformationCenter",
+  "@id": "http://www.seefeld.com/tirol-service/tourist-info#kontakt-moesern",
+  "name": "INFORMATIONSBÜRO MÖSERN/BUCHEN",
+  "image": "http://www.seefeld.com/portal/assets/images/environment/logo_moesern_weiss.svg",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Mösern",
+    "addressRegion": "Tirol",
+    "postalCode": "6100",
+    "streetAddress": "Möserer Dorfstraße 11",
+    "addressCountry": "AT"
+  },
+  "email": "info.moesern@seefeld.com",
+  "telephone": "+43 50880520",
+  "faxNumber": "+43 50880821",
+  "url": "http://www.seefeld.com/tirol-service/tourist-info#kontakt-moesern",
+  "openingHoursSpecification": [
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ],
+      "opens": "09:00",
+      "closes": "12:00",
+      "validThrough": "2016-12-08"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ],
+      "opens": "10:00",
+      "closes": "13:00",
+      "validFrom": "2016-12-09"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ],
+      "opens": "14:00",
+      "closes": "16:00",
+      "validFrom": "2016-12-09"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Saturday",
+        "Sunday"
+      ],
+      "opens": "10:00",
+      "closes": "12:00",
+      "validFrom": "2016-12-09"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "opens": "10:00",
+      "closes": "13:00",
+      "validFrom": "2016-12-24",
+      "validThrough": "2016-12-24"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "opens": "10:00",
+      "closes": "15:00",
+      "validFrom": "2016-12-31",
+      "validThrough": "2016-12-31"
+    }
+  ],
+  "mainEntityOfPage": "http://www.seefeld.com/tirol-service/tourist-info"
+}

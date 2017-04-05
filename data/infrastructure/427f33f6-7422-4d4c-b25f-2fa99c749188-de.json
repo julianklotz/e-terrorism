@@ -1,0 +1,33 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation"
+  ],
+  "name": "2-Rad Corner, Motorrad",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3269704177827",
+    "longitude": "11.1878263950348"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "2-Rad Corner",
+    "streetAddress": "Innsbrucker Str. 775",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 4144",
+    "email": "ossi@zweirad-ossi.at",
+    "url": "http://www.ossi-niederkircher.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/17c5cb4d-a24c-4d3d-b830-f0da44a6045b/99/image.jpg",
+      "caption": "Radverleih"
+    }
+  ],
+  "url": [
+    "http://www.ossi-niederkircher.at"
+  ]
+}

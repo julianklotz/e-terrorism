@@ -1,0 +1,89 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://web.deskline.net/seefeld/de/show_accommodation/SEE/e75a458b-b20d-45bf-b3f0-1f454462e3d5/landhaus_pucher",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Landhaus Pucher",
+    "streetAddress": "Am Kirchwald 327",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2234",
+    "faxNumber": "(0043) 5212 2234 5",
+    "email": "info@landhaus-pucher.at"
+  },
+  "name": "Landhaus Pucher",
+  "description": [
+    "Unser Haus wird im Zeitraum April 2016 bis Juni 2017 komplett renoviert und umgebaut.\n\nAb Juli 2017 stehen Ihnen zwei Apartments mit je zwei Schlafzimmern und ein Apartment mit einem Schlafzimmer zur Auswahl. Neben einem Carport mit E-Tankstelle für Ihren Plug-in-Hybrid bzw. Ihr Elektrofahrzeug und Ihre E-Fahrräder, beheiztem Wasch-, Wachs- und Trocknungsraum, Highspeed-WLAN etc. erwarten Sie weitere hochwertige Ausstattungsmerkmale der im alpenländischen Stil eingerichteten Wohnungen. Als Wärmequelle für die Heizung und Warmwasseraufbereitung kommen regenerative Energien auf Basis von Biomasse (Fernwärme) und Solarthermie zum Einsatz.\n\nWir würden uns freuen, Sie als Gast in unserem neuen Landhaus Pucher ab Sommer 2017 begrüßen zu dürfen.\n___\n\nOur guesthouse will be completely renovated and rebuilt between April 2016 and June 2017.\n\nFrom July 2017, you can choose from two two-bedroom apartments and one-bedroom apartments. In addition to a carport with e-filling station for your plug-in hybrid or electric vehicle and e-bicycles, heated washing, waxing and drying room, high-speed WLAN etc. you will find further high-quality features of the apartments furnished in alpine style. Heat sources for heating and hot water are regenerative energies based on biomass (district heating) and solar thermal energy.\n\nWe would be delighted to welcome you as a guest in our new guesthouse Pucher from summer 2017 onwards.\n___\n\nLa nostra casa per gli ospiti verrà completamente rinnovata e ristrutturata nel periodo compreso tra aprile 2016 e giugno 2017.\n \nDa luglio 2017 potrete scegliere tra due appartamenti con due camere da letto ciascuno e un appartamento con una camera da letto. \n\nOltre al comfort di un posto auto coperto, dotato di stazione di rifornimento elettrica per ricaricare veicoli ibridi, elettrici ed e-bike, area di lavaggio, cera ed asciugatura, connessione internet wireless ad alta velocità, ecc., troverete molte altre caratteristiche di pregio, tipiche degli appartamenti arredati in stile alpino. Un valore aggiunto è dato dal sistema di riscaldamento e acqua calda alimentati da energie rinnovabili basate sulle biomasse (teleriscaldamento) ed energia solare termica.\n \nSaremo lieti di darVi il benvenuto come graditi ospiti della nostra nuova casa Landhaus Pucher a partire dall\u0027estate 2017.",
+    "INKL.: Wäsche, Heizung, Strom, Parkplatz, Wasser.\n       Wäsche/Handtücher werden auf Wunsch gewechselt\n\nEXKL.: Telefon",
+    "CHECK-IN: 14.00 UHR / CHECK-OUT: 10.00 UHR"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6c0e33c9-a6be-41f1-b965-936b7e8d4491/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/46b5dd29-f000-4cb5-a490-e51e3c4162d6/99/image.jpg",
+      "caption": "Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3296319581999",
+    "longitude": "11.1797690391541"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Schöne, gut eingerichtete App. mit Küche, Vorraum Schlaf- u. Wohnzimmer, WC u. Dusche. TV u. Balkon in jeden App.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Top 1 Apartment/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Schöne, gut eingerichtete App. mit Küche, Vorraum Schlaf- u. Wohnzimmer, WC u. Dusche. TV u. Balkon in jeden App.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Top 2 Apartment/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

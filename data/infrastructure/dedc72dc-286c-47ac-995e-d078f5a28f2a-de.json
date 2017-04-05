@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Library"
+  ],
+  "name": "Bibliothek - Bücherei",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3902949",
+    "longitude": "11.2652863000001"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Gemeinde Scharnitz",
+    "streetAddress": "Adolf-Klinge-Platz 72",
+    "addressLocality": "Scharnitz",
+    "postalCode": "6108",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5213 5204 0",
+    "email": "gemeinde@scharnitz.tirol.gv.at",
+    "url": "http://www.scharnitz.tirol.gv.at"
+  },
+  "description": "in der Gemeinde Scharnitz im 1. Stock, Öffnungszeiten: Jeden Mittwoch von 16.30 - 19.00 Uhr",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/150fba2b-58a5-47b4-a966-8ddfffdc2a83/99/image.jpg",
+      "caption": "Bücherei"
+    }
+  ]
+}

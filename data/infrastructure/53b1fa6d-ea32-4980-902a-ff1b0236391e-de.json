@@ -1,0 +1,33 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant"
+  ],
+  "name": "Kühtaierhof",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3700178702484",
+    "longitude": "11.1405725490738"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Kirchplatzl 139",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6226",
+    "email": "info@kuehtaierhof.at",
+    "url": "http://www.kuehtaierhof.at"
+  },
+  "description": "Sitzplätze für ca. 50 Personen\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/39618d0f-adb3-46b5-9652-371f98440fd5/99/image.jpg",
+      "caption": "kühtaierhof"
+    }
+  ],
+  "url": [
+    "http://www.kuehtaierhof.at"
+  ]
+}

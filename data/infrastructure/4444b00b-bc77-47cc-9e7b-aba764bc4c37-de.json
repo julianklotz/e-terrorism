@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "TouristInformationCenter"
+  ],
+  "name": "Langlaufnadel",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3290802086208",
+    "longitude": "11.1868071556091"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Olympiaregion Seefeld",
+    "streetAddress": "Heilbadstr. 827",
+    "addressLocality": "Seefeld ",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 050 8800",
+    "faxNumber": "(0043) 050 880851",
+    "email": "region@seefeld.com",
+    "url": "http://www.seefeld.com"
+  },
+  "description": "Eine Langlaufnadel ist gegen Vorlage des Stempelpasses/ nachgewiesener Kilometeranzahl kostenfrei (sonst € 1,90). Stempelkarten und Pins erhalten Sie in allen Informationsbüros.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/fcbb465e-b73c-4485-9b1a-dc4e5553829f/99/image.jpg",
+      "caption": "Piktogramm"
+    }
+  ],
+  "url": [
+    "http://www.seefeld.com"
+  ]
+}

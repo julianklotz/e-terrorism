@@ -1,0 +1,30 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "PlaceOfWorship",
+    "GovernmentOffice"
+  ],
+  "name": "Pfarramt Leutasch",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3711785061822",
+    "longitude": "11.1426050841309"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Kirchplatzl",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043)52146235",
+    "email": "pfarramt@pfarren-leutasch.at"
+  },
+  "description": "Nähe der Kirche zur Hl. Magdalena\n\nKirchplatzl 153\nTel.: +43 5214/6235",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/89413f20-0487-46f3-9891-02d55e033481/99/image.jpg",
+      "caption": "Kirche OL"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "TouristAttraction"
+  ],
+  "name": "Wanderung zum Isarursprung und zur Kastenalm / Weg Nr. 224",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Informationsbüro Scharnitz",
+    "streetAddress": "Innsbrucker Str. 282",
+    "addressLocality": "Scharnitz",
+    "postalCode": "6108",
+    "addressCountry": "AT",
+    "telephone": "+4350880540 ",
+    "faxNumber": "+4350880541",
+    "email": "info.scharnitz@seefeld.com",
+    "url": "http://www.seefeld.com"
+  },
+  "description": [
+    "Strecke: Scharnitz – Gleirschhöhe – Isarursprung – Kastenalm\nGehzeit: ca. 6 Stunden\nVom Informationsbüro über die Isarbrücke, vor der Kirche links abbiegen und der Hinterautalstraße\nfolgen. Am Parkplatz vorbei ins Hinterautal. Auf der Gleirschhöhe nehmen Sie die linke Straße Richtung\nIsarursprung. Vom Isarursprung kommen Sie dann weiter taleinwärts zur Kastenalm, welche in\nden Sommermonaten bewirtschaftet ist. Zurück nach Scharnitz nehmen Sie denselben Weg.",
+    "Strecke: Scharnitz – Gleirschhöhe – Isarursprung – Kastenalm\nGehzeit: ca. 6 Stunden\nVom Informationsbüro über die Isarbrücke, vor der Kirche links abbiegen und der Hinterautalstraße\nfolgen. Am Parkplatz vorbei ins Hinterautal. Auf der Gleirschhöhe nehmen Sie die linke Straße Richtung\nIsarursprung. Vom Isarursprung kommen Sie dann weiter taleinwärts zur Kastenalm, welche in\nden Sommermonaten bewirtschaftet ist. Zurück nach Scharnitz nehmen Sie denselben Weg."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5a115394-6333-4815-be14-5262b7f7cc75/99/image.jpg",
+      "caption": "Isarursprung"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/71245715-42a7-40a3-b16d-6daa5a46a048/99/image.jpg",
+      "caption": "Kastenalm"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3de6eb64-f603-496c-a9d2-aca9b669d84f/99/image.jpg",
+      "caption": "Hinterautal"
+    }
+  ],
+  "url": [
+    "http://www.seefeld.com"
+  ]
+}

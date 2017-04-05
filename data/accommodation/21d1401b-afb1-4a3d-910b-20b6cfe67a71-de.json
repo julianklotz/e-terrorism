@@ -1,0 +1,136 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.andreas-flora.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Appartementhaus Andreas",
+    "streetAddress": "Innsbruckerstr. 2",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2011",
+    "faxNumber": "(0043) 5212 4183",
+    "email": "info@andreas-flora.at",
+    "url": "http://www.andreas-flora.at"
+  },
+  "name": "Appartementhaus Andreas",
+  "description": [
+    "Komfortabel eingerichtete Ein-, Zwei- und Dreiraumwohnungen mit Kabel TV und Telefon, Sauna im Haus, zentrale Lage direkt neben Skibushaltestelle, Nähe Wildsee, Golfacademy und Langlaufloipen. Golfgründerhaus, hohe Ermäßigungen auf Greenfees.\n\n",
+    "inklusive: Strom, Wäsche, Heizung, Parkplatz\nexklusive: Garagen, Hunde bis 11 kg sind willkommen -Gebühr Euro 5,-\n\nCheck in: 15.00 Uhr\nCheck out: 10.00 Uhr",
+    "Ausfahrt Seefeld Süd nach ca. 60m rechts abbiegen. Nach ca. 1km sind die ersten Häuser von Seefeld zu sehen. Das 1. Haus links ist das Hotel Seespitz. Unmittelbar nach dem Hotel Seespitz ist die Zufahrt zum Haus Andreas."
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "reviewCount": "96"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/450e2371-648e-4c1e-9d0f-0b6223db6411/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/596e0455-0efa-4338-a7bd-74bbfc38d8fb/99/image.jpg",
+      "caption": "Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.326021078558",
+    "longitude": "11.188520893778"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche oder Bad, WC, Balkon",
+      "description": "Wohnschlafzimmer mit Balkon oder Terrasse, Kochnische, Bad oder Dusche mit WC. Der rustikale Wohnraum ist mit einer Eßecke, einer Sitzgruppe, Schrankbetten, Kabel-TV und Selbstwähltelefon ausgestattet",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Studio / Wohn-Schlafraum mit DU oder Bad WC",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Die Wohnung besteht aus einem Wohnzimmer mit Balkon oder Terrasse, einem Schlafzimmer, Kochnische und Dusche oder Bad/WC . Der Wohnraum ist mit einer Eßecke, Sitzgruppe, Selbstwähltelefon und Kabel-TV ausgestattet.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 2 Schlafräume",
+      "description": "Die Wohnung besteht aus: Wohnzimmer mit Bauernofen, TV und Terrasse, zwei Schlafzimmer, 2 Bäder mit WC, einer abgeschlossenen Küche mit Geschirrspülmaschine.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement/2 Schlafräume/Dusche, Bad, WC",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement/ Dusche, WC, 1 Schlafraum ohne Balkon",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ]
+    }
+  ]
+}

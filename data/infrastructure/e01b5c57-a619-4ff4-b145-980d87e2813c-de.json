@@ -1,0 +1,30 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Store"
+  ],
+  "name": "Seefeld Souvenirs",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3292523",
+    "longitude": "11.1855361"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Seefeld Souvenirs",
+    "streetAddress": "Klosterstr. 295",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 99818",
+    "faxNumber": "(0043)"
+  },
+  "description": "nur im Sommer",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8028659b-3151-4846-9c86-b5db035e4eba/99/image.jpg",
+      "caption": "Seefeld Souvenirs"
+    }
+  ]
+}

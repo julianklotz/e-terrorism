@@ -1,0 +1,225 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "WebSite",
+  "url": "http://www.seefeld.com",
+  "image": "http://www.seefeld.com/portal/assets/images/logo.jpg",
+  "name": "Tourismusverband Olympiaregion Seefeld in Tirol, Österreich",
+  "headline": "Tourismusverband Olympiaregion Seefeld in Tirol, Österreich",
+  "description": "Offizielle Website des Tourismusverbandes Olympiaregion Seefeld in Tirol, Urlaub in Österreich. Alle Informationen zu Unterkünften, Aktivitäten, Tourismus und Events Ihrer Urlaubs-Region",
+  "publisher": {
+    "@context": "http://schema.org/",
+    "@type": "TouristInformationCenter",
+    "name": "INFORMATIONSBÜRO SEEFELD",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Seefeld",
+      "addressRegion": "Tirol",
+      "postalCode": "6100",
+      "streetAddress": "Klosterstrasse 43",
+      "addressCountry": "AT"
+    },
+    "email": "mailto:info@seefeld.com",
+    "telephone": "+49 (0) 8641 - 6993-0",
+    "image": "http://www.seefeld.com/portal/assets/images/environment/logo_seefeld_weiss.svg",
+    "url": "http://www.seefeld.com/tirol-service/tourist-info#kontakt-seefeld"
+  },
+  "keywords": "tirol, österreich, tourismusverband, tvb, seefeld, leutasch, mösern, buchen, reith, scharnitz",
+  "about": {
+    "@type": "Thing",
+    "description": "Activities, events, accommodation offers in olympic region Seefeld"
+  },
+  "spatialCoverage": [
+    {
+      "@type": "AdministrativeArea",
+      "name": "Seefeld",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Austria"
+      }
+    },
+    {
+      "@type": "AdministrativeArea",
+      "name": "Leutasch",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Austria"
+      }
+    },
+    {
+      "@type": "AdministrativeArea",
+      "name": "Mösern-Buchen",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Austria"
+      }
+    },
+    {
+      "@type": "AdministrativeArea",
+      "name": "Reith",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Austria"
+      }
+    },
+    {
+      "@type": "AdministrativeArea",
+      "name": "Scharnitz",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "Austria"
+      }
+    }
+  ],
+  "contributor": [
+    {
+      "@type": "Person",
+      "name": "Berger Bernhard"
+    },
+    {
+      "@type": "Organization",
+      "name": "BMW AG"
+    },
+    {
+      "@type": "Person",
+      "name": "Ehn Wolfgang"
+    },
+    {
+      "@type": "Person",
+      "name": "Elser Stephan"
+    },
+    {
+      "@type": "Organization",
+      "name": "Flughafen Innsbruck"
+    },
+    {
+      "@type": "Organization",
+      "name": "transavia",
+      "member": {
+        "@type": "Person",
+        "name": "Christoph Plank"
+      }
+    },
+    {
+      "@type": "Organization",
+      "name": "easyjet",
+      "member": {
+        "@type": "Person",
+        "name": "Christian Schöpf"
+      }
+    },
+    {
+      "@type": "Organization",
+      "name": "Fotolia"
+    },
+    {
+      "@type": "Person",
+      "name": "Freudenthaler Norbert"
+    },
+    {
+      "@type": "Person",
+      "name": "Gruber Bernhard"
+    },
+    {
+      "@type": "Person",
+      "name": "Holzknecht Heinz"
+    },
+    {
+      "@type": "Organization",
+      "name": "Naturpark Karwendel",
+      "member": {
+        "@type": "Person",
+        "name": "H. Sonntag"
+      }
+    },
+    {
+      "@type": "Organization",
+      "name": "Tirol Werbung",
+      "member": {
+        "@type": "Person",
+        "name": "Neusser Peter"
+      }
+    },
+    {
+      "@type": "Person",
+      "name": "Umfahrer Peter"
+    },
+    {
+      "@type": "Person",
+      "name": "Zak Heinz"
+    },
+    {
+      "@type": "Organization",
+      "url": "http://www.flatout.tv",
+      "member": {
+        "@type": "Person",
+        "name": "Bernd Huplauf"
+      }
+    },
+    {
+      "@type": "Organization",
+      "url": "http://www.seefeld.tv"
+    }
+  ],
+  "copyrightHolder": {
+    "@type": "Organization",
+    "name": "Tourismusverband Seefeld",
+    "url": "https://www.seefeld.com/impressum"
+  },
+  "copyrightYear": 2016,
+  "creator": {
+    "@type": "Organization",
+    "name": "infomax websolutions GmbH",
+    "url": "http://www.infomax-online.de"
+  },
+  "inLanguage": [
+    {
+      "@type": "Language",
+      "name": "German",
+      "alternateName": "de"
+    },
+    {
+      "@type": "Language",
+      "name": "English",
+      "alternateName": "en"
+    },
+    {
+      "@type": "Language",
+      "name": "French",
+      "alternateName": "fr"
+    },
+    {
+      "@type": "Language",
+      "name": "Italian",
+      "alternateName": "it"
+    }
+  ],
+  "isAccessibleForFree": "True",
+  "isFamilyFriendly": "True",
+  "mainEntity": [
+    {
+      "@type": "AdministrativeArea",
+      "name": "Seefeld in Tirol"
+    },
+    {
+      "@type": "AdministrativeArea",
+      "name": "Leutasch"
+    },
+    {
+      "@type": "AdministrativeArea",
+      "name": "Mösern"
+    },
+    {
+      "@type": "AdministrativeArea",
+      "name": "Scharnitz"
+    },
+    {
+      "@type": "AdministrativeArea",
+      "name": "Reith"
+    }
+  ],
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "http://www.seefeld.com/volltextsuche?form=fulltext&query={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}

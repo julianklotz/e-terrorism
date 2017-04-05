@@ -1,0 +1,18 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Seeuferstr. 32",
+    "addressLocality": "Herrsching",
+    "postalCode": "82211",
+    "addressCountry": "DE"
+  },
+  "name": "ZW - Hupertz Helene",
+  "currenciesAccepted": "EUR"
+}

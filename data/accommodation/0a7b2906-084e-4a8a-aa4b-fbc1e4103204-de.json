@@ -1,0 +1,25 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Ferienclub Siesta",
+    "streetAddress": "Giessenbach 310",
+    "addressLocality": "Scharnitz",
+    "postalCode": "6108",
+    "addressCountry": "AT",
+    "telephone": "+4352135541"
+  },
+  "name": "Ferienclub Siesta",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3784844",
+    "longitude": "11.2371513000001"
+  },
+  "currenciesAccepted": "EUR"
+}

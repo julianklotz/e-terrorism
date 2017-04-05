@@ -1,0 +1,50 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "Winter-Erlebnisse - \"Treffsicher durch den Winter - Biathlon Schnuppern\"",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Informationsbüro Seefeld",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Klosterstraße 43",
+      "addressLocality": "Seefeld",
+      "postalCode": "6100",
+      "addressCountry": "AT",
+      "telephone": "+43508800",
+      "email": "region@seefeld.com",
+      "url": "http://www.seefeld.com"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Informationsbüro Seefeld",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Klosterstraße 43",
+      "addressLocality": "Seefeld",
+      "postalCode": "6100",
+      "addressCountry": "AT",
+      "telephone": "+43508800",
+      "email": "region@seefeld.com",
+      "url": "http://www.seefeld.com"
+    }
+  },
+  "description": "Das Winter-Erlebnisprogramm bietet 15 einzigartige Abenteuer für Jung und Alt! Exklusiv und kostenfrei mit der Olympiaregion Seefeld Card! Erleben Sie die Faszination Biathlon. Diese Kombinationssportart aus Langlauf und Schießen - eine Mischung aus Ausdauer- und Präzisionssport. Anmeldung erforderlich!",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a8362191-4771-4eff-ad4e-4f3490345d5d/99/image.jpg",
+      "caption": "Biathlon"
+    }
+  ],
+  "url": [
+    "http://www.seefeld.com/tirol-service/gaeste-karte",
+    "http://skigebiet-seefeld.at"
+  ],
+  "startDate": "2016-12-09T14:00:00",
+  "endDate": "2017-03-24"
+}

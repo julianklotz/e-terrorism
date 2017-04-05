@@ -1,0 +1,51 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "Snowfun mit Snowrafting am Geigenbühel",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Schischule Seefeld",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Münchner Str. 142",
+      "addressLocality": "Seefeld",
+      "postalCode": "6100",
+      "addressCountry": "AT",
+      "telephone": "+4352122412",
+      "faxNumber": "+435212241289",
+      "email": "schischule@schi-seefeld.at",
+      "url": "http://www.schi-seefeld.at"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Schischule Seefeld",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Münchner Str. 142",
+      "addressLocality": "Seefeld",
+      "postalCode": "6100",
+      "addressCountry": "AT",
+      "telephone": "+4352122412",
+      "faxNumber": "+435212241289",
+      "email": "schischule@schi-seefeld.at",
+      "url": "http://www.schi-seefeld.at"
+    }
+  },
+  "description": "Snowrafting - am Erlebnishügel Geigenbühel mit dem Schlauchboot für Erwachsene und Kinder, jeden Montag und Mittwoch von 17:00 - 18:00 Uhr, Preis für Erwachsene € 8,00, Preis für Kinder € 5,00.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/57253b24-52a7-426b-8993-24e05ab3a9ce/99/image.jpg",
+      "caption": "Snowrafting"
+    }
+  ],
+  "url": [
+    "http://www.schi-seefeld.at"
+  ],
+  "startDate": "2016-12-19T17:00:00",
+  "endDate": "2017-03-06"
+}

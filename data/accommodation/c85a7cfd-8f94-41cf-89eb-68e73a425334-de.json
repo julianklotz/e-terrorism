@@ -1,0 +1,85 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://web4.deskline.net/seefeld/de/accommodation/detail/SEE/c85a7cfd-8f94-41cf-89eb-68e73a425334/ferienhaus_draxl",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Ferienhaus Draxl",
+    "streetAddress": "Ostbach 17",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6552"
+  },
+  "name": "Ferienhaus Draxl",
+  "description": [
+    "Das Haus liegt am Waldrand, besonders ruhige Lage, große Liegewiese. Garage oder Unterstellplatz gratis. 1 Ferienwohnung für 2 Personen; 1 Ferienwohnung für 4 Personen - 2 getrennte Schlafzimmer.",
+    "inkl. Endreinigung, Heizung, Strom, Garage od. Unterstellplatz\nexkl. Ortstaxe",
+    "Von Seefeld kommend z. Ortsteil Weidach, Richtung Kirchplatzl, Aue - Platzl - Ostbach.\nVon Mittenwald kommend - Unterleutasch - Gasse - Richtung Kirchplatzl, Aue - Platzl - Ostbach."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/37a4134a-c5ef-41b3-b914-b2e627397f2c/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/cd662e9d-f1a7-4c3d-a485-40666d4df6b6/99/image.jpg",
+      "caption": "Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.358748243537",
+    "longitude": "11.13501079419"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/2 Schlafräume/Dusche, WC",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

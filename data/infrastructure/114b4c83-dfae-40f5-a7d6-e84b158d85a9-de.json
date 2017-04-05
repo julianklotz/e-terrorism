@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CafeOrCoffeeShop",
+    "Florist",
+    "Store"
+  ],
+  "name": "Der Tiroler - Feinkost, Deko, Floristik",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3718588535978",
+    "longitude": "11.1643734263894"
+  },
+  "openingHours": [
+    "Mon,Tue,Wed,Thu,Fri,Sat 08:00-20:00"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Weidach 321",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 699 11219490"
+  },
+  "description": "In unserem Geschäft finden Sie folgende Produkte:\nGeöffnet Montag bis Samstag von 08:00 - 20:00 Uhr\n\n- Verschiedene Produkte der Bäckerei Pardeller\n- Produkte von Gut Leutasch\n- Frisches Obst und Gemüse\n- Nudelspezialitäten\n- Bio Produkte\n- Geschenksideen\n- Blumen",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c88ea01b-f985-46e0-b2eb-ebce602c3810/99/image.jpg",
+      "caption": "Der Tiroler"
+    }
+  ],
+  "url": [
+    "http://"
+  ]
+}

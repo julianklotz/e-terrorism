@@ -1,0 +1,26 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Ölhafen",
+    "streetAddress": "Olympiastr. 717",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2688701"
+  },
+  "name": "Haus Ölhafen",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3297919372306",
+    "longitude": "11.1872041225433"
+  },
+  "currenciesAccepted": "EUR"
+}

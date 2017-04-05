@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "ClothingStore",
+    "Store"
+  ],
+  "name": "Sporthaus/Trachten Kirchmair",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3295810556794",
+    "longitude": "11.1872577667236"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Sporthaus Kirchmair",
+    "streetAddress": "Münchnerstr. 42",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "0043 5212 2268",
+    "faxNumber": "0043 5212 22684",
+    "email": "info@sporthaus-kirchmair.at",
+    "url": "http://www.sporthaus-kirchmair.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e1062e0e-ca02-4c01-b78e-63a424312975/99/image.jpg",
+      "caption": "Sporthaus Kirchmair"
+    }
+  ],
+  "url": [
+    "http://www.sporthaus-kirchmair.at"
+  ]
+}

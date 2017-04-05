@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hostel",
+    "Landform"
+  ],
+  "name": "Knorrhütte",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.4099821507005",
+    "longitude": "11.0127854347229"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Knorrhütte",
+    "addressLocality": "Zugspitze",
+    "postalCode": "82475 ",
+    "addressCountry": "DE",
+    "telephone": "(0049) 15114443496",
+    "email": "info@knorrhuette.de",
+    "url": "http://www.knorrhuette.de"
+  },
+  "description": "Nur im Sommer geöffnet! Übernachtungsmöglichkeit für 120 Personen, Stempelstelle",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b0b8e17f-8180-4eaa-952a-2e8d2d07f443/99/image.jpg",
+      "caption": "Knorrhütte"
+    }
+  ],
+  "url": [
+    "http://www.knorrhuette.de"
+  ]
+}

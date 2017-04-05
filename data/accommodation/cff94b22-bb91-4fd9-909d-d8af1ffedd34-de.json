@@ -1,0 +1,165 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://www.birkegg.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Gasthof Birkegg",
+    "streetAddress": "Kirchplatzl 129",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6854",
+    "faxNumber": "(0043) 5214 6854 190",
+    "email": "birkegg@utanet.at",
+    "url": "http://www.birkegg.at"
+  },
+  "name": "Gasthof Birkegg",
+  "description": [
+    "Herzlich Willkommen in Ihrem Urlaubsdomizil. Wir sind ein familiär geführter Gasthof mit Doppelzimmern, Familienzimmern \u0026 Hotelappartements. Unser Haus liegt direkt an den Rad- \u0026 Wanderwegen sowie im Winter direkt an der  Loipe.  Im Sommer wie im Winter können Sie in unserem Restaurant heimische Gerichte, Kuchen und Eis genießen. Reichhaltiges Frühstücksbuffet mit Produkten von einheimischen Bauern. Große Sonnenterrasse, Kinderspielplatz mit Trampolin.",
+    "teilweise inklusive Endreinigung\nexklusive: Kurtaxe, Telefon\n\nAnreise ab 14.00 Uhr\nAbreise bis 10.00 Uhr\n",
+    "Birkegg, Gasthof, Zimmer, Appartement, Ferienwohnung, Gästehaus, Ferienhaus, Restaurant, Kirchplatzl"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/cfb53a53-a694-4fb2-9d22-b0d6ceaf2a5a/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ad051066-1623-467f-bcee-b105f41e65c8/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ccb11990-6dda-40c2-a474-a21262f1c744/99/image.jpg",
+      "caption": "Panorama Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/bacfcf4c-1b70-4a55-bbb0-82bd18cf3d61/99/image.jpg",
+      "caption": "Restaurant"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5e26ad9b-4173-4f81-b159-1fac5468d275/99/image.jpg",
+      "caption": "Restaurant1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/030a5e65-7945-43a1-8c9e-e0913c532f1b/99/image.jpg",
+      "caption": "Bar"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3686306772963",
+    "longitude": "11.1379158496857"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Einzelzimmer, Dusche, WC",
+      "description": "Zimmer mit Dusche/WC sowie Telefon und SAT-TV (ASTRA).",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Einzelzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Alle Zimmer mit Dusche/WC, Telefon, Sat-TV (ASTRA), gröstenteils mit separaten Wohnteil, zusätzlich verfügen die Zimmer zum Garten über einen sonnigen Balkon.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Dusche, WC",
+          "description": "Doppelzimmer mit Dusche/WC, Sat-TV, Telefon, Balkon und teilweise mit Wohnteil.",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "50.00",
+          "maxPrice": "50.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "42.00",
+          "maxPrice": "42.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "42.00",
+          "maxPrice": "42.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Hotelappartement, Dusche oder Bad, WC",
+      "description": "Ferienwohnung bestehend aus grossem Wohraum, separates Schlafzimmer, Bad/WC mit Bidet, vollausgestatteter Küche und Terrasse sowie Telefon und Sat-TV (ASTRA).",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Hotelappartement",
+          "description": "Hotelappartement mit Wohnzimmer, Bad/WC, Sat-TV, Telefon und Balkon.",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

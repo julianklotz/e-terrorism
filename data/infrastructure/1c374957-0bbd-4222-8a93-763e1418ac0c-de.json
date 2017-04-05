@@ -1,0 +1,27 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure",
+    "LocalBusiness"
+  ],
+  "name": "Neue Mittelschule Seefeld",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Neue Mittelschule Seefeld",
+    "streetAddress": "Römerweg 450 ",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 05212 2555",
+    "faxNumber": "(0043) 05212 25555",
+    "url": "http://www.hs-seefeld.tsn.at"
+  },
+  "url": [
+    "http://www.hs-seefeld.tsn.at"
+  ]
+}

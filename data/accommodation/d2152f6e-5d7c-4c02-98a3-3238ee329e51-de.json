@@ -1,0 +1,24 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hostel"
+  ],
+  "url": [
+    "http://"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Wangalm",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 9196073"
+  },
+  "name": "Wangalm",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3816577485899",
+    "longitude": "11.1094522476196"
+  },
+  "currenciesAccepted": "EUR"
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation"
+  ],
+  "name": "Babysitter",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "TVB Zentrale",
+    "streetAddress": "Heilbadstr. 827",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "+4350880597",
+    "faxNumber": "+435088861",
+    "email": "kari.kraus@seefeld.com",
+    "url": "http://www.seefeld.com"
+  },
+  "description": [
+    "Eine Liste aller Babysitter (inkl. Angabe der Fremdsprachenkenntnisse) ist in allen Infobüros erhältlich.",
+    "Eine Liste aller Babysitter (inkl. Angabe der Fremdsprachenkenntnisse) ist in allen Infobüros erhältlich."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5b4029e9-fd01-491d-9b67-78d3b2ad81b7/99/image.jpg",
+      "caption": "Babysitter"
+    }
+  ]
+}

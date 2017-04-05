@@ -1,0 +1,37 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CafeOrCoffeeShop"
+  ],
+  "name": "Am Kurpark, Ferienhotel Kaltschmid",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3293338141679",
+    "longitude": "11.1872202157974"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Erlebniswirtshaus Alt Seefeld",
+    "streetAddress": "Olympiastr. 101",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "+4352122191",
+    "email": "urlaub@kaltschmid.info",
+    "url": "http://www.kaltschmid.info"
+  },
+  "description": [
+    " ",
+    "Restaurant:\nAlles für Genießer. Unser Restaurant beim Kurpark verwöhnt Sie mit kulinarischen Genüssen von traditionell bis hin zur leichten mediterranen Küche.\n\nKonditorei:\nFür Naschkatzen ist das Terrassencafé ein absolutes Muss. Die kleinen, süßen Sünden aus unserer Konditorei sind wahre Köstlichkeiten.\n\nKinder:\nBei Konsum eines Gerichts von der Kinderkarte, bekommt jedes Kind 1 Kugel Eis gratis\n\nGourmet:\nEin wirklicher Geheimtipp für Genießer ist unser Gourmetrestaurant. Genießen Sie erlesenes aus Küche und Weinkeller und erleben Sie einen ganz besonderen Abend im Zeichen der Kulinarik."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/721a96ad-9193-4ec9-a567-d87a6330ff77/99/image.jpg",
+      "caption": "Winter"
+    }
+  ],
+  "url": [
+    "http://www.kaltschmid.info"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "HairSalon"
+  ],
+  "name": "Salon Rainer, Friseur",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3117999",
+    "longitude": "11.1456724"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Salon Rainer",
+    "streetAddress": "Möserer Dorfstr. 30",
+    "addressLocality": "Mösern",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 4727",
+    "faxNumber": "(0043) "
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d8c8b9ff-8fa3-47e5-80e9-402d9ccb826d/99/image.jpg",
+      "caption": "Frisör"
+    }
+  ]
+}

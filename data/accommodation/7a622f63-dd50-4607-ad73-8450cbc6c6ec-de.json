@@ -1,0 +1,455 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://www.hotelolympia-seefeld.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Hotel Olympia \u0026 Herbs",
+    "streetAddress": "Milserstr. 433",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2334",
+    "faxNumber": "(0043) 5212 4470 ",
+    "email": "info@hotelolympia-seefeld.at",
+    "url": "http://www.hotelolympia-seefeld.at"
+  },
+  "name": "Hotel Olympia \u0026 Herbs",
+  "description": [
+    "Familie Walzl empfängt Sie ganz herzlich im 3 Sterne Garni Hotel OLYMPIA \u0026 Herbs in Seefeld in Tirol, eingebettet in die traumhafte Kulisse der Olympiaregion Seefeld.\n\nAls innovatives Kräuterhotel sind jedem Gast duftende Aufmerksamkeiten und hausgemachte Gaumenfreuden garantiert. Erleben Sie „schmackhafte“ Momente verbunden mit einem Genuss- oder Aktivurlaub auf dem Seefelder Hochplateau.\n\nDas Hotel OLYMPIA \u0026 Herbs bietet eine ruhige und dennoch zentrumsnahe Lage im Ort, nur \n5 Gehminuten von der Seefelder Fußgängerzone und 2 Gehminuten vom Golfclub Seefeld-Reith bzw. vom Loipeneinstieg Lenerwiese entfernt. Somit ist das Hotel optimaler Ausgangspunkt für zahlreiche Aktivitäten, wie Wanderungen im Sommer und Skifahren und Langlaufen im Winter.\n\nDie 24 gepflegten Hotelzimmer und Suiten sowie gemütlichen Aufenthaltsräume sorgen für ein heimeliges Ambiente in familiärer Atmosphäre. Genießen Sie das abwechslungsreiche, gesunde und liebevoll zusammengestellte Frühstücksbuffet mit Produkten aus eigener Herstellung. Eine kleine Speisekarte im Winter und Halbpension für Aktivgruppen im Sommer werden zusätzlich angeboten. \n\nOb eine Ortsrundfahrt mit dem kostenlosen Seefelder Dorfbus oder mit dem Gratis-Skibus zu den Seefelder Skigebieten Bergbahnen Rosshütte und Gschwandtkopflifte - die Haltestellen befinden sich nur 50 Schritte vom Hotel entfernt. Alle Gäste des Hotel OLYMPIA \u0026 Herbs profitieren bei einer Abkühlung im Seefelder Olympiabad außerdem von 50% Ermäßigung oder beim Skiverleih Skirent von 10% Ermäßigung. \n\nSommerferien in Seefeld heißt: Zeit zum Wandern, Klettern, Radfahren und Golfen. Seefelder Winterurlaub bedeutet: Spaß beim Skifahren, Langlaufen, Rodeln, Eislaufen und Winterwandern. Genussvoll oder aktiv, allein oder mit der ganzen Familie - für jeden Geschmack und jede Generation ist hier etwas dabei.\n\nDie Gastgeber-Familie Walzl freut sich schon jetzt auf ein Kennenlernen im Hotel OLYMPIA \u0026 Herbs in Seefeld in Tirol und berät Sie jederzeit gerne, um Ihren Urlaub nach Ihren Wünschen zu gestalten!\n",
+    "Inklusiv:\nWohlfühl-Schlafkissen, W-lan \nVerleih von Teleskopstöcken, Rucksäcken und Fahrrädern,  Gratis Dorfshuttle und Skibus um die Ecke, -50% von Mo-Fr im Olympia Schwimmbad, -10% Skirent\nMorgens informieren wir Sie gerne persoenlich oder mit unserer Morgenpost über Ausflugs-Wandermoeglichkeiten und die Veranstaltungen des Tages. \nGeführtes Wanderprogramm von Mo-Fr. im Sommer\n\nCheck-In 14h/ Check-Out 11h \n",
+    "\nAnfahrt: Bahnhof, Reitherspitzstraße, 200m 1. links Milserstraße, Olympia"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "reviewCount": "309"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/75092385-83a3-45a8-bc18-1a542423f606/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d292842d-65f2-42c6-ba35-1bff0d4a11d2/99/image.jpg",
+      "caption": "IMG_4005"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2d7a9080-6823-4a00-a5bc-6563b2672579/99/image.jpg",
+      "caption": "IMG_4006"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ef17493a-6289-4339-915b-deea17978b0e/99/image.jpg",
+      "caption": "IMG_4007"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8a9707fb-42ba-4487-a42b-fa5c31c7d5af/99/image.jpg",
+      "caption": "IMG_4002"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b965bf89-d5a8-46ef-813d-60c835c0ebf9/99/image.jpg",
+      "caption": "IMG_4053"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/cc699f9f-443d-4e30-b18b-4ec9d93786c1/99/image.jpg",
+      "caption": "Doppelzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8b84538e-fe57-4d7c-a919-b4f0eb605558/99/image.jpg",
+      "caption": "IMG_3989"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/af4f17de-1f7f-4cc4-90c4-5eaa8e5c5cc1/99/image.jpg",
+      "caption": "IMG_4045"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6645f49b-6968-40ae-80ea-f686e5dd3d43/99/image.jpg",
+      "caption": "Bad Detail"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8db8ed1e-7157-47b1-92d7-4adaac05094a/99/image.jpg",
+      "caption": "Kräutergarten"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3272031261204",
+    "longitude": "11.1919730901718"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Einzelzimmer, Dusche, WC",
+      "description": "Beliebtes Einzelzimmer mit schönem Ausblick und Balkon Richtung Garten, das Seefelder Zentrum und die Berge rundum, modernes Badezimmer mit Dusche/WC.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Einzelzimmer Gschwandtkopf",
+          "description": "Einmal wöchentlich bietet die Hausfrau und Kräuterexpertin Manuela einen Kräuterworkshop. Sie sind eingeladen Seefelder Berg- und Wildkräuter kennenzulernen, im Alltag anzuwenden und zu verkosten. ",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "47.00",
+          "maxPrice": "55.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Bad, WC",
+      "description": "Schönes Doppelzimmer vom Tiroler Tischlermeister im hellen Ahornholz oder stilvollem dunklen Eichenholz ausgestattet, großteils mit Balkon und Blick auf die Seefelder Spitze bzw. Karwendelgebirge. Schönes weißes Bad.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer Karwendel",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Bergkräuter kennenlernen",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "EINE WOCHE SIMPLER LUXUS",
+          "description": "7 Übernachtungen im schönen Doppelzimmer inkl. herzhaftes Frühstücksbuffet\ngeführter Kulturspaziergang in Seefeld + Tipps zu Ausflügen und Wander-Highlights\n\"Seefelder Bergkräuter inspieren als Heil- und Wildkräuter\" - Führung durch den hauseigenen Kräutergarten\nWanderhighlight mit einer Hüttenübernachtung Ihrer Wahl oder das Bergbahnenticket Rosshütte",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/120860df-9510-4765-9194-790e56bd21ed/99/image.jpg",
+              "caption": "Pauschale"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Eine feine GOLFWOCHE: 7 Nächte ZF + 3 Green Fees",
+          "description": "Schönes Doppelzimmer inklusiv herzhaftem Frühstücksbuffet\nFührung durch unseren Kräutergarten\nGreenfees auf den Golfplätzen:\nGolfplatz Seefeld-Reith (9 Loch)\nGolfplatz Seefeld-Wildmoos (18 Loch)\nGolfplatz Mieming (27 Loch)\n\n",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/a36035e2-04c4-4a8a-bb6d-d594decc1874/99/image.jpg",
+              "caption": "Golf"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "GOLFWEEK-END SEEFELD: 3 Nächte ZF + 3 Green Fees c",
+          "description": "Schönes Doppelzimmer inklusiv herzhaftem Frühstücksbuffet\nFührung durch unseren Kräutergarten\nGreenfees auf den Golfplätzen:\nGolfplatz Seefeld-Reith (9 Loch)\nGolfplatz Seefeld-Wildmoos (18 Loch)\nGolfplatz Mieming (27 Loch)\n\n",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/26be497a-d430-4205-afd1-95f6a83a2f27/99/image.jpg",
+              "caption": "Golf"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "40.00",
+          "maxPrice": "48.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "350.00",
+          "maxPrice": "350.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "475.00",
+          "maxPrice": "475.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "295.00",
+          "maxPrice": "295.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Bad, WC",
+      "description": "Schönes Doppelzimmer vom Tiroler Tischlermeister ausgestattet mit Balkon und nach Süd/Westen gerichtet zur Mittags- und Nachmittagssonne. Geräumiges neues weißes Badezimmer.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer Wetterstein C1",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "47.00",
+          "maxPrice": "47.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "47.00",
+          "maxPrice": "47.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche und Bad, WC",
+      "description": "Geräumiges Doppelzimmer mit dunklen Eichenholz vom Tiroler Tischlermeister ausgestattet mit Wohnteil und ausziehbarer Schlafcouch, teilweise mit kleinem Flur und separatem WC.\nGroßteils mit Balkon zum Garten und Aussicht auf das Wettersteingebirge. Schöne neue weiße Bäder.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer Wetterstein C2",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "47.00",
+          "maxPrice": "53.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "47.00",
+          "maxPrice": "53.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "47.00",
+          "maxPrice": "53.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Junior Suite, Bad, WC",
+      "description": "Geräumiges Wohn- und Schlafzimmer vom Tiroler Tischlermeister ausgestattet, Flur mit Garderobe, schönes Bad, teilweise WC getrennt, großer Balkon oder Terasse nach Westen mit Aussicht auf den Garten und das Wettersteingebirge",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Suite Hohe Munde D1",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "52.00",
+          "maxPrice": "63.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "52.00",
+          "maxPrice": "63.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "52.00",
+          "maxPrice": "63.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Junior Suite, Bad, WC",
+      "description": "Geräumiges Schlaf- und Wohnzimmer, dazwischen ein Flur, großer Balkon mit Nachmittagsonne oder mit Ausgang auf die Sonnenterrasse, für Familien geeignet oder Paare, die Wert auf Geräumigkeit legen.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Suite Hohe Munde D2",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "52.00",
+          "maxPrice": "52.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "52.00",
+          "maxPrice": "52.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "52.00",
+          "maxPrice": "52.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "TouristAttraction"
+  ],
+  "name": "Plattsteig",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Informationsbüro Scharnitz",
+    "streetAddress": "Innsbrucker Str. 282",
+    "addressLocality": "Scharnitz",
+    "postalCode": "6108",
+    "addressCountry": "AT",
+    "telephone": "+4350880540 ",
+    "faxNumber": "+4350880541",
+    "email": "info.scharnitz@seefeld.com",
+    "url": "http://www.seefeld.com"
+  },
+  "description": [
+    " ",
+    "Strecke: Scharnitz / Informationsbüro – Plattsteig – Birzelkapelle\nGehzeit: ca. 1 Stunde\nVor dem Informationsbüro folgen Sie der leicht ansteigenden Straße bis über den Bahnübergang,\ndann links abzweigen, zwischen den Häusern dem Plattsteig entlang. Bei der ersten Abzweigung\nrechts dem Plattsteig in Richtung Birzelkapelle folgen. Etwa nach einer halben Stunde haben Sie die\nMöglichkeit rechts abzubiegen und über den Ortsteil Inrain nach Scharnitz zurückzukehren. Ansonsten\nkönnen Sie über einen steil ansteigenden Waldweg weiter bis zur Birzelkapelle gehen (Wegbeschreibung\nauch unter Halbtagswanderungen auf Seite 38). Nicht für Kinderwägen geeignet."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b72bfbb7-711e-4a13-ade2-631c72b75a12/99/image.jpg",
+      "caption": "Scharnitz"
+    }
+  ]
+}

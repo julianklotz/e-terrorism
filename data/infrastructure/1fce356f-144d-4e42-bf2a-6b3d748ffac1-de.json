@@ -1,0 +1,30 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BarOrPub"
+  ],
+  "name": "Café-Bar Coco",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3289920372314",
+    "longitude": "11.1885988712311"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Café-Bar COCO",
+    "streetAddress": "Bahnhofstr. 124",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 9692022",
+    "email": "cocoloungeseefeld@gmail.com"
+  },
+  "description": "Sitzplätze für ca. 80 Personen",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c89985b0-c97e-47d1-b739-2fe17a6de736/99/image.jpg",
+      "caption": "Bar"
+    }
+  ]
+}

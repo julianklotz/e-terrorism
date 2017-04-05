@@ -1,0 +1,46 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "Winter-Erlebnisse - Sternenwanderung im Schnee",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Infobüro Mösern",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Möserer Dorfstraße 11",
+      "addressLocality": "Mösern/Buchen",
+      "postalCode": "6100",
+      "addressCountry": "AT",
+      "telephone": "+4350880520",
+      "email": "info.moesern@seefeld.com",
+      "url": "http://www.seefeld.com"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Infobüro Mösern",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Möserer Dorfstraße 11",
+      "addressLocality": "Mösern/Buchen",
+      "postalCode": "6100",
+      "addressCountry": "AT",
+      "telephone": "+4350880520",
+      "email": "info.moesern@seefeld.com",
+      "url": "http://www.seefeld.com"
+    }
+  },
+  "description": "Genießen Sie eine Sternenwanderung mit Aus- und Einblicken in eine wunderbare Umgebung unter fachkundiger Führung. Ein wenig Geschichte, viele „G´schichtln“ und kleine Anekdoten führen Sie durch Mösern und versprechen einen kurzweiligen Abend.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2a6eb207-1ade-4b90-b0ed-2a4a2e076cfa/99/image.jpg",
+      "caption": "Sternenwanderung"
+    }
+  ],
+  "startDate": "2016-12-05T20:00:00",
+  "endDate": "2017-03-20"
+}

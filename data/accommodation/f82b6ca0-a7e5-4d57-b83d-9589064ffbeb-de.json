@@ -1,0 +1,1058 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://www.quellenhof.at/de/unser-hotel/webcam/",
+    "http://www.quellenhof.at/de/unser-hotel/videos/",
+    "http://www.quellenhof.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Hotel Quellenhof Leutasch",
+    "streetAddress": "Weidach 288",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6782",
+    "faxNumber": "(0043) 5214 6369 ",
+    "email": "info@quellenhof.at",
+    "url": "http://www.quellenhof.at"
+  },
+  "name": "Hotel Quellenhof Leutasch",
+  "description": [
+    "94 Zimmer und Suiten, 188 Betten, ganzjährig geöffnet. DZ mit Bad oder DU/WC, Suiten zwischen 40 und 80m², großteils Sonnenbalkon, idealer Ausgangspunkt für Wanderungen und Langlauf, zentrale, ruhige Lage im Tal, Loipeneinstieg direkt am Haus, erstklassige Naturküche sowie internationale und regionale Naturküche.\nSchwimmbadanlage mit geheizten Außensolewhirlpool (ca. 34°C-ganzjährig), Außenpool (25x8m - ganzjährig, ca. 28-30°C), Hallenbad, Sauna, Solarium, Dampfbad. \nIm Quellenhof Wellness- und Vitalbereich erwartet Sie eine ganz besondere Ruhe-Oase, die wesentlich dafür ein Grund war, dass der Relax Guide 2017 den Quellenhof Leutasch mit 3 Lilien und 17 (von 20) Punkten wieder als eines der besten Wellnesshotels in Österreich prämierte. Wir gewannen den Spa Business Award 2015 in der Kategorie \"Hotel\".",
+    "inkl.: Verwöhnpension (Frühstück, Mittagssuppentopf mit Salaten. Nachmittagskuchenbuffet mit Obst, Joghurt, Kaffee und Tee, 4-Gang-Wahl Abendmenü), Sauna, Badelandschaft, Minibar, Aktivprogramm (z.B. Wanderungen, Weinverkostung, Meditation, Gymnastik, Yoga, Hüttenabend usw.) Badekorb inkl.: Bademantel und Badetuch, Überdachte Parkplätze.\nexcl.: Haustiere, Massagen \u0026 Kosmetik",
+    "Vom Norden können Sie Leutasch über München - Garmisch - Mittenwald mautfrei erreichen. Sie fahren durch den Ort Mittenwald und biegen rechts Richtung Leutasch ab. Durch Unterleutasch führt Sie die Landstraße bis Ortsteil WEIDACH, biegen Sie links zu."
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "reviewCount": "209"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/87a0b9cf-0af3-4733-8d9e-b85a5d3e6e05/99/image.jpg",
+      "caption": "Pool Winter Abendstimmung 2016 (3)"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/bc4fba64-18f7-4bb3-bdab-1559aac8051c/99/image.jpg",
+      "caption": "Kopie von Logo Neu rot"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/bf7ea8f6-e4c0-4631-b73a-15b1d9b0e363/99/image.jpg",
+      "caption": "Langlauf 2016 (9)"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4ae09878-57b4-48fc-b785-38025bf7a59a/99/image.jpg",
+      "caption": "Poolansicht mit Bergen (1)"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/fea4cd0e-82c8-4e36-84c9-51af73614717/99/image.jpg",
+      "caption": "Terrasse Abendstimmung Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8bf7011d-f373-4e7b-a1a8-54cbf4781a51/99/image.jpg",
+      "caption": "Sommer Nacht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e8f9471d-3642-4e80-895c-06f42d775895/99/image.jpg",
+      "caption": "Außenpool 25x8m (ca. 28-30°C)"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2b8574d2-364e-492a-b4c3-7650e1ee3b09/99/image.jpg",
+      "caption": "Fitnessraum mit Panoramablick"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/baec9b51-b854-4901-957b-e5ceaa9f62f4/99/image.jpg",
+      "caption": "Schaukelliegen - Ruheraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/68e4507e-c707-4c3b-9e7c-60ae6235a46a/99/image.jpg",
+      "caption": "Frisör"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a1305ddd-b850-4484-b743-0975c8c0c4a1/99/image.jpg",
+      "caption": "Kino"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6780f921-0f17-43d4-aa9c-459eb771cc3d/99/image.jpg",
+      "caption": "Wohnbeispiel Zimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e0e1a333-f418-4915-8e0e-4d2c26890d80/99/image.jpg",
+      "caption": "Wohnbeispiel Suite"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c26e766f-75b2-48d7-869d-a39a5ace4fe8/99/image.jpg",
+      "caption": "Karwendelstube"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5e24b60c-6b01-4dd2-8b8f-32621bc870aa/99/image.jpg",
+      "caption": "Massagekabine"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8d1b5841-d0f7-4bd9-9337-0ba929212543/99/image.jpg",
+      "caption": "Wein Degustationsanlage"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7ce74d2f-6464-4f0f-89f0-05889bfea7f5/99/image.jpg",
+      "caption": "Sauna mit Paar"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/033547e3-3113-4c3f-ae8e-ec527a652cfc/99/image.jpg",
+      "caption": "Poolbistro"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c5127e05-ef8a-4b85-9920-67d774a81ad9/99/image.jpg",
+      "caption": "Aussenpool"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4de11a9c-6c4a-4246-8f1c-1ca708839689/99/image.jpg",
+      "caption": "Fitnessraum 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6f173908-7797-4d73-9b96-792197f8ee60/99/image.jpg",
+      "caption": "Training im fitnessraum 6"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/37abfbbe-13e3-4b73-8c03-ca56e8e2af41/99/image.jpg",
+      "caption": "QH_9821"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e3c18d2d-9e8e-4d2f-bd7a-a652a732cc35/99/image.jpg",
+      "caption": "Suite Silberdistel total"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2e6179d8-d34c-4f5f-a0ab-ca87be924c77/99/image.jpg",
+      "caption": "QH_9755"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/00c7de41-1ec7-4ad5-b235-9899f3036a3b/99/image.jpg",
+      "caption": "Vineum Klein"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ab208824-4225-433f-9949-7dc80b9f4512/99/image.jpg",
+      "caption": "Skikeller 6"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.370215969065",
+    "longitude": "11.158527512099"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "gemütliches Doppelzimmer mit Dusche/WC und Bergblick.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "DZ \"Angelika\"",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "128.00",
+          "maxPrice": "128.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Das ca. 32 m² große Doppelzimmer „Francesca I“ bietet einen schönen Blick auf das Wettersteingebirge oder die Hohe Munde. Das Zimmer ist teils in Zirbenholz ausgestattet und verfügt über einen komfortablen Sitzbereich, Schreibtisch, Safe, Telefon und Flat TV. Das geräumige Badezimmer ist mit einer verglasten Dusche mit Raindancebrause, einem Waschtisch und teilweise mit getrenntem WC ausgestattet.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "DZ \"Francesca I\"",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "139.00",
+          "maxPrice": "139.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche und Bad, WC, Balkon",
+      "description": "Das ca. 32 m² große Doppelzimmer Beatrix hat einen Balkon Richtung Süden mit Blick auf die Hohe Munde. Das Zimmer aus Zirbenholz verfügt über einen komfortablen Sitzbereich, Schreibtisch, Safe, Telefon und Flat TV. Das offen gestaltete Badezimmer ist mit einer verglasten Dusche mit Raindancebrause, einem Waschtisch aus Granit und mit einer Glastür abgetrenntem WC ausgestattet ",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "DZ \"Beatrix\"",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "151.00",
+          "maxPrice": "151.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC, Balkon",
+      "description": "Das ca. 32 m² große Doppelzimmer Christina hat einen Balkon Richtung Süden mit Blick auf die Hohe Munde. Das Zimmer aus Tiroler Antikholz ist ausgestattet mit einem komfortablen Sitzbereich, Schreibtisch, Safe, Telefon und Flat TV. Das offen gestaltete Badezimmer ist mit einer verglasten Dusche mit Raindancebrause, einem Waschtisch aus Granit und mit einer Glastür abgetrenntem WC ausgestattet ",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "DZ \"Christina\"",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "151.00",
+          "maxPrice": "151.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC, Balkon",
+      "description": "gemütliches Zimmer mit Dusche/WC und Südbalkon",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "DZ \"Francesca II\"",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "151.00",
+          "maxPrice": "151.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "151.00",
+          "maxPrice": "151.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC, Balkon",
+      "description": "geeignet für 2 personen mit Dusche/WC und Bergblick",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "DZ \"Sonja\"",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "152.00",
+          "maxPrice": "152.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche und Bad, WC, Balkon",
+      "description": "Das ca. 40 m² große Doppelzimmer Sabrina I verfügt über einen kleinen Balkon mit Blick auf die Seefelder Alpen. Der Wohnbereich ist mit komfortablem Sofa, Schreibtisch, Safe, Telefon und Flat TV ausgestattet. Ebenfalls steht ein zusätzliches Einzelbett im Wohnzimmer separat zur Verfügung. Angrenzend ist das separate Schlafzimmer.  Das geräumige Badezimmer ist mit einer verglasten Dusche, einer Badewanne, einem Waschtisch aus Sandstein sowie mit einer Glastür abgetrenntem WC ausgestattet ",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "DZ \"Sabrina\"",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "152.00",
+          "maxPrice": "152.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "152.00",
+          "maxPrice": "152.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "gemütliches Zimmer mit Dusche/WC und Südbalkon",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "DZ \"Gartenzimmer\"",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "151.00",
+          "maxPrice": "151.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Suite, Dusche, WC, Terrasse",
+      "description": "Die ca. 42m², neu gestaltete, ebenerdige Suite verfügt über eine kleine Süd/West Terrasse mit Blick auf die Hohe Munde. Die Suite aus Tiroler Antikholz verfügt über einen abgetrennten Wohn- und Schlafbereich. Der abgetrennte Wohnbereich verfügt über einen Schreibtisch, Safe, Telefon und Flat TV. Das geräumige Badezimmer ist mit einer Dusche mit Raindancebrause und einem breiten Waschtisch ausgestattet. Im seperaten WC Raum steht Ihnen ein Geberit Aqua-Clean-WC zur Verfügung.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "\"Gartensuite\"",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "151.00",
+          "maxPrice": "151.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Junior Suite, Dusche, WC",
+      "description": "Die ca. 40 m² große Junior Suite ist komplett in Antikholz gekleidet. Der abgetrennte Wohnbereich verfügt über ein komfortables Schlafsofa, einen wunderschönen Blick auf das Wettersteingebirge, einen großzügigen Schreibtisch, Telefon, Flat TV und über eine separate Toilette mit Geberit Aqua-Clean-WC. Das Schlafzimmer aus Antikholz verfügt über einen Safe, Telefon und Flat TV. Das geräumige Badezimmer ist mit einer Dusche mit Raindancebrause, einem Waschtisch aus Granit und einem Geberit Aqua-Clean-WC ausgestattet.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Juniorsuite 409",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "175.00",
+          "maxPrice": "175.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Junior Suite, Dusche, WC",
+      "description": "Die ca. 40 m² große Junior Suite ist komplett in Antikholz gekleidet. Der abgetrennte Wohnbereich verfügt über ein komfortables Schlafsofa, einen wunderschönen Blick auf das Wettersteingebirge, einen großzügigen Schreibtisch, Telefon, Flat TV und über eine separate Toilette mit Geberit Aqua-Clean-WC. Das Schlafzimmer aus Antikholz verfügt über einen Safe, Telefon und Flat TV. Das geräumige Badezimmer ist mit einer Dusche mit Raindancebrause, einem Waschtisch aus Granit und einem Geberit Aqua-Clean-WC ausgestattet.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Juniorsuite 400",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "175.00",
+          "maxPrice": "175.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Suite, Dusche und Bad, WC, Balkon",
+      "description": "Die ca. 37 m² große Suite Enzian verfügt über einen Balkon mit Blick auf die Hohe Munde, ein Schlafzimmer aus Antikholz und Loden, einen abgetrennten Wohnbereich mit komfortablem Schlafsofa, Schreibtisch, Safe, Telefon, Flat-TV. Das geräumige Badezimmer ist mit einer verglasten Dusche mit Raindancebrause, einem Waschtisch aus Eichenholz und dem Geberit Aqua-Clean-WC ausgestattet.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Suite \"Enzian\"",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "175.00",
+          "maxPrice": "175.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "175.00",
+          "maxPrice": "175.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Suite, Dusche, WC, Balkon",
+      "description": "Garderobe, Wohnraum mit Flachbildschirm, gemütlichem Sofa und Ohrensessel, großer Balkon, separates Gerberitspül-WC, Schlafraum mit Flachbildschirm, Bad mit Dusche und Geberit Aqua-Clean-WC",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Suite \"Arnika\"",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "186.00",
+          "maxPrice": "186.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "186.00",
+          "maxPrice": "186.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Suite, Dusche, WC, Balkon",
+      "description": "Die ca. 42 m² große Suite Sonnenröschen verfügt über einen Balkon mit Blick auf die hohe Munde, Eingangsbereich mit Garderobe, das Schlafzimmer aus Antikholz, Loden und Leinen mit großem Schrank, abgetrennter Wohnbereich mit komfortablem Schlafsofa, Schreibtisch, Safe, Telefon, Flat-TV. Das geräumige Badezimmer ist mit einer Dusche mit Raindancebrause, einem Waschtisch aus Granit und einem Geberit Aqua-Clean-WC ausgestattet (teilweise separat).",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Suite \"Sonnenröschen\"",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "186.00",
+          "maxPrice": "186.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "186.00",
+          "maxPrice": "186.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Suite, Dusche, WC, Balkon",
+      "description": "Die ca. 47 m² große Suite Steinnelke verfügt über zwei Balkone, einmal mit Blick auf die hohe Munde und einmal mit Blick ins Karwendelgebirge, Eingangsbereich mit Garderobe, das Schlafzimmer ist aus Antikholz, Loden und Leinen mit großem Schrank, abgetrennter Wohnbereich mit komfortablem Schlafsofa, Schreibtisch, Safe, Telefon, Flat-TV. Das geräumige Badezimmer ist mit einer verglasten Dusche mit Raindancebrause, einem Waschtisch aus Granit mit einem Doppelwaschbecken und dem Geberit Aqua-Clean-WC ausgestattet. Zusätzlich gibt es ein getrenntes WC.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Suite \"Steinnelke\"",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "196.00",
+          "maxPrice": "196.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "196.00",
+          "maxPrice": "196.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Suite, Dusche, WC, Balkon",
+      "description": "60 m² große Suite mit großem Südbalkon, ausgestattet mit abgetrenntem Wohnbereich, Flat-TV, Schreibtisch, Schlafzimmer mit Flat-TV und zwei Badezimmer mit zwei WCs, alle Materialien in Natur gehalten, wie Stein, Holz, Loden und Leinen. Die ca. 60 m² große Suite Veronika verfügt über einen Balkon mit Blick auf die Hohe Munde, ein Schlafzimmer aus Antikholz und Loden, einen abgetrennten Wohnbereich mit komfortablem Schlafsofa, Schreibtisch, Safe, Telefon, Flat-TV. Das geräumige Badezimmer ist mit einer verglasten Dusche mit Raindancebrause, einem Waschtisch aus Eichenholz und einem Geberit Aqua Clean-WC ausgestattet. Ein zusätzliches Badezimmer mit Dusche und Waschtisch und ein abgetrenntes WC befinden sich in der Suite.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Suite \"Veronika\"",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "196.00",
+          "maxPrice": "196.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "196.00",
+          "maxPrice": "196.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Suite, Dusche, WC, Balkon",
+      "description": "Die ca. 60 m² große Suite Alpenveilchen, verfügt über zwei Balkone mit nördlichem Blick auf das Wettersteingebirge und mit Blick Richtung Osten auf die Seefelder Alpen. Der abgetrennte Wohnbereich verfügt über ein komfortables Schlafsofa, Schreibtisch, Safe, Telefon, Flat TV und einem separaten Geberit AquaClean WC. Ein zusätzlich abgetrenntes Zimmer mit Bett, Flat TV und Balkon (speziell für Schnarcher) befindet sich neben dem Wohnbereich. Das Schlafzimmer aus Antikholz und Loden verfügt über einen separaten Flat TV und Telefon. Das geräumige Badezimmer ist mit einem Balkon, einer verglasten Dusche mit Raindancebrause, einem Waschtisch aus Eichenholz und Granit mit Doppelwaschbecken, einer Badewanne und dem Geberit Aqua-Clean-WC ausgestattet.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "CampingPitch",
+            "Product"
+          ],
+          "name": "Suite \"Alpenveilchen I\""
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "201.00",
+          "maxPrice": "201.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "201.00",
+          "maxPrice": "201.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "201.00",
+          "maxPrice": "201.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Suite, Dusche, WC, Balkon",
+      "description": "Die ca. 60 m² große Suite Alpenveilchen 2 OG verfügt über einen Balkon mit Blick auf das Wettersteingebirge, großem Eingangsbereich mit Garderobe, das Schlafzimmer ist aus Antikholz und Loden mit begehbarem Schrankraum, der Blick vom Bett reicht ins Wettersteingebirge, abgetrennter großer Wohnbereich mit komfortablem Schlafsofa, Schreibtisch, Safe, Telefon, Flat-TV. Das geräumige Badezimmer ist mit Balkon, einer Dusche mit Raindancebrause, einem Waschtisch aus Eichenholz und Granit mit einem Doppelwaschbecken, einer Badewanne und dem Geberit Aqua-Clean-WC ausgestattet.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Suite \"Alpenveilchen II\"",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "201.00",
+          "maxPrice": "201.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "201.00",
+          "maxPrice": "201.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Suite, Dusche, WC, Balkon",
+      "description": "Die Suite Edelweiss verfügt über einen südlichen Balkon mit Blick auf die Hohe Munde und auf den Weidachsee. Der abgetrennte Wohnbereich verfügt über ein komfortables Sofa, Schreibtisch, Safe, Telefon und Flat TV. Das Schlafzimmer aus Antikholz und Loden verfügt über einen separaten Flat TV und Telefon. Über eine Holzstiege gelangen Sie zu der offenen Galerie mit einem weiteren Schlafplatz für bis zu zwei Personen. Das geräumige Badezimmer ist mit einer verglasten Dusche mit Raindancebrause, einem Waschtisch aus Eichenholz und dem Geberit AquaClean WC ausgestattet",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Suite \"Edelweiss\"",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "201.00",
+          "maxPrice": "201.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "201.00",
+          "maxPrice": "201.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "201.00",
+          "maxPrice": "201.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Suite, Dusche, WC, Süd",
+      "description": "Die ca. 60 m² große Suite „Barbara I“ befindet sich im 5. Obergeschoss des Quellenhofes mit Blick gegen Süden auf die Hohe Munde.\n\nDer abgetrennte Wohnbereich verfügt über einen komfortablen Sitzbereich, Schreibtisch, Safe, Telefon, Flat TV. Ein zusätzliches Einzelbettbett aus Antikholz befindet sich ebenfalls im Wohnbereich. Im Eingangsbereich ist ein separates Geberit AquaClean WC mit großzügigem Waschtisch. Das abgetrennte Schlafzimmer aus Antikholz verfügt über einen Flat TV und ein geräumiges Badezimmer mit Raindancedusche und Geberit AquaClean WC.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Suite \"Barbara I\"",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "201.00",
+          "maxPrice": "201.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "201.00",
+          "maxPrice": "201.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Suite, Dusche, WC",
+      "description": "Die ca. 65 m² große Suite „Barbara II“ befindet sich im 5. Obergeschoss und bietet einen herrlichen Blick auf das Wettersteingebirge. Im Eingangsbereich der Suite befindet sich eine aus Antikholz gestaltete begehbare Garderobe.\n\nDer angrenzende, mit Antikholz verkleidete, Wohnbereich verfügt über einen komfortablen Sitzbereich, Schreibtisch, Safe, Telefon und Flat TV.\n\nBeide Schlafzimmer sind aus Antikholz und verfügen über einen separaten Flat TV und je ein angrenzendes Badezimmer mit einer Raindancedusche und Geberit AquaClean WC.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Suite \"Barbara II\"",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "2"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "201.00",
+          "maxPrice": "201.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "201.00",
+          "maxPrice": "201.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "201.00",
+          "maxPrice": "201.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Suite, Dusche und Bad, WC, Balkon",
+      "description": "Die ca. 80 m² große Suite Silberdistel verfügt über zwei Balkone, einmal mit Blick auf die Hohe Munde und einmal mit Blick auf das Wettersteingebirge, einen großen Eingangsbereich mit Garderobe, ein Schlafzimmer aus Antikholz und Loden mit begehbarem Schrankraum, einen abgetrennten Wohnbereich mit komfortablem Schlafsofa, Bücherwand mit ausziehbarem Bett, Schreibtisch, Safe, Telefon, Flat-TV. Zwei geräumige Badezimmer sind mit einer verglasten Dusche mit Raindancebrause, einem Waschtisch aus Eichenholz, einer Eckbadewanne und dem Geberit Aqua-Clean-WC ausgestattet. Zusätzlich befindet sich im Bad eine Zirbeninfrarotkabine.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Suite \"Silberdistel\"",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "207.00",
+          "maxPrice": "207.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "207.00",
+          "maxPrice": "207.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "207.00",
+          "maxPrice": "207.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Suite, Dusche, WC, Balkon",
+      "description": "Unsere großzügig luftige 80 m² Panoramasuite verfügt über zwei komplett separate Schlafzimmer, zwei Bäder mit Geberit-Aqua-Clean WCs und drei Balkone mit Blick auf die Hohe Munde und mit einem einzigartigen Blick auf das Wettersteingebirge und das Leutaschtal. Nach dem Eingangsbereich mit Garderobe steht man mitten im geräumigen komplett mit Antikholz verkleidetem Wohnzimmer mit einer fast vier Meter hohen Decke. Im Wohnbereich befinden sich zwei große Kleiderschränke, ein komfortabler Sitzbereich, Schreibtisch, Safe, Telefon und großer Flat TV.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Suite \"Panorama\"",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "2"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "228.00",
+          "maxPrice": "228.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "228.00",
+          "maxPrice": "228.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "228.00",
+          "maxPrice": "228.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

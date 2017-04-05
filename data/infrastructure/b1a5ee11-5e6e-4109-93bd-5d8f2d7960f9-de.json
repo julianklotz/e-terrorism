@@ -1,0 +1,27 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure",
+    "LocalBusiness"
+  ],
+  "name": "Autosport Club Seefeld",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Autosport Seefeld",
+    "streetAddress": "Kindergartenweg 840/24",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "+436645435003",
+    "email": "info@mst-seefeld.at",
+    "url": "http://www.autosport-seefeld.at"
+  },
+  "url": [
+    "http://www.autosport-seefeld.at"
+  ]
+}

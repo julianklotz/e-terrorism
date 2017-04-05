@@ -1,0 +1,138 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.leismueller.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus am Sunnabichl",
+    "streetAddress": "Klamm 73 a",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 20071",
+    "email": "haus.sunnabichl@leismueller.at",
+    "url": "http://www.fewo-leutasch.at"
+  },
+  "name": "Haus am Sunnabichl",
+  "description": [
+    "Ankommen, wohlfühlen und vom ersten Augenblick an zuhause sein im Haus am Sunnabichl in Leutasch in Tirol. Unser familiär geführtes Ferienhaus in der Olympiaregion Seefeld liegt ruhig und sonnig auf einer leichten Anhöhe, abseits von Straße und Verkehr. Von Haus am Sunnabichl genießen Sie einen wunderschönen Ausblick auf die umliegende Berglandschaft des Wetterstein- und Karwendelgebirges und natürlich auf das Leutaschtal. Im Sommer ist unser Ferienhaus in Leutasch der ideale Ausgangspunkt für Ihre Wanderungen und Mountainbiketouren. Im Winter gelangen Sie in nur wenigen Schritten auf die Langlaufloipe.\n\nUnser modern und liebevoll eingerichtetes Appartement „Gaistal“ ist voll und mit viel Holz ausgestattet. Die Ferienwohnung verfügt über 2 Bäder und 2 separate Schlafzimmer. Im geräumigen Wohnraum können Sie es sich gemütlich machen. Genießen Sie einen atemberaubenden Ausblick auf die Hohe Munde direkt aus Ihrem Appartement im Haus am Sunnabichl. Zu Ihrer Ferienwohnung gehört auch ein großer Garten mit Liegewiese zum Sonnen und Relaxen dazu. Wir bieten natürlich auf Brötchenservice.\n\nAls unser Gast können Sie die 271 km Langlaufloipen der Olympiaregion Seefeld in Tirol GRATIS nutzen. Natürlich steht Ihnen in unserem Haus auch ein Skiabstellraum zur Verfügung. Genießen Sie die verschneite Landschaft bei einer Winterwanderung auf den zahlreichen geräumten Winterwanderwegen oder stapfen Sie mit den Schneeschuhen Ihren eigenen Weg. Schneeschuhe und Rodeln leihen wir Ihnen gerne.\nIm kleinen Einkaufsladen, welcher sich ca. 15 Gehminuten entfernt befindet können Sie sich für Ihren Urlaub eindecken. Auch die Bushaltestelle befindet sich nur 10 Gehminuten vom Haus am Sunnabichl entfernt.\n\nUnternehmen Sie eine Wanderung und erkunden Sie die herrliche Naturlandschaft des Leutaschtales. Von unserm Haus am Sunnabichl gelangen Sie in nur 30 Gehminuten ins Almenparadies Gaistal, wo zahlreiche Almen- und Hüttentouren auf Sie warten. Besonders geeignet ist das Gaistal auch für Mountainbiker.\nIm Sommer genießen Sie den kostenlosen Eintritt in die Erlebniswelt Alpenbad Leutasch, wo Sie sich nach einer ausgedehnten Wanderung entspannen können. Oder erholen Sie sich im großen Garten mit Liegewiese und lassen Sie die atemberaubene Berwelt auf sich wirken.\n\nWir würden uns sehr freuen, auch Sie als Gäste in unserem Ferienhaus am Sunnabichl begrüßen zu dürfen! Ihre Gastfamilie Leismüller.",
+    "inklusive: Strom, Wasser, Heizung,  Rodelverleih, freier Eintritt in die Erlebniswelt Alpenbad Leutasch im Sommer, GRATIS Loipenbenützung!\nexklusive: Ortstaxe pro Person € 2,80; Endreinigung € 30 - 39\n\n",
+    "München - Garmisch - Mittenwald - Leutasch: Ortsteil - Klamm\nMünchen - Garmisch - Mittenwald - Seefeld - Leutasch - Weidach - Kirchplatzl - Klamm"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a61818e8-dc89-4e70-88c6-c760b953e7c3/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3360f914-2aca-494e-bd6e-5235e9892085/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/cc5717a3-1914-4d6e-ab91-5663ee0d9991/99/image.jpg",
+      "caption": "Willkommen im Haus Sunnabichl"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2676a1f0-d28f-40dc-8f7d-6f84185a48ab/99/image.jpg",
+      "caption": "Haus Länge"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d07a983a-de6a-4944-a1d0-06019933691f/99/image.jpg",
+      "caption": "Garten"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ae70b8e7-f951-4290-9d1a-6142b8c89b60/99/image.jpg",
+      "caption": "Garten 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d437cfc1-6127-432b-b6e2-3cc158ac0bf0/99/image.jpg",
+      "caption": "Garten 3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/664f6a36-3953-4a6e-8e86-7efd4a3605b5/99/image.jpg",
+      "caption": "Blumendeko"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6747bab1-762b-4d9f-a840-3c84a4dd07b9/99/image.jpg",
+      "caption": "Appartement \"Gaistal\""
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/87a60269-e655-4c45-bcf6-f31a052a2148/99/image.jpg",
+      "caption": "Appartement \"Gaistal\" - Küche"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.36541227263",
+    "longitude": "11.122120312627"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "Große, neu renovierte Ferienwohnung mit 2 sep. Schlaf.- und Badezimmern, Sat/TV und Radio/CD-Player, Zimmersafe, Vorraum mit Garderobe, Wohnbereich mit bequemer Couch und Sitzecke, Wohnküche kompl. ausgestattet: GESCHIRRSPÜLER, Wasserkocher, Eierkocher, Toaster, Kaffeemaschine, sämtliches Ess.- und Kochgeschirr;\nBade.- und Handtücher, Tischwäsche und Geschirrtücher sind mit von der Ausstattung!\nGRATIS W-LAN Anschluss!\nFREIER Eintritt in die Erlebniswelt Alpenbad Leutasch im Sommer! GRATIS LOIPE!",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "\"Gaistal\"/2 Schlafräume und 2 Badezimmer ",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "55.00",
+          "maxPrice": "75.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "60.00",
+          "maxPrice": "90.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "75.00",
+          "maxPrice": "95.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "80.00",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

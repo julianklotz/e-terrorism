@@ -1,0 +1,63 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.seefeld-berlin.at"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Berlin",
+    "streetAddress": "Am Kirchwald 461",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 3452",
+    "faxNumber": "(0043) 5212 3452",
+    "email": "info@seefeld-berlin.at",
+    "url": "http://www.seefeld-berlin.at"
+  },
+  "name": "Haus Berlin",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2484d093-f50b-4e48-aca6-88de7fbb8e2a/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/53f398b0-c0eb-4fd2-b5b7-799ef1ac47ad/99/image.jpg",
+      "caption": "Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3277566",
+    "longitude": "11.1768781000001"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 1 Schlafraum",
+      "description": "Unsere Ferienwohnungen befinden sich in einer der schönsten Lagen Seefelds. Von den Liegeterrassen und Balkonen genießen Sie einen herrlichen Blick auf das Alpenpanorama. Direkt hinter dem Haus beginnen schönste Wanderwege und Loipen. Die Entfernung zur Ortsmitte beträgt nur ca. 8 Gehminuten. Unsere Ferienwohnungen sind gemütlich eingerichtet mit separatem Schlafraum, Bad mit Wanne, Studioküche mit Geschirrspülmaschine und Sat-TV. Alle Appartements mit Balkon oder Terrasse.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement/Fewo, Bad, WC, 1 Schlafraum",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ]
+    }
+  ]
+}

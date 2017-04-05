@@ -1,0 +1,19 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Landhaus Almidyll 1",
+    "streetAddress": "Wasserfallweg 712/Top1",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 676 4427571",
+    "email": "therese.prettner@aon.at",
+    "url": "http://www.almidyll.at"
+  },
+  "name": "ZW-Schneider Udo",
+  "currenciesAccepted": "EUR"
+}

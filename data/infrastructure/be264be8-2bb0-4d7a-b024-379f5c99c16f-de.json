@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Landform"
+  ],
+  "name": "Sonnenalm",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3136570669449",
+    "longitude": "11.177596449852"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Sonnenalm",
+    "streetAddress": "Gschwandtkopf/Bergstation",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 249035",
+    "email": "gschwandtkopf@tirol.at",
+    "url": "http://www.skigebiet-seefeld.at"
+  },
+  "description": "Die Sonnen Alm am Gipfel des Gschwandtkopf mit einzigartigen Blick von der Sonnenterrasse auf die Tiroler Bergwelt, sowie die Zugspitze, dem höchsten Berg Deutschlands. Für Mountainbiker von Reith Auland über Forststraßen erreichbar. Bodenständige Küche mit selbstgemachten heimischen Speisen und Kuchen.\n\n\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/fcec31a8-e5a1-4da6-9164-720f89fc4a16/99/image.jpg",
+      "caption": "Sonnenalm Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b98d26e9-6e02-4286-96f4-df46ff0146d2/99/image.jpg",
+      "caption": "Sonnenalm Winter"
+    }
+  ],
+  "url": [
+    "http://www.skigebiet-seefeld.at"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure"
+  ],
+  "name": "Gemeindeamt",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3902949",
+    "longitude": "11.2652863000001"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Gemeinde Scharnitz",
+    "streetAddress": "Adolf-Klinge-Platz 72",
+    "addressLocality": "Scharnitz",
+    "postalCode": "6108",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5213 5204 0",
+    "email": "gemeinde@scharnitz.tirol.gv.at",
+    "url": "http://www.scharnitz.tirol.gv.at"
+  },
+  "description": [
+    "Parkplatz vor Gemeinde mit Parkuhr ",
+    "Mo-Fr. 8.00 -12.00 Uhr."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d83c1d1d-edf6-4e41-8337-c7bcdd1f733b/99/image.jpg",
+      "caption": "Wappen Scharnitz"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a8e459f6-86d9-426d-8747-4538228a4a3f/99/image.jpg",
+      "caption": "Porta Claudia"
+    }
+  ],
+  "url": [
+    "http://www.scharnitz.tirol.gv.at",
+    "http://www.karwendel.org",
+    "http://www.seefeld.com"
+  ]
+}

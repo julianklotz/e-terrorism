@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation"
+  ],
+  "name": "Bergwanderschule \"Karwendel\"",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.329129084684",
+    "longitude": "11.1869158931153"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Bergwanderschule \"Karwendel",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043)676 3009859"
+  },
+  "description": [
+    "Wanderung mit musikalischer Einkehr (Tiroler Musik) und geprüften Bergwanderführern auf dem Seefelder Plateau und im alpingen Gelände, telefonische Voranmeldung erforderlich. Preise auf Anfrage.",
+    "Wanderung mit musikalischer Einkehr (Tiroler Musik) und geprüften Bergwanderführern auf dem Seefelder Plateau und im alpingen Gelände, telefonische Voranmeldung erforderlich. Preise auf Anfrage."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e6f68139-ae4d-42c8-866d-cfe94e98a83e/99/image.jpg",
+      "caption": "Wandern in Seefeld"
+    }
+  ]
+}

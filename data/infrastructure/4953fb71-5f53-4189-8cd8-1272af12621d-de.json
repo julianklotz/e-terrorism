@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hostel",
+    "Landform"
+  ],
+  "name": "Eppzirler Alm",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3310499372662",
+    "longitude": "11.2672305107117"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Eppzirleralm",
+    "streetAddress": "Gießenbachtal/Eppzirleralm",
+    "addressLocality": "Scharnitz",
+    "postalCode": "6108",
+    "addressCountry": "AT",
+    "telephone": "(0043) 67761449367",
+    "email": "ingefritz@gmx.at"
+  },
+  "description": "Nur im Sommer geöffnet, Übernachtungsmöglichkeit für 10 Personen, Stempelstelle",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/03b3f7f3-c888-46d5-ba55-10fe3a5aaf6c/99/image.jpg",
+      "caption": "Eppzirler Alm"
+    }
+  ]
+}

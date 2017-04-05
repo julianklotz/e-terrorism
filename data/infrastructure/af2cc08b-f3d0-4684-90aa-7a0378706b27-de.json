@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure",
+    "LocalBusiness"
+  ],
+  "name": "Fassmalerin / Vergolderin - Simone Krug",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3578301",
+    "longitude": "11.1780965"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Alpengruss",
+    "streetAddress": "Neuleutasch 382",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6439",
+    "faxNumber": "(0043) 5214 6439",
+    "email": "gabi.krug@alpengruss.net",
+    "url": "http://www.alpengruss.net"
+  },
+  "description": "Neuleutasch 382\n+43 5214 6439",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d8382ca5-482c-4482-9716-83db379a74e6/99/image.jpg",
+      "caption": "vergolden"
+    }
+  ],
+  "url": [
+    "http://www.alpengruss.net"
+  ]
+}

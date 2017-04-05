@@ -1,0 +1,28 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "TouristAttraction"
+  ],
+  "name": "Grünkopf",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Informationsbüro Leutasch",
+    "streetAddress": "Weidach 320",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "+43-50880510",
+    "faxNumber": "+43-50880811",
+    "email": "info.leutasch@seefeld.com",
+    "url": "http://www.seefeld.com"
+  },
+  "description": "Stempelstelle",
+  "url": [
+    "http://www.seefeld.com"
+  ]
+}

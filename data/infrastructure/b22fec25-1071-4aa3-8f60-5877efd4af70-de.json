@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure"
+  ],
+  "name": "Taxi Seelos",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3282637269249",
+    "longitude": "11.1892225928681"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Taxi Seelos",
+    "addressLocality": "Reith bei Seefeld",
+    "postalCode": "6103",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 3222",
+    "url": "http://www.taxi-seelos.at"
+  },
+  "description": "Tel.: +43 5212 3222 oder +43 5212 4242,\n\nwww.taxi-seelos.at",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f0deeba7-cab4-421b-b80f-8d07ec375e1f/99/image.jpg",
+      "caption": "Taxi Seelos"
+    }
+  ],
+  "url": [
+    "http://www.taxi-seelos.at"
+  ]
+}

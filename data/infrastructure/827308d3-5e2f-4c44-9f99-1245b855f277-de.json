@@ -1,0 +1,28 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SkiResort",
+    "Restaurant"
+  ],
+  "name": "Gasthof Gaistal",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3598522647553",
+    "longitude": "11.1239172951065"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Gasthof Gaistal",
+    "streetAddress": "Obern 39",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 20343",
+    "email": "zimmer@gasthofgaistal.at",
+    "url": "http://www.gasthofgaistal.at"
+  },
+  "description": "Sitzplätze für ca. 80 Personen",
+  "url": [
+    "http://www.gasthofgaistal.at"
+  ]
+}

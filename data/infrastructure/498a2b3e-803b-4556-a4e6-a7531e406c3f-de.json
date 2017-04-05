@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "GolfCourse"
+  ],
+  "name": "Minigolf beim Bahnhof (Riehlweg)",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3278430687626",
+    "longitude": "11.1901009082794"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Kegelcenter \"Zur Kugl\"",
+    "streetAddress": "im Haus Europa, beim Bahnhof",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 2159635",
+    "url": "http://www.seefeld-fun.com"
+  },
+  "description": [
+    " beim Bahnhof/ neben dem Kegelcenter „Zur Kugl“,\n1 Runde: Erw. € 4,00 - Kinder € 3,00",
+    "Minigolf täglich von 10.00 Uhr bis 18.00 Uhr geöffnet - direkt neben der Kegelbahn beim Bahnhof Seefeld\nKegelbahn nur nach telefonischer Reservierung geöffnet!  \n "
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/fc3ab3cf-d912-42ea-a0df-a821301886ac/99/image.jpg",
+      "caption": "Minigolf"
+    }
+  ],
+  "url": [
+    "http://www.seefeld-fun.com"
+  ]
+}

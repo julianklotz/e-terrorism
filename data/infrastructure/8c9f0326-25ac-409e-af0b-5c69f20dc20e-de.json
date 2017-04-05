@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Winery"
+  ],
+  "name": "Weinverkostung - Plangger Delikatessen \"tre.culinaria\"",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3291552",
+    "longitude": "11.1869265"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Plangger Delikatessen tre.culinaria",
+    "streetAddress": "Klosterstr. 43",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 52955",
+    "email": "info@plangger.net",
+    "url": "http://www.plangger.net"
+  },
+  "description": "Der Treffpunkt für Feinschmecker und Weingenieser. Das Feinkostgeschäft Plangger Delikatessen/tre.culinaria im Ortskern von Seefeld wurde in den Jahren von 2011 bis 2016 vom „Genuss Guide“ zum besten Fachgeschäft in Tirol gekürt. Zudem wurde es von der internationalen gastronomischen\nGesellschaft „Chaine des Rotisseurs“ bereits zwei Mal fur besondere gastronomische Leistungen ausgezeichnet und es erhielt zudem von der Online-Plattform „tripadvisor“ das Zertifikat fur Exzellenz / Gewinner fur  die Jahre 2014 bis 2016 verliehen. Neben einem vielfältigen Angebot an hochwertigen Delikatessen und köstlicher Feinkost, finden sich auch an die 3.000 Sorten von edlem Wein und eine erlesene Auswahl an feinsten Spirituosen in den Regalen der Firma Plangger Seefeld. Aber in diesem Delikatessengeschäft kann nicht nur eingekauft werden. Köstliche Alpentapas, feinstes Fingerfood oder aus der Feinkosttheke selbst zusammengestellte Gourmetteller können in dieser gemütlichen Lokalitat genossen werden. Erstklassige Weine werden hier auch glasweise serviert. Im Keller des Geschäftes befindet sich ein exklusiver Weinkeller, welcher fur diverse Anäasse ein schönes Ambiente bietet. Sogar prominente Persönlichkeiten, wie Hansi Hinterseer, Norbert Blecha und Barbara Wussow kehren immer wieder gerne bei der Firma Plangger Delikatessen in Seefeld ein.\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/043e5d3a-1921-467d-a356-c317075d1d4b/99/image.jpg",
+      "caption": "Weinverkostungen"
+    }
+  ],
+  "url": [
+    "http://www.plangger.net"
+  ]
+}

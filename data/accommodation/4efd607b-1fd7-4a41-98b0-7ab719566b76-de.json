@@ -1,0 +1,193 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.andrea-leutasch.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Andrea\u0027s Gästehaus - FENG SHUI Art",
+    "streetAddress": "Klamm 62 a",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6384",
+    "email": "info@andrea-leutasch.at",
+    "url": "http://www.andrea-leutasch.at"
+  },
+  "name": "Andrea\u0027s Gästehaus - nach FENG SHUI Art",
+  "description": [
+    "Ruhe, Erholung und Entspannung. Für ihre schönste Zeit in Andrea´s Gästehaus, das in sonniger Südlage Ausgangspunkt schönster Wanderungen ist. Der Loipeneinstieg liegt direkt beim Haus. Geniessen Sie das \"Gast - sein\"!\n\"EMOTIONALE GEBORGENHEIT\" fühlen, so lautet unser Motto!\nAuf unserem \"Willkommenstisch\"- siehe Foto- erwartet Sie energetisiertes Wasser, selbstgemachte Marmelade, ein Obstkorb in allen fünf Elementarfarben, Blumen, Info und jeden Sonntag gibt es selbstgemachten Kuchen für unsere Gäste! ",
+    "Haustiere kostenlos\nAutoabstellplatz kostenlos",
+    "Anreise von der BRD - Mittenwald. Vorbei am Ortsteil Gasse - Kirchplatzl - Ortsteil Klamm - Brücke links - Fiakerstüberl rechts - nach 500 m rechts eine Anhöhe - nach 100 m wieder rechts  100 m.\n\nVon Seefeld: Weidach - Kirchplatzl - Klamm - Brücke links - Fiakerstüberl rechts - nach 500 m rechts eine Anhöhe - nach 100 m wieder rechts 100 m."
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5.0",
+    "reviewCount": "43"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/69327886-a245-4013-9c3e-463c6f463d8c/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6c0f8247-2880-4c44-9234-d1568d2fc255/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/cc3f80d3-0111-4c32-82cc-7e7d9cc9ddb7/99/image.jpg",
+      "caption": "schöne Aussicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4514a408-a1a8-4f94-9cc8-c8ed5e5d4b58/99/image.jpg",
+      "caption": "Hausansicht von Süden"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d37fb77f-f71e-4230-8b25-f5a27753eb13/99/image.jpg",
+      "caption": "Garten und Spielwiese"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/acd25e24-a146-43aa-b5d2-1a91f1687b17/99/image.jpg",
+      "caption": "Loipe vor dem Haus"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.36346507464",
+    "longitude": "11.118717761484"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "                         \"EMOTIONALE GEBORGENHEIT\":\nGröße(ca.95m2) 2 Schlafzimmer, Wohnzimmer mit Doppelschlafcoach, große-separate Küche mit Geschirrspüler und Mikrowelle ; NEU nach FENG SHUI ART eingerichtet und umgestaltet mit neuen hellen Holzfußböden, neuen farbigen Wänden, einem Schlafzi.  2m-Betten, helle Türen, eine NEUE helle Holzküche; Dusche, separates WC,  SAT-TV, gr.Südbalkon,..\nInkl.:Heizung, Wasser, Strom, Autoabstellplätze\nExkl.:Frühstücksbrötchen, Ortstaxe, Endreinigung  ",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Feng Shui Große Wohnung/2 Schlafräume/Dusche, WC",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "99.00",
+          "maxPrice": "99.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "114.00",
+          "maxPrice": "114.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "129.00",
+          "maxPrice": "129.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "144.00",
+          "maxPrice": "144.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "159.00",
+          "maxPrice": "159.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "EMOTIONALE GEBORGENHEIT: \nNeue Wohnung nach Feng Shui-Art gebaut und eingerichtet,Kachelofen,Netzfreischalter, \nNaturmaterialien, sepa. Schlafzimmer, Wohnschlafraum, Kochzeile, Dusche/WC, Süd-und West Balkon, Sat/TV \u0026 Internet\n\nInkl.:Heizung, Wasser, Strom, Autoabstellplätze\nExkl.:Frühstücksbrötchen, Ortstaxe, Endreinigung  ",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Feng Shui Bergblick",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "EMOTIONALE GEBORGENHEIT:\nNeue Wohnung nach Feng Shui Art gebaut und eingerichtet,\nKachelofen, Netzfreischalter, Naturmaterialien, sep. Schlafzimmer, Wohnschlafraum-Doppelschlafcoach, Kochzeile, Dusche/WC, Südbalkon, Sat/TV, Internet\n\nInkl.:Heizung, Wasser, Strom, Autoabstellplätze\nExkl.:Frühstücksbrötchen, Ortstaxe, Endreinigung  ",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Feng Shui Waldblick",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 1 Schlafraum",
+      "description": "EMOTIONALE GEBORGENHEIT:\nNeu nach Feng Shui Art eingerichtete Wohnung, \nseparates Schlafzimmer mit Naturmaterialien, Wohnschlafraum-Doppelschlafcoach, Küche, Dusche/WC und Badewanne, Sat/TV, eigene Terrasse, Liegewiese und Garten.\n\nInkl.:Heizung, Wasser, Strom, Autoabstellplätze\nExkl.:Frühstücksbrötchen, Ortstaxe, Endreinigung  ",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Feng Shui Schwalbennest",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ]
+    }
+  ]
+}

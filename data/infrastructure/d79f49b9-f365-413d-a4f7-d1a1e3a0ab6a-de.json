@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Landform",
+    "FastFoodRestaurant"
+  ],
+  "name": "Leutascher Klammstüberl",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.4278281081015",
+    "longitude": "11.2349050054489"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Schanz",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 0680 5079660"
+  },
+  "description": "Geisterklamm, nur im Sommer geöffnet\nStempelstelle",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/13a1fefd-3fb9-4e48-b393-248df2b4b154/99/image.jpg",
+      "caption": "Klammstüberl - Leutascher Geisterklamm"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/da5d4a30-750f-4087-bf94-f15548e5d3ea/99/image.jpg",
+      "caption": "Sommer"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Church",
+    "CatholicChurch"
+  ],
+  "name": "Pfarrkirche St. Magdalena",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3696116340732",
+    "longitude": "11.1412525177002"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Pfarrkirche St. Magdalena",
+    "streetAddress": "Kirchplatzl",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043)52146235"
+  },
+  "description": "Leutasch tritt urkundlich im 12. Jahrhundert ins Licht der Geschichte. Damals hatten die Edlen von Weilheim im Gebiet der Oberleutasch größeren Grundbesitz, in der Unterleutasch übten hingegen die Herren von Werdenfels Hoheitsrechte aus. Bernhard von Weihlheim hat im Jahre 1178 einen Teil seines Besitzes an Wald und Flur in der Oberleutasch dem Augustinerchorherrenstift Polling bei Weilheim geschenkt, das in der Mitte des Tales eine im Jahr 1190 der Hl. Magdalena geweihte Kirche bauen ließ, die 1500 und 1725 erweitert wurde. Der heutige Bau wurde 1820 / 21 unter Kurat Franz Sieß, der von 1810 bis 1836 die Pfarre betreute, nach dem Plan des Bildhauers und Zeichenmeisters Josef Falbesoner aus Nassereith errichtet und 1831 durch Fürstbischof Galura von Brixen geweiht. Der stattliche klassizistische Hochaltar gehörte einst zu dem im Jahre 1803 aufgehobenen Kloster Benediktbeuren in Bayern. Die farbenprächtigen,\nkunstvollen Deckengemälde und das Hochaltarbild stammen von Leopold Puellacher (1776 – 1842). Der massige Baukörper ist kaum gegliedert, die Dachform ist leicht geschweift. Der Turm gehört noch dem früheren Bau an. Die älteste der vier Glocken im prächtigen Turm trägt die Jahreszahl 1482. Das Innere ist ein in Gewölbe unterteilter, reich mit Malerei geschmückter klassischer Saalraum mit Volltonne ohne Stichkappen (Sattelgewölbe). Dieser wird an den Wänden durch flache toskanische Pilaster und eine umlaufende Gebälkzone gegliedert. Hinter dem eingezogenen Triumphbogen öffnet sich der Chorraum mit dem ursprünglichen barocken, aber 1821 dem Stil der Kirche angepassten, Hochaltar. Die Kirche erhält nur vom Süden durch hohe Fenster ihr Licht, ebenso durch zwei Fenster in den Schrägseiten des Altarraumes. Im Jahre 1971 ließ Pfarrer Karl Kneisl die Pfarrkirche innen und außen restaurieren.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/40cb4229-8067-4b53-be11-d36ebb139365/99/image.jpg",
+      "caption": "Sommer"
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Panorama Wohnung Mösern",
+    "streetAddress": "Brochweg 9",
+    "addressLocality": "Mösern",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "+4369911560176",
+    "email": "panoramawohnung@icloud.com"
+  },
+  "name": "Panorama Wohnung Mösern",
+  "description": [
+    "Das Haus wurde 2012 im Kranebitter-Stil neu erbaut und befindet sich in schönster Lage von Mösern,  inmitten der Olympiaregion Seefeld, nur ca. 20 Gehminuten von Seefeld entfernt. \nEs bietet einen atemberaubenden Ausblick über das Tiroler Inntal und ist durch seine einzigartige Lage für Erholungssuchende, Naturliebhaber, Sportbegeisterte oder Familien im Winter wie auch im Sommer gleichermaßen geeignet. Ein unvergessliches Urlaubserlebnis ist Ihnen hier garantiert! \nEin Lift bietet Ihnen kurze und barrierefreie Wege vom kostenlosen Parkplatz in die Wohnung. Ferner steht Ihnen ein Fahrrad-/ Skiraum (incl.  Schuhheizung) zur Verfügung. Möserns Gastronomie weiß Sie kulinarisch zu verwöhnen!",
+    "Inkl.: Bettwäsche, Handtücher, Strom\nExkl.: Ortstaxe, Endreinigung\n\nCheck in: 14.00 Uhr\nCheck out: 10.00 Uhr ",
+    "Sie erreichen uns:\n\n•\tMit dem Auto: \n        über Garmisch-Seefeld nach Mösern\n        über die Inntal-Autobahn / Ausfahrt Telfs nach Mösern  (7 km)\n\n•\tMit der Bahn: \n        Bahnhof Seefeld (5 km)\n\n•\tMit dem Flugzeug:\n        Flughafen Innsbruck (20 km)\n"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9d41bfa3-efc8-4367-a5ec-c997fb76aa07/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3c8f4b95-ce95-491f-b311-00fe6bdda0e9/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3d427c1a-12c4-4558-a6c2-4625325903bc/99/image.jpg",
+      "caption": "Hausansicht Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/daf6967d-cc68-42a8-b1c9-e0a67581d0df/99/image.jpg",
+      "caption": "Aussicht Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2b1263c0-2a3a-493a-9f4c-0f73dc8c4ae7/99/image.jpg",
+      "caption": "Aussicht Sommer2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5d1d0bdc-472d-4747-b4a4-4063d09a3eef/99/image.jpg",
+      "caption": "Aussicht ins Tal"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9317908e-7903-418b-9d90-6a22aeef2dfb/99/image.jpg",
+      "caption": "Aussicht zur Friedensglocke Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/52ea23ec-0b96-4a96-b076-383bef2c3633/99/image.jpg",
+      "caption": "Winteraussicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e95ce324-36c1-43ae-ae2c-418a0ba547ca/99/image.jpg",
+      "caption": "Ansicht Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e780b02e-517c-48cb-961f-de6078a73c3b/99/image.jpg",
+      "caption": "Hohe Munde Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/dbab70bf-3d85-440c-93cb-8320f5906075/99/image.jpg",
+      "caption": "Wohnung"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3124775221388",
+    "longitude": "11.1428480627823"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "Diese traumhafte Gartenwohnung bietet Platz für 2 - 4 Personen (Kinderzusatzbett möglich). Auf 95 qm Wohnfläche vereint sie auf gelungen Art und Weise Tradition (typischer \"Tiroler Stil\") und Moderne und lässt ihren Aufenthalt Sommer wie Winter garantiert zu einem unvergesslichen Erlebnis werden!\nDiese besonders großzügige Panoramawohnung besteht aus einem offenen Wohn-,  Koch- und Essbereich, Elektrokamin, 2 Schlafzimmer, 2 Badezimmer.  2 TV-Geräte, kostenloses W-LAN und Safe.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "80.00",
+          "maxPrice": "150.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "110.00",
+          "maxPrice": "180.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "140.00",
+          "maxPrice": "210.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

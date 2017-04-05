@@ -1,0 +1,158 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.landhaus-albrecht.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Landhaus Albrecht",
+    "streetAddress": "Weidach 279",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6642",
+    "faxNumber": "(0043) 5214 6642",
+    "email": "info@landhaus-albrecht.at",
+    "url": "http://www.landhaus-albrecht.at"
+  },
+  "name": "Landhaus Albrecht",
+  "description": "Zwei neue Ferienwohnungen im Landhausstil für 2-4 Personen in zentraler Lage, ausgestattet mit Echtholzböden, voll eingerichteter Küchenblock, gemütlicher Eßecke, Wohnbereich mit Sitzgruppe, separates Schlafzimmer mit DU/WC, Balkon, SAT-TV, W-Lan gratis.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/be14bd46-ab97-4da7-b271-763b95d2003b/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/13cfc60e-fee5-426e-85b0-fcf0bab05405/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1f9122fe-2855-4060-aab5-42578bd704f2/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/639248a4-694b-441f-9f19-eade3a5cde7a/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/17c93a1c-1136-4ab2-9caf-f0cb887e2db1/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ddcc0efe-0eb8-4726-b2ad-75745628d2af/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a645832a-927b-4d33-974c-edac807230b4/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/82b39bc0-7ee4-4f62-8bfb-3d2282617a8e/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5c19309e-002c-414e-ad70-de0852e7edf8/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0ef5cd5d-299a-4d23-bf7d-1aef754ed13c/99/image.jpg",
+      "caption": "Winter"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.37161553534",
+    "longitude": "11.154508038253"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Die Ferienwohnung hat ein großes Wohnzimmer mit Sitzgruppe, SAT- TV, Balkon, eine Essecke, eine voll ausgestattete Kochnische, ein großes Schlafzimmer mit kleiner Sitzecke und Sat-TV. Unsere Wohnungen sind alle mit Naturholzböden ausgestattet. Im Sommer stehen Ihnen Fahrräder und im Winter Rodeln kostenlos zur Verfügung. W-lan kostenlos! ",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Fewo1 /1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "75.00",
+          "maxPrice": "75.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "Die Ferienwohnung hat ein großes Wohnzimmer mit Sitzgruppe, SAT- TV, Balkon, eine Essecke, eine voll ausgestattete Kochnische, zwei Schlafzimmer, DU/WC. Unsere Wohnungen sind alle mit Naturholzböden ausgestettet. Im Sommer stehen Ihnen Fahrräder und im Winter Rodeln kostenlos zur Verfügung. W-lan kostenlos! ",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Fewo2 /2 Schlafräume/Dusche, WC",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "95.00",
+          "maxPrice": "95.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "95.00",
+          "maxPrice": "95.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "95.00",
+          "maxPrice": "95.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

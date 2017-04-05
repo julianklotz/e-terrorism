@@ -1,0 +1,37 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation"
+  ],
+  "name": "Nachtkutschenfahrt zur Lottenseehütte",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3117999",
+    "longitude": "11.1456724"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Infobüro Mösern",
+    "streetAddress": "Möserer Dorfstraße 11",
+    "addressLocality": "Mösern/Buchen",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "+4350880520",
+    "email": "info.moesern@seefeld.com",
+    "url": "http://www.seefeld.com"
+  },
+  "description": [
+    " ",
+    "Genießen Sie eine romantische Abendkutschenfahrt zur urigen Lottenseehütte! Dauer ca. 2,5h, Preis exkl. Konsumation: € 20,- (Erw.) und € 10,- (Kd.: 7-12 J.), Anmeldung (bis zum Vortag um 12.00 Uhr): Informationsbüro Mösern/Buchen. Von Mitte Dezember bis Anfang März."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/da50a6aa-30d3-446d-a694-d443838611c1/99/image.jpg",
+      "caption": "Nachtkutschenfahrt zur Lottenseehütte"
+    }
+  ],
+  "url": [
+    "http://www.seefeld.com"
+  ]
+}

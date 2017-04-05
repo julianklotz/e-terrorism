@@ -1,0 +1,33 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CafeOrCoffeeShop"
+  ],
+  "name": "Ruetz Brotz, Kaufhaus Albrecht, Bäckerei",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3283593804705",
+    "longitude": "11.1874508857727"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Ruetz Brot",
+    "streetAddress": "Innsbrucker Str. 24",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2229-622",
+    "email": "baecker@ruetz.at",
+    "url": "http://www.nannis-cafe.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/53df3f37-ac58-4fcc-b14f-dbaafebd88cf/99/image.jpg",
+      "caption": "Bäckerei"
+    }
+  ],
+  "url": [
+    "http://www.nannis-cafe.at"
+  ]
+}

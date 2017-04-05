@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant"
+  ],
+  "name": "VaBene, Pizzeria \u0026 Restaurant",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3715807589018",
+    "longitude": "11.1522281169891"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "VaBene",
+    "streetAddress": "Weidach 275",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 638014"
+  },
+  "description": "Sitzplätze für ca. 80 Personen",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d52f85eb-58e2-4332-80ba-6bb06d771a62/99/image.jpg",
+      "caption": "alpenbad restaurant"
+    }
+  ],
+  "url": [
+    "http://www.alpenbad-leutasch.com"
+  ]
+}

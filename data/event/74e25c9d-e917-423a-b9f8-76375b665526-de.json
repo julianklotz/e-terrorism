@@ -1,0 +1,64 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "Der 13. - Ihr Glückstag im Casino Seefeld",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Casino Seefeld",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Bahnhofstr. 124",
+      "addressLocality": "Seefeld",
+      "postalCode": "6100",
+      "addressCountry": "AT",
+      "telephone": "+4352122340",
+      "email": "info@casinos.at",
+      "url": "http://www.seefeld.casinos.at"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Casino Seefeld",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Bahnhofstr. 124",
+      "addressLocality": "Seefeld",
+      "postalCode": "6100",
+      "addressCountry": "AT",
+      "telephone": "+4352122340",
+      "email": "info@casinos.at",
+      "url": "http://www.seefeld.casinos.at"
+    }
+  },
+  "description": "Freitag der 13. hat ist ein magischer Tag im Casino. Holen Sie sich Ihr Glückstags-Package mit der Chance auf € 1.300,-- und Champagner. Für nur € 27,- erhalten Sie: Jetons im Wert von € 30,--, einen 13er Glücksjeton mit der Chance auf eine Flasche Champagner und ein Teilnahmeticket für die Ausspielung von € 1.300,- um 23:00 Uhr. Details auf www.seefeld.casinos.at.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2bfe38a6-0689-49a4-a7f4-28dbebd4c4e6/99/image.jpg",
+      "caption": "Casino 3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/dbaa4875-479b-4376-9cbd-507dc53137e1/99/image.jpg",
+      "caption": "Casino 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/cf18b117-f401-42b8-870b-7d0fa70c4221/99/image.jpg",
+      "caption": "Casino"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f1391ae9-ed0d-4e90-b122-1443feab13c4/99/image.jpg",
+      "caption": "Casino 1"
+    }
+  ],
+  "url": [
+    "http://www.seefeld.casinos.at"
+  ],
+  "startDate": "2017-10-13T14:00:00",
+  "endDate": "2017-10-13"
+}

@@ -1,0 +1,76 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.haus-berger.com",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Berger",
+    "streetAddress": "Obere Wiese 4",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6524",
+    "faxNumber": "(0043) 5214 6524",
+    "email": "roedlach.arendt@aon.at",
+    "url": "http://www.haus-berger.com"
+  },
+  "name": "Haus Berger",
+  "description": [
+    "Unsere kleine Frühstückspension liegt ruhig und sonnig am Rand eines Lärchenwaldes im Ortsteil Obere Wiese, Nähe Kirchplatzl. Das Loipennetz ist in unmittelbarer Nähe.Rad- und Wanderwege ab Haus.",
+    "Über Seefeld: Seefeld-Leutasch-Weidach-Kirchplatzl-Ortsteil Obere Wiese.\nÜber Mittenwald: Mittenwald-Unterleutasch-Kirchplatzl. Ortsteil Obere Wiese.\nÜber Fernpass: Reutte-Telfs-Leutasch-Ortsteil Obere Wiese.\n"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5967d67a-2242-4edf-b045-f53be1a26c73/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/23cd2834-8a57-4bcd-b4bc-e49f7910dca8/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f5f38d0f-aaa0-457c-9f84-251b2daa2ad0/99/image.jpg",
+      "caption": "Ansicht Frühstücksraum"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3669578378476",
+    "longitude": "11.1380140195781"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Gemütlich eingerichtete Doppelzimmer im ländlichen Stil, alle mit Balkon und TV\nausgestattet.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Appartement Eleonora-Clubhotel",
+    "streetAddress": "Münchnerstr. 605, Top 16",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0030)6944774664",
+    "faxNumber": "(0030)2106899592",
+    "email": "ebakiri@otenet.gr"
+  },
+  "name": "Appartement Clubhotel -Eleonora",
+  "description": [
+    "Das Appartement liegt in der Mitte von Seefeld. 5 Gehminuten ins Zentrum von Seefeld. Gegenüber eines Taxistandes, 2 Gehminuten zur Skipiste und zur Bushaltestelle.",
+    "Inklusive: Heizung, Wasser, Strom, Tiefgarage;\n",
+    "Check in: 14.00 Uhr\nCheck out: 11.00 Uhr\n\nAnreise von Deutschland: Ausfahrt Seefeld Nord auf der Münchnerstraße gerade aus bis zum Haus Nr. 605\nANreise von Italien: Ausfahrt Seefeld Mitte auf die Andreas-Hofer-Straße. Nach dem Bahnübergang rechts abbiegen, gerade aus bis zum Haus Nr. 605"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5690fd48-d290-49ef-843e-049278a20459/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5eac3f45-62a4-4786-8de7-0f5372f607d4/99/image.jpg",
+      "caption": "Winter"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3333417",
+    "longitude": "11.1906415"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, Wohn-/Schlafraum",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement/Fewo, Dusche, WC, Wohn-/Schlafraum",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

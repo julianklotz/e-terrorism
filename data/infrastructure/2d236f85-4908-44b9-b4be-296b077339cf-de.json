@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hostel",
+    "Landform"
+  ],
+  "name": "Coburgerhütte",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3600483441453",
+    "longitude": "10.9334564208984"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Coburgerhütte",
+    "streetAddress": "Gaistal / Leutasch",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 6643254714",
+    "email": "office@coburgerhuette.at",
+    "url": "http:///www.coburgerhuette.at"
+  },
+  "description": "Nur im Sommer geöffnet! Klettergarten, Klettersteig, Übernachtungsmöglichkeit für 80 Personen, Stempelstelle",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ad760fa2-8d9f-465b-81c4-2573f592a2df/99/image.jpg",
+      "caption": "Coburger"
+    }
+  ],
+  "url": [
+    "http:///www.coburgerhuette.at"
+  ]
+}

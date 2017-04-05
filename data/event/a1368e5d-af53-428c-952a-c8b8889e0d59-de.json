@@ -1,0 +1,48 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "Winter-Erlebnisse - Durch den Leutascher Winterwald",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Informationsbüro Leutasch",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Weidach 320",
+      "addressLocality": "Leutasch",
+      "postalCode": "6105",
+      "addressCountry": "AT",
+      "telephone": "+43-50880510",
+      "faxNumber": "+43-50880811",
+      "email": "info.leutasch@seefeld.com",
+      "url": "http://www.seefeld.com"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Informationsbüro Leutasch",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Weidach 320",
+      "addressLocality": "Leutasch",
+      "postalCode": "6105",
+      "addressCountry": "AT",
+      "telephone": "+43-50880510",
+      "faxNumber": "+43-50880811",
+      "email": "info.leutasch@seefeld.com",
+      "url": "http://www.seefeld.com"
+    }
+  },
+  "description": "Das Winter-Erlebnisprogramm bietet 15 einzigartige Abenteuer für Jung und Alt! Exklusiv und kostenfrei mit der Olympiaregion Seefeld Card! Anmeldung bis zum Vortag erforderlich!\nNaturführer Bantl Hans wandert mit Ihnen zu schönen, unberührten Plätzen im Leutaschtal, z.B. durch\u0027s Katzenloch oder ins Gaistal.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/90db8882-d5e0-438f-b7b1-2ef81a776d14/99/image.jpg",
+      "caption": "Wandern"
+    }
+  ],
+  "startDate": "2016-12-27T10:00:00",
+  "endDate": "2017-03-21"
+}

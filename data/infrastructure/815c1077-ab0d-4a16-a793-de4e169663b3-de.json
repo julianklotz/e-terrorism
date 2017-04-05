@@ -1,0 +1,37 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "HealthAndBeautyBusiness",
+    "BeautySalon",
+    "SportsClub"
+  ],
+  "name": "Kosmetik im Alpenhotel...fall in Love",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Alpenhotel ... fall in Love ****",
+    "streetAddress": "Dorfplatz 28",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043)  5212 2191",
+    "faxNumber": "(0043) 5212 2191",
+    "email": "alpenlove@kaltschmid.info",
+    "url": "http://www.alpenlove.at"
+  },
+  "description": "Nur mit Terminvereinbarung",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/660a7009-642c-4675-b5a3-dc1c9f409c99/99/image.jpg",
+      "caption": "Alpenhotel...fall in Love"
+    }
+  ],
+  "url": [
+    "http://www.alpenlove.at"
+  ]
+}

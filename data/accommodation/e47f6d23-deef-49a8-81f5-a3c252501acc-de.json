@@ -1,0 +1,64 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://web4.deskline.net/seefeld/de/accommodation/detail/SEE/e47f6d23-deef-49a8-81f5-a3c252501acc/f%C3%B6hrenheim",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Föhrenheim",
+    "streetAddress": "Weidach 348",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0039) 0461 689598",
+    "faxNumber": "(0039) 0461 689022",
+    "email": "d.casagranda@hotmail.it"
+  },
+  "name": "Föhrenheim",
+  "description": "Das Haus liegt in ruhiger und sonniger Lage. Es ist sehr gemütlich und gepflegt. Idealer Ausgangspunkt für Wanderungen. Loipennähe, in unmittelbarer Nähe befinden sich gute Restaurants, ein großer Supermarkt und einige Geschäfte.  Liege- und Spielwiese mit Grillmöglichkeit.\n\nCheck-In 15.00 Uhr/ Check-Out 11.00 Uhr\nAnfahrt:\nWenn Sie von Seefeld kommen, fahren Sie in den Ortsteil Weidach ein, dort angekommen fahren Sie bis zu Tankstelle vor. 10 m nach der Tankstelle (vor der Bushaltestelle) biegen Sie rechts ab. Nach ca. 50 Metern können Sie auf der rechten Seite einen Supermarkt erkennen, fahren Sie weiter geradeaus, nach ca. 500 Metern können Sie unser Haus \"Föhrenheim\" auf der linken Seite sehen.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0c731e26-f006-402d-814e-d9479b278775/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5b3148bb-4e46-4828-bf08-6b180d8a4791/99/image.jpg",
+      "caption": "Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3735194",
+    "longitude": "11.1682597"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "Das Appartment befindet sich im Erdgeschoss für 2-4 Personen, gemütlich, rustikalen Stil,  liebevoll und neuwertig eingerichtet. Wohnraum mit Kachelofen, Küche mit Geschirrspühlmaschine. Liegewiese mit Grillmöglichkeit.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Föhrenheim/2 Schlafräume/Dusche, WC",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

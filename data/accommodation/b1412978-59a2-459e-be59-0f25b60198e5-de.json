@@ -1,0 +1,112 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.ferienwohnung-katrin-leutasch.at/",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Katrin",
+    "streetAddress": "Weidach 315 b",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6743",
+    "faxNumber": "(0043) 5214 6743",
+    "email": "info@ferienwohnung-katrin-leutasch.at",
+    "url": "http://www.ferienwohnung-katrin-leutasch.at/"
+  },
+  "name": "Haus Katrin",
+  "description": [
+    "Unser Tirolerhaus befindet sich in ruhiger, sonniger Lage, direkt im Zentrum von Weidach. Es ist im Sommer wie im Winter ein idealer Ausgangspunkt für Ihre Freizeitaktivitäten.\nDie mit hellem Holz eingerichteten Wohnungen befinden sich im 1. Stock und haben separate Schlafzimmer und Balkone. Zum Supermarkt sind es nur 5 Gehminuten.",
+    "Inklusive:\nHeizung, Strom, Wasser, Geschirrtücher, Handtücher, Bettwäsche, Skiraum, Safe, Unterstellplatz für Fahrräder, im Sommer: freier Eintritt ins örtliche Hallenband \"Alpenbad Leutasch\", Fahrradverleih.\n\nExklusive: Ortstaxe",
+    "Aus Deutschland über Garmisch, Mittenwald nach Leutasch. Vom Süden und Osten kommend über Seefeld nach Leutasch. Aus dem Westen Autobahnausfahrt Telfs Ost - Richtung Leutasch.\nIm Ortsteil Weidach an der Kreuzung beim Park Richtung Alpenbad abbiegen, nach 100m auf der rechten Seite finden Sie das Haus Katrin.\nCheck-In 15.00 Uhr/ Check-Out 10.00 Uhr",
+    "Ferienhaus Katrin, Leutasch, Weidach, Ferienwohnung, Ferienwohungen, Urlaub, Leutaschtal, "
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8c1b9a2e-96df-4df7-aec9-048311fc95d5/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/cb2d94e5-a5c1-4f60-b1af-db585888e235/99/image.jpg",
+      "caption": "Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.371176225784",
+    "longitude": "11.162635067462"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": [
+        "Die Wohnugn liegt im 1. Stock und hat Balkon, Satellitenfernsehen, eine Kochnische mit Essecke, einen Wohnraum mit einer ausziehbaren Couch und 2 Schlafräumen.",
+        "The apartment is on the first floor and has a balcony, a satelite TV, a kitchen, a separateliving room and two bedrooms."
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/2 Schlafräume/Dusche, WC",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "72.00",
+          "maxPrice": "90.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Die Wohnungen liegen im 1. Stock und haben Balkon, Satellitenfernsehen, eine Kochnische mit Essecke, einen Wohnraum mit einer ausziehbaren Couch und einen Schlafraum.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "40.00",
+          "maxPrice": "54.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

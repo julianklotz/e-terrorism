@@ -1,0 +1,17 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Andreas Hofer Str. 606 / Top A48",
+    "addressLocality": "Seefeld in Tirol",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0049) 6192 9881976",
+    "email": "hpersman@hotmail.com"
+  },
+  "name": "ZW - Petersmann Hans",
+  "currenciesAccepted": "EUR"
+}

@@ -1,0 +1,19 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Appartement Eleonora-Clubhotel",
+    "streetAddress": "Münchnerstr. 605, Top 16",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0030)6944774664",
+    "faxNumber": "(0030)2106899592",
+    "email": "ebakiri@otenet.gr"
+  },
+  "name": "ZW-Bakiri Eleonora",
+  "currenciesAccepted": "EUR"
+}

@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant"
+  ],
+  "name": "Murmelebau",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3403494818734",
+    "longitude": "11.2225073575974"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Bergbahnen Rosshütte",
+    "streetAddress": "Talstation 419",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "+43521224160",
+    "email": "info@rosshuette.at",
+    "url": "http://www.rosshuette.at"
+  },
+  "description": "Nur im Winter geöffnet!",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a04852c9-3790-42b6-b53e-d09fe956bc69/99/image.jpg",
+      "caption": "Murmelebau Rosshütte"
+    }
+  ],
+  "url": [
+    "http://www.rosshuette.at"
+  ]
+}

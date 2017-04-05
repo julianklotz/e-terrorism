@@ -1,0 +1,119 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.hausparadies.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Paradies",
+    "streetAddress": "Obere Wiese 13",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6521",
+    "faxNumber": "(0043) 5214 6521",
+    "email": "hausparadies@gmx.at",
+    "url": "http://www.hausparadies.at"
+  },
+  "name": "Haus Paradies",
+  "description": "Das \"Nichtraucher Paradies\" hat 2 Balkonzimmer nebeneinander liegend. Das 3.DU/WC Zimmer liegt ebenerdig, bestens geeignet für Eltern mit Kleinkind. Es erwarten Sie allergieneutrale Betten, Teeküche mit Kühlschrank, ernährungsbewusstes Frühstück + ganzjährig Heizung. Keine Haustiere, schöne ruhige Lage.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0f00bd58-7eb9-47bb-af97-5f508e269a12/99/image.jpeg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/45894914-ea44-4f4c-aa5b-f68794165d61/99/image.jpg",
+      "caption": "Winter"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3694137300567",
+    "longitude": "11.1671506315432"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Bad, WC",
+      "description": "helle, moderne Möbel, Laminatböden.Balkonzimmer in Südlage.Bad und WC getrennt und außerhalb des Zimmers dadurch mehr Platz und zusätzlicher Trockenraum.Gratis Loipenbenutzung.Kein Einbettzimmerzuschlag.Preis für die Zeit vom17.12.2012-11.03.2017 je Person und Nacht +Frühstk.\u003d27,00€ ,die Preise gellten ab 2 Übernachtungen je Person",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer Nr.4  mit Bad, WC",
+          "description": "Doppelzimmer mit Balkon in Südlage.Bad und WC getrennt vom Schlafraum außerhalb des Zimmers, dadurch mehr Platz und zusätzlicher Trockenraum für feuchte Kleidung.Boden aus Laminat und Naturteppich.Gratis Loipenbenutzung im Winter.Im Sommer KEIN freier Eintritt ins Alpenbad.Kein Einbettzimmerzuschlag.Doppelbett,getrennte Matratz,ohne Fußteil,2Meter lang.Der Preis für die Zeit vom 26.04.2013 - 25.04.2014 je Person und Nacht +Frühstk.ohne Ortstaxe von 21.oo€ -27,00€ Ab 2 Übernachtungen je Pers.",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Balkonzimmer in Südlage,helle moderne Möbel, Laminatboden mit Naturteppich.Eckzitzbank mit Couchtisch.Gratis Loipenbenutzung.Kein Einbettzimmerzuschlag.Bettlänge 2,00m.Der Preis für die Zeit vom 26.04.2013 -25.04.2017 Je Person und Nacht +Frühstk.ohne OT.21.00€ -27.00€.Die Preis gellten ab 2 Übernachtungen je Person.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer Nr.3 mit Dusche, WC",
+          "description": "Doppelzimmer mit Balkon in Südlage sowie Du/Wc.Helle Möbel.Betten 2,00m lang ohne Fußteil.Doppelbett mit getrennter Matratze. Gemütliche Sitzecke.Laminat Boden mit Naturteppich.Im Winter gratis Loipenbenutzung,im Sommer KEIN freier Eintritt ins Alpenbad.Kein Einbettzimmerzuschlag.Der Preis für die Zeit vom 26.04.2013 -25.04.2014je Person und Nacht mit Frühstk.ohne Ortataxe \u003d21,00€ bis 27,00€ Die Preise gellten ab 2 Übernachtungen je Person.",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Ebenerdiges großes Zimmer.Heller Laminatboden mit Naturteppich.Couch zum Ausziehen als Zusatzbett.Zwischen Schlafraum und Dusch +WC ein kleiner Garderobenraum.Preis für die Zeit:26.04.2013 -25.04.2017,je Person und Nacht +Frühst.ohne Ortstaxe\u003dvon 19,00€ bis 25,00€",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer Nr.2 mit Dusche, WC",
+          "description": "Doppelzimmer mit Du/Wc und kleinem Verbindungsflur.Helle Möbel.Doppelbett mit getrennter Matratze,Bettlänge \u003d 2 Meter.Laminatboden mit Naturteppich.Sitzcouch als 3.Bett möglich.Zimmer ist ebenerdig,gut geeignet für Eltern mit Kleinkind.Gratis Loipenbenutzung im Winter.Im Sommer KEIN Freiereintritt ins Alpenbad.Kein Einbettzimmerzuschlag.Das Zimmer liegt ebenerdig,keine Stufen zu steigen.Der Preis: von 21,00€ bis27,00€ Je Person und Nacht+Frühstk.ohne OT Für die Zeit vom 26.04.2013_25.04.2014",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ]
+    }
+  ]
+}

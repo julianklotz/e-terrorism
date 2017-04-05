@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure"
+  ],
+  "name": "Parkplatz in Reith",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2995078593665",
+    "longitude": "11.2031892822785"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Gemeindeamt Reith bei Seefeld",
+    "streetAddress": "Lauserweg 15",
+    "addressLocality": "Reith bei Seefeld",
+    "postalCode": "6103",
+    "addressCountry": "AT",
+    "telephone": "(0043)5212 3116",
+    "email": "amtsleiter@reith-seefeld.at",
+    "url": "http://www.reith-seefeld.at/"
+  },
+  "description": [
+    "1. gegenüber der Feuerwehr - gebührenfrei\n2. gegenüber dem Informationsbüro Reith - gebührenfrei\n3. am Musikpavillion - gebührenfrei\n4. Maxhüttenparkplatz - gegenüber dem Umspannwerk der ÖBB, Richtung Reither Jochalm - gebührenfrei\n",
+    "1. gegenüber der Feuerwehr - gebührenfrei\n2. gegenüber dem Informationsbüro Reith - gebührenfrei\n3. am Musikpavillion - gebührenfrei\n4. Maxhüttenparkplatz - gegenüber dem Umspannwerk der ÖBB, Richtung Reither Jochalm - gebührenfrei"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/98452ad9-3dfb-46f7-a9b4-56ed2683c419/99/image.jpg",
+      "caption": "Parkplatz"
+    }
+  ]
+}

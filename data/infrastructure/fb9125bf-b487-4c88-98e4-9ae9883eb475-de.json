@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BankOrCreditUnion"
+  ],
+  "name": "Hypo Tirol Bank",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3286284423179",
+    "longitude": "11.1874401569366"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Hypo Tirol Bank",
+    "streetAddress": "Innsbrucker Str. 8",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 50700 5110",
+    "faxNumber": "(0043) 50700 45100",
+    "email": "hypo.seefeld@hypotirol.com",
+    "url": "http://www.hypotirol.com"
+  },
+  "description": [
+    " ",
+    "mit Außen-Bankomat"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b5db89d2-d2cf-4ec4-91ca-7343ddfa5489/99/image.jpg",
+      "caption": "Hypo Tirol Bank"
+    }
+  ],
+  "url": [
+    "http://www.hypotirol.com"
+  ]
+}

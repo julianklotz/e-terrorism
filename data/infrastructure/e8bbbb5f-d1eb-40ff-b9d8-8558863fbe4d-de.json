@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant",
+    "CafeOrCoffeeShop"
+  ],
+  "name": "Alt Mösern",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3116162251229",
+    "longitude": "11.1459137988113"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Alt-Mösern",
+    "streetAddress": "Möserer Dorfstr. 15",
+    "addressLocality": "Mösern",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "+4352124737",
+    "faxNumber": "+435212473710",
+    "email": "info@alt-moesern.at",
+    "url": "http://www.alt-moesern.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/096cf20a-76d7-4f73-b989-f52c4d63b592/99/image.jpg",
+      "caption": "Alt-Mösern"
+    }
+  ],
+  "url": [
+    "http://www.alt-moesern.at"
+  ]
+}

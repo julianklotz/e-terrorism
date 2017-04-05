@@ -1,0 +1,29 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant"
+  ],
+  "name": "Milchhof",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3313898830002",
+    "longitude": "11.1877378821373"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Milchhof",
+    "streetAddress": "Münchner Str. 270",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2298"
+  },
+  "description": "Sitzplätze für ca. 70 Personen",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/69a27fe5-430c-4cd9-b314-90edb9db6426/99/image.jpg",
+      "caption": "Milchhof Sommer"
+    }
+  ]
+}

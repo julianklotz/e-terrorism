@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "TennisComplex",
+    "SportsActivityLocation"
+  ],
+  "name": "ESTESS Tennisschule",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3262431976196",
+    "longitude": "11.1763787269592"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Estess Tennisschule",
+    "streetAddress": "Mösererstr. 632",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 4515",
+    "email": "groupestess@estess.com",
+    "url": "http://www.estess.eu"
+  },
+  "description": "Wir garantieren höchste Qualität. Über 30 Jahre ESTESS in Seefeld 1985 - 2017, Hakan Dahlbo Tennis Academy - Tennistrainings und \nLeistungszentrum und ESTESS Tennisschule, Sekretariat: Tel.: 05212/4515, 0650/2628184 (Head Prof.), Pro’s: Tel.: 0699/19579525,\nwww.estess.eu Unterricht nach international anerkanntem Erfolgstrainingsmodell unter der Leitung des langjährig international erfolgreichen,\nschwedischen Trainers Hakan Dahlbo, D.Sc. (Mitglied ATP Coach Division und PTCA\u003d Professional Tennis Coaches Association) Einzel- und Gruppenunterricht für alle Spielstärken, tägl. nach Vereinbarung. Auf Anfrage Angebote fur Gruppen und Kinder und Privatunterricht. ",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d29981b3-f38f-48dd-9296-3e895f180562/99/image.jpg",
+      "caption": "Piktorgramm"
+    }
+  ],
+  "url": [
+    "http://www.estess.eu"
+  ]
+}

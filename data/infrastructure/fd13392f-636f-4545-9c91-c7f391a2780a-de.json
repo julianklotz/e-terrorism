@@ -1,0 +1,22 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BikeStore",
+    "SportsActivityLocation",
+    "TouristAttraction"
+  ],
+  "name": "E-Bikes",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "description": "Die Olympiaregion Seefeld gilt mit rund 570 km Radwegen als Dorado für Biker jeder Konditionsstufe. Von Strecken für Einsteiger und Familien über anspruchsvolle MTB-Routen gilt das Hochplateau als eine der abwechslungsreichsten Destinationen für alle, die Land und Leute auf zwei Rädern kennenlernen wollen. Einzigartige Aussichten und unberührte Natur genießen, köstliche Almprodukte verkosten und sich über kleine und große sportliche Erfolge freuen - das sind die „Zutaten“ für einen gelungenen Tag am Rad in der Olympiaregion Seefeld. Für alle, die es gerne gemütlicher angehen und ihr Ziel ohne Schweißperlen erreichen möchten, gibt es diesen Sommer wieder ca. 100 E-Bikes der Firma Movelo an zahlreichen Verleihstationen. Leihen Sie sich einfach ein E-Bike vor Ort aus und ein Netzwerk aus Verleih- und Akkuladestationen garantiert Ihnen grenzenlose Mobilität. Nähere Infos finden Sie im aktuellen E-Bike Flyer, welcher in allen Informationsbüros erhältlich ist. Preise für den E-Bike-Verleih: zwischen \n€ 25,00 und € 35,00 pro Tag (je nach Modell).\n\n\n\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/eb6553da-20a5-41a0-9159-cd2ae15a4d53/99/image.jpg",
+      "caption": "E-Bikes"
+    }
+  ]
+}

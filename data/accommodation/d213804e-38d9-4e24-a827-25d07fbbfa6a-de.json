@@ -1,0 +1,135 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.fiakerhof.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Fiakerhof",
+    "streetAddress": "Ahrn 214 b",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 2469 125",
+    "email": "info@fiakerhof.at",
+    "url": "http://www.fiakerhof.at"
+  },
+  "name": "Fiakerhof",
+  "description": [
+    "Neuerbauter Bauernhof inmitten herrlicher Blumenwiesen. Alle FW inkl. Südbakon, abseits der Straßen, sehr sonnig, Brauchtum u. Tradiotion wird auf unserem Hof gepflegt. Ausgangspunkt sämtlicher Wanderwege,Radwege,Kletterwand und Loipen.",
+    "INKLUSIVE: Heizung, Wasser, Strom, Garage.\n\nEXKLUSIVE: Endreinigung, Ortstaxe",
+    "Von Mittenwald - Unterleutasch - Oberleutasch/Ortsteil Ahrn 5 min von der Bushaltestelle Ahrn \n\noder Seefeld - Weidasch - Gasse - Ahrn\n\noder Telfs - Buchen - Oberlautasch - Kirchplatzl bis Ortstiel Ahrn"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "reviewCount": "16"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2a52c159-b7ba-44c2-8b23-4dcce3e04748/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3bebbc3c-7549-4ffa-9396-53c149be2f6a/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4192ab45-460a-4c51-9da2-fa1f7d08e3ad/99/image.jpg",
+      "caption": "Loipe"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6896382e-4bb0-4eb7-b768-457cf366d4e6/99/image.jpg",
+      "caption": "Rodelbahn"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/57ac004a-3302-4028-ab1c-403d2c2cc431/99/image.jpg",
+      "caption": "bei Nacht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/77302cc5-d840-44a4-ab9f-75f50b3873de/99/image.jpg",
+      "caption": "Haflinger"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/bdc08507-a6b8-4384-a4f1-2225cfea163b/99/image.jpg",
+      "caption": "Hausgang"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.384211098374",
+    "longitude": "11.172673982517"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "Wohnraum mit Kochecke u. TV Südbakon 2 Schlafzimmer - Neuerbauter Bauernhof",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/2 Schlafräume/Dusche, WC",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "39.00",
+          "maxPrice": "39.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "39.00",
+          "maxPrice": "39.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Vorraum - Du/WC - Schlafzimmer - Wohnraum mit Kochecke Südbalkon - Neuerbauter Bauernhof",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ]
+    }
+  ]
+}

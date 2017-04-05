@@ -1,0 +1,972 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://www.bergland-seefeld.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Hotel Bergland Daschil GmbH \u0026 Co.KG",
+    "streetAddress": "Innsbruckerstr. 3",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2293",
+    "email": "info@bergland-seefeld.at",
+    "url": "http://www.bergland-seefeld.at"
+  },
+  "name": "Hotel Bergland",
+  "description": [
+    "Modern, alpiner Empfangsbereich mit gemütlicher Hotelhalle \u0026 offenem Kamin, in Harmonie zu unserem Freizeitbereich \"Nordic Spa\" mit Palmen-Hallenbad, Finnischer Sauna, Dampf- und Solebad, Kneippbecken, Ruheraum, Infrarot-Tiefenwärmekabine, Kaltwasseranwendungen, Solarium und Vitalbar zum Entspannen. Wasserbelebung nach Johann Grander, Kräutergarten mit Liegewiese am Teich, Massage-Anwendungen, Golf-Gründerbetrieb (Greenfeeermässigungen 30-35%), geführte Wanderungen im Sommer, Nordic Sports, Vitalküche und Langlaufen All-Inklusive im Winter!",
+    "kostenlose Leistungen: All-Inclusive Top Quality, Benützung des Freizeitbereichs Hallenbad \u0026 Nordic Spa, Hotelshuttle innerhalb Seefeld, Safe, Bademantel, Internet mit W-Lan, Parkplatz, Loipengebühr für die gesamte Region im Winter.\nzu bezahlende Leistungen: Massagen, Solarium, Hotelshuttle außerhalb Seefeld, Wäscheservice;",
+    "Die Zimmer sind in der Regel ab 14.00 Uhr bezugsfertig. Das All-Inclusive beginnt am Anreisetag mit dem Mittagessen ab 12.00 Uhr."
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "reviewCount": "86"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/91cb8d25-5c86-402b-a963-4054cb179939/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/103e7531-c0bc-476c-82a4-d8846aa9d30c/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/bbc02c0b-50d2-4e95-9487-d91475fe8deb/99/image.jpg",
+      "caption": "Liegewiese"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2f1dc74b-c6c0-4bcb-8096-de80d4b53a6e/99/image.jpg",
+      "caption": "Sauna"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/03f3f8c0-5120-4024-b9d6-a77981053db2/99/image.jpg",
+      "caption": "Pool"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/338bb167-1cbd-4723-9f02-93a765f66e4f/99/image.jpg",
+      "caption": "Vitalbar"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d8267e47-c650-495a-8e37-3f997b204297/99/image.jpg",
+      "caption": "Nordic Spa"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/af882785-de71-4503-ba97-1e11eb7d0fb4/99/image.jpg",
+      "caption": "Lounge"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/392bffb0-b7ff-4d65-9030-a24d1d068f93/99/image.jpg",
+      "caption": "Wellness"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d77708ae-af4c-4ec2-9cdc-73740ab665ea/99/image.jpg",
+      "caption": "Rezeption"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2b32ba3c-3dbe-47fb-9099-a72dd1250f86/99/image.jpg",
+      "caption": "Sekt"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.326515906354",
+    "longitude": "11.1885988712311"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Junior Suite, Badewanne",
+      "description": "Familienzimmer im gemütlichen Tiroler Stil eingerichtet\nmit Bad/WC, Safe, Telefon und Kabel-TV",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Juniorsuite \"all inklusiv\"",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Juniorsuite mit FÜ",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "153.00",
+          "maxPrice": "188.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "246.00",
+          "maxPrice": "316.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "332.10",
+          "maxPrice": "447.60",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "418.20",
+          "maxPrice": "579.20",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "0.00",
+          "maxPrice": "143.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "226.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "0.00",
+          "maxPrice": "305.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "0.00",
+          "maxPrice": "384.20",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Junior Suite, Dusche",
+      "description": "Juniorsuite Edelweiß für max. 4 Personen mit shower/WC, Safe, Kabel-TV, Telefon \nund Spa Tasche mit Badetüchter und Bademäntel; Wohn- und Schlafraum getrennt, sowie Kühlschrank auf Anfrage möglich.\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Juniorsuite \"Edelweiss\"-\"all inklusive\"",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Juniorsuite \"Edelweiss\" mit FÜ",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "133.00",
+          "maxPrice": "193.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "98.00",
+          "maxPrice": "326.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "98.00",
+          "maxPrice": "440.10",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "98.00",
+          "maxPrice": "554.20",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "0.00",
+          "maxPrice": "148.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "236.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "0.00",
+          "maxPrice": "318.60",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "0.00",
+          "maxPrice": "401.20",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche oder Bad, WC",
+      "description": "Doppelzimmer mit Bad/WC, Safe, Telefon, Kabel-TV tradtionell oder modern eingerichtet und großteils Balkon.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer, Dusche oder Bad, WC \"all inklusiv\"",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Langlauf Total",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/ca7e313c-6ab2-4d92-9f7d-e29276e865f7/99/image.jpg",
+              "caption": "Langlauf"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Wohlfühlpauschale",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/28a7cfd2-7dff-4bca-901b-085aebc606dd/99/image.jpg",
+              "caption": "Wellness"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Wochen-Skipauschale",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/18647519-827b-4198-be05-2997845808d8/99/image.jpg",
+              "caption": "Schipauschale"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Wohlfühlpauschale Sommer DO-SO",
+          "description": "Donnerstag bis Sonntag\nUnterbringung im Hotelstudio ALL.INCLUSIVE\n1 Flasche Champagner am Zimmer\n1 Wohlfühl-Massage - 30 Minuten\n1 Dinner \u0026 Casino (abgeholt von einer Stretchlimousine geht’s zum Abendessen – Getränke nicht inkludiert – und nach dem Abendessen ins Casino Seefeld gebracht, wo sie Jetons im Wert von € 25,-- plus 4 Geldjetons pro Person und ein Glas Sekt mit Spielerklärung erhalten)\nKuscheliger Bademantel im Spa-Korb mit Salzspecial\n",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/c0e92451-8693-4cae-b7f3-a0332d6027e6/99/image.jpg",
+              "caption": "Wellness"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Wohlfühlpauschale Sommer SO-DO",
+          "description": "Sonntag bis Donnerstag\nUnterbringung im Hotelstudio ALL.INCLUSIV\n1 Flasche Champagner am Zimmer\n1 Wohlfühl-Massage - 30 Minuten\n1 Dinner \u0026 Casino (abgeholt von einer Stretchlimousine geht’s zum Abendessen – Getränke nicht inkludiert – und nach dem Abendessen ins Casino Seefeld gebracht, wo sie Jetons im Wert von € 25,-- plus 4 Geldjetons pro Person und ein Glas Sekt mit Spielerklärung erhalten)\nKuscheliger Bademantel im Spa-Korb mit Salzspecial\n",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/df47d805-3c6d-4aac-abd7-20a2adc2df49/99/image.jpg",
+              "caption": "Wellness"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "E-Bike \u0026 Fun Pauschale",
+          "description": [
+            "3 Übernachtungen im Doppelzimmer \"ALL.INCLUSIV\"\n1 x Benützung des Movelo E-Bike für einen Tag mit Berglandrucksack inklusive Verpflegung\nSportmassage (30 Min.)\nNordic Spa (Finnische Sauna, Infrarot-Tiefenwärme, Sole- /Aroma-Dampfbad, Vitalbar, Ruheraum, Hotelgarten mit  Relax-Area am Teich) \nWäscheservice für Radlerbekleidung \n\n",
+            "Donnerstag bis Sonntag oder Sonntag bis Donnerstag\nUnterbringung im Hotelstudio ALL.INCLUSIVE\n1 Flasche Champagner am Zimmer\n1 Wohlfühl-Massage - 30 Minuten\n1 Dinner \u0026 Casino (abgeholt von einer Stretchlimousine geht’s zum Abendessen – Getränke nicht inkludiert – und nach dem Abendessen ins Casino Seefeld gebracht, wo sie Jetons im Wert von € 25,-- plus 4 Geldjetons pro Person und ein Glas Sekt mit Spielerklärung erhalten)\nKuscheliger Bademantel im Spa-Korb mit Salzspecial\n"
+          ],
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/56715a0c-d92a-491d-b5fb-967620ae899c/99/image.jpg",
+              "caption": "e-Bike"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "E-Bike Stock\u0026Stein Pauschale",
+          "description": [
+            "3 Übernachtungen im Doppelzimmer \"ALL.INCLUSIV\"\n1 x Benützung des Movelo E-Bike für einen Tag mit Berglandrucksack inklusive Verpflegung\nSportmassage (30 Min.)\nNordic Spa (Finnische Sauna, Infrarot-Tiefenwärme, Sole- /Aroma-Dampfbad, Vitalbar, Ruheraum, Hotelgarten mit  Relax-Area am Teich) \nWäscheservice für Radlerbekleidung \n\n",
+            "4 Übernachtungen im Doppelzimmer \"ALL.INCLUSIV\"\n2 x Benützung des Movelo E-Bike für einen Tag mit Berglandrucksack inklusive Verpflegung\nNordic Spa (Finnische Sauna, Infrarot-Tiefenwärme, Sole- /Aroma-Dampfbad, Vitalbar, Ruheraum, Hotelgarten mit  Relax-Area am Teich) \nWäscheservice für Radlerbekleidung \n\n"
+          ],
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/bcf7babd-b654-4140-8f65-b73a5cf69de5/99/image.jpg",
+              "caption": "e-bike"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Aktivpauschale",
+          "description": "7 Übernachtungen im Doppelzimmer ALL.INCLUSIVE\n2 x Benützung des Movelo E-Bike für jeweils einen halben Tag\n2 geführte Tages-Wanderung mit Wanderrucksack und Marschverpflegung\nLeihausrüstung (Stöcke, Trinkflasche mit tägl. isotonischem Getränk, Pulsuhr für die Dauer des Aufenthalts)\nSportmassage (30 Min.)\nWäscheservice für Sportbekleidung",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/adc1bbb4-b573-4b32-b275-28f10dcb6a70/99/image.jpg",
+              "caption": "Wandern"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "4-Tages Wanderpauschale",
+          "description": "4 Übernachtungen All-Inclusive im Doppelzimmer, 3 geführte Wanderungen mit unserem Wanderführer Walter (MO-FR), 3x gefüllter Bergland-Rucksack und am Ende als Souvenir, 1x Bergfahrt Rosshütte, Wanderkarte, Routenvorschläge \u0026 Shuttleservice zu den Einstiegspunkten;\n",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/204f5ed3-fc58-4ad3-980b-bc1eb1f9d7fa/99/image.jpg",
+              "caption": "Wandern"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer, Dusche oder Bad, WC mit FÜ",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "112.00",
+          "maxPrice": "172.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "82.00",
+          "maxPrice": "284.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "0.00",
+          "maxPrice": "127.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "194.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Studio, Dusche",
+      "description": "Studio Enzian für max. 3 Personen (Baby- oder Zusatzbett für Kind auf Anfrage möglich) \nmit Dusche/WC, Safe, Kabel-TV, Telefon, und Spa Tasche mit Badetücher und Bademantel. Kühlschrank auf Anfrage.\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Studio \"Enzian\"- \"all inklusiv\"",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Studio \"Enzian\" mit FÜ",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "127.00",
+          "maxPrice": "187.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "92.00",
+          "maxPrice": "314.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "0.00",
+          "maxPrice": "142.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "224.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Studio, Dusche oder Bad, WC",
+      "description": "Hotelstudio mit Bad/WC, Safe, Telefon, Kabel-TV,\nim gemütlichen Tiroler Stil eingerichtet.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Hotel Studio mit Bad oder Dusche, WC all inklusiv",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Eagle Golf\u0026Spa Pauschale",
+          "description": "4 Übernachtungen im Hotelstudio „ALL.INCLUSIVE“\n3 Greenfees auf einem der zahlreichen Partnergolfplätze\nGolfpräsent\nNordic Spa (Finnische Sauna, Infrarot-Tiefenwärme, Sole- /Aroma-Dampfbad, Vitalbar, Ruheraum, Hotelgarten mit  Relax-Area am Teich)\nOrganisation  der  Startzeiten\nHotelshuttle-Service nach Seefeld-Wildmoos",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/bd0040bf-1b99-40f4-b2f0-9f1c6f83cca8/99/image.jpg",
+              "caption": "Golf"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Birdie Golf\u0026Spa Pauschale",
+          "description": "3 Übernachtungen im Hotelstudio „ALL.INCLUSIV“\n2 Greenfees für Seefeld-Wildmoos oder Seefeld-Reith\nGolfpräsent\nNordic Spa (Finnische Sauna, Infrarot-Tiefenwärme, Sole- /Aroma-Dampfbad, Vitalbar, Ruheraum, Hotelgarten mit  Relax-Area am Teich)\nOrganisation der Startzeiten und Hotelshuttle zum Golfplatz",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/ff341e5a-76c3-4709-a7ad-1eda7a3e11b5/99/image.jpg",
+              "caption": "Golf"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Wohlfühlpauschale DO-SO",
+          "description": "Donnerstag bis Sonntag\nUnterbringung im Hotelstudio ALL.INCLUSIV\n1 Flasche Champagner am Zimmer\n1 Wohlfühl-Massage - 30 Minuten\n1 Dinner \u0026 Casino (abgeholt von einer Stretchlimousine geht’s zum Abendessen – Getränke nicht inkludiert – und nach dem Abendessen ins Casino Seefeld gebracht, wo sie Jetons im Wert von € 25,-- plus 4 Geldjetons pro Person und ein Glas Sekt mit Spielerklärung erhalten)\nKuscheliger Bademantel im Spa-Korb mit Salzspecial",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/6382a619-a07d-4474-b42f-5a245f88da8e/99/image.jpg",
+              "caption": "Wellness"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Wohlfühlpauschale SO-DO",
+          "description": "Sonntag bis Donnerstag\nUnterbringung im Hotelstudio ALL.INCLUSIV\n1 Flasche Champagner am Zimmer\n1 Wohlfühl-Massage - 30 Minuten\n1 Dinner \u0026 Casino (abgeholt von einer Stretchlimousine geht’s zum Abendessen – Getränke nicht inkludiert – und nach dem Abendessen ins Casino Seefeld gebracht, wo sie Jetons im Wert von € 25,-- plus 4 Geldjetons pro Person und ein Glas Sekt mit Spielerklärung erhalten)\nKuscheliger Bademantel im Spa-Korb mit Salzspecial",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/7f283540-cfbe-436b-b471-f42d3ffbb003/99/image.jpg",
+              "caption": "Wellness"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Hotel Studio mit Bad oder Dusche, WC mit FÜ",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "122.00",
+          "maxPrice": "182.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "92.00",
+          "maxPrice": "304.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "101.00",
+          "maxPrice": "410.40",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "115.00",
+          "maxPrice": "516.80",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "0.00",
+          "maxPrice": "137.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "214.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "0.00",
+          "maxPrice": "288.90",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "0.00",
+          "maxPrice": "363.80",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Studio, Dusche oder Bad, WC",
+      "description": "Studio Nordic für max. 2 Personen (Baby- oder Zusatzbett für Kind auf Anfrage möglich) \nmit Bad/WC, Safe, Kabel-TV, Telefon, und Spa Tasche mit Badetücher und Bademantel. Kühlschrank auf Anfrage.\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Studio \"Nordic\"- \"all inklusiv\"",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Studio \"Nordic\" mit FÜ",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "127.00",
+          "maxPrice": "187.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "92.00",
+          "maxPrice": "314.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "0.00",
+          "maxPrice": "142.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "224.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Einzelzimmer, Dusche, WC",
+      "description": "Einzelzimmer mit Dusche/WC, modern eingerichtet, Safe, Telefon, Kabel-TV und teilweise Balkon",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Einzelzimmer Dusche, WC \"all inklusiv\"",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Einzelzimmer Dusche, WC mit FÜ",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "88.00",
+          "maxPrice": "152.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "0.00",
+          "maxPrice": "107.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

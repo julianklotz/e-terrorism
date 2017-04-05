@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure",
+    "TouristAttraction"
+  ],
+  "name": "Kalvarienberg",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3126092029156",
+    "longitude": "11.1458387716248"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Infobüro Mösern",
+    "streetAddress": "Möserer Dorfstraße 11",
+    "addressLocality": "Mösern/Buchen",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "+4350880520",
+    "email": "info.moesern@seefeld.com",
+    "url": "http://www.seefeld.com"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/825e74c0-cbe9-4172-b3fd-c357c4ab1608/99/image.jpg",
+      "caption": "Kalvarienberg"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a25a64b1-d75b-4d79-b967-665e49a13250/99/image.jpg",
+      "caption": "Kalvarienberg 2"
+    }
+  ],
+  "url": [
+    "http://www.seefeld.com"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure",
+    "LocalBusiness"
+  ],
+  "name": "Luitascher Traktorspinner",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3708448",
+    "longitude": "11.1428155"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Luitascher Traktorspinner",
+    "streetAddress": "Aue 116",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6708",
+    "url": "http://www.traktorspinner.at"
+  },
+  "description": "Obmann: Alois Ripfl\n\nKirchplatzl 149\nTel.: +43 5214/6619",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a03d67ea-7b77-4381-9c31-91f02ad7381f/99/image.jpg",
+      "caption": "Luitascher Traktorspinner"
+    }
+  ],
+  "url": [
+    "http://www.traktorspinner.at"
+  ]
+}

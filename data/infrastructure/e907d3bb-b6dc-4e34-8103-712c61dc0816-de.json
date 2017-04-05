@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation"
+  ],
+  "name": "Spielplatz beim Möserer See",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3150489170462",
+    "longitude": "11.1454786756103"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Zum Neunerwirt",
+    "streetAddress": "Möserer Dorfstr. 23",
+    "addressLocality": "Mösern",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "+4352124866",
+    "email": "neunerwirt@alpenwelt.at",
+    "url": "http://www.alpenwelt.at"
+  },
+  "description": [
+    " ",
+    "Naturspielplatz beim Möserer See (nähe Seestubm)",
+    "Naturspielplatz beim Möserer See (nähe Seestubm)"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/af55aea2-01de-49c7-963c-2313db01aa8c/99/image.jpg",
+      "caption": "Spielplatz"
+    }
+  ]
+}

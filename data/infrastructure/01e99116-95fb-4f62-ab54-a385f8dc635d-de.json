@@ -1,0 +1,28 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "FastFoodRestaurant"
+  ],
+  "name": "Bahnhofsbuffet, Imbiss",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.328997491136",
+    "longitude": "11.1891406774521"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Bahnhofsbuffet Seefeld",
+    "streetAddress": "Bahnhofsplatz 115",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2443"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/58f8dfa3-c017-4ca4-b84e-017286b007ab/99/image.jpg",
+      "caption": "Bahnhofsbuffet Sommer"
+    }
+  ]
+}

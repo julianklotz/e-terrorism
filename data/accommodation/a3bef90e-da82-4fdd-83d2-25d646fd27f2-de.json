@@ -1,0 +1,95 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.haus-felderer.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Felderer",
+    "streetAddress": "Seewald 8",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6830",
+    "faxNumber": "(0043) 5214 6830",
+    "email": "info@haus-felderer.at",
+    "url": "http://www.haus-felderer.at"
+  },
+  "name": "Haus Felderer",
+  "description": [
+    "1 FW 2-3 Pers. 50 m² - 1 sep. Schlafzimmer\n1 FW 4-5 Pers. 60 m² - 2 Schlafzimmer\n1 Einraumappartement 30 m² (nur Winter)\nruhig, zentral (Sackgasse), Balkon, Wachsraum, Trockenraum, \nBrötchenservice, Granderwasser, W-LAN",
+    "INKLUSIVE: Heizung, Wasser, Strom, Bettwäsche, Handtücher, im Sommer gratis Eintritt im Alpenbad \n\nEXKLUSIVE: Endreinigung, Kurtaxe, Telefon",
+    "Check-In 14.00 Uhr / Check-Out 10.00 Uhr\n\nWeg: Folgen Sie den Schildern Seewald. Unser Haus liegt in einer Sackgasse nähe Hotel \"Kristall\". Separat angeschrieben\nSeefeld - Weidach - nähe Lift - Hotel Kristall \nMittenwald - Weidach - Seewald"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/71c4942d-c2f4-4399-9511-03e17023b038/99/image.jpg",
+      "caption": "Sommer "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f77fed38-5154-4223-a03c-6899876caf7a/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5c36bec5-fdc0-4314-9c2e-a1f5ffe679c8/99/image.jpg",
+      "caption": "Sommer 2"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.367297523919",
+    "longitude": "11.15936336601"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "60 m², 2 Schlafzimmer, 2 Balkon SÜD-SW; Parkett, modern und komfortabel",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Ap. Sarah /2 Schlafräume/Dusche, WC",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "4"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "50 m², helles Holz, Parkett, modern, 3 Betten im Schlafzimmer, 1 Balkon SW, komfortabel",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apart. Felix /1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

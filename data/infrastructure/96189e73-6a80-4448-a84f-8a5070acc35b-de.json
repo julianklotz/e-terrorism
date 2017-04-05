@@ -1,0 +1,37 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation"
+  ],
+  "name": "Rodelbahn Hoher Sattel",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3807019888307",
+    "longitude": "11.1918188492432"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Informationsbüro Leutasch",
+    "streetAddress": "Weidach 320",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "+43-50880510",
+    "faxNumber": "+43-50880811",
+    "email": "info.leutasch@seefeld.com",
+    "url": "http://www.seefeld.com"
+  },
+  "description": "Naturrodelbahn vom Ortsteil Ahrn auf den Hohen Sattel. Garantiert autofrei - jedoch müssen Sie auch untertags mit einem Pistenfahrzeug rechnen. Höchster Punkt: 1.495 m. Länge: ca. 2,5 km. Höhenunterschied: 315 m. Schwierigkeit: schwer. Keine Einkehrmöglichkeit.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a10c57b4-9290-4f33-afa9-8182fb78d8f1/99/image.jpg",
+      "caption": "Hoher Sattel Leutasch Tirol Rodeln"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ce1f75db-ffff-4d7c-9405-2c42d93e9083/99/image.jpg",
+      "caption": "Leutasch Hoher Sattel"
+    }
+  ]
+}

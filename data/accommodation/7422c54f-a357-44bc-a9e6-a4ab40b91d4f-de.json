@@ -1,0 +1,934 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "https://www.youtube.com/embed/T3rqG_CRsNk?rel\u003d0",
+    "http://www.eden-seefeld.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf",
+    "https://www.youtube.com/watch?v\u003dT3rqG_CRsNk"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Das Hotel Eden",
+    "streetAddress": "Münchner Str. 136",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 50495",
+    "faxNumber": "(0043) 5212 50494",
+    "email": "info@eden-seefeld.at",
+    "url": "http://www.eden-seefeld.at"
+  },
+  "name": "Das Hotel Eden",
+  "description": [
+    "Das Hotel Eden verfügt über 64 Doppelzimmer und 10 Suiten.\nIm Seebachrestaurant kann man 4 Gang Wahlmenüs im Rahmen der Halbpension genießen, während Adams Bistro Bar regionale Kleinigkeiten zu Weinen mit dem Schwerpunkt Österreich bietet. Nachmittags gibt es hausgemachtes Eis, Kaffee und Kuchen – an schönen Tagen auch auf der Seebachterrasse.\nFür individuelle Tagungen und Seminare stehen außergewöhnliche Räume mit Glasdach, offenem Kamin sowie modernster Technik zur Verfügung.",
+    "Unser großzügiger EDEN SPA besteht aus einem Außenpool (32 °C) mit Halleneingang und Whirlpool, Finnischer-, Dampf- und Biosauna, Infrarot-Kneipp-Lounge, Wärmebänken, Eisbrunnen, Ruheraum mit Wasserbetten, Fitnessraum.\nGegen Gebühr: Carports, Gargenplätze, Haustiere, Massagen, Beauty Anwendungen, Solarium",
+    "Ab 15.00 Uhr ist Ihr Zimmer bezugsbereit!"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "reviewCount": "746"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f93b6221-68d4-41b1-9208-3273323eb099/99/image.jpg",
+      "caption": "Eden_-322_72dpi"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3f12b280-80ff-46cc-a659-75283a1fc2be/99/image.jpg",
+      "caption": "Hotel Eden"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f64ec4c3-510f-49d3-a568-fdc55e37cc0c/99/image.jpg",
+      "caption": "Außenansicht vorne, Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f6b24979-875c-4e72-b60a-481dcc67bee7/99/image.jpg",
+      "caption": "Außenansicht Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/48b70bf0-1169-42a5-b0e1-145e94b57d36/99/image.jpg",
+      "caption": "Garten im Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/20da7f72-0502-4c15-972d-830d44764dcd/99/image.jpg",
+      "caption": "Wellness"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f4be8a11-22e9-4634-80da-81e9a02621bc/99/image.jpg",
+      "caption": "Pool Innen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/baca29f6-d218-40a1-82ff-e6cd51fcece4/99/image.jpg",
+      "caption": "NEU: Infrarot Lounge"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4e4cb4f0-54d1-4335-beea-2b2adbe11418/99/image.jpg",
+      "caption": "Wellness \u0026 Spa"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5602ccb8-6a5b-48f1-8f2f-ebfae0da45d8/99/image.jpg",
+      "caption": "Wellness \u0026 Spa"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/86b6ffb0-c475-4a1b-b19d-557dd98916ce/99/image.jpg",
+      "caption": "Dampfbad"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/bb26341c-5b46-4541-af90-1a6f110aa238/99/image.jpg",
+      "caption": "Spa Rezeption"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5952c230-ace5-47f8-9615-7fbd560915c5/99/image.jpg",
+      "caption": "Ruheraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/43e9d807-c45a-48ec-8e67-616b550ca5f6/99/image.jpg",
+      "caption": "Winter Haus bei Nacht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e0dee5d8-5cf0-4a98-9ec1-e7ec59dfe742/99/image.jpg",
+      "caption": "Pool Inneneinstieg"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2ae09661-2714-4443-8373-e335a092297d/99/image.jpg",
+      "caption": "Pool drinnen \u0026 draußen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/75b17516-3788-4bb1-9631-b4aa4437bd64/99/image.jpg",
+      "caption": "Restaurant, Kulinarik"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b999dad8-48ae-4c5e-bff6-2cf1d15136ee/99/image.jpg",
+      "caption": "Seebachrestaurant"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2ea4d7be-39ef-4fec-b010-0983f29b8681/99/image.jpg",
+      "caption": "Seebachrestaurant"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/be1925da-2a55-467f-87f7-5c08c2b7066e/99/image.jpg",
+      "caption": "Familiensuite"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4703e746-c952-4394-85c1-9a5858f68d1b/99/image.jpg",
+      "caption": "Familiensuite, Doppelzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6e208b7f-d917-406c-8b77-a71c5986974e/99/image.jpg",
+      "caption": "Panoramasuite"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/951d15aa-7480-4c46-b721-e8abb8cab292/99/image.jpg",
+      "caption": "Panoramasuite"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/36af0207-909f-4a2c-8e5c-5954c169f588/99/image.jpg",
+      "caption": "Doppelzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/41eb2820-1057-444b-9303-18d590beaa35/99/image.jpg",
+      "caption": "Panoramasuite"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d436f30b-73c3-4d60-bf00-15a0181539c7/99/image.jpg",
+      "caption": "Adams Bistro Bar"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3309026873654",
+    "longitude": "11.1873704195023"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche und Badewanne",
+      "description": "Sehr schönes Doppelzimmer mit Bergblick, Sitzgarnitur, Badezimmer mit Bad und Erlebnis-Dusche, Fön, Make-up-Spiegel und WC. Hosenpresse, Safe, LCD-Flachbild-Fernseher mit Internet und Tastatur, Teletext, Radio, Mini-Bar, Tee-Ecke, Balkon, Telefon,\n\nKinderermäßigungen im Zusatzbett (Winter 16/17):\n0-5 Jahre: 100%\n6-9 Jahre: 70%\n10-15 Jahre: 50%\nab 16 Jahren: 25%",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer Standard",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Nordic Lifestyle Package",
+          "description": "- 5 Nächte im DZ \"Standard\" (Anreise nur Sonntag!)\n- Welcomedrink\n- Reichhaltiges Frühstücksbuffet\n- Hausgemachten Kuchen am Nachmittag\n- 5-Gang-Genießerhalbpension mit Salat- und Käsebuffet\n- Eden SPA mit beheiztem Außenpool, verschiedenen Saunen und Fitnessbereich\n- Bademantel und Badetüchern für den Saunabereich\n- 1 Kerzenmassage (ca. 25 min.)\n- Langlaufkurs: 3x Gruppenunterricht: MO-MI 09.30-11.30 Uhr; 1x Privatunterricht: DO 60 min.\n- Loipengebühr\n- Beheizter Skiraum mit Wachstisch",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/93a682b6-282d-4c36-b7c9-934d5053a0b5/99/image.jpg",
+              "caption": "Nordic Lifestyle"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Biathlon Package",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/f8f7ca2f-1646-4e17-b4f6-70e3f6e226d8/99/image.jpg",
+              "caption": "Biathlon"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Langlauf-Basispaket",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/ad18b874-aa02-491d-9c59-4a7c8e8e7384/99/image.jpg",
+              "caption": "Langlauf"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Romantischer Adventzauber",
+          "description": "- 3 Nächte im DZ\n- Punsch zur Begrüßung\n- Süße Weihnachtsüberraschung am Zimmer\n- Reichhaltiges Frühstücksbuffet\n- Hausgemachten Kuchen am Nachmittag\n- 5-Gang-Genießer-Halbpension\n- EDEN SPA mit beheiztem Außenpool, verschiedenen Saunen und Fitnessraum\n- Casino Gutschein für Casinoüberraschung\n- Adventmarkt Seefeld erleben (27.-29.11.2015 \u0026 04.-23.12.2015)\n- Weihnachtsmarkt Seefeld (25.12.2015 - 06.01.2016)\n- Innsbrucker Adventmarkt (tägl. geöffnet)\n- 1 Kutschenfahrt um den Seefelder Wildsee",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/f8111e39-9bb9-4038-8337-8e5da7ec41e8/99/image.jpg",
+              "caption": "Advent"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Freundinnen Wellness-Package",
+          "description": "- 2 Übernachtungen im DZ\n- 1 Glas Prosecco zur Begrüßung\n- Reichhaltiges Frühstücksbuffet\n- Hausgemachten Kuchen am Nachmittag\n- 5-Gang-Genießer-Halbpension mit Salat- und Käsebuffet\n- EDEN SPA mit beheiztem Außenpool, verschiedenen Saunen und Fitnessraum\n- Casino Gutschein für zwei Gläser Sekt, Schokolade und einen Glücksjeton\n- Je 1 Wellnessgutschein im Wert von € 50,00\n- Die 3. Freundin im Zimmer laden wir gerne ein!",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/9ba92e20-b4f0-48c3-8f7f-f0e142e810aa/99/image.jpg",
+              "caption": "Wellness"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Traumtage für Zwei",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Beautypackage -  4 Nächte bleiben, 3 bezahlen",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Wellness-Genießertage",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Wandern \u0026 Wohlfühlen",
+          "description": "- 5 Übernachtungen im DZ „Standard“\n- Begrüßungsgetränk\n- Reichhaltiges Frühstücksbuffet\n- hausgemachten Kuchen am Nachmittag\n- 5 Gang Genießer Halbpension mit Salat- und Käsebuffet\n- Erleben und Genießen in unserem EDEN SPA mit beheiztem Außenpool, verschiedenen Saunen und Fitnessbereich\n- Casino Gutschein für zwei Gläser Sekt, Schokolade und einen Glücksjeton\n- Tägliche Wanderjause\n- Rucksack „Tirol“ / Leihgabe\n- Jausenbox\n- Wanderkarte\n- 1 Kombimassage",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Wandern \u0026 Wohlfühlen",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Golfurlaub",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/15fd00a1-7c08-45ca-a024-cbed01848546/99/image.jpg",
+              "caption": "Golf"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Nordic Lifestyle, Doppelzimmer Standard",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Nordic LIfestyle B, Doppelzimmer Standard",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Nordic Lifestyle, Doppelzimmer Standard",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Bergfreunde, Doppelzimmer Standard",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Golf-Kurzurlaub, Doppelzimmer Standard",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Golfurlaub, Doppelzimmer Standard",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "WellnessGenießertage, Doppelzimmer Standard",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Traumtage, Doppelzimmer Standard",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "114.00",
+          "maxPrice": "800.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "85.00",
+          "maxPrice": "700.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "675.00",
+          "maxPrice": "675.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "675.00",
+          "maxPrice": "675.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "675.00",
+          "maxPrice": "675.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "259.00",
+          "maxPrice": "259.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "235.00",
+          "maxPrice": "235.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "316.00",
+          "maxPrice": "316.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "444.00",
+          "maxPrice": "444.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "569.00",
+          "maxPrice": "569.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "1020.00",
+          "maxPrice": "1020.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "540.00",
+          "maxPrice": "540.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "999.00",
+          "maxPrice": "999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "1013.00",
+          "maxPrice": "1013.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "778.00",
+          "maxPrice": "778.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "774.00",
+          "maxPrice": "774.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "599.00",
+          "maxPrice": "599.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "774.00",
+          "maxPrice": "1013.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "599.00",
+          "maxPrice": "778.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "615.00",
+          "maxPrice": "732.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "455.00",
+          "maxPrice": "552.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "708.00",
+          "maxPrice": "804.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "580.00",
+          "maxPrice": "660.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "890.00",
+          "maxPrice": "1028.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "698.00",
+          "maxPrice": "812.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "690.00",
+          "maxPrice": "805.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "530.00",
+          "maxPrice": "625.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "455.00",
+          "maxPrice": "527.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "359.00",
+          "maxPrice": "419.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche und Badewanne, Balkon",
+      "description": "Sehr geräumiges Doppelzimmer mit Super-Bergblick, Sitzecke und/oder Stube, z. T. mit Kachelofen, sehr luxuriöses Badezimmer mit Bad und Erlebnis-Dusche, Fön, Make-up-Spiegel, Telefon, WC und z. T. mit Bidet. Hosenpresse, Safe, LCD-Flachbild-Fernseher mit Internet und Tastatur, Teletext, Radio, Mini-Bar, Tee-Ecke, Balkon, Telefon mit Modem/Faxanschluss.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer Super",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Golfurlaub, Doppelzimmer Super",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "123.00",
+          "maxPrice": "800.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "182.00",
+          "maxPrice": "700.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "950.00",
+          "maxPrice": "1244.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "758.00",
+          "maxPrice": "902.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche und Badewanne, Balkon",
+      "description": "Sehr geräumiges Doppelzimmer mit Super-Bergblick, Sitzecke und/oder Stube, z. T. mit Kachelofen, sehr luxuriöses Badezimmer mit Bad und Erlebnis-Dusche, Fön, Make-up-Spiegel, Telefon, WC und z. T. mit Bidet. Hosenpresse, Safe, LCD-Flachbild-Fernseher mit Internet und Tastatur, Teletext, Radio, Mini-Bar, Tee-Ecke, Balkon, Telefon mit Modem/Faxanschluss.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer Super Plus",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Super Doppelzimmer",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "108.00",
+          "maxPrice": "800.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "108.00",
+          "maxPrice": "700.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "108.00",
+          "maxPrice": "108.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Suite, Dusche und Badewanne",
+      "description": "Sehr luxuriöse, romantische Räumlichkeiten mit Wohnzimmer und seperatem Schlafteil (im Parktrakt sind Wohn- und Schlafteil durch eine Tür getrennt), z. T. mit Kachelofen, super Bergblick, insgesamt 2 luxuriöse Badezimmer, davon 1 mit Whirlwanne und 1",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Panorama Suite",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "217.00",
+          "maxPrice": "217.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "217.00",
+          "maxPrice": "217.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "217.00",
+          "maxPrice": "217.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

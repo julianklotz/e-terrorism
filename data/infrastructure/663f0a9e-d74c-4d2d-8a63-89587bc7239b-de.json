@@ -1,0 +1,33 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation",
+    "SportingGoodsStore"
+  ],
+  "name": "Skischule Leutasch - Langlauf",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3707738036812",
+    "longitude": "11.1530635893189"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Büro Nordisch \u0026 Verleih",
+    "streetAddress": "Weidach 275b / ErlebnisWelt Alpenbad Leutasch",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6762",
+    "faxNumber": "(0043) ",
+    "email": "info@skischule-leutasch.at",
+    "url": "http://www.skischule-leutasch.at"
+  },
+  "description": "Wir freuen uns, dass Sie die vielfältigen Schneesportarten in unserer Skischule erlernen oder verbessern möchten.\n\nWir stehen für individuelles Lernen, optimale Betreuung, Spaß, Freude, Abwechslung und Sicherheit. Unsere bestens ausgebildeten Lehrer bereiten Ihnen unvergessliche Tage im Schnee.\n\nLANGLAUFEN:\nUnser Langlaufbüro und den Übungspark finden Sie neben dem neuen Alpenbad in der ErlebnisWelt Alpenbad Leutasch in Weidach. \n\nFreundliche, bestens ausgebildete Langlauflehrer zeigen Ihnen zielführend und abwechslungsreich alles, was Sie für dieses Vergnügen wissen müssen.\n\nUnsere Langlaufschule verfügt über einen neuen Übungspark der an den modernsten Lernmethoden ausgerichtet ist und Geländeformen enthält wie Wellenbahn, Abfahrten, Synchronloipen usw., die für unsere Schüler die besten Voraussetzungen zum Lernen bieten. \n\nDie Nachtloipe ist an 7 Tagen die Woche bis 20.00 Uhr beleuchtet.\n\nWir freuen uns auf Sie!\nTeam der Skischule Leutasch \u0026 Skischulleiter Christoph Schwarz \n\nBüro Nordisch und Verleih\nErlebnisWelt Alpenbad\nLeutasch 275b\nA-6105 Leutasch\nTel.: +43 5214 6762\nE-Mail: Skischule Leutasch info@skischule-leutasch.at",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2367aaca-801c-46ce-b5de-7ee958525761/99/image.jpg",
+      "caption": "logo"
+    }
+  ]
+}

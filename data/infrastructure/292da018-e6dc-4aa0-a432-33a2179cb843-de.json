@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Store"
+  ],
+  "name": "Holzbildhauerei Röck",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3277121720347",
+    "longitude": "11.18732213974"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Holzbildhauerei Röck",
+    "streetAddress": "Innsbrucker Str. 20",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 5617183",
+    "email": "office@holzbildhauerei-roeck.at",
+    "url": "http://www.holzbildhauerei-roeck.at"
+  },
+  "description": "Dienstag bis Samstag von 9.00 bis 18.00 Uhr durchgehend geöffnet.\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f7efb72a-c8c7-45c3-9b00-8f2378c4b1be/99/image.jpg",
+      "caption": "Piktogramm Shopping"
+    }
+  ],
+  "url": [
+    "http://www.holzbildhauerei-roeck.at"
+  ]
+}

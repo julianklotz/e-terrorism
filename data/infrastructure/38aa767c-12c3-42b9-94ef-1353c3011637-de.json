@@ -1,0 +1,29 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation"
+  ],
+  "name": "Eisschießbahnen beim Birklstüberl, Eisstockbahn",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3351158",
+    "longitude": "11.1910458"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Birklstüberl",
+    "streetAddress": "Kurhotelpromenade 79",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2322"
+  },
+  "description": "3 Bahnen, täglich von 10.00 - 22.00 Uhr außer Di., 1/2 Tag mit Leihstock 6€\nKunsteis",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/95cd4cbb-e133-4e24-b6e0-68e4b8100f28/99/image.jpg",
+      "caption": "Eisstockschießen"
+    }
+  ]
+}

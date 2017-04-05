@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "HealthAndBeautyBusiness",
+    "BeautySalon"
+  ],
+  "name": "Wanner Walter, Massage",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2648"
+  },
+  "description": [
+    "Sport- und Heilmassage-Fachpraxis.\nAlle Massagetechniken, Aromawickel zum Entfigten, Entschlacken, Wohlfühlen.\n\nTermine nach telefonischer Vereinbarung - Preise auf Anfrage - je nach Behandlung",
+    "Sport- und Heilmassage-Fachpraxis.\nAlle Massagetechniken, Aromawickel zum Entfigten, Entschlacken, Wohlfühlen.\n\nTermine nach telefonischer Vereinbarung - Preise auf Anfrage - je nach Behandlung"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1b6e2afe-8000-426e-8e6c-ce2de8d8e065/99/image.jpg",
+      "caption": "Wanner Walter"
+    }
+  ]
+}

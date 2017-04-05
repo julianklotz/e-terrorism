@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure"
+  ],
+  "name": "Parkplatz Seewaldalm",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Parkplatz Seewaldalm",
+    "streetAddress": "Möserer Dorfstr. 40",
+    "addressLocality": "Mösern",
+    "postalCode": "6100",
+    "addressCountry": "AT"
+  },
+  "description": [
+    "für Busse und PKW",
+    "für Busse und PKW"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0293aa7a-b204-4c23-9735-7ea362193c08/99/image.jpg",
+      "caption": "bei der Seewaldalm"
+    }
+  ]
+}

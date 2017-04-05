@@ -1,0 +1,261 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "https://leutasch.panomax.com/",
+    "http://www.katznerhof.com",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Katznerhof",
+    "streetAddress": "Weidach 297",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6903",
+    "faxNumber": "(0043) 5214 6903 4",
+    "email": "katznerhof@aon.at",
+    "url": "http://www.katznerhof.com"
+  },
+  "name": "Katznerhof",
+  "description": [
+    "Wir verwöhnen unsere Gäste in unserem rustikalen, gemütlich eingerichteten Haus. Erleben Sie die ruhige, zentrale Lage und den herrlichen Blick über die angrenzende Wiese auf die \"Hohe Munde\". Der Weidachsee liegt ganz in der Nähe. Im Sommer genießen Sie freien Eintritt ins Alpenbad und im Winter kostenlose Loipenbenützung. Fahrräder stehen kostenlos zur Verfügung. Haustiere leider nicht erlaubt.",
+    "\nUnsere Preise verstehen sich inklusive allem. Es fallen lediglich Ortstaxe, Endreinigung (einmalig € 25,- pro Whg.) sowie Telefongesprächsgebühren an.",
+    "\nCheck- In 15.00 Uhr / Check-Out 11.00 Uhr Weg: Unser Haus liegt in der Nähe des Weidachsee´s, neben dem Arzthaus (Dr. Heis mit Hausapotheke), gegenüber dem Quellenhof."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e8d8bc40-73a4-46f8-9702-b4ac1a0ee21d/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/69e9f19f-3e2d-47db-a0d9-f51f638ec922/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/bd8461af-e2ea-4f6e-8452-691a19729db5/99/image.jpg",
+      "caption": "Blumenrad"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7895e009-bfe1-4671-8151-aec727771fad/99/image.jpg",
+      "caption": "Blumenrondel"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5f01c03c-b9a8-42d5-95b9-cbc88c409e66/99/image.jpg",
+      "caption": "Panorama"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d2e2ccd8-9694-4c48-bd0e-7d38cc7d78dc/99/image.jpg",
+      "caption": "Katznerkapelle"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/264041d5-25f6-4075-931d-31b58e36e9e0/99/image.jpg",
+      "caption": "Whg Alpenrose Wohnzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ccbd8dd5-f19e-4daa-a2d6-6adb3c6e9339/99/image.jpg",
+      "caption": "Whg Alpenrose Schlafzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/dac5336e-8ef2-49bf-b509-d1d9cc3ec233/99/image.jpg",
+      "caption": "fahrraeder0508"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/478a31df-8ee0-424b-a5a1-fde7aa09a8a3/99/image.jpg",
+      "caption": "050305-1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4057dffb-fe08-44ec-804e-80c2f4a451fe/99/image.jpg",
+      "caption": "HausSommerHomeAway"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c63b6fbd-a26b-48aa-ba5d-25da928f3fec/99/image.jpeg",
+      "caption": "Enten2"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.369586719804",
+    "longitude": "11.159043703962"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche oder Bad, WC, 1 Schlafraum",
+      "description": "50m², Wohnschlafraum mit Kochnische, Schlafzimmer, Vorraum, Südbalkon, für 2-5 Personen, komfortable Ausstattung inkl. Wäsche;",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Alpenrose/1 Schlafraum/Dusche od. Bad,WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "34.00",
+          "maxPrice": "60.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "39.00",
+          "maxPrice": "66.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "45.00",
+          "maxPrice": "72.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "51.00",
+          "maxPrice": "78.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "57.00",
+          "maxPrice": "84.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "41 m², Wohnschlafraum mit Kochnische, Schlafzimmer, Vorraum, Südbalkon, für 2-4 Personen, komfortable Ausstattung inkl. Wäsche;",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Edelweiß/1 Schlafraum/Dusche, WC",
+          "description": "41m², Wohnschlafraum mit Kochnische, Schlafzimmer, Vorraum, Südbalkon, für 2-4 Personen, komfortable Ausstattung inkl. Wäsche; ",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "30.00",
+          "maxPrice": "62.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "37.00",
+          "maxPrice": "66.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "42.00",
+          "maxPrice": "72.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "47.00",
+          "maxPrice": "78.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "41 m², Wohnschlafraum mit Kochnische, Schlafzimmer, Vorraum, Südbalkon, für 2-4 Personen, komfortable Ausstattung inkl. Wäsche;",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Enzian/1 Schlafraum/Dusche, WC",
+          "description": "41m², Wohnschlafraum mit Kochnische, Schlafzimmer, Vorraum, Südbalkon, für 2-4 Personen, komfortable Ausstattung inkl. Wäsche;",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "30.00",
+          "maxPrice": "62.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "38.00",
+          "maxPrice": "68.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "43.00",
+          "maxPrice": "74.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "48.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Landform",
+    "Hostel"
+  ],
+  "name": "Pfeishütte",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3300028179398",
+    "longitude": "11.4255827665329"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Pfeishütte",
+    "streetAddress": "OeAV Alpenverein Innsbruck",
+    "addressLocality": "Innsbruck",
+    "postalCode": "6020",
+    "addressCountry": "AT",
+    "telephone": "(0043)664 9148434",
+    "email": "info@pfeishuette.at",
+    "url": "http://www.pfeishuette.at"
+  },
+  "description": "Nur im Sommer geöffnet! Übernachtungsmöglichkeit für 75 Personen, Stempelstelle\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b8550d5b-95fe-4b0d-a3b8-fa950409f9fd/99/image.jpg",
+      "caption": "Pfeishütte"
+    }
+  ],
+  "url": [
+    "http://www.pfeishuette.at",
+    "http://www.karwendel.org"
+  ]
+}

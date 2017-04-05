@@ -1,0 +1,41 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CafeOrCoffeeShop",
+    "Restaurant"
+  ],
+  "name": "Gasthof Ramona",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3785643155603",
+    "longitude": "11.2372746816147"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Gasthof Ramona",
+    "streetAddress": "Giessenbach 310",
+    "addressLocality": "Scharnitz",
+    "postalCode": "6108",
+    "addressCountry": "AT",
+    "telephone": "+4352135541",
+    "email": "info@gasthof-ramona.at",
+    "url": "http://www.gasthof-ramona.at"
+  },
+  "description": "Sitzplätze für ca. 150 Personen, Vogelpark, Stempelstelle",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/bdc13fe9-597b-42d8-b469-ec8920533516/99/image.jpg",
+      "caption": "Gasthof Ramona"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e414ae78-0d16-495b-bfd6-5f2ea62ee468/99/image.jpg",
+      "caption": "Ramona Winter"
+    }
+  ],
+  "url": [
+    "http://www.gasthof-ramona.at",
+    "http://www.seefeld.com"
+  ]
+}

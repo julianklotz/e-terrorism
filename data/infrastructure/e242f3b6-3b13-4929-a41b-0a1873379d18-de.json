@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BarOrPub"
+  ],
+  "name": "Britannia Pub",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.329415622149",
+    "longitude": "11.1860507726669"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Britannia Pub",
+    "streetAddress": "Olympiastr. 101",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2191",
+    "email": "kaltschmid@kaltschmid.info",
+    "url": "http://www.fundisco.at"
+  },
+  "description": "Spielerherzen höher schlagen lassen. Bei Dart, Billard oder Races mit Autorennsimulatoren können Sie Ihr Können unter Beweis stellen. Hier ist Spaß angesagt. Lassen Sie ihrem Spieltrieb freien Lauf und amüsieren Sie sich bei geselligen Abenden mit Ihren Freunden. SKY TV",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5111699f-c2e2-48f8-a2a0-621483fc447f/99/image.jpg",
+      "caption": "Britannia Inn"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/88a19faa-179d-4e14-926a-3e3ce86bb1d6/99/image.jpg",
+      "caption": "Britannia Logo"
+    }
+  ],
+  "url": [
+    "http://www.fundisco.at"
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "Ladies Night im Casino Seefeld",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Casino Seefeld",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Bahnhofstr. 124",
+      "addressLocality": "Seefeld",
+      "postalCode": "6100",
+      "addressCountry": "AT",
+      "telephone": "+4352122340",
+      "email": "info@casinos.at",
+      "url": "http://www.seefeld.casinos.at"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Casino Seefeld",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Bahnhofstr. 124",
+      "addressLocality": "Seefeld",
+      "postalCode": "6100",
+      "addressCountry": "AT",
+      "telephone": "+4352122340",
+      "email": "info@casinos.at",
+      "url": "http://www.seefeld.casinos.at"
+    }
+  },
+  "description": "Prickelnde Momente, glanzvolle Augenblicke, außergewöhnliche Gewinne –  jeden Mittwoch bei der Ladies Night. Nehmen Sie an tollen Gewinnspielen mit beeindruckenden Preisen teil! Weitere Informationen auf www.seefeld.casinos.at.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/80bbc1e4-157f-4ff5-9aa7-c8a5dba95228/99/image.jpg",
+      "caption": "Casino 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/770e9a4b-cf07-4321-9e95-7f6f6b938683/99/image.jpg",
+      "caption": "Casino"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/006e47ea-e5ff-4033-8a7c-a1053be72c69/99/image.jpg",
+      "caption": "Casino 1"
+    }
+  ],
+  "url": [
+    "http://www.seefeld.casinos.at"
+  ],
+  "startDate": "2017-03-29T14:00:00",
+  "endDate": "2017-10-25"
+}

@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure",
+    "LocalBusiness"
+  ],
+  "name": "Daniela Baumann Immobilien",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3923945",
+    "longitude": "11.1755897"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Puitbach 222a",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 405 2376",
+    "email": "baumann.daniela@aon.at",
+    "url": "http://immobilien-baumann.at"
+  },
+  "description": "Puitbach 222a/Top 1, 6105 Leutasch\nTelefon:  +43 (0) 5214 20 30 1\nMobiltelefon:  +43 (0) 664 405 23 76\nE-Mail:  baumann.daniela@aon.at",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d52f4dcc-cfcc-4921-b613-e11e6444d070/99/image.jpg",
+      "caption": "Büro"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/74a0dddf-1b7f-4636-97e5-2c7dccba0ce5/99/image.jpg",
+      "caption": "Immobilien Baumann"
+    }
+  ],
+  "url": [
+    "http://immobilien-baumann.at"
+  ]
+}

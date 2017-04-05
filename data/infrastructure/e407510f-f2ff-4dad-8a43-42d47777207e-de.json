@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation"
+  ],
+  "name": "Reitanlage an der Leutascher Straße, Reiten",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3368741596015",
+    "longitude": "11.1791467666626"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Reitanlage Leutascher Str.",
+    "streetAddress": "Leutascherstr. 684",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043)067684114830",
+    "url": "http://www.reitclub-seefeld.at"
+  },
+  "description": [
+    " ",
+    "Reithalle (20 x 60 m), Außenplatz, Reitunterricht für Anfänger und Fortgeschrittene, Kleinpferde für Kinder, Ausritte \u0026 Urlaub mit dem Pferd auf Anfrage."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e01733f3-1c13-40a4-976d-3659d0c029ef/99/image.jpg",
+      "caption": "Piktogramm"
+    }
+  ],
+  "url": [
+    "http://www.reitclub-seefeld.at"
+  ]
+}

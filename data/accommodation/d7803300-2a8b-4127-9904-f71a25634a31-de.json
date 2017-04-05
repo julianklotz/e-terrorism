@@ -1,0 +1,221 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.haus-waldheim.info",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Waldheim \u0026 Dependance",
+    "streetAddress": "Hirlanda-Ellmann-Weg 180",
+    "addressLocality": "Scharnitz",
+    "postalCode": "6108",
+    "addressCountry": "AT",
+    "telephone": "+43521320180",
+    "email": "haus-waldheim@aon.at",
+    "url": "http://www.haus-waldheim.info"
+  },
+  "name": "Haus Waldheim \u0026 Dependance",
+  "description": [
+    "Unser Haus befindet sich in ruhiger, sonniger Lage.\nIm Sommer idealer Ausgangspunkt für schöne Wanderungen oder Mountainbiketouren.\nIm Winter direkt an der Loipe gelegen oder mit dem Skibus stressfrei in die angrenzenden Skigebiete. \nDas ideale Urlaubsziel für die ganze Familie. \nKinderermäßigung auf Anfrage!",
+    "Inkl.: Bett- \u0026 Tischwäsche, Handtücher, Betriebskosten, SAT-TV, Brötchenservice\nExkl.: Endreinigung, Ortstaxe, Frühstücksservice auf Wunsch, Telefon\n\nCheck in: ab 14.00 Uhr\nCheck out: 10.00 Uhr",
+    "Anreise: Sie erreichen uns von München aus kommend mautfrei über Garmisch-Partenkirchen. Hinter der Grenze, nach ca. 500m links einbiegen (Hirlanda-Ellmann-Weg). Nun sind es nur noch ca. 150m und Sie haben Ihr Urlaubsziel erreicht. "
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "reviewCount": "19"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8f7dc763-ee14-4fbf-8a20-0a3c8acceedd/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ee15a631-b628-4fdf-a999-be342ead490e/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/53daa0b5-c706-4c25-a3cc-ff9055a00e04/99/image.jpg",
+      "caption": "Frühstück"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3eb96a9c-a99a-4c99-94ef-4cd0e39c3d08/99/image.jpg",
+      "caption": "Sommer2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8010bcac-550f-49d5-b755-827254ef0fad/99/image.jpg",
+      "caption": "Aussicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b54dc11d-8eb0-4860-841e-25fea2f04d53/99/image.jpg",
+      "caption": "Haus Waldheim"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/07bda700-f875-4405-aa9b-5a156bf57974/99/image.jpg",
+      "caption": "Dependance"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/054281ae-69a2-45ff-907d-d9b8a1abdbc8/99/image.jpg",
+      "caption": "Dependance 1"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3888755818898",
+    "longitude": "11.2598361711639"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Dependance Waldheim Top 1: ruhige 60 m² EG-Wohnung mit Garten und Carport- 1 Doppelzimmer mit Tiroler Qualitäsmöbeln im ländlichen Stil, durch eine Schiebetür verbunden mit dem gemütlichen Wohnzimmer mit sonniger Erkerecke, große Wohnküche mit schönem Essbereich, Badezimmer und WC, für 2 - 4 Personen",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement D1 /1 Schlafraum, Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "55.00",
+          "maxPrice": "60.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "60.00",
+          "maxPrice": "70.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "75.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 2 Schlafräume",
+      "description": "Dependance Waldheim Top 2: ruhige und helle 65 m² Wohnung mit Balkon, 1 Doppelzimmer mit Tiroler Qualitäsmöbeln im ländlichen Stil, ein zusätzlicher Schlafraum (Verbindungszimmer), Wohnküche mit schönem Essbereich, Vorzimmer, Badezimmer und WC, für 2 - 6 Personen",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement D2 / 2 Schlafraum, Bad, WC",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "55.00",
+          "maxPrice": "65.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "65.00",
+          "maxPrice": "75.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "75.00",
+          "maxPrice": "85.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "85.00",
+          "maxPrice": "95.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "95.00",
+          "maxPrice": "110.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, Erdgeschoß/Parterre",
+      "description": "Dependance Waldheim Top 3: ruhige 36 m² EG-Wohnung mit direktem Gartenzugang- 1 Wohnschlafraum mit Tiroler Qualitäsmöbeln im ländlichen Stil sowie schöne Wohnküche mit Essbereich, Badezimmer mit Dusche und WC, für 2 - 4 Personen",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement D3/ Wohn-Schlafraum, Dusche WC",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "50.00",
+          "maxPrice": "55.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "50.00",
+          "maxPrice": "65.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

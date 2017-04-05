@@ -1,0 +1,154 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://web4.deskline.net/seefeld/de/accommodation/detail/SEE/d113ae64-dcfc-412f-be82-555d3cca8512/ferienhaus_ruef",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Ferienhaus Ruef",
+    "streetAddress": "Kirchplatz 132",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5262 62744",
+    "email": "ferienhaus.ruef@gmail.com"
+  },
+  "name": "Ferienhaus Ruef",
+  "description": [
+    "Sie sehnen sich nach Ruhe und Erholung. Vermieten traumhaftes Ferienhaus in sonniger und ruhiger Lage für Sommer- und Winterurlaub. Top Ausstattung - für 2-9 Personen. Fotos der Räumlickeiten werden auf Anfrage übermittelt. Es lohnt sich!",
+    "Exklusive: Endreinigung, Ortstaxe, Haustiere\nKinderermäßigung!"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2fc02063-8ae2-4ae5-a4c7-7e1f1fd4e208/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c67ba857-6110-4cc5-a2e5-576aa22ead55/99/image.jpg",
+      "caption": "Logo "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7780c6a5-3828-4e57-b804-622359b330db/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b91a9f6f-dd9c-4747-a8af-b18d460032c6/99/image.jpg",
+      "caption": "Haus Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5ee82f33-76db-4ffe-8b46-c9eb1c9534b6/99/image.jpg",
+      "caption": "Haus Sommer 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4ebd32ac-386c-48a8-a9db-5ae7080c9aac/99/image.jpg",
+      "caption": "Winter in Leutasch"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5ad1610a-f3ac-4823-94d6-81f638eef86c/99/image.jpg",
+      "caption": "Hausflur"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/862522bb-85ba-481e-a619-29bbc16738b1/99/image.jpg",
+      "caption": "Aussicht Winter"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.36961535049",
+    "longitude": "11.139830840136"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Ferienhaus, Dusche und Bad, WC, 4 oder mehr Schlafräume",
+      "description": "Sie sehnen sich nach Ruhe und Erholung. Vermieten traumhaftes Ferienhaus in sonniger und ruhiger Lage für Sommer- und Winterurlaub. Top Ausstattung, (für 2 - 9 Personen). Fotos der Räumlickeiten werden auf Anfrage übermittelt. Es lohnt sich!",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartment/4 od. mehr Schlafr./Du,Bad,WC",
+          "numberOfRooms": "5.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "10",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "24.00",
+          "maxPrice": "24.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "24.00",
+          "maxPrice": "24.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "24.00",
+          "maxPrice": "24.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "24.00",
+          "maxPrice": "24.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "24.00",
+          "maxPrice": "24.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 7",
+          "minPrice": "24.00",
+          "maxPrice": "24.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 8",
+          "minPrice": "24.00",
+          "maxPrice": "24.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 9",
+          "minPrice": "24.00",
+          "maxPrice": "24.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

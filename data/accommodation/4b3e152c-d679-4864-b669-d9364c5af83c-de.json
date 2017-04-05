@@ -1,0 +1,109 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.landhausspari.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Landhaus Spari",
+    "streetAddress": "Münchnerstrasse 800",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 5110",
+    "faxNumber": "(0043) 5212 5110",
+    "email": "adolf.spari@aon.at",
+    "url": "http://www.landhausspari.at"
+  },
+  "name": "Landhaus Spari",
+  "description": "Das Haus ist am Waldrand gelegen und verfügt über 2 Wohnungen. Die W1 ist ca. 100 m² groß und wurde mit 3 Schlafzimmern, Küche mit Geschirrspüler, Bad und sep. WC ausgestattet. Die W2 ist ca. 40 m² groß und hat 1 Schlafzimmer, Wohnraum mit Kochnische und Geschirrspüler sowie ein Bad. Die Wohnungen sind mit Sat-TV und einem CD-Player ausgestattet. Die Schibushaltestelle für die Rosshütte befindet sich vor dem Haus. Zur Ortsmitte sind es ca. 10 Gehminuten. Der Eintritt in das Olympiabad in Seefeld ist im Winter kostenlos.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/275b9e4b-1fed-465c-a175-9be242f677b3/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/57d94fa4-5288-4a49-9695-0609907bd78e/99/image.jpg",
+      "caption": "Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3365142543708",
+    "longitude": "11.1951327323914"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 3 Schlafräume",
+      "description": "Das Appartement befindet sich im 1. Stock mit Balkon, 3 Schlafzimmern, Küche, Bad und 1 WC separat. Ausgestattet mit Geschirrspüler, SAT-TV, Radio und einem Kamin.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Landhaus Spari/3 Schlafräume/Dusche, Bad",
+          "numberOfRooms": "4.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "8",
+            "minValue": "4"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 1 Schlafraum",
+      "description": "Die Wohnung is 40 m² groß. Sie besteht aus einem Wohnraum mt Essecke, einer voll ausgestatteten Küche mit Geschirrspüler, Bad und 1 Schlafzimmer.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Landhaus Spari/1 Schlafraum/Bad, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "55.00",
+          "maxPrice": "55.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "75.00",
+          "maxPrice": "75.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "90.00",
+          "maxPrice": "90.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

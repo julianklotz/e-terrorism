@@ -1,0 +1,301 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.ferienwohnung-leutasch.info",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf",
+    "http://youtu.be/2DruHNth2Pc"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Apartmenthaus Bader",
+    "streetAddress": "Ostbach 9",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 40 400 93",
+    "email": "info@ostbacher-stern.at",
+    "url": "http://www.ferienwohnung-leutasch.info"
+  },
+  "name": "Apartmenthaus Bader",
+  "description": [
+    "Das Appartementhaus Bader, im sonnig ruhigen Ortsteil Ostbach gelegen, vermietet Ihnen liebevoll eingerichtete Appartements, in denen Sie gemütlich wie zu Hause wohnen und \"Ferien machen\" können.\nAuf unserer großen windgeschützten Liegewiese mit Gartengrill werden Sie sich garantiert wohlfühlen. Für Ihren Pkw sind überdachte Unterstellplätze vorhanden.\n\nIn unmittelbarer Nähe in Leutasch und Seefeld finden Sie Geschäfte, Cafés und Restaurants. Direkt am Appartementhaus Bader vorbei verläuft im Winter die Langlauffloipe. Insgesamt finden Sie 262 km Langlaufloipen in allen Schwierigkeitsgraden - ob klassisch oder im Skatingstil für Ihren Lang",
+    "Inklusive:\n\nStrom, Wasser, Heizung, überdachter Autoabstellplatz, SAT-TV, 1 Kinderspielraum, Schiraum, Tischwäsche, Hand- und Geschirrtücher, Bettwäsche, Mikrowelle, Toaster, Kühlschrank, teilweise Geschirrspüler, Sauna zweimal pro Woche\n\nExklusive:\n\nOrtstaxe, Telefongesprächskosten, Brötchenservice, keine Hunde erlaubt, \n",
+    "Auto: Vom Norden über München-Garmisch-Mittenwald-Leutasch\n(Leutasch ist MAUTFREI erreichbar)\nVom Westen über den Arlberg-Telfs-Leutasch.\nVom Süden her über den Brennerpass-Innsbruck-Seefeld-Leutasch.\nVom Osten aus über Innsbruck-Seefeld-Leutasch.\n\nBahn: Mit der Bahn fahren Sie nach Seefeld oder bis Mittenwald.\nweiter mit Bus oder Taxi \nAnreise ab 14.00 Uhr, Abreise bis 10.00 Uhr",
+    "Apartmenthaus Ferienwohnung Leutasch Frühstückspension Komfortzimmer Ostbach Sauna Garage Loipennahe"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "reviewCount": "92"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/bd14deba-a294-4a1a-9435-3beb7f216e8c/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9aafe80f-e8ea-4f70-8f5d-ac8053bf0e17/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0aa6aac0-11b1-4717-88eb-b6d0f7f2df11/99/image.jpg",
+      "caption": "Hausnamen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d11e663d-7786-4e7d-aab8-47666f176d80/99/image.jpg",
+      "caption": "Sauna"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/48741a64-800f-40de-9956-e5487bd67540/99/image.jpg",
+      "caption": "Winteridylle"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7c25e22a-fdaa-4192-b844-399824a52521/99/image.jpg",
+      "caption": "Winterlandschaft"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/742995c6-71e0-4ffb-9d5c-c0073d9a8b0a/99/image.jpg",
+      "caption": "Frühstücksraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4a1016c6-3404-483a-a94f-89ecd96f62e1/99/image.jpg",
+      "caption": "Skiraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/079fcb15-d61d-4607-9f94-0aa29c16deea/99/image.jpg",
+      "caption": "Frühstückstisch"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3592089",
+    "longitude": "11.1351481"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Studio, Dusche, WC, Terrasse",
+      "description": "Liebevoll eingerichtetes Einraumappartement mit Terrasse in ruhiger, sonniger Lage. Küchenzeile mit Wasserkocher, Mikrowelle, Herdplatte, Toaster, Kaffeemaschine Kühlschrank mit Eisfach,  Queen-size Bett, Esstisch mit Sitzecke. Zugang zum großen Garten, Badezimmer mit Dusche und WC,",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Studio mit Terrasse",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "32.00",
+          "maxPrice": "62.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "40.00",
+          "maxPrice": "74.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "50.00",
+          "maxPrice": "86.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Studio, Dusche, WC, Balkon",
+      "description": "Liebevoll eingerichtetes Einraumappartement mit Balkon in ruhiger, sonniger Lage. Küchenzeile mit Wasserkocher, Mikrowelle, Herdplatte, Toaster, Kaffeemaschine Kühlschrank mit Eisfach,  Queen-size Bett, Esstisch mit Sitzecke. möblierter Balkon, Badezimmer mit Dusche und WC,",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Studio mit Balkon",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "30.00",
+          "maxPrice": "50.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "38.00",
+          "maxPrice": "58.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Liebevoll eingerichtetes Zweiraumappartement mit Balkon in ruhiger, sonniger Lage. Küche mit Geschirrspüler, Mikrowelle, Toaster, Wasserkocher, Kaffeemaschine. Schlafzimmer mit Queen-size Bett. Wohnraum mit Couch, Esstisch, Flat-TV, Badezimmer mit Dusche und WC.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Arnika / mit Balkon",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "82.00",
+          "maxPrice": "82.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "46.00",
+          "maxPrice": "82.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Liebevoll eingerichtetes Zweiraumappartement mit Balkon in ruhiger, sonniger Lage. Küche mit Geschirrspüler, Mikrowelle, Toaster, Wasserkocher, Kaffeemaschine. Schlafzimmer mit Queen-size Bett. Wohnraum mit Couch, Esstisch, Flat-TV, Badezimmer mit Dusche und WC.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Steinrösl, Alpenrose /Balkon",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Langlauf, Steinrösl, Alpenrose /Balkon",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "90.00",
+          "maxPrice": "90.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "90.00",
+          "maxPrice": "90.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "100.00",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "100.00",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Liebevoll eingerichtetes Zweiraumappartement mit Balkon in ruhiger, sonniger Lage. Küche mit Geschirrspüler, Mikrowelle, Toaster, Wasserkocher, Kaffeemaschine. Schlafzimmer mit Queen-size Bett. Wohnraum mit Couch, Esstisch, Flat-TV, Badezimmer mit Dusche und WC.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Alpenrebe, Akelei /Balkon",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "120.00",
+          "maxPrice": "120.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

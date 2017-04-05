@@ -1,0 +1,68 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.appartement-martin.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Martin",
+    "streetAddress": "Föhrenwald 30",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 3802066",
+    "faxNumber": "(0043) 5214 515214",
+    "email": "doris.heel@hotmail.de",
+    "url": "http://www.appartement-martin.at"
+  },
+  "name": "Haus Martin",
+  "description": [
+    "Das Haus Martin liegt in absolut ruhiger Lage im Föhrenwald-Ortsteil Weidach. Hinter dem Haus führt Sie der Achenweg direkt zu den Loipen und Wanderwegen. Unsere Sauna steht nach Anmeldung zur Verfügung.",
+    "inkl: Heizung, Wasser, Strom, Sauna\nexkl: Ortstaxe, Endreinigung",
+    "von Osten Autobahn A12/Exit Zirl Ost + 12 km\nvon Norden mautfrei über Garmisch Partenkirchen + 35 km\nvon Westen Autobahn A12 / Exit Zirl, Telfs Ost + 12 km\n\nBahn: \"Karwendelbahn\" Innsbruck - Garmisch Patenkirchen Seefeld ist Schnellzugstation"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a11b75b0-adc5-4fa4-99a8-97f3fa1b5982/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a01170e4-7017-4c79-aa42-c936af796b69/99/image.jpg",
+      "caption": "Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.373966399034",
+    "longitude": "11.166892794847"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 2 Schlafräume",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/2 Schlafräume/ 2 Bäder",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "4"
+          }
+        }
+      ]
+    }
+  ]
+}

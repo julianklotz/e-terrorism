@@ -1,0 +1,114 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.landhaus-solaris.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Landhaus Solaris",
+    "streetAddress": "Föhrenwald 35",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 1244181",
+    "email": "office@landhaus-solaris.at",
+    "url": "http://www.landhaus-solaris.at"
+  },
+  "name": "Landhaus Solaris",
+  "description": [
+    "Unser Haus liegt ca. 5 min vom Zentrum von Weidach entfernt in schöner ruhiger Lage. Fitnessmöglichkeiten sind im Haus vorhanden, Haustiere erlaubt.",
+    "INKLUSIVE: Heizung, Abstellplatz, Wasser, Strom, Fitnessraum, Wäsche, Handtücher;\nEXKLUSIVE: Endreinigung, Ortstaxe, Solarium, Haustiere € 3.--\nZAHLUNGSMÖGLICHKEITEN: Barzahlung, Bankomat, Kreditkarten (Visa + Mastercard)",
+    "Sie gelangen zu unserem Haus indem Sie von Seefeld bei der OMV Tankstelle rechts abbiegen beim M. Preis Richtung Föhrenwald fahren. Nach 300 m finden Sie uns auf der linken Seite."
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.3",
+    "reviewCount": "44"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2cc9419b-69cb-48cd-8792-ce8303ea16b4/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/927a5f87-f918-43e2-a8f5-3efbb06cd130/99/image.jpg",
+      "caption": "Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.374831509219",
+    "longitude": "11.168844830191"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Appartment vollausgestattet ca. 50 m² seperates Schlafzimmer und 2 getrennte Duschen + WC",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 2 Schlafräume",
+      "description": "Großzügiges Appartment mit 2 getrennten Schlafzimmern und Bad, Terrasse",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/2 Schlafräume/Bad, WC",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/1 Schlafraum/2 Duschen,2 WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

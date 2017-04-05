@@ -1,0 +1,19 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Andreas Hofer Str. 606 / Top B12",
+    "addressLocality": "Seefeld in Tirol",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "email": "office@margreiter-translation.com"
+  },
+  "name": "ZW - Margreither Mary",
+  "currenciesAccepted": "EUR"
+}

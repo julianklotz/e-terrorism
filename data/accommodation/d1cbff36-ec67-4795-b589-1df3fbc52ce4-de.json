@@ -1,0 +1,134 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.haus-salzburg.at"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Salzburg",
+    "streetAddress": "Am Klosterwald 665",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 660 7744888",
+    "email": "info@haus-salzburg.at",
+    "url": "http://www.haus-salzburg.at"
+  },
+  "name": "Haus Salzburg",
+  "description": [
+    "Herzlich willkommen bei Familie Pucher im Haus Salzburg in Seefeld in Tirol!\n\nDirekt am Waldrand, äußerst ruhig gelegen mit einem einzigartigen Panoramablick auf das Karwendelgebirge, Wetterstein und die Kalkkögel vermittelt Ihnen die Lage unseres Hauses ein Gefühl von grenzenloser Freiheit.\n\nIn unserem, mit 3 Edelweiß ausgezeichnetem, Nichtraucher-Haus erwarten Sie zwei, im rustikal Tiroler Stil mit originalen Vollholzmöbeln, eingerichtete Ferienwohnungen. Die im Parterre liegenden Appartements A und B eignen sich für 2 bzw. 4 Personen und sind aufgeteilt in Wohnzimmer mit Küche, in welchem im Appartement A die Couch zu einem Doppelbett umfunktioniert werden kann, getrenntes Schlafzimmer und Badezimmer mit Dusche/WC. Zu den weiteren Ausstattungsmerkmalen zählen eine Mikrowelle, ein Geschirrspüler und bei Wohnung B ein eigener Zugang zur Terrasse mit Garten. Als zusätzliches Service, gegen eine geringe Gebühr, bieten wir Ihnen im Haus Salzburg Waschmaschinenbenutzung, Garage, Infrarotkabine, W-Lan und Brötchenservice an.\n\nEin gemütlicher Spaziergang von nur 10 Gehminuten bringt Sie in die Fußgängerzone Seefelds, in welcher Sie eine gute Auswahl an Supermärkten finden, um Ihre Einkäufe für Ihren Selbstversorger-Urlaub vornehmen zu können. Andernfalls haben Sie auch die Möglichkeit mit dem kostenlosen Dorfbus in das Zentrum zu gelangen, für welchen sich die Haltestelle nur 100 m entfernt vom Haus Salzburg befindet. Ebenso bringt Sie der Dorfbus halbstündlich zu den Ski- und Regionsbushaltestellen oder zu anderen infrastrukturellen Einrichtungen bzw. zum Loipeneinstieg.\n\nAls qualitätsgeprüfte Langlauf-Unterkunft garantieren wir unseren Langlaufgästen eine kompetente Beratung und Auskunft rund um das Thema Langlauf in der Olympiaregion Seefeld. Pures Langlaufvergnügen auf 271 km perfekt präparierten Loipen wird für Anfänger und Profis geboten. Für einen abwechslungsreichen Winterurlaub sorgen auch 143 km geräumte Winterwanderwege, zauberhafte Schneeschuhtouren, Eislaufplätze und die Rodelbahnen. Für Ihren Skiurlaub und nonstop Pistenzauber bieten sich in Seefeld die Bergbahnen Rosshütte, der Gschwandtkopf, der Geigenbühel oder der Birkenlift.\n\nDie Olympiaregion Seefeld hat auch im Sommer viel zu bieten! Wanderungen und Radtouren in allen Schwierigkeitsgraden inmitten einer faszinierenden Bergkulisse, auch möglich in Verbindung einer Bergbahn. Natur belassene Badeseen und Kneippanlagen die zur Abkühlung einladen. Hausherr Dietmar ist als erfahrener Allroundsportler viel in der Region unterwegs und verrät Ihnen gerne seine schönsten Plätze am Sonnenplateau.\n\nWer in persönlicher und familiärer Atmosphäre entspannen möchte, sollte seinen Urlaub bei uns im Haus Salzburg in Seefeld in Tirol verbringen!\n\nIngrid \u0026 Dietmar Pucher",
+    "Inklusive: Heizung, Handtücher, Bettwäsche, Autoabstellplatz\nExklusive: Brot, Garage, Internet",
+    "Straße Richtung Leutasch am Ortsende bei Rotkreuzheim links abbiegen Richtung Klosterwald -\u003e Weg entlang bis 180° Kurve, danach 200m 3.Haus links auf Anhöhe, Tiefgarage liegt unterhalb des Hauses.Parkplätze am Haus oben, bzw. unterhalb der Garage."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/57840dbb-ce67-419a-acc2-feb2dfc7b399/99/image.jpg",
+      "caption": "Haus Salzburg Winter Seefeld in Tirol"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/74267158-cd65-41cb-8317-b98c95c7d2af/99/image.jpg",
+      "caption": "Haus Salzburg Sommer Seefeld in Tirol"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3326242130168",
+    "longitude": "11.1784091591835"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Behaglich Rustikal im Tiroler Stil eingerichtet.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement A",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "49.00",
+          "maxPrice": "89.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "49.00",
+          "maxPrice": "89.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "59.00",
+          "maxPrice": "99.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "69.00",
+          "maxPrice": "109.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Ferienwohnung B, welche aus einen Wohnzimmer mit Küche, einem Schlafzimmer und Dusche mit WC ausgestattet ist. Beide Ferienwohnungen sind im gemütlichen Tiroler Stil eingerichtet und mit allem Komfort, wie Geschirrspüler, LCD/LED Kabel-TV, Internet, Bettwäsche und Handtüchern ausgestattet. Weiters bieten wir Ihnen Terrassen- und Gartenbenützung an.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement B",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "49.00",
+          "maxPrice": "89.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "49.00",
+          "maxPrice": "89.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

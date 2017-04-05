@@ -1,0 +1,108 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": [
+      "Event"
+    ],
+    "name": "Indianische Schwitzhüttentage in der wunderschönen Leutasch",
+    "eventStatus": "http://schema.org/EventScheduled",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Hotel Quellenhof Leutasch",
+      "employee": {
+        "@type": "Person",
+        "givenName": "Familie",
+        "familyName": "Mitterhuber"
+      },
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Weidach 288",
+        "addressLocality": "Leutasch",
+        "postalCode": "6105",
+        "addressCountry": "AT",
+        "telephone": "(0043) 5214 6782",
+        "faxNumber": "(0043) 5214 6369 ",
+        "email": "info@quellenhof.at",
+        "url": "http://www.quellenhof.at"
+      }
+    },
+    "location": {
+      "@type": "Place",
+      "name": "Hotel Quellenhof Leutasch",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Weidach 288",
+        "addressLocality": "Leutasch",
+        "postalCode": "6105",
+        "addressCountry": "AT",
+        "telephone": "(0043) 5214 6782",
+        "faxNumber": "(0043) 5214 6369 ",
+        "email": "info@quellenhof.at",
+        "url": "http://www.quellenhof.at"
+      }
+    },
+    "description": "Eine kraftvolle Urzeremonie für Körper, Geist und Seele im Hotel Quellenhof in Leutasch, mit Roger Mattle und Hendrik Heidler. Informationen auf www.wegschamane.ch.",
+    "image": [
+      {
+        "@type": "ImageObject",
+        "url": "http://resc.deskline.net/images/SEE/1/58440684-e118-43bf-9483-eaf6742bb916/99/image.png",
+        "caption": "schwitzhütte"
+      }
+    ],
+    "startDate": "2017-06-05T13:30:00",
+    "endDate": "2017-06-10"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": [
+      "Event"
+    ],
+    "name": "Indianische Schwitzhüttentage in der wunderschönen Leutasch",
+    "eventStatus": "http://schema.org/EventScheduled",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Hotel Quellenhof Leutasch",
+      "employee": {
+        "@type": "Person",
+        "givenName": "Familie",
+        "familyName": "Mitterhuber"
+      },
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Weidach 288",
+        "addressLocality": "Leutasch",
+        "postalCode": "6105",
+        "addressCountry": "AT",
+        "telephone": "(0043) 5214 6782",
+        "faxNumber": "(0043) 5214 6369 ",
+        "email": "info@quellenhof.at",
+        "url": "http://www.quellenhof.at"
+      }
+    },
+    "location": {
+      "@type": "Place",
+      "name": "Hotel Quellenhof Leutasch",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Weidach 288",
+        "addressLocality": "Leutasch",
+        "postalCode": "6105",
+        "addressCountry": "AT",
+        "telephone": "(0043) 5214 6782",
+        "faxNumber": "(0043) 5214 6369 ",
+        "email": "info@quellenhof.at",
+        "url": "http://www.quellenhof.at"
+      }
+    },
+    "description": "Eine kraftvolle Urzeremonie für Körper, Geist und Seele im Hotel Quellenhof in Leutasch, mit Roger Mattle und Hendrik Heidler. Informationen auf www.wegschamane.ch.",
+    "image": [
+      {
+        "@type": "ImageObject",
+        "url": "http://resc.deskline.net/images/SEE/1/58440684-e118-43bf-9483-eaf6742bb916/99/image.png",
+        "caption": "schwitzhütte"
+      }
+    ],
+    "startDate": "2017-09-18T13:30:00",
+    "endDate": "2017-09-23"
+  }
+]

@@ -1,0 +1,29 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure",
+    "LocalBusiness"
+  ],
+  "name": "öffentliche Toilette am Apothekenparkplatz P8",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3315080454434",
+    "longitude": "11.1886954307556"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Apothekenparkplatz (P8)",
+    "streetAddress": "Münchner Str.",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043)52122241"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2cd2d08e-c651-4fd3-96b7-22bac8db0fdc/99/image.jpg",
+      "caption": "WC"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CafeOrCoffeeShop",
+    "Restaurant"
+  ],
+  "name": "Kaminstüberl/Sporthotel Raffl",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3703812105899",
+    "longitude": "11.1630369743439"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Raffl\u0027s Sporthotel - Das Hotel mit Herz",
+    "streetAddress": "Weidach 314 a",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6634",
+    "faxNumber": "(0043) 5214 6044",
+    "email": "info@rafflshotel.at",
+    "url": "http://www.rafflshotel.at"
+  },
+  "description": "Sitzplätze für ca. 150 Personen\n\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d11c3488-5755-4868-b0b4-e59783a43738/99/image.jpg",
+      "caption": "kaminstüberl"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/30cdea2c-e2cb-45fb-adb4-7dd6dcee52f2/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/049139e5-bafd-4b43-9b98-e03f1441f164/99/image.jpg",
+      "caption": "Kaminstüberl innen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/005ad731-a823-4720-9588-4005fe74495d/99/image.jpg",
+      "caption": "Kaminstüberl innen1"
+    }
+  ],
+  "url": [
+    "http://www.rafflshotel.at"
+  ]
+}

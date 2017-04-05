@@ -1,0 +1,37 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "GovernmentOffice",
+    "TouristInformationCenter"
+  ],
+  "name": "Informationsbüro Scharnitz",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3894707524778",
+    "longitude": "11.2650029674938"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Informationsbüro Scharnitz",
+    "streetAddress": "Innsbrucker Str. 282",
+    "addressLocality": "Scharnitz",
+    "postalCode": "6108",
+    "addressCountry": "AT",
+    "telephone": "+4350880540 ",
+    "faxNumber": "+4350880541",
+    "email": "info.scharnitz@seefeld.com",
+    "url": "http://www.seefeld.com"
+  },
+  "description": "Scharnitz - das Tor zum Karwendel\nMo-Fr: 9.00 -12.00 Uhr, Feiertage geschlossen.\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9f79efd4-338f-4d83-b96c-9bf1aecef09e/99/image.jpg",
+      "caption": "Infobüro Scharnitz"
+    }
+  ],
+  "url": [
+    "http://www.seefeld.com",
+    "http://www.karwendel.org"
+  ]
+}

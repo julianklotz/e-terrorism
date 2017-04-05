@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant"
+  ],
+  "name": "Kirchenwirt / Sporthotel Xander",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3703382367728",
+    "longitude": "11.1429322"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Sporthotel Xander",
+    "streetAddress": "Kirchplatzl 147",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6581",
+    "faxNumber": "(0043) 5214 6943",
+    "email": "info@xander-leutasch.at",
+    "url": "http://www.xander-leutasch.at"
+  },
+  "description": "Sitzplätze für ca. 25 Personen",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ba8f4948-fdf7-41bc-918e-8e73fc1680b3/99/image.jpg",
+      "caption": "Kirchenwirt"
+    }
+  ],
+  "url": [
+    "http://www.xander-leutasch.at"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation"
+  ],
+  "name": "Cross Country Academy Martin Tauber/Langlaufschule",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3272976635897",
+    "longitude": "11.1812281608582"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Cross Country Academy",
+    "streetAddress": "Klosterstr. 120",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "+43521250300",
+    "email": "info@xc-academy.com",
+    "url": "http://www.xc-academy.com"
+  },
+  "description": "Geöffnet von Anfang Dez. bis 31.03.2017, täglich von 9.00 - 18.00 Uhr\nRichtig spuren: Der 3-Tages-Langlauf Gruppenkurs Klassisch für Anfänger und Fortgeschrittene: Mo - Mi von 9.30 - 11.30 Uhr (3x 120 min.),\nKurspreis: € 95,00/ Pers. (volle Kurszeit ab 4 Pers., bis 3 Pers. 3 x 60 min.) Skating für Anfänger und Fortgeschrittene: Mo - Mi von 9.30 - 11.30 Uhr (3x 120 min.), Kurspreis: € 95,00/ Pers. (volle Kurszeit ab 4 Pers., bis 3 Pers. 3 x 60 min.) Die Unterrichtssprachen im Gruppenkurs sind Deutsch\nund Englisch! Kinderermäßigung (bis 14 Jahre) -10% Exklusives Lernen: Privatunterricht 60 min.: Klassisch oder Skating,\ntäglicher Unterricht. Videoanalyse auf Anfrage möglich! Kursdauer: 60 min., Kurspreis: € 60,00 (jede weitere Person € 15,00). Privatunterricht 120\nmin.: Klassisch oder Skating, täglicher Unterricht, Kursdauer: 120 min., Kurspreis: € 115,- (jede weitere Person € 15,-); Kinderermäßigung (bis 14 Jahre) -10% Gleiten wie die Profis: Der Material- und Wachsworkshop: Wachsworkshop (learning by doing),  Termin auf Anfrage, täglich möglich, Kursdauer: 60 min., max. 2 Personen/ Workshop, Kurspreis: € 60,00/ Pers. (jede weitere Person € 15,00).",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/45b4bf0a-d0fe-4fc3-9879-ee0e9879e284/99/image.jpg",
+      "caption": "Logo"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0e86519d-f4da-45d4-9ac1-c0e2b4d3a7a0/99/image.jpg",
+      "caption": "Piktogramm"
+    }
+  ],
+  "url": [
+    "http://www.xc-academy.com"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation"
+  ],
+  "name": "Kutschen-Fiaker Tiefenbrunner Otto",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.327137677004",
+    "longitude": "11.1880812048912"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Fiakerei Tiefenbrunner Otto",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 580 91 08 "
+  },
+  "description": "Kutschfahrten zu Ausflugszielen und Hütten in die Olympiaregion Seefeld. Abfahrt der Kutschen vom Fiakerstandplatz an der Innsbrucker Straße.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/888cc037-8cda-47b4-8976-83e2e578c3af/99/image.jpg",
+      "caption": "Fiakerei"
+    }
+  ]
+}

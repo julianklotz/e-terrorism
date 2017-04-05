@@ -1,0 +1,51 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "\"Tanz in den Mai\" mit Live Musik",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Leutascher Dorfstadl",
+    "employee": {
+      "@type": "Person",
+      "givenName": "Willie \u0026 Marion",
+      "familyName": "Schön"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Weidach 275b",
+      "addressLocality": "Leutasch",
+      "postalCode": "6105",
+      "addressCountry": "AT",
+      "telephone": "(0043) 5214 20143",
+      "email": "l.dorfstadl@A1.net",
+      "url": "http://www.dorfstadl-leutasch.at/"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Leutascher Dorfstadl",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Weidach 275b",
+      "addressLocality": "Leutasch",
+      "postalCode": "6105",
+      "addressCountry": "AT",
+      "telephone": "(0043) 5214 20143",
+      "email": "l.dorfstadl@A1.net",
+      "url": "http://www.dorfstadl-leutasch.at/"
+    }
+  },
+  "description": "Die Wirtsleute vom Dorfstadl laden alle herzlich zum \"Tanz in den Mai\" ein! Reservierungen unter Tel. +43680 2422184",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/22292b2d-d2a5-45d2-83bb-2753a802d05b/99/image.jpg",
+      "caption": "Dorfstadl"
+    }
+  ],
+  "startDate": "2017-04-30T20:00:00",
+  "endDate": "2017-04-30"
+}

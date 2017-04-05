@@ -1,0 +1,222 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.gaestehaushelga.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Gästehaus Helga",
+    "streetAddress": "Inrain 99",
+    "addressLocality": "Scharnitz",
+    "postalCode": "6108",
+    "addressCountry": "AT",
+    "telephone": "+4352135344",
+    "email": "helga@gaestehaushelga.at",
+    "url": "http://www.gaestehaushelga.at"
+  },
+  "name": "Gästehaus Helga",
+  "description": [
+    "Ankommen - abschalten - wohlfühlen! Das Gästehaus Helga in Scharnitz in der Olympiaregion Seefeld ist Ihr Ferienhaus für Ihren Wohlfühlurlaub!\n\nAn einem sonnigen, ruhigen Plätzchen, umringt von dem faszinierenden Karwendelgebirge und nur 10 Gehminuten vom Ortszentrum Scharnitz entfernt, könnte das Haus Helga nicht besser gelegen sein. Einen Schritt vor die Haustüre und Sie befinden sich inmitten des Naturparks Karwendel. Der ideale Ausgangspunkt für Ihre Erkundungstour auf den zahlreichen Wander- und Radwegen.\n\nDas Haus Helga wurde im alpinen Stil errichtet und bleibt der ländlichen Ursprünglichkeit Tirols treu. Verbunden mit der heutigen Technik und dem Komfort, unterstrichen mit liebevoller Dekoration strahlt das Haus einen ganz besonderen Charme aus. Das 1-Raum-Appartement und die 2-Raum-Appartements sind für bis zu 3 Personen geeignet. Alle Ferienwohnungen sind hochwertig ausgestattet und verfügen über sämtliche Geräte des täglichen Bedarfs. Genießen Sie am Balkon das Rauschen der Isar und den wunderbaren Blick auf die markanten Berggipfel. Die Badezimmer sind großzügig mit Dusche/WC und hellen Fliesen eingerichtet.\n\nNeben den Appartements verfügt das Haus auch über Doppelzimmer und einem Einzelzimmer. Extras wie ein eigener Kühlschrank, TV, Wasserkocher und zum Teil ein eigener Balkon tragen zusätzlich zu einem komfortablen Aufenthalt bei. Für einen schwungvollen Start in den Tag wird Ihnen gerne ein ausgewogenes Frühstück in dem einladenden Frühstücksraum zubereitet. Appartementgäste können die erste Mahlzeit am Tag gerne dazubuchen. Selbstverpfleger können sich in den Supermärkten in Seefeld, Leutasch oder im bayrischen Mittenwald eindecken. Nach vorheriger Rücksprache können Sie auch gerne Ihren lieben Vierbeiner mitnehmen.\n\nScharnitz ist der perfekte Urlaubsort für Ihren Sommer- und Winterurlaub. Ein breites Angebot an Freizeitaktivitäten wie Radfahren, Wandern, Bergsteigen, Langlaufen, Skitouren und Schneeschuhwanderungen und vieles mehr warten auf ambitionierte Sportler und Genießer. Für detaillierte Informationen wenden Sie sich direkt an die Gastgeberin Helga, die Ihnen jederzeit gerne Ihre Geheimtipps verrät.\nNeben der Gästebetreuung bietet Hausherrin Helga als staatlich geprüfte Heilmasseurin, exklusiv für ihre Gäste, ein ansprechendes Angebot an Behandlungen für Körper und Seele. Entspannen Sie nach einem langen Wandertag bei einer Fußreflexzonen- oder Ausgleichsmassage.\n\nErleben Sie Natur pur in Verbindung mit Tiroler Komfort im Gästehaus Helga in Scharnitz in der Olympiaregion Seefeld!\n\nAuf Ihr Kommen freut sich Helga Schallhart!\n",
+    "Inklusive: Frühstück (nur bei den Zimmern), Heizung, Strom\nExclusive: Haustier € 4,00 - 7,00, Endreinigung (bei den Appartements), Ortstaxe",
+    "Anreise ab 15:00 Uhr\nAbreise bis 10:00 Uhr"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "reviewCount": "138"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/36e0f578-1d49-47e5-b855-7996f4d80ce8/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/275e7eea-b09f-4e7c-887b-b8c5003fb09e/99/image.jpg",
+      "caption": "Ansicht Sommer Haus Helga"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/27fa3a84-2629-4eb2-9bf1-b40e44b79a14/99/image.jpg",
+      "caption": "Frühstücksraum Haus Helga Scharnitz"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.386705673463",
+    "longitude": "11.271110611637"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Doppelzimmer mit Doppelbetten 190x190cm\nTisch mit Stühlen kleiner Kühlschrank Fernseher\nkleiner Vorraum mit Kleiderschrank und Ablage\nDusche WC",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer",
+          "description": "Schlafraum Doppelbett 190x190cm kleiner Tisch mit 2 Stühlen Minikühlschrank Fernseher\nkleiner Vorraum mit Kleiderschrank\nDusche WC\nWestseite Ruhig",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "55.00",
+          "maxPrice": "55.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "35.00",
+          "maxPrice": "35.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Einzelzimmer, Dusche, WC",
+      "description": "Einbettzimmer mit Balkon Südseitig sonnig und ruhig\nBett 110x220cm\nTisch mit Stuhl\nAnrichte mit kleinen Kühlschrank Fernseher\nKleiderschrank\nBadezimmer mit Dusche WC",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Einzelzimmer",
+          "description": "Einzelzimmer 28qm\nmit Balkon Südseitig sonnig und ruhig\nEinzelbett 110x220cm\nKleiderschrank Anrichte mit kleinen Kühlschrank Fernseher Flachbild\nTisch mit Stuhl\nDusche WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "35.00",
+          "maxPrice": "35.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Studio, Dusche, WC",
+      "description": "Einraum Appartement mit Balkon 48qm Südseitig sonnig und ruhig\n\nSchlafecke mit franz. Bett 200x200cm Kleiderschrank\n\nKleine Küche mit Kühlschrank 2Plattenherd Anrichte mit Kochgeschirr\n\nEsstisch mit Bank und Stühle\n\nWohnzimmertisch mit Schlafcouch Relaxsessel und Fortailstuhl\nWohnzimmeranrichte\nFernsehtisch mit TV 26 Programme Kabelanschluss\n\nBadezimmer mit Dusche WC",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Studio",
+          "description": "Appartement 48qm mit Balkon Südseite Sonnig und Ruhig\nFranz. Bett 200x200cm Schlafecke Kleiderschrank\nkleine Küche Esstisch mit Bank und Stühlen\nWohnzimmertisch mit Schlafcouch Relaxsessel und Fortailstühle \nAnrichte Fernsehtisch mit TV\nDusche WC",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "50.00",
+          "maxPrice": "50.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "70.00",
+          "maxPrice": "70.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "85.00",
+          "maxPrice": "85.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Appartement mit 1 Schlafzimmer 56qm  Balkon schön ruhig Bergblick\n\nSchlafzimmer mit Doppelbett 220x220cm\nKleiderschrank\n\nKüche mit Küchenzeile Kühlschrank 2 Plattenherd Kaffeemaschine Toaster Wasserkocher komplettes Geschirr\nEssecke mit Eckbank Esstisch und Stühlen\n\nWohnraum mit Ausziehcouch Wohnzimmertisch und Fortails\nFernsehtisch mit TV 26 Programme Kabelanschluss\n\nVorraum mit Ablage und Schrank\nBadezimmer mit Dusche WC",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartements",
+          "description": "2 Raumappartement mit Balkon Dusche WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "50.00",
+          "maxPrice": "50.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "60.00",
+          "maxPrice": "60.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "70.00",
+          "maxPrice": "70.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

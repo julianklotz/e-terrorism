@@ -1,0 +1,52 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "9. Musiktage der Olympiaregion Seefeld - Schlussakkord III",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Faviola",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Walhallastr. 19",
+      "addressLocality": "München",
+      "postalCode": "80639",
+      "addressCountry": "DE",
+      "email": "info@musiktage-seefeld.at",
+      "url": "http://musiktage-seefeld.at"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Faviola",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Walhallastr. 19",
+      "addressLocality": "München",
+      "postalCode": "80639",
+      "addressCountry": "DE",
+      "email": "info@musiktage-seefeld.at",
+      "url": "http://musiktage-seefeld.at"
+    }
+  },
+  "description": "Abschlusskonzert der Meisterklassen für Violine und Violoncello! Eintritt frei, Spenden willkommen. Details auf www.musiktage-seefeld.at.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/90c84b38-03c0-44ff-8555-8faefcf38662/99/image.jpg",
+      "caption": "Musiktage"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/310eff4e-1b11-4326-9fee-f4cb8ef550b5/99/image.jpg",
+      "caption": "Musiktage1"
+    }
+  ],
+  "url": [
+    "http://www.musiktage-seefeld.at"
+  ],
+  "startDate": "2017-08-16T15:30:00",
+  "endDate": "2017-08-16"
+}

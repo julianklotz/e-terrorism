@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "HealthAndBeautyBusiness",
+    "BeautySalon"
+  ],
+  "name": "Bergresort Seefeld",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Bergresort Seefeld",
+    "streetAddress": "Münchnerstrasse 215",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2571",
+    "faxNumber": "(0043) 5212 2571 104",
+    "email": "bergresort@kaltschmid.info",
+    "url": "http://www.bergresort.at"
+  },
+  "description": [
+    "Massagen, kosmetische Behandlungen, Fußpflege, Wellnesspackages.",
+    "Massagen, kosmetische Behandlungen, Fußpflege, Wellnesspackages."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/28261df2-bdfb-45d0-b7c5-9059adb2490d/99/image.jpg",
+      "caption": "Bergresort Seefeld"
+    }
+  ],
+  "url": [
+    "http://www.bergresort.at"
+  ]
+}

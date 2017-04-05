@@ -1,0 +1,240 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "https://www.panorama3d.at/widgets/pano.php?key\u003d1139m0c75147j9382Nn7362241E6w9\u0026fullscreen\u003dtrue\u0026autoplay\u003d1\u0026speed\u003d3\u0026thumbnails\u003d1",
+    "http://www.egerthof.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Hotel Garni Egerthof",
+    "streetAddress": "Reitherspitzstr. 294",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 4444",
+    "faxNumber": "(0043) 5212 4444 60",
+    "email": "info@egerthof.at",
+    "url": "http://www.egerthof.at"
+  },
+  "name": "Hotel Garni Egerthof",
+  "description": [
+    "Unser Haus mit persönlicher Atmosphäre bietet Ihnen einen vollkommenen Urlaub zu jeder Jahreszeit. Die gemütlichen Komfortzimmer bieten Bad od. Du/WC, Radio, Telefon, TV und Safe. Lassen Sie sich verwöhnen von einem reichhaltigen Frühstücksbuffet, dem Wellnessbereich mit Sauna, Dampfbad und Ruheraum mit herrlichem Ausblick auf die Bergwelt. Zum Zentrum ca. 3 Gehminuten. Direkter Loipeneinstieg nur 20m entfernt.",
+    "Sauna, Dampfbad, Infrarotkabine - kostenlos\n",
+    "Check-In 13.00 Uhr/ Check-Out 11.00 Uhr\nWeg: Von Seefeld Nord - vor den Bahngleisen links der Bahnlinie entlang, am Bahnhof vorbei - links sehen Sie das Haus \nvon Seefeld Süd - den See entlang bis zur Fußgängerzone, rechts 2 Kurven, über die Bahnübersetzung das 1. Haus links"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "reviewCount": "204"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d369b6c6-e83e-4baa-9080-2c2e1fa3b438/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/03cfd6ae-6c87-4da1-9922-f30af4b1c862/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e4af26bc-0fbf-4a2a-8bc6-083922842fcb/99/image.jpg",
+      "caption": "P1200105"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/dece8232-d554-4cb6-9872-fa2a8877c1e1/99/image.jpg",
+      "caption": "Garten"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1b21b8fc-a755-439c-b717-db590a483e33/99/image.jpg",
+      "caption": "P8120161"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/245d8f8d-e892-4b4e-a2ff-de9ff65e31d0/99/image.jpg",
+      "caption": "IMGP0046"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/24e6a37c-0b54-4510-97d0-6db5d81e72f9/99/image.jpg",
+      "caption": "Terrasse mit Aussicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/fe293aa6-984c-409e-a4ed-3ea3e5a18446/99/image.jpg",
+      "caption": "P1150100"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/610ca7a5-f3c8-496b-9ea2-5918053ea565/99/image.jpg",
+      "caption": "P8150160"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5280d667-9f92-45c0-9c5d-33a54ad4a429/99/image.jpg",
+      "caption": "P8150147"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f03f5786-a84e-479f-b8fd-1a94972e52b9/99/image.jpg",
+      "caption": "P1130074"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/12c44f06-b7d9-4cdf-b567-b17c3e2c3913/99/image.jpg",
+      "caption": "P9040159"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3271994900605",
+    "longitude": "11.1914151906967"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Einzelzimmer, Dusche oder Bad, WC",
+      "description": "Sitzecke, Telefon, SAT-TV, Radio, Safe",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Einzelzimmer mit Dusche od. Bad, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Relaxwoche",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "38.00",
+          "maxPrice": "59.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "59.00",
+          "maxPrice": "59.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche oder Bad, WC",
+      "description": "Sitzecke, gräumige Balkone, Telefon, SAT-TV, Radio, Safe",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Dusche od. Bad, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Relaxwoche",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "37.00",
+          "maxPrice": "50.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "59.00",
+          "maxPrice": "59.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Dreibettzimmer, Dusche oder Bad, WC",
+      "description": "Gemütliche Sitzecke, gräumige Balkone, Telefon, SAT-TV, Radio, Safe",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Dreibettzimmer mit Dusche od. Bad, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

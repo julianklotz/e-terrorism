@@ -1,0 +1,108 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.liasnhof.com",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Liasnhof",
+    "streetAddress": "Lochlehn 242",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6119",
+    "email": "liasnhof@aon.at",
+    "url": "http://www.liasnhof.com"
+  },
+  "name": "Liasnhof",
+  "description": [
+    "Unser Bauernhof befindet sich im Unterleutascher Ortsteil Lochlehn umgeben von Wiesen und herrlicher Bergwelt. Im Frühling, Sommer u. Herbst bieten sich Wanderungen und Radtouren in abwechslungsreicher Umgebung an. Im Winter führt die Langlauf- u. Skatingloipe direkt am Bauernhof vorbei.",
+    "Inklusive: Endreinigung, Strom, Wasser, Unterstellplatz fürs Auto\n\nExklusive: Frühstück auf Wunsch, Kurtaxe",
+    "Anreise ab 14.00 Uhr\nAbreise bis 10.00 Uhr \nVon Mittenwald kommend rechts, ca. 3 km hinter der ehem. Grenze\nVon Seefeld Richtung Mittenwald ca. 15 km af der linken Seite"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/45b44fad-a0a0-49fe-8de1-a419a43ad8f9/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1d2bc753-f9e7-47ae-9f0c-11450efb736f/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d6a09820-a43e-4972-a377-e65f3431651d/99/image.jpg",
+      "caption": "Hausansicht Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/00210740-9361-4cdb-9e99-7acadeb50caa/99/image.jpg",
+      "caption": "Spielplatz"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.404976126768",
+    "longitude": "11.194665955822"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "Unsere gemütlich eingerichtete Ferienwohnungen für 2-5 Personen besteht aus Küche, Wohnzimmer, 1-2 Schlafzimmer, Dusche/WC, Diele",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/2 Schlafräume/Dusche, WC",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "60.00",
+          "maxPrice": "60.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "68.00",
+          "maxPrice": "68.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "78.00",
+          "maxPrice": "78.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "88.00",
+          "maxPrice": "88.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

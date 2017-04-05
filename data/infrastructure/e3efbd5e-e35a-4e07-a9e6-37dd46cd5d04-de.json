@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "HairSalon",
+    "Store"
+  ],
+  "name": "Frisör Top Hair",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2991134390521",
+    "longitude": "11.2034059968811"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Top Hair Alpenkönig",
+    "streetAddress": "Römerstraße 52",
+    "addressLocality": "Reith bei Seefeld",
+    "postalCode": "6103",
+    "addressCountry": "AT",
+    "telephone": "(0043)5212 20128",
+    "email": "gabi@salon-top-hair.at"
+  },
+  "description": [
+    "Salon Top Hair Alpenkönig, Gabi ist  für Sie da! Verwöhnen Sie Ihre Haare oder vielleicht eine Haarverlängerungen? Weiterer Service:  Nagelstudio und Wimpern verlängern oder verdichten!\n",
+    "Salon Top Hair Alpenkönig, Gabi ist  für Sie da! Verwöhnen Sie Ihre Haare oder vielleicht eine Haarverlängerungen? Weiterer Service:  Nagelstudio und Wimpern verlängern oder verdichten!\nIm Zentrum von Reith!"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2f0eaa64-4183-4887-96b3-05140064c2b3/99/image.jpg",
+      "caption": "Frisör"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation"
+  ],
+  "name": "Rodelbahn Hämmermoosalm",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3712336135754",
+    "longitude": "11.0820894018357"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Hämmermoosalm",
+    "streetAddress": "Gaistal",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 676 3337000",
+    "faxNumber": "(0043) 5212 333715",
+    "email": "sonja@haemmermoosalm.at",
+    "url": "http://www.haemmermoosalm.at"
+  },
+  "description": "Ab Parkplatz Salzbach (Eingang Gaistal) bis zur Hämmermoosalm - Achtung auf Pferdeschlitten! Höchster Punkt: 1.417 m Länge: ca. 2 km Höhenunterschied: 377 m Schwierigkeit: mittel Bewirtschaftete Hütte: Hämmermoosalm Tel. 0676-3337000 ",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7196ccbc-2b00-4f27-92e6-b057e70cad7c/99/image.png",
+      "caption": "rodelbahn"
+    }
+  ]
+}

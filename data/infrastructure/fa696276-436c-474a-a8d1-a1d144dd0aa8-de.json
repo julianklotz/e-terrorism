@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure"
+  ],
+  "name": "Fußballplatz-Parkplatz (P16)",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3242651081235",
+    "longitude": "11.1747694015503"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Fußballplatzparkplatz (P16)",
+    "streetAddress": "Möserer Str.",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043)52122241"
+  },
+  "description": [
+    " ",
+    "gebührenfrei"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1a56a1dd-dc7f-45e6-a6a5-1ad625e82ec2/99/image.jpg",
+      "caption": "Parkplatz"
+    }
+  ]
+}

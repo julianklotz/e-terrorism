@@ -1,0 +1,25 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "ToyStore",
+    "Store",
+    "BookStore"
+  ],
+  "name": "Firma Egon Erich Pilotto -  Spielwaren, Kartenmaterial und mehr",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3289633687549",
+    "longitude": "11.1877093497376"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Egon Erich Pilotto",
+    "streetAddress": "Münchnerstr. 33",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 52856",
+    "email": "info@feep.at",
+    "url": "http://www.feep.at"
+  }
+}

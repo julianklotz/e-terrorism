@@ -1,0 +1,193 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://www.hotel-trofana.at"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Bergidyll \u0026 Hotel Trofana",
+    "streetAddress": "Obern 42",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 20944",
+    "email": "info@hotel-trofana.at",
+    "url": "http://www.hotel-trofana.at"
+  },
+  "name": "Bergidyll \u0026 Hotel Trofana",
+  "description": [
+    "Ein herzliches \"Griaß enk\" und willkommen, im Bergidyll \u0026 Hotel Trofana, welches auf 1174 m Seehöhe, im wohl eines der schönsten Hochplateaus in Tirol liegt. Direkt hinter unserem Hotel verläuft die Leutascher Ache, vor unser die gewaltige Bergwelt und die herrlich duftenden Wiesen, die zum Spazieren, Wandern, Nordic Walking, Joggen und Biken einlädt. Wir haben das Glück und liegen in herrlichster, ruhiger Lage in der Natur-Pur. Verbringen Sie Ihren wohlverdienten Urlaub mit Mehrwert durch Bewegung, Regeneration, Erholung und Genuss – oder weg vom Alltag nach alter Italienischer Lebenseinstellung: ein \"dolce far niente\" - süßes Nichtstun!\n\nBergWELL – nicht nur bei uns im Hause, sondern auch in der unmittelbaren Natur finden Sie Ihr BergWELL. Freiluft-Kneippanlagen, Tautreten,... uvm.",
+    "Speis\u0027 \u0026 Trank: \nWir legen größten Wert auf frische, regionale und heimische Rohprodukte, nach bester Möglichkeit von den Bauern und Gärtnern vor Ort:  wie Fleisch-, Wurst-, Gesechtes und Räucherwaren, Tiroler Speck und Kaminwurzen der Spitzenklasse, Käse, Milch, Milchprodukte, Salate, Gemüse und natürlich unsere frischen Fische (Forelle, Saibling) aus der Leutascher Ache und Leutascher Angelteich",
+    "An – und Abreise:\nGerne stellen wir Ihnen Ihre Unterkunft bei Anreise ab 15:00 Uhr zur Verfügung. Für Gäste, für die der Urlaub bedauerlicherweise zu Ende geht, bitten wir am Abreisetag bis 10:00 Uhr Ihr Domizil freizugeben. Unseren Standard erreichen wir nur, wenn uns die dafür notwendige Zeit zur Verfügung steht.\nLate „Check out“:\nNur nach Absprache mit der Rezeption möglich und wird verrechnet.",
+    "Wandern Leutasch Seefeld Nordic Walking Tirol Erholung Genuss Ruhig Langlauf gute Küche freundlich"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "reviewCount": "146"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/52a98802-7417-4d15-9312-dcbe24e05095/99/image.jpg",
+      "caption": "Bergidyll \u0026 Hotel Trofana Hausansicht Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0c704ecd-0d91-48b7-ab23-c6ee233b2df2/99/image.jpg",
+      "caption": "Logo"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ccade47c-82b3-4a04-89d1-c8f97ce49e3f/99/image.jpg",
+      "caption": "Bergidyll \u0026 Hotel Trofana Hausansicht Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6a121594-0d1a-47b2-aa52-3945b90378af/99/image.jpeg",
+      "caption": "Herbst in Leutasch"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2a3e6fa9-ce8b-413f-9380-bf63509b0ebc/99/image.jpg",
+      "caption": "Winterlandschaft in Leutasch"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/52f0fc72-90d1-41a6-b725-137f4705187a/99/image.jpg",
+      "caption": "Speckplatte aus unserer Küche"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a7afbbea-1395-4bed-8f47-9deb1031427d/99/image.jpg",
+      "caption": "Almenparadies im Gaistal in Leutasch"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/681a9c6e-d727-4fe1-ae53-a2813efeefe4/99/image.jpg",
+      "caption": "Restaurant im Bergidyll \u0026 Hotel Trofana"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/bd299569-d35b-4444-b3f2-9b9190dabf22/99/image.jpg",
+      "caption": "Wellnessbereich Bergwell"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/27677ddf-88eb-49c2-9abd-449ab460df36/99/image.jpg",
+      "caption": "Ruheraum im Wellnessbereich"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3604969403085",
+    "longitude": "11.1239141318772"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC, Balkon",
+      "description": "Unsere geräumigen Zimmer sind im typisch-tirolerisch, ländlichen Stil gehaltene Doppelzimmer und ausgestattet mit: \nBadezimmer:  Dusche/WC, Haarfön, weichen Handtüchern, Kosmetikspiegel, Kosmetikartikel;\nDoppelbett , Flat-TV mit integriertem Radio, kostenloses W-LAN/WI-FI, Sitzecke mit Schreibanrichte, Telefon, Safe, Gepäckablage mit Garderobe, Balkon mit 2 Stühlen und 1 Tisch;\n1 zugewiesener PKW Abstellplatz pro Zimmer\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "DZE Enzian, DU, WC, Balkon",
+          "description": "Doppelzimmer - Standard (ca. 22m²)    Zimmername: Enzian \n\nim ländlichen Stil gehaltenes Doppelzimmer - Ihr Zimmer ist ausgestattet mit: \nBadezimmer:  Dusche/WC, Haarfön, weichen Handtüchern, Kosmetikspiegel, Kosmetikartikel;\nDoppelbett , Flat-TV mit integriertem Radio, kostenloses W-LAN/WI-FI, Sitzecke mit Schreibanrichte, Telefon, Safe-Tresor, Gepäckablage mit Garderobe, Balkon mit 2 Stühlen und 1 Tisch;\n1 PKW Abstellplatz – nicht Überdacht\n",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "55.00",
+          "maxPrice": "75.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Junior Suite, Bad, WC, Balkon",
+      "description": "Tirolerisch eingerichtet mit separater Couch-Sitzecke - das Zimmer ist ausgestattet mit: \nBadezimmer: Badewanne mit Dusche/WC, Haarfön, weichen Handtüchern, Kosmetikspiegel, Kosmetikartikel;\nSeparate kleine Kochnische mit Kühlschrank, Waschbecken und Abstellfläche\nDoppelbett , separates Couchabteil, Flat-TV mit integriertem Radio, kostenloses W-LAN/WI-FI, Schreibanrichte, Telefon, Safe-Tresor, Gepäckablage mit Garderobe,  Balkon mit Bergblick;\nzugewiesener überdachter Parkplatz für 1 PKW\n\nUnsere „Gipfelstube“  bietet einen Hauch von feinem Luxus und ist bestens geeignet für 2 Erwachsene, oder 2 Erwachsene und 1 Kind bis 15 Jahre.\n\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "JSG Gipfelstube, Bad, WC, Balkon",
+          "description": "Junior Suite (ca. 40m²)  Zimmername: Gipfelstube\nTirolerisch eingerichtet mit separater Couch-Sitzecke und ausgestattet mit: \nBadezimmer: Badewanne mit Dusche/WC, Haarfön, weichen Handtüchern, Kosmetikspiegel, Kosmetikartikel;\nSeparate kleine Kochnische mit Kühlschrank, Waschbecken und Abstellfläche\nDoppelbett , separates Couchabteil, Flat-TV mit integriertem Radio, kostenloses W-LAN/WI-FI, Schreibanrichte, Telefon, Safe-Tresor, Garderobe,\nBalkon mit Bergblick; 1 überdachter Parkplatz;",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "69.00",
+          "maxPrice": "87.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Einzelzimmer, Dusche, WC, Balkon",
+      "description": "gemütlich, klein und fein - das Zimmer ist ausgestattet mit: \nBadezimmer: mit Dusche/WC, Haarfön, weichen Handtüchern, Kosmetikspiegel, Kosmetikartikel;\nEinzelbett, Flat-TV mit integriertem Radio, kostenloses W-LAN/WI-FI, Schreibanrichte, Telefon, \nSafe-Tresor, Gepäckablage mit Garderobe, Balkon;\n1 PKW Abstellplatz - Nicht Überdacht\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "EZ Schwammli",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "0.00",
+          "maxPrice": "9999.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

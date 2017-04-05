@@ -1,0 +1,168 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.apart-seefeld.at/index.php?lang\u003dde",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Alpenlandhaus Menardi",
+    "streetAddress": "Hermannstalstr. 279",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2474",
+    "faxNumber": "(0043) 5212 5030 2",
+    "email": "alpenlandhaus@seefeld.at",
+    "url": "http://www.apart-seefeld.at"
+  },
+  "name": "Alpenlandhaus Menardi",
+  "description": [
+    "Unser Haus befindet sich in ruhiger Lage und ist doch nur wenige Gehminuten vom Ortszentrum entfernt. 50 m zur Haltestelle des gratis Orts- und Skibusses. Parkplatz am Haus, sehr sonnige Lage. 5 Minuten vom Übungshang entfernt. Kostenlose Mountainbikes, 50 % Ermäßigung auf Ihre neue Skiausrüstung im Skiverleih. 200 m zum Skigebiet Rosshütte, 300 m zum Geigenbühel.",
+    "Exclusive: Telefon\n\n",
+    "Auto: Von Deutschland über Garmisch-Partenkirchen nach Seefeld (Vignettenfrei) oder über Rosenheim Richtung Innsbruck bis Ausfahrt Zirl-Ost nach Seefeld. Aus der Schweiz Autobahn A12 Ausfahrt Telfs-Ost-Seefeld\nBahn: München über Garmisch-Partenkirchen oder über Innsbruck Seefeld\n\nCheck-Out 10.00 Uhr"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "reviewCount": "48"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ea3feb9a-76d4-475a-bb84-6c3441a77ebf/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/10a040ec-4e68-4008-992d-235bfb17a8e1/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d6e2245c-e11a-4294-8f0a-11234febb59c/99/image.jpg",
+      "caption": "Wellness room"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d4c974cf-81e4-45c1-9129-d9d1c5fbd0ca/99/image.jpg",
+      "caption": "Fahrräder ab Haus"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3340384761568",
+    "longitude": "11.1935877799988"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 2 Schlafräume",
+      "description": "75m², Südbalkon im 1. Stock, 2 Schlafzimmer + Wohnschlafzimmer, Küche inkl. Mikrowelle, Geschirrspühler, Safe, Telefon, Bademäntel",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement A ",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "50m², große südseitige Terrasse. Schlafzimmer + Wohnzimmer, Essküche, Kaffemaschine, Mikrowelle, Geschirrspühler, Safe, TV, Telefon, Föhn, Bademäntel",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement D",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 2 Schlafräume",
+      "description": "75m², 2 Schlafzimmer + Wohnschlafzimmer, Küche inkl. Mikrowelle, Geschirrspühler, Safe, Telefon,  Föhn, Bademäntel. In jedem Raum ein Fernseher.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement C",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "50m², 1 Stock, Schlafzimmer + Galerie,Wohnzimmer, Essküche, Kaffemaschine, Mikrowelle, Geschirrspühler, Safe, TV, Telefon, Föhn, Bademäntel",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement B",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 2 Schlafräume",
+      "description": "Im 2. Stock gelegen, 75 m2 mit 2 Balkonen. 2 getrennte Schlafzimmer, Wohnschlafzimmer mit Essbereich, Badezimmer, Küche komplett eingerichtet mit Kaffeemaschine, Mikrowelle, Geschirrspüler, Safe, Stereoanlage mit iPhone-Anschluß, Flatscreen-TV mit SAT-Anschluß, Telefon, Dusche, WC, Fön, Bademäntel, Flatscreen, kostenlose Internetstation.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement AA",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

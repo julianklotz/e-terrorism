@@ -1,0 +1,33 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation"
+  ],
+  "name": "Lauf- u. Tourensport Seefeld, Ski-Club-Seefeld",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Ski-Club Seefeld",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "+436606548630",
+    "email": "nennungen.ltss@ski-club-seefeld.com",
+    "url": "http://www.ski-club-seefeld.com"
+  },
+  "description": [
+    "Laufbahn beim Wildsee/Kneippanlage, 333m lang, die Unterlage aus Rindemulch fördert gesundes, ökonomisches und effizientes Laufen, Geschicklichkeitsparcours.\n",
+    "Laufbahn beim Wildsee/Kneippanlage, 333m lang, die Unterlage aus Rindemulch fördert gesundes, ökonomisches und effizientes Laufen, Geschicklichkeitsparcours."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7f4d065b-6c97-43a0-958a-cd6cbdd84843/99/image.jpg",
+      "caption": "Laufen in Seefeld"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hostel"
+  ],
+  "url": [
+    "http://www.rotmoosalm.info"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Rotmoosalm",
+    "streetAddress": "Schönberg",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043)664 4226149",
+    "url": "http://www.rotmoosalm.info"
+  },
+  "name": "Rotmoosalm",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3844922059917",
+    "longitude": "11.0751590418092"
+  },
+  "currenciesAccepted": "EUR"
+}

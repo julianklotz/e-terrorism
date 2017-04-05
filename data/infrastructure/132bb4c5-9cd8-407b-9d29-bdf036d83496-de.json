@@ -1,0 +1,29 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "FastFoodRestaurant",
+    "Restaurant"
+  ],
+  "name": "Pizzeria Hawaii",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3285466331174",
+    "longitude": "11.1888027191162"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Pizzeria Hawaii",
+    "streetAddress": "Bahnhofsplatz 389",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 20085"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a7c1b1e7-ac9e-4eb1-a6ac-3a57e7a7e149/99/image.jpg",
+      "caption": "Pizzeria Hawaii"
+    }
+  ]
+}

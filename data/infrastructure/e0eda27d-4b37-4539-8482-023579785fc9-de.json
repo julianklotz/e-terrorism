@@ -1,0 +1,24 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "HealthAndBeautyBusiness",
+    "BeautySalon",
+    "SportsClub"
+  ],
+  "name": "Nidum Casual Luxury Hotel",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Am Wiesenhang 1",
+    "addressLocality": "Mösern/Buchen",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "+43521220300",
+    "email": "info@nidum-hotel.com",
+    "url": "http://www.nidum-hotel.com"
+  }
+}

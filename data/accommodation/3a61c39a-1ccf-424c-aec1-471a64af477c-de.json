@@ -1,0 +1,122 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.haus-malerwinkl.at/de/",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Malerwinkl",
+    "streetAddress": "Am Anger 12",
+    "addressLocality": "Mösern",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "+43521250350",
+    "faxNumber": "+43521250350",
+    "email": "agnes.neuner@aon.at",
+    "url": "http://www.haus-malerwinkl.at"
+  },
+  "name": "Haus Malerwinkl",
+  "description": [
+    "Haus Malerwinkl ist umgeben von Wiesen, sonnig und ruhig am Waldrand gelegen mit einem herrlichen Panoramablick. Wanderwege und Loipen führen direkt am Haus vorbei. Komfort-Appartements für 2-4 Personen inkl Sat-TV, Balkon, Liegewiese und Parkplatz.",
+    "Check in 13.00 Uhr | Check out 10.00 Uhr\n\nAbzweigung Dorfmitte (Beschilderung)\n\nKinderermäßigung auf Anfrage!",
+    "Inklusive Strom und Heizung\n"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7ee37fa3-f165-4d9b-b132-2fc66493d451/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d10a1acb-f2e0-4244-958a-37a39b9b584c/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/724507c7-e0e4-40e9-90c9-9bff21007510/99/image.jpg",
+      "caption": "Aussicht Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e2aafa1f-120d-4dfc-aa0b-70006b07b672/99/image.jpg",
+      "caption": "Loipe"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b0b35dfe-ffda-4d18-8017-7bf7d43ebebd/99/image.jpg",
+      "caption": "Aussicht Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4b252996-2d77-4af2-993a-4ee7bd4c9e30/99/image.jpg",
+      "caption": "Abendstimmung"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/963e716d-3a4c-4701-8769-0b98b3f0f9a5/99/image.jpg",
+      "caption": "Winter Zaun"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3a445113-9b64-45df-bad9-cde635e7d168/99/image.jpg",
+      "caption": "Ausblick ins Tal"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.309892815993",
+    "longitude": "11.147355854455"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Toilette und Bad/Dusche getrennt, 1 Schlafraum",
+      "description": "Großzügig eingerichtete Ferienwohnung (ca.55 qm): Schlafzimmer, Wohnraum\nmit SAT-TV, Ausziehcouch, Küche mit gemütlicher Eßecke, Bad und WC getrennt, Balkon mit herrlichem Ausblick auf die Bergwelt, Parkplatz. Das Haus liegt sehr ruhig, inmitten einer Wiese am Waldrand und doch nahe zu\nBusstation und Geschäft (2 Gehminuten). Wanderwege und Langlaufloipe\nführen unmittelbar am Haus vorbei. Bettwäsche ingebettet, Hand- und Geschirrtücher vorhanden.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/1 Schlafraum, 1 Wohnraum, Bad/",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "39.00",
+          "maxPrice": "39.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "49.00",
+          "maxPrice": "49.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "59.00",
+          "maxPrice": "59.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

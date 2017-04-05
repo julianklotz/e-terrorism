@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "GroceryStore",
+    "Store",
+    "BookStore"
+  ],
+  "name": "Supermarkt - M-Preis",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3713845320713",
+    "longitude": "11.1676893693116"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "M-Preis",
+    "streetAddress": "Weidach 340",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 4201",
+    "url": "http://www.mpreis.at"
+  },
+  "description": "Weidach 340\nTel.: +43 5214/4201",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e72405e0-c4a8-412d-b529-a2dd9f66308f/99/image.jpg",
+      "caption": "M-Preis"
+    }
+  ],
+  "url": [
+    "http://www.mpreis.at"
+  ]
+}

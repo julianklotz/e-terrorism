@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "Zugspitz Ultratrail 2017",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "PLAN B event company GmbH",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "München",
+      "postalCode": "81545",
+      "addressCountry": "DE",
+      "email": "info@planb-event.com"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Musikpavillon",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Weidach 337",
+      "addressLocality": "Leutasch",
+      "postalCode": "6105",
+      "addressCountry": "AT"
+    }
+  },
+  "description": "Über 2.000 Trailrunning-Fans auf 50 Nationen pilgern zum Extremlauf auf den höchsten Berg Deutschlands. Die Athleten bewältigen bis zu 5.412 hm und eine maximale Distanz von 101,6 km. Unter den fünf zur Wahl stehenden Strecken findet sich der „Supertrail“ (62,8 km, 2.923 hm) mit Start in Leutasch. Unter anderem schlängelt sich die herausfordernde Streckenführung durch das für seine landschaftliche Schönheit bekannte Leutascher Wettersteingebirge. www.zugspitz-ultratrail.com \n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f55e60c6-49b9-4948-92c1-24cb13a0c3df/99/image.jpg",
+      "caption": "zugspitz"
+    }
+  ],
+  "url": [
+    "http://www.zugspitz-ultratrail.com"
+  ],
+  "startDate": "2017-06-17T09:00:00",
+  "endDate": "2017-06-17"
+}

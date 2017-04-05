@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SkiResort",
+    "BarOrPub"
+  ],
+  "name": "Park Café, Hotel Klosterbräu, Bar",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3293410859935",
+    "longitude": "11.1853668093681"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Park Café",
+    "streetAddress": "Klosterstraße",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2621-188",
+    "email": "anfrage@klosterbraeu.com",
+    "url": "http://www.klosterbraeu.com"
+  },
+  "description": "Sitzplätze für ca. 80 Personen\nIn der Fußgängerzone.\nDas Parkcafé ist sowohl im Sommer als auch im Winter der Treff für alle Einheimischen und Gäste. Unsere Parkcafé Fee Edith freut sich über jeden Besucher, ob zu einem Gläschen Wein oder einem Punsch. ",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/704bc801-c336-4217-8146-fb72826acd1a/99/image.jpg",
+      "caption": "BAR"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/495b442d-c194-42e4-b270-983604424b91/99/image.jpg",
+      "caption": "Park Café"
+    }
+  ],
+  "url": [
+    "http://www.klosterbraeu.at"
+  ]
+}

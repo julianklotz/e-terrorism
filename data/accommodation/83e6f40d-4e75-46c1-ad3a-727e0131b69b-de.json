@@ -1,0 +1,284 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://www.hotel-stgeorg.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Hotel St. Georg",
+    "streetAddress": "Wasserfallweg 630",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 3173",
+    "faxNumber": "(0043) 5212 3173 6",
+    "email": "info@hotel-stgeorg.at",
+    "url": "http://www.hotel-stgeorg.at"
+  },
+  "name": "Hotel Garni St. Georg",
+  "description": [
+    "Zentral und doch sehr ruhig gelegen befindet sich unser familiär geführtes Hotel. Unsere im \"Tiroler-Stil\" gehaltenen Zimmer bieten Ihnen Komfort und Platz für Erholung und Entspannung. Besonderen Wert legen wir auf liebevolle Details-jeder Raum hat seine ganz persönliche Note. Zudem finden Sie die Möglichkeit in unserem neuangelegten Wellnessbereich mit Pool, Biosauna, finnischer Sauna, Infrarotkabine und Garten den Alltag hinter sich zu lassen.",
+    "Check-In: 14.00 Uhr\nCheck-Out: 10.00 Uhr"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "reviewCount": "145"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d0c7359d-ee83-4424-859f-19eddff5d856/99/image.jpg",
+      "caption": "Haus Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4588bca5-8c24-4451-b4cf-46666c83c5bd/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/114437fc-2088-4ac7-95fb-bbee3641269d/99/image.jpg",
+      "caption": "Hallenbad"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7c21aa86-6c39-4e2c-ae10-7f3ceb247ddb/99/image.jpg",
+      "caption": "Hallenbad 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/388a4c79-19b5-495f-9f18-54f4a310c265/99/image.jpg",
+      "caption": "Restaurant"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/458e30bf-02e3-4275-9e0f-bae3f4f0b660/99/image.jpg",
+      "caption": "Restaurant 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/93c27fe9-62e1-44a1-9364-9c99d3bc4bac/99/image.jpg",
+      "caption": "Kamin"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4a56e5ea-ab00-4ca4-869d-1d44447d547d/99/image.jpg",
+      "caption": "Garten"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.336969974051",
+    "longitude": "11.19331096543"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche oder Bad, WC",
+      "description": "...aufwachen und sich rundum wohlfühlen\n\nUnsere Doppelzimmer \"De Luxe\" sind ausgestattet mit sepperatem Wohnteil, Bad od. Dusche/WC, Telefon, TV und Südbalkon.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer \"De Luxe\"",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "46.00",
+          "maxPrice": "97.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche oder Bad, WC",
+      "description": ".... eínfach gemütlich\n\nUnsere Doppelzimmer \"Standard\" sind ausgestattet mit Telefon, TV, Bad od. Dusche, WC, Balkon, mit oder ohne seperatem Wohnteil.\n\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer \"Standard\"",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "45.00",
+          "maxPrice": "78.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche oder Bad, WC",
+      "description": [
+        "Unsere Erker-Doppelzimmer (für 2 Personen)\n\nAusstattung: Großzügige Sitzbank, Bad, Haartrockner, Radio, Telefon, Safe, Kabel TV, sowie Balkon;\n",
+        "Unsere Erker-Doppelzimmer (für 2 Personen)\n\nAusstattung: Großzügige Sitzbank, Bad, Haartrockner, Radio, Telefon, Safe, Kabel TV, sowie Balkon;\n"
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "DZ Standard mit Wohnbereich",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "82.00",
+          "maxPrice": "9999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "46.00",
+          "maxPrice": "87.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Einzelzimmer, Bad, WC",
+      "description": "Klein aber fein....\n\nAusstattung: Sitzgelegenheit, Kabel TV und Telefon, Bad/WC;\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Einzelzimmer mit Bad, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "50.00",
+          "maxPrice": "9999.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche oder Bad, WC, 1 Schlafraum",
+      "description": "Unsere 2-Zimmer-Appartements (für 2 - 4 Personen)\nIdeal für Familien...\n\nAusstattung: Küche, Bad/WC, Haartrockner, Radio, Telefon, Safe, Wohnzimmer mit Schlafcouch,  Kabel-TV, sowie Balkon; \n\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "2-Raum-Appartement",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "9999.00",
+          "maxPrice": "9999.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC",
+      "description": "Unser \"Romantikappartement\" ist ausgestattet mit einem Himmelbett, Schlafcouch, sepperater Küche, Sitzecke, Bad/WC und Südbalkon.\n\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Romantik Appartement",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "9999.00",
+          "maxPrice": "9999.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Store"
+  ],
+  "name": "BIPA",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3288611433509",
+    "longitude": "11.1886149644852"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "BIPA ",
+    "streetAddress": "Bahnhofstraße 163",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 52590",
+    "url": "http://www.bipa.at"
+  },
+  "url": [
+    "http://www.bipa.at"
+  ]
+}

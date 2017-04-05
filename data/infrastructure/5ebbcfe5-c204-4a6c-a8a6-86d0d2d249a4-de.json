@@ -1,0 +1,30 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure",
+    "LocalBusiness"
+  ],
+  "name": "Astrologische Beratung",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3633327",
+    "longitude": "11.1167853"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Klamm 58b",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 5177",
+    "faxNumber": "(0043) 664 5425 973"
+  },
+  "description": "Barbara Rauth-Lederer\nKlamm 58b\n+43 5214 5177\n+43 664 5425973",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2bc70c7f-8d3d-4e32-a1ee-fce5105eb274/99/image.jpg",
+      "caption": "Astrologie"
+    }
+  ]
+}

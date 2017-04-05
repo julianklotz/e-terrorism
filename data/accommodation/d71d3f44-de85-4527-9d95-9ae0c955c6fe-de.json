@@ -1,0 +1,128 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.thoamlhof.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Thoamlhof",
+    "streetAddress": "Platzl 109",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6365",
+    "email": "thoamlhof@aon.at",
+    "url": "http://www.thoamlhof.at"
+  },
+  "name": "Thoamlhof",
+  "description": [
+    "Echtes Landleben erleben - Urlaub beim Leutascher Bauern...Unser Hof liegt in ruhiger und sonniger Landschaft, idealer Ausgangspunkt für Wanderungen und Bergtouren, Langlaufloipe unmittelbar am Haus.",
+    "Ink. Frühstücksbuffet",
+    "Check-in 14.00 Uhr\nCheck-out 09.30 Uhr\n\nMittenwald - Unterleutasch - Gasse - Kirchplatzl - Platzl- an der Weggabelung nach links"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b3d67582-24bd-4043-9844-2d8fdadfcb76/99/image.jpg",
+      "caption": "Haus Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/481fc003-9293-4959-9b90-8b5c2c9b721f/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/83820ff6-32a7-4e7e-9455-2091b3f87b1c/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/65fcc7a8-ac74-41c1-9a24-3a67a8fa8d10/99/image.jpg",
+      "caption": "Loipenzugang"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b107b100-55a1-4554-bc25-c5566b3321ae/99/image.jpg",
+      "caption": "Zimmeransicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/42e4197e-afdf-4412-9951-fb81cbd90e85/99/image.jpg",
+      "caption": "Hausgang"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.361841947795",
+    "longitude": "11.137677011624"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "hell und freundlich eingerichtet mit Balkon",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "gemütliche, mit hellen, rustikalen Massivholzmöbeln eingerichtete Ferienwohnung mit separatem Schlafzimmer. ",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

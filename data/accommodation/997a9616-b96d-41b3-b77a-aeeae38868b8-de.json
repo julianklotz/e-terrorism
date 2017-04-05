@@ -1,0 +1,148 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.alpresort.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Alpresort",
+    "streetAddress": "Auland Gstoag 123",
+    "addressLocality": "Reith bei Seefeld",
+    "postalCode": "6103",
+    "addressCountry": "AT",
+    "telephone": "0043 664 8368700",
+    "faxNumber": "(0043) 5212 3345 17",
+    "email": "info@alpresort.at",
+    "url": "http://www.alpresort.at"
+  },
+  "name": "Alpresort",
+  "description": "Tiroler Gastlichkeit trifft modernes Wohngefühl – so präsentiert sich das neue Alpresort Seefeld. Appartements und Ferienwohnungen, die höchsten Ansprüchen entsprechen und alle Erwartungen übertreffen. Eine Ganzjahresdestination inmitten der grandiosen Landschaft auf dem Seefelder Plateau, einer der schönsten Hochebenen der Alpen.\n\nDie Designappartements bieten alles für bequemen und erholsamen Urlaub im Genussland Österreich. Praktisch und erlebenswert eingerichtet mit den besten Materialien, die Tirols Natur zu bieten hat. Feine Stoffe, dazu Eiche, Fichte, Lärche. Die Böden aus Holz, die Bäder in luxuriöser Ausstattung – das Alpresort Seefeld ist eine besondere Adresse für eine besondere Zeit.\n\nDas Alpresort Seefeld verspricht einen unkomplizierten, wohltuend individuellen Urlaub, losgelöst von allen Zwängen und doch mit allen Möglichkeiten. Ob zu Zweit, als Single oder mit der ganzen Familie – die Liebe zum Detail und der moderne Charme im Alpresort sorgt für genau die richtige Umgebung.",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "reviewCount": "68"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4d72dd4b-38e9-415e-b050-25ce75e680d9/99/image.jpg",
+      "caption": "Sommer "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/61212740-2683-400c-aeca-feaf57c9e521/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0dbacd60-45cb-4365-b827-a1427b112064/99/image.jpg",
+      "caption": "Sommer 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8e8228ba-4a5e-44ea-ade6-f5777c74a6a9/99/image.jpg",
+      "caption": "Terrasse"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0b1c76ac-c175-4c77-91f9-cc50a01cd90b/99/image.jpg",
+      "caption": "Terrasse Winter"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3149314292911",
+    "longitude": "11.1995365492126"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Toilette und Bad/Dusche getrennt, 1 Schlafraum",
+      "description": "Gemütliche Ferienwohnung mit exklusiver, aber unaufdringlicher Design-Ausstattung. Ausgelegt für zwei bis vier Personen und für Singles. Wohnen und Schlafen auf 57 Quadratmetern in getrennten Räumen. Durch eine bequeme Schlafcouch entsteht Raum für vier Personen. Großes Badezimmer mit getrenntem WC, freistehender Wanne und verglaster Erlebnisdusche. Auf der Sonnenterrasse eröffnet sich ein unvergesslicher Blick in die Tiroler Berge rund um das Seefelder Plateau. Die Küche ist zwischen Mikrowelle und Espressomaschine perfekt und bis ins Details ausgestattet.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Typ A Superior",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Toilette und Bad/Dusche getrennt, 2 Schlafräume",
+      "description": "Elegante und gemütliche Ferienwohnung in der herrlichen Umgebung der Olympiaregion Seefeld. Maßgeschneiderte 60 Quadratmeter für den exklusiven Urlaub zu Zweit oder mit der ganzen Familie. Top-Ausstattung, zwei getrennte Schlafräume, zwei großzügige Bäder mit getrennten WC’s, freistehender Wanne und verglaster Erlebnisdusche. Gemütliches Wohnzimmer mit Küchenzeile. Eigene Terrasse mit Sonnenliege und Gartenmöbeln. Ob im Kreise der Familie oder guter Freunde, ob zum Skilauf oder zum Golfen – in diesem Appartement wehen Gemütlichkeit und ein angenehmes Wohlfühlaroma.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Typ B Superior",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Toilette und Bad/Dusche getrennt, 2 Schlafräume",
+      "description": "Appartement / Ferienwohnung für 4 – 8 Personen\n\nUnvergessliche Ferien bei Golf und Ski in der Olympiaregion Seefeld\n\nWohlfühlatmosphäre auf 115 Quadratmetern Fläche. Im Winter zum Ski- und Langlauf, im Sommer zum Golfen, Wandern und Biken – in dieser großzügigen Ferienwohnung mit eleganter Ausstattung ist der Rahmen für einen unvergesslichen Urlaub in den Tiroler Bergen geschaffen. Mit zwei getrennten Schlafräume und bequemen Lösungen auf zwei Schlafcouches entsteht Raum für bis zu acht Personen, ohne für bedrängte Verhältnisse zu sorgen. Zwei großzügige Wohn-, Schlafeinheiten verschmelzen zu einem großen Ganzen. Hier findet die ganze Familie Platz. Und in einer generösen Wohnküche lassen sich die besten Rezepte aus der Tiroler Küche ausprobieren. Die eigene Terrasse eröffnet unvergessliche Ausblicke in die Tiroler Bergwelt und bietet eine Sitzgarnitur und herrliche Sonnenliegen.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Typ C Superior",
+          "numberOfRooms": "4.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "8",
+            "minValue": "4"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Toilette und Bad/Dusche getrennt, 4 oder mehr Schlafräume",
+      "description": "Eine ganze Anlage buchen\n\nDas Alpresort Seefeld exklusiv für besondere Anlässe\n\nWenn sie mit ihren Freunden oder Partnern, Bekannten oder befreundeten Familien etwas ganz Besonders planen, ein Fest, einen Event, eine Veranstaltung oder ein Incentiv, und Sie möchten dafür elegant ausgestattete Appartements und Ferienwohnungen als Destination wählen, dann sind Sie hier genau richtig.\nDas Alpresort verfügt über 6 Appartements und Ferienwohnungen mit Größen zwischen rund 60 und 115 Quadratmetern Fläche. Mit sieben Schlafzimmern und sechs Wohnzimmern entsteht Raum für 14 Personen, die auf einer Gesamtfläche von 380 Quadratmetern reichlich Platz finden. Und dazu eine Sonnenterrasse über 300 Quadratmetern Fläche.\nDie Designer-Ausstattung in den Wohnungen ist exklusiv und entspricht modernsten Ansprüchen. Die Umgebung ist grandios, denn das Alpresort Seefeld liegt inmitten der herrlichen Tiroler Bergwelt. In unmittelbarer Nähe befinden sich Golfplätze, Schwimmbäder, Wanderwege, Skipisten und Langlaufloipen.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Typ D Superior",
+          "numberOfRooms": "13.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "14",
+            "minValue": "8"
+          }
+        }
+      ]
+    }
+  ]
+}

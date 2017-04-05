@@ -1,0 +1,571 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://www.princessbergfrieden.com",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Princess Bergfrieden \u0026 Residenz",
+    "streetAddress": "Milserstr. 274",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "0043 5212 2557",
+    "faxNumber": "(0043) 5212 2557 10",
+    "email": "info@princessbergfrieden.com",
+    "url": "http://www.princessbergfrieden.com"
+  },
+  "name": "Princess Bergfrieden \u0026 Residenz",
+  "description": [
+    "Hotel Princess Bergfrieden in Seefeld in Tirol, das Seefelder Familien Designhotel im Kranebitterstil, direkt am Golfplatz und der Skibus Haltestelle gelegen, verfügt über luxuriöse Suiten und Appartements, die mit großer Sorgfalt eingerichtet wurden und allen modernen Anforderungen entsprechen. Wer es familiär und überschaubar mag, dabei aber auf Luxus nicht verzichten möchte, der ist im Hotel Princess bestens aufgehoben.\n\nEinrichtungen: Frühstücksstube, Bar \u0026 Lounge mit offenem Kamin, Garten, Privatparkplatz, Abstellraum für Skiausrüstung, gratis Wi-Fi, Kinderspielzimmer, Schwimmbad, Sauna, Dampfbad und Fitnessraum.\n\nExtra Personen: \n0-4 Jahre: gratis im Bett der Eltern oder € 10,- incl. Kinderbett\n5–11 Jahre: € 29,– pro Nacht\n12–16 Jahre: € 39,-pro Nacht\n",
+    "IM PREIS INBEGRIFFEN:  \n•Willkommensgetränk \u0026 Infomappe •Im Hotel ist Frühstücksbuffet inklusive \n•beheizter Pool •Sauna/Dampfbad •Fitnessraum \n•gratis Wi-Fi •1 Parkplatz pro Zimmer •Bar \u0026 Lounge mit offenem Kamin •Kinderspielzimmer •Allergiker-geeignete Zimmer •Sonnenterrasse\n•Abstellraum für Golf- \u0026 Skiausrüstung •Gratis-Skibus in der Wintersaison •Greenfee-Rabatte in Seefeld\n",
+    "CHECK-IN: ab 15.00 Uhr bis 20.00 Uhr CHECK-OUT: bis 10.30 Uhr \nFRÜHSTÜCK: bis 10.30 Uhr \nEIN WOCHENAUFENTHALT GEHT VON SAMSTAG BIS SAMSTAG ODER VON SONNTAG BIS SONNTAG JE NACH SAISON\nZuzüglich der Kurtaxe von € 2,80 pro Tag pro Person ab 16 Jahren.\nDoppelzimmer zur Einzelbenutzung: 25 % Ermäßigung.\nHaustiere sind nicht erlaubt",
+    "Hotel Garni, Hotel B\u0026B, Appartement Hotel, Seefeld in Tirol"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "reviewCount": "327"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/57191950-899f-430d-aac8-f343c9889745/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8e5f51e4-0f7d-4c6c-8468-81a0029e9698/99/image.jpg",
+      "caption": "Princess Residenz Bergfrieden"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d6cadf25-41f8-47e8-b995-e0be80e8872b/99/image.jpg",
+      "caption": "Winteransicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/39326853-bd5a-4eff-923a-5544aadfedf5/99/image.jpg",
+      "caption": "Hallenbad"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/65601d24-1701-4ae8-8d6b-9b52a03dd91e/99/image.jpg",
+      "caption": "_49A0539-Bearbeitet"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/da31e593-e8f2-48b5-8337-764fcb79236e/99/image.jpg",
+      "caption": "Wellness - Hotel Princess Bergfrieden, Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8a6a8ba5-4eab-473f-bc8b-919badd1e536/99/image.jpg",
+      "caption": "_49A0096"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/87759950-76e0-4c62-8f5f-6a98cda7109b/99/image.jpg",
+      "caption": "Lounge"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/fc184412-4cf1-4cf8-8c39-a8512b71f2c6/99/image.jpg",
+      "caption": "Lounge \u0026 Bar Hotel Princess Bergfrieden, Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f2f56cc2-4edf-4269-a697-4a95c64244d7/99/image.jpg",
+      "caption": "Bar - Hotel Princess Bergfrieden, Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/be7582ee-bcb6-430f-9289-f039f88eaeee/99/image.jpg",
+      "caption": "Frühstücksraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/213b922b-0771-496f-833c-6dd4bb83f181/99/image.jpg",
+      "caption": "Frühstücksstube Hotel Princess"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c25b97e8-6dd4-40cd-a8b0-2ad6c0f29108/99/image.jpg",
+      "caption": "Kleine Stube Hotel Princess Bergfrieden"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/cba19ee0-06b1-4e3d-8908-6a51062a08bf/99/image.jpg",
+      "caption": "Fitness - Hotel Princess Bergfrieden, Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7a5dcd82-f37b-47cd-9c88-09d0817ba958/99/image.jpg",
+      "caption": "Massage - Hotel Princess Bergfrieden, Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/45040abc-2d50-47f7-817f-7e1a4a9f300b/99/image.jpg",
+      "caption": "Spielzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9fbbcc7c-9e21-4db9-bb7a-125e8c7aa458/99/image.jpg",
+      "caption": "Winter Abend"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/dfea2efc-6de4-4616-b049-b280d04fe61a/99/image.jpg",
+      "caption": "Aussicht Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e0b6d8be-e219-4729-a55b-e9977f073a5e/99/image.jpg",
+      "caption": "Princess Residenz Bergfrieden, Seefeld Tirol"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/449dcead-4e54-4a35-afb6-74842f67dcce/99/image.jpg",
+      "caption": "Frühstück \u0026 Sonnenterrasse Hotel Princess Seefeld"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3268177023789",
+    "longitude": "11.1923432350159"
+  },
+  "paymentAccepted": [
+    "MasterCard",
+    "VISA"
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Suite, Dusche und Bad, WC, 1 Schlafraum",
+      "description": "Suite \"Bergfrieden\" (45 - 52 qm) auf der Südwestseite:\n1 Suite mit Boxspring-Doppelbett und Kabel -TV\n1 Wohnzimmer mit Comfort-Schlafsofa für möglich 3. und 4. Person, Kabel-TV, DVD/CD-Player, Telefon, Safe, gratis Wi-Fi, Kitchenette (Küche) mit Kühlschrank, Spülbecken, Mikrowelle, Herd mit 2/4 Kochstellen und Grundgeschirr für 4 Personen\nBadezimmer mit Badewanne und Duschwand, Toilette, Föhn, Make-up-Spiegel, Bademäntel \u0026 Slippers inklusive. Tägliche Reiningung und Handtuchwechsel\nBalkon",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Suite Bergfrieden",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "5-Nächte \"Zuhause im Golfherz Tirols\"",
+          "description": "- Inklusivleistungen:\n-\t5 Übernachtungen in der Suite Bergfrieden\n-\tReichhaltiges Frühstücksbuffet\n-\tNutzung Schwimmbad, Sauna, Dampfbad und Fitnessraum\n-\tKostenloser Parkplatz am Hotel\n-\tBei Anreise ein Glas Prosecco an der Princess Bar\n-\tPro Person 3er Pack Hotel Princess Bergfrieden Logo-Golfbälle\n-\tPro Person 1x18-Loch Greenfee für den Leading Golf Course Seefeld Wildmoos\n-\tPro Person 1x9-Loch Greenfee für den gegenüberliegenden 9-Loch GC Seefeld-Reith\n-\tPro Person 1 x Sportmassage (25 Minuten)\n-\t30% Rabatt auf das Greenfee des Golfclub Seefeld-Reith\n-\t30% Rabatt auf das Greenfee des Leading Golf Course Seefeld Wildmoos\n\n\n",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "0.00",
+          "maxPrice": "288.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "288.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "469.50",
+          "maxPrice": "469.50",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche und Bad, WC, Superior",
+      "description": "Superior Doppelzimmer \"Princess\" (31-41 qm) auf der Süd- oder Nordseite\ngroßes Doppelzimmer mit Doppelbett und zum Teil mit Schlafsofa für mögliche 3. und 4. Person, Kabel-TV, DVD/CD-Player, Telefon, Safe, gratis Wi-Fi, Miniküche mit Kühlschrank, Mikrowelle, Spülbecken, Herd mit 2 Kochstellen und Grundgeschirr für 4 Personen.\nBadezimmer mit Badewanne und Duschwand, Toilette, Föhn, Make-up-Spiegel. \nBademäntel \u0026 Slippers inklusive. Tägliche Reiningung und Handtuchwechsel.\nBalkon",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Superior DZ Princess",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "3 Nächte im Langlaufparadies Seefeld",
+          "description": "3 Nächte im Superior Doppelzimmer Princess \ninkl. Frühstück \u0026 3 Tage Langlauf Loipenticket:\ngeräumiges Doppelzimmer mit Doppelbett und Sitzgelegenheit, \nKabel-TV, DVD/CD-Spieler, Telefon, Safe, Gratis Wi-Fi\nKitchenette, Sitzecke \u0026 Balkon\nBadezimmer mit Badewanne und Duschwand, Toilette, Föhn, Schminkspiegel \n\nINKLUSIVLEISTUNGEN:\n3 Übernachtungen mit reichhaltigem Frühstücksbuffet\nNutzung Schwimmbad, Sauna, Dampfbad und Fitnessraum\nBademantel, Slippers \u0026 Handtücher\n3 Tage Langlauf Loipenticket",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "3-Nächte \"Zuhause im Golfherz Tirols\"",
+          "description": "- Inklusivleistungen:\n-\t3 Übernachtungen im Superior Doppelzimmer Princess\n-\tReichhaltiges Frühstücksbuffet\n-\tNutzung Schwimmbad, Sauna, Dampfbad und Fitnessraum\n-\tKostenloser Parkplatz am Hotel \n-\tBei Anreise ein Glas Prosecco an der Princess Bar\n-\tPro Person 3er Pack Hotel Princess Bergfrieden Logo-Golfbälle \n-\tPro Person 1x18-Loch Greenfee für den Leading Golf Course Seefeld Wildmoos\n-\t30% Rabatt auf das Greenfee des gegenüberliegenden Golfclub Seefeld-Reith\n-\t30% Rabatt auf das Greenfee des Leading Golf Course Seefeld Wildmoos\n",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/4e630d54-955d-48fe-8d5e-217eb46e800f/99/image.jpg",
+              "caption": "Golf Wildmoos"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "7-Nächte \"Zuhause im Golfherz Tirols\"",
+          "description": "Inklusivleistungen:\n-\t7 Übernachtungen im Superior Doppelzimmer Princess\n-\tReichhaltiges Frühstücksbuffet\n-\tNutzung Schwimmbad, Sauna, Dampfbad und Fitnessraum\n-\tKostenloser Parkplatz am Hotel \n-\tBei Anreise ein Glas Prosecco an der Princess Bar\n-\tPro Person 3er Pack Hotel Princess Bergfrieden Logo-Golfbälle \n-\tPro Person 1x9-Loch Greenfee für den gegenüberliegenden 9-Loch GC Seefeld-Reith\n-\tPro Person 2x18-Loch Greenfee für den Leading Golf Course Seefeld Wildmoos\n-\tPro Person 1 x Sportmassage (25 Minuten)\n-\t30% Rabatt auf das Greenfee des gegenüberliegenden Golfclub Seefeld-Reith\n-\t30% Rabatt auf das Greenfee des Leading Golf Course Seefeld Wildmoos\n\n",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/18a6f382-4a05-4132-b769-77d42c18c27d/99/image.jpg",
+              "caption": "Golf"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "0.00",
+          "maxPrice": "183.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "244.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "269.00",
+          "maxPrice": "269.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "269.50",
+          "maxPrice": "269.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "599.50",
+          "maxPrice": "599.50",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC, Standard",
+      "description": "Standard Doppelzimmer (ca. 19 qm) auf der Nord- oder Westseite mit Balkon.\nDoppelzimmer mit Boxspring-Doppelbett, Kabel-TV, DVD/CD-Player, Telefon, Safe, gratis Wi-Fi\nBadezimmer mit Dusche, Toilette, Föhn, Make-up-Spiegel, Bademäntel \u0026 Slippers inklusive. Tägliche Reiningung und Handtuchwechsel.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Standard Doppelzimmer",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "0.00",
+          "maxPrice": "122.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "166.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 2 Schlafräume",
+      "description": "3-Zimmer-Appartement (90m²) auf der Südseite:\n2 Schlafzimmer mit Doppelbetten, Flatscreen Kabel-TV und Safe\n1 geräumiges Wohnzimmer mit Essecke, großem Flatscreen Kabel-TV, DVD/CD-Spieler, Telefon, gratis Wi-Fi, Kachelofen und Schlafsofa für 5. oder 6. Person\nKüchenzeile (Kochfeld mit 4 Kochstellen, Kombi-Mikrowelle, Kühlschrank, Spülbecken, Geschirrspüler und Basisgeschirr für 6 Personen)\n1 Badezimmer (9m²) mit Badewanne, Dusche, Doppelwaschbecken, Föhn, Schminksspiegel\nseparate Toilette\nBalkon",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Bergblick",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "499.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "0.00",
+          "maxPrice": "499.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "0.00",
+          "maxPrice": "529.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "0.00",
+          "maxPrice": "577.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Studio, Toilette und Bad/Dusche getrennt, Economy",
+      "description": "Studio (45m²) im Souterrain an der Westseite\nGroßes Studio im Souterrain mit 3 Stockbetten für maximal 6 - 7 Personen\n5 Betten Größe 90 x 200 cm / 1 Bett Größe 160 x 200 cm\nGemütliche Sitzecke mit Flatscreen TV, DVD/CD Spieler, Telefon und Internetzugang / Wi-Fi\nKühlschrank im Studio\n2 Badezimmer mit Dusche, Föhn und Make-up Spiegel\nBademantel \u0026 Slippers und täglicher Handtuchwechsel\nSeparate Toilette\nAm Spielzimmer gelegen\nBuchbar ab Mindestbelegung von 4 Personen",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Stockbetten Studio",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "3"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "0.00",
+          "maxPrice": "66.33",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "0.00",
+          "maxPrice": "49.75",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Badewanne, 2 Schlafräume",
+      "description": "Ab Sommer 2015 in der neugebauten Princess Residenz:\n\n    2 Schlafzimmer mit Boxspring Doppelbetten, Flachbildfernseher und Kabel-TV\n\n    Geräumiges Wohnzimmer mit Schlafsofa für evt. 5. oder 6. Person\n\n    Esstisch, Flachbildfernseher, Kabelfernsehen, DVD/CD-Spieler, Telefon, Internetanschluss und Wi-Fi\n\n    Küchenzeile (Kochfeld mit 4 Kochstellen, Kombi-Mikrowelle, Kühlschrank, Geschirrspüler, Kaffeemaschine, Wasserkocher, Spülbecken und Basisgeschirr für 6 Personen)\n\n    2 luxuriöse Badezimmer, 1x mit Badewanne, 1x mit Dusche, Waschbecken, Föhn, Schminkspiegel und Toilette\n\n    Bademäntel \u0026 Slippers und täglicher Handtuchwechsel\n\n    großer Balkon oder Terrasse mit fantastischer Aussicht auf das Seefelder Bergpanorama\n\n    Stellplatz in der Tiefgarage inklusive\n\n\nFrühstücksbuffet im Stammhaus für EUR 15,- pro Person möglich - wir bitten um Ihre Reservierung.\nBrötchenservice möglich bei Bestellung am Vortag.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Luxus Appartement Residenz Süd",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "3"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "0.00",
+          "maxPrice": "419.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "0.00",
+          "maxPrice": "457.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "0.00",
+          "maxPrice": "499.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "0.00",
+          "maxPrice": "544.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 2 Schlafräume",
+      "description": "Ab Sommer 2015 in der neugebauten Princess Residenz:\n\n    2 Schlafzimmer mit Boxspring Doppelbetten, Flachbildfernseher und Kabel-TV\n\n    Geräumiges Wohnzimmer mit Schlafsofa für evt. 5. oder 6. Person\n\n    Esstisch, Flachbildfernseher, Kabelfernsehen, DVD/CD-Spieler, Telefon, Internetanschluss und Wi-Fi\n\n    Küchenzeile (Kochfeld mit 4 Kochstellen, Kombi-Mikrowelle, Kühlschrank, Geschirrspüler, Kaffeemaschine, Wasserkocher, Spülbecken und Basisgeschirr für 6 Personen)\n\n    2 luxuriöse Badezimmer, 1x mit Badewanne, 1x mit Dusche, Waschbecken, Föhn, Schminkspiegel und Toilette\n\n    Bademäntel \u0026 Slippers und täglicher Handtuchwechsel\n\n    großer Balkon oder Terrasse mit fantastischer Aussicht auf das Seefelder Bergpanorama\n\n    Stellplatz in der Tiefgarage inklusive\n\n\nFrühstücksbuffet im Stammhaus für EUR 15,- pro Person möglich - wir bitten um Ihre Reservierung.\nBrötchenservice möglich bei Bestellung am Vortag.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Luxus Appartement Residenz Ost",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "3"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "0.00",
+          "maxPrice": "399.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "0.00",
+          "maxPrice": "427.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "0.00",
+          "maxPrice": "476.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "0.00",
+          "maxPrice": "522.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

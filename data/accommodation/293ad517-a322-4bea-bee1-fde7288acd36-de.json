@@ -1,0 +1,101 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Arabella Top 15",
+    "streetAddress": "Leutascherstraße 597 ",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 9143836",
+    "email": "info@sportalut.at"
+  },
+  "name": "Haus Arabella - Pohl",
+  "description": "Am Rande von Seefeld, nur 5 Gehminuten vom Dorfzentrum entfernt, erwartet Sie das Haus Arabella - Top 15. Das moderne Apartment ist mit kostenfreiem WLAN und einem Flachbild-Sat-TV ausgestattet. Entspannen Sie auf der Terrasse des Apartments mit Blick auf den Garten der Unterkunft. Das Skigebiet Gschwandkopf liegt 500 m entfernt.\n\nFreuen Sie sich im Haus Arabella auch auf einen Skiraum, kostenfreie Privatparkplätze sowie 2 Fahrräder.\n\nIm Winter hält ein Skibus an der Unterkunft und das Skigebiet Rosshütte liegt 2 km entfernt. Einen Supermarkt finden Sie in 500 m Entfernung und nach 1 km erreichen Sie ein Restaurant mit typischer einheimischer Küche. Das öffentliche Olympiabad Seefeld ist 400 m entfernt.\n",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "reviewCount": "27"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1565f602-fcf6-47a6-978c-d7164ccc2bf4/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3702281e-5a25-4207-af83-9b7874f6bf73/99/image.jpg",
+      "caption": "Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3329918",
+    "longitude": "11.1799086"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, Erdgeschoß/Parterre",
+      "description": "Das Arabella - Top 15 Apartment bietet:\n\nEine Küche mit Geschirr,Elektroherd,Toster,Wasserkocher,Kaffeemaschine,Kühlschrank.\nEin Wohnzimmer mit Sitzecke,Radio,Fernseher und einen tollen Ausblick zur Rosshütte.\nEin Badezimmer mit Dusche und Bademäntel.\n\nFreuen Sie sich im Haus Arabella ",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement/Fewo, Dusche und Bad, WC, Erdgeschoß/P",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, Erdgeschoß/Parterre",
+      "description": "Das Arabella - Top 15 Apartment bietet:\n\nEine Küche mit Geschirr,Elektroherd,Toster,Wasserkocher,Kaffeemaschine,Kühlschrank.\nEin Wohnzimmer mit Sitzecke,Radio,Fernseher und einen tollen Ausblick zur Rosshütte.\nEin Badezimmer mit Dusche und Bademäntel.\n\nFreuen Sie sich im Haus Arabella ",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement/Fewo, Dusche und Bad, WC, Erdgeschoß/P",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "45.00",
+          "maxPrice": "45.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "45.00",
+          "maxPrice": "45.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "Fronleichnam Prozession",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "description": "Hl. Messe mit anschließender Prozession aller Vereine und der Bevölkerung von Scharnitz, (Prozession nur bei gutem Wetter).",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/25839c07-722c-4ce8-9672-ac2636337a74/99/image.jpg",
+      "caption": "Fronleichnam"
+    }
+  ],
+  "startDate": "2017-06-15T08:30:00",
+  "endDate": "2017-06-15"
+}

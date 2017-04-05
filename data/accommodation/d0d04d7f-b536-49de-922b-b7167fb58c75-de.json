@@ -1,0 +1,155 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.hildes-heim-scharnitz.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Hildesheim",
+    "streetAddress": "Hinterautalstrasse 158",
+    "addressLocality": "Scharnitz",
+    "postalCode": "6108",
+    "addressCountry": "AT",
+    "telephone": "+4352135154",
+    "faxNumber": "+4352135154",
+    "email": "hildes-heim-scharnitz@hotmail.com",
+    "url": "http://www.hildes-heim-scharnitz.at"
+  },
+  "name": "Haus Hildesheim",
+  "description": [
+    "Unser gastfreundliches, ruhig gelegenes Nichtraucherhaus ist besonders kinderfreundlich. Familienzimmer, Doppelzimmer mit Zusatzbett sowie erweitertes Frühstück und ein gemütlicher Frühstücksraum runden das Angebot ab. Für unsere kleinen Gäste stehen ein Hochstuhl, ein Kinderbett und 2 Gitterbettchen zur Verfügung. Wir bieten unseren Gästen kostenloses W-Lan an.\n\n\nUnsere Ferienwohnung ist auch mit Frühstück buchbar: € 7,- pro Pers./Tag oder Familienfrühstück: € 20.- ( 2 Erwachsene und 2-3 Kinder)\nAuf eine persönliche Betreuung freut sich Familie Karin Ilg",
+    "Von Mittenwald kommend über die Isarbrücke und vor der Kirche links. Unter der Eisenbahnbrückee durch und nach Sägewerk und Cafe Lend den mittleren Weg hoch und dann das 4. Haus auf der rechten Straßenseite."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c7364183-c420-4149-add1-adf2e0882079/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4002382e-d3b9-44ef-8349-de49b35872f0/99/image.jpg",
+      "caption": "Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3850647448892",
+    "longitude": "11.2672626972198"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Zimmer mit Zirbenmöbeln, Tisch, 2 Stühle, Schrank, Teppichboden, Kommode",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "30.00",
+          "maxPrice": "33.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "25.00",
+          "maxPrice": "28.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Familienzimmer, Dusche oder Bad, WC",
+      "description": "Durchgangszimmer: 1. Raum: Doppelbett, Tisch mit 4 Stühlen, Schrank und Kommode                           2. Raum: 1 Bett, 1 Zusatzbett,  Schrank und kleiner Tisch, Teppichboden. Es ist möglich in beiden Räumen ein Gitterbett oder Kinderbett dazuzustellen.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Familienzimmer mit Dusche od. Bad, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "27.00",
+          "maxPrice": "30.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "25.00",
+          "maxPrice": "28.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "22.00",
+          "maxPrice": "24.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 1 Schlafraum",
+      "description": "Nichtraucher-Haus\nUnsere gemütliche Ferienwohnung im Dachgeschoß für 2-5 Personen, verfügt über Geschirrspüler, TV,HIFI, Video, Babyausstattung, Balkon und Bettwäsche.\nKinderermäßigung!",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/1 Schlafraum/Bad, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

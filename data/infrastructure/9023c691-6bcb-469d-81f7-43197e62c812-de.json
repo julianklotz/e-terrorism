@@ -1,0 +1,28 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Physician"
+  ],
+  "name": "Arzt - Dr. Oswald Heis",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3696199971114",
+    "longitude": "11.158512988955"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Weidach 293a",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6910"
+  },
+  "description": "Arzt für Allgemeinmedizin\nmit Hausapotheke\nWeidach 293 a\nTel.: +43 5214/6910\n\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f0786d49-472e-465f-a10f-94ba83cba308/99/image.jpg",
+      "caption": "Symbol"
+    }
+  ]
+}

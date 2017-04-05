@@ -1,0 +1,47 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant"
+  ],
+  "name": "Sailer\u0027s Restaurant",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3274612857328",
+    "longitude": "11.1874160170555"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Sailer\u0027s Restaurant",
+    "streetAddress": "Innsbrucker Str. 12",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2005",
+    "email": "restaurant@seefeldsailer.at",
+    "url": "http://www.seefeldsailer.at"
+  },
+  "description": [
+    " ",
+    "Wir würden uns freuen, wenn wir Sie kulinarisch verwöhnen dürften, um Ihnen eine unvergessliche Zeit bei uns zu bescheren.\nSailer´s Restaurant ist ein führendes a là carte Restaurant im Herzen von Seefeld. Wir verwöhnen unsere Gäste mit verfeinerter Tiroler Küche, italienischen Spezialitäten und originellen Kreationen aus dem Asiatischen und der modernen Küche.\nDas Sailer´s ist in edlem Landhausstil eingerichtet und umfasst zwei Stuben mit großem Kachelofen, Barbereich und einem Weinkeller.\nIm Sommer heissen wir unsere Gäste im gemütlichen Gastgarten unter hundert Jahre alten Kastanienbäumen willkommen. Wir führen das Sailer´s mit sehr viel Liebe und persönlichem Einsatz und sind stolz eines der besten Restaurants der Region zu sein.\nUnser Augenmerk liegt auf der Verarbeitung frischer hochwertiger Produkte aus einheimischen Tiroler Betrieben mit gebietstypischem Geschmack.\nSailer´s Restaurant verkörpert den Charme der Alpen und verzaubert durch seine Tiroler Gastlichkeit auf höchster qualitativer Ebene."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a1353c81-8363-4ca5-9538-420b6fceac18/99/image.jpg",
+      "caption": "Restaurant "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/81c61302-34e7-4da1-b3f4-59997c71fdaf/99/image.jpg",
+      "caption": "Haus Logo"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b45a4a25-fff1-4696-afa5-e5397dbfd517/99/image.jpg",
+      "caption": "Restaurant Bild 1"
+    }
+  ],
+  "url": [
+    "http://www.seefeldsailer.at"
+  ]
+}

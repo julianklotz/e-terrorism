@@ -1,0 +1,76 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://members.aon.at/hoerhager-seefeld/",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Hoerhager",
+    "streetAddress": "Am Kirchwald 348",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "email": "hoerhager-seefeld@a1.net",
+    "url": "http://members.aon.at/hoerhager-seefeld/"
+  },
+  "name": "Haus Hörhager",
+  "description": [
+    "ruhige Lage, freie Aussicht zum Seekirchl und Gschwandtkopf\n7 min. vom Dorfzentrum entfernt\nDorfbus Haltestelle: 50 m",
+    "Inklusive: Bettwäsche und Handtücher"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f19edcf0-875e-4a27-82ea-8a1a29a0381f/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c755f47f-8556-4f6d-bdac-1ef6da35a200/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/620ef66a-17af-4bf0-bed2-8d2d2808fed2/99/image.jpg",
+      "caption": "Aussicht Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2d7114dd-c20b-4cf6-ba8b-7116044ed99f/99/image.jpg",
+      "caption": "Aussicht Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3278430687626",
+    "longitude": "11.1797475814819"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Ruhig gelegen, freie Sicht zum Seekirchl\n7 Minuten ins Zentrum",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://www.landhotel-wolf.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Landhotel Wolf",
+    "streetAddress": "Obern 28c",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 20085",
+    "faxNumber": "(0043) 5214 2008530",
+    "email": "info@landhotel-wolf.at",
+    "url": "http://www.landhotel-wolf.at"
+  },
+  "name": "Landhotel Wolf",
+  "description": [
+    "Das sonnig gelegene Landhotel Wolf ist ein Treffpunkt für Menschen, die bewusst eine Auszeit nehmen wollen - nach dem Motto: Raus aus dem Haus - Rein in die Natur! Zentraler Ausangspunkt zum Almen-\u0026 Wanderparadies Gaistal sowie 279 km präparierte Loipen- und Skatingspuren. Loipeneinstieg in 50 m, Bushaltestelle in ca. 150 m\nW-LAN kostenlos!\nHelle Komfortzimmer, Dusche oder Badewanne, WC, Haarfön, SAT-TV mit Flachbildschirm, Schreibtisch, Balkon mit Bergblick,\nSauna mit Frischluftbereich, Trockenraum, versperrbarer Ski- und Fahrradraum, Parkgarage \u0026 -plätze",
+    "Check-In 16.00 Uhr / Check-Out 11.00 Uhr\nAus Richtung Mittenwald - Seefeld: weiter in Richtung Telfs, folgen Sie der Beschilderung Ortsteil Obern.\nAus Richtung Telfs: am Ortseingang links nach Moos - Obern abbiegen. Nach 1,5 km finden Sie unser Hotel an der linken Seite in Obern.",
+    "Leutasch,Motorrad,Wandern,Hund,Skifahren,Langlauf,Skating,Garage,Gruppe,Sauna,Loipe,Fahrrad,Familie"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "reviewCount": "329"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2fae81f8-e7a9-45f1-971b-cb4044644bce/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ca7dbf0d-b429-4485-8b5e-6e905b5016ef/99/image.jpg",
+      "caption": "Logo"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d31b9734-cb08-4502-b38c-9bed3b8cd144/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/48718caa-538f-4ae2-bcb1-67f6e9ea53da/99/image.jpg",
+      "caption": "Fitnessraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/50cdef84-8a5b-4633-94ea-a9c3af39ff28/99/image.jpg",
+      "caption": "Sauna"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/240d1255-a751-4d9e-a8dd-ff535dfc7289/99/image.jpg",
+      "caption": "Wintergarten"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6a660a16-2502-4747-988b-bc0f33fb6448/99/image.jpg",
+      "caption": "Lounge \u0026 Bar"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6a19426a-34c1-48c2-ad43-5df5b68bceff/99/image.jpg",
+      "caption": "Aufenthaltsraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d07aa7cd-8ca7-44b4-83ee-5fe0edaf9ed7/99/image.jpg",
+      "caption": "Garten"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a03be4ab-7fb6-437d-8fa8-58cf3cc944b0/99/image.jpg",
+      "caption": "Hausansicht bei Nacht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/92ec4aed-dd65-4fb8-8562-21914d399515/99/image.jpg",
+      "caption": "Ski- und Trockenraum"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3586577",
+    "longitude": "11.1228779"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Helles Zimmer mit Doppelbett, Dusche o. Badewanne, WC, großer Balkon, SAT-TV mit Flachbildschirm, Schreibtisch.\nDoppelzimmer zur Einzelnutzung mögl.\nOffener Kamin und kostenloses W-LAN im Lounge-/Barbereich,\nFinnischen Sauna mit Außenbereich im Steingarten und Barfußpfad,\nFitnessraum, absperrbarer Fahrrad-, Ski- und Trockenraum, Wachslbereich vorhanden,\nSonnenterasse und Liegewiese mit Panoramablick auf das Wettersteingebirge. Kostenloses Bergwasser und Tee ganztägig.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Dusche o. Bad, WC, TV, Balkon",
+          "description": "Helle Zimmer mit Dusche o. Bad, WC, Haarfön, SAT-TV mit Flachbildschirm, Schreibtisch sowie Balkon mit Bergblick inkl. Sitzmöbel",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "42.00",
+          "maxPrice": "64.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "32.00",
+          "maxPrice": "54.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche oder Bad, WC",
+      "description": "Helles Zimmer mit Doppelbett oder getrennte Betten, Dusche oder Badewanne, WC, großer Balkon, SAT-TV mit Flachbildschirm, Schreibtisch.\nDoppelzimmer zur Einzelnutzung mögl.\nOffener Kamin und kostenloses W-LAN im Lounge-/Barbereich,\nFinnischen Sauna mit Außenbereich im Steingarten und Barfußpfad,\nFitnessraum, absperrbarer Fahrrad-, Ski- und Trockenraum, Wachslbereich vorhanden,\nSonnenterasse und Liegewiese mit Panoramablick auf das Wettersteingebirge. Kostenloses Bergwasser und Tee ganztägig.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppel/TWIN-Zimmer mit Dusche o. Bad,WC,TV,Balkon",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "42.00",
+          "maxPrice": "64.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "32.00",
+          "maxPrice": "54.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "35.75",
+          "maxPrice": "49.50",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure"
+  ],
+  "name": "Kirchplatzl",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "description": "Gemeindehaus/Friedhof (Kurzparkzone)",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2a8d666f-b484-4ab4-9dbf-b597b78de6df/99/image.jpg",
+      "caption": "Parkplatz"
+    }
+  ]
+}

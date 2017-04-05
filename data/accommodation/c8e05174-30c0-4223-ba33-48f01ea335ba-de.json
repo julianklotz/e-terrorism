@@ -1,0 +1,19 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Abendsonne",
+    "streetAddress": "Emmat 371a",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0049) 179 5151541",
+    "email": "haus-abendsonne@gmx.de",
+    "url": "http://www.hausabendsonne.wordpress.com"
+  },
+  "name": "ZW - Penzkofer Ulrike",
+  "currenciesAccepted": "EUR"
+}

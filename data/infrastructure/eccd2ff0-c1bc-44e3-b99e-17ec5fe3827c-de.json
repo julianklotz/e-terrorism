@@ -1,0 +1,33 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Store",
+    "ClothingStore"
+  ],
+  "name": "Triumph International",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3289993091041",
+    "longitude": "11.1848384141922"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Triumph International",
+    "streetAddress": "Klosterstraße 608",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 99816",
+    "url": "http://www.triumph.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/29f072d4-0f8d-417a-ba0f-d714c1e2ef84/99/image.jpg",
+      "caption": "Triumph International"
+    }
+  ],
+  "url": [
+    "http://www.triumph.at"
+  ]
+}

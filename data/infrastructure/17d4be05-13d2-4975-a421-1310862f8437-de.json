@@ -1,0 +1,20 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure"
+  ],
+  "name": "Parkplatz Puitbach",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3886344999388",
+    "longitude": "11.1751676956787"
+  },
+  "description": "Kletterparkplatz (gebührenfrei)",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7753410e-41ba-48db-aab3-6490a7b4e326/99/image.jpg",
+      "caption": "Parkplatz"
+    }
+  ]
+}

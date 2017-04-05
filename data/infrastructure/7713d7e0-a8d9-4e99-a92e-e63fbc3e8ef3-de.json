@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation"
+  ],
+  "name": "Pferdekutschenfahrten - Neuner Rudi",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3615535359172",
+    "longitude": "11.1214595429611"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Wirtseppelerhof",
+    "streetAddress": "Obern 30 b",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6768",
+    "faxNumber": "(0043) 5214 6768",
+    "email": "info@wirtseppeler.at",
+    "url": "http://www.wirtseppeler.at"
+  },
+  "description": "Fiakerstandplatz Leutasch, Klamm\n\nTel.: +43 5214/6768",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ec7a2882-1ebb-44a5-95c9-d29bac243649/99/image.jpg",
+      "caption": "Fiaker"
+    }
+  ]
+}

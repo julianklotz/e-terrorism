@@ -1,0 +1,98 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.roedlach-arendt.com",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Ferienwohnungen Arendt-Rödlach",
+    "streetAddress": "Weidach 363 a",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6669",
+    "email": "roedlach.arendt@aon.at",
+    "url": "http://www.roedlach-arendt.com"
+  },
+  "name": "Ferienwohnungen Arendt-Rödlach",
+  "description": [
+    "Verbringen Sie erholsame Tage in unseren familiär geführten, gemütlichen Wohnungen, in ruhiger und doch zentraler Lage in Weidach mit großem Garten und Sonnenterrasse.\nIn der Nähe: Lebensmittel- und Sportgeschäfte,Restaurants,Cafes,Kreitlift. Direkt am Loipeneinstieg, wunderbare Wanderwege ab Haus.\n",
+    "Verbringen Sie erholsame Tage in unseren familiär geführten, gemütlichen Wohnungen, in ruhiger und doch zentraler Lage in Weidach mit großem Garten und Sonnenterrasse.\nIn der Nähe: Lebensmittel- und Sportgeschäfte,Restaurants,Cafes,Kreitlift. Direkt am Loipeneinstieg, wunderbare Wanderwege ab Haus.\n",
+    "INKLUSIVE: Bettwäsche, Handtücher, Strom, Wasser, Heizung\n\nEXKLUSIVE: Telefongebühren,WLAN, Ortstaxe, Endreinigung nach Vereinbarung",
+    "INKLUSIVE: Strom, Wasser, Heizung\n\nEXKLUSIVE: Telefongebühren, Ortstaxe, Endreinigung nach Vereinbarung",
+    "Check-In 13.00 Uhr, Check-Out 9.30 Uhr\nInformationsbüro Weidach - Richtung Emmat - Häuserzeile rechts liegend"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "reviewCount": "12"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/75ad4eb9-aa60-4fce-bb46-23b74863290f/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f62b5b77-9374-4c5d-b7fa-454ca827ee27/99/image.jpg",
+      "caption": "Winter"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.37542494172",
+    "longitude": "11.169761263596"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "sonnig, gemütlich, komfortable Wohnung mit Balkon, Radio, SAT-TV, Telefon, Bergpanorama",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "0.00",
+          "maxPrice": "87.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "87.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "0.00",
+          "maxPrice": "87.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

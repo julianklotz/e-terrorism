@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Church"
+  ],
+  "name": "Die Absetzkapelle oder Osötz Kapelle",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2861786073477",
+    "longitude": "11.2308928700501"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Absetzkapelle",
+    "streetAddress": "Leithener Dorfstraße ",
+    "addressLocality": "Reith bei Seefeld",
+    "postalCode": "6103",
+    "addressCountry": "AT"
+  },
+  "description": [
+    " ",
+    "Die Osötz-Kapelle befindet sich kurz vor dem Gefälle am Zirler Berg auf der rechten Seite. Der Bau dieser Kapelle ist auf das Zirler Radfuhrwerkwesen zurückzuführen. Die damaligen Fuhrleute haben als Dank und Hilfe Gottes diese Andachtsstätte errichtet. An der Osötz wurde immer abgesetzt, bebetet und gerastet. Die talwärts Fahrenden klemmten die Bremsschuhe zwischen die Räder, die bergwärts Fahrenden wechselten die Pferde. Ein jeder lüftete seinen Hut und schickte ein kurzes Stoßgebet zum \"Herrn im Elend\", dem diese Osötz geweiht war. "
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/04269826-ac5d-4aa7-9695-c80a835424de/99/image.jpg",
+      "caption": "Kapelle"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c33a82c8-4ccd-4b53-932b-018d7f603559/99/image.jpg",
+      "caption": "Kapelle Sommer"
+    }
+  ],
+  "url": [
+    "http://www.seefeld.com"
+  ]
+}

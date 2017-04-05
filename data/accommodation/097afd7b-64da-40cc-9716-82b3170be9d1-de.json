@@ -1,0 +1,109 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.pensionholzmann.com",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Appartement Holzmann",
+    "streetAddress": "Ostbach 13 a",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 20022",
+    "email": "info@pensionholzmann.com",
+    "url": "http://www.pensionholzmann.com"
+  },
+  "name": "Appartement Holzmann",
+  "description": [
+    "Unser Haus liegt am Waldesrand im Ortsteil Ostbach in ruhiger Lage, umgeben von Wiesen und einer herrlichen Bergwelt, wir vermieten 1 FW für 2 Pers. und 1 FW für 4 Pers., große Liegewiese mit dem vorbei fließenden Bächlein, idealer Ausgangspunkt für Wander-, Berg- und Radtouren, direkter Loipeneinstieg.",
+    "INKLUSIVE: Heizung, Strom, Wasser, Bettwäsche, Hand- , Bade- und Geschirrtücher\n\nEXKLUSIVE: Ortstaxe, Brötchenservice, Endreinigung, Garage",
+    "Check-In 15.00 Uh / Check-Out 10.00 Uhr - 11.00 Uhr\n\nVon Mittenwald: Leutasch - Schanz - Gasse  - Richtung Telfs - Ostbach\n\nVon Seefeld: Leutasch - Weidach - Richtung Telfs - Ostbach"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/64d41369-8e92-4f3a-a62b-56c4aea7be46/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ca78885c-3607-4150-b214-b2edfa925e71/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9853c09c-eeff-4055-9029-6c9f68456e2a/99/image.jpg",
+      "caption": "Balkon"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e0a358d2-4999-4b55-8081-3450d25ce325/99/image.jpg",
+      "caption": "Ausblick"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1c064e46-385a-42bc-b2f5-c10ae95d80e6/99/image.jpg",
+      "caption": "Bank zum Relaxen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8cf7a9ca-f75a-4363-8b89-e39552f5bddc/99/image.jpg",
+      "caption": "Loipen direkt vor dem Haus"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3588624",
+    "longitude": "11.1358643"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "Komfortferienwohnung mit großem Südbalkon, bestehend aus einem Wohnzimmer mit großer Sitzgruppe und SAT-TV, Wohnküche mit Sitzecke, 2 Schlafzimmer mit je DU/WC;",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Ap. Ahrnspitze /2 Schlafräume/Dusche, WC",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Komfortable Ferienwohnung mit Südwestbalkon, bestehend aus einem Wohnzimmer mit Couch und SAT-TV, Sitzecke, Schlafzimmer mit DU/WC;",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Ap. Hohe Munde/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

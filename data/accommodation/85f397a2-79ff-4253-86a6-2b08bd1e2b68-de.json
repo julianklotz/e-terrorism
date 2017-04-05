@@ -1,0 +1,887 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://www.platzhirsch-leutasch.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Gasthof Zum Hirschen",
+    "streetAddress": "Obern 40",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6254",
+    "faxNumber": "(0043) 5214 60135",
+    "email": "neuner@platzhirsch-leutasch.at",
+    "url": "http://obern.no-ip.biz/wordpress/"
+  },
+  "name": "Gasthof Zum Hirschen",
+  "description": [
+    "In ruhiger, sonniger Lage finden Sie unser familiär geführtes 3 Sterne Hotel - Gasthof zum Hirschen in Leutasch. Im Winter unmittelbar an der Langlaufloipe, im Sommer direkter Ausgangspunkt für zahlreiche Wanderungen \u0026 Mountainbiketouren – unser 3 Sterne Gasthof Zum Hirschen eignet perfekt für Ihren Sommer- und Winterurlaub in Tirol.\n\nJedes unserer 16 Komfortzimmer verfügt über ein Telefon, Sat-TV, Balkon, Dusche oder Bad, WC und entweder einer Sitzecke oder Sitzcouch. Unsere voll ausgestatteten Zimmer sind alle liebevoll und gemütlich im Tiroler Stil eingerichtet. Machen Sie es sich in einem der 25 – 33 m² großen Komfortzimmer gemütlich und genießen Sie das atemberaubende Bergpanorama vom Leutaschtal direkt von Ihrem Balkon aus. Auch der Aufenthaltsraum, ebenfalls im Tiroler Stil, bietet Ihnen Platz zum Verweilen. Buchen Sie die Komfortzimmer mit Frühstück oder lassen Sie sich auch abends von uns kulinarisch verwöhnen – bei Buchung mit Halbpension. WLAN steht Ihnen natürlich im ganzen Gasthof Zum Hirschen kostenlos zur Verfügung. Gönnen Sie sich eine Auszeit, trinken Sie Ihren Nachmittagskaffee direkt an der hauseigenen Bar oder genießen Sie diesen auf der sonnigen Terrasse mit großzügiger Liegewiese.\n\nIm Winter gelangen Sie in nur wenigen Schritten auf die Langlaufloipe A5 Obern. Als unser Gast können Sie die 271 km täglich präparierten Langlaufloipen der Olympiaregion Seefeld kostenlos nutzen.  Erkunden Sie das Leutaschtal bei einer Winterwanderung durch die verschneite Winterlandschaft. Auch hierfür stehen Ihnen über 140 km geräumte Winterwanderwege in der Region zur Verfügung.\nIm Sommer ist Leutasch besonders bei Wanderer und Mountainbikern beliebt. Direkt hinter unserem Gasthof Zum Hirschen führt der Achweg vorbei, welcher durch das gesamte Leutaschtal führt. Von unserem Haus aus gelangen Sie in nur 5 Fahrminuten in das Almenparadies Gaistal, wo viele Wanderziele Sie erwarten. Die Bushaltestelle befindet sich ebenfalls nur wenige Schritte vom Gasthof entfernt. Oder starten Sie Ihre Hüttentour direkt vom Gasthof Zum Hirschen. Dies können Sie natürlich auch alles mit dem Mountainbike erkunden. Abstellmöglichkeit für Ihre Fahrräder ist natürlich vorhanden.\n\nWir wollen Sie in unserem Familienbetieb Gasthof Zum Hirschen willkommen heißen! Ihre Gastgeber, Familie Neuner.",
+    "An- und Abreisezeiten mit Wegbeschreibung.\nCheck-in 13.00 Uhr / Check-out 11.00 Uhr\nUnser Haus liegt im Ortsteil Obern erreicbar über die Straße Mittenwald - Leutasch. Innsbruck - Seefeld - Leutasch oder Telfs - Buchen -Leutasch. Ideale Lage für Ihre Wanderungen in das Gaistal.\n"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/91692844-ab8b-4bba-a5e3-efc906c2ee33/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5803306c-093e-4600-954f-17907e2af56e/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4cb657da-73ef-4ebd-a980-aca4561f7cad/99/image.jpg",
+      "caption": "Haus im Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/43a7bca8-cf69-4cc7-abbc-27f77fe89aab/99/image.jpg",
+      "caption": "Frühstücksraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/19689dac-730c-4d19-90a4-b89981de5c0c/99/image.jpg",
+      "caption": "Aufenthaltsraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ad672020-caac-4c78-be84-ad4b3ead8acc/99/image.jpg",
+      "caption": "Restaurant"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a88ccd70-73c7-4309-8469-f3c4acbe7dfa/99/image.jpg",
+      "caption": "2Halle_3Chouch"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/96212847-0c13-4073-af01-16d53f45c304/99/image.jpg",
+      "caption": "2.Halle_4Couch"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/64b14eb8-b7ad-4e58-bfcb-123b28fc9b09/99/image.jpg",
+      "caption": "2.Halle_5Couch-groß"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7f2d22cd-837d-499f-bffb-ece8b65f8465/99/image.jpg",
+      "caption": "20140730_102434_HDR"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/337e5a61-1e55-48c8-a9cd-bd6c6f7489c9/99/image.jpg",
+      "caption": "CropperOutput1318095544"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e7873c74-eb62-47ab-9109-c27da524e821/99/image.jpg",
+      "caption": "20151002_103824"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2f27f6f2-972f-4fa9-93c4-85cf9729e24d/99/image.jpg",
+      "caption": "20150923_170400"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/633e77e7-bc33-442c-aa11-ffb4b093d265/99/image.jpg",
+      "caption": "20150923_165728"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/702ee0b7-d8ee-4008-ae18-1c01ffb08b06/99/image.jpg",
+      "caption": "20140730_101304_HDR"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8e694cd9-61b6-4fcc-a850-5cb366bfbb31/99/image.jpg",
+      "caption": "20161007_100539"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7ac9ff00-4702-4be3-b1c9-f19c0cd63430/99/image.jpg",
+      "caption": "1010473"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0772340c-e688-4fc9-94fd-5565bc182d16/99/image.jpg",
+      "caption": "20161007_141848_HDR"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6b8cddb7-74f1-4c5f-86bb-45c85037de68/99/image.jpg",
+      "caption": "20161007_141344_HDR"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f373c6c4-cc30-43fc-9b85-ca5dfd677bc4/99/image.jpg",
+      "caption": "20161007_141749_HDR"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/fab5e99a-c70d-483f-a80a-c11070d59939/99/image.jpg",
+      "caption": "20161007_140915_HDR"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9556ba84-682a-43ec-86d4-74624de1ddd8/99/image.jpg",
+      "caption": "20161007_140841_HDR"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/04bf939e-d3be-469a-ad38-0379f03d11b5/99/image.jpg",
+      "caption": "20161007_140515"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7e61822c-43be-46b3-a83f-b217c30c09f0/99/image.jpg",
+      "caption": "20161007_140208"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/989ac697-8d39-40d4-8191-429c3b4c7fe1/99/image.jpg",
+      "caption": "20161007_140208_HDR"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/61a93281-53f8-42f5-9fa5-5bcafd9b601e/99/image.jpg",
+      "caption": "20161007_135936_HDR"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4366182f-0a4d-4057-9679-56f72da6f03c/99/image.jpg",
+      "caption": "20161007_135746"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/39d26787-4052-4357-906b-1da5a9561d68/99/image.jpg",
+      "caption": "20161007_135642_HDR"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/27ad77e4-0bc9-44b8-be57-9057d8d16419/99/image.jpg",
+      "caption": "20161007_135541_HDR"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d30c07fa-c28a-4432-ab51-f8ae1c2a7916/99/image.jpg",
+      "caption": "20161007_134937_HDR"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e4ecde0b-7da6-45a9-a325-a8fcdf93f6bb/99/image.jpg",
+      "caption": "20161007_134937"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/263dcc41-52ba-4a7f-96a9-31ba131aa8ae/99/image.jpg",
+      "caption": "20161007_134150"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/01a62dd0-0462-4d34-a04f-47a237937087/99/image.jpg",
+      "caption": "20161007_132952_HDR"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/452ae101-641f-427e-ba0d-887ba4a4314a/99/image.jpg",
+      "caption": "20161007_122821_HDR"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ac078864-4782-4e17-99f6-60deea4d1852/99/image.jpg",
+      "caption": "20161007_122321_HDR"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/841ea058-6ba0-49ca-993b-1b8e47c8b538/99/image.jpg",
+      "caption": "20161007_121415_HDR"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e181c015-fcd2-44bf-ba3f-70a8042e6faf/99/image.jpg",
+      "caption": "20161007_121415"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8244c7ac-ec99-416f-a005-7d920760ee41/99/image.jpg",
+      "caption": "20161007_121230_HDR"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/15ed68dc-fd01-478e-bfcb-927eba482b88/99/image.jpg",
+      "caption": "20161007_120525_HDR"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5f3f1550-5339-44fa-99a4-12ef7b5f74fc/99/image.jpg",
+      "caption": "20161007_114653_HDR"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/48b8b0f2-08ad-42f7-8e47-6e80475c527d/99/image.jpg",
+      "caption": "20161007_141113_HDR"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.360024259362",
+    "longitude": "11.124638073177"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Bad, WC",
+      "description": "Helle freundliche, geschmackvoll eingerichtete Zimmer mit WLan,SAT/TV,Telefon,Safe,Balkon...",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "DZ Nr. 10, Bad, WC, Kat. D",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "54.80",
+          "maxPrice": "63.80",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "54.80",
+          "maxPrice": "63.80",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Bad, WC",
+      "description": "Helle freundliche, geschmackvoll eingerichtete Zimmer mit WLan,SAT/TV,Telefon,Safe,Balkon...",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "DZ Nr. 23, Bad, WC, Kat. D",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "54.80",
+          "maxPrice": "63.80",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "54.80",
+          "maxPrice": "63.80",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Bad, WC",
+      "description": "Helle freundliche, geschmackvoll eingerichtete Zimmer mit SAT/TV,Telefon,Safe,Balkon...",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "DZ Nr. 24, Bad, WC, Kat. D",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "54.80",
+          "maxPrice": "63.80",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "54.80",
+          "maxPrice": "63.80",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Helle freundliche, geschmackvoll eingerichtete Zimmer mit SAT/TV,Telefon,Safe,Balkon...",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "DZ Nr. 26, Dusche, WC, Kat. A",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "54.80",
+          "maxPrice": "63.80",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "54.80",
+          "maxPrice": "63.80",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Helle freundliche, geschmackvoll eingerichtete Zimmer mit SAT/TV,Telefon,Safe,Balkon...",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "DZ Nr. 27, Dusche, WC, Kat. A",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "54.80",
+          "maxPrice": "63.80",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "54.80",
+          "maxPrice": "63.80",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Helle freundliche, geschmackvoll eingerichtete Zimmer mit SAT/TV,Telefon,Safe,Balkon...",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "DZ Nr. 29, Dusche, WC, Kat. A",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "54.80",
+          "maxPrice": "63.80",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "54.80",
+          "maxPrice": "63.80",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Helle freundliche, geschmackvoll eingerichtete Zimmer mit SAT/TV,Telefon,Safe,Balkon...",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "DZ Nr. 16, Dusche, WC, Kat. B",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "54.80",
+          "maxPrice": "57.80",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "54.80",
+          "maxPrice": "57.80",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Helle freundliche, geschmackvoll eingerichtete Zimmer mit SAT/TV,Telefon,Safe,Balkon...",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "DZ Nr. 17, Dusche, WC, Kat. B",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "54.80",
+          "maxPrice": "57.80",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "54.80",
+          "maxPrice": "57.80",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Helle freundliche, geschmackvoll eingerichtete Zimmer mit SAT/TV,Telefon,Safe,Balkon...",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "DZ Nr. 19, Dusche, WC, Kat. B",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "54.80",
+          "maxPrice": "57.80",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "54.80",
+          "maxPrice": "57.80",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Helle freundliche, geschmackvoll eingerichtete Zimmer mit SAT/TV,Telefon,Safe,Balkon...",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "DZ Nr. 20, Dusche, WC, Kat. B",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "54.80",
+          "maxPrice": "62.80",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "54.80",
+          "maxPrice": "62.80",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Helle freundliche, geschmackvoll eingerichtete Zimmer mit SAT/TV,Telefon,Safe,Balkon...",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "DZ Nr. 21, Dusche, WC, Kat. B",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "54.80",
+          "maxPrice": "57.80",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Helle freundliche, geschmackvoll eingerichtete Zimmer mit SAT/TV,Telefon,Safe,Balkon...",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "DZ Nr. 22, Dusche, WC, Kat. B",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "54.80",
+          "maxPrice": "57.80",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "54.80",
+          "maxPrice": "57.80",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Helle freundliche, geschmackvoll eingerichtete Zimmer mit SAT/TV,Telefon,Safe,Balkon...",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "DZ Nr. 28, Dusche, WC, Kat. B",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "54.80",
+          "maxPrice": "57.80",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "54.80",
+          "maxPrice": "57.80",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Helle freundliche, geschmackvoll eingerichtete Zimmer mit SAT/TV,Telefon,Safe,Balkon...",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "DZ Nr. 14, Dusche, WC, Kat. C",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "52.80",
+          "maxPrice": "52.80",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Helle freundliche, geschmackvoll eingerichtete Zimmer mit SAT/TV,Telefon,Safe,Balkon...",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "DZ Nr. 15, Dusche, WC, Kat. C",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "52.80",
+          "maxPrice": "52.80",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Helle freundliche, geschmackvoll eingerichtete Zimmer mit SAT/TV,Telefon,Safe,Balkon...",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "DZ Nr. 18, Dusche, WC, Kat. C",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "52.80",
+          "maxPrice": "52.80",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Helle freundliche, geschmackvoll eingerichtete Zimmer mit SAT/TV,Telefon,Safe,Balkon...",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "DZ Nr. 25, Dusche, WC, Kat. C",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "52.80",
+          "maxPrice": "52.80",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

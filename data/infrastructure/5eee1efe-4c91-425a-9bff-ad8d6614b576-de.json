@@ -1,0 +1,28 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Pharmacy"
+  ],
+  "name": "Hausapotheke Dr. med. Hubert Hofstötter, Apotheke",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3889256",
+    "longitude": "11.2633035"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Innsbruckerstr. 3",
+    "addressLocality": "Scharnitz",
+    "postalCode": "6108",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5213 5134"
+  },
+  "description": "MO-DO 09.00-12.00 Uhr, MI und FR 15.00 bis 19.00 Uhr",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/de2259af-eb49-4867-b5f0-29d52067a8ea/99/image.jpg",
+      "caption": "Apothekenzeichen"
+    }
+  ]
+}

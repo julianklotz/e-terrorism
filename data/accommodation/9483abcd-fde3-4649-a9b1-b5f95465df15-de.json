@@ -1,0 +1,205 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.rabitsch.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Rabitsch",
+    "streetAddress": "Innsbruckerstr. 262",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2498 0",
+    "faxNumber": "(0043) 5212 2498 33",
+    "email": "urlaub@rabitsch.at",
+    "url": "http://www.rabitsch.at"
+  },
+  "name": "Haus Rabitsch",
+  "description": [
+    "Familiär geführtes Tiroler Landhaus in ruhiger, zentraler Lage. Nähe Wildsee, Golfacademy und Langlaufloipen. Kabel-TV und Telefon. Gepflegte Gartenanlage mit Liegestühlen, Gartengrill und Kinderschaukel. Golfgründerhaus, genügend Parkplätze.\n\n",
+    "Golfgründerhaus, hohe Ermäßigungen auf Greenfees.\ninklusive: Strom, Wäsche, Heizung, Parkplatz\n",
+    "Check-In: 15.00 Uhr | Check-Out: 10.00 Uhr\nAus jeder Richtung, Ausfahrt Seefeld-Süd, nach ca. 60m rechts abbiegen nach ca. 1km sind die ersten Häuser von Seefeld zu sehen. Das 5.Haus rechts ist das Haus Wildseeschlössl, (sehr markant mit rot-weiss-roten Fensterläden) unmittelbar nach dem Wildseeschlössl rechts abbiegen und Sie befinden sich vor dem Rabitsch Hof."
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "reviewCount": "172"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2a2b0bb4-fea2-46cc-a0e1-831ed62d281c/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/72278bec-5a10-4a03-ae72-34601268c64d/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/002abb7a-9d6f-4f12-b8e5-2b216ec695e5/99/image.jpg",
+      "caption": "Sommer2"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3243741958711",
+    "longitude": "11.1911201477051"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC",
+      "description": "Wohnschlafzimmer mit Terrasse, Kochnische, Dusche mit WC. Der rustikale Wohnraum ist mit einer Eßecke, einer Sitzgruppe, Schrankbetten, Kabel-TV und Selbstwähltelefon ausgestattet.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/Wohn-Schlafraum/Dusche, WC",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Loipenzauber in der Olympiaregion",
+          "description": "In diesem Package sind folgende Überraschungen enthalten:\n5 Nächte in einem gemütlichen Einraumappartement mit Terrasse\n- 1 Willkommensgeschenk\n- 2 Loipenpässe für die kostenlose Benützung der 279km Loipen in 3     Schwierigkeitsgraden für die Dauer des Aufenthaltes\n- Kostenlose Benutzung des Dorfbuses",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/89a72b6d-d33a-4c5e-8023-6906663cc59b/99/image.jpg",
+              "caption": "Loipen"
+            }
+          ],
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Langlaufvergnügen im Advent",
+          "description": "Gemütliches Einraumappartement für zwei Personen.\nEin kleiner Willkommensgruß erwartet Sie in Ihrer Wohnung.\nFreie Benützung von bestens präparierten und markierten Loipen, 270 km in allen Schwierigkeitsgraden.\nFreier Zugang zum W-Lan.",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/5a819b76-5cd8-40fa-938f-2ea645709ce4/99/image.jpg",
+              "caption": "Advent"
+            }
+          ],
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Die Wohnung besteht aus einem Wohnzimmer, einem Schlafzimmer, Kochnische, Dusche oder Bad/WC, Balkon oder Terrasse. Der Wohnraum ist mit einer Eßecke, Sitzgruppe, Selbstwähltelefon und Kabel-TV ausgestattet.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Langlaufvergnügen im Advent",
+          "description": "Gemütliches Zweiraumappartement für zwei Personen.\nEin kleiner Willkommensgruß erwartet Sie in Ihrer Wohnung.\nFreie Benützung von bestens präparierten und markierten Loipen, 279 km in allen Schwierigkeitsgraden.\nFreier Zugang zum W-Lan.\n",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/04b22647-66d2-42c8-ad12-07e5d1214b79/99/image.jpg",
+              "caption": "Advent"
+            }
+          ],
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 2 Schlafräume",
+      "description": "Die Wohnung besteht aus: Wohnzimmer, zwei Schlafzimmer, Kochnische mit Geschirrspülmaschine, Bad mit WC, Balkon oder Terrasse. Der Wohnraum ist mit Eßecke, Sitzgruppe, Telefon und Kabel-TV ausgestattet.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/2 Schlafräume/Dusche, Bad, WC",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Langlaufvergnügen im Advent",
+          "description": "Gemütliches Dreiraumappartement für vier Personen.\nIn dieser Wohnung bieten wir Ihnen noch folgenden Komfort: Küche mit Geschirrspülmaschine und Bad mit Badewanne und Dusche.\nEin kleiner Willkommensgruß erwartet Sie in Ihrer Wohnung.\nFreie Benützung von bestens präparierten und markierten Loipen, 270 km in allen Schwierigkeitsgraden.\nFreier Zugang zum W-Lan.\n",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/712eed7e-3cda-4d4b-8632-883e3bddfcc0/99/image.jpg",
+              "caption": "Advent"
+            }
+          ],
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "4"
+          }
+        }
+      ]
+    }
+  ]
+}

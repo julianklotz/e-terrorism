@@ -1,0 +1,142 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.haus-tiefenbrunner.com",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Tiefenbrunner",
+    "streetAddress": "Moos 21 a",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6967",
+    "faxNumber": "(0043) 5214 6967",
+    "email": "haus-tiefenbrunner@gmx.at",
+    "url": "http://www.haus-tiefenbrunner.com"
+  },
+  "name": "Haus Tiefenbrunner",
+  "description": [
+    "Wir befinden uns im Ortsteil Leutasch Moos in einer sehr ruhigen, sonnigen und zentralen Lage (nur ca. 5 Autominuten vom Ortszentrum Weidach entfernt) und sind ein idealer Ausgangspunkt zahlreicher Wander-, Rad- und Hüttentouren.  Der Einstieg in die Langlaufloipe befindet sich direkt vor dem Haus. 4 neuerrichtete Wohnungen mit gemütlicher Einrichtung für 2-4, 2-5 und 4-8 Personen. \nDesweiteren erwartet Sie bei uns:\nEine Liegewiese mit gratis Liegestühlen (Sommer)\nEin kleiner Wellnessbereich mit schön angelegten Fischteich (Sommer) \nEinstieg in die Loipe direkt vor unserem Haus (Winter)\nBeheizter Schiraum (Winter)\nErmäßigter Eintritt im Hallenbad und der Sauna in Leutasch\nKostenloser Rodelverleih (Winter)\nKostenloser Fahrradverleih (Sommer)",
+    "Inklusive: Heizung, Wasser, Strom\nExklusive: Endreinigung (Whng. 2-4 Pers., € 39,- ; Whng. 4-8 Pers., € 49,-)\nOrtstaxe € 2.80",
+    "Von Norden mautfrei über Garmisch Partenkirchen + 35 km,\nMittenwald, Unterleutasch, Gasse, Kirchplatzl bis Ortsteil Moos.\nAuto: Von Osten Autobahn A12/Ausfahrt Zirl Ost + 12 km \nVon Westen Autobahn A12/Ausfahrt Telfs Ost + 12 km \nBahn: \"Karwendelbahn\" Innsbruck - Garmisch \nFlugzeug: München 138 km, Innsbruck 21 km, Zürich 300 km"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3b95c72d-2546-4f88-bbd3-3b7e1d4eed26/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/72b85121-44f7-41be-9aae-560fee7ff993/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/696926d0-0219-45ec-82ec-9ad1caceaba8/99/image.jpg",
+      "caption": "Garten"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/438f34aa-2f62-42f1-83a9-2990c0aec2c6/99/image.jpg",
+      "caption": "Liegewiese"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.355602457183",
+    "longitude": "11.12266421591"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Ein 2 Zimmer Appartement (Reh) im 2.Obergeschoß 55m² für \n2-5 Personen.\nAusgestattet sehr komfortabel mit Dusche/WC, \n1 Schlafzimmer, Wohnzimmer mit Küche (Mikro, Geschirr, usw.) und Schlafgelegenheit, Garderobe.\nAuch Sat-TV, Radio, Bade-Hand-Geschirrtücher sowie Bettwäsche sind vorhanden.\nSüdbalkon, mit herrlichem Panoramablick.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement 3 Reh",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Ein 2 Zimmer Appartement (Hase) im 1.Obergeschoß 53m² für 2-4 Personen.\nAusgestattet sehr komfortabel mit Dusche, getrenntes WC, \n1 Schlafzimmer, Wohnzimmer mit Schlafgelegenheit, Küche \n(Mikro, Geschirr, usw.), Garderobe.\nAuch Sat-TV, Radio, Bade-Hand-Geschirrtücher sowie Bettwäsche sind vorhanden.\nOstbalkon und Südseitige Terrasse, mit herrlichem Panoramablick.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement 2 Hase",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Ein 2 Zimmer Appartement (Fuchs) im leicht abgesenkten Parterre 45m² für 2-4 Personen.\nAusgestattet sehr komfortabel mit Dusche/WC, \n1 Schlafzimmer, Wohnzimmer mit Schlafgelegenheit, Küche (Mikro, Geschirr, usw.)Garderobe.\nDiese Wohnung ist auch sehr hell und mit freier Sicht nach draußen.\nAuch Sat-TV, Radio, Bade-Hand-Geschirrtücher sowie Bettwäsche sind vorhanden.\nOst- und Südseitige Terrasse, mit herrlichem Panoramablick.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement 1 Fuchs",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 3 Schlafräume",
+      "description": "Ein 4 Zimmer  Appartement (Eichhörnchen) im 2.Obergeschoß 65m² für 4-8 Personen.\nAusgestattet sehr komfortabel mit Bad (Badewanne, Dusche,\nDoppelwaschbecken und WC), \n2 Schlafzimmer, 1 Kinderzimmer, Wohnzimmer mit Küche (Mikro, Geschirr, usw.) und Schlafgelegenheit, Garderobe.\nAuch Sat-TV, Radio, Bade-Hand-Geschirrtücher sowie Bettwäsche sind vorhanden.\nSüd- und Ostbalkon, mit herrlichem Panoramablick.\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement 4 Eichhörnchen",
+          "numberOfRooms": "4.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "9",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

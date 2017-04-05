@@ -1,0 +1,52 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "Open Mic - eine Bühne für alle",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "My Mountainlodge",
+    "employee": {
+      "@type": "Person",
+      "familyName": "Marthe"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Krinz 1",
+      "addressLocality": "Seefeld",
+      "postalCode": "6100",
+      "addressCountry": "AT",
+      "telephone": "0043 5212 2502",
+      "faxNumber": "0043 5212 2502 62",
+      "email": "info@marthe.at",
+      "url": "http://www.marthe.at"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "My Mountainlodge",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Krinz 1",
+      "addressLocality": "Seefeld",
+      "postalCode": "6100",
+      "addressCountry": "AT",
+      "telephone": "0043 5212 2502",
+      "faxNumber": "0043 5212 2502 62",
+      "email": "info@marthe.at",
+      "url": "http://www.marthe.at"
+    }
+  },
+  "description": " Erleben Sie eine tolle Nacht der Live Musik mit verschiedenen Bands und Künstlern bei unserem Open Mic Event.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/cfdd8250-1f07-4b1a-8bf3-2d5020c299ca/99/image.jpg",
+      "caption": "Open Mic"
+    }
+  ],
+  "startDate": "2017-03-18T20:00:00",
+  "endDate": "2017-03-18"
+}

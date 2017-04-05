@@ -1,0 +1,911 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://www.inntalerhof.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf",
+    "http://www.inntalerhof.com/rundbilderhttp://www.inntalerhof.com/rundbilder/inntalerhof360de/panotour/pano/ausguckstube.html",
+    "http://www.inntalerhof.com/rundbilder/inntalerhof360de/panotour/pano/friedensglocke.html",
+    "http://www.inntalerhof.com/rundbilder/inntalerhof360de/panotour/pano/terrasse.html",
+    "http://www.inntalerhof.com/rundbilder/inntalerhof360de/panotour/pano/rezeption.html",
+    "http://www.inntalerhof.com/rundbilder/inntalerhof360de/panotour/pano/pippie.html",
+    "http://www.inntalerhof.com/rundbilder/inntalerhof360de/panotour/pano/hallenbad.html",
+    "http://www.inntalerhof.com/rundbilder/inntalerhof360de/panotour/pano/beauty.html",
+    "http://www.inntalerhof.com/rundbilder/inntalerhof360de/panotour/pano/sauna.html"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Panoramahotel Inntalerhof",
+    "streetAddress": "Möserer Dorf Strasse  2",
+    "addressLocality": "Mösern",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "+4352124747",
+    "faxNumber": "+435212474747",
+    "email": "info@inntalerhof.com",
+    "url": "http://www.inntalerhof.at"
+  },
+  "name": "Panoramahotel Inntalerhof",
+  "description": [
+    "Aussichten \u0026 Einsichten!\nOb Familie, Wellnessfan oder Aktivurlauber. Bei uns gilt: Ankommen, den Alltag an der Rezeption abgeben, nach Herzenslust genießen. \nSchon morgens den unglaublichen Blick über das weite Inntal und seine beeindruckenden Berge genießen - was könnte schöner sein?\nInsbesondere unsere neuen Zimmer Weitsicht de Luxe und neuen Suiten eröffnen spektakuläre Aussichten und einmaligen Wohnkomfort.\nDeshalb gilt für das Schwalbennest Tirols, wie es auch liebevoll genannt wird, der Slogan: Kraft durch Weitblick und Genuss!\nFreuen Sie sich auf wohlverdiente Tage an einem der schönsten Plätze der Alpen.  \n\nWir freuen uns auf ein herzliches Grüss Gott auf den schönsten Seiten des Lebens. Familie Heidkamp \u0026 die vielen fleissigen Hände im Team.\n",
+    "Warum denn zu Hause bleiben, wenn es bei uns so viel mehr fürs Geld gibt? Im Rahmen der vielen Inntalerhof-Extras sind u.a. inklusive: Hallenbad-Benützung, Alpenwelt-Wellnesslandschaft, wöchentliches Aktiv- und Entspannungsprogramm, Alpi\u0027s Kinderclub u.v.m. Denn Service wird bei uns groß geschrieben.\n",
+    "Zur Sicherstellung der Reservierung benötigen wir eine Anzahlung in Höhe von mind. € 200,-/Person. Details zur Überweisung erhalten Sie mit unserer Bestätigung. Für kurzfristige Buchungen benötigen wir Ihre Kreditkartendaten. Informieren Sie sich auch über unsere Reisestorno- und Reiseabbruchversicherung."
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "reviewCount": "232"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/dad20b52-6086-45bb-853e-b2e00768feff/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9fefcc15-8711-47cc-b4ce-74be4329f1aa/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/38770f3f-6dc0-4b64-ba58-efb96d135428/99/image.jpg",
+      "caption": "Hotel Inntalerhof Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/344905ce-f5be-470f-9319-04707095db19/99/image.jpg",
+      "caption": "Hotel Inntalerhof am Abend"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1826212b-4703-49a5-8339-604364dc584f/99/image.jpg",
+      "caption": "Terrasse mit Ausblick Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/daa03403-056b-4c24-a85e-80e747db82ec/99/image.jpg",
+      "caption": "Hotel Inntalerhof Mösern Hausansicht SO"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ea93e4ec-cf93-4ef6-8132-240a6d160bde/99/image.jpg",
+      "caption": "Unser Team"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ac42de4b-43fd-4b2f-bcb1-fedb8b4a762c/99/image.jpg",
+      "caption": "Terrasse mit Aussicht Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e423ac36-7066-4538-b035-44a7347d0848/99/image.jpg",
+      "caption": "Terrasse und Tal"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/43cb6f49-23fb-4702-ae2b-9cb5a022d8a0/99/image.jpg",
+      "caption": "Halle - Reception"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5d77383c-be73-4633-837e-3fc265beb1e0/99/image.jpg",
+      "caption": "Panoramapool"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/80b367d1-45b8-4ccb-b2a4-e96af08b8b9a/99/image.jpg",
+      "caption": "Frühstücksbuffet"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/20f74925-fd66-4ead-9c15-fc31382a0720/99/image.jpg",
+      "caption": "Wohlfühl-Stube"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/bf1a8a4f-198c-4270-aec7-c46e54e554c3/99/image.jpg",
+      "caption": "Stube mit Aussicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/fa4e6ea1-0674-4107-bbe5-82b28bbf217a/99/image.jpg",
+      "caption": "Wellness"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7a00b83a-c015-4dfa-b8e2-c2acede56f5c/99/image.jpg",
+      "caption": "Inntalblick Dämmerung"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4c653806-df71-48e5-a445-eb83744b9c9e/99/image.jpg",
+      "caption": "Sauna"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/676d2c31-d4d6-4cda-a952-af5434a1f9ed/99/image.jpg",
+      "caption": "Inntalblick Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f89cc779-211d-4680-9a56-0b61fb7e0ec4/99/image.jpg",
+      "caption": "Ruheraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/81067d0c-b3e0-447c-95a4-0b9aea2e41f3/99/image.jpg",
+      "caption": "Weitblick"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0703dee6-f640-4fc1-8833-58bf2e5f5d5f/99/image.jpg",
+      "caption": "Hotel Inntalerhof Mösern Friedensglocke"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e95ae1c9-5a60-41b0-8fb8-ea94267a6b04/99/image.jpg",
+      "caption": "Hotel Inntalerhof Mösern Blick ins Inntal"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a25e8ddd-b043-44b4-9de5-0e3f79fd7a95/99/image.jpg",
+      "caption": "Hotel Inntalerhof Mösern Blick ins Inntal am Abend"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.311382482192",
+    "longitude": "11.144303062499"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Einzelzimmer, Bad, WC",
+      "description": "\"Sonnenaufgang\" Grand Lit - NEU!\nKuscheliges und funktionell ausgestattetes Einbettzimmer (Grand Lit: 1,4 m breit) in stilvoller und zeitgenössischer Ausstattung, Typ Zeitgeist\nBadezimmer mit Dusche/WC, Balkon oder Dachterrasse mit Morgensonne in besonders ruhiger Lage Blick auf Mösern und das Wettersteingebirge, ca. 18 qm\nBelegung: Minimum: 1 person - Max. 1 E und 1 Kind bis 12 Jahre (Single + Kind)\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "\"Sonnenaufgang\" Grand Lit-NEU!",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Nordisch Aktiv \u0026 Entspannung pur im Einzelzimmer",
+          "description": "•7 Nächte Aufenthalt im Einzelzimmer inkl. Wohlfühlpension\nAktivpaket„Nordisch“ \n•Für Anfänger oder Fortgeschrittene:2x2 Stunden Langlaufunterricht in kleiner Gruppe„klassisch“zur Verbesserung der Technik sowie fachkundige Anleitung\n•Nordic Pass für Loipe und Busnutzung inkl\n•Nordic Walking Basistraining:1xNordic Walking Training\u00261geführte Schneeschuhwanderung\nund\n•1 Moorpackung mit Wadlmassage kombiniert mit einer Fußreflexzonenmassage 50Min \n•1 Kräuterstempel- o. NaturalHealthcare-Massage 50Mi",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Ski \u0026 SPA Woche im Einzelzimmer",
+          "description": "Aktiv sein in der glitzernden Winterwelt und drinnen kuschelige Verwöhnstunden verbringen. Wohlfühlen\u0026Genießen – für herrliche Wintertage mit Aussichten \u0026 Einsichten.\n•7 Nächte im Zimmer Sonnenaufgang Grand Lit\n•Inkl. unserer Wohlfühlpension sowie der vielen Inntaler Hof – Extras sowie\nZur Wahl: Skipass Happy Skicard oder einen Wellnessgutschein\n•6 Tages Happy Skicard: gültig auf allen Anlagen in Seefeld - oder -\n•Wellnessgutschein im Wert von € 250,- für Anwendungen \u0026 Wohlbefinden à la carte",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Kurze Winter Auszeit aktiv\u0026relax (im Einzelzimmer)",
+          "description": "•3 Nächte im Einzelzimmer inkl. unserer Wohlfühlpension sowie aller Inntalerhof–Extras\nAktivpaket Nordisch: mit 2H Langlauf Privatunterricht „klassisch“ inkl. 2 Tage Ausrüstung Nordisch sowie Nordic Pass für Loipe \u0026 Busnutzung\noder\nPaket sanfter Winter\u0026Wellness:Geführte Schneeschuhwanderung oder Besinnungs- bzw. Romantik-Fackelwanderung,sowie Rundum Care-Paket Wellness nach dem Konzept„Natural Spa Therapy“:\n•Körperpackung mit Aroma-Massage(50 Min)\nsowie eine Ohrkerzenbehandlung mit Kopfmassage",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "90.00",
+          "maxPrice": "111.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "791.00",
+          "maxPrice": "791.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "392.00",
+          "maxPrice": "392.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche oder Bad, WC",
+      "description": "\"Landhaus\" Familienappartement\n(für 2 - 4, zum Teil bis 5 Personen, 3 Räume)\nGemütliches Familienappartement im Landhausstil mit 1 Doppelzimmer, 1 separater Schlafraum für 2 Kinder (z.T. mit Etagenbett)\nWohnraum mit Ausziehcouch, Sitz- und Essecke, kleine Küchenzeile/Kitchenette\nBadezimmer mit Badewanne oder Dusche/WC\nBalkon oder Terrasse im Erdgeschoß mit Zugang zum Garten und Spielplatz\nBlick zum Süden bzw. den Ort Mösern, ca. 55-82 qm\nBelegung: min. 2 Erw. - max. 2 Erw. und 2 Kinder",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "\"Landhaus\" Familienappartement",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Happy-Ski-Ferien für Groß \u0026 Klein mit 2 Kindern",
+          "description": "•7 Nächte in unseren Familienappartements inkl. Wohlfühlpension sowie der vielen Inntaler Hof-Extras und Teilnahme am wöchentlichen Aktiv- und MindBodyprogramm. (gültig für 2 EW und 2 KI bis 12 Jahre - ältere KI mit Aufpreis möglich!) \n•Skipass Wahlabo 4 aus 6 Tagen Happy Skicard gültig auf allen Anlagen in Seefeld inkl. Gratis-Skipass für kleine Pistenflitzer unter 5 Jahre. \n•1 wärmende Nachtkerzencremeöl-Packung –oder– 1 regenerierende Ganzkörper-Moorpackung,je 25Min –sowie– 1 anregende Honigmassage für den Rücken oder 1 Aroma-Relax-Rückenmassage,je 25Min (pro Erw.)",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Happy-Ski-Ferien für Groß \u0026 Klein mit 1 Kind",
+          "description": "•7 Nächte in unseren Familienappartements inkl. Wohlfühlpension sowie der vielen Inntaler Hof-Extras und Teilnahme am wöchentlichen Aktiv- und MindBodyprogramm. (gültig für 2 EW und 1 KI bis 12 Jahre - ältere KI mit Aufpreis möglich!) \n•Skipass Wahlabo 4 aus 6 Tagen Happy Skicard gültig auf allen Anlagen in Seefeld inkl. Gratis-Skipass für kleine Pistenflitzer unter 5 Jahre. \n•1 wärmende Nachtkerzencremeöl-Packung –oder– 1 regenerierende Ganzkörper-Moorpackung,je 25Min –sowie– 1 anregende Honigmassage für den Rücken oder 1 Aroma-Relax-Rückenmassage,je 25Min (pro Erw.)",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Kurzes Familienglück",
+          "description": "•3 Nächte in unseren Landhaus Familienappartements mit 2 Schlafräumen und Wohnbereich\n•Wohlfühlpension für die„Grossen“\u0026 all inclusive-Pension für alle kleinen Gäste\n•Benützung des Panorama-Pools\n•Gutschein von € 60,- pro Familie für Wellness \u0026 Beautyanwendungen nach Wahl im Alpenwelt Spa\n•Betreutes Programm im Alpis Kinderclub für kleine Gäste ab 3 Jahren, 5-6 Öffnungstage je nach Saison und mind. 8 H pro Tag inkl. betreutem Kindertisch\nKinder über 12 Jahren sind ebenfalls möglich und zahlen einen kleinen Aufpreis\nDer angeführte Preis gilt für 2 EW und Kinder bis 12 Jahre!\nFamilienhit: 4 \u003d 3: 4 Nächte zum Preis von 3, wir schenken Ihnen 1 Urlaubstag im Zeitraum 10.10.- 01.11.2016 bei Anreise am So oder Mo\n\n",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "99.00",
+          "maxPrice": "125.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "99.00",
+          "maxPrice": "125.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "101.00",
+          "maxPrice": "101.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "101.00",
+          "maxPrice": "101.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche oder Bad, WC",
+      "description": "\"Weitsicht\" Superior Classic (Kat A)\nGroßräumiges und gemütliches Doppelzimmer mit komfortablem Wohnteil\nIn klassischer Ausstattung mit warmen Holztönen und heller textiler Ausstattung:\nBadezimmer mit Badewanne und separatem WC\nBalkon mit beeindruckendem Panorama-Blick auf die Tiroler Bergwelt, ca. 33 - 38 qm\nBelegung: min: 1 Person (mit Zuschlag) - max. 2 Erw. und 1 Kind bis 12 Jahre\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer Weitsicht Superior",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Wellness-Kurzgenuss für Sie \u0026 Ihn ",
+          "description": "•3 Übernachtungen im Superiorzimmer mit beeindruckendem Panoramablick inkl. Wohlfühlpension sowie der vielen Inntaler Hof-Extras\n\nBezaubernd-Schön-Paket für Sie:\n•1 Alpenkräuter- oder Heupeeling 25 Min.\n•1 Klassische Gesichtsbehandlung 50 Min. - passend zum Hauttyp\n•1 Kräuterstempelmassage für den Rücken 25 Min.\n\nFerien für die Seele-Paket für Ihn:\n•Spezialprogramm für den Rücken: 1 Naturmoorpackung mit\n•1 Rückenmassage anschließend, insgesamt 50 Min.\n•1 Vital-Stone-Massage 50 Min",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Ski \u0026 SPA Woche",
+          "description": "Aktiv sein in der glitzernden Winterwelt und drinnen kuschelige Verwöhnstunden verbringen. Wohlfühlen\u0026Genießen – für herrliche Wintertage mit Aussichten \u0026 Einsichten.\n•7 Nächte im Zimmer Weitsicht Superior Classic\n•Inkl. unserer Wohlfühlpension sowie der vielen Inntaler Hof – Extras sowie\nZur Wahl: Skipass Happy Skicard oder einen Wellnessgutschein\n•6 Tages Happy Skicard: gültig auf allen Anlagen in Seefeld - oder -\n•Wellnessgutschein im Wert von € 250,- für Anwendungen \u0026 Wohlbefinden à la carte",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Golf-Basistrainingswoche für Anfänger 7 Nächte",
+          "description": "Golf-Basistrainingswoche für Anfänger\n7 Nächte Aufenthalt in unseren Zimmern Weitsicht Superior mit Panoramablick, Wohlfühlpension und den vielen Inntalerhof-Extras;\n-5 Tages Basistraining in der Gruppe 2-6 Personen(Mo-Fr, 9-11 Uhr)in der Golfakademie Seefeld;\n-Basis des Golfsports: Golfdemonstration, Erlernen der Golfgrundtechniken Putten, Chippen, Pitchen und des Golfschwungs auf Basis der Neutraltechnik \n-Golfregeln in der Praxis\n-Anlernen des Gelernten\n!! Platzreifepaket zusätzlich buchbar !",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Ostern für die ganze Familie (2 Kinder - 7 Nächte)",
+          "description": "•7 Nächte inkl.Wohlfühlpension (gültig für 2 EW und 2 KI bis 12 Jahre - ältere KI mit Aufpreis möglich!)\n•Fiakerfahrt\n•für Sie:1Pediküre oder 1Gesichtsbehandlung, je 80 Min.\nFür Ihn: 1Ganzkörperpackung,mit Alpenfango\u0026Latschenkiefer sowie 1Sportmassage oder 1 Gesichts-Kopfmassage je 40 Min. \nFamilienprogramm rund  um den Osterhasen v.a. für die kleinen Gäste: Osterbrot-Backen in unserer Backstube, Ostereier färben, lustiges Osternestsuchen, Osterfeuer bei der Friedensglocke uvm.",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Ostern für die ganze Familie mit 1 Kind -7 Nächte ",
+          "description": "•7 Nächte inkl.Wohlfühlpension (gültig für 2 EW und 1 KI bis 12 Jahre - ältere KI mit Aufpreis möglich!) \n•Fiakerfahrt\n•für Sie:1Pediküre oder 1Gesichtsbehandlung, je 80 Min.\nFür Ihn: 1Ganzkörperpackung,mit Alpenfango\u0026Latschenkiefer sowie 1Sportmassage oder 1 Gesichts-Kopfmassage je 40 Min. \nFamilienprogramm rund  um den Osterhasen v.a. für die kleinen Gäste: Osterbrot-Backen in unserer Backstube, Ostereier färben, lustiges Osternestsuchen, Osterfeuer bei der Friedensglocke uvm.",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Ostern für die ganze Familie (2 Kinder - 5 Nächte)",
+          "description": "•5 Nächte inkl.Wohlfühlpension (gültig für 2 EW und 2 KI bis 12 Jahre - ältere KI mit Aufpreis möglich!) \n•Fiakerfahrt\n•für Sie:1 Pediküre oder 1Gesichtsbehandlung, je 80 Min.\nFür Ihn: 1Ganzkörperpackung,mit Alpenfango\u0026Latschenkiefer sowie 1Sportmassage oder 1 Gesichts-Kopfmassage je 40 Min. \nFamilienprogramm rund  um den Osterhasen v.a. für die kleinen Gäste: Osterbrot-Backen in unserer Backstube, Ostereier färben, lustiges Osternestsuchen, Osterfeuer bei der Friedensglocke uvm.",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Ostern für die ganze Familie mit 1 Kind -5 Nächte ",
+          "description": "•5 Nächte inkl.Wohlfühlpension (gültig für 2 EW und 1 KI bis 12 Jahre - ältere KI mit Aufpreis möglich!) \n•Fiakerfahrt\n•für Sie:1Mani- oder Pediküre oder 1Gesichtsbehandlung, je 80 Min.\nFür Ihn: 1Ganzkörperpackung,mit Alpenfango\u0026Latschenkiefer sowie 1Sportmassage oder 1 Gesichts-Kopfmassage je 40 Min. \nFamilienprogramm rund  um den Osterhasen v.a. für die kleinen Gäste: Osterbrot-Backen in unserer Backstube, Ostereier färben, lustiges Osternestsuchen, Osterfeuer bei der Friedensglocke uvm.",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Last Minute zum Sonnenskilauf-Wellness quick\u0026easy",
+          "description": "• 3 Nächte in unseren Superior-Doppelzimmern mit herrlichem Panoramablick inkl. Wohlfühlpension\u0026die vielen Inntaler Hof–Extras\n• Gratis Upgrade in die Deluxe-Kategorie–solange verfügbar\n• Benützung unseres Panorama-Pools mit Wellness \u0026 Spa\n• Betreutes Aktivprogramm im Rahmen MindBodyprogramm mit Sonja (Mo-Fr)\nFrühlings-Genussanwendungen nach Wahl – Wellnessgutschein € 20,- pro Person\n\nauch 2 Nächte möglich: € 189,- p.P./2 Nächte\n! Verlängerungsnächte zum Sonderpreis von € 75,00 pro Person/Nacht!",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Happy-Familienferien in den Tiroler Bergen",
+          "description": "•Min.7 Nächte Aufenthalt mit Wohlfühlpension und allen Inntalerhof-Extras\n•Rundum Betreuung für Kinder an 6 Tagen der Woche,Animation und alles inklusive in der Kinder-Wohlfühlpension\n•Besuch in einer der Family-Highlights in Tirol:Alpenzoo Innsbruck,Alpine-Coaster Imst(längste Achterbahn der Welt),Ötzidorf im Ötztal,„Hexenwasser“-Söll, Goldschaubergwerk im Zillertal,geführte Nature-Watch-Karwendel-Tour\n•Sommerferien-Plus:Familienwanderungen unter dem Motto Zwerg am Berg,Ausflüge \u0026Alm-Gaudi-Tage",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "130.00",
+          "maxPrice": "168.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "95.00",
+          "maxPrice": "123.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "95.00",
+          "maxPrice": "123.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "95.00",
+          "maxPrice": "435.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "109.00",
+          "maxPrice": "109.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "826.00",
+          "maxPrice": "1008.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "2366.00",
+          "maxPrice": "2366.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "1932.00",
+          "maxPrice": "1932.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "1810.00",
+          "maxPrice": "1810.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "1500.00",
+          "maxPrice": "1500.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "264.00",
+          "maxPrice": "264.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche und Bad, WC",
+      "description": "\"Weitsicht\" de luxe - NEU!\n\nGroßzügiges Doppelzimmer mit komfortablem Wohnteil\nVollständig modernisiert in gehobener \u0026 stilvoller Ausstattung, Typ Zeitgeist\nBadezimmer mit Doppelwaschbecken, Relaxbad kombiniert mit Dusche und WC oder barrierefreier Dusche und WC/Bidet - getrennt\nmit übergroßer Fensterfront, Balkon und beinahe grenzenlosem Panorama-Blick auf die Tiroler Bergwelt in besonders ruhiger Lage, Kat. A-Lux, ca. 35 qm\n(auch als allergiefreie Variante - mit Parkett - buchbar)\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer Weitsicht de luxe NEU",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Golf Alpin \u0026 Wellness 7 Nächte/5 Greenfee",
+          "description": [
+            "Golf Alpin \u0026 Wellness: (7 Nächte)\n7 Nächte in unseren neuen Zimmern Typ Zeitgeist: Weitsicht de luxe mit Panoramablick, inkl. unserer Wohlfühlpension und der vielen Inntalerhof-Extras\nZusätzlich:\n-Alpines Relaxpaket: 1 Körperanwendung Alpine Healthcare mit anschl. Teilmassage nach der Methode Dr. Vitalis oder 1 EGO Naturkosmetik Gesichtsbehandlung de luxe (80 Min.);\n-1 Tiroler Steinöl-Hauttonic: zur Entspannung und Pflege nach den schönen Runden Golf;\n- 1 Golf-Alpin-Pass (mit 5 Greenfee)",
+            "\n"
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Golf Alpin \u0026 Wellness 3 Nächte/3 Greenfee",
+          "description": "Golf Alpin\u0026Wellness:\n3 Nächte Aufenthalt in unseren NEUEN Zimmern Typ Zeitgeist:Weitsicht de luxe,inkl. Wohlfühlpension \u0026der vielen Inntalerhof-Extras\n+\n-Alpines Relaxpaket:1 Körperanwendung Alpine Healthcare mit Teilmassage oder 1 Naturkosmetik Gesichtsbehandlung de luxe (80Min.);\n-1 Tiroler Steinöl-Hauttonic: zur Entspannung und Pflege nach der Golfrunde;\n-1 Golf-Alpin-Pass(3 Greenfee)\nGolf-Bonus: Wir schenken Ihnen eine weitere Nacht bei Anreise am SO im Zeitraum 24.5.-1.7. \u0026 23.9.-28.10.17",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Nordisch Aktiv \u0026 Entspannung pur im Doppelzimmer",
+          "description": "•7 Nächte im neuen Zimmer\"Weitsicht deluxe\"inkl.Wohlfühlpension\n\nAktivpaket„Nordisch“:\n•Für Anfänger o. Fortgeschrittene:2x2 Stunden Langlaufunterricht in kleiner Gruppe„klassisch“zur Verbesserung der Technik sowie fachkundige Anleitung\n•Nordic Pass für alle Loipen inkl. Busnutzung\n•Nordic Walking Basistraining und 1 Schneeschuhwanderung\n\nVitAlpin-Paket:\n•1 Moorpackung mit anschl. Wadlmassage 50Min, kombiniert mit einer Fußreflexzonenmassage\n•1 Vital-Stone-Massage oder Honigmassage–je 50min",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Ski \u0026 SPA Woche im neuen Zimmer Weitsicht de luxe",
+          "description": "Aktiv sein in der glitzernden Winterwelt und drinnen kuschelige Verwöhnstunden verbringen. Wohlfühlen\u0026Genießen – für herrliche Wintertage mit Aussichten \u0026 Einsichten.\n\n•7 Nächte im neuen Zimmer Weitsicht deluxe mit beeindruckendem Panoramablick\n•Inkl. unserer Wohlfühlpension sowie der vielen Inntaler Hof – Extras \n\nsowie zur Wahl:\n•6 Tages Happy Skicard: gültig auf allen Anlagen in Seefeld - oder -\n•Wellnessgutschein im Wert von € 250,- für Anwendungen \u0026 Wohlbefinden à la carte",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Genuss auf die leichte Tour - mit dem (E-)MTB",
+          "description": "- 3 Nächte in unseren NEUEN Zimmern–Weitsicht deluxe-mit Wohlfühlpension \u0026den vielen Inntaler Hof – Extras sowie tägliches MindBody-Programm\n- Biker-Bonus 4\u003d3:Bei Anreise So oder Mo 1 Gratisnacht im Zeitraum 10.10.-30.10.\n- Bike-Vorteile: Fahrradraum, Waschplatz, Info-Corner, Biker-Snack u.v.m.\n- Wir bewegen Sie: Nutzung unserer MTB sowie E-MTB für einen ganzen oder 2 halbe Tage, inkl. Einweisung \u0026 Kartenmaterial\n- Biker-Relax-Paket: 1 Wadlmassage(25min) sowie 1 Heublumen-Packung\u0026Massage(70min)",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Genusstage mit Aussichten",
+          "description": "• 3 Nächte in unseren NEUEN Zimmern Typ Zeitgeist–Weitsicht de luxe-mit Wohlfühlpension \u0026 den vielen Inntaler Hof–Extras\n• Bonus 4\u003d3:wir schenken Ihnen einen Urlaubstag!Bei Anreise am So oder Mo im Zeitraum 08.10.-01.11.2016\n• Tägliches MindBodyprogramm mit unserer Vitaltrainerin Ute (Mo-Fr) mit Nordic-Walking, Qi-Gong, u.v.m.\n• Spa- und Wellnessgutschein im Wert von €50,- pro Person für Ihre individuellen Wohlfühl- und Beautymomente\n• Und natürlich viel Zeit für Ihr Freizeitprogramm à la carte",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Alpine Genusstage mit Aussichten",
+          "description": "•5 Übernachtungen in neuen Zimmern Weitsicht deluxe mit Wohlfühlpension \u0026 der vielen Inntalerhof-Extras\nBergparadies-Paket für Sie:\n•1 Intensiv Reinigende Gesichtsbehandlung,50Min\n•1 Massage Resonanz Rücken 50Min\n•1 Alpine Healthcare Heupeeling 25Min\n•1 Alpine Healthcare Packung inkl. Teilmassage 70Min\nBergparadies-Paket für Ihn:\n•1 Massage Resonanz Rücken 50Min\n•1 Alpine Healthcare Packung inkl. Ganzkörpermassage 80Min\n•1 Alpenfango-Latschenkiefer-Packung 25Min\n•1 Sportmassage mit Steinöl 40Min",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "G\u0027sund unterwegs auf Traumpfaden",
+          "description": "•7 Nächte Aufenthalt inkl.Wohlfühlpension\n•Tägliches MindBodyprogramm mit Vitaltrainerin mit Nordic Walking, Qi-Gong,uvm\nGsund Aktivprogramm:\n•1 geführte Themen- bzw. Genusswanderung \n•2 leichte geführte Alm- und Panorama-Wanderungen mit unserer Bergwanderführerin Ute\n•Nature Watch Tour im Karwendel\n•1 Wanderkarte,Wanderstöcke, Rucksack\nG\u0027sund Wellnessprogramm:\n•1 Ganzkörpermassage \"Regeneration\" 50 min\n•1 Relax-Programm für die Füße 25min\n•1 Tiroler Steinöl-Hauttonic für die Pflege müder Muskel",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Golf Alpin \u0026 Wellness 5 Nächte /4 Greenfee",
+          "description": "Golf Alpin\u0026Wellness:\n5 Nächte Aufenthalt in unseren neuen Zimmern Typ Zeitgeist:Weitsicht de luxe,inkl. Wohlfühlpension \u0026der vielen Inntalerhof-Extras\nSowie\n-Alpines Relaxpaket:1 Körperanwendung Alpine Healthcare mit Teilmassage oder 1 Naturkosmetik Gesichtsbehandlung de luxe (80Min.);\n-1 Tiroler Steinöl-Hauttonic: zur Entspannung und Pflege nach der Golfrunde;\n-1 Golf-Alpin-Pass(4 Greenfee)\nGolf-Bonus: Wir schenken Ihnen eine weitere Nacht bei Anreise am SO im Zeitraum 24.5.-1.7.\u002623.9.-28.10.17",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "152.00",
+          "maxPrice": "178.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "107.00",
+          "maxPrice": "133.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "1113.00",
+          "maxPrice": "1246.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "624.00",
+          "maxPrice": "675.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "959.00",
+          "maxPrice": "959.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "109.00",
+          "maxPrice": "109.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "745.00",
+          "maxPrice": "805.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "895.00",
+          "maxPrice": "975.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Suite, Dusche und Bad, WC",
+      "description": "\"Albrecht-Dürer\" Panorama-Penthouse-Suite\n\nGroßzügige und neu ausgestattete Suite in besonders ruhiger Lage\nim Maisonette-Stil mit herrlichem Rundum-Panorama-Blick\nmit 1 Doppelzimmer mit Private Spa: luxuriöses Badezimmer mit Sauna/Saunarium sowie Whirl-Badewanne und Dusche sowie separatem WC\nseparate Ankleide, großer Wohnraum in gehobener Ausstattung mit Kamin und kuscheligem Kachelofen, Gäste-WC und Dusche im Eingangsbereich.\nInterne Treppenverbindung zum Obergeschoß mit 1 weiteren Doppelzimmer und 1 zus. Schlafraum oder Arbeitszimmer für max. 1 Erwachsenen und ggf. 1 Kleinkind.\n1 großes Badezimmer im OG mit Badewanne und Dusche/WC, 2 Balkone. 170 qm\nBelegung: minimum: 4 Personen - max. 5 Erw. und 1 Baby (bis 2 Jahre)\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "\"Albrecht-Dürer\" Panorama-Penthouse",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "157.00",
+          "maxPrice": "188.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "157.00",
+          "maxPrice": "188.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "157.00",
+          "maxPrice": "188.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "157.00",
+          "maxPrice": "188.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

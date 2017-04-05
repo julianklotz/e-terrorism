@@ -1,0 +1,273 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://www.laerchenhofnatur.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Hotel Lärchenhof Natur",
+    "streetAddress": "Am Wiesenhang 11",
+    "addressLocality": "Mösern",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "+4352124767",
+    "faxNumber": "+43521247674",
+    "email": "info@laerchenhofnatur.at",
+    "url": "http://www.laerchenhofnatur.at"
+  },
+  "name": "Hotel Garni Lärchenhof Natur",
+  "description": [
+    "Es knistert das Kaminfeuer, Bergkulissen rahmen den Weitblick und dabei begegnet Ihnen auf Schritt und Tritt Herzlichkeit und Liebe zum Detail. \nHinter allem steht mit großer Freude Ihre Gastgeber, die Holzers.",
+    "Die Benützung von Sauna und Dampfbad, geführte Wanderungen und Ausflüge, sowie der Tranzfer zum Bahnhof nach Seefeld und Mittenwald sind bereits inkludiert. Auf Wunsch geniessen Sie den zusätzlichen familiären Service eines Frühstücks vom Büfett und der täglichen Reinigung Ihres Zimmers oder Appartements.",
+    "Von der Möserer Dorfstraße führt Sie ein grünes Hinweisschild \"HOTEL LÄRCHENHOF NATUR\" direkt zu uns. \nLatitude / Longitude 47.3122417,11.1496709 (on Google Maps http://maps.google.com/maps?q\u003d47.3122417,11.1496709 and OpenStreetMap http://www.openstreetmap.org/?mlat\u003d47.3122417\u0026mlon\u003d11.1496709\u0026zoom\u003d15) "
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "reviewCount": "88"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e56b5e12-856d-42eb-bab4-0af0f80094d2/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/14d668d9-9eee-40d4-ab0c-df64cf1401bd/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b306633f-07e5-4c92-8ef8-a34aa5ee328b/99/image.jpg",
+      "caption": "Winter 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8d700d93-a2f3-42c1-a545-8d43acd53c58/99/image.jpg",
+      "caption": "Aufenthaltsraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/297c618d-f715-4832-ac67-2aa027f82adc/99/image.jpg",
+      "caption": "Frühstücksbuffet"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0881a42a-dcfb-459d-8158-aaef613cae53/99/image.jpg",
+      "caption": "Hausansicht am Abend"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4d4f14fc-bcca-4ea4-a983-087bc75e7f9d/99/image.jpg",
+      "caption": "Garten"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/50de2850-07c7-40b8-b231-bb3d87ccbb92/99/image.jpg",
+      "caption": "Hausansicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ce02d63a-3e52-4183-a13d-ba3942d3ac38/99/image.jpg",
+      "caption": "Frühstücksraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0c362500-af35-4530-bf03-e7edaf8e3873/99/image.jpg",
+      "caption": "Teich 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/26a07fb9-181d-4cfd-9499-966abb0577ba/99/image.jpg",
+      "caption": "Sauna"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.31215424001",
+    "longitude": "11.149816526841"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC, Balkon",
+      "description": "Einen unvergesslichen Panoramablick auf die südwestlichen Berge Tirols bietet Ihnen das mit hellem Fichtenholz, heimelige \"Tiroler Doppelbettzimmer\" mit Südbalkon.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Südbalkon",
+          "description": "Einen unvergesslichen Panoramablick auf die südwestlichen Berge Tirols bietet Ihnen das mit hellem Fichtenholz, heimelige \"Tiroler Doppelbettzimmer\" mit Südbalkon.",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "3 Tage Langlaufen und Relaxen im Südzimmer",
+          "description": "3 Tage Pures Langlaufvergnügen.\n\nDie Seefelder Hochebene ist eines der schönsten Langlaufgebiete der Welt. Es ist immer wieder ein ganz intensives Erlebnis, wenn man im Skating Schritt oder klassisch elegant über die weitläufige Hochebene mit seinen Langlaufschiern dahin schwebt.\n\nInklusivleistungen:\n3 Übernachtungen im Südzimmer mit Weitblick auf die Berge\n3 G`sunde Frühstück\nKostenlose 3 Tages Loipenkarte\nSauna und Dampfbad Benutzung\n10 % Ermäßigung in die Bäderlandschaften\n\nPreise pro Person",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Wandern - Südbalkon - Genießen",
+          "description": "Pures Wandervergnügen\n\nUnsere Heimat und im speziellen die Seefelder Hochebene ist eines der abwechslungsreichsten und schönsten Wandergebiete der Welt. Persönlich geführt an der Hand zeigen wir Ihnen anders und gerne unser Land.\n\nInklusivleistungen:\n3 Übernachtungen im Südzimmer mit Weitblick auf die Berge\n3 G`sunde Frühstück\n1 Geführte Wunsch-Wanderung\nSauna und Dampfbad Benutzung\n10 % Ermäßigung in die Bäderlandschaften\n\nPreise pro Person",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "162.00",
+          "maxPrice": "162.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "162.00",
+          "maxPrice": "162.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, Balkon",
+      "description": "Das mit Zirbenholz ausgestattete Schlafzimmer mit seinem \"Himmelbett und das komfortable Wohnzimmer mit gemütlichen Kachelofen lädt zu absolut ruhige und heimelige Stunden ein.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement mit Himmelbett",
+          "description": "Das mit Zirbenholz ausgestattete Schlafzimmer mit seinem \"Himmelbett\" und das komfortable Wohnzimmer mit gemütlichen Kachelofen lädt zu absolut ruhige und heimelige Stunden ein. Das Appartement liegt ostseitig und öffnet Ihnen einen Blick auf die Blumenwiese mit seinem Steiglein, der Sie zu den weitläufigen Spazierwegen führt.",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Winterwandern und Relaxen im Himmelbett",
+          "description": "Für alle WinterWanderfreunde. \n \nDie Olympiaregion Seefeld ist auch im Winter ein wahres Wanderparadies. 142 Kilometer geräumte und gestreute Wanderwege, eingebettet in eine wunderschöne Landschaft mit herrlichen Aussichten warten auf Sie.\n\nInklusivleistungen:\n2 Übernachtungen im Appartement mit Himmelbett\n2 G`sunde Frühstück\n1 Nachmittagskaffee und Kuchen\nSauna und Dampfbad Benutzung\n10 % Ermäßigung in die Bäderlandschaften\n\nPreis für zwei Personen",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Wandern - Genießen - Zirbenbett ",
+          "description": "3 Tage Wandern mit Freude u.\n\nUnsere Heimat und im speziellen die Seefelder Hochebene ist eines der abwechslungsreichsten und schönsten Wandergebiete der Welt. Persönlich geführt an der Hand zeigen wir Ihnen ganz anders und gerne unser Land.\n\nInklusivleistungen\n",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche oder Bad, WC, Balkon",
+      "description": "Einen herrlichen Ausblick auf die südwestliche Berglandschaft garantiert Ihnen das geräumige \"Südappartement\" mit Südbalkon.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement mit Südbalkon",
+          "description": "Einen herrlichen Ausblick auf die südwestliche Berglandschaft garantiert Ihnen das geräumige \"Südappartement\" mit Südbalkon.",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "3 Tage Langlaufen und Relaxen im Südappartement",
+          "description": "3 Tage Langlaufvergnügen.\n\nDie Seefelder Hochebene ist eines der schönsten Langlaufgebiete der Welt. Es ist immer wieder ein ganz intensives Erlebnis, wenn man im Skating Schritt oder klassisch elegant über die weitläufige Hochebene mit seinen Langlaufschiern dahin schwebt.\n\nInklusivleistungen:\n3 Übernachtungen im Südappartement mit Weitblick auf die Berge\n3 G`sunde Frühstück\nKostenlose 3 Tages Loipenkarte\nSauna und Dampfbad Benutzung\n10 % Ermäßigung in die Bäderlandschaften\n\nPreis pro Einheit",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Wandern - Südbalkon - Ihre Zeit",
+          "description": "3 Tage Wandern mit Freude.\n\nUnsere Heimat und im speziellen die Seefelder Hochebene ist eines der abwechslungsreichsten und schönsten Wandergebiete der Welt. Persönlich geführt an der Hand zeigen wir Ihnen ganz anders und gerne unser Land.\n\nInklusivleistungen:\n3 Übernachtungen im Südappartement mit Weitblick auf die Berge\n3 G`sunde Frühstück\n1 geführte Wunsch-Wanderung \nSauna und Dampfbad Benutzung\n10 % Ermäßigung in die Bäderlandschaften\n\nPreis pro Einheit",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ]
+    }
+  ]
+}

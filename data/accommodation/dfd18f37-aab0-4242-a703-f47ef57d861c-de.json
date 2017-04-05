@@ -1,0 +1,90 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.neunerhof.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Neunerhof",
+    "streetAddress": "Weidach 377",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6259",
+    "faxNumber": "(0043) 5214 6259",
+    "email": "info@neunerhof.at",
+    "url": "http://www.neunerhof.at"
+  },
+  "name": "Neunerhof",
+  "description": [
+    "Auf einer kleinen Anhöhe, inmitten einer Wiese steht unser rustikal-eingerichtetes Haus im Herzen des schönen Leutaschtals. Unsere neu renovierten Appartements lassen keine Wünsche offen und sind mit all\u0027 erdenklichem Komfort ausgestattet. (Küche/Wohnküche, Schlafzimmer, Wohnzimmer, TV, Balkon, …) Unsere Doppelzimmer verfügen über Bad oder Dusche, WC, teilweise Balkon, …\nEgal ob Sommer oder Winter, Weidach ist der Ausgangspunkt vieler schöner Wanderungen, Loipentouren oder Skiausflüge am Kreithlift.\n\nÜberzeugen Sie sich selbst und besuchen Sie uns im schönen Leutasch. \nAuf Ihr Kommen freut sich ihre Familie Kerschbaumer.\n",
+    "inkl. Strom, Wasser, Reinigung\nexkl. Kurtaxe",
+    "Check-In: 14.00 Uhr\nCheck-Out: 10.00 Uhr\nUnser Haus steht am Ortsende von Waidach auf der Straße nach Seefeld, ganz in der Nähe vom Skilift und  der Rodelbahn, auf einer Anhöhe."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2a547d32-f0f9-4bd3-9384-f3042f60c94f/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8a623f13-9c13-460d-b777-2d4de9b72d8d/99/image.jpg",
+      "caption": "Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.367554588409",
+    "longitude": "11.166732374966"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Sehr schöne Ferienwohnung mit Blick auf das gesamte Wettersteingebirge, großer Balkon, rustikal eingerichtet mit Kachelofen.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Mundeblick/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Gemütliche Ferienwohnung mit Balkon und schönem Blilck auf die Berge.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Öfelekopf u. Wetterstein/1 SR/DU, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

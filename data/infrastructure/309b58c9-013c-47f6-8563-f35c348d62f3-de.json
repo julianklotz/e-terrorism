@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure",
+    "LocalBusiness"
+  ],
+  "name": "WM-Halle",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3262722866184",
+    "longitude": "11.1763572692871"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Casino WM-Halle",
+    "streetAddress": "Möserer Str. 632",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2095 ",
+    "email": "info@seefeld-sports.at",
+    "url": "http://www.seefeld-sports.at"
+  },
+  "description": [
+    " ",
+    "Halle 1 mit 2.500 m² für ca. 2.300 Personen, Halle 2 mit 2.200 m² für Ausstellungen, 4 Nebenräume mit insgesamt 404 m², Lagerräume, Büro, Rezeptionsschalter."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0e827694-9293-442a-8238-9520a5c074b5/99/image.jpg",
+      "caption": "WM-Halle"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8ee39b8a-9cde-445d-b493-49e5e0a8d8d1/99/image.jpg",
+      "caption": "Innenansicht"
+    }
+  ]
+}

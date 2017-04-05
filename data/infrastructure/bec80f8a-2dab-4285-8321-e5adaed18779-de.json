@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant"
+  ],
+  "name": "Astoria, Relax \u0026 Spa Hotel",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3357035497638",
+    "longitude": "11.187681555748"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Astoria Relax \u0026 Spa Resort ",
+    "streetAddress": "Geigenbühelstr. 185",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2272-0",
+    "faxNumber": "(0043) 5212 2272 100",
+    "email": "hotel@astoria-seefeld.com",
+    "url": "http://www.astoria-seefeld.com"
+  },
+  "description": "Sitzplätze für ca. 120 Personen\n\nAbends verwöhnen wir Ihren Gaumen mit erlesenen 5-Gang Wahlmenüs aus der mit\neiner Haube GAULT MILLAU (2010) ausgezeichneten Küche, welche aus hochwertigen, meist heimischen Qualitätsprodukten schonend und leicht für Sie zubereitet werden.\nUnser Service ist ebenso charmant wie perfekt.\nErlesene nationale und internationale Weine runden Ihren Urlaub zum Gourmeterlebnis ab.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8359fe9c-79fe-496b-be0f-4ee9ae8b1f7f/99/image.jpg",
+      "caption": "Astoria Sommer"
+    }
+  ],
+  "url": [
+    "http://www.astoria-seefeld.com"
+  ]
+}

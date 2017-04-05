@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Landform",
+    "Hostel"
+  ],
+  "name": "Wettersteinhütte",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3802048047339",
+    "longitude": "11.1082023382187"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Wettersteinhütte",
+    "streetAddress": "Gaistal",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 8958227",
+    "email": "hone.schuetz@drei.at",
+    "url": "http://www.wettersteinhuette.at"
+  },
+  "description": "Stempelstelle, Übernachtungsmöglichkeit für 35 Personen\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/527baf29-57e1-4152-b91a-0feb468f8101/99/image.jpg",
+      "caption": "Wettersteinhütte"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5bbf8c3e-fe78-433d-8219-8cca695aba6b/99/image.jpg",
+      "caption": "Wettersteinhütte Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ede1c872-3f06-4abc-ad6f-6f03d2b6dc6d/99/image.jpg",
+      "caption": "Wettersteinhütte Winter"
+    }
+  ],
+  "url": [
+    "http://www.wettersteinhuette.at"
+  ]
+}

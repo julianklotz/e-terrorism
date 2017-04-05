@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "HealthAndBeautyBusiness",
+    "BeautySalon"
+  ],
+  "name": "Gesundheitspraxis Seefeld - Osteopathie \u0026 Physiotherapie, Stefan Butz",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Gesundheitspraxis Seefeld - Osteopathie \u0026 Physiotherapie",
+    "streetAddress": "Innsbrucker Str. 227",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 650 2704407",
+    "url": "http://www.osteopathie-seefeld.com"
+  },
+  "description": "Osteopathie, Kinderosteopathie, Schwangerschaftbegleitung. Sportosteopathie und Physiotherapie. Termine nach telefonischer Vereinbarung.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ffedc8f7-b71b-48ae-b6cc-50dd2079d502/99/image.jpg",
+      "caption": "Piktogramm"
+    }
+  ],
+  "url": [
+    "http://www.osteopathie-seefeld.com"
+  ]
+}

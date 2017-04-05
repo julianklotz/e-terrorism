@@ -1,0 +1,29 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Landform"
+  ],
+  "name": "Alpenglühn",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3833140557431",
+    "longitude": "10.9737110137939"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Alpenglühn",
+    "addressLocality": "Ehrwald",
+    "postalCode": "6632",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5673 2349",
+    "faxNumber": "(0043) "
+  },
+  "description": "Stempelstelle",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/cb66eda1-d687-45a2-807a-96a181503b6b/99/image.jpeg",
+      "caption": "Alpenglühn"
+    }
+  ]
+}

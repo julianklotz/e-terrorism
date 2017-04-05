@@ -1,0 +1,20 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "TouristAttraction"
+  ],
+  "name": "Jakobsweg",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "description": "Jakobsweg\nDer Jakobsweg ist ein alter Pilgerweg quer durch\nganz Europa und im speziellen durch Spanien. Er\nführt nach Santiago de Compostela. Bereits Millionen\nvon Menschen gingen ihn in den letzten\nHunderten von Jahren. Der Weg führt von München\nkommend an Isar und Loisach über Gelting,\nBeuerberg, Penzberg, Bichl, Benediktbeuern,\nKochel, Walchensee, Wallgau, Krün, Mittenwald\nnach Tirol. Dort läuft der Weg durch die Leutasch/\nOlympiaregion Seefeld hinunter ins Inntal nach\nMötz. Detaillierte Beschreibungen über den Wegverlauf\ndurch die Leutasch entnehmen Sie bitte\ndem Wander- und Kulturfolder, welcher in allen\nInformationsbüros der Olympiaregion Seefeld für\neinen Unkostenbeitrag von € 3,-- erhältlich ist.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/691ee6f0-4886-44b3-a0f7-dd70a4f67763/99/image.jpg",
+      "caption": "jakobsweg"
+    }
+  ]
+}

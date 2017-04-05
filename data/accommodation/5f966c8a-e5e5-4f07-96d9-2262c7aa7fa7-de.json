@@ -1,0 +1,86 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://web.deskline.net/seefeld/de/show_accommodation/SEE/5f966c8a-e5e5-4f07-96d9-2262c7aa7fa7/steuxnerhof",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Steuxnerhof",
+    "streetAddress": "Unterkirchen 256 c",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6567",
+    "faxNumber": "(0043) 5214 6567",
+    "email": "h.steuxner@aon.at"
+  },
+  "name": "Steuxnerhof",
+  "description": [
+    "Unser Haus befindet sich in sonniger Lage im Ortsteil Unterkirchen, nicht weit vom Wanderweg bzw. der Loipe. Wir bieten unseren Gästen gemütliche Zimmer und eigene landwirtschaftliche Erzeugnisse zum Frühstück. Gasthäuser in der Nähe.",
+    "Hund kostenlos",
+    "von Seefeld: Weidach - Gasse - Richtung Mittenwald - Unterkirchen\n\nvon Mittenwald: Schanz - Unterkirchen"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9eb5fcae-1f2b-4b03-b2a6-4c883eff8a54/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/478b2376-a8b1-4017-92eb-9e235b2f97b5/99/image.jpg",
+      "caption": "Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.419500968735",
+    "longitude": "11.218225564523"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "28.00",
+          "maxPrice": "28.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "28.00",
+          "maxPrice": "28.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

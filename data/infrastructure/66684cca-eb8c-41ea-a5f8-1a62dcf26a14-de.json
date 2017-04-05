@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant"
+  ],
+  "name": "Rustical",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3721304",
+    "longitude": "11.1543489000001"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Gasthof Rustical",
+    "streetAddress": "Weidach 277",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 676 6206007",
+    "email": "gasthof.rustical@gmail.com",
+    "url": "http://www.gasthofrustical.com"
+  },
+  "description": "Sitzplätze für ca. 60 Personen",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1e392b10-e650-4aed-9950-9596c4f33559/99/image.jpg",
+      "caption": "rustical"
+    }
+  ],
+  "url": [
+    "http://www.gasthofrustical.com"
+  ]
+}

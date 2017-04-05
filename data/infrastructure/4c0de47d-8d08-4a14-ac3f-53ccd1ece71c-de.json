@@ -1,0 +1,33 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Store",
+    "ClothingStore"
+  ],
+  "name": "STYLE´isches Women/Modegeschäft",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "STYLE´isches Women",
+    "streetAddress": "Innsbruckerstr. 775",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 05212/4144",
+    "url": "http://www.style-isches.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/cde79a90-3299-46f9-9db4-905276b18645/99/image.jpg",
+      "caption": "Stylisches"
+    }
+  ],
+  "url": [
+    "http://www.style-isches.at"
+  ]
+}

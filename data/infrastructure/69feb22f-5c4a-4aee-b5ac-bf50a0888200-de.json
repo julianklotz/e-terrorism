@@ -1,0 +1,30 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BankOrCreditUnion"
+  ],
+  "name": "BAWAG PSK,Bank, Bankomat",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3288320557778",
+    "longitude": "11.1870110034943"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "BAWAG PSK",
+    "streetAddress": "Klosterstr. 367",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5776776100",
+    "url": "http://www.bawagpsk.com"
+  },
+  "description": "Mo-Fr: 8.00 - 12.00 Uhr \u0026 14.00 - 18.00 Uhr",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7518e4ad-49b0-4a9e-bb65-768da7fb44bf/99/image.jpg",
+      "caption": "Bawag PSK"
+    }
+  ]
+}

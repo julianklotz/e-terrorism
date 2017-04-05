@@ -1,0 +1,365 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://www.pichlers-alpenlodge.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Aparthotel Alpenlodge",
+    "streetAddress": "Weidach 375 a",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6329",
+    "faxNumber": "(0043) 5214 6329 4",
+    "email": "info@alpenlodge.at",
+    "url": "http://www.alpenlodge.at"
+  },
+  "name": "Aparthotel Alpenlodge",
+  "description": [
+    "\nDIE ALPENLODGE Neu, einzigartig und exklusiv - das heißt Urlaub in unserem Aparthotel Alpenlodge**** Leutasch. Großzügige Suiten und Appartements im zeitgenössischen Alpinen Design, ausgesuchte Wellness- und Sportangebote auf höchstem Niveau und herzliche Tiroler Gastfreundschaft in der Olympiaregion Seefeld erwarten Sie. 19 Appartements und 2 Doppelbettzimmer mit wunderschöner Ausstattung. Ob in der Bergherzl-Suite, unserem Alpennest, in der Adlerhorst-Suite, dem Bergfeuer Appartement, in dem Gartenzauber Appartement oder in den superior Suiten Zirbennest: Alle Appartements betreten Sie durch einen Vorraum mit ausreichend Staumöglichkeit - Gardarobe. Der Wohnraum, im modernen Tiroler Stil ist mit einer hochwertigen Sitzecke ausgestattet. Das Doppelsofa ist sofort als Zustellbett für 2 Personen ausklappbar und nützbar. Die Essecke: bequem und hochwertig. Der Küchenblock ist mit Backofen, Herd, Spülmaschine und Kühlschrank ausgestattet. Kaffeemaschine, Toaster und ein Wasserkocher gehören in unserem Haus zum Standard. Das Badezimmer ist eine richtige Wohlfühloase. Hervorzuheben ist der wunderschöne, handgefertigte Waschtisch aus Tiroler Altholz. Die Duschen sind ohne Schwelle begehbar und ein richtiger \"Hingucker\". Das WC ist in allen Suiten separat. Der Blick von den Balkonen aus ist einfach Natur pur. Alle Suiten sind mit Lift barrierefrei erreichbar. Es besteht auch die Möglichkeit die Wohnungen für größere Familien durch eine Verbindungstür zu erweitern. Viele Inklusivleistungen!",
+    "\nDie Alpenlodge liegt ca. 5 von den Loipen und vom Zentrum entfernt.Wanderkarten und alle Informationen, die Sie benötigen sind im Haus vorhanden.Im Sommer sind wir ein perfekter Ausgangspunkt für Wanderungen - Zentrumsnähe und die Bushaltestelle befindet sich nur 150 m von uns entfernt. Im Sommer speziell für unsere Hausgäste: FREIER EINTRITT INS ALPENBAD!!",
+    "\nVon Mittenwald: durch das Tal, bis Ortsteil Gasse, bei GH W.Rössl links, Ortsteil Weidach - nach AVANTI Tankstelle 200 m an linker Seite. Von Seefeld: durch Neuleutasch, der nächste Ortsteil ist Weidach. Nach dem Kreithlift/Spielpark 200m an rechter Seite. Anreise ist von 08:00 bis 19:00 Uhr möglich. Spätanreise bitten wir Sie uns Bescheid zu geben.",
+    "Zugspitze, Langlauf, Skating, Sonne, nebelfrei, Urlaub, Garmisch, Wandern, Walking, Biken, Radfahren"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "reviewCount": "51"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2514ceb9-d00d-480a-9cc3-2a596730ff2b/99/image.jpg",
+      "caption": "IMG_0072"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/78679da2-82bb-4ab5-81f8-db37ea888848/99/image.png",
+      "caption": "alpenlodge_logo_leutschach_2016"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6dcf6120-8bba-4f5f-834b-6e7064009bc1/99/image.jpg",
+      "caption": "alpenlodge005"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c37ef060-5bee-4f06-b974-9c09c7386a65/99/image.jpg",
+      "caption": "alpenlodge008"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0d50303a-5991-464c-a6a7-28d7bf0b9de4/99/image.jpg",
+      "caption": "alpenlodge011"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/32cfa53f-8390-40da-b54a-617b18d51474/99/image.jpg",
+      "caption": "alpenlodge014"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e3a3d2a1-9ce6-459c-80c0-8d45ebdac2bd/99/image.jpg",
+      "caption": "alpenlodge024"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/50210a80-c23c-44bc-aa11-519435b956b2/99/image.jpg",
+      "caption": "alpenlodge026"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d054091b-4210-463f-a850-90572516a578/99/image.jpg",
+      "caption": "alpenlodge037"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1108ac15-b778-49f6-a15c-5dcc062925bf/99/image.jpg",
+      "caption": "alpenlodge047"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3705bb8a-1d87-4d9c-b13c-23a4308aeb13/99/image.jpg",
+      "caption": "alpenlodge048"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9d1e5940-2f9d-426e-80a3-494f7e71f9a9/99/image.jpg",
+      "caption": "alpenlodge051"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c2bf833f-d047-415b-b6fc-7b4a64527a22/99/image.jpg",
+      "caption": "alpenlodge053"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2b1b7559-1839-49c1-83ea-0462b5a4c551/99/image.jpg",
+      "caption": "alpenlodge056"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/78e6904f-e45a-4979-8d64-ce5be47d2a90/99/image.jpg",
+      "caption": "alpenlodge061"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c30b0f0c-d933-4d44-92a7-e4542ce0f972/99/image.jpg",
+      "caption": "alpenlodge059"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f0b5e7d2-1082-41d8-adea-134aacb0e9e8/99/image.jpg",
+      "caption": "alpenlodge058"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/64da79ef-2dfc-42fc-a6d6-0ffdfddf3fe5/99/image.jpg",
+      "caption": "alpenlodge-innen2-005"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3d423cf7-6122-42af-8bd2-35b39174651e/99/image.jpg",
+      "caption": "alpenlodge-innen2-004"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d1618d17-5ecd-4021-bd55-79656158a09e/99/image.jpg",
+      "caption": "alpenlodge016"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/044cc659-6904-4421-a62b-44edf6191e95/99/image.jpg",
+      "caption": "alpenlodge019"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.368627896375",
+    "longitude": "11.16684724421"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Toilette und Bad/Dusche getrennt, 1 Schlafraum",
+      "description": "Fühlen Sie sich einfach nur wohl in unseren Suiten!\nAlle Zimmer sind hochwertig ausgestattet und laden zu erholsame Urlaubstage ein!\n\nEin wunderschönes Alpenstyle-Appartement mit Ausblick auf die HOHE MUNDE.\nmit 1 Schlafzimmer, 1 großzügigem Wohnzimmer (Schlafcouch für 2 Kinder vorhanden), Küche voll eingerichtet, Badezimmer/WC, Balkon.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Bergfeuer - Bergherzl",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "70.00",
+          "maxPrice": "150.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "82.00",
+          "maxPrice": "170.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "94.00",
+          "maxPrice": "190.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Suite, Toilette und Bad/Dusche getrennt, 1 Schlafraum",
+      "description": "Fühlen Sie sich einfach nur wohl in unseren Suiten!\nAlle Zimmer sind hochwertig ausgestattet und laden zu erholsame Urlaubstage ein!",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Gartenzauber",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "80.00",
+          "maxPrice": "160.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "92.00",
+          "maxPrice": "182.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "104.00",
+          "maxPrice": "200.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Suite, Toilette und Bad/Dusche getrennt, Superior",
+      "description": "Zirbennest Appartements - sind unser absolute Lieblinge. Sie strahlen Wärme, Geborgenheit und Wohlfühlen aus.\nDer gesamte 3. Stock ist mit der Tiroler Zirbe ausgestattet und mehr als nur ein Appartement.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Zirbennest",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "110.00",
+          "maxPrice": "190.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "122.00",
+          "maxPrice": "210.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "134.00",
+          "maxPrice": "230.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Toilette und Bad/Dusche getrennt, 2 Schlafräume",
+      "description": "Fühlen Sie sich einfach nur wohl in unseren Suiten!\nAlle Zimmer sind hochwertig ausgestattet und laden zu erholsame Urlaubstage ein!\nDie Appartements können flexibel vergrößert werden. Dieses App hat schon 2 Schlafzimmer. Für die Eltern mit Doppelbettzimmer und die Kinder in einem schönem Zimmer mit Hochbett.\nAlle Appartements sind mit Lift erreichbar!",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Adlerhorst",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "120.00",
+          "maxPrice": "190.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "132.00",
+          "maxPrice": "210.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "144.00",
+          "maxPrice": "230.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Toilette und Bad/Dusche getrennt, Balkon",
+      "description": "Unser Alpennestl - ein Doppelbettzimmer das als einfache Suite nützbar ist, oder mit Verbindungstür zum anliegenden Appartement dient",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer, Toilette und Bad/Dusche getrennt, Ba",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "50.00",
+          "maxPrice": "120.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "62.00",
+          "maxPrice": "140.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BookStore",
+    "Store"
+  ],
+  "name": "Albrecht Kaufhaus, Trafik",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3281339492188",
+    "longitude": "11.1875903606415"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Trafik Albrecht Kaufhaus",
+    "streetAddress": "Innsbrucker Str. 24",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2229 648"
+  },
+  "description": [
+    " ",
+    "Auch Verkauf von Telefonwertkarten!"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c1c0f338-0f28-44e2-85aa-c3d6e1e747c2/99/image.jpg",
+      "caption": "Trafik, Albrecht Kaufhaus"
+    }
+  ]
+}

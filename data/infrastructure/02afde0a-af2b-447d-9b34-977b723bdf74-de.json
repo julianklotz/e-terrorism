@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure"
+  ],
+  "name": "Taxi Ramona",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3784299120485",
+    "longitude": "11.2370493760575"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Gasthof Ramona",
+    "streetAddress": "Giessenbach 310",
+    "addressLocality": "Scharnitz",
+    "postalCode": "6108",
+    "addressCountry": "AT",
+    "telephone": "+4352135541",
+    "email": "info@gasthof-ramona.at",
+    "url": "http://www.gasthof-ramona.at"
+  },
+  "description": "Gießenbach 310\nTel.: +43 5213/5541",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9d165437-a300-4cec-a7e4-4773bd1976c4/99/image.jpg",
+      "caption": "Taxi Ramona"
+    }
+  ],
+  "url": [
+    "http://www.gasthof-ramona.at",
+    "http://www.karwendel.org"
+  ]
+}

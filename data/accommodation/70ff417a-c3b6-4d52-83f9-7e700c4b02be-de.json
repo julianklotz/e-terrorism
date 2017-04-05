@@ -1,0 +1,256 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://members.aon.at/hotel.vergeiner-seefeld",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Hotel Vergeiner",
+    "streetAddress": "Geigenbühelstr. 692",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2393",
+    "faxNumber": "(0043) 5212 2393 34",
+    "email": "info@hotelvergeiner.at",
+    "url": "http://members.aon.at/hotel.vergeiner-seefeld"
+  },
+  "name": "Hotel Vergeiner",
+  "description": [
+    "Sich zurücklehnen u. entspannen in wohlig vertrauter Atmosphäre im \"2.Zuhause\". Excellentes Diner im romantischen Abendkulinarium, beim Degustieren edler Tropfen.\nPackages im legendären  Design verwöhnen Sie mit einem zusätzlichen Tag im Dienste der Erholung, Langschläferfrühstück täglich bis 11.00 h. Polaris Packages, Verwöhntage uvm. 35 % Greenfee- Ermässigung auf dem neuen 9 Loch Platz der Golfacademy.\nLCD-Flat TV´s in mehreren Zimmern, KEY-CARD System, neue Dining-Collection erweitern den traditionell charmanten Stil.",
+    "Ohne Berechnung: Early Check-In on request, Bademantel f.Saunarium (Finnische Sauna und Softdampfbad Infrarotkabine), Langschläferfrühstück, Hotelparkplatz, Room Safe.\nGegen Gebühr: Hunde € 8.- (ohne Futter)\nCheck in: 15.00 Uhr /Check out: 12.00 Uhr",
+    "Late check out on request. exkl.Ortstaxe € 1.20, \n€ 1.50 ab 1.1.2011\nAuto: Exit Seefeld Mitte \u003e links, geradeaus 180° durch den Kreisverkehr, dann \u003e Zentrum \u003e ca.500m bis Position Hotel Central,rechts abbiegen \u003e bis Apotheke, links abbiegen in die Geigenbühelstr. \u003e nach ca. 150m links"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "reviewCount": "303"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/19fec69b-4db3-47e5-b4cd-98926fb46a4c/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/74456df4-c9eb-4d0b-8184-4a82e8ef00f7/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8f2f6922-9a55-4a5c-86d9-c1c366d35a40/99/image.jpg",
+      "caption": "Sommer2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8fce6eb1-cc75-4840-9d4c-3dde5555ed4e/99/image.jpg",
+      "caption": "Terrasse"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/67c90939-ab08-444d-9619-e7f176a92898/99/image.jpg",
+      "caption": "Sanarium"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3e67565e-b835-4d9d-bbcc-b131a0916ed4/99/image.jpg",
+      "caption": "Sauna Wellness"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9e2316eb-f219-496f-ae6a-44b2813a9ed4/99/image.jpg",
+      "caption": "Weinkeller"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6f4606c6-d47b-4e48-9701-152b19140f0a/99/image.jpg",
+      "caption": "Reception"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a7362525-460e-4a63-9d4d-a394089f8147/99/image.jpg",
+      "caption": "Speisesaal/Landhausstube"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.333424058006",
+    "longitude": "11.1875420808792"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Junior Suite, Bad, WC",
+      "description": "Juniorsuite, romantisches und kuscheliges Wohlfühlambiente zum Entspannen und Träumen in oberster Etage. Harmonie von Tradition und modernem Interieur, individuell mit großem Bad.\nBad/WC,Sitzecke,Balkon,Radio,Telefon, cable-TV,Tresor, Fön,Bademantel",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Juniorsuite \"Eisbärchen\"",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Doppelzimmer im Wohlfühlabmiente in ruhiger und wohliger Behaglichkeit, \"traditionell\" mit dem Komfort von heute.\n\nDusche / WC, Balkon, Radio, Telefon, cable - TV, Tresor, Fön, Bademantel",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer \"Polaris 1\"",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Junior Suite, Bad, WC",
+      "description": "Sehr wohliges und kuscheliges Amiente zum Entspannen uns Relaxen im oberster Etage. Kombination von italienischem Design und traditionellem Flair; Zum Wohlfühlen.\n\nBad / WC, Sitzecke, Balkon, Radio, Telefon, cable-TV, Tresor, Fön, Bademantel",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Juniorsuite \"Design\"",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Einzelzimmer, Dusche, WC",
+      "description": "Einzelzimmer - Sonnenseite , grosser Südbalkon\nDusche /WC, Balkon, Radio, Telefon, cable - TV, Tresor, Fön, Bademantel",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Einzelzimmer \"Uno\"",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Dreibettzimmer, Dusche, WC",
+      "description": "Dreibettzimmer oder Doppel, sehr geräumig,  im Wohlfühlambiente, in ruhiger und wohliger Behaglichkeit, \"traditionell\" mit dem Komfort von heute.\n\nDusche / WC, Balkon, Radio, Telefon, cable - TV, Tresor, Fön, Bademantel",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Dreibettzimmer \"Polaris 2\"",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Bad, WC",
+      "description": "Kuscheliges, romantisches Doppelzimmer zum Relaxen in oberster Etage. Individuell mit großem Bad im Ambiente zum Wohlfühlen. Panoramafenster\nBad / WC, Radio, Telefon, cable - TV, Tresor, Fön, Bademantel \nSUPER MARTINI wellbeing  4  you\nPackage",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer \"Polarbärchen\"",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Panorama-Doppelzimmer im Wohlfühlambiente in oberster Etage, Relaxen in wohltuender Bahaglichkeit in Verbindung mit traditionellem Charakter.\n\nDusche / WC, Radio, Telefon, cable - TV, Tresor, Fön, Bademantel",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "DZ Panoarma \"Polarbärchen 2\"",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ]
+    }
+  ]
+}

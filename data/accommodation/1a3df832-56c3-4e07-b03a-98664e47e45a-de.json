@@ -1,0 +1,3079 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://www.krumers.com",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf",
+    "https://e-tankstellen-finder.com/at/de/elektrotankstellen/stromtankstelle/6893/Albrecht-Hotel-GmbH-6100-Seefeld-in-Tirol"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Krumers Post Hotel \u0026 Spa",
+    "streetAddress": "Dorfplatz  25",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "+4352122201",
+    "faxNumber": "+4352122201500",
+    "email": "post@krumers.com",
+    "url": "http://www.krumers.com"
+  },
+  "name": "Krumers Post Hotel \u0026 Spa",
+  "description": [
+    "Genießen, entspannen und entdecken! \nGenießen Sie die hervorragende Küche, welche raffinierte Gerichte aus regionalen Produkten zaubert.\nEntspannen Sie sich im neuen Krumers Spa auf über 2.200 m² (ab 16 Jahren) bei beruhigenden Massagen und träumen Sie in den Panorama-Ruhebereichen mit Blick auf die Berge. Hoch über den Dächern von Seefeld können Sie im Krumers Roof Spa die Zeit genießen! \nEntdecken Sie wieder Ihre Freude an Sport und Bewegung und nehmen Sie am täglichen Aktivprogramm mit Yoga, Pilates, geführten Wanderungen, Smovey, Zumba, Aquagym uvm. teil!",
+    "- großzügiges Frühstücksbuffet\n- 5-Gang Wahlmenü plus tägl. Salatbuffet  \n- Nachmittagsjause süß und deftig mit Kaffee \u0026 Tee\n- Spabereich mit über 2.200 m² mit Schwimmbad, Dampfbad, Saunen, Infrarotkabine, Damensauna, Spa-Lounge, Ruheräumen mit Wasserbetten, Wellnessbuffet\n- kostenloses W-Lan \n- Fitness- \u0026 Aktivprogramm\nminus 5% in Hotelshops \nminus 35% auf das Greenfee\nminus 20% auf Skiverleih",
+    "Check-In: 15.00 Uhr  Check-Out: 11.00 Uhr\n\nIn Seefeld angekommen folgen Sie der Beschilderung zum Parkplatz Nähe Bahnhof. Beim Türmchen ziehen Sie an der Schranke ein Ticket und fahren bis zur Rezeption vor.",
+    "Seefeld Wellness Entspannung Dayspa Massage Kosmetik Zentrum Dorfplatz Kulinarik Spa Pool Ruhe"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "reviewCount": "501"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3796dcad-10a6-478d-b2eb-225847e58d88/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/64d97d5a-7cdf-4498-be6e-008430718604/99/image.jpg",
+      "caption": "Hauslogo"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4514d477-9cb1-46a2-8ac9-3a3302642107/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/301fcac4-4468-442e-9f2f-5becb8fe0a7f/99/image.jpg",
+      "caption": "Pool"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1ca1f908-883c-4949-9e8a-d9ca24fd1b4f/99/image.jpg",
+      "caption": "Lounge"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c1902950-c58b-405f-b668-fbd0d6bac2e2/99/image.jpg",
+      "caption": "Speisesaal 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/12a450af-77bc-4fa4-8a67-8c67b9fc4c40/99/image.jpg",
+      "caption": "Sitzecke"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/bd5d5369-0b2b-4a06-9630-64987ad319b3/99/image.jpg",
+      "caption": "Sauna"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/843ac1ea-a509-4015-a41f-3aa358d369a3/99/image.jpg",
+      "caption": "Spa Saftbar"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7feb7493-7b97-447b-b697-8673cc9798c2/99/image.jpg",
+      "caption": "Spa Ruheraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/06b63c56-6c21-4b0d-946e-f5558939b127/99/image.jpg",
+      "caption": "Spa Aussicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7fcb5798-b768-41bf-916f-6cd70c3252fd/99/image.jpg",
+      "caption": "Ruheraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1ebfc93a-0cb6-4f69-8daa-d1e0ababab44/99/image.jpg",
+      "caption": "Doppelzimmer Rosshütte"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2746ee8b-ae8b-44a1-a91b-47e749a4a58d/99/image.jpg",
+      "caption": "Dachterrasse"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b8e89e69-ff91-47a3-8245-9239af849a17/99/image.jpg",
+      "caption": "Dachterrasse"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1cd46e5c-f901-4823-9e47-5b737177762f/99/image.jpg",
+      "caption": "Doppelzimmer Rosshütte"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f25ca38d-254b-44e2-9f6b-dd2ba004eb13/99/image.jpg",
+      "caption": "Doppelzimmer Rosshütte"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/95cbb39e-9fa2-4697-aee4-261c2c50f030/99/image.jpg",
+      "caption": "Dachterrasse"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e3153ffe-722d-47f5-9950-f2fb9f800371/99/image.jpg",
+      "caption": "Kulinarik"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f7f9d186-d93e-4490-a2ef-25cda4b8579e/99/image.jpg",
+      "caption": "Wellnessbereich"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d55e0ea0-0380-4316-a5c9-677ba5afbd77/99/image.jpg",
+      "caption": "Behandlungsraum"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3287884243882",
+    "longitude": "11.187692284584"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Suite, Dusche und Bad, WC, Deluxe",
+      "description": "2 getrennte Doppelzimmer mit Sitzecke oder 1 Doppelzimmer mit getrennten Wohnzimmer, Bad + Dusche, WC, TV, Radio, Minibar, Safe, Balkon, Teeecke, Internet im Zimmer, Größe ca. 55 m²",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Suite",
+          "description": "SUITE Doppelzimmer mit getrenntem Wohnzimmer (ca. 55 m²)mit Bad, Dusche, WC, Kabel TV, Radio, Telefon, Safe, Minibar sowie Tee-Ecke, mit kostenlosen Internetzugang und Balkon \n",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Weihnachtswoche",
+          "description": "Das Weihnachtsfest mit uns gemeinsam erleben- eine besinnliche Woche inkl. Weihnachtsprogamm für die gesamte Familie!\n\nInklusive:\n7 Übernachtung mit unserer Krumers Verwöhnpension\n1 romantische Fackelwanderung rund um den Wildsee\n1 wärmender Glühwein im Cafe Platzhirsch\nder Seefelder Adventmarkt direkt vor unserer Haustüre\ngemeinsames Keksebacken\nFamilienweihnachtsfeier mit Cocktailempfang, Adventgeschichten, Musik und Galamenü\nGeschenke für alle Kinder",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Sommerfit mit \"Skiroller\"",
+          "description": "- 3 oder 4 Übernachtungen inklusive Halbpension - Anreise am Sonntag oder Donnerstag (Do-So, So-Do) \n- eine Privatstunde mit Kurs in der Skating- oder klassischen Technik\n- Leihmaterial (Skiroller, Schuhe, Helm, Stöcke)\n- eine Tageskarte für die Skirollerbahn\n- eine wohltuende Sportmassage (ca.25min)",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/02ff4841-27f1-409e-8399-b01306a5cc7c/99/image.jpg",
+              "caption": "Schnattertage"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Reine Männersache",
+          "description": "- 3 oder 4 Übernachtungen inklusive Verwöhnpension - Anreise am Sonntag oder Donnerstag (Do-So, So-Do) \n- 1 Alpenkräuter Körper-Peeling (ca. 25min)\n- \"Gesichtsbehandlung BASIC\" für Ihn - ganz individuelle, auf Ihren Hauttyp abgestimmte Gesichtsbehandlung (ca. 50min)\n- 1 kräftigende oder entspannende Fußreflexzonenmassage (ca. 25min)\n- ein kleines Susanne Kaufmann Paket zum Mitnachhause nehmen",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Powerpaket für Ihn",
+          "description": "- 7 Übernachtungen inklusive Verwöhnpension\n- eine Kopf-Schulter-Nacken-Massage (ca. 25min)\n- eine Fitness-Massage zur Lockerung der Muskulatur (ca. 50min)\n- eine private Aktivstunde mit Betreuung durch den Wellnesstrainer. Wählen Sie selbst: Poweryoga, Krafttraining, Rückentraining, Power Walking,... oder auch eine entspannende Meditation zur Kräftesammlung\n- einen energiespendenden, natürlichen Powerdrink vor der Aktivstunde\n",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Männer! Stammtisch",
+          "description": "- 3 oder 4 Übernachtungen inklusive Krumers Verwöhnpension - Anreise am Sonntag oder Donnerstag (Do-So, So-Do) \n- einen Eintritt ins Casino Seefeld mit Spieljetons und einem Getränk an der Casinobar für alle Freunde\n- ein Abendessen am Stammtisch in unserem Weinrevier mit einer Runde Bier und ein Schnapsl nach dem Essen\n- eine geführte Wanderung mit unserem Aktivtrainer\n- ab 5 Männern gibt es einen geführten Eisaufguss in der Sauna mit Bier zum Abschlus\n- 6. Freud wird von uns eingeladet",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "\"Babyboom\" - Wellnessurlaub für Schwangere",
+          "description": "- 3 oder 4 Übernachtungen - Anreise am Sonntag oder Donnerstag (So-Do, Do-So)\n- eine entspannende Kopf-Schulter-Nacken-Massage (ca. 25min)\n- ein kühlender Beinwickel mit Wirkstoffen aus der Rosskastanie, Lavendel und Rosmarinöl (ca. 25min)\n- eine Lymphodrainage - wunderbar fließende Behandlung zur Tiefenentspannung (ca. 25min)\n- eine Nachtkerzenöl-Cremepackung in der warmen Schwebeliege zum Pflegen der Haut (auch bestens geeignet für sehr empfindliche Haut)",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Mutter \u0026 Tochter Wellness",
+          "description": "- 3 oder 4 Übernachtungen inkl. Krumers Verwöhnpension (So-Do, Do-So)\n- je eine Gesichtsbehandlung nach Wunsch Anti-Aging oder Basic (ca. 50min) für Mutter und Tochter\n- je eine Gänseblümchenpackung in der Schwebeliege für samtig weiche Haut oder einen kühlenden Beinwickel\n- eine geführte Wanderung oder Bergtour durch die wunderbare Naturkulisse\n- täglich geführtes Aktivprogramm mit Aquafit, Yoga, Pilates, Meditationen, Nordic Walking, Smovey uvm.\n- exklusives 6 gängiges Gala-Menü am Sonntag\n",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Neujahr in Seefeld",
+          "description": "- 7 oder 10 Übernachtungen inkl. Krumers Verwöhnpension\n- 1 geführte Wanderung um den Wildsee\n- 1 Weinverkostung\n- große Silvestergala am 31.12.: Cocktail Champagnerempfang mit Flying Buffet, 7-gängiges Silvester-Gala-Dinner, Live-Musik und Tanz bis in den Morgen, um Mitternacht großes Silvester-Feuerwerk, kleines Mitternachtsbuffet zum Stärken\n- Langschläfedr- und Katerfrühstück am 01.01.\n- Live Übertragung Neujahrskonzert der Wiener Philharmoniker auf Großbild Leinwand am 01.01.",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "300.50",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Junior Suite, Dusche und Bad, WC, Deluxe",
+      "description": "Suite - Doppelzimmer mit getrenntem Wohnzimmer (ca. 55m²) mit Bad, Dusche, WC, Kabel TV, Radio, Telefon, Safe, Minibar sowie Tee-Ecke mit kostenlosem Internetzugang und Balkon.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Juniorsuite Kirschbaum",
+          "description": "Juniorsuite Kirschbaum (ca. 38 – 43 m²) Richtung Dorfplatz, mit Bad, WC, Balkon, Kabel TV, Radio, Telefon, Safe, Minibar, zusätzlich eine separate Dusche, großteils mit Bidet, kostenloser Internetzugang, Tee-Ecke und Wohnteil,",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Short \u0026 Golf",
+          "description": "- 3 Übernachtungen inklusive Krumers Verwöhnpension, Anreise am Donnerstag (DO-SO)\n- 1 \"Golfermassage\" Teilkörpermassage für Arme und Rücken nach einem aktiven Tag am Green (ca. 25min)\n- Golf Alpin Card mit 3 Greenfees\nzB- 1x Greenfee für den Golfclub Wildmoos (ca. 10 Autominuten, 18 Loch Platz)\nund 1x Greenfee für den Golfclub Mieming (ca. 20 Autominuten, 18 Loch Platz)\nund 1x Greenfee für den Golfclub Seefeld (ca. 2 Gehminuten, 9 Loch Platz)",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/daf8e784-7eaa-4152-9c59-9786922e3375/99/image.jpg",
+              "caption": "Golf"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Einfach Schön - das kurze Wellnesspaket",
+          "description": "- 3 Übernachtungen inklusive Krumers Verwöhnpension, Anreise am Donnerstag (DO-SO)\n- 1 x Alpenkräuter Körper-Peeling - Frische ganz pur auf der eigenen Haut entdecken (25 min.)\n- 1 x „Gesichtsbehandlung BASIC\"  von Susanne Kaufmann - ganz individuelle, auf Ihren Hauttyp abgestimmte Gesichtsbehandlung (50 min)\n- 1 x vitalisierende oder entspannende Fußreflexzonenmassage (25 min)\n- ein kleines Susanne Kaufmann Paket zum Mitnachhause nehmen",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/73f76737-b965-48ee-a2c4-5ed43dbfccdb/99/image.jpg",
+              "caption": "Einfach schön"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Krumers Wunschpaket",
+          "description": [
+            "- 7 Übernachtungen inklusive Krumers Verwöhnpension \n- 1x Behandlungsgutschein über 200 Wohlfühl-Minuten, wählen Sie selbst aus unserem Spa-Menü oder lassen Sie sich von unserem Spateam ein ganz auf einiges Paket schnüren\n- 1x \"Private Spa\" inklusive Aromapeeling und Körperöl, 2 Gläser Sekt und frische Früchte in der privater Sauna (ca. 55 min)\n- 1 private Aktivstunde mit unserem Private Coach - wählen Sie selbst: Yoga, Gymnastik, Nordic-Walking, Pilates, Meditation, Kraft- oder Ausdauertraining",
+            "- 7 Übernachtungen inklusive Krumers Verwöhnpension \n- 1x Behandlungsgutschein über 200 Wohlfühl-Minuten, wählen Sie selbst aus unserem Spa-Menü oder lassen Sie sich von unserem Spateam ein ganz auf einiges Paket schnüren\n- 1x \"Private Spa\" inklusive Aromapeeling und Körperöl, 2 Gläser Sekt und frische Früchte in der privater Sauna (ca. 55 min)\n- 1 private Aktivstunde mit unserem Private Coach - wählen Sie selbst: Yoga, Gymnastik, Nordic-Walking, Pilates, Meditation, Kraft- oder Ausdauertraining",
+            "- 7 Übernachtungen inklusive Krumers Verwöhnpension \n- 1x Behandlungsgutschein über 200 Wohlfühl-Minuten, wählen Sie selbst aus unserem Spa-Menü oder lassen Sie sich von unserem Spateam ein ganz auf einiges Paket schnüren\n- 1x \"Private Spa\" inklusive Aromapeeling und Körperöl, 2 Gläser Sekt und frische Früchte in der privater Sauna (ca. 55 min)\n- 1 private Aktivstunde mit unserem Private Coach - wählen Sie selbst: Yoga, Gymnastik, Nordic-Walking, Pilates, Meditation, Kraft- oder Ausdauertraining"
+          ],
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/e0482e57-0a28-44da-9e31-3fa5297aa7c4/99/image.jpg",
+              "caption": "Krumers Wunschpaket"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Golf \u0026 Spa",
+          "description": "- 7 Übernachtungen inklusive Krumers Verwöhnpension\n- Golf Alpin Card mit 3 Greenfees\n   zB 1 x Greenfee für Golfclub Wildmoos, 2x Greenfee    für Golfclub Seefeld (2 x 9 Löcher) und 1 x Greenfee für Golfplatz Mieming \n- 1 Kinesio Taping mit Massage für den freien Schwung (50 min)\n    oder 1 Privatstunde mit einem Golf-Professional (55min)\n",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/bfa78ca3-769c-4a9b-b7c1-a6a6cf9af850/99/image.jpg",
+              "caption": "Golf"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Zeit zu Zweit",
+          "description": [
+            "- 2 Übernachtungen von Sonntag bis Freitag inklusive Krumers Verwöhnpension\n- 1 \"Private SPA\" inklusive Aromapeeling und Körperöl (ca. 55 min.)\n- 2 Gläser Sekt und Früchte mit privater Sauna\n- 1 romantisches Candlelight Dinner\n",
+            "- 2 Übernachtungen von Sonntag bis Freitag inklusive Krumers Verwöhnpension\n- 1 \"Private SPA\" inklusive Aromapeeling und Körperöl (ca. 55 min.)\n- 2 Gläser Sekt und Früchte mit privater Sauna\n- 1 romantisches Candlelight Dinner\n"
+          ],
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/36ea6be2-7ae0-48ae-a87a-1a29855b866e/99/image.jpg",
+              "caption": "Zeit"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Adventzauber",
+          "description": "Vorweihnachtliche Stimmung im verschneiten Seefeld...\n\nInklusive:\n- 3 Übernachtungen inklusive Krumers Verwöhnpension\n- 3+1 bei Anreise Sonntag schenken wir Ihnen eine Übernachtung gratis dazu!\n- 1 romantische Fackelwanderung um den Wildsee mit gemütlichem Glühweinstopp\n- 1 Winterwanderung zu unseren Kapellen\n- 1 wohltuende Vanille-Zimt Massage (ca.25min)\n- der Seefelder Adventmarkt direkt vor unserer Haustüre",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/3e31b6e3-6bff-45fb-a38a-b8b746a2346f/99/image.jpg",
+              "caption": "Weihnachtstage"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Schnattertage",
+          "description": "- 3 Übernachtungen inklusive Verwöhnpension - Anreise am Donnerstag (Do-So) \n- ein Private Spa für Sie und Ihre Freundinnen mit privater Sauna und Körperpeeling und Aromaöl zur Selbstanwendung (ca. 50min)\n- einen Eintritt in das Casino Seefeld mit Spieljetons und zwei Gläsern Sekt für alle Freundinnen\n- einen Behandlungsgutschein im Wert von € 20,- pro Person gültig für alle Behandlungen und alle Massagen\n- bei 6 Freundinnen - 6. Freundin wird von uns eingeladen",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/fd825798-44df-4686-939e-13356fa093b9/99/image.jpg",
+              "caption": "Schnattertage"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Luxus Kuscheltage",
+          "description": "- 3 Übernachtungen - Anreise am Donnerstag (Do-So)\n- Unterkunft inklusive Krumers Verwöhnpension\n- Frische Früchte, eine süße Überraschung und Blumen am Zimmer\n- Ein Frühstück ans Bett inklusive 1 Glas Sekt\n- 1 x duftende \"Aromaöl Massage\" - wählen Sie selbst Ihren persönlichen Duft für Ihre Paar-Behandlung (ca. 50min)",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/596b30a5-b665-4cb1-a85e-ad7a1a8aff44/99/image.jpg",
+              "caption": "Luxus Kuscheltage"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Adventzauber 4\u003d3",
+          "description": "- 3 Übernachtungen inklusive Krumers Verwöhnpension \n- 1 Fackelwanderuung mit Glühweinstopp\n- 1 Kapellenwanderung im Leutaschtal\n- Kekse backen\n- 1 Vanille/Zimtmassage (ca. 25 min.)\n- Seefelder Adventkmarkt\n",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/a4a0e1f5-9234-41c4-800b-a9159adf1485/99/image.jpg",
+              "caption": "Advent"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Weihnachtstage",
+          "description": [
+            "Die besinnlichste Zeit des Jahres mit uns gemeinsam erleben, mit traditioneller Tiroler Familienweihnachtsfeier!\n-4 Übernachtungen inkl. Krumers Verwöhnpension\n-1 romantische Fackelwanderung um den Wildsee mit gemütlichem Glühweinstopp\n-1 wärmender Glühwein in unserem Café Platzhirsch\n-1 wohltuende Vanille-Zimtmassage (ca.25 min)\n-der Adventmarkt direkt vor der Haustüre\n-Familienweihnachtsfeier am 24.12.2016 mit Cocktailempfang, Adventgeschichten, Musik und Galamenü\n-Geschenke für alle Kinder",
+            "Die besinnlichste Zeit des Jahres mit uns gemeinsam erleben, mit traditioneller Tiroler Familienweihnachtsfeier!\n\n-4 Übernachtungen inkl. Krumers Verwöhnpension\n-1 romantische Fackelwanderung um den Wildsee mit gemütlichem Glühweinstopp\n-1 wärmender Glühwein in unserem Café Platzhirsch\n-1 wohltuende Vanille-Zimtmassage (ca.25 min)\n-Adventmarkt direkt vor der Haustüre\n-Familienweihnachtsfeier am 24.12.2016 mit Cocktailempfang, Adventgeschichten, Musik und Galamenü\n-Geschenke für alle Kinder"
+          ],
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/6bfa9a4e-3790-44c4-b38c-17f83d84f34e/99/image.jpg",
+              "caption": "Weihnachtstage"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Winterkuscheln",
+          "description": "Winterkuscheln im Krumers Post Hotel \u0026 SPA\n* Krumers Verwöhnpension\n* Champagner und Früchte am Zimmer\n* 1 Private Spa (ca. 55 Minuten)\n* 1 Schoko-Fondue mit frischen Früchten in der privaten Sauna\n* 1 geführte Winterwanderung",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Goldener Herbst - Wanderwochen",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Weihnachtswoche",
+          "description": "Das Weihnachtsfest und eine besinnliche Woche inkl. Weihnachtsprogamm für die gesamte Familie!\n\n- 7 Übernachtung mit unserer Krumers Verwöhnpension\n- 1 romantische Fackelwanderung rund um den Seefelder Wildsee\n- 1 wärmender Glühwein im Café Platzhirsch\n- 1 wohltuende Vanille-Zimtmassage (ca. 25min)\n- Weinverkostung\n- der Seefelder Adventmarkt direkt vor unserer Haustüre\n- Familienweihnachtsfeier mit Cocktailempfang, Adventgeschichten, Musik und Galamenü\nGeschenke für alle Kinder",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Rundum Schön das große Paket",
+          "description": "- 7 Übernachtungen mit Verwöhnpension\n- 1 Gesichtsbehandlung BASIC PLUS nach Susanne Kaufmann (ca. 80min)\n- 1 \"Starke Kombination\" Spa Maniküre/Pediküre (ca. 80 min)\n- vitalisierende oder entspannende Fußreflexzonenmassage (ca. 25min)\n- ein kleines Susanne Kaufmann Paket zum Mitnachhause nehmen",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/9b111a48-9b31-489a-9c25-c4c2afc9ecef/99/image.jpg",
+              "caption": "Rundum Schön"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Sommerfit mit \"Skiroller\"",
+          "description": "- 3 Übernachtungen inklusive Halbpension - Anreise am Donnerstag (Do-So) \n- eine Privatstunde mit Kurs in der Skating- oder klassischen Technik\n- Leihmaterial (Skiroller, Schuhe, Helm, Stöcke)\n- eine Tageskarte für die Skirollerbahn\n- eine wohltuende Sportmassage (ca.25min)",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Neujahr in Seefeld",
+          "description": "- 7 oder 10 Übernachtungen inkl. Krumers Verwöhnpension\n- 1 geführte Wanderung um den Wildsee\n- 1 Weinverkostung\n- große Silvestergala am 31.12.: Cocktail Champagnerempfang mit Flying Buffet, 7-gängiges Silvester-Gala-Dinner, Live-Musik und Tanz bis in den Morgen, um Mitternacht großes Silvester-Feuerwerk, kleines Mitternachtsbuffet zum Stärken\n- Langschläfer- und Katerfrühstück am 01.01.\n- Live Übertragung Neujahrskonzert der Wiener Philharmoniker auf Großbild Leinwand am 01.01.",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Reine Männersache",
+          "description": "- 3 Übernachtungen inklusive Verwöhnpension - Anreise am Donnerstag (Do-So) \n- 1 Alpenkräuter Körper-Peeling (ca. 25min)\n- \"Gesichtsbehandlung BASIC\" für Ihn - ganz individuelle, auf Ihren Hauttyp abgestimmte Gesichtsbehandlung (ca. 50min)\n- 1 kräftigende oder entspannende Fußreflexzonenmassage (ca. 25min)\n- ein kleines Susanne Kaufmann Paket zum Mitnachhause nehmen",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Ski \u0026 Spa",
+          "description": "- 7 Übernachtungen inkl. Krumers Verwöhnpension\n- 3 Tages Skipass (Happy Ski-Card) für über 45 Pistenkilometer\n- 1x Vanille-Zimt-Packung in der warmen Schwebeliege (ca. 25min)\n- 1x Fitnessmassage zur wohltuenden Lockerung und Entspannung (ca. 50min)\n- 1x immunstärkenden Honig-Ingweraufguss in der Sauna",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Powerpaket für Ihn",
+          "description": "- 7 Übernachtungen inklusive Verwöhnpension\n- eine Kopf-Schulter-Nacken-Massage (ca. 25min)\n- eine Fitness-Massage zur Lockerung der Muskulatur (ca. 50min)\n- eine private Aktivstunde mit Betreuung durch den Wellnesstrainer. Wählen Sie selbst: Poweryoga, Krafttraining, Rückentraining, Power Walking,... oder auch eine entspannende Meditation zur Kräftesammlung\n- einen energiespendenden, natürlichen Powerdrink vor der Aktivstunde\n",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Männer! Stammtisch",
+          "description": "- 3 Übernachtungen inklusive Krumers Verwöhnpension - Anreise am Donnerstag (Do-So) \n- einen Eintritt ins Casino Seefeld mit Spieljetons und einem Getränk an der Casinobar für alle Freunde\n- ein Abendessen am Stammtisch in unserem Weinrevier mit einer Runde Bier und ein Schnapsl nach dem Essen\n- eine geführte Wanderung mit unserem Aktivtrainer\n- ab 5 Männern gibt es einen geführten Eisaufguss in der Sauna mit Bier zum Abschlus\n- 6. Freud wird von uns eingeladet",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/c6f50c79-48e7-42be-a878-dda0ba74d6d9/99/image.jpg",
+              "caption": "Krumers Post"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "\"Babyboom\" - Wellnessurlaub für Schwangere",
+          "description": "- 3 Übernachtungen - Anreise am Donnerstag (Do-So)\n- eine entspannende Kopf-Schulter-Nacken-Massage (ca. 25min)\n- ein kühlender Beinwickel mit Wirkstoffen aus der Rosskastanie, Lavendel und Rosmarinöl (ca. 25min)\n- eine Lymphodrainage - wunderbar fließende Behandlung zur Tiefenentspannung (ca. 25min)\n- eine Nachtkerzenöl-Cremepackung in der warmen Schwebeliege zum Pflegen der Haut (auch bestens geeignet für sehr empfindliche Haut)",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Mutter \u0026 Tochter Wellness",
+          "description": "- 3 Übernachtungen inkl. Krumers Verwöhnpension, Anreise am DO (Do-So)\n- je eine Gesichtsbehandlung nach Wunsch Anti-Aging oder Basic (ca. 50min) für Mutter und Tochter\n- je eine Gänseblümchenpackung in der Schwebeliege für samtig weiche Haut oder einen kühlenden Beinwickel\n- eine geführte Wanderung oder Bergtour durch die wunderbare Naturkulisse\n- täglich geführtes Aktivprogramm mit Aquafit, Yoga, Pilates, Meditationen, Nordic Walking, Smovey uvm.\n- exklusives 6 gängiges Gala-Menü am Sonntag",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Langlauftage mit Kurs",
+          "description": "- 4 Übernachtungen mit Halbpension\n- 3 mal 120min Langlaufkurs für Anfänger bzw. Fortgeschrittene skating oder klassisch (Mo bis Mi)\n- 1 mal 60min Privatunterricht\n- 1 \"Tiroler Lebendigkeit\" Teilkörpermassage (je nach Wunsch für Schulter-Nacken, Rücken- oder Beinmuskulatur)\n- Loipengebühr für den gesamten Aufenthalt",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Langlaufwoche mit Kurs",
+          "description": "- 7 Übernachtungen mit Halbpension\n- 3 mal 120min Langlaufkurs für Anfänger bzw. Fortgeschrittene skating oder klassisch (Mo bis Mi, oder Mi bis Fr)\n- 1 mal 60min Privatunterricht\n- 1 \"Tiroler Lebendigkeit\" Teilkörpermassage (je nach Wunsch für Schulter-Nacken, Rücken- oder Beinmuskulatur)\n- Loipengebühr für die gesamte Woche",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Skiwoche mit Kurs",
+          "description": "- 7 Übernachtungen inkl. Krumers Verwöhnpension\n- 3 Tage Skikurs für Anfänger bzw. für Fortgeschrittene\n- 1 entspannende Teilmassage zur Lösung der Muskulatur (ca. 25min)",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Ostern",
+          "description": "- 4 Übernachtungen mit Krumers Verwöhnpension\n- optionales Fastenmenü am Karfreitag\n- Karsamstag mit großer österlicher Nachmittagsjause\n- Exklusives Ostergaladinner am Ostersonntag\n- kuschelige Ostersoftpak mit Frühlingsaroma in der warmen Liege\n- kleines Ostergeschenk für alle Gäste",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/acb492f9-e482-4a29-8ae6-dc647f1b8ffc/99/image.jpg",
+              "caption": "Luxus Kuscheltage"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "278.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "1157.00",
+          "maxPrice": "1157.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "372.00",
+          "maxPrice": "372.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "459.00",
+          "maxPrice": "459.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "755.00",
+          "maxPrice": "755.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "1283.00",
+          "maxPrice": "1283.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "952.00",
+          "maxPrice": "952.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "524.00",
+          "maxPrice": "524.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "1763.00",
+          "maxPrice": "1763.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "535.00",
+          "maxPrice": "535.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "983.00",
+          "maxPrice": "983.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "890.00",
+          "maxPrice": "890.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "415.00",
+          "maxPrice": "415.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "545.00",
+          "maxPrice": "545.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "511.00",
+          "maxPrice": "511.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "700.00",
+          "maxPrice": "700.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "956.00",
+          "maxPrice": "956.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "934.00",
+          "maxPrice": "934.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "543.00",
+          "maxPrice": "543.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Toilette und Bad/Dusche getrennt, Balkon",
+      "description": "Doppelzimmer Rosshütte - Superior (ca. 27-29m²) mit Bad, separatem WC, Balkon mit Blick auf die Rosshütte, Kabel TV, Radio, Telefon, kostenloses W-LAN, Safe, Minibar und Sitzecke.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer Rosshütte",
+          "description": "Doppelzimmer Rosshütte (ca. 27 – 29  m²)mit Bad, separatem WC, Balkon mit Blick auf die Rosshütte, Kabel TV, Radio, Telefon, kostenloses W-LAN, Safe, Minibar und  Sitzecke\n",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Short \u0026 Golf",
+          "description": "- 3 Übernachtungen inklusive Krumers Verwöhnpension, Anreise am Donnerstag (DO-SO)\n- 1 \"Golfermassage\" Teilkörpermassage für Arme und Rücken nach einem aktiven Tag am Green (ca. 25min)\n- Golf Alpin Card mit 3 Greenfees\nzB- 1x Greenfee für den Golfclub Wildmoos (ca. 10 Autominuten, 18 Loch Platz)\nund 1x Greenfee für den Golfclub Mieming (ca. 20 Autominuten, 18 Loch Platz)\nund 1x Greenfee für den Golfclub Seefeld (ca. 2 Gehminuten, 9 Loch Platz)",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/fc843c2a-2ab4-4932-8d36-0b4c5f2ded4e/99/image.jpg",
+              "caption": "Golf"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Einfach Schön - das kurze Wellnesspaket",
+          "description": "- 3 Übernachtungen inklusive Krumers Verwöhnpension, Anreise am Donnerstag (DO-SO)\n- 1 x Alpenkräuter Körper-Peeling - Frische ganz pur auf der eigenen Haut entdecken (25 min.)\n- 1 x „Gesichtsbehandlung BASIC\"  von Susanne Kaufmann - ganz individuelle, auf Ihren Hauttyp abgestimmte Gesichtsbehandlung (50 min)\n- 1 x vitalisierende oder entspannende Fußreflexzonenmassage (25 min)\n- ein kleines Susanne Kaufmann Paket zum Mitnachhause nehmen\n",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/224191db-e23a-4dee-982b-7fcbaaa15791/99/image.jpg",
+              "caption": "Einfach schön"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Golf \u0026 Spa",
+          "description": "- 7 Übernachtungen inklusive Krumers Verwöhnpension \n- Golf Alpin Card mit 3 Greenfees\n  zB 1 x Greenfee für Golfclub Wildmoos (10 Autominuten 18 Löcher), 2 x Greenfee  für Golfclub Seefeld (2 Gehminuten 9 Löcher) und 1 x Greenfee für Golfplatz Mieming (20 Autominuten 18 von 27 Löchern)\n- 1 Kinesio Taping mit Massage für den freien Schwung (50 min)\n  oder 1 Privatstunde mit einem Golf-Professional (55min)\n",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/0b48066e-0145-4c42-a0ac-2930c24a63ea/99/image.jpg",
+              "caption": "Golf"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Krumers Wunschpaket",
+          "description": [
+            "- 7 Übernachtungen inklusive Krumers Verwöhnpension \n- 1x Behandlungsgutschein über 200 Wohlfühl-Minuten, wählen Sie selbst aus unserem Spa-Menü oder lassen Sie sich von unserem Spateam ein ganz auf einiges Paket schnüren\n- 1x \"Private Spa\" inklusive Aromapeeling und Körperöl, 2 Gläser Sekt und frische Früchte in der privater Sauna (ca. 55 min)\n- 1 private Aktivstunde mit unserem Private Coach - wählen Sie selbst: Yoga, Gymnastik, Nordic-Walking, Pilates, Meditation, Kraft- oder Ausdauertraining",
+            "- 7 Übernachtungen inklusive Krumers Verwöhnpension \n- 1x Behandlungsgutschein über 200 Wohlfühl-Minuten, wählen Sie selbst aus unserem Spa-Menü oder lassen Sie sich von unserem Spateam ein ganz auf einiges Paket schnüren\n- 1x \"Private Spa\" inklusive Aromapeeling und Körperöl, 2 Gläser Sekt und frische Früchte in der privater Sauna (ca. 55 min)\n- 1 private Aktivstunde mit unserem Private Coach - wählen Sie selbst: Yoga, Gymnastik, Nordic-Walking, Pilates, Meditation, Kraft- oder Ausdauertraining",
+            "- 7 Übernachtungen inklusive Krumers Verwöhnpension \n- 1x Behandlungsgutschein über 200 Wohlfühl-Minuten, wählen Sie selbst aus unserem Spa-Menü oder lassen Sie sich von unserem Spateam ein ganz auf einiges Paket schnüren\n- 1x \"Private Spa\" inklusive Aromapeeling und Körperöl, 2 Gläser Sekt und frische Früchte in der privater Sauna (ca. 55 min)\n- 1 private Aktivstunde mit unserem Private Coach - wählen Sie selbst: Yoga, Gymnastik, Nordic-Walking, Pilates, Meditation, Kraft- oder Ausdauertraining"
+          ],
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/c0139708-d52c-46fc-b389-caca5bec7c85/99/image.jpg",
+              "caption": "Krumers Wunschpaket"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Zeit zu Zweit ",
+          "description": [
+            "- 2 Übernachtungen von Sonntag bis Freitag inklusive Krumers Verwöhnpension \n- 1 \"Private SPA\" inklusive Aromapeeling und Körperöl (ca. 55 min.)\n- 2 Gläser Sekt und Früchte im SPA\n- 1 romantisches Candle-light Dinner ",
+            "- 2 Übernachtungen von Sonntag bis Freitag inklusive Krumers Verwöhnpension \n- 1 \"Private SPA\" inklusive Aromapeeling und Körperöl (ca. 55 min.)\n- 2 Gläser Sekt und Früchte im SPA\n- 1 romantisches Candle-light Dinner ",
+            "- 2 Übernachtungen von Sonntag bis Freitag inklusive Krumers Verwöhnpension \n- 1 \"Private SPA\" inklusive Aromapeeling und Körperöl (ca. 55 min.)\n- 2 Gläser Sekt und Früchte im SPA\n- 1 romantisches Candle-light Dinner "
+          ],
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/538524aa-8d6b-4aea-8a10-fdd60ddd824b/99/image.jpg",
+              "caption": "Zeit zu Zweit"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Adventzauber",
+          "description": "Vorweihnachtliche Stimmung im verschneiten Seefeld...\n\nInklusive:\n- 3 Übernachtungen inklusive Krumers Verwöhnpension\n- 3+1 bei Anreise Sonntag schenken wir Ihnen eine Übernachtung gratis dazu!\n- 1 romantische Fackelwanderung um den Wildsee mit gemütlichem Glühweinstopp\n- 1 Winterwanderung zu unseren Kapellen\n- 1 wohltuende Vanille-Zimt Massage (ca.25min)\n- der Seefelder Adventmarkt direkt vor unserer Haustüre",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/e05aae0c-e694-44ef-b432-81b0560f2581/99/image.jpg",
+              "caption": "Advent"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Adventzauber 4\u003d3",
+          "description": "- 4 Übernachtungen (bei Anreise am Sonntag) inklusive Krumers Verwöhnpension \n- 1 Fackelwanderung mit Glühweinstopp\n- 1 Kapellenwanderung im Leutaschtal\n- Kekse backen\n- 1 Vanille/Zimtmassage (ca. 25 min.)\n- Seefelder Adventkmarkt",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/e7bef251-ecfe-4477-822f-e6d19fb3d54b/99/image.jpg",
+              "caption": "Advent"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Schnattertage",
+          "description": "- 3 Übernachtungen inklusive Verwöhnpension - Anreise am Donnerstag (Do-So) \n- ein Private Spa für Sie und Ihre Freundinnen mit privater Sauna und Körperpeeling und Aromaöl zur Selbstanwendung (ca. 50min)\n- einen Eintritt in das Casino Seefeld mit Spieljetons und zwei Gläsern Sekt für alle Freundinnen\n- einen Behandlungsgutschein im Wert von € 20,- pro Person gültig für alle Behandlungen und alle Massagen\n- bei 6 Freundinnen - 6. Freundin wird von uns eingeladen",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/b3c2ee50-bbf2-4fdb-b15c-712f390c4f9d/99/image.jpg",
+              "caption": "Schnattertage"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Luxus Kuscheltage",
+          "description": "- 3 Übernachtungen - Anreise am Donnerstag (Do-So)\n- Unterkunft inklusive Krumers Verwöhnpension\n- Frische Früchte, eine süße Überraschung und Blumen am Zimmer\n- Ein Frühstück im Bett inklusive 1 Glas Sekt\n- 1 x duftende \"Aromaöl Massage\" - wählen Sie selbst Ihren persönlichen Duft für Ihre Paar-Behandlung (ca. 50min)",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/61624556-167e-44af-a487-12ba3a83927e/99/image.jpg",
+              "caption": "Luxus Kuscheltage"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Weihnachtstage",
+          "description": "Die besinnlichste Zeit des Jahres mit uns gemeinsam erleben, mit traditioneller Tiroler Familienweihnachtsfeier!\n\n-4 Übernachtungen inkl. Krumers Verwöhnpension\n-1 romantische Fackelwanderung um den Wildsee mit gemütlichem Glühweinstopp\n-1 wärmender Glühwein in unserem Café Platzhirsch\n-1 wohltuende Vanille-Zimtmassage (ca.25 min)\n\n-der Adventmarkt direkt vor der Haustüre\n-Familienweihnachtsfeier am 24.12.2015 mit Cocktailempfang, Adventgeschichten, Musik und Galamenü\n-Geschenke für alle Kinder",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/8e1a7570-9d91-4a84-a995-ca2aeaffb024/99/image.jpg",
+              "caption": "Weihnachten"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Weihnachtswoche",
+          "description": "Das Weihnachtsfest und eine besinnliche Woche inkl. Weihnachtsprogamm für die gesamte Familie!\n\n- 7 Übernachtung mit unserer Krumers Verwöhnpension\n- 1 romantische Fackelwanderung rund um den Seefelder Wildsee\n- 1 wärmender Glühwein im Café Platzhirsch\n- 1 wohltuende Vanille-Zimtmassage (ca. 25min)\n- Weinverkostung\n- der Seefelder Adventmarkt direkt vor unserer Haustüre\n- Familienweihnachtsfeier mit Cocktailempfang, Adventgeschichten, Musik und Galamenü\nGeschenke für alle Kinder",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Rundum Schön das große Paket",
+          "description": "- 7 Übernachtungen mit Verwöhnpension\n- 1 Gesichtsbehandlung BASIC PLUS nach Susanne Kaufmann (ca. 80min)\n- 1 \"Starke Kombination\" Spa Maniküre/Pediküre (ca. 80 min)\n- vitalisierende oder entspannende Fußreflexzonenmassage (ca. 25min)\n- ein kleines Susanne Kaufmann Paket zum Mitnachhause nehmen",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/093e1a41-3450-41c4-a34a-e4ad0588f628/99/image.jpg",
+              "caption": "Rundum schön"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Sommerfit mit \"Skiroller\"",
+          "description": "- 3 Übernachtungen inklusive Halbpension - Anreise am Donnerstag (Do-So) \n- eine Privatstunde mit Kurs in der Skating- oder klassischen Technik\n- Leihmaterial (Skiroller, Schuhe, Helm, Stöcke)\n- eine Tageskarte für die Skirollerbahn\n- eine wohltuende Sportmassage (ca.25min)",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Reine Männersache",
+          "description": "- 3 Übernachtungen inklusive Verwöhnpension - Anreise am Donnerstag (Do-So) \n- 1 Alpenkräuter Körper-Peeling (ca. 25min)\n- \"Gesichtsbehandlung BASIC\" für Ihn - ganz individuelle, auf Ihren Hauttyp abgestimmte Gesichtsbehandlung (ca. 50min)\n- 1 kräftigende oder entspannende Fußreflexzonenmassage (ca. 25min)\n- ein kleines Susanne Kaufmann Paket zum Mitnachhause nehmen",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Powerpaket für Ihn",
+          "description": "- 7 Übernachtungen inklusive Verwöhnpension\n- eine Kopf-Schulter-Nacken-Massage (ca. 25min)\n- eine Fitness-Massage zur Lockerung der Muskulatur (ca. 50min)\n- eine private Aktivstunde mit Betreuung durch den Wellnesstrainer. Wählen Sie selbst: Poweryoga, Krafttraining, Rückentraining, Power Walking,... oder auch eine entspannende Meditation zur Kräftesammlung\n- einen energiespendenden, natürlichen Powerdrink vor der Aktivstunde\n",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Neujahr in Seefeld",
+          "description": "- 7 oder 10 Übernachtungen inkl. Krumers Verwöhnpension\n- 1 geführte Wanderung um den Wildsee\n- 1 Weinverkostung\n- große Silvestergala am 31.12.: Cocktail Champagnerempfang mit Flying Buffet, 7-gängiges Silvester-Gala-Dinner, Live-Musik und Tanz bis in den Morgen, um Mitternacht großes Silvester-Feuerwerk, kleines Mitternachtsbuffet zum Stärken\n- Langschläfer- und Katerfrühstück am 01.01.\n- Live Übertragung Neujahrskonzert der Wiener Philharmoniker auf Großbild Leinwand am 01.01.",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Männer! Stammtisch",
+          "description": "- 3 Übernachtungen inklusive Krumers Verwöhnpension - Anreise am Donnerstag (Do-So) \n- einen Eintritt ins Casino Seefeld mit Spieljetons und einem Getränk an der Casinobar für alle Freunde\n- ein Abendessen am Stammtisch in unserem Weinrevier mit einer Runde Bier und ein Schnapsl nach dem Essen\n- eine geführte Wanderung mit unserem Aktivtrainer\n- ab 5 Männern gibt es einen geführten Eisaufguss in der Sauna mit Bier zum Abschlus\n- 6. Freud wird von uns eingeladet",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/e47f4063-937c-4cf4-9436-ad2d37bb7559/99/image.jpg",
+              "caption": "Krumers Post"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Langlauftage mit Kurs",
+          "description": "- 4 Übernachtungen mit Halbpension\n- 3 mal 120min Langlaufkurs für Anfänger bzw. Fortgeschrittene skating oder klassisch (Mo bis Mi)\n- 1 mal 60min Privatunterricht\n- 1 \"Tiroler Lebendigkeit\" Teilkörpermassage (je nach Wunsch für Schulter-Nacken, Rücken- oder Beinmuskulatur)\n- Loipengebühr für den gesamten Aufenthalt",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "\"Babyboom\" - Wellnessurlaub für Schwangere",
+          "description": "- 3 Übernachtungen - Anreise amDonnerstag (Do-So)\n- eine entspannende Kopf-Schulter-Nacken-Massage (ca. 25min)\n- ein kühlender Beinwickel mit Wirkstoffen aus der Rosskastanie, Lavendel und Rosmarinöl (ca. 25min)\n- eine Lymphodrainage - wunderbar fließende Behandlung zur Tiefenentspannung (ca. 25min)\n- eine Nachtkerzenöl-Cremepackung in der warmen Schwebeliege zum Pflegen der Haut (auch bestens geeignet für sehr empfindliche Haut)",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Mutter \u0026 Tochter Wellness",
+          "description": "- 3 Übernachtungen inkl. Krumers Verwöhnpension, Anreise am DO (Do-So)\n- je eine Gesichtsbehandlung nach Wunsch Anti-Aging oder Basic (ca. 50min) für Mutter und Tochter\n- je eine Gänseblümchenpackung in der Schwebeliege für samtig weiche Haut oder einen kühlenden Beinwickel\n- eine geführte Wanderung oder Bergtour durch die wunderbare Naturkulisse\n- täglich geführtes Aktivprogramm mit Aquafit, Yoga, Pilates, Meditationen, Nordic Walking, Smovey uvm.\n- exklusives 6 gängiges Gala-Menü am Sonntag\n",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Ski \u0026 Spa",
+          "description": "- 7 Übernachtungen inkl. Krumers Verwöhnpension\n- 3 Tages Skipass (Happy Ski-Card) für über 45 Pistenkilometer\n- 1x Vanille-Zimt-Packung in der warmen Schwebeliege (ca. 25min)\n- 1x Fitnessmassage zur wohltuenden Lockerung und Entspannung (ca. 50min)\n- 1x immunstärkenden Honig-Ingweraufguss in der Sauna",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Langlaufwoche mit Kurs",
+          "description": "- 7 Übernachtungen mit Halbpension\n- 3 mal 120min Langlaufkurs für Anfänger bzw. Fortgeschrittene skating oder klassisch (Mo bis Mi, oder Mi bis Fr)\n- 1 mal 60min Privatunterricht\n- 1 \"Tiroler Lebendigkeit\" Teilkörpermassage (je nach Wunsch für Schulter-Nacken, Rücken- oder Beinmuskulatur)\n- Loipengebühr für die gesamte Woche",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Skiwoche mit Kurs",
+          "description": "- 7 Übernachtungen inkl. Krumers Verwöhnpension\n- 3 Tage Skikurs für Anfänger bzw. für Fortgeschrittene\n- 1 entspannende Teilmassage zur Lösung der Muskulatur (ca. 25min)",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Ostern",
+          "description": "- 4 Übernachtungen mit Krumers Verwöhnpension\n- optionales Fastenmenü am Karfreitag\n- Karsamstag mit großer österlicher Nachmittagsjause\n- Exklusives Ostergaladinner am Ostersonntag\n- kuschelige Ostersoftpak mit Frühlingsaroma in der warmen Liege\n- kleines Ostergeschenk für alle Gäste",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/43ca5d2e-d952-4582-aada-83e4be396de1/99/image.jpg",
+              "caption": "Luxus Kuscheltage"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "254.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "605.00",
+          "maxPrice": "605.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "506.00",
+          "maxPrice": "506.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "1075.00",
+          "maxPrice": "1075.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "252.00",
+          "maxPrice": "252.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "441.00",
+          "maxPrice": "441.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "392.00",
+          "maxPrice": "392.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "468.00",
+          "maxPrice": "468.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "730.00",
+          "maxPrice": "730.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "1239.00",
+          "maxPrice": "1239.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "898.00",
+          "maxPrice": "898.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "485.00",
+          "maxPrice": "485.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "496.00",
+          "maxPrice": "496.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "829.00",
+          "maxPrice": "829.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "1667.00",
+          "maxPrice": "1667.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "376.00",
+          "maxPrice": "376.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "677.00",
+          "maxPrice": "677.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "506.00",
+          "maxPrice": "506.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "472.00",
+          "maxPrice": "472.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "950.00",
+          "maxPrice": "950.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "923.00",
+          "maxPrice": "923.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "901.00",
+          "maxPrice": "901.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "522.00",
+          "maxPrice": "522.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche oder Bad, WC, 1 Schlafraum",
+      "description": "S\u0027Kloane - Doppelzimmer Standard (ca. 22-24m²) mit Bad, WC, Kabel TV, Radio, kostenloses W-LAN, Telefon, Safe, Minibar.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "S\u0027Kloane",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Short \u0026 Golf",
+          "description": "- 3 Übernachtungen inklusive Krumers Verwöhnpension, Anreise am Donnerstag (DO-SO)\n- 1 \"Golfermassage\" Teilkörpermassage für Arme und Rücken nach einem aktiven Tag am Green (ca. 25min)\n- Golf Alpin Card mit 3 Greenfees\nzB- 1x Greenfee für den Golfclub Wildmoos (ca. 10 Autominuten, 18 Loch Platz)\nund 1x Greenfee für den Golfclub Mieming (ca. 20 Autominuten, 18 Loch Platz)\nund 1x Greenfee für den Golfclub Seefeld (ca. 2 Gehminuten, 9 Loch Platz)",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/a5349dba-128e-458d-8fb3-d7567d8aaeab/99/image.jpg",
+              "caption": "Golf"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Einfach Schön - das kurze Wellnesspaket ",
+          "description": "- 3 Übernachtungen inklusive Krumers Verwöhnpension, Anreise am Donnerstag (Do-SO)\n- 1 x Alpenkräuter Körper-Peeling - Frische ganz pur auf der eigenen Haut entdecken (25 min.)\n- 1 x „Gesichtsbehandlung BASIC\"  von Susanne Kaufmann - ganz individuelle, auf Ihren Hauttyp abgestimmte Gesichtsbehandlung (50 min)\n- 1 x vitalisierende oder entspannende Fußreflexzonenmassage (25 min)\n- ein kleines Susanne Kaufmann Paket zum Mitnachhause nehmen",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/9a84e9e1-4558-4014-8c18-4356ec703404/99/image.jpg",
+              "caption": "Einfach schön"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Golf \u0026 Spa",
+          "description": "•7 Übernachtungen inklusive Krumers Verwöhnpension \n•Golf Alpin Card mit 3 Greenfees\nzB 1 x Greenfee für Golfclub Wildmoos (10 Autominuten 18 Löcher), 2 x Greenfee für Golfclub Seefeld (2 Gehminuten 9 Löcher) und 1 x Greenfee für Golfplatz Mieming (20 Autominuten 18 von 27 Löchern)\n•1 Kinesio Taping mit Massage für den freien Schwung (50 min)\noder 1 Privatstunde mit einem Golf-Professional (55min)",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/e1ad7f74-6ed8-4776-a9c7-857b0a4afb5b/99/image.jpg",
+              "caption": "Golf"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Krumers Wunschpaket",
+          "description": [
+            "- 7 Übernachtungen inklusive Krumers Verwöhnpension \n- 1x Behandlungsgutschein über 200 Wohlfühl-Minuten, wählen Sie selbst aus unserem Spa-Menü oder lassen Sie sich von unserem Spateam ein ganz auf einiges Paket schnüren\n- 1x \"Private Spa\" inklusive Aromapeeling und Körperöl, 2 Gläser Sekt und frische Früchte in der privater Sauna (ca. 55 min)\n- 1 private Aktivstunde mit unserem Private Coach - wählen Sie selbst: Yoga, Gymnastik, Nordic-Walking, Pilates, Meditation, Kraft- oder Ausdauertraining",
+            "- 7 Übernachtungen inklusive Krumers Verwöhnpension \n- 1x Behandlungsgutschein über 200 Wohlfühl-Minuten, wählen Sie selbst aus unserem Spa-Menü oder lassen Sie sich von unserem Spateam ein ganz auf einiges Paket schnüren\n- 1x \"Private Spa\" inklusive Aromapeeling und Körperöl, 2 Gläser Sekt und frische Früchte in der privater Sauna (ca. 55 min)\n- 1 private Aktivstunde mit unserem Private Coach - wählen Sie selbst: Yoga, Gymnastik, Nordic-Walking, Pilates, Meditation, Kraft- oder Ausdauertraining",
+            "- 7 Übernachtungen inklusive Krumers Verwöhnpension \n- 1x Behandlungsgutschein über 200 Wohlfühl-Minuten, wählen Sie selbst aus unserem Spa-Menü oder lassen Sie sich von unserem Spateam ein ganz auf einiges Paket schnüren\n- 1x \"Private Spa\" inklusive Aromapeeling und Körperöl, 2 Gläser Sekt und frische Früchte in der privater Sauna (ca. 55 min)\n- 1 private Aktivstunde mit unserem Private Coach - wählen Sie selbst: Yoga, Gymnastik, Nordic-Walking, Pilates, Meditation, Kraft- oder Ausdauertraining"
+          ],
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/8c948759-31b1-422e-b52d-3cdeae10ed47/99/image.jpg",
+              "caption": "Krumers Wunschpaket"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Zeit zu Zweit",
+          "description": [
+            "- 2 Übernachtungen von Sonntag bis Freitag inklusive Krumers Verwöhnpension \n- 1 \"Private SPA\" inklusive Aromapeeling und Körperöl (ca. 55 min.)\n- 2 Gläser Sekt und Früchte im SPA\n- 1 romantisches Candle-light Dinner ",
+            "- 2 Übernachtungen von Sonntag bis Freitag inklusive Krumers Verwöhnpension \n- 1 \"Private SPA\" inklusive Aromapeeling und Körperöl (ca. 55 min.)\n- 2 Gläser Sekt und Früchte im SPA\n- 1 romantisches Candle-light Dinner ",
+            "- 2 Übernachtungen von Sonntag bis Freitag inklusive Krumers Verwöhnpension \n- 1 \"Private SPA\" inklusive Aromapeeling und Körperöl (ca. 55 min.)\n- 2 Gläser Sekt und Früchte im SPA\n- 1 romantisches Candle-light Dinner "
+          ],
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/9e77f532-b24b-4c6b-b3ab-c269aa9abc2c/99/image.jpg",
+              "caption": "Zeit zu Zweit"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Adventzauber",
+          "description": "Vorweihnachtliche Stimmung im verschneiten Seefeld...\n\nInklusive:\n- 3 Übernachtungen inklusive Krumers Verwöhnpension\n- 3+1 bei Anreise Sonntag schenken wir Ihnen eine Übernachtung gratis dazu!\n- 1 romantische Fackelwanderung um den Wildsee mit gemütlichem Glühweinstopp\n- 1 Winterwanderung zu unseren Kapellen\n- 1 wohltuende Vanille-Zimt Massage (ca.25min)\n- der Seefelder Adventmarkt direkt vor unserer Haustüre",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/45a9206b-f58f-452d-8389-3bf6531705c6/99/image.jpg",
+              "caption": "Advent"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Schnattertage",
+          "description": "- 3 Übernachtungen inklusive Verwöhnpension - Anreise am Donnerstag (Do-So) \n- ein Private Spa für Sie und Ihre Freundinnen mit privater Sauna und Körperpeeling und Aromaöl zur Selbstanwendung (ca. 50min)\n- einen Eintritt in das Casino Seefeld mit Spieljetons und zwei Gläsern Sekt für alle Freundinnen\n- einen Behandlungsgutschein im Wert von € 20,- pro Person gültig für alle Behandlungen und alle Massagen\n- bei 6 Freundinnen - 6. Freundin wird von uns eingeladen",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/29d5fb02-ce8b-440b-bf4d-38e268a52ddc/99/image.jpg",
+              "caption": "Schnattertage"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Luxus Kuscheltage",
+          "description": "- 3 Übernachtungen - Anreise am Donnerstag (Do-So)\n- Unterkunft inklusive Krumers Verwöhnpension\n- Frische Früchte, aeine süße Überraschung und Blumen am Zimmer\n- Ein Frühstück im Bett inklusive 1 Glas Sekt\n- 1 x duftende \"Aromaöl Massage\" - wählen Sie selbst Ihren persönlichen Duft für Ihre Paar-Behandlung (ca. 50min)",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/fd3f6db5-9cc7-45d4-8eda-12657ffe836e/99/image.jpg",
+              "caption": "Luxus Kuscheltage"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Adventzauber 4\u003d3",
+          "description": "- 3 oder 4 Übernachtungen (bei Anreise am Sonntag) inklusive Krumers Verwöhnpension\n- 1 Fackelwanderuung mit Glühweinstopp\n- 1 Kapellenwanderung im Leutaschtal\n- Kekse backen\n- 1 Vanille/Zimtmassage (ca. 25 min.)\n- Seefelder Adventkmarkt",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/31dbf8dc-a23c-4e92-bf12-ee4006e79d58/99/image.jpg",
+              "caption": "Advent"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Weihnachtstage",
+          "description": "Die besinnlichste Zeit des Jahres mit uns gemeinsam erleben, mit traditioneller Tiroler Familienweihnachtsfeier!\n\n-4 Übernachtungen inkl. Krumers Verwöhnpension\n-1 romantische Fackelwanderung um den Wildsee mit gemütlichem Glühweinstopp\n-1 wärmender Glühwein in unserem Café Platzhirsch\n-1 wohltuende Vanille-Zimtmassage (ca.25 min)\n\n-der Adventmarkt direkt vor der Haustüre\n-Familienweihnachtsfeier am 24.12.2015 mit Cocktailempfang, Adventgeschichten, Musik und Galamenü\n-Geschenke für alle Kinder",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/6c128192-0fea-40cb-9015-2a119b3480db/99/image.jpg",
+              "caption": "Weihnachten"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Weihnachtswoche",
+          "description": "Das Weihnachtsfest und eine besinnliche Woche inkl. Weihnachtsprogamm für die gesamte Familie!\n\n- 7 Übernachtung mit unserer Krumers Verwöhnpension\n- 1 romantische Fackelwanderung rund um den Seefelder Wildsee\n- 1 wärmender Glühwein im Café Platzhirsch\n- 1 wohltuende Vanille-Zimtmassage (ca. 25min)\n- Weinverkostung\n- der Seefelder Adventmarkt direkt vor unserer Haustüre\n- Familienweihnachtsfeier mit Cocktailempfang, Adventgeschichten, Musik und Galamenü\nGeschenke für alle Kinder",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Rundum Schön das große Paket",
+          "description": "- 7 Übernachtungen mit Verwöhnpension\n- 1 Gesichtsbehandlung BASIC PLUS nach Susanne Kaufmann (ca. 80min)\n- 1 \"Starke Kombination\" Spa Maniküre/Pediküre (ca. 80 min)\n- vitalisierende oder entspannende Fußreflexzonenmassage (ca. 25min)\n- ein kleines Susanne Kaufmann Paket zum Mitnachhause nehmen",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/24487826-99a5-4d75-8eaf-22264eb8afca/99/image.jpg",
+              "caption": "Rundum Schön"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Sommerfit mit \"Skiroller\"",
+          "description": "- 3 Übernachtungen inklusive Halbpension - Anreise am Donnerstag (Do-So) \n- eine Privatstunde mit Kurs in der Skating- oder klassischen Technik\n- Leihmaterial (Skiroller, Schuhe, Helm, Stöcke)\n- eine Tageskarte für die Skirollerbahn\n- eine wohltuende Sportmassage (ca.25min)",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Reine Männersache",
+          "description": "- 3 Übernachtungen inklusive Verwöhnpension - Anreise am Donnerstag (Do-So) \n- 1 Alpenkräuter Körper-Peeling (ca. 25min)\n- \"Gesichtsbehandlung BASIC\" für Ihn - ganz individuelle, auf Ihren Hauttyp abgestimmte Gesichtsbehandlung (ca. 50min)\n- 1 kräftigende oder entspannende Fußreflexzonenmassage (ca. 25min)\n- ein kleines Susanne Kaufmann Paket zum Mitnachhause nehmen",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Powerpaket für Ihn",
+          "description": "- 7 Übernachtungen inklusive Verwöhnpension\n- eine Kopf-Schulter-Nacken-Massage (ca. 25min)\n- eine Fitness-Massage zur Lockerung der Muskulatur (ca. 50min)\n- eine private Aktivstunde mit Betreuung durch den Wellnesstrainer. Wählen Sie selbst: Poweryoga, Krafttraining, Rückentraining, Power Walking,... oder auch eine entspannende Meditation zur Kräftesammlung\n- einen energiespendenden, natürlichen Powerdrink vor der Aktivstunde\n",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Neujahr in Seefeld",
+          "description": "- 7 oder 10 Übernachtungen inkl. Krumers Verwöhnpension\n- 1 geführte Wanderung um den Wildsee\n- 1 Weinverkostung\n- große Silvestergala am 31.12.: Cocktail Champagnerempfang mit Flying Buffet, 7-gängiges Silvester-Gala-Dinner, Live-Musik und Tanz bis in den Morgen, um Mitternacht großes Silvester-Feuerwerk, kleines Mitternachtsbuffet zum Stärken\n- Langschläfer- und Katerfrühstück am 01.01.\n- Live Übertragung Neujahrskonzert der Wiener Philharmoniker auf Großbild Leinwand am 01.01.",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Männer! Stammtisch",
+          "description": "- 3 Übernachtungen inklusive Krumers Verwöhnpension - Anreise am Donnerstag (Do-So) \n- einen Eintritt ins Casino Seefeld mit Spieljetons und einem Getränk an der Casinobar für alle Freunde\n- ein Abendessen am Stammtisch in unserem Weinrevier mit einer Runde Bier und ein Schnapsl nach dem Essen\n- eine geführte Wanderung mit unserem Aktivtrainer\n- ab 5 Männern gibt es einen geführten Eisaufguss in der Sauna mit Bier zum Abschlus\n- 6. Freud wird von uns eingeladet",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/ed342b07-9208-449b-b681-71657b01485a/99/image.jpg",
+              "caption": "Krumers Post"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Langlauftage mit Kurs",
+          "description": "- 4 Übernachtungen mit Halbpension\n- 3 mal 120min Langlaufkurs für Anfänger bzw. Fortgeschrittene skating oder klassisch (Mo bis Mi)\n- 1 mal 60min Privatunterricht\n- 1 \"Tiroler Lebendigkeit\" Teilkörpermassage (je nach Wunsch für Schulter-Nacken, Rücken- oder Beinmuskulatur)\n- Loipengebühr für den gesamten Aufenthalt",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Ski \u0026 Spa",
+          "description": "- 7 Übernachtungen inkl. Krumers Verwöhnpension\n- 3 Tages Skipass (Happy Ski-Card) für über 45 Pistenkilometer\n- 1x Vanille-Zimt-Packung in der warmen Schwebeliege (ca. 25min)\n- 1x Fitnessmassage zur wohltuenden Lockerung und Entspannung (ca. 50min)\n- 1x immunstärkenden Honig-Ingweraufguss in der Sauna",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "\"Babyboom\" - Wellnessurlaub für Schwangere",
+          "description": "- 3 Übernachtungen - Anreise am Donnerstag (Do-So)\n- eine entspannende Kopf-Schulter-Nacken-Massage (ca. 25min)\n- ein kühlender Beinwickel mit Wirkstoffen aus der Rosskastanie, Lavendel und Rosmarinöl (ca. 25min)\n- eine Lymphodrainage - wunderbar fließende Behandlung zur Tiefenentspannung (ca. 25min)\n- eine Nachtkerzenöl-Cremepackung in der warmen Schwebeliege zum Pflegen der Haut (auch bestens geeignet für sehr empfindliche Haut)",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Mutter \u0026 Tochter Wellness",
+          "description": "- 3 Übernachtungen inkl. Krumers Verwöhnpension,(DO-SO)\n- je eine Gesichtsbehandlung nach Wunsch Anti-Aging oder Basic (ca. 50min) für Mutter und Tochter\n- je eine Gänseblümchenpackung in der Schwebeliege für samtig weiche Haut oder einen kühlenden Beinwickel\n- eine geführte Wanderung oder Bergtour durch die wunderbare Naturkulisse\n- täglich geführtes Aktivprogramm mit Aquafit, Yoga, Pilates, Meditationen, Nordic Walking, Smovey uvm.\n- exklusives 6 gängiges Gala-Menü am Sonntag",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Langlaufwoche mit Kurs",
+          "description": "- 7 Übernachtungen mit Halbpension\n- 3 mal 120min Langlaufkurs für Anfänger bzw. Fortgeschrittene skating oder klassisch (Mo bis Mi, oder Mi bis Fr)\n- 1 mal 60min Privatunterricht\n- 1 \"Tiroler Lebendigkeit\" Teilkörpermassage (je nach Wunsch für Schulter-Nacken, Rücken- oder Beinmuskulatur)\n- Loipengebühr für die gesamte Woche",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Skiwoche mit Kurs",
+          "description": "- 7 Übernachtungen inkl. Krumers Verwöhnpension\n- 3 Tage Skikurs für Anfänger bzw. für Fortgeschrittene\n- 1 entspannende Teilmassage zur Lösung der Muskulatur (ca. 25min)",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Ostern",
+          "description": "- 4 Übernachtungen mit Krumers Verwöhnpension\n- optionales Fastenmenü am Karfreitag\n- Karsamstag mit großer österlicher Nachmittagsjause\n- Exklusives Ostergaladinner am Ostersonntag\n- kuschelige Ostersoftpak mit Frühlingsaroma in der warmen Liege\n- kleines Ostergeschenk für alle Gäste",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/0d30af7f-fac8-4d7a-86bc-0e7dd9e753f5/99/image.jpg",
+              "caption": "Luxus Kuscheltage"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "239.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "551.00",
+          "maxPrice": "551.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "452.00",
+          "maxPrice": "452.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "961.00",
+          "maxPrice": "961.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "216.00",
+          "maxPrice": "216.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "375.00",
+          "maxPrice": "375.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "338.00",
+          "maxPrice": "338.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "414.00",
+          "maxPrice": "414.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "641.00",
+          "maxPrice": "641.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "1086.00",
+          "maxPrice": "1086.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "784.00",
+          "maxPrice": "784.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "431.00",
+          "maxPrice": "431.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "442.00",
+          "maxPrice": "442.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "715.00",
+          "maxPrice": "715.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "1510.00",
+          "maxPrice": "1510.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "322.00",
+          "maxPrice": "322.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "594.00",
+          "maxPrice": "594.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "817.00",
+          "maxPrice": "817.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "452.00",
+          "maxPrice": "452.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "418.00",
+          "maxPrice": "418.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "790.00",
+          "maxPrice": "790.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "768.00",
+          "maxPrice": "768.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "443.00",
+          "maxPrice": "443.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche oder Bad, WC, Balkon",
+      "description": "Doppelzimmer Sonnenjoch - Superior S (ca. 28-33m²) Richtung Süden mit Bad, WC, Balkon, Kabel TV, Radio, kostenloses W-LAN, Telefon, Safe, Minibar und Sitzecke.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer Sonnjoch",
+          "description": "Doppelzimmer Sonnenjoch (ca. 28 – 33 m²) Richtung  Süden mit Bad, WC, Balkon, Kabel TV, Radio, kostenloses W-LAN, Telefon, Safe, Minibar und  Sitzecke\n",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Weihnachtswoche",
+          "description": "Das Weihnachtsfest und eine besinnliche Woche inkl. Weihnachtsprogamm für die gesamte Familie!\n\n- 7 Übernachtung mit unserer Krumers Verwöhnpension\n- 1 romantische Fackelwanderung rund um den Seefelder Wildsee\n- 1 wärmender Glühwein im Café Platzhirsch\n- 1 wohltuende Vanille-Zimtmassage (ca. 25min)\n- Weinverkostung\n- der Seefelder Adventmarkt direkt vor unserer Haustüre\n- Familienweihnachtsfeier mit Cocktailempfang, Adventgeschichten, Musik und Galamenü\nGeschenke für alle Kinder",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Weihnachtstage",
+          "description": "Die besinnlichste Zeit des Jahres mit uns gemeinsam erleben, mit traditioneller Tiroler Familienweihnachtsfeier!\n\n-4 Übernachtungen inkl. Krumers Verwöhnpension\n-1 romantische Fackelwanderung um den Wildsee mit gemütlichem Glühweinstopp\n-1 wärmender Glühwein in unserem Café Platzhirsch\n-1 wohltuende Vanille-Zimtmassage (ca.25 min)\n\n-der Adventmarkt direkt vor der Haustüre\n-Familienweihnachtsfeier am 24.12.2015 mit Cocktailempfang, Adventgeschichten, Musik und Galamenü\n-Geschenke für alle Kinder",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Einfach Schön - das kurze Wellnesspaket",
+          "description": "- 3 Übernachtungen inklusive Krumers Verwöhnpension, Anreise am Donnerstag (DO-SO)\n- 1 x Alpenkräuter Körper-Peeling - Frische ganz pur auf der eigenen Haut entdecken (25 min.)\n- 1 x „Gesichtsbehandlung BASIC\"  von Susanne Kaufmann - ganz individuelle, auf Ihren Hauttyp abgestimmte Gesichtsbehandlung (50 min)\n- 1 x vitalisierende oder entspannende Fußreflexzonenmassage (25 min)\n- ein kleines Susanne Kaufmann Paket zum Mitnachhause nehmen",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/74aa0cb3-dbeb-4a71-9b2a-dcab0367014b/99/image.jpg",
+              "caption": "Einfach Schön"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Schnattertage",
+          "description": "- 3 Übernachtungen inklusive Verwöhnpension - Anreise am Donnerstag (Do-So) \n- ein Private Spa für Sie und Ihre Freundinnen mit privater Sauna und Körperpeeling und Aromaöl zur Selbstanwendung (ca. 50min)\n- einen Eintritt in das Casino Seefeld mit Spieljetons und zwei Gläsern Sekt für alle Freundinnen\n- einen Behandlungsgutschein im Wert von € 20,- pro Person gültig für alle Behandlungen und alle Massagen\n- bei 6 Freundinnen - 6. Freundin wird von uns eingeladen",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/78e53101-ccf9-4c30-8b17-243c7a4f00e0/99/image.jpg",
+              "caption": "Schnattertage"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Luxus Kuscheltage",
+          "description": "- 3 Übernachtungen - Anreise am Donnerstag (Do-So)\n- Unterkunft inklusive Krumers Verwöhnpension\n- Frische Früchte, aeine süße Überraschung und Blumen am Zimmer\n- Ein Frühstück im Bett inklusive 1 Glas Sekt\n- 1 x duftende \"Aromaöl Massage\" - wählen Sie selbst Ihren persönlichen Duft für Ihre Paar-Behandlung (ca. 50min)",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/12ac82a4-faf7-4891-a901-99cd51d28eba/99/image.jpg",
+              "caption": "Luxus Kuscheltage"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Zeit zu Zweit ",
+          "description": [
+            "- 2 Übernachtungen von Sonntag bis Freitag inklusive Krumers Verwöhnpension \n- 1 \"Private SPA\" inklusive Aromapeeling und Körperöl (ca. 55 min.)\n- 2 Gläser Sekt und Früchte im SPA\n- 1 romantisches Candle-light Dinner ",
+            "- 2 Übernachtungen von Sonntag bis Freitag inklusive Krumers Verwöhnpension \n- 1 \"Private SPA\" inklusive Aromapeeling und Körperöl (ca. 55 min.)\n- 2 Gläser Sekt und Früchte im SPA\n- 1 romantisches Candle-light Dinner ",
+            "- 2 Übernachtungen von Sonntag bis Freitag inklusive Krumers Verwöhnpension \n- 1 \"Private SPA\" inklusive Aromapeeling und Körperöl (ca. 55 min.)\n- 2 Gläser Sekt und Früchte im SPA\n- 1 romantisches Candle-light Dinner "
+          ],
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/68e83519-8a6b-4992-89a6-688f08885998/99/image.jpg",
+              "caption": "Zeit zu Zweit"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Krumers Wunschpaket",
+          "description": [
+            "- 7 Übernachtungen inklusive Krumers Verwöhnpension \n- 1x Behandlungsgutschein über 200 Wohlfühl-Minuten, wählen Sie selbst aus unserem Spa-Menü oder lassen Sie sich von unserem Spateam ein ganz auf einiges Paket schnüren\n- 1x \"Private Spa\" inklusive Aromapeeling und Körperöl, 2 Gläser Sekt und frische Früchte in der privater Sauna (ca. 55 min)\n- 1 private Aktivstunde mit unserem Private Coach - wählen Sie selbst: Yoga, Gymnastik, Nordic-Walking, Pilates, Meditation, Kraft- oder Ausdauertraining",
+            "- 7 Übernachtungen inklusive Krumers Verwöhnpension \n- 1x Behandlungsgutschein über 200 Wohlfühl-Minuten, wählen Sie selbst aus unserem Spa-Menü oder lassen Sie sich von unserem Spateam ein ganz auf einiges Paket schnüren\n- 1x \"Private Spa\" inklusive Aromapeeling und Körperöl, 2 Gläser Sekt und frische Früchte in der privater Sauna (ca. 55 min)\n- 1 private Aktivstunde mit unserem Private Coach - wählen Sie selbst: Yoga, Gymnastik, Nordic-Walking, Pilates, Meditation, Kraft- oder Ausdauertraining",
+            "- 7 Übernachtungen inklusive Krumers Verwöhnpension \n- 1x Behandlungsgutschein über 200 Wohlfühl-Minuten, wählen Sie selbst aus unserem Spa-Menü oder lassen Sie sich von unserem Spateam ein ganz auf einiges Paket schnüren\n- 1x \"Private Spa\" inklusive Aromapeeling und Körperöl, 2 Gläser Sekt und frische Früchte in der privater Sauna (ca. 55 min)\n- 1 private Aktivstunde mit unserem Private Coach - wählen Sie selbst: Yoga, Gymnastik, Nordic-Walking, Pilates, Meditation, Kraft- oder Ausdauertraining"
+          ],
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/de1216fc-6569-42da-a403-b65e248d0d87/99/image.jpg",
+              "caption": "Krumers Wunschpaket"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Rundum Schön das große Paket",
+          "description": "- 7 Übernachtungen mit Verwöhnpension\n- 1 Gesichtsbehandlung BASIC PLUS nach Susanne Kaufmann (ca. 80min)\n- 1 \"Starke Kombination\" Spa Maniküre/Pediküre (ca. 80 min)\n- vitalisierende oder entspannende Fußreflexzonenmassage (ca. 25min)\n- ein kleines Susanne Kaufmann Paket zum Mitnachhause nehmen",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/4d24586a-ab7d-448f-a082-e55fed3bfc38/99/image.jpg",
+              "caption": "Rundum Schön"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Short \u0026 Golf",
+          "description": "- 3 Übernachtungen inklusive Krumers Verwöhnpension, Anreise am Donnerstag (DO-SO) \n- 1 \"Golfermassage\" Teilkörpermassage für Arme und Rücken nach einem aktiven Tag am Green (ca. 25min)\n- Golf Alpin Card mit 3 Greenfees\nzB- 1x Greenfee für den Golfclub Wildmoos (ca. 10 Autominuten, 18 Loch Platz)\nund 1x Greenfee für den Golfclub Mieming (ca. 20 Autominuten, 18 Loch Platz)\nund 1x Greenfee für den Golfclub Seefeld (ca. 2 Gehminuten, 9 Loch Platz)",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/4ebd54d4-12e8-4838-b2e6-dbea13054b96/99/image.jpg",
+              "caption": "Golf"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Sommerfit mit \"Skiroller\"",
+          "description": "- 3 Übernachtungen inklusive Halbpension - Anreise am Donnerstag (Do-So) \n- eine Privatstunde mit Kurs in der Skating- oder klassischen Technik\n- Leihmaterial (Skiroller, Schuhe, Helm, Stöcke)\n- eine Tageskarte für die Skirollerbahn\n- eine wohltuende Sportmassage (ca.25min)",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Reine Männersache",
+          "description": "- 3 Übernachtungen inklusive Verwöhnpension - Anreise am Donnerstag (Do-So) \n- 1 Alpenkräuter Körper-Peeling (ca. 25min)\n- \"Gesichtsbehandlung BASIC\" für Ihn - ganz individuelle, auf Ihren Hauttyp abgestimmte Gesichtsbehandlung (ca. 50min)\n- 1 kräftigende oder entspannende Fußreflexzonenmassage (ca. 25min)\n- ein kleines Susanne Kaufmann Paket zum Mitnachhause nehmen",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Powerpaket für Ihn",
+          "description": "- 7 Übernachtungen inklusive Verwöhnpension\n- eine Kopf-Schulter-Nacken-Massage (ca. 25min)\n- eine Fitness-Massage zur Lockerung der Muskulatur (ca. 50min)\n- eine private Aktivstunde mit Betreuung durch den Wellnesstrainer. Wählen Sie selbst: Poweryoga, Krafttraining, Rückentraining, Power Walking,... oder auch eine entspannende Meditation zur Kräftesammlung\n- einen energiespendenden, natürlichen Powerdrink vor der Aktivstunde\n",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Männer! Stammtisch",
+          "description": "- 3 Übernachtungen inklusive Krumers Verwöhnpension - Anreise am Donnerstag (Do-So) \n- einen Eintritt ins Casino Seefeld mit Spieljetons und einem Getränk an der Casinobar für alle Freunde\n- ein Abendessen am Stammtisch in unserem Weinrevier mit einer Runde Bier und ein Schnapsl nach dem Essen\n- eine geführte Wanderung mit unserem Aktivtrainer\n- ab 5 Männern gibt es einen geführten Eisaufguss in der Sauna mit Bier zum Abschlus\n- 6. Freud wird von uns eingeladet",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/54e53a32-d26d-465a-ab08-7e8832b01662/99/image.jpg",
+              "caption": "Krumers Prost"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "\"Babyboom\" - Wellnessurlaub für Schwangere",
+          "description": "- 3 Übernachtungen - Anreise am Donnerstag (Do-So)\n- eine entspannende Kopf-Schulter-Nacken-Massage (ca. 25min)\n- ein kühlender Beinwickel mit Wirkstoffen aus der Rosskastanie, Lavendel und Rosmarinöl (ca. 25min)\n- eine Lymphodrainage - wunderbar fließende Behandlung zur Tiefenentspannung (ca. 25min)\n- eine Nachtkerzenöl-Cremepackung in der warmen Schwebeliege zum Pflegen der Haut (auch bestens geeignet für sehr empfindliche Haut)",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Mutter \u0026 Tochter Wellness",
+          "description": "- 3 Übernachtungen inkl. Krumers Verwöhnpension (DO-SO)\n- je eine Gesichtsbehandlung nach Wunsch Anti-Aging oder Basic (ca. 50min) für Mutter und Tochter\n- je eine Gänseblümchenpackung in der Schwebeliege für samtig weiche Haut oder einen kühlenden Beinwickel\n- eine geführte Wanderung oder Bergtour durch die wunderbare Naturkulisse\n- täglich geführtes Aktivprogramm mit Aquafit, Yoga, Pilates, Meditationen, Nordic Walking, Smovey uvm.\n- exklusives 6 gängiges Gala-Menü am Sonntag\n",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Neujahr in Seefeld",
+          "description": "- 7 oder 10 Übernachtungen inkl. Krumers Verwöhnpension\n- 1 geführte Wanderung um den Wildsee\n- 1 Weinverkostung\n- große Silvestergala am 31.12.: Cocktail Champagnerempfang mit Flying Buffet, 7-gängiges Silvester-Gala-Dinner, Live-Musik und Tanz bis in den Morgen, um Mitternacht großes Silvester-Feuerwerk, kleines Mitternachtsbuffet zum Stärken\n- Langschläfer- und Katerfrühstück am 01.01.\n- Live Übertragung Neujahrskonzert der Wiener Philharmoniker auf Großbild Leinwand am 01.01.",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Ski \u0026 Spa",
+          "description": "- 7 Übernachtungen inkl. Krumers Verwöhnpension\n- 3 Tages Skipass (Happy Ski-Card) für über 45 Pistenkilometer\n- 1x Vanille-Zimt-Packung in der warmen Schwebeliege (ca. 25min)\n- 1x Fitnessmassage zur wohltuenden Lockerung und Entspannung (ca. 50min)\n- 1x immunstärkenden Honig-Ingweraufguss in der Sauna",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Langlauftage mit kurs",
+          "description": "- 4 Übernachtungen mit Halbpension\n- 3 mal 120min Langlaufkurs für Anfänger bzw. Fortgeschrittene skating oder klassisch (Mo bis Mi)\n- 1 mal 60min Privatunterricht\n- 1 \"Tiroler Lebendigkeit\" Teilkörpermassage (je nach Wunsch für Schulter-Nacken, Rücken- oder Beinmuskulatur)\n- Loipengebühr für den gesamten Aufenthalt",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Adventzauber",
+          "description": "Vorweihnachtliche Stimmung im verschneiten Seefeld...\n\nInklusive:\n- 3 Übernachtungen inklusive Krumers Verwöhnpension\n- 3+1 bei Anreise Sonntag schenken wir Ihnen eine Übernachtung gratis dazu!\n- 1 romantische Fackelwanderung um den Wildsee mit gemütlichem Glühweinstopp\n- 1 Winterwanderung zu unseren Kapellen\n- 1 wohltuende Vanille-Zimt Massage (ca.25min)\n- der Seefelder Adventmarkt direkt vor unserer Haustüre",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/b281887a-618d-46b0-97c0-79c459743fd4/99/image.jpg",
+              "caption": "Advent"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Langlaufwoche mit Kurs",
+          "description": "- 7 Übernachtungen mit Halbpension\n- 3 mal 120min Langlaufkurs für Anfänger bzw. Fortgeschrittene skating oder klassisch (Mo bis Mi, oder Mi bis Fr)\n- 1 mal 60min Privatunterricht\n- 1 \"Tiroler Lebendigkeit\" Teilkörpermassage (je nach Wunsch für Schulter-Nacken, Rücken- oder Beinmuskulatur)\n- Loipengebühr für die gesamte Woche",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Skiwoche mit Kurs",
+          "description": "- 7 Übernachtungen inkl. Krumers Verwöhnpension\n- 3 Tage Skikurs für Anfänger bzw. für Fortgeschrittene\n- 1 entspannende Teilmassage zur Lösung der Muskulatur (ca. 25min)",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Ostern",
+          "description": "- 4 Übernachtungen mit Krumers Verwöhnpension\n- optionales Fastenmenü am Karfreitag\n- Karsamstag mit großer österlicher Nachmittagsjause\n- Exklusives Ostergaladinner am Ostersonntag\n- kuschelige Ostersoftpak mit Frühlingsaroma in der warmen Liege\n- kleines Ostergeschenk für alle Gäste",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/6ccc0740-8676-4ef2-901a-23e8aba295c2/99/image.jpg",
+              "caption": "Luxus Kuscheltage"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "258.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "710.00",
+          "maxPrice": "710.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "506.00",
+          "maxPrice": "506.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "392.00",
+          "maxPrice": "392.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "468.00",
+          "maxPrice": "468.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "252.00",
+          "maxPrice": "252.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "1102.00",
+          "maxPrice": "1102.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "898.00",
+          "maxPrice": "898.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "605.00",
+          "maxPrice": "605.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "485.00",
+          "maxPrice": "485.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "496.00",
+          "maxPrice": "496.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "823.00",
+          "maxPrice": "823.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "376.00",
+          "maxPrice": "376.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "506.00",
+          "maxPrice": "506.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "472.00",
+          "maxPrice": "472.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "1632.00",
+          "maxPrice": "1632.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "917.00",
+          "maxPrice": "917.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "658.00",
+          "maxPrice": "658.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "426.00",
+          "maxPrice": "426.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "889.00",
+          "maxPrice": "889.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "867.00",
+          "maxPrice": "867.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "504.00",
+          "maxPrice": "504.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

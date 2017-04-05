@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CafeOrCoffeeShop",
+    "Restaurant"
+  ],
+  "name": "Olympia Restaurant",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3267413445115",
+    "longitude": "11.1822688579559"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Olympia-Restaurant",
+    "streetAddress": "Klosterstr. 600",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 3010",
+    "email": "tomberger.franz@aon.at",
+    "url": "http://www.restaurant-olympia.at"
+  },
+  "description": [
+    " ",
+    "Sitzplätze für ca. 140 Personen\n\nIm neuen Restaurant verwöhnt Franz Tomberger mit seinem Team schon seit vielen Jahren nicht nur Bade- und Saunagäste...\nGenießen Sie saisonale Gerichte, Tiroler Schmankerln, täglich wechselnde Menüs oder einen gemütlichen Kaffee auf der schönen Terrasse oder lassen Sie ihren Bade- und Saunatag bei einem erfrischenden Bier oder einem Glas Wein ausklingen. Eine Extraportion Vitamine liefern die köstlichen, frisch gepressten Fruchtsäfte, die auch im Kiosk erhältlich sind.",
+    "täglich 10.00 - 23.00 Uhr"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/22334813-bc6c-4e0c-8092-f4a0407450ac/99/image.jpg",
+      "caption": "Olympia Restaurant Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7b34fb4f-2f50-416a-95d9-b20d0f76426b/99/image.jpg",
+      "caption": "Olympia Restaurant Winter"
+    }
+  ],
+  "url": [
+    "http://www.restaurant-olympia.at"
+  ]
+}

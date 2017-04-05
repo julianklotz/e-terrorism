@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "FastFoodRestaurant"
+  ],
+  "name": "Tiroler Speckklause, Österreichische Spezialitäten",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3910897011865",
+    "longitude": "11.2652263153443"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Tiroler Speckklause",
+    "streetAddress": "Innsbrucker Str. 67 - 68",
+    "addressLocality": "Scharnitz",
+    "postalCode": "6108",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5213 5767",
+    "email": "info@tiroler-speckklause.at",
+    "url": "http://www.tiroler-speckklause.at"
+  },
+  "description": "Typische Tiroler Schmanckerln zum Mitnehmen oder auch zum Verzehr",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/96bc270f-c9be-47af-b5ac-2ec7322ea35d/99/image.jpg",
+      "caption": "Tiroler Speckklause"
+    }
+  ],
+  "url": [
+    "http://www.tiroler-speckklause.at",
+    "http://www.karwendel.at"
+  ]
+}

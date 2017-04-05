@@ -1,0 +1,68 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.hotel-hochland.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Schiefer",
+    "streetAddress": "Weidach 379 e",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6391",
+    "faxNumber": "(0043) 5214 6391 5",
+    "email": "info@hotel-hochland.at",
+    "url": "http://www.hotel-hochland.at"
+  },
+  "name": "Haus Schiefer",
+  "description": [
+    "Inklusive: Saunabenützung im Hotel Hochland, Fahrradverleih im Hotel Hochland, Eindreinigung, Garagenunterstellplatz\nExklusive: Solarium, Massagewanne im Hotel Hochland zu jeweils € 5,90, Frühstück im Hotel Hochland € 10 pro Person und Abendessen (Menü) € 20 pro Person",
+    "Weg: Unser Haus liegt im Ortsteil Weidach. Aus Mittenwald kommend ca. 100m nach der Tankstelle auf der rechten Seite und von Seefeld kommend nach der Ortseinfahrt Weidach ca. 120m auf der linken Seite."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b0f975e3-6af0-413c-96d3-ee445293ddd6/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8f8ab37c-2b7f-4d8f-a532-4318f0bd25f6/99/image.jpg",
+      "caption": "Winter"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.367825091061",
+    "longitude": "11.163912486549"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 1 Schlafraum",
+      "description": "Zwei geschmackvolle, im Landhausstil eingerichtete Appartements stehen Ihnen zur Verfügung und garantieren eine heimelige Atmosphäre.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/1 Schlafraum/Bad, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ]
+    }
+  ]
+}

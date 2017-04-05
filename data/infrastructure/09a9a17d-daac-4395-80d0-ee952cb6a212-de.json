@@ -1,0 +1,30 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Museum"
+  ],
+  "name": "Kulturhaus Ganghofermuseum und Bücherei",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3716413",
+    "longitude": "11.1431942"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Kulturhaus Ganghofermuseum",
+    "streetAddress": "Kirchplatzl 154",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 20093",
+    "url": "http://www.leutasch.at/ganghofer-museum/"
+  },
+  "description": "Ludwig Ganghofer (1855 – 1920), einer der bekanntesten Heimatschriftsteller seiner Zeit, verbrachte viele Wochen des Jahres in seinem Jagdhaus „Hubertus“ bei der Tillfußalm im Leutascher Gaistal. Dort verfasste er unter anderem einen seiner bekanntesten Romane „Das Schweigen im Walde“. Außerdem empfing er viele Persönlichkeiten aus Kunst und Kultur wie Hugo von Hofmannsthal oder Richard Strauss. Die Einnahmen aus seinen Romanen erlaubten es Ganghofer, eine der größten Jagden der Nordalpen, die Gaistaljagd, zu pachten.\nÖffnungszeiten: Dienstag + Mittwoch 10.00 Uhr – 12.00 Uhr, Donnerstag + Freitag 16.00 Uhr - 18.00 Uhr,\nweitere Termine nach Vereinbarung, Tel. 0676/6056184\n\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4e1234a8-1d49-4f2b-a9a6-add332a166e6/99/image.jpg",
+      "caption": "Kulturhaus Ganghofermuseum"
+    }
+  ]
+}

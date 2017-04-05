@@ -1,0 +1,56 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "Pony Wanderung am Haideggerhof",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Haideggerhof",
+    "employee": {
+      "@type": "Person",
+      "familyName": "Haidegger"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Leithener Dorfstraße 18",
+      "addressLocality": "Reith bei Seefeld",
+      "postalCode": "6103",
+      "addressCountry": "AT",
+      "telephone": "(0043)6508446282"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Haideggerhof",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Leithener Dorfstraße 18",
+      "addressLocality": "Reith bei Seefeld",
+      "postalCode": "6103",
+      "addressCountry": "AT",
+      "telephone": "(0043)6508446282"
+    }
+  },
+  "description": "Jeden Freitag findet am Haideggerhof eine Ponywanderung statt. Ponys für Kinder ab 6 Jahre stehen bereit.\nDauer: ca. 1 Std., Kosten: Euro 15,- p.P. \nAnmeldung bis Donnerstag im Infobüro Reith Te.: 05 0880 30 oder nach Vereinbarung unter 0650/8446282",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a7cfb185-8a27-46db-bce3-1d8ddda9ed49/99/image.jpg",
+      "caption": "Ponyreiten 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6a3f31d0-2f6b-4883-be79-1103600e428a/99/image.jpg",
+      "caption": "Pony putzen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1026eca7-2d22-4a79-a176-273507052b20/99/image.jpg",
+      "caption": "Ponyreiten 2"
+    }
+  ],
+  "startDate": "2017-06-02T10:00:00",
+  "endDate": "2017-09-29"
+}

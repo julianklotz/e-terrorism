@@ -1,0 +1,397 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.appartements-seefeld.com",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Landhaus Waidmannsheil",
+    "streetAddress": "Schulweg  592",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2150",
+    "faxNumber": "(0043) 5212 2150 1",
+    "email": "info@appartements-seefeld.com",
+    "url": "http://www.appartements-seefeld.com"
+  },
+  "name": "Landhaus Waidmannsheil",
+  "description": [
+    "Im Landhaus Waidmannsheil wohnen Sie zentral und können doch die Ruhe genießen. In nur wenigen Gehminuten sind Sie direkt in der Seefelder Fußgängerzone.\n\nWohnen:\nDie Ferienwohnungen verfügen alle über 2 getrennte Schlafzimmer und Balkon. Mit einer Größe von 76 m² bis 96 m² haben Sie genügend Platz um Ihren Urlaub in der Olympiaregion Seefeld in vollen Zügen zu genießen.\n\nWohlfühlen:\nAuf unserer ca. 100 m² großen Wohlfühlwiese stehen bequeme Sonnenliegen für Sie bereit. Selbstverständlich finden Sie auch einen Griller für gemütliche Grillabende.\n\nW-Lan Internet: € 3,- pro Tag",
+    "Inklusive: Bett-/Tischwäsche, Handtücher,Bademäntel, Heizung, Strom, Garage, Wasser, W-LAN,\nExklusive: Telefongesprächskosten, Brotservice",
+    "landhaus waidmannsheil ferienwohnung ferienwohnungen appartements appartement "
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "reviewCount": "36"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1a8c2a9c-5ddf-4075-87e9-b1eb1361f47c/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5c8e1d91-587e-4a71-ba44-6e59ebcf5762/99/image.jpg",
+      "caption": "Logo"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c9a89837-cbc4-4fb5-961f-5ffe7eb9479b/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/62461c6d-fece-4b6f-a85f-8383c931d5c4/99/image.jpg",
+      "caption": "Liegewiese"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3287193412809",
+    "longitude": "11.190385222435"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 2 Schlafräume",
+      "description": "- ca. 97 m²\n- separates Wohnzimmer mit offenem Kamin\n- geräumige, getrennte Schlafzimmer\n- Küche - komplett eingerichtet mit Backrohr, elektrischen Wasserkocher, Toaster und Mikrowelle\n- Spülmaschine\n- Kaffeemaschine\n- Bad mit separatem WC\n- Südbalkon\n- Kabel-TV\n- Telefon mit eigener Rufnummer",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Kategorie LUX - Ferienwohnung Landgut",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "106.00",
+          "maxPrice": "196.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "106.00",
+          "maxPrice": "196.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "106.00",
+          "maxPrice": "196.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "122.00",
+          "maxPrice": "212.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "138.00",
+          "maxPrice": "228.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 2 Schlafräume",
+      "description": "- ca. 97 m²\n- separates Wohnzimmer mit offenem Kamin\n- 2 geräumige, getrennte Schlafzimmer\n- Küche - komplett eingerichtet mit Backrohr, elektrischen Wasserkocher, Toaster und Mikrowelle\n- Spülmaschine\n- Kaffeemaschine\n- Bad mit separatem WC\n- Südbalkon\n- Kabel-TV\n- Telefon mit eigener Rufnummer",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Kategorie LUX - Ferienwohnung Landhaus",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "106.00",
+          "maxPrice": "196.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "106.00",
+          "maxPrice": "196.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "106.00",
+          "maxPrice": "196.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "122.00",
+          "maxPrice": "212.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "138.00",
+          "maxPrice": "228.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 2 Schlafräume",
+      "description": "- ca. 86 m²\n- separates Wohnzimmer\n- 2 getrennte Schlafzimmer\n- Küche - komplett eingerichtet mit Backrohr, elektrischen Wasserkocher, Toaster und Mikrowelle\n- Spülmaschine\n- Kaffeemaschine\n- Bad\n- Balkon\n- Safe\n- Kabel-TV\n- Telefon mit eigener Rufnummer\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Kategorie SÜD - Ferienwohnung Bergblick",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "95.00",
+          "maxPrice": "155.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "95.00",
+          "maxPrice": "155.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "95.00",
+          "maxPrice": "155.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "111.00",
+          "maxPrice": "171.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "127.00",
+          "maxPrice": "187.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 2 Schlafräume",
+      "description": "- ca. 86 m²\n- separates Wohnzimmer\n- 2 getrennte Schlafzimmer\n- Küche - komplett eingerichtet mit Backrohr, elektrischen Wasserkocher, Toaster und Mikrowelle\n- Spülmaschine\n- Kaffeemaschine\n- Bad\n- Balkon\n- Safe\n- Kabel-TV\n- Telefon mit eigener Rufnummer\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Kategorie SÜD - Ferienwohnung Tirol",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "95.00",
+          "maxPrice": "155.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "95.00",
+          "maxPrice": "155.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "95.00",
+          "maxPrice": "155.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "111.00",
+          "maxPrice": "171.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "127.00",
+          "maxPrice": "187.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 2 Schlafräume",
+      "description": "- ca. 76 m²\n- separates Wohnzimmer\n- 2 getrennte Schlafzimmer\n- Küche - komplett eingerichtet mit Backrohr, elektrischen Wasserkocher und Toaster\n- Spülmaschine\n- Kaffeemaschine\n- Bad\n- Balkon\n- Safe\n- Kabel-TV\n- Telefon mit eigener Rufnummer\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Kategorie OST - Ferienwohnung Jagdrevier",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "85.00",
+          "maxPrice": "140.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "85.00",
+          "maxPrice": "140.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "85.00",
+          "maxPrice": "140.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "101.00",
+          "maxPrice": "156.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 2 Schlafräume",
+      "description": "- ca. 76 m²\n- separates Wohnzimmer\n- 2 getrennte Schlafzimmer\n- Küche - komplett eingerichtet mit Backrohr, elektrischen Wasserkocher und Toaster\n- Spülmaschine\n- Kaffeemaschine\n- Bad\n- Balkon\n- Safe\n- Kabel-TV\n- Telefon mit eigener Rufnummer\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Kategorie OST - Ferienwohnung Seefeld",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "85.00",
+          "maxPrice": "140.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "85.00",
+          "maxPrice": "140.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "85.00",
+          "maxPrice": "140.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "101.00",
+          "maxPrice": "156.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

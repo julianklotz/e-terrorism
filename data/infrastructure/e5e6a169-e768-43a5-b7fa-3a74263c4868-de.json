@@ -1,0 +1,33 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "HealthAndBeautyBusiness"
+  ],
+  "name": "Banholzer Ursula, Wellness",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 1219250"
+  },
+  "description": [
+    "Gesichts-Balance,Klangschalen-Balance, Energie-Balance mit Stimmgabeln, Körper-Balance, Ohrkerzen-Balance, Körperkerzen-Balance, Chinesische Fuß-Balance, Entschlackungs-Balance",
+    "Gesichts-Balance,Klangschalen-Balance, Energie-Balance mit Stimmgabeln, Körper-Balance, Ohrkerzen-Balance, Körperkerzen-Balance, Chinesische Fuß-Balance, Entschlackungs-Balance"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5fea5492-73e8-4e47-92bb-cd28110b53af/99/image.jpg",
+      "caption": "Wellness"
+    }
+  ],
+  "url": [
+    "http://"
+  ]
+}

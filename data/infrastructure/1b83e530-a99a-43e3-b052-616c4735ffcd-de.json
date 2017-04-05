@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure",
+    "LocalBusiness"
+  ],
+  "name": "Fundbüro",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3902949",
+    "longitude": "11.2652863000001"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Gemeinde Scharnitz",
+    "streetAddress": "Adolf-Klinge-Platz 72",
+    "addressLocality": "Scharnitz",
+    "postalCode": "6108",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5213 5204 0",
+    "email": "gemeinde@scharnitz.tirol.gv.at",
+    "url": "http://www.scharnitz.tirol.gv.at"
+  },
+  "description": "Fundbüro im Gemeindeamt und Informationsbüro Scharnitz, Innsbrucker Str. 282 Tel.: 050880-540",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4b1ef793-e1d7-4bd6-b41d-55de9466ac55/99/image.jpg",
+      "caption": "Fundbüro"
+    }
+  ],
+  "url": [
+    "http://www.scharnitz.tirol.gv.at"
+  ]
+}

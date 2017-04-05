@@ -1,0 +1,100 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": [
+      "Event"
+    ],
+    "name": "Seefelder Heimatmuseum",
+    "eventStatus": "http://schema.org/EventScheduled",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Seefelder Heimatmuseum",
+      "employee": {
+        "@type": "Person",
+        "givenName": "Heinz",
+        "familyName": "Strasser"
+      },
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Gießenbach",
+        "addressLocality": "Scharnitz",
+        "postalCode": "6108",
+        "addressCountry": "AT",
+        "telephone": "+436641216621",
+        "email": "heimatmuseum-seefeld@gmx.at"
+      }
+    },
+    "location": {
+      "@type": "Place",
+      "name": "Seefelder Heimatmuseum",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Gießenbach",
+        "addressLocality": "Scharnitz",
+        "postalCode": "6108",
+        "addressCountry": "AT",
+        "telephone": "+436641216621",
+        "email": "heimatmuseum-seefeld@gmx.at"
+      }
+    },
+    "description": "Drehen Sie das Rad der Zeit zurück und besuchen Sie eine alte Schuster- und Schnitzwerkstätte und bewundern Sie Skimodelle von anno dazumal … Führungen zu andern Terminen jederzeit auf Anfrage möglich. Nähere Informationen unter Tel. 0664 1216621, Hr. Strasser.",
+    "image": [
+      {
+        "@type": "ImageObject",
+        "url": "http://resc.deskline.net/images/SEE/1/f404971e-b5a6-48ee-8806-18760319cd71/99/image.jpg",
+        "caption": "Heimatumuseum"
+      }
+    ],
+    "startDate": "2016-12-16T15:00:00",
+    "endDate": "2017-03-10"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": [
+      "Event"
+    ],
+    "name": "Seefelder Heimatmuseum",
+    "eventStatus": "http://schema.org/EventScheduled",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Seefelder Heimatmuseum",
+      "employee": {
+        "@type": "Person",
+        "givenName": "Heinz",
+        "familyName": "Strasser"
+      },
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Gießenbach",
+        "addressLocality": "Scharnitz",
+        "postalCode": "6108",
+        "addressCountry": "AT",
+        "telephone": "+436641216621",
+        "email": "heimatmuseum-seefeld@gmx.at"
+      }
+    },
+    "location": {
+      "@type": "Place",
+      "name": "Seefelder Heimatmuseum",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Gießenbach",
+        "addressLocality": "Scharnitz",
+        "postalCode": "6108",
+        "addressCountry": "AT",
+        "telephone": "+436641216621",
+        "email": "heimatmuseum-seefeld@gmx.at"
+      }
+    },
+    "description": "Drehen Sie das Rad der Zeit zurück und besuchen Sie eine alte Schuster- und Schnitzwerkstätte und bewundern Sie Skimodelle von anno dazumal … Führungen zu andern Terminen jederzeit auf Anfrage möglich. Nähere Informationen unter Tel. 0664 1216621, Hr. Strasser.",
+    "image": [
+      {
+        "@type": "ImageObject",
+        "url": "http://resc.deskline.net/images/SEE/1/f404971e-b5a6-48ee-8806-18760319cd71/99/image.jpg",
+        "caption": "Heimatumuseum"
+      }
+    ],
+    "startDate": "2017-06-16T15:00:00",
+    "endDate": "2017-09-22"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "@context": "http://schema.org",
+    "@type": [
+      "Event"
+    ],
+    "name": "\"Fastensuppe essen\"",
+    "eventStatus": "http://schema.org/EventScheduled",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Gemeinde Scharnitz",
+      "employee": {
+        "@type": "Person",
+        "givenName": "Isabella",
+        "familyName": "Blaha"
+      },
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Adolf-Klinge-Platz 72",
+        "addressLocality": "Scharnitz",
+        "postalCode": "6108",
+        "addressCountry": "AT",
+        "telephone": "(0043) 5213 5204 0",
+        "email": "gemeinde@scharnitz.tirol.gv.at",
+        "url": "http://www.scharnitz.tirol.gv.at"
+      }
+    },
+    "location": {
+      "@type": "Place",
+      "name": "Gemeinde Scharnitz",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Adolf-Klinge-Platz 72",
+        "addressLocality": "Scharnitz",
+        "postalCode": "6108",
+        "addressCountry": "AT",
+        "telephone": "(0043) 5213 5204 0",
+        "email": "gemeinde@scharnitz.tirol.gv.at",
+        "url": "http://www.scharnitz.tirol.gv.at"
+      }
+    },
+    "description": "Wir essen gemeinsam die Fastensuppe im Gemeindesaal. Ausgabe von 10:00 Uhr bis 14:00 Uhr . Auch zum Mitnehmen! Freiwillige Spenden kommen dem Kindergarten oder der Kirchenrenovierung zu Gute.",
+    "startDate": "2017-03-01T10:00:00",
+    "endDate": "2017-03-01"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": [
+      "Event"
+    ],
+    "name": "\"Fastensuppe essen\"",
+    "eventStatus": "http://schema.org/EventScheduled",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Gemeinde Scharnitz",
+      "employee": {
+        "@type": "Person",
+        "givenName": "Isabella",
+        "familyName": "Blaha"
+      },
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Adolf-Klinge-Platz 72",
+        "addressLocality": "Scharnitz",
+        "postalCode": "6108",
+        "addressCountry": "AT",
+        "telephone": "(0043) 5213 5204 0",
+        "email": "gemeinde@scharnitz.tirol.gv.at",
+        "url": "http://www.scharnitz.tirol.gv.at"
+      }
+    },
+    "location": {
+      "@type": "Place",
+      "name": "Gemeinde Scharnitz",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Adolf-Klinge-Platz 72",
+        "addressLocality": "Scharnitz",
+        "postalCode": "6108",
+        "addressCountry": "AT",
+        "telephone": "(0043) 5213 5204 0",
+        "email": "gemeinde@scharnitz.tirol.gv.at",
+        "url": "http://www.scharnitz.tirol.gv.at"
+      }
+    },
+    "description": "Wir essen gemeinsam die Fastensuppe im Gemeindesaal. Ausgabe von 10:00 Uhr bis 14:00 Uhr . Auch zum Mitnehmen! Freiwillige Spenden kommen dem Kindergarten oder der Kirchenrenovierung zu Gute.",
+    "startDate": "2017-04-14T10:00:00",
+    "endDate": "2017-04-14"
+  }
+]

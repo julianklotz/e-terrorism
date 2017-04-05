@@ -1,0 +1,90 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Appartement Marion",
+    "streetAddress": "Münchnerstr. 268",
+    "addressLocality": "Seefeld in Tirol",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 5314196",
+    "email": "info@appartement-marion.at",
+    "url": "http://www.appartement-marion.at"
+  },
+  "name": "Appartement Marion",
+  "description": [
+    "Neurenovierte Ferienwohnung mit 75 m2 am Fuße des Geigenbühels im Zentrum von Seefeld gelegen.\nSchi- und Dorfbushaltestelle in unmittelbarer Nähe.\n\nUnsere Ferienwohnung verfügt über ein großzügiges Wohnzimmer mit einer modernen Wohnküche mit Tiroler Charme.\nZusätzlich ein barrierefreies Badezimmer mit Dusche und Fenster sowie ein separates WC. \n\nDie großzügige Südterrasse lädt zum Faulenzen und Erholen in der frischen Tiroler Bergluft ein.\n\nKabelfernsehen und WLAN  sowie zwei reservierte Autoabstellplätze sind vorhanden.\nBettwäsche, Handtücher und Küchentücher werden kostenlos zur Verfügung gestellt.\n",
+    "Alle Preise verstehen sich inklusive Heizung, Strom und Bettwäsche.\n",
+    "Check-In ab 14.00 Uhr\nCheck Out 10.00 Uhr\noder nach Vereinbarung"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ceb6ee5b-b4d5-45f8-b9ef-b7cb2f61a399/99/image.jpeg",
+      "caption": "P1020383"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/50112bdc-30f0-4ec7-902f-195fe9f71ddd/99/image.jpeg",
+      "caption": "P1020382"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/cf0075a1-26b2-45c4-b379-b6093f2457e1/99/image.jpeg",
+      "caption": "P1020384"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/917aa257-a92e-4975-8c68-6a798efb35af/99/image.jpeg",
+      "caption": "P1020385"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3317387",
+    "longitude": "11.1890152"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Neurenovierte Ferienwohnung mit 75 m2 am Fuße des Geigenbühels im Zentrum von Seefeld gelegen.\nSchi- und Dorfbushaltestelle in unmittelbarer Nähe.\n\nUnsere Ferienwohnung verfügt über ein großzügiges Wohnzimmer mit einer modernen Wohnküche mit Tiroler Charme.\nZusätzlich ein barrierefreies Badezimmer mit Dusche und Fenster sowie ein separates WC. \n\nDie großzügige Südterrasse lädt zum Faulenzen und Erholen in der frischen Tiroler Bergluft ein.\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "0.00",
+          "maxPrice": "170.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "170.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

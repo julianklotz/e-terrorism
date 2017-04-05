@@ -1,0 +1,149 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.haus-seibold.com",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Seibold",
+    "streetAddress": "Feldweg 317",
+    "addressLocality": "Scharnitz",
+    "postalCode": "6108",
+    "addressCountry": "AT",
+    "telephone": "+4352135258",
+    "faxNumber": "+4352135258",
+    "email": "haus.seibold@aon.at",
+    "url": "www.haus-seibold.com"
+  },
+  "name": "Haus Seibold",
+  "description": [
+    "Genießen sie ihren Sommer- und Winterurlaub in unserem familiären Gästehaus mit herrlichem Gebirgspanorama am Waldrand. Es liegt in absolut schöner und ruhiger Lage und doch zentral in Schilift- und Loipennähe. Alle Zimmer mit Balkon, erweitertes Frühstück, Etagendusche inklusive, gemütlicher Aufenthaltsraum mit TV, Fernseh- und Leseraum, Liegewiese, Parkplatz. \nKinderpreise auf Anfrage!",
+    "Preis gültig ab 4 Nächte",
+    "Von Deutschland kommend nach der Kirche links über die Bahnübersetzung nach 300m rechte Seite Haus Seibold - Name am Haus."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f3d10070-d908-4ed3-b47d-edc0a4aecb3b/99/image.jpg",
+      "caption": "Winterbild Haus Seibold Scharnitz"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/015b815a-263b-494f-aefe-c5f1cea42d21/99/image.jpg",
+      "caption": "Sommerbild Haus Seibold Scharnitz"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8f4fc5c6-efe0-4b88-a0fe-c525ee3b1f1d/99/image.jpg",
+      "caption": "Außenansicht Haus Seibold Scharnitz"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9df95615-c2f6-4f68-8f47-41db7728497f/99/image.jpg",
+      "caption": "Hausschrift Haus Seibold Scharnitz"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5a77d769-48b3-44bb-86dc-9970bca4bd09/99/image.jpg",
+      "caption": "Lage Haus Seibold Scharnitz"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3b3e7a2b-bd2a-4e6a-a157-ff15da9d9caf/99/image.jpg",
+      "caption": "Frühstücksraum Haus Seibold Scharnitz"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ccc40578-924a-4b46-a6ff-fd07e381502b/99/image.jpg",
+      "caption": "Frühstücksraum im Haus Seibold in Scharnitz"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/dc8e8a05-5923-417c-ad86-def80a567861/99/image.jpg",
+      "caption": "urige Stube im Haus Seibold Scharnitz"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/def86531-b7d9-4959-b205-3349b29bd7aa/99/image.jpg",
+      "caption": "Stube Haus Seibold Scharnitz"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3855475878376",
+    "longitude": "11.2659043427548"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, fl. k/w Wasser",
+      "description": "rustikale Zimmer mit Balkon.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit fl. Wasser",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "17.00",
+          "maxPrice": "19.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Einzelzimmer, fl. k/w Wasser",
+      "description": "rustikales Zimmer mit Balkon.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Einzelzimmer mit fl. Wasser",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "20.00",
+          "maxPrice": "22.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "GroceryStore",
+    "Store",
+    "BankOrCreditUnion",
+    "BookStore",
+    "ToyStore"
+  ],
+  "name": "Eurospar",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3299385609872",
+    "longitude": "11.1860586312134"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Eurospar",
+    "streetAddress": "Olympiastr. 882",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 22291",
+    "url": "http://www.albrecht-betriebe.at"
+  },
+  "description": "Geldautomat vor dem Geschäft!",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5ba86a40-5f90-4fc0-a097-b21b11c3bf82/99/image.jpg",
+      "caption": "Bild Eurospar"
+    }
+  ],
+  "url": [
+    "http://www.albrecht-betriebe.at"
+  ]
+}

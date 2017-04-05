@@ -1,0 +1,30 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CafeOrCoffeeShop",
+    "BarOrPub"
+  ],
+  "name": "Putzi\u0027s Café / Bar",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3289556778527",
+    "longitude": "11.1875233054161"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Putzi\u0027s Café",
+    "streetAddress": "Bahnhofstr. 33",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 4955"
+  },
+  "description": "Sitzplätze für ca. 30 Personen",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/28a21a39-3f75-449c-9f6f-556798fcaa62/99/image.jpg",
+      "caption": "Putzi\u0027s Café Sommer"
+    }
+  ]
+}

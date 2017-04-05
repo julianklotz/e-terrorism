@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant"
+  ],
+  "name": "Gletscherschliff",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.4413018",
+    "longitude": "11.2640301"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Gletscherschliff",
+    "streetAddress": "Am Gletscherschliff 1",
+    "addressLocality": "Mittenwald",
+    "postalCode": "82481",
+    "addressCountry": "DE",
+    "telephone": "(0049) 8823 1453",
+    "email": "gletscherschliff@t-online.de"
+  },
+  "description": "Naturdenkmal, Stempelstelle",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0e0dac80-d1ec-4f74-9756-47168c5dae18/99/image.jpg",
+      "caption": "Winter Gletscherschliff"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e0aa887b-ce34-4da8-bad1-e8f8e8c1deb7/99/image.jpg",
+      "caption": "Sommer Gletscherschliff"
+    }
+  ]
+}

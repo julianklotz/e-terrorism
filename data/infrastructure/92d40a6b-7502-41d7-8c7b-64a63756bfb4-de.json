@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LocalBusiness"
+  ],
+  "name": "Theresa´s  Modewerkstatt, Schneiderei",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3283448365478",
+    "longitude": "11.1930191516876"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Thereses Modewerkstatt",
+    "streetAddress": "Milserstraße 127",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 1402932",
+    "email": "info@modewerkstatt.org",
+    "url": "http://www.modewerkstatt.org"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ec3d3239-6d9f-4b68-bc04-731f1062d2aa/99/image.jpg",
+      "caption": "Mode"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ea8e4c9e-bcb3-4afd-857b-430d4ba46200/99/image.jpg",
+      "caption": "Mode 2"
+    }
+  ]
+}

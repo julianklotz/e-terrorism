@@ -1,0 +1,20 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "TouristAttraction"
+  ],
+  "name": "Nordic Walking Strecke: Wildseerunde 2,5 km",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "description": "Ausgangspunkt: Seefeld/Seekirchl\nDie flache und leichte Runde führt direkt an den Wildsee, vorbei an der Strandperle, dem Schwimmbad. Über das Reither Moor und die Seefelder\nFinnenbahn gelangt man wieder zurück zum Ausgangspunkt.\nStreckenprofil: vorwiegend flach verlaufende Lauf- und Nordic Walkingstrecke\nTerrain: forest trail, meadow path",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/351000cd-fed3-4a10-8c04-19cd4dc4b529/99/image.jpg",
+      "caption": "Nordic Walking Region"
+    }
+  ]
+}

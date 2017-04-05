@@ -1,0 +1,254 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.ruadlhof.com",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Ruadlhof",
+    "streetAddress": "Kirchplatzl 136",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6090",
+    "faxNumber": "(0043) 5214 6090",
+    "email": "krug@ruadlhof.com",
+    "url": "http://www.ruadlhof.com"
+  },
+  "name": "Ruadlhof",
+  "description": [
+    "Neuer, freistehender Bauernhof in sonniger und ruhiger Lage umgeben von Wiesen. Direkter Zugang zu Wanderwegen und Loipe.",
+    "Inklusive: Heizung, Wasser, Strom, Bett- und Tischwäsche",
+    "Anreise: aus Richtung Telfs: 100 m vor der Kirche Oberleutasch links abbiegen, bis GH Kühtaier, dahinter wieder links.\naus Richtung Seefeld und Mittenwald: Richtung Kirchplatzl, 100 m nach Kirche rechts abbiegen, bis GH Kühtaier, dahinter links."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/26530c8e-cdd3-4331-82b8-ce89ba9656bb/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/259eb181-8c68-4818-8260-249fdb7d0fad/99/image.jpg",
+      "caption": "IMG_3134"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/99ae111c-198a-46b0-a2fe-075626b9b3a9/99/image.jpg",
+      "caption": "IMG_8941"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/243f87bb-267c-4d02-99f6-309b3d700783/99/image.jpg",
+      "caption": "IMG_1373"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/31cfc6df-ee17-476a-8b6f-f68badac2a36/99/image.jpg",
+      "caption": "IMG_8940"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/30842b99-91e6-4f07-ba56-d8f92df27e55/99/image.jpg",
+      "caption": "IMG_9022"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0a01dc8e-23b7-4687-b127-eabc9089a72b/99/image.jpg",
+      "caption": "IMG_1369"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/be28daef-0592-4cd5-98cd-95a8822c533c/99/image.jpg",
+      "caption": "IMG_1382"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3315107a-1285-48ee-b85a-8572f63e9c41/99/image.jpg",
+      "caption": "IMG_9197"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/999bab10-ec7a-433a-b016-6f8ff369381d/99/image.jpg",
+      "caption": "IMG_1368"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/19ce49b6-7541-459b-a1d5-f768ad4066a5/99/image.jpg",
+      "caption": "IMG_3143"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0b680849-be05-4bf8-903c-a11d0063c44d/99/image.jpg",
+      "caption": "DSC_1504"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0a62267a-9402-4184-ad9d-d6c17e007367/99/image.jpg",
+      "caption": "IMG_3141"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4938a38e-196d-479a-be6f-bbc96d01e98a/99/image.jpg",
+      "caption": "DSC_0277"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/07b0aa36-2504-47a7-8cc3-96c2b066896d/99/image.jpg",
+      "caption": "IMG_0454"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/12f0fc3b-b3e3-468b-93ad-04edb3fa97cc/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/31657e12-8d75-485e-bd6c-66b920bb7dd5/99/image.jpg",
+      "caption": "IMG_0455"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/33682986-e0bb-415a-b2c2-8bb611818119/99/image.jpg",
+      "caption": "IMG_0466"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/876a0b23-a26f-42e7-aff9-0a13b6bc9783/99/image.jpg",
+      "caption": "IMG_0634 - Kopie"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3615ffb2-5fa1-4fc3-a268-4f6c70695147/99/image.jpg",
+      "caption": "IMG_0465"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b3a5ac56-4c68-44cc-8518-868b61ec71ce/99/image.jpg",
+      "caption": "IMG_0483"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0705c99f-9339-40fa-ad84-5d45209f8d11/99/image.jpg",
+      "caption": "IMG_0643"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b128f287-198e-4424-9000-bf7ea3bd0057/99/image.jpg",
+      "caption": "IMG_0421"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/564f2d07-cc21-4196-a949-abc08ac457a1/99/image.jpg",
+      "caption": "IMG_0472"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9b0ca0f6-cd21-40d3-bef9-5a3902f7efa6/99/image.jpg",
+      "caption": "IMG_0473"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e6a5dc5a-01de-4167-abba-3a10a452eea0/99/image.jpg",
+      "caption": "IMG_0541"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/114137e5-329f-41d9-8cc9-3a64b1d59943/99/image.jpg",
+      "caption": "IMG_0510"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.369990138175",
+    "longitude": "11.139192512173"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Helle, freundliche Ausstattung im Tiroler Stil komplette Küche, sehr großes Schlafzimmer",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Wohnung 2 Apartment/1 Schlafraum/Dusche, WC,",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "55.00",
+          "maxPrice": "55.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "Helle, freundliche Ausstattung im Tiroler Stil, Kachelofen 1 Doppel + 1 Einzelzimmer;",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Wohnung 3 Apartment/2 Schlafräume/Dusche, WC,",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "Helle, freundliche Ausstattung im Tiroler Stil, Kachelofen, 2 Doppelzimmer mit Dusche/WC mit 2 Waschbecken, Vorraum und Balkon",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Wohnung 4 Apartment/2 Schlafräume/Dusche, WC,",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "55.00",
+          "maxPrice": "55.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3637 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://www.hrh.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Hotel Residenz Hochland ",
+    "streetAddress": "Wettersteinstrasse 184",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2211",
+    "faxNumber": "(0043) 5212 2211 15",
+    "email": "seefeld@hotel-hochland.com",
+    "url": "http://www.hrh.at"
+  },
+  "name": "Hotel Residenz Hochland",
+  "description": [
+    "Das \"Hotel Residenz Hochland\" ist ein Ferienhotel der gehobenen 4-Sterne-Kategorie und befindet sich in der schönsten Lage von Seefeld. Das langjährige, internationale Publikum schätzt die persönliche Atmosphäre, die exzellente Küche und das vielfältige Erholungsangebot des Hauses.\nFür erholsame Ferien stehen Ihnen folgende Einrichtungen und Zusatzleistungen zur Verfügung \n\n+ Freie Benützung von Hallenbad, Whirlpool, Sauna, Saunarium, Dampfbad, Kneippbecken, Infrarotkabine, Solarium*, Entspannungsliegen, Tee-Ecke, \n+ Massagen* und Wellness-Anwendungen* + Freie Benützung der hoteleigenen Fahrräder (Sommer)\n+ Fitnessraum + Tischtennis + Wireless + Freizeitraum mit Billard*, Tischfußball*, Videospiel* + Großer Parkplatz direkt beim Hotel sowie Unterstellplätze* und Tiefgarage* (* gegen Gebühr",
+    "Inklusivleistungen: Hallenbad,Sauna,Whirlpool,Saunarium,Dampfbad,Kneippbecken, Infrarotkabine,Entspannungsliegen, Tee-Ecke,Benützung der hoteleigenen Fahrräder, Fitnessraum,Tischtennis,geführte Wanderungen (Sommer Mo-Fr), großer Parkplatz direkt beim Hotel \n\nGegen Gebühr: Solarium,Massagen,Unterstellplätze,Tiefgarage\nCheck in: 14.00 Uhr\nCheck out: 11.00 Uhr",
+    "Abfahrt \"Seefeld Mitte\" - Richtung Zentrum - gerade über den Kreisverkehr auf die \"Andreas-Hofer-Straße\" - gerade über die Bahngleise auf die \"Olympiastraße\" - direkt hinter den Zentrumsparkplätzen rechts auf die \"Hohe-Munde-Straße\" - am Ende rechts auf die \"Wettersteinstraße\" leicht aufwärts bis an das Ende der \"Wettersteinstraße\"."
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "reviewCount": "135"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1ecce2bf-05ce-4810-8b11-4ea4a3ea2580/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6c5e7d33-3f5a-4b90-b9ce-d16d7f3d0225/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/21670b0b-8bda-47f1-97ad-238784570ec0/99/image.jpg",
+      "caption": "Badelandschaft"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8f242272-c3de-4453-a6ab-a4704d00180e/99/image.jpg",
+      "caption": "Restaurant"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/920c3194-fee1-4de8-a354-e0862c176d0a/99/image.jpg",
+      "caption": "Spielzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/58b6416c-8648-41ff-9d09-8afdb5849597/99/image.jpg",
+      "caption": "Lounge Bar"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/bafbe764-47ac-4d67-bbee-98e7766ab256/99/image.jpg",
+      "caption": "Wellness Sauna"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d5067c3f-e0d8-4efe-bb59-7cd77f61a56e/99/image.jpg",
+      "caption": "Restaurant 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/982d7f88-ae7e-41ac-b878-ff9c37f120a7/99/image.jpg",
+      "caption": "Freizeit"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3322497359719",
+    "longitude": "11.1841893196106"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Bad, WC",
+      "description": "ca. 52m², helles, komfortables Zimmer ausgestattet mit hellen Vollholzmöbel und Wohnteil sowie mit Bad, Bidet, WC, Föhn, Bademäntel, Flachbildschirm-TV, Radio, Telefon, Safe, Minibar und mit Südbalkon oder Terrasse",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer \"Tirol Turm\"",
+          "description": "ca. 52m², helles, komfortables Zimmer ausgestattet mit hellen Vollholzmöbel und Wohnteil sowie mit Bad, Bidet, WC, Föhn, Bademäntel, Flachbildschirm-TV, Radio, Telefon, Safe, Minibar und mit Südbalkon oder Terrasse",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "147.00",
+          "maxPrice": "9999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "92.00",
+          "maxPrice": "246.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "84.33",
+          "maxPrice": "246.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "80.50",
+          "maxPrice": "246.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Bad, WC",
+      "description": "ca. 50m², großzügiges, elegantes und komfortables Zimmer mit Wohnteil, ausgestattet mit Bad, Bidet, WC, Föhn, Bademäntel, Flachbildschirm-TV, Radio, Telefon, Safe, Minibar und mit Südbalkon oder Terrasse",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer \"Tirol Süd\"",
+          "description": "ca. 50m², großzügiges, elegantes und komfortables Zimmer mit Wohnteil, ausgestattet mit Bad, Bidet, WC, Föhn, Bademäntel, Flachbildschirm-TV, Radio, Telefon, Safe, Minibar und mit Südbalkon oder Terrasse",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer \"Tirol Süd\" Sommerfrische Tage",
+          "description": "* 3 Übernachtungen inkl. Halbpension\n* Rosshütte Erlebnispaket (Standseilbahn \u0026 Gipfelbahnen, \n  Tasse Kaffee \u0026 ein Stück Kuchen)\n* 1 Ganzkörper Massage (Kinder ausgenommen)\n* Freie Benützung der Hotelfahrräder",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Pistengaudi Woche - Doppelzimmer \"Tirol Süd\" ",
+          "description": "Wedeln Sie auf dem „weißen Gold\" des Seefelder Skigebietes vom Gipfel hinab ins Tal! Über 25 km gepflegte Pisten versprechen echten Ski-Spaß!\n\n● 7 Übernachtungen inkl. Halbpension und aller Hochland-Hotelleistungen\n● 1 Spezial-Teilmassage *\n● 6 Tages Skipass\n\n*nur gültig für erwachsene Personen",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/5e20451f-af9e-4e6c-87e3-e15927eab33e/99/image.jpeg",
+              "caption": "Skifahren"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Winterzauber Woche - Doppelzimmer \"Tirol Süd\" ",
+          "description": "Erkunden Sie, als genussvoller Winterwanderer über 142 km bestens gepflegte Wanderwege\noder als sportlicher Langläufer auf 279 km ideal präparierten Loipen,\ndie verschneite Landschaft der „Olympiaregion Seefeld\"!\n\n● 7 Übernachtungen inkl. Halbpension und aller Hochland-Hotelleistungen\n● 1 Ganzkörpermassage*\n● 1 Spezial-Teilmassage*\n● kostenloser Loipenpass\n\n*nur gültig für erwachsene Personen\n",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/c26ff0af-310c-479c-861f-aad6e9e835f3/99/image.jpg",
+              "caption": "Langlaufen"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer \"Tirol Süd\" Langlaufpauschale ",
+          "description": "* 7 Übernachtungen inkl. Halbpension\n* 3 x Gruppenkurs zu 120 Min. (Montag-Mittwoch)\n* 1 x Privatunterricht zu 60 Min.\n* 1 Ganzkörpermassage\n* kostenloser Loipenpass",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Fit in den Frühling Tage -Doppelzimmer \"Tirol Süd\"",
+          "description": "Erleben Sie mit Freude an der Bewegung das Seefelder-Plateau in natürlicher Schönheit!\nRund 650km herrliche Wanderwege und Mountainbike-Routen führen Sie vorbei an saftigen Wiesen und satt-grünen Wäldern!\n\n● 3 Übernachtungen inkl. Halbpension\n● 25 min. Bewegungstest durch unseren Heilmasseur Herbert Frühwald*\n● 50 min. individuelle Körpertherapie*\n● Freie Benützung der Hotelfahrräder\n● Geführte Wanderungen (Mo. - Fr.)\n\n*nur gültig für Erwachsene\n\n* gültig nur für Erwachsene\n",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Fit in den Frühling Woche-Doppelzimmer \"Tirol Süd\"",
+          "description": "Erleben Sie mit Freude an der Bewegung das Seefelder-Plateau in natürlicher Schönheit!\nRund 650km herrliche Wanderwege und Mountainbike-Routen führen Sie vorbei an saftigen Wiesen und satt-grünen Wäldern!\n\n● 7 Übernachtungen inkl. Halbpension\n● 25 min. Bewegungstest durch unseren Heilmasseur*\n● 50 min. individuelle Körpertherapie*\n● 25 min. individuelle Körpertherapie zur Nachbehandlung*\n● Freie Benützung der Hotelfahrräder\n● Geführte Wanderungen (Mo. - Fr.)\n\n*nur gültig für Erwachsene\n\n",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Langlauf - Aber richtig! - Superior Süd",
+          "description": "Erlernen und verbessern Sie das Langlaufen von unserem Weltklasseathleten Martin Tauber und seinem Sportteam der Cross-Country-Academy\".\n\n● 7 Übernachtungen inkl. Halbpension und aller Hochland-Hotelleistungen\n● 3 x Gruppenkurs zu 120 Min. (Montag bis Mittwoch)\n● 1 x Privatunterricht 60 Min.\n● 1 x Ganzkörpermassage\n● kostenloser Loipenpass",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/a60eb00a-fa42-4bba-804f-ec2fcd1b6985/99/image.jpg",
+              "caption": "Langlauf"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Romantik \u0026 Balance - Superior Süd",
+          "description": "Lassen Sie sich bei einer romantischen Pferdeschlitten-Fahrt durch die märchenhafte Winterlandschaft verzaubern! Finden Sie zurück zur inneren Ruhe und schöpfen Sie neue Kräfte mit den energetischen Anwendungen unseres Heilmasseurs Herbert Frühwald!\n\n● 7 Übernachtungen inkl. Halbpension und aller Hochland-Hotelleistungen\n● romantische Pferdeschlittenfahrt\n● 50 Minuten Cranio-Sacrale-Therapie*\n● 25 Minuten Lymphdrainage*\n● kostenloser Loipenpass\n\n* gültig nur für Erwachsene",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Sommerfrische Woche - Doppelzimmer \"Tirol Süd\"",
+          "description": "Vom Frühling bis zum Herbst führen Sie 650 km markierte Wanderwege oder 200 km Mountainbike-Routen durch die beindruckende Landschaft. Erkunden und bestaunen Sie die Olympiaregion von den Gipfeln Seefelds.\n\n● 7 Übernachtungen inkl. Halbpension\n● Rosshütte Erlebnispaket (Standseilbahn \u0026 Gipfelbahnen, Tasse Kaffee und ein Stück Kuchen)\n● 1 Ganzkörpermassage*\n● 1 Spezial- Teilmassage*\n● Freie Benützung der Hotelfahrräder\n● Geführte Wanderungen (Mo. - Fr.)\n\n*nur gültig für Erwachsene\n",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Sommerfrische Tage - Doppelzimmer \"Tirol Süd\"",
+          "description": "Vom Frühling bis zum Herbst führen Sie 650 km markierte Wanderwege oder 200 km Mountainbike-Routen durch die beindruckende Landschaft. Erkunden und bestaunen Sie die Olympiaregion von den Gipfeln Seefelds.\n\n● 3 Übernachtungen inkl. Halbpension\n● Rosshütte Erlebnispaket (Standseilbahn \u0026 Gipfelbahnen, Tasse Kaffee und ein Stück Kuchen)\n● 1 Ganzkörpermassage*\n● Freie Benützung der Hotelfahrräder\n● Geführte Wanderungen (Mo. - Fr.)\n\n*nur gültig für Erwachsene\n",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Golden Golf - Doppelzimmer \"Tirol Süd\"",
+          "description": "Lassen Sie sich von den faszinierenden 9 \u0026 18-Loch-Plätzen von Seefeld, Mieming, Innsbruck und Umgebung inmitten der Tiroler Bergwelt verzaubern! Der Golfclub \"Seefeld Wildmoos\" ist Mitglied von \"The Leading Golf Courses\" und besticht jedesmal auf\u0027s Neue. Ein MUSS für jeden Golfer.\n\n● 7 Übernachtungen inkl. Halbpension\n● Golf-Alpin-Pass mit 5 Greenfees für alle Golfclubs von Seefeld, Mieming,Innsbruck und Umgebung*\n● 1 Ganzkörpermassage*\n\n*nur für Erwachsene",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/a23a4fdf-4de4-4ee6-940c-4bdd297e7519/99/image.jpg",
+              "caption": "Golf"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Birdie Time - Doppelzimmer \"Tirol Süd\"",
+          "description": "Lassen Sie sich von den faszinierenden 9 \u0026 18-Loch-Plätzen von Seefeld, Mieming, Innsbruck und Umgebung inmitten der Tiroler Bergwelt verzaubern! Der Golfclub \"Seefeld Wildmoos\" ist Mitglied von \"The Leading Golf Courses\" und besticht jedesmal auf\u0027s Neue. Ein MUSS für jeden Golfer!\n\n● 3 Übernachtungen inkl. Halbpension\n● Golf-Alpin-Pass mit 3 Greenfees für alle Golfclubs von Seefeld, Mieming, Innsbruck und Umgebung*\n● 1 Ganzkörpermassage*\n\n*nur für erwachsene Personen\n",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/4b0c02f5-0cb6-477e-bd4f-cc81978b5b4b/99/image.jpg",
+              "caption": "Golf"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "147.00",
+          "maxPrice": "9999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "89.50",
+          "maxPrice": "243.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "82.67",
+          "maxPrice": "243.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "79.25",
+          "maxPrice": "243.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "3000.00",
+          "maxPrice": "3000.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "3000.00",
+          "maxPrice": "3000.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "3000.00",
+          "maxPrice": "3000.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "3000.00",
+          "maxPrice": "3000.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "3000.00",
+          "maxPrice": "3000.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "3000.00",
+          "maxPrice": "3000.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "3000.00",
+          "maxPrice": "3000.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "3000.00",
+          "maxPrice": "3000.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "5000.00",
+          "maxPrice": "5000.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "5000.00",
+          "maxPrice": "5000.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Bad, WC",
+      "description": "ca. 50m², großzügiges, elegantes und komfortables Zimmer mit Wohnteil, ausgestattet mit Bad, Bidet, WC, Föhn, Bademäntel, Flachbildschirm-TV, Radio, Telefon, Safe, Minibar und mit Westbalkon oder Terrasse",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer \"Tirol West\"",
+          "description": "ca. 50m², großzügiges, elegantes und komfortables Zimmer mit Wohnteil, ausgestattet mit Bad, Bidet, WC, Föhn, Bademäntel, Flachbildschirm-TV, Radio, Telefon, Safe, Minibar und mit Westbalkon oder Terrasse",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Winterzauber Woche - Doppelzimmer \"Tirol West\" ",
+          "description": "Erkunden Sie, als genussvoller Winterwanderer über 142 km bestens gepflegte Wanderwege\noder als sportlicher Langläufer auf 279 km ideal präparierten Loipen,\ndie verschneite Landschaft der „Olympiaregion Seefeld\"!\n\n● 7 Übernachtungen inkl. Halbpension und aller Hochland-Hotelleistungen\n● 1 Ganzkörpermassage*\n● 1 Spezial-Teilmassage*\n● kostenloser Loipenpass\n\n*nur gültig für erwachsene Personen\n",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/0205d900-ddbd-49f6-b2be-c81be28acd4c/99/image.jpg",
+              "caption": "Langlauf"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Pistengaudi Woche - Doppelzimmer \"Tirol West\" ",
+          "description": "Wedeln Sie auf dem „weißen Gold\" des Seefelder Skigebietes vom Gipfel hinab ins Tal! Über 25 km gepflegte Pisten versprechen echten Ski-Spaß!\n\n● 7 Übernachtungen inkl. Halbpension und aller Hochland-Hotelleistungen\n● 1 Spezial-Teilmassage *\n● 6 Tages Skipass\n\n*nur gültig für erwachsene Personen\n",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/4c811f21-2b92-4823-b0e4-7285183a7b68/99/image.jpeg",
+              "caption": "Skifahren"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Langlauf-Aber richtig! - Superior West",
+          "description": "Erlernen und verbessern Sie das Langlaufen von unserem Weltklasseathleten Martin Tauber und seinem Sportteam der Cross-Country-Academy\".\n\n● 7 Übernachtungen inkl. Halbpension und aller Hochland-Hotelleistungen\n● 3 x Gruppenkurs zu 120 Min. (Montag bis Mittwoch)\n● 1 x Privatunterricht 60 Min.\n● 1 x Ganzkörpermassage\n● kostenloser Loipenpass",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Romantik \u0026 Balance - Superior West",
+          "description": "Lassen Sie sich bei einer romantischen Pferdeschlitten-Fahrt durch die märchenhafte Winterlandschaft verzaubern! Finden Sie zurück zur inneren Ruhe und schöpfen Sie neue Kräfte mit den energetischen Anwendungen unseres Heilmasseurs Herbert Frühwald!\n\n● 7 Übernachtungen inkl. Halbpension und aller Hochland-Hotelleistungen\n● romantische Pferdeschlittenfahrt\n● 50 Minuten Cranio-Sacrale-Therapie*\n● 25 Minuten Lymphdrainage*\n● kostenloser Loipenpass\n\n* gültig nur für Erwachsene",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Fit in den Frühling Woche - DZ \"Tirol West\"",
+          "description": "Erleben Sie mit Freude an der Bewegung das Seefelder-Plateau in natürlicher Schönheit! Rund 650km herrliche Wanderwege und Mountainbike-Routen führen Sie vorbei an saftigen Wiesen und satt-grünen Wäldern!\n\n● 7 Übernachtungen inkl. Halbpension\n● 25 min. Bewegungstest durch unseren Heilmasseur*\n● 50 min. individuelle Körpertherapie*\n● 25 min. individuelle Körpertherapie zur Nachbehandlung*\n● Freie Benützung der Hotelfahrräder\n● Geführte Wanderungen (Mo. - Fr.)\n\n*nur gültig für Erwachsene",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Fit in den Frühling Tage-Doppelzimmer \"Tirol West\"",
+          "description": "Erleben Sie mit Freude an der Bewegung das Seefelder-Plateau in natürlicher Schönheit!\nRund 650km herrliche Wanderwege und Mountainbike-Routen führen Sie vorbei an saftigen Wiesen und satt-grünen Wäldern!\n\n● 3 Übernachtungen inkl. Halbpension\n● 25 min. Bewegungstest durch unseren Heilmasseur Herbert Frühwald*\n● 50 min. individuelle Körpertherapie*\n● Freie Benützung der Hotelfahrräder\n● Geführte Wanderungen (Mo. - Fr.)\n\n*nur gültig für Erwachsene\n",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Sommerfrische Woche - Doppelzimmer \"Tirol West\"",
+          "description": "Vom Frühling bis zum Herbst führen Sie 650 km markierte Wanderwege oder 200 km Mountainbike-Routen durch die beindruckende Landschaft. Erkunden und bestaunen Sie die Olympiaregion von den Gipfeln Seefelds.\n\n● 7 Übernachtungen inkl. Halbpension\n● Rosshütte Erlebnispaket (Standseilbahn \u0026 Gipfelbahnen, Tasse Kaffee und ein Stück Kuchen)\n● 1 Ganzkörpermassage*\n● 1 Spezial- Teilmassage*\n● Freie Benützung der Hotelfahrräder\n● Geführte Wanderungen (Mo. - Fr.)\n\n*nur gültig für Erwachsene\n",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Sommerfrische Tage - Doppelzimmer \"Tirol West\"",
+          "description": "Vom Frühling bis zum Herbst führen Sie 650 km markierte Wanderwege oder 200 km Mountainbike-Routen durch die beindruckende Landschaft. Erkunden und bestaunen Sie die Olympiaregion von den Gipfeln Seefelds.\n\n● 3 Übernachtungen inkl. Halbpension\n● Rosshütte Erlebnispaket (Standseilbahn \u0026 Gipfelbahnen, Tasse Kaffee und ein Stück Kuchen)\n● 1 Ganzkörpermassage*\n● Freie Benützung der Hotelfahrräder\n● Geführte Wanderungen (Mo. - Fr.)\n\n*nur gültig für Erwachsene\n",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Golden Golf - Doppelzimmer \"Tirol West\"",
+          "description": "Lassen Sie sich von den faszinierenden 9 \u0026 18-Loch-Plätzen von Seefeld, Mieming, Innsbruck und Umgebung inmitten der Tiroler Bergwelt verzaubern! Der Golfclub \"Seefeld Wildmoos\" ist Mitglied von \"The Leading Golf Courses\" und besticht jedesmal auf\u0027s Neue. Ein MUSS für jeden Golfer!\n\n● 7 Übernachtungen inkl. Halbpension\n● Golf-Alpin-Pass mit 5 Greenfees für alle Golfclubs von Seefeld, Mieming,Innsbruck und Umgebung*\n● 1 Ganzkörpermassage*\n\n*nur für Erwachsene",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Birdie Time - Doppelzimmer \"Tirol West\"",
+          "description": "Lassen Sie sich von den faszinierenden 9 \u0026 18-Loch-Plätzen von Seefeld, Mieming, Innsbruck und Umgebung inmitten der Tiroler Bergwelt verzaubern! Der Golfclub \"Seefeld Wildmoos\" ist Mitglied von \"The Leading Golf Courses\" und besticht jedesmal auf\u0027s Neue. Ein MUSS für jeden Golfer!\n\n● 3 Übernachtungen inkl. Halbpension\n● Golf-Alpin-Pass mit 3 Greenfees für alle Golfclubs von Seefeld, Mieming, Innsbruck und Umgebung*\n● 1 Ganzkörpermassage*\n\n*nur für erwachsene Personen\n",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/52e58f1f-b4fb-4932-ae25-576762d75b90/99/image.jpg",
+              "caption": "Golfen"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "147.00",
+          "maxPrice": "9999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "92.00",
+          "maxPrice": "236.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "84.33",
+          "maxPrice": "236.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "80.50",
+          "maxPrice": "236.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "3000.00",
+          "maxPrice": "3000.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "3000.00",
+          "maxPrice": "3000.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "3000.00",
+          "maxPrice": "3000.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "3000.00",
+          "maxPrice": "3000.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "3000.00",
+          "maxPrice": "3000.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "3000.00",
+          "maxPrice": "3000.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "3000.00",
+          "maxPrice": "3000.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "3000.00",
+          "maxPrice": "3000.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "5000.00",
+          "maxPrice": "5000.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "5000.00",
+          "maxPrice": "5000.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Bad, WC",
+      "description": "ca. 36m², gemütliches Zimmer im charmanten Tiroler Stil mit Sitzecke, Bad, WC, Föhn, Bademäntel, Flachbildschirm-TV, Radio, Telefon, Safe und mit Südloggia oder Terrasse",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer \"Karwendel\"",
+          "description": "ca. 36m², gemütliches Zimmer im charmanten Tiroler Stil mit Sitzecke, Bad, WC, Föhn, Bademäntel, Flachbildschirm-TV, Radio, Telefon, Safe und mit Südloggia oder Terrasse",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer \"Karwendel\" Sommerfrische Wochen",
+          "description": "* 7 Übernachtungen inkl. Halbpension\n* Rosshütte Erlebnispaket (Standseilbahn \u0026 Gipfelbahnen, \n  Tasse Kaffee \u0026 ein Stück Kuchen)\n* 1 Ganzkörper Massage (Kinder ausgenommen)\n* 1 Spezial- Teilmassage (Kinder ausgenommen)\n* Freie Benützung der Hotelfahrräder",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer \"Karwendel\" Golden Golf",
+          "description": "* 7 Übernachtungen inkl. Halbpension\n* Golf-Alpin Pass mit 5 Greenfees für alle Golfclubs von Seefeld, Mieming, Innsbruck und Umgebung \n* 1 Ganzkörper Massage ",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Winterzauber Woche - Doppelzimmer \"Karwendel\" ",
+          "description": "Erkunden Sie, als genussvoller Winterwanderer über 142 km bestens gepflegte Wanderwege\noder als sportlicher Langläufer auf 279 km ideal präparierten Loipen,\ndie verschneite Landschaft der „Olympiaregion Seefeld\"!\n\n● 7 Übernachtungen inkl. Halbpension und aller Hochland-Hotelleistungen\n● 1 Ganzkörpermassage*\n● 1 Spezial-Teilmassage*\n● kostenloser Loipenpass\n\n*nur gültig für erwachsene Personen\n",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/f84c9eac-6c2d-4312-bc88-6cbbd642be77/99/image.jpeg",
+              "caption": "Skifahren"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Pistengaudi Woche - Doppelzimmer \"Karwendel\" ",
+          "description": "Wedeln Sie auf dem „weißen Gold\" des Seefelder Skigebietes vom Gipfel hinab ins Tal! Über 25 km gepflegte Pisten versprechen echten Ski-Spaß!\n\n● 7 Übernachtungen inkl. Halbpension und aller Hochland-Hotelleistungen\n● 1 Spezial-Teilmassage *\n● 6 Tages Skipass\n\n*nur gültig für erwachsene Personen\n",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/474b0074-c5c5-4877-a308-f9080e440ac3/99/image.jpeg",
+              "caption": "Pistengaudi"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Langlauf-Aber richtig! - Economy",
+          "description": "Erlernen und verbessern Sie das Langlaufen von unserem Weltklasseathleten Martin Tauber und seinem Sportteam der Cross-Country-Academy\".\n\n● 7 Übernachtungen inkl. Halbpension und aller Hochland-Hotelleistungen\n● 3 x Gruppenkurs zu 120 Min. (Montag bis Mittwoch)\n● 1 x Privatunterricht 60 Min.\n● 1 x Ganzkörpermassage\n● kostenloser Loipenpass",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Romantik \u0026 Balance - Economy ",
+          "description": "Lassen Sie sich bei einer romantischen Pferdeschlitten-Fahrt durch die märchenhafte Winterlandschaft verzaubern! Finden Sie zurück zur inneren Ruhe und schöpfen Sie neue Kräfte mit den energetischen Anwendungen unseres Heilmasseurs Herbert Frühwald!\n\n● 7 Übernachtungen inkl. Halbpension und aller Hochland-Hotelleistungen\n● romantische Pferdeschlittenfahrt\n● 50 Minuten Cranio-Sacrale-Therapie*\n● 25 Minuten Lymphdrainage*\n● kostenloser Loipenpass\n\n* gültig nur für Erwachsene\n",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Fit in den Frühling Woche-Doppelzimmer \"Karwendel\"",
+          "description": "Erleben Sie mit Freude an der Bewegung das Seefelder-Plateau in natürlicher Schönheit!\nRund 650km herrliche Wanderwege und Mountainbike-Routen führen Sie vorbei an saftigen Wiesen und satt-grünen Wäldern!\n\n● 7 Übernachtungen inkl. Halbpension\n● 25 min. Bewegungstest durch unseren Heilmasseur*\n● 50 min. individuelle Körpertherapie*\n● 25 min. individuelle Körpertherapie zur Nachbehandlung*\n● Freie Benützung der Hotelfahrräder\n● Geführte Wanderungen (Mo. - Fr.)\n\n*nur gültig für Erwachsene\n",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Fit in den Frühling Tage -Doppelzimmer \"Karwendel\"",
+          "description": "Erleben Sie mit Freude an der Bewegung das Seefelder-Plateau in natürlicher Schönheit!\nRund 650km herrliche Wanderwege und Mountainbike-Routen führen Sie vorbei an saftigen Wiesen und satt-grünen Wäldern!\n\n● 3 Übernachtungen inkl. Halbpension\n● 25 min. Bewegungstest durch unseren Heilmasseur Herbert Frühwald*\n● 50 min. individuelle Körpertherapie*\n● Freie Benützung der Hotelfahrräder\n● Geführte Wanderungen (Mo. - Fr.)\n\n*nur gültig für Erwachsene\n",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Sommerfrische Woche - Doppelzimmer \"Karwendel\"",
+          "description": "Vom Frühling bis zum Herbst führen Sie 650 km markierte Wanderwege oder 200 km Mountainbike-Routen durch die beindruckende Landschaft. Erkunden und bestaunen Sie die Olympiaregion von den Gipfeln Seefelds.\n\n● 7 Übernachtungen inkl. Halbpension\n● Rosshütte Erlebnispaket (Standseilbahn \u0026 Gipfelbahnen, Tasse Kaffee und ein Stück Kuchen)\n● 1 Ganzkörpermassage*\n● 1 Spezial- Teilmassage*\n● Freie Benützung der Hotelfahrräder\n● Geführte Wanderungen (Mo. - Fr.)\n\n*nur gültig für Erwachsene\n",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Sommerfrische Tage - Doppelzimmer \"Karwendel\"",
+          "description": "Vom Frühling bis zum Herbst führen Sie 650 km markierte Wanderwege oder 200 km Mountainbike-Routen durch die beindruckende Landschaft. Erkunden und bestaunen Sie die Olympiaregion von den Gipfeln Seefelds.\n\n● 3 Übernachtungen inkl. Halbpension\n● Rosshütte Erlebnispaket (Standseilbahn \u0026 Gipfelbahnen, Tasse Kaffee und ein Stück Kuchen)\n● 1 Ganzkörpermassage*\n● Freie Benützung der Hotelfahrräder\n● Geführte Wanderungen (Mo. - Fr.)\n\n*nur gültig für Erwachsene\n",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Golden Golf - Doppelzimmer \"Karwendel\"",
+          "description": "Lassen Sie sich von den faszinierenden 9 \u0026 18-Loch-Plätzen von Seefeld, Mieming, Innsbruck und Umgebung inmitten der Tiroler Bergwelt verzaubern! Der Golfclub \"Seefeld Wildmoos\" ist Mitglied von \"The Leading Golf Courses\" und besticht jedesmal auf\u0027s Neue. Ein MUSS für jeden Golfer!\n\n● 7 Übernachtungen inkl. Halbpension\n● Golf-Alpin-Pass mit 5 Greenfees für alle Golfclubs von Seefeld, Mieming,Innsbruck und Umgebung*\n● 1 Ganzkörpermassage*\n\n*nur für Erwachsene\n",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/7a9112d4-1c0c-42f1-9f7d-88b61d9a78a1/99/image.jpg",
+              "caption": "Golf"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Birdie Time - Doppelzimmer \"Karwendel\"",
+          "description": "Lassen Sie sich von den faszinierenden 9 \u0026 18-Loch-Plätzen von Seefeld, Mieming, Innsbruck und Umgebung inmitten der Tiroler Bergwelt verzaubern! Der Golfclub \"Seefeld Wildmoos\" ist Mitglied von \"The Leading Golf Courses\" und besticht jedesmal auf\u0027s Neue. Ein MUSS für jeden Golfer!\n\n● 3 Übernachtungen inkl. Halbpension\n● Golf-Alpin-Pass mit 3 Greenfees für alle Golfclubs von Seefeld, Mieming, Innsbruck und Umgebung*\n● 1 Ganzkörpermassage*\n\n*nur für erwachsene Personen\n",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/cf6da3c2-3e34-4ac3-8b34-c044902a0ec1/99/image.jpg",
+              "caption": "Golf"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "147.00",
+          "maxPrice": "9999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "92.00",
+          "maxPrice": "218.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "3000.00",
+          "maxPrice": "3000.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "3000.00",
+          "maxPrice": "3000.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "3000.00",
+          "maxPrice": "3000.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "3000.00",
+          "maxPrice": "3000.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "3000.00",
+          "maxPrice": "3000.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "3000.00",
+          "maxPrice": "3000.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "3000.00",
+          "maxPrice": "3000.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "3000.00",
+          "maxPrice": "3000.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "5000.00",
+          "maxPrice": "5000.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "5000.00",
+          "maxPrice": "5000.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche oder Bad, WC",
+      "description": "ca. 45m², gemütliches, geräumiges Zimmer im Tiroler Stil mit Wohnteil, Dusche, WC, Föhn, Bademäntel, Flachbildschirm TV, Radio, Telefon, Safe, Minibar und mit Südbalkon oder Terrasse",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer \"Seefeld\"",
+          "description": "ca. 45m², gemütliches, geräumiges Zimmer im Tiroler Stil mit Wohnteil, Dusche, WC, Föhn, Bademäntel, Flachbildschirm TV, Radio, Telefon, Safe, Minibar und mit Südbalkon oder Terrasse",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Winterzauber Woche - Doppelzimmer \"Seefeld\" ",
+          "description": "Erkunden Sie, als genussvoller Winterwanderer über 142 km bestens gepflegte Wanderwege\noder als sportlicher Langläufer auf 279 km ideal präparierten Loipen,\ndie verschneite Landschaft der „Olympiaregion Seefeld\"!\n\n● 7 Übernachtungen inkl. Halbpension und aller Hochland-Hotelleistungen\n● 1 Ganzkörpermassage*\n● 1 Spezial-Teilmassage*\n● kostenloser Loipenpass\n\n*nur gültig für erwachsene Personen\n",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/ac836f1e-2147-4118-9697-be1b48a87eca/99/image.jpg",
+              "caption": "Langlauf"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Pistengaudi Woche - Doppelzimmer \"Seefeld\" ",
+          "description": "Wedeln Sie auf dem „weißen Gold\" des Seefelder Skigebietes vom Gipfel hinab ins Tal! Über 25 km gepflegte Pisten versprechen echten Ski-Spaß!\n\n● 7 Übernachtungen inkl. Halbpension und aller Hochland-Hotelleistungen\n● 1 Spezial-Teilmassage *\n● 6 Tages Skipass\n\n*nur gültig für erwachsene Personen\n",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/e17d5885-c8b4-4c4a-b57d-337bb0fad38d/99/image.jpeg",
+              "caption": "Skifahren"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Fit in den Frühling Woche - Doppelzimmer \"Seefeld\"",
+          "description": "Erleben Sie mit Freude an der Bewegung das Seefelder-Plateau in natürlicher Schönheit!\nRund 650km herrliche Wanderwege und Mountainbike-Routen führen Sie vorbei an saftigen Wiesen und satt-grünen Wäldern!\n\n● 7 Übernachtungen inkl. Halbpension\n● 25 min. Bewegungstest durch unseren Heilmasseur*\n● 50 min. individuelle Körpertherapie*\n● 25 min. individuelle Körpertherapie zur Nachbehandlung*\n● Freie Benützung der Hotelfahrräder\n● Geführte Wanderungen (Mo. - Fr.)\n\n*nur gültig für Erwachsene\n",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Fit in den Frühling Tage - Doppelzimmer \"Seefeld\"",
+          "description": "Erleben Sie mit Freude an der Bewegung das Seefelder-Plateau in natürlicher Schönheit!\nRund 650km herrliche Wanderwege und Mountainbike-Routen führen Sie vorbei an saftigen Wiesen und satt-grünen Wäldern!\n\n● 3 Übernachtungen inkl. Halbpension\n● 25 min. Bewegungstest durch unseren Heilmasseur Herbert Frühwald*\n● 50 min. individuelle Körpertherapie*\n● Freie Benützung der Hotelfahrräder\n● Geführte Wanderungen (Mo. - Fr.)\n\n*nur gültig für Erwachsene\n",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Sommerfrische Woche - Doppelzimmer \"Seefeld\"",
+          "description": "Vom Frühling bis zum Herbst führen Sie 650 km markierte Wanderwege oder 200 km Mountainbike-Routen durch die beindruckende Landschaft. Erkunden und bestaunen Sie die Olympiaregion von den Gipfeln Seefelds.\n\n● 7 Übernachtungen inkl. Halbpension\n● Rosshütte Erlebnispaket (Standseilbahn \u0026 Gipfelbahnen, Tasse Kaffee und ein Stück Kuchen)\n● 1 Ganzkörpermassage*\n● 1 Spezial- Teilmassage*\n● Freie Benützung der Hotelfahrräder\n● Geführte Wanderungen (Mo. - Fr.)\n\n*nur gültig für Erwachsene\n",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Sommerfrische Tage - Doppelzimmer \"Seefeld\"",
+          "description": "Vom Frühling bis zum Herbst führen Sie 650 km markierte Wanderwege oder 200 km Mountainbike-Routen durch die beindruckende Landschaft. Erkunden und bestaunen Sie die Olympiaregion von den Gipfeln Seefelds.\n\n● 3 Übernachtungen inkl. Halbpension\n● Rosshütte Erlebnispaket (Standseilbahn \u0026 Gipfelbahnen, Tasse Kaffee und ein Stück Kuchen)\n● 1 Ganzkörpermassage*\n● Freie Benützung der Hotelfahrräder\n● Geführte Wanderungen (Mo. - Fr.)\n\n*nur gültig für Erwachsene\n",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Golden Golf - Doppelzimmer \"Seefeld\"",
+          "description": "Lassen Sie sich von den faszinierenden 9 \u0026 18-Loch-Plätzen von Seefeld, Mieming, Innsbruck und Umgebung inmitten der Tiroler Bergwelt verzaubern! Der Golfclub \"Seefeld Wildmoos\" ist Mitglied von \"The Leading Golf Courses\" und besticht jedesmal auf\u0027s Neue. Ein MUSS für jeden Golfer!\n\n● 7 Übernachtungen inkl. Halbpension\n● Golf-Alpin-Pass mit 5 Greenfees für alle Golfclubs von Seefeld, Mieming,Innsbruck und Umgebung*\n● 1 Ganzkörpermassage*\n\n*nur für Erwachsene\n",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/b416fc43-a71d-4014-9a62-4b65c235b94d/99/image.jpg",
+              "caption": "Wildmoos"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Birdie Time - Doppelzimmer \"Seefeld\"",
+          "description": "Lassen Sie sich von den faszinierenden 9 \u0026 18-Loch-Plätzen von Seefeld, Mieming, Innsbruck und Umgebung inmitten der Tiroler Bergwelt verzaubern! Der Golfclub \"Seefeld Wildmoos\" ist Mitglied von \"The Leading Golf Courses\" und besticht jedesmal auf\u0027s Neue. Ein MUSS für jeden Golfer!\n\n● 3 Übernachtungen inkl. Halbpension\n● Golf-Alpin-Pass mit 3 Greenfees für alle Golfclubs von Seefeld, Mieming, Innsbruck und Umgebung*\n● 1 Ganzkörpermassage*\n\n*nur für erwachsene Personen\n",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/f8a835da-f809-49b2-8479-1b72122a8ee0/99/image.jpg",
+              "caption": "Golf"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "147.00",
+          "maxPrice": "9999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "92.00",
+          "maxPrice": "236.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "84.33",
+          "maxPrice": "236.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "80.50",
+          "maxPrice": "236.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "3000.00",
+          "maxPrice": "3000.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "3000.00",
+          "maxPrice": "3000.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "3000.00",
+          "maxPrice": "3000.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "3000.00",
+          "maxPrice": "3000.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "3000.00",
+          "maxPrice": "3000.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "3000.00",
+          "maxPrice": "3000.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "5000.00",
+          "maxPrice": "5000.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "5000.00",
+          "maxPrice": "5000.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche oder Bad, WC",
+      "description": "ca. 28 - 30m², behagliches Zimmer mit ländlichen Charme, ausgestattet mit Dusche oder Bad, WC, Föhn, Bademäntel, Flachbildschirm-TV, Radio, Telefon, Safe und Westbalkon",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer \"Wetterstein\"",
+          "description": "ca. 28 - 30m², behagliches Zimmer mit ländlichen Charme, ausgestattet mit Dusche oder Bad, WC, Föhn, Bademäntel, Flachbildschirm-TV, Radio, Telefon, Safe und Westbalkon",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer \"Wetterstein\" Frischer Frühling Tage",
+          "description": "* 3 Übernachtungen mit Halbpension\n* 1 Ganzkörpermassage\n* Freie Benützung der Hotelfahrräder\n* Kostenlose Teilnahme am Aktivprogramm (geführte Wanderungen, Golfen, etc.)",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Winterzauber Woche - Doppelzimmer \"Wetterstein\" ",
+          "description": "Erkunden Sie, als genussvoller Winterwanderer über 142 km bestens gepflegte Wanderwege\noder als sportlicher Langläufer auf 279 km ideal präparierten Loipen,\ndie verschneite Landschaft der „Olympiaregion Seefeld\"!\n\n● 7 Übernachtungen inkl. Halbpension und aller Hochland-Hotelleistungen\n● 1 Ganzkörpermassage*\n● 1 Spezial-Teilmassage*\n● kostenloser Loipenpass\n\n*nur gültig für erwachsene Personen\n",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/706e575d-4f0e-4f79-b018-567b88a254be/99/image.jpg",
+              "caption": "Langlauf"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Pistengaudi Woche - Doppelzimmer \"Wetterstein\" ",
+          "description": "Wedeln Sie auf dem „weißen Gold\" des Seefelder Skigebietes vom Gipfel hinab ins Tal! Über 25 km gepflegte Pisten versprechen echten Ski-Spaß!\n\n● 7 Übernachtungen inkl. Halbpension und aller Hochland-Hotelleistungen\n● 1 Spezial-Teilmassage *\n● 6 Tages Skipass\n\n*nur gültig für erwachsene Personen\n",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/c21f2c4f-07e3-40e7-8b46-33ffaa7c11a7/99/image.jpeg",
+              "caption": "Skifahren"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Langlauf-Aber richtig! - Standard",
+          "description": "Erlernen und verbessern Sie das Langlaufen von unserem Weltklasseathleten Martin Tauber und seinem Sportteam der Cross-Country-Academy\".\n\n● 7 Übernachtungen inkl. Halbpension und aller Hochland-Hotelleistungen\n● 3 x Gruppenkurs zu 120 Min. (Montag bis Mittwoch)\n● 1 x Privatunterricht 60 Min.\n● 1 x Ganzkörpermassage\n● kostenloser Loipenpass\n",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Romantik \u0026 Balance - Standard",
+          "description": "Lassen Sie sich bei einer romantischen Pferdeschlitten-Fahrt durch die märchenhafte Winterlandschaft verzaubern! Finden Sie zurück zur inneren Ruhe und schöpfen Sie neue Kräfte mit den energetischen Anwendungen unseres Heilmasseurs Herbert Frühwald!\n\n● 7 Übernachtungen inkl. Halbpension und aller Hochland-Hotelleistungen\n● romantische Pferdeschlittenfahrt\n● 50 Minuten Cranio-Sacrale-Therapie*\n● 25 Minuten Lymphdrainage*\n● kostenloser Loipenpass\n\n* gültig nur für Erwachsene\n",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Fit in den Frühling Woche - DZ \"Wetterstein\"",
+          "description": "Erleben Sie mit Freude an der Bewegung das Seefelder-Plateau in natürlicher Schönheit!\nRund 650km herrliche Wanderwege und Mountainbike-Routen führen Sie vorbei an saftigen Wiesen und satt-grünen Wäldern!\n\n● 7 Übernachtungen inkl. Halbpension\n● 25 min. Bewegungstest durch unseren Heilmasseur*\n● 50 min. individuelle Körpertherapie*\n● 25 min. individuelle Körpertherapie zur Nachbehandlung*\n● Freie Benützung der Hotelfahrräder\n● Geführte Wanderungen (Mo. - Fr.)\n\n*nur gültig für Erwachsene\n",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Fit in den Frühling Tage - DZ \"Wetterstein\"",
+          "description": "Erleben Sie mit Freude an der Bewegung das Seefelder-Plateau in natürlicher Schönheit!\nRund 650km herrliche Wanderwege und Mountainbike-Routen führen Sie vorbei an saftigen Wiesen und satt-grünen Wäldern!\n\n● 3 Übernachtungen inkl. Halbpension\n● 25 min. Bewegungstest durch unseren Heilmasseur Herbert Frühwald*\n● 50 min. individuelle Körpertherapie*\n● Freie Benützung der Hotelfahrräder\n● Geführte Wanderungen (Mo. - Fr.)\n\n*nur gültig für Erwachsene\n",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Sommerfrische Woche - Doppelzimmer \"Wetterstein\"",
+          "description": "Vom Frühling bis zum Herbst führen Sie 650 km markierte Wanderwege oder 200 km Mountainbike-Routen durch die beindruckende Landschaft. Erkunden und bestaunen Sie die Olympiaregion von den Gipfeln Seefelds.\n\n● 7 Übernachtungen inkl. Halbpension\n● Rosshütte Erlebnispaket (Standseilbahn \u0026 Gipfelbahnen, Tasse Kaffee und ein Stück Kuchen)\n● 1 Ganzkörpermassage*\n● 1 Spezial- Teilmassage*\n● Freie Benützung der Hotelfahrräder\n● Geführte Wanderungen (Mo. - Fr.)\n\n*nur gültig für Erwachsene\n",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Sommerfrische Tage - Doppelzimmer \"Wetterstein\"",
+          "description": "Vom Frühling bis zum Herbst führen Sie 650 km markierte Wanderwege oder 200 km Mountainbike-Routen durch die beindruckende Landschaft. Erkunden und bestaunen Sie die Olympiaregion von den Gipfeln Seefelds.\n\n● 3 Übernachtungen inkl. Halbpension\n● Rosshütte Erlebnispaket (Standseilbahn \u0026 Gipfelbahnen, Tasse Kaffee und ein Stück Kuchen)\n● 1 Ganzkörpermassage*\n● Freie Benützung der Hotelfahrräder\n● Geführte Wanderungen (Mo. - Fr.)\n\n*nur gültig für Erwachsene\n",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "80.00",
+          "maxPrice": "198.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "914.00",
+          "maxPrice": "914.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "3000.00",
+          "maxPrice": "3000.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "1020.00",
+          "maxPrice": "1020.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "941.00",
+          "maxPrice": "941.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "624.00",
+          "maxPrice": "624.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "304.00",
+          "maxPrice": "304.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "707.00",
+          "maxPrice": "707.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "335.00",
+          "maxPrice": "335.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Suite, Dusche und Bad, WC",
+      "description": "ca. 110-120m², größzügige, komfortable und elegant eingerichtete Suite mit einem Wohnzimmer, Schlafzimmer mit Doppelbett, 1 Schlafzimmer mit 2 Betten und ein Einzelzimmer sowie 2 Badezimmer mit Bad, WC, Bidet, Dusche, Föhn, Bademäntel. Teeküche mit Kühlschrank, zwei Flachbildschirm-TV, Radio, Telefon, Safe und mit sonniger Dachterrasse und West- oder Südbalkon",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Suite \"Tirol\"",
+          "description": "ca. 110-120m², größzügige, komfortable und elegant eingerichtete Suite mit einem Wohnzimmer, Schlafzimmer mit Doppelbett, 1 Schlafzimmer mit 2 Betten und ein Einzelzimmer sowie 2 Badezimmer mit Bad, WC, Bidet, Dusche, Föhn, Bademäntel. Teeküche mit Kühlschrank, zwei Flachbildschirm-TV, Radio, Telefon, Safe und mit sonniger Dachterrasse und West- oder Südbalkon",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Suite \"Tirol\" Golden Golf",
+          "description": "* 7 Übernachtungen inkl. Halbpension\n* Golf-Alpin Pass mit 5 Greenfees für alle Golfclubs von Seefeld, Mieming, Innsbruck und Umgebung (Kinder ausgenommen)\n* 1 Ganzkörper Massage (Kinder ausgenommen)",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Winterzauber Woche - Suite \"Tirol\" ",
+          "description": "Erkunden Sie, als genussvoller Winterwanderer über 142 km bestens gepflegte Wanderwege\noder als sportlicher Langläufer auf 279 km ideal präparierten Loipen,\ndie verschneite Landschaft der „Olympiaregion Seefeld\"!\n\n● 7 Übernachtungen inkl. Halbpension und aller Hochland-Hotelleistungen\n● 1 Ganzkörpermassage*\n● 1 Spezial-Teilmassage*\n● kostenloser Loipenpass\n\n*nur gültig für erwachsene Personen\n",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/d10ab951-7e9f-4aea-97ec-1e299752846c/99/image.jpg",
+              "caption": "Loipen"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Pistengaudi Woche - Suite \"Tirol\" ",
+          "description": "Wedeln Sie auf dem „weißen Gold\" des Seefelder Skigebietes vom Gipfel hinab ins Tal! Über 25 km gepflegte Pisten versprechen echten Ski-Spaß!\n\n● 7 Übernachtungen inkl. Halbpension und aller Hochland-Hotelleistungen\n● 1 Spezial-Teilmassage *\n● 6 Tages Skipass\n\n*nur gültig für erwachsene Personen\n",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/1ddd53ac-323f-493f-add5-f38ce9fee8d4/99/image.jpeg",
+              "caption": "Pisten"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Romantik \u0026 Balance - Suite",
+          "description": "Lassen Sie sich bei einer romantischen Pferdeschlitten-Fahrt durch die märchenhafte Winterlandschaft verzaubern! Finden Sie zurück zur inneren Ruhe und schöpfen Sie neue Kräfte mit den energetischen Anwendungen unseres Heilmasseurs Herbert Frühwald!\n\n● 7 Übernachtungen inkl. Halbpension und aller Hochland-Hotelleistungen\n● romantische Pferdeschlittenfahrt\n● 50 Minuten Cranio-Sacrale-Therapie*\n● 25 Minuten Lymphdrainage*\n● kostenloser Loipenpass\n\n* gültig nur für Erwachsene\n",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Fit in den Frühling Woche - Suite \"Tirol\"",
+          "description": "Erleben Sie mit Freude an der Bewegung das Seefelder-Plateau in natürlicher Schönheit!\nRund 650km herrliche Wanderwege und Mountainbike-Routen führen Sie vorbei an saftigen Wiesen und satt-grünen Wäldern!\n\n● 7 Übernachtungen inkl. Halbpension\n● 25 min. Bewegungstest durch unseren Heilmasseur*\n● 50 min. individuelle Körpertherapie*\n● 25 min. individuelle Körpertherapie zur Nachbehandlung*\n● Freie Benützung der Hotelfahrräder\n● Geführte Wanderungen (Mo. - Fr.)\n\n*nur gültig für Erwachsene\n",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Fit in den Frühling Tage - Suite \"Tirol\"",
+          "description": "Erleben Sie mit Freude an der Bewegung das Seefelder-Plateau in natürlicher Schönheit!\nRund 650km herrliche Wanderwege und Mountainbike-Routen führen Sie vorbei an saftigen Wiesen und satt-grünen Wäldern!\n\n● 3 Übernachtungen inkl. Halbpension\n● 25 min. Bewegungstest durch unseren Heilmasseur Herbert Frühwald*\n● 50 min. individuelle Körpertherapie*\n● Freie Benützung der Hotelfahrräder\n● Geführte Wanderungen (Mo. - Fr.)\n\n*nur gültig für Erwachsene\n",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Sommerfrische Woche - Suite \"Tirol\"",
+          "description": "Vom Frühling bis zum Herbst führen Sie 650 km markierte Wanderwege oder 200 km Mountainbike-Routen durch die beindruckende Landschaft. Erkunden und bestaunen Sie die Olympiaregion von den Gipfeln Seefelds.\n\n● 7 Übernachtungen inkl. Halbpension\n● Rosshütte Erlebnispaket (Standseilbahn \u0026 Gipfelbahnen, Tasse Kaffee und ein Stück Kuchen)\n● 1 Ganzkörpermassage*\n● 1 Spezial- Teilmassage*\n● Freie Benützung der Hotelfahrräder\n● Geführte Wanderungen (Mo. - Fr.)\n\n*nur gültig für Erwachsene\n",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Sommerfrische Tage - Suite \"Tirol\"",
+          "description": "Vom Frühling bis zum Herbst führen Sie 650 km markierte Wanderwege oder 200 km Mountainbike-Routen durch die beindruckende Landschaft. Erkunden und bestaunen Sie die Olympiaregion von den Gipfeln Seefelds.\n\n● 3 Übernachtungen inkl. Halbpension\n● Rosshütte Erlebnispaket (Standseilbahn \u0026 Gipfelbahnen, Tasse Kaffee und ein Stück Kuchen)\n● 1 Ganzkörpermassage*\n● Freie Benützung der Hotelfahrräder\n● Geführte Wanderungen (Mo. - Fr.)\n\n*nur gültig für Erwachsene\n",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Golden Golf - Suite \"Tirol\"",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/7d25906b-e278-458e-8df1-41654c7cf076/99/image.jpg",
+              "caption": "Golf"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Birdie Time - Suite \"Tirol\"",
+          "description": "Lassen Sie sich von den faszinierenden 9 \u0026 18-Loch-Plätzen von Seefeld, Mieming, Innsbruck und Umgebung inmitten der Tiroler Bergwelt verzaubern! Der Golfclub \"Seefeld Wildmoos\" ist Mitglied von \"The Leading Golf Courses\" und besticht jedesmal auf\u0027s Neue. Ein MUSS für jeden Golfer!\n\n● 3 Übernachtungen inkl. Halbpension\n● Golf-Alpin-Pass mit 3 Greenfees für alle Golfclubs von Seefeld, Mieming, Innsbruck und Umgebung*\n● 1 Ganzkörpermassage*\n\n*nur für erwachsene Personen\n",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/2cd20e26-02f4-4751-9527-02a519876781/99/image.jpg",
+              "caption": "Golf"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "122.00",
+          "maxPrice": "264.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "104.33",
+          "maxPrice": "262.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "95.50",
+          "maxPrice": "262.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "90.20",
+          "maxPrice": "262.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "1652.00",
+          "maxPrice": "1652.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "1652.00",
+          "maxPrice": "1652.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "1652.00",
+          "maxPrice": "1652.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "1652.00",
+          "maxPrice": "1652.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "3000.00",
+          "maxPrice": "3000.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "3000.00",
+          "maxPrice": "3000.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "3000.00",
+          "maxPrice": "3000.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "3000.00",
+          "maxPrice": "3000.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "3000.00",
+          "maxPrice": "3000.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "3000.00",
+          "maxPrice": "3000.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "3000.00",
+          "maxPrice": "3000.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "3000.00",
+          "maxPrice": "3000.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "3000.00",
+          "maxPrice": "3000.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "3000.00",
+          "maxPrice": "3000.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "3000.00",
+          "maxPrice": "3000.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "3000.00",
+          "maxPrice": "3000.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "3000.00",
+          "maxPrice": "3000.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "3000.00",
+          "maxPrice": "3000.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "3000.00",
+          "maxPrice": "3000.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "3000.00",
+          "maxPrice": "3000.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "3000.00",
+          "maxPrice": "3000.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "3000.00",
+          "maxPrice": "3000.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "3000.00",
+          "maxPrice": "3000.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "3000.00",
+          "maxPrice": "3000.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "3000.00",
+          "maxPrice": "3000.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "3000.00",
+          "maxPrice": "3000.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "3000.00",
+          "maxPrice": "3000.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "3000.00",
+          "maxPrice": "3000.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "5000.00",
+          "maxPrice": "5000.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "5000.00",
+          "maxPrice": "5000.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "5000.00",
+          "maxPrice": "5000.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "5000.00",
+          "maxPrice": "5000.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "5000.00",
+          "maxPrice": "5000.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "5000.00",
+          "maxPrice": "5000.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "5000.00",
+          "maxPrice": "5000.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "5000.00",
+          "maxPrice": "5000.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Junior Suite, Dusche, WC",
+      "description": "ca. 55-60m², gemütliche Suite im Tiroler Stil mit Schlafzimmer und abgetrennten Wohnzimmer ausgestattet mit Dusche, WC getrennt, Bidet, Föhn, Bademäntel, Flachbildschirm TV, Radio, Telefon, Safe, Minibar und mit Südbalkon oder Terrasse",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Juniorsuite \"Seefeld\"",
+          "description": "ca. 55-60m², gemütliche Suite im Tiroler Stil mit Schlafzimmer und abgetrennten Wohnzimmer ausgestattet mit Dusche, WC getrennt, Bidet, Föhn, Bademäntel, 2 Flachbildschirm TV, Radio, Telefon, Safe, Minibar und mit Südbalkon oder Terrasse",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Winterzauber Woche - Juniorsuite \"Seefeld\" ",
+          "description": "Erkunden Sie, als genussvoller Winterwanderer über 142 km bestens gepflegte Wanderwege\noder als sportlicher Langläufer auf 279 km ideal präparierten Loipen,\ndie verschneite Landschaft der „Olympiaregion Seefeld\"!\n\n● 7 Übernachtungen inkl. Halbpension und aller Hochland-Hotelleistungen\n● 1 Ganzkörpermassage*\n● 1 Spezial-Teilmassage*\n● kostenloser Loipenpass\n\n*nur gültig für erwachsene Personen\n",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/12d0cc85-515f-4aac-9da1-3053fe42b0c8/99/image.jpg",
+              "caption": "Langlauf"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Pistengaudi Woche - Juniorsuite \"Seefeld\" ",
+          "description": "Wedeln Sie auf dem „weißen Gold\" des Seefelder Skigebietes vom Gipfel hinab ins Tal! Über 25 km gepflegte Pisten versprechen echten Ski-Spaß!\n\n● 7 Übernachtungen inkl. Halbpension und aller Hochland-Hotelleistungen\n● 1 Spezial-Teilmassage *\n● 6 Tages Skipass\n\n*nur gültig für erwachsene Personen\n",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/65ba6270-eba3-4af6-af23-f5929805622b/99/image.jpeg",
+              "caption": "Skifahren"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Langlauf-Aber richtig! Juniosuite",
+          "description": "Erlernen und verbessern Sie das Langlaufen von unserem Weltklasseathleten Martin Tauber und seinem Sportteam der Cross-Country-Academy\".\n\n● 7 Übernachtungen inkl. Halbpension und aller Hochland-Hotelleistungen\n● 3 x Gruppenkurs zu 120 Min. (Montag bis Mittwoch)\n● 1 x Privatunterricht 60 Min.\n● 1 x Ganzkörpermassage\n● kostenloser Loipenpass\n",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Romantik \u0026 Balance - Juniorsuite",
+          "description": "Lassen Sie sich bei einer romantischen Pferdeschlitten-Fahrt durch die märchenhafte Winterlandschaft verzaubern! Finden Sie zurück zur inneren Ruhe und schöpfen Sie neue Kräfte mit den energetischen Anwendungen unseres Heilmasseurs Herbert Frühwald!\n\n● 7 Übernachtungen inkl. Halbpension und aller Hochland-Hotelleistungen\n● romantische Pferdeschlittenfahrt\n● 50 Minuten Cranio-Sacrale-Therapie*\n● 25 Minuten Lymphdrainage*\n● kostenloser Loipenpass\n\n* gültig nur für Erwachsene\n",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Fit in den Frühling Woche - Juniorsuite \"Seefeld\"",
+          "description": "Erleben Sie mit Freude an der Bewegung das Seefelder-Plateau in natürlicher Schönheit!\nRund 650km herrliche Wanderwege und Mountainbike-Routen führen Sie vorbei an saftigen Wiesen und satt-grünen Wäldern!\n\n● 7 Übernachtungen inkl. Halbpension\n● 25 min. Bewegungstest durch unseren Heilmasseur*\n● 50 min. individuelle Körpertherapie*\n● 25 min. individuelle Körpertherapie zur Nachbehandlung*\n● Freie Benützung der Hotelfahrräder\n● Geführte Wanderungen (Mo. - Fr.)\n\n*nur gültig für Erwachsene\n",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Fit in den Frühling Tage - Juniorsuite \"Seefeld\"",
+          "description": "Erleben Sie mit Freude an der Bewegung das Seefelder-Plateau in natürlicher Schönheit!\nRund 650km herrliche Wanderwege und Mountainbike-Routen führen Sie vorbei an saftigen Wiesen und satt-grünen Wäldern!\n\n● 3 Übernachtungen inkl. Halbpension\n● 25 min. Bewegungstest durch unseren Heilmasseur Herbert Frühwald*\n● 50 min. individuelle Körpertherapie*\n● Freie Benützung der Hotelfahrräder\n● Geführte Wanderungen (Mo. - Fr.)\n\n*nur gültig für Erwachsene\n",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "3"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Sommerfrische Woche - Juniorsuite \"Seefeld\"",
+          "description": "Vom Frühling bis zum Herbst führen Sie 650 km markierte Wanderwege oder 200 km Mountainbike-Routen durch die beindruckende Landschaft. Erkunden und bestaunen Sie die Olympiaregion von den Gipfeln Seefelds.\n\n● 7 Übernachtungen inkl. Halbpension\n● Rosshütte Erlebnispaket (Standseilbahn \u0026 Gipfelbahnen, Tasse Kaffee und ein Stück Kuchen)\n● 1 Ganzkörpermassage*\n● 1 Spezial- Teilmassage*\n● Freie Benützung der Hotelfahrräder\n● Geführte Wanderungen (Mo. - Fr.)\n\n*nur gültig für Erwachsene\n",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Sommerfrische Tage - Juniorsuite \"Seefeld\"",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Golden Golf - Juniorsuite \"Seefeld\"",
+          "description": "Lassen Sie sich von den faszinierenden 9 \u0026 18-Loch-Plätzen von Seefeld, Mieming, Innsbruck und Umgebung inmitten der Tiroler Bergwelt verzaubern! Der Golfclub \"Seefeld Wildmoos\" ist Mitglied von \"The Leading Golf Courses\" und besticht jedesmal auf\u0027s Neue. Ein MUSS für jeden Golfer!\n\n● 7 Übernachtungen inkl. Halbpension\n● Golf-Alpin-Pass mit 5 Greenfees für alle Golfclubs von Seefeld, Mieming,Innsbruck und Umgebung*\n● 1 Ganzkörpermassage*\n\n*nur für Erwachsene\n",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/928f0570-b541-4b52-bed3-44e13c298d2b/99/image.jpg",
+              "caption": "Golf"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Birdie Time - Juniorsuite \"Seefeld\"",
+          "description": "Lassen Sie sich von den faszinierenden 9 \u0026 18-Loch-Plätzen von Seefeld, Mieming, Innsbruck und Umgebung inmitten der Tiroler Bergwelt verzaubern! Der Golfclub \"Seefeld Wildmoos\" ist Mitglied von \"The Leading Golf Courses\" und besticht jedesmal auf\u0027s Neue. Ein MUSS für jeden Golfer!\n\n● 3 Übernachtungen inkl. Halbpension\n● Golf-Alpin-Pass mit 3 Greenfees für alle Golfclubs von Seefeld, Mieming, Innsbruck und Umgebung*\n● 1 Ganzkörpermassage*\n\n*nur für erwachsene Personen\n",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/c388b687-afc5-40a6-8718-16d3e4d0a8c0/99/image.jpg",
+              "caption": "Golf"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "172.00",
+          "maxPrice": "9999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "108.00",
+          "maxPrice": "208.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "95.00",
+          "maxPrice": "206.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "88.50",
+          "maxPrice": "206.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "3000.00",
+          "maxPrice": "3000.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "3000.00",
+          "maxPrice": "3000.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "3000.00",
+          "maxPrice": "3000.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "3000.00",
+          "maxPrice": "3000.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "3000.00",
+          "maxPrice": "3000.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "3000.00",
+          "maxPrice": "3000.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "3000.00",
+          "maxPrice": "3000.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "3000.00",
+          "maxPrice": "3000.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "5000.00",
+          "maxPrice": "5000.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "5000.00",
+          "maxPrice": "5000.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Junior Suite, Dusche oder Bad, WC",
+      "description": "ca. 50m², großzügiges, elegantes und komfortables Zimmer mit Wohnteil und  separaten Einzelzimmer, ausgestattet mit Bad oder Dusche, Bidet, WC, Föhn, Bademäntel, Flachbildschirm-TV, Radio, Telefon, Safe, Minibar und mit Südbalkon oder Terrasse",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Juniorsuite \"Karwendel\"",
+          "description": "ca. 50m², großzügiges, elegantes und komfortables Zimmer mit Wohnteil und separaten Einzelzimmer, ausgestattet mit Bad oder Dusche, Bidet, WC, Föhn, Bademäntel, Flachbildschirm-TV, Radio, Telefon, Safe, Minibar und mit Südbalkon oder Terrasse",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "108.00",
+          "maxPrice": "412.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "95.00",
+          "maxPrice": "412.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "88.50",
+          "maxPrice": "412.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Junior Suite, Bad, WC",
+      "description": "ca. 53m², großzügiges, elegantes und komfortables Doppelzimmer mit Wohnteil und Einzelzimmer im Eingangsbereich, ausgestattet mit Bad, Bidet, WC, Föhn, Bademäntel, Flachbildschirm-TV, Radio, Telefon, Safe, Minibar und mit Westbalkon",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Juniorsuite \"Geigenbühel\"",
+          "description": "ca. 53m², großzügiges, elegantes und komfortables Doppelzimmer mit Wohnteil und Einzelzimmer im Eingangsbereich, ausgestattet mit Bad, Bidet, WC, Föhn, Bademäntel, Flachbildschirm-TV, Radio, Telefon, Safe, Minibar und mit Westbalkon",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "108.00",
+          "maxPrice": "192.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "95.00",
+          "maxPrice": "190.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "88.50",
+          "maxPrice": "190.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "84.60",
+          "maxPrice": "190.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Junior Suite, Dusche und Bad, WC",
+      "description": "ca. 80m², größzügige, komfortable Familiensuite mit einem Doppelzimmer mit Wohnteil, einem Einzelbett im Durchgangsbereich und ein Doppelzimmer mit Sitzecke, sowie 2 Badezimmer mit Bad, WC, Bidet, Dusche, Föhn, Bademäntel. Zwei  Flachbildschirm-TV, Radio, Telefon, Safe, Minibar, West- und Ostbalkon",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Juniorsuite \"Geigenbühel Familie\"",
+          "description": "ca. 80m², großzügige, komfortable Familiensuite mit einem Doppelzimmer mit Wohnteil, einem Einzelbett im Durchgangsbereich und ein Doppelzimmer mit Sitzecke, sowie 2 Badezimmer mit Bad, WC, Bidet, Dusche, Föhn, Bademäntel. Zwei Flachbildschirm-TV, Radio, Telefon, Safe, Minibar, West- und Ostbalkon",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "122.00",
+          "maxPrice": "236.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "104.33",
+          "maxPrice": "234.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "95.50",
+          "maxPrice": "234.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "90.20",
+          "maxPrice": "234.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "86.67",
+          "maxPrice": "234.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Einzelzimmer, Dusche, WC",
+      "description": "ca. 18m², charmantes Zimmer mit Dusche, WC, Bidet, Föhn, Bademantel,  Flachbildschirm-TV, Radio, Telefon, Safe und Westbalkon",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Einzelzimmer \"Wildmoos\"",
+          "description": "ca. 18m², charmantes Zimmer mit Dusche, WC, Bidet, Föhn, Bademantel,  Flachbildschirm-TV, Radio, Telefon, Safe und Westbalkon",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Winterzauber Woche - Einzelzimmer \"Wildmoos\" ",
+          "description": "Erkunden Sie, als genussvoller Winterwanderer über 142 km bestens gepflegte Wanderwege\noder als sportlicher Langläufer auf 279 km ideal präparierten Loipen,\ndie verschneite Landschaft der „Olympiaregion Seefeld\"!\n\n● 7 Übernachtungen inkl. Halbpension und aller Hochland-Hotelleistungen\n● 1 Ganzkörpermassage*\n● 1 Spezial-Teilmassage*\n● kostenloser Loipenpass\n\n*nur gültig für erwachsene Personen\n",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/f21ae73a-55dc-4f9a-a4c5-6c44bd560ce9/99/image.jpg",
+              "caption": "Langlauf"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Pistengaudi Woche - Einzelzimmer \"Wildmoos\"",
+          "description": "Wedeln Sie auf dem „weißen Gold\" des Seefelder Skigebietes vom Gipfel hinab ins Tal! Über 25 km gepflegte Pisten versprechen echten Ski-Spaß!\n\n● 7 Übernachtungen inkl. Halbpension und aller Hochland-Hotelleistungen\n● 1 Spezial-Teilmassage *\n● 6 Tages Skipass\n\n*nur gültig für erwachsene Personen\n",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/3319c3a4-505b-45ce-a411-ca5a8f2da26e/99/image.jpeg",
+              "caption": "Piste"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Langlauf-Aber richtig! - Standard Single",
+          "description": "Erlernen und verbessern Sie das Langlaufen von unserem Weltklasseathleten Martin Tauber und seinem Sportteam der Cross-Country-Academy\".\n\n● 7 Übernachtungen inkl. Halbpension und aller Hochland-Hotelleistungen\n● 3 x Gruppenkurs zu 120 Min. (Montag bis Mittwoch)\n● 1 x Privatunterricht 60 Min.\n● 1 x Ganzkörpermassage\n● kostenloser Loipenpass\n",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Romantik \u0026 Balance - Standard Single",
+          "description": "Lassen Sie sich bei einer romantischen Pferdeschlitten-Fahrt durch die märchenhafte Winterlandschaft verzaubern! Finden Sie zurück zur inneren Ruhe und schöpfen Sie neue Kräfte mit den energetischen Anwendungen unseres Heilmasseurs Herbert Frühwald!\n\n● 7 Übernachtungen inkl. Halbpension und aller Hochland-Hotelleistungen\n● romantische Pferdeschlittenfahrt\n● 50 Minuten Cranio-Sacrale-Therapie*\n● 25 Minuten Lymphdrainage*\n● kostenloser Loipenpass\n\n* gültig nur für Erwachsene\n",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Fit in den Frühling Woche -Einzelzimmer \"Wildmoos\"",
+          "description": "Erleben Sie mit Freude an der Bewegung das Seefelder-Plateau in natürlicher Schönheit!\nRund 650km herrliche Wanderwege und Mountainbike-Routen führen Sie vorbei an saftigen Wiesen und satt-grünen Wäldern!\n\n● 7 Übernachtungen inkl. Halbpension\n● 25 min. Bewegungstest durch unseren Heilmasseur*\n● 50 min. individuelle Körpertherapie*\n● 25 min. individuelle Körpertherapie zur Nachbehandlung*\n● Freie Benützung der Hotelfahrräder\n● Geführte Wanderungen (Mo. - Fr.)\n\n*nur gültig für Erwachsene\n",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Fit in den Frühling Tage - Einzelzimmer \"Wildmoos\"",
+          "description": "Erleben Sie mit Freude an der Bewegung das Seefelder-Plateau in natürlicher Schönheit!\nRund 650km herrliche Wanderwege und Mountainbike-Routen führen Sie vorbei an saftigen Wiesen und satt-grünen Wäldern!\n\n● 3 Übernachtungen inkl. Halbpension\n● 25 min. Bewegungstest durch unseren Heilmasseur Herbert Frühwald*\n● 50 min. individuelle Körpertherapie*\n● Freie Benützung der Hotelfahrräder\n● Geführte Wanderungen (Mo. - Fr.)\n\n*nur gültig für Erwachsene\n",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Sommerfrische Woche - Einzelzimmer \"Wildmoos\"",
+          "description": "Vom Frühling bis zum Herbst führen Sie 650 km markierte Wanderwege oder 200 km Mountainbike-Routen durch die beindruckende Landschaft. Erkunden und bestaunen Sie die Olympiaregion von den Gipfeln Seefelds.\n\n● 7 Übernachtungen inkl. Halbpension\n● Rosshütte Erlebnispaket (Standseilbahn \u0026 Gipfelbahnen, Tasse Kaffee und ein Stück Kuchen)\n● 1 Ganzkörpermassage*\n● 1 Spezial- Teilmassage*\n● Freie Benützung der Hotelfahrräder\n● Geführte Wanderungen (Mo. - Fr.)\n\n*nur gültig für Erwachsene\n",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Sommerfrische Tage - Einzelzimmer \"Wildmoos\"",
+          "description": "Vom Frühling bis zum Herbst führen Sie 650 km markierte Wanderwege oder 200 km Mountainbike-Routen durch die beindruckende Landschaft. Erkunden und bestaunen Sie die Olympiaregion von den Gipfeln Seefelds.\n\n● 3 Übernachtungen inkl. Halbpension\n● Rosshütte Erlebnispaket (Standseilbahn \u0026 Gipfelbahnen, Tasse Kaffee und ein Stück Kuchen)\n● 1 Ganzkörpermassage*\n● Freie Benützung der Hotelfahrräder\n● Geführte Wanderungen (Mo. - Fr.)\n\n*nur gültig für Erwachsene\n",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Golden Golf - Einzelzimmer \"Wildmoos\"",
+          "description": "Lassen Sie sich von den faszinierenden 9 \u0026 18-Loch-Plätzen von Seefeld, Mieming, Innsbruck und Umgebung inmitten der Tiroler Bergwelt verzaubern! Der Golfclub \"Seefeld Wildmoos\" ist Mitglied von \"The Leading Golf Courses\" und besticht jedesmal auf\u0027s Neue. Ein MUSS für jeden Golfer!\n\n● 7 Übernachtungen inkl. Halbpension\n● Golf-Alpin-Pass mit 5 Greenfees für alle Golfclubs von Seefeld, Mieming,Innsbruck und Umgebung*\n● 1 Ganzkörpermassage*\n\n*nur für Erwachsene\n",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/9fa94e9f-3614-4b2f-aa3b-2cb5e6486cd7/99/image.jpg",
+              "caption": "Golf"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Birdie Time - Einzelzimmer \"Wildmoos\"",
+          "description": "Lassen Sie sich von den faszinierenden 9 \u0026 18-Loch-Plätzen von Seefeld, Mieming, Innsbruck und Umgebung inmitten der Tiroler Bergwelt verzaubern! Der Golfclub \"Seefeld Wildmoos\" ist Mitglied von \"The Leading Golf Courses\" und besticht jedesmal auf\u0027s Neue. Ein MUSS für jeden Golfer!\n\n● 3 Übernachtungen inkl. Halbpension\n● Golf-Alpin-Pass mit 3 Greenfees für alle Golfclubs von Seefeld, Mieming, Innsbruck und Umgebung*\n● 1 Ganzkörpermassage*\n\n*nur für erwachsene Personen\n",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/972f7ca9-d7f8-461d-8e64-de7d03a3dbcd/99/image.jpg",
+              "caption": "Golf"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "80.00",
+          "maxPrice": "9999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "921.00",
+          "maxPrice": "921.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "3000.00",
+          "maxPrice": "3000.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "3000.00",
+          "maxPrice": "3000.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "3000.00",
+          "maxPrice": "3000.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "3000.00",
+          "maxPrice": "3000.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "3000.00",
+          "maxPrice": "3000.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "3000.00",
+          "maxPrice": "3000.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "3000.00",
+          "maxPrice": "3000.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "5000.00",
+          "maxPrice": "5000.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "5000.00",
+          "maxPrice": "5000.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Einzelzimmer, Dusche oder Bad, WC",
+      "description": "ca. 25-28m², gemütliches Zimmer im charmanten Tiroler Stil mit Sitzecke, Dusche, WC, Föhn, Bademantel, Flachbildschirm-TV, Radio, Telefon, Safe und mit Westbalkon",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Einzelzimmer \"Hohe Munde\"",
+          "description": "ca. 25-28m², gemütliches Zimmer im charmanten Tiroler Stil mit Sitzecke, Dusche, WC, Föhn, Bademantel, Flachbildschirm-TV, Radio, Telefon, Safe und mit Westbalkon",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Winterzauber Woche - Einzelzimmer \"Hohe Munde\" ",
+          "description": "Erkunden Sie, als genussvoller Winterwanderer über 142 km bestens gepflegte Wanderwege\noder als sportlicher Langläufer auf 279 km ideal präparierten Loipen,\ndie verschneite Landschaft der „Olympiaregion Seefeld\"!\n\n● 7 Übernachtungen inkl. Halbpension und aller Hochland-Hotelleistungen\n● 1 Ganzkörpermassage*\n● 1 Spezial-Teilmassage*\n● kostenloser Loipenpass\n\n*nur gültig für erwachsene Personen\n",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/42fcef3b-9a5d-4bcd-8784-bc98ef418ab9/99/image.jpeg",
+              "caption": "Loipe"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Pistengaudi Woche - Einzelzimmer \"Hohe Munde\" ",
+          "description": "Wedeln Sie auf dem „weißen Gold\" des Seefelder Skigebietes vom Gipfel hinab ins Tal! Über 25 km gepflegte Pisten versprechen echten Ski-Spaß!\n\n● 7 Übernachtungen inkl. Halbpension und aller Hochland-Hotelleistungen\n● 1 Spezial-Teilmassage *\n● 6 Tages Skipass\n\n*nur gültig für erwachsene Personen\n",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/f2aefece-63c9-4f6a-b2c3-80eed7c81118/99/image.jpeg",
+              "caption": "Piste"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Langlauf-Aber richtig! - Economy Single",
+          "description": "Erlernen und verbessern Sie das Langlaufen von unserem Weltklasseathleten Martin Tauber und seinem Sportteam der Cross-Country-Academy\".\n\n● 7 Übernachtungen inkl. Halbpension und aller Hochland-Hotelleistungen\n● 3 x Gruppenkurs zu 120 Min. (Montag bis Mittwoch)\n● 1 x Privatunterricht 60 Min.\n● 1 x Ganzkörpermassage\n● kostenloser Loipenpass\n",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Romantik \u0026 Balance - Economy Single",
+          "description": "Lassen Sie sich bei einer romantischen Pferdeschlitten-Fahrt durch die märchenhafte Winterlandschaft verzaubern! Finden Sie zurück zur inneren Ruhe und schöpfen Sie neue Kräfte mit den energetischen Anwendungen unseres Heilmasseurs Herbert Frühwald!\n\n● 7 Übernachtungen inkl. Halbpension und aller Hochland-Hotelleistungen\n● romantische Pferdeschlittenfahrt\n● 50 Minuten Cranio-Sacrale-Therapie*\n● 25 Minuten Lymphdrainage*\n● kostenloser Loipenpass\n\n* gültig nur für Erwachsene\n",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Fit in den Frühling Woche - EZ \"Hohe Munde\"",
+          "description": "Erleben Sie mit Freude an der Bewegung das Seefelder-Plateau in natürlicher Schönheit!\nRund 650km herrliche Wanderwege und Mountainbike-Routen führen Sie vorbei an saftigen Wiesen und satt-grünen Wäldern!\n\n● 7 Übernachtungen inkl. Halbpension\n● 25 min. Bewegungstest durch unseren Heilmasseur*\n● 50 min. individuelle Körpertherapie*\n● 25 min. individuelle Körpertherapie zur Nachbehandlung*\n● Freie Benützung der Hotelfahrräder\n● Geführte Wanderungen (Mo. - Fr.)\n\n*nur gültig für Erwachsene\n",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Fit in den Frühling Tage - EZ \"Hohe Munde\"",
+          "description": "Erleben Sie mit Freude an der Bewegung das Seefelder-Plateau in natürlicher Schönheit!\nRund 650km herrliche Wanderwege und Mountainbike-Routen führen Sie vorbei an saftigen Wiesen und satt-grünen Wäldern!\n\n● 3 Übernachtungen inkl. Halbpension\n● 25 min. Bewegungstest durch unseren Heilmasseur Herbert Frühwald*\n● 50 min. individuelle Körpertherapie*\n● Freie Benützung der Hotelfahrräder\n● Geführte Wanderungen (Mo. - Fr.)\n\n*nur gültig für Erwachsene\n",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Sommerfrische Woche - Einzelzimmer \"Hohe Munde\"",
+          "description": "Vom Frühling bis zum Herbst führen Sie 650 km markierte Wanderwege oder 200 km Mountainbike-Routen durch die beindruckende Landschaft. Erkunden und bestaunen Sie die Olympiaregion von den Gipfeln Seefelds.\n\n● 7 Übernachtungen inkl. Halbpension\n● Rosshütte Erlebnispaket (Standseilbahn \u0026 Gipfelbahnen, Tasse Kaffee und ein Stück Kuchen)\n● 1 Ganzkörpermassage*\n● 1 Spezial- Teilmassage*\n● Freie Benützung der Hotelfahrräder\n● Geführte Wanderungen (Mo. - Fr.)\n\n*nur gültig für Erwachsene\n",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Sommerfrische Tage - Einzelzimmer \"Hohe Munde\"",
+          "description": "Vom Frühling bis zum Herbst führen Sie 650 km markierte Wanderwege oder 200 km Mountainbike-Routen durch die beindruckende Landschaft. Erkunden und bestaunen Sie die Olympiaregion von den Gipfeln Seefelds.\n\n● 3 Übernachtungen inkl. Halbpension\n● Rosshütte Erlebnispaket (Standseilbahn \u0026 Gipfelbahnen, Tasse Kaffee und ein Stück Kuchen)\n● 1 Ganzkörpermassage*\n● Freie Benützung der Hotelfahrräder\n● Geführte Wanderungen (Mo. - Fr.)\n\n*nur gültig für Erwachsene\n",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Golden Golf - Einzelzimmer \"Hohe Munde\"",
+          "description": "Lassen Sie sich von den faszinierenden 9 \u0026 18-Loch-Plätzen von Seefeld, Mieming, Innsbruck und Umgebung inmitten der Tiroler Bergwelt verzaubern! Der Golfclub \"Seefeld Wildmoos\" ist Mitglied von \"The Leading Golf Courses\" und besticht jedesmal auf\u0027s Neue. Ein MUSS für jeden Golfer!\n\n● 7 Übernachtungen inkl. Halbpension\n● Golf-Alpin-Pass mit 5 Greenfees für alle Golfclubs von Seefeld, Mieming,Innsbruck und Umgebung*\n● 1 Ganzkörpermassage*\n\n*nur für Erwachsene\n",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/22b36c25-38c4-4e5f-b7a9-1951605d3414/99/image.jpg",
+              "caption": "Golf"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Birdie Time - Einzelzimmer \"Hohe Munde\"",
+          "description": "Lassen Sie sich von den faszinierenden 9 \u0026 18-Loch-Plätzen von Seefeld, Mieming, Innsbruck und Umgebung inmitten der Tiroler Bergwelt verzaubern! Der Golfclub \"Seefeld Wildmoos\" ist Mitglied von \"The Leading Golf Courses\" und besticht jedesmal auf\u0027s Neue. Ein MUSS für jeden Golfer!\n\n● 3 Übernachtungen inkl. Halbpension\n● Golf-Alpin-Pass mit 3 Greenfees für alle Golfclubs von Seefeld, Mieming, Innsbruck und Umgebung*\n● 1 Ganzkörpermassage*\n\n*nur für erwachsene Personen\n",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/947e852c-a3b9-41b4-b3aa-a9b2097d57ba/99/image.jpg",
+              "caption": "Golf"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "92.00",
+          "maxPrice": "9999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "2000.00",
+          "maxPrice": "2000.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "3000.00",
+          "maxPrice": "3000.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "3000.00",
+          "maxPrice": "3000.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "3000.00",
+          "maxPrice": "3000.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "3000.00",
+          "maxPrice": "3000.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "3000.00",
+          "maxPrice": "3000.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "3000.00",
+          "maxPrice": "3000.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "3000.00",
+          "maxPrice": "3000.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "5000.00",
+          "maxPrice": "5000.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "5000.00",
+          "maxPrice": "5000.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Einzelzimmer, Dusche oder Bad, WC",
+      "description": "ca. 28m², behagliches Zimmer mit Dusche oder Bad, WC, Föhn, Bademantel, Flachbildschirm-TV, Radio, Telefon, Safe ohne Balkon",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Einzelzimmer \"Kirchwald\"",
+          "description": "ca. 28m², behagliches Zimmer mit Dusche oder Bad, WC, Föhn, Bademantel, Flachbildschirm-TV, Radio, Telefon, Safe, ohne Balkon",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Winterzauber Woche - Einzelzimmer \"Kirchwald\" ",
+          "description": "Erkunden Sie, als genussvoller Winterwanderer über 142 km bestens gepflegte Wanderwege\noder als sportlicher Langläufer auf 279 km ideal präparierten Loipen,\ndie verschneite Landschaft der „Olympiaregion Seefeld\"!\n\n● 7 Übernachtungen inkl. Halbpension und aller Hochland-Hotelleistungen\n● 1 Ganzkörpermassage*\n● 1 Spezial-Teilmassage*\n● kostenloser Loipenpass\n\n*nur gültig für erwachsene Personen\n",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/a01d7cd2-4a2b-47e0-ad7e-048f79a5cf4c/99/image.jpg",
+              "caption": "Loipe"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Pistengaudi Woche - Einzelzimmer \"Kirchwald\" ",
+          "description": "Wedeln Sie auf dem „weißen Gold\" des Seefelder Skigebietes vom Gipfel hinab ins Tal! Über 25 km gepflegte Pisten versprechen echten Ski-Spaß!\n\n● 7 Übernachtungen inkl. Halbpension und aller Hochland-Hotelleistungen\n● 1 Spezial-Teilmassage *\n● 6 Tages Skipass\n\n*nur gültig für erwachsene Personen\n",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/fcaaf8c5-7f46-478d-b9aa-56c5e272840d/99/image.jpeg",
+              "caption": "Piste"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Fit in den Frühling Woche - EZ \"Kirchwald\"",
+          "description": "Erleben Sie mit Freude an der Bewegung das Seefelder-Plateau in natürlicher Schönheit!\nRund 650km herrliche Wanderwege und Mountainbike-Routen führen Sie vorbei an saftigen Wiesen und satt-grünen Wäldern!\n\n● 7 Übernachtungen inkl. Halbpension\n● 25 min. Bewegungstest durch unseren Heilmasseur*\n● 50 min. individuelle Körpertherapie*\n● 25 min. individuelle Körpertherapie zur Nachbehandlung*\n● Freie Benützung der Hotelfahrräder\n● Geführte Wanderungen (Mo. - Fr.)\n\n*nur gültig für Erwachsene\n",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Fit in den Frühling Tage- Einzelzimmer \"Kirchwald\"",
+          "description": "Erleben Sie mit Freude an der Bewegung das Seefelder-Plateau in natürlicher Schönheit!\nRund 650km herrliche Wanderwege und Mountainbike-Routen führen Sie vorbei an saftigen Wiesen und satt-grünen Wäldern!\n\n● 3 Übernachtungen inkl. Halbpension\n● 25 min. Bewegungstest durch unseren Heilmasseur Herbert Frühwald*\n● 50 min. individuelle Körpertherapie*\n● Freie Benützung der Hotelfahrräder\n● Geführte Wanderungen (Mo. - Fr.)\n\n*nur gültig für Erwachsene\n",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Sommerfrische Woche - Einzelzimmer \"Kirchwald\"",
+          "description": "Vom Frühling bis zum Herbst führen Sie 650 km markierte Wanderwege oder 200 km Mountainbike-Routen durch die beindruckende Landschaft. Erkunden und bestaunen Sie die Olympiaregion von den Gipfeln Seefelds.\n\n● 7 Übernachtungen inkl. Halbpension\n● Rosshütte Erlebnispaket (Standseilbahn \u0026 Gipfelbahnen, Tasse Kaffee und ein Stück Kuchen)\n● 1 Ganzkörpermassage*\n● 1 Spezial- Teilmassage*\n● Freie Benützung der Hotelfahrräder\n● Geführte Wanderungen (Mo. - Fr.)\n\n*nur gültig für Erwachsene\n",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Sommerfrische Tage - Einzelzimmer \"Kirchwald\"",
+          "description": "Vom Frühling bis zum Herbst führen Sie 650 km markierte Wanderwege oder 200 km Mountainbike-Routen durch die beindruckende Landschaft. Erkunden und bestaunen Sie die Olympiaregion von den Gipfeln Seefelds.\n\n● 3 Übernachtungen inkl. Halbpension\n● Rosshütte Erlebnispaket (Standseilbahn \u0026 Gipfelbahnen, Tasse Kaffee und ein Stück Kuchen)\n● 1 Ganzkörpermassage*\n● Freie Benützung der Hotelfahrräder\n● Geführte Wanderungen (Mo. - Fr.)\n\n*nur gültig für Erwachsene\n",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Golden Golf - Einzelzimmer \"Kirchwald\"",
+          "description": "Lassen Sie sich von den faszinierenden 9 \u0026 18-Loch-Plätzen von Seefeld, Mieming, Innsbruck und Umgebung inmitten der Tiroler Bergwelt verzaubern! Der Golfclub \"Seefeld Wildmoos\" ist Mitglied von \"The Leading Golf Courses\" und besticht jedesmal auf\u0027s Neue. Ein MUSS für jeden Golfer!\n\n● 7 Übernachtungen inkl. Halbpension\n● Golf-Alpin-Pass mit 5 Greenfees für alle Golfclubs von Seefeld, Mieming,Innsbruck und Umgebung*\n● 1 Ganzkörpermassage*\n\n*nur für Erwachsene\n",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/64e3ae11-3680-4b53-a654-bd3d24661d4e/99/image.jpg",
+              "caption": "Golf"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Birdie Time - Einzelzimmer \"Kirchwald\"",
+          "description": "Lassen Sie sich von den faszinierenden 9 \u0026 18-Loch-Plätzen von Seefeld, Mieming, Innsbruck und Umgebung inmitten der Tiroler Bergwelt verzaubern! Der Golfclub \"Seefeld Wildmoos\" ist Mitglied von \"The Leading Golf Courses\" und besticht jedesmal auf\u0027s Neue. Ein MUSS für jeden Golfer!\n\n● 3 Übernachtungen inkl. Halbpension\n● Golf-Alpin-Pass mit 3 Greenfees für alle Golfclubs von Seefeld, Mieming, Innsbruck und Umgebung*\n● 1 Ganzkörpermassage*\n\n*nur für erwachsene Personen\n",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/4a520ba3-b44c-424d-b2c9-406acddbd827/99/image.jpg",
+              "caption": "Golf"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "88.00",
+          "maxPrice": "9999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "80.00",
+          "maxPrice": "161.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "3000.00",
+          "maxPrice": "3000.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "3000.00",
+          "maxPrice": "3000.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "3000.00",
+          "maxPrice": "3000.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "3000.00",
+          "maxPrice": "3000.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "3000.00",
+          "maxPrice": "3000.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "3000.00",
+          "maxPrice": "3000.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "3000.00",
+          "maxPrice": "3000.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "3000.00",
+          "maxPrice": "3000.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "3000.00",
+          "maxPrice": "3000.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "3000.00",
+          "maxPrice": "3000.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "3000.00",
+          "maxPrice": "3000.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "3000.00",
+          "maxPrice": "3000.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "5000.00",
+          "maxPrice": "5000.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "5000.00",
+          "maxPrice": "5000.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Einzelzimmer, Dusche, WC",
+      "description": "ca. 34m², helles, komfortables Zimmer ausgestattet mit hellen Vollholzmöbel und Sitzecke, Dusche, WC, Föhn, Bademantel, Flachbildschirm-TV, Radio, Telefon, Safe, Minibar und mit Ostbalkon",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Einzelzimmer \"Geigenbühel\"",
+          "description": "ca. 34m², helles, komfortables Zimmer ausgestattet mit hellen Vollholzmöbel und Sitzecke, Dusche, WC, Föhn, Bademantel, Flachbildschirm-TV, Radio, Telefon, Safe, Minibar und mit Ostbalkon",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "102.00",
+          "maxPrice": "9999.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "92.00",
+          "maxPrice": "194.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

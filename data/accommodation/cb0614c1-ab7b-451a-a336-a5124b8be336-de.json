@@ -1,0 +1,165 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Wiesenhof",
+    "streetAddress": "Feldweg 22",
+    "addressLocality": "Reith bei Seefeld",
+    "postalCode": "6103",
+    "addressCountry": "AT",
+    "telephone": "0043 69910024373",
+    "email": "martin.kluckner@gmail.com"
+  },
+  "name": "Wiesenhof",
+  "description": [
+    "In idyllischer Landschaft mit traumhafter Aussicht ist die Ferienwohnung in einem umgebauten urspr. Bauernhaus untergebracht. Hund und Hühner finden sich noch am Hof.\nLage: 18 km von Innsbruck und 6 km von Seefeld entfernt\nVermieter: Familie Kluckner Martin (Koch, Erwachsenentrainer, Bergwanderführer), Astrid (Dipl. Krankenschwester, Bergwanderführer), Elias und Emanuel (7 und 5)\nUnsere wild-romantisch gelegene Hütte am Gschwandtkopf ladet zum gemeinsamen Grillen, im Sommer zum Mitmachen bei der Heuernte und zum Wandern durch vielfältige und seltene Flora ein.\nMöglichkeiten in unmittelbarer Umgebung: wunderschöne Spazier- und Wanderwege, Ponyreiten beim Nachbarhof, gutbürgerliches Gasthaus 300m entfernt, geführte Wanderungen",
+    "Kinder von 0-3 Jahren sind frei, bitte geben Sie die Kinder nicht bei der Personenanzahl der Buchung an, sondern schreiben Sie uns ein Anfrage per E-Mail.\n\nInkl. Bettwäsche, Handtücher, Waschmaschinenbenützung\n\nHauseigene Produkte ab Hof: Brot - auch gemeinsames Backen möglich, Eier, Speck, Hauswürste, Marmeladen, Säfte, Liköre, saisonales Obst und Gemüse",
+    "Anreise von 15.00h bis 20.00h\nAbreise bis 10.00h\nSollte es Ihnen nicht möglich sein zu den angegebenen Zeiten An- bzw. Abzureisen bitten wir Sie uns dies mitzuteilen, wir werden uns sehr bemühen eine gemeinsame Lösung mit Ihnen zu finden.\nAnfahrt: www.google.at/maps/place/Feldweg+22,+6103+Reith+bei+Seefeld/@47.2891834,11.2199907,17z/data\u003d!3m1!4b1!4m2!3m1!1s0x479d140906b440a7:0x58d6534c173cf791"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/15359e17-8ba0-4193-9a39-b91a24931379/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6ab117a3-eade-49ce-bf6f-f7361ef97e35/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9838dbf5-c63a-4c4b-a05e-2ea4fed98215/99/image.jpg",
+      "caption": "Unsere Alm"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/61833e2e-2edf-41bb-b13b-1c1c9a807edd/99/image.jpg",
+      "caption": "Unser Hund"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e193691f-26da-4ee4-813f-b17a19f2cdef/99/image.jpg",
+      "caption": "Unsere Hühner"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2891943160274",
+    "longitude": "11.2222330441803"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 2 Schlafräume",
+      "description": "Wohnung: 2 Schlafzimmer, großzügige Wohnküche mit Kachelofen, Badezimmer mit Dusche und Eckbadewanne, separates WC, Terrasse zur gemeinsamen Nutzung, reichlich Spielmöglichkeiten rund ums Haus, Autoabstellplätze vorhanden",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement/Fewo, Dusche und Bad, WC, 2 Schlafräum",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Hüttenwanderung",
+          "description": "Wir freuen uns, Sie 7 Tage bei uns willkommen zu heißen und mit Ihnen eine gemütliche Wanderung auf unsere wild-romantisch gelegene Hütte zu machen.\nVielfältige und seltene Flora und die einzigartige Stimmung der Lärchenwiesen laden zum Erholen und Entspannen ein. ",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/f989f8b2-c475-45aa-bdec-393a898cd71d/99/image.jpg",
+              "caption": "Hütte"
+            },
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/5855d243-06e0-4ded-b09a-10241b33ecb5/99/image.jpg",
+              "caption": "Hütte 2"
+            }
+          ],
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "58.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "0.00",
+          "maxPrice": "75.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "0.00",
+          "maxPrice": "90.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "0.00",
+          "maxPrice": "102.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "390.00",
+          "maxPrice": "390.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "437.00",
+          "maxPrice": "437.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "492.00",
+          "maxPrice": "492.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "547.00",
+          "maxPrice": "547.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

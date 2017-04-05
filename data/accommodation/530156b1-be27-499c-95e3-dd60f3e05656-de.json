@@ -1,0 +1,78 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Frank - Appartement Maria",
+    "streetAddress": "Leutascherstr. 596 / Top 7",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 699 17866781",
+    "email": "info@holiday-seefeld.at",
+    "url": "http://www.holiday-seefeld.at"
+  },
+  "name": "Haus Frank - App. Maria / Top 7",
+  "description": "Ortsbeschreibung: Appartementhaus \"Frank\". 400 m vom Zentrum, zentrale, ruhige, sonnige Lage, 500 m vom Skigebiet. Im Hause: Skiraum, Zentralheizung. Zufahrt bis zum Haus. Parkplatz beim Haus. Supermarkt 500 m, Restaurant 200 m, Fußgängerzone 500 m, Bahnstation 1 km, Freibad, Hallenbad 600 m, Badesee \"Wildsee\" 1,4 km. Golfplatz 1.4 km, stoppen Tennisclub 700 m, Sportzentrum 600 m, Luftseilbahn 1.7 km, Skilift 500 m, Skibushaltestelle 400 m",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "reviewCount": "10"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a769304d-c0a3-48c0-a911-21c3660ab64b/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f85313a6-014e-4d95-968c-2676177bdd18/99/image.jpg",
+      "caption": "Olympia Seefeld"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3329912255476",
+    "longitude": "11.1798326656067"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, Balkon",
+      "description": "2-Zimmer-Wohnung 53 m2, im Erdgeschoss, gemütlich eingerichtet: Wohn-/ Schlafraum mit 1 Diwanbett und 1 franz. Bett (160 cm, Länge 200 cm), Essecke und Sat-TV (Flachbildschirm). Ausgang zur Terrasse. 1 Doppelzimmer mit Sat-TV. Kleine Küche (2 Kochplatten, Mikrowelle). Dusche / WC. Terrasse: Richtung Osten. Terrassenmöbel. Schöne Sicht auf die Berge, die Skipiste und die Landschaft. Bitte beachten: geeignet für Familien. Nichtraucher.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement/Fewo, Dusche, WC, Balkon",
+          "description": "Ortsbeschreibung: Appartementhaus \"Frank\". 400 m vom Zentrum, zentrale, ruhige, sonnige Lage, 500 m vom Skigebiet. Im Hause: Skiraum, Zentralheizung. Zufahrt bis zum Haus. Parkplatz beim Haus. Supermarkt 500 m, Restaurant 200 m, Fußgängerzone 500 m, Bahnstation 1 km, Freibad, Hallenbad 600 m, Badesee \"Wildsee\" 1,4 km. Golfplatz 1.4 km, stoppen Tennisclub 700 m, Sportzentrum 600 m, Luftseilbahn 1.7 km, Skilift 500 m, Skibushaltestelle 400 m",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "60.00",
+          "maxPrice": "60.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

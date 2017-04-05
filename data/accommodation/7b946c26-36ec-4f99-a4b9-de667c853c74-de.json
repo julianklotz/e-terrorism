@@ -1,0 +1,500 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.gasthof-dorfkrug.com",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Appartements Dorfkrug",
+    "streetAddress": "Möserer Dorfstraße 32",
+    "addressLocality": "Mösern",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "+4352124766",
+    "faxNumber": "+435212476657",
+    "email": "info@gasthof-dorfkrug.com",
+    "url": "http://www.gasthof-dorfkrug.com"
+  },
+  "name": "Appartements Dorfkrug",
+  "description": [
+    "Am Ortsrand von Mösern - umgeben von Wiesen und Wäldern. Herrlich ruhige Lage mit Blick über das Inntal. Loipeneinstieg vor dem Haus. Skiliftnähe, Mountainbikeverleih, Infrarot-Kabine \nBrötchenservice - oder auf Wunsch Frühstück oder Halbpension.\n",
+    "inkl.: Heizung, Strom, Wasser, reservierter Tiefgaragenabstellplatz, Benützung der Infrarotkabine, W-Lan\n\nexkl.: Telefon",
+    "Anreisezeit ab 13.00 Uhr\nAbreisezeit bis 11.00 Uhr\n\nUnser Haus liegt von Seefeld kommend am Ortsanfang auf der linken Seite"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "reviewCount": "246"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e810ae7c-91ea-4f41-9b80-c214656f9a03/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f6c72b56-3e99-4c5e-9149-06d8f3d45f66/99/image.jpg",
+      "caption": "Dorfkrug"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4c8de935-b741-479a-bf1e-8e0aa4479f42/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/cd3cba0e-3d73-4ce2-9085-e38bdb3bd809/99/image.jpg",
+      "caption": "Hausansicht Wi Nacht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2f619d47-94ed-49ff-80cc-080ec9ef87bf/99/image.jpg",
+      "caption": "Sommer2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b66c634e-762a-48c0-82dd-61504e3993bb/99/image.jpg",
+      "caption": "Terrasse"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ce0cac56-b2ab-43b7-a115-b378b07c10f8/99/image.jpg",
+      "caption": "Restaurant"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f57ac607-f70c-44dc-945c-93ebf71b1a04/99/image.jpg",
+      "caption": "Sommer 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/36929ab8-2fac-4250-af43-3ec2192c76f3/99/image.jpg",
+      "caption": "Stüberl"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d36d087d-3aeb-4131-8d97-496151f953bf/99/image.jpg",
+      "caption": "Winter Frontansicht Abend"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2f2c146f-ca85-4e3e-9784-b82d42ebfc0f/99/image.jpg",
+      "caption": "Winter Front"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.310717272755",
+    "longitude": "11.152337637958"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "ruhiges Appartement mit Schlafzimmer, geräumiges Wohnzimmer mit Ausziehcouch für 2 Personen, Dusche und WC, Vorraum, abgetrennte Terrasse mit Liegewiese. Geeignet für 2-4 Personen. Neu: eigener Tiefgaragenplatz!",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment Nr. 2",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "\"Golf-Woche für 2 Personen\"",
+          "description": "\"Golf-Woche für 2 Personen\" - ohne Verpflegung\n\n*7 Übernachtungen in einer gemütlichen Ferienwohnung für \"Selbstversorger\"\n*30% Greenfee-Ermäßigung am Golfplatz Seefeld-Wildmoos\n*1 Eintritt für 2 Personen ind das Olympiabad Seefeld\n*inkl. Kurtaxe und Endreinigung",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/3b3424b8-fb60-4682-90c2-4d16896d4021/99/image.jpg",
+              "caption": "Golf"
+            }
+          ],
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "72.00",
+          "maxPrice": "79.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "78.00",
+          "maxPrice": "91.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "84.00",
+          "maxPrice": "103.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "396.00",
+          "maxPrice": "396.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "ruhiges Appartement mit 2 Schlafzimmern (Dreibettzimmer), gemütlichem, großem Wohnzimmer mit Ausziehcouch für 2 Personen, Küche (Kaffeemaschine, Wasserkocher, Toaster, Mikrowelle, Kühlschrank mit Gefrierfach), Dusche mit Doppelwaschbecken und WC getrennt, Vorraum, Balkon. Whg. (95 m2) geht über 2 Stockwerke, \neigener Tiefgaragenplatz!",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment Nr. 11",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "98.00",
+          "maxPrice": "114.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "110.00",
+          "maxPrice": "126.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "122.00",
+          "maxPrice": "138.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "134.00",
+          "maxPrice": "150.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "146.00",
+          "maxPrice": "162.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "ruhiges Appartement mit 2 Schlafzimmern, geräumiges Wohnzimmer mit Ausziehcouch für 2 Personen, Dusche und WC getrennt, Vorraum, Balkon. Geeignet für 2-6 Personen. Neu: eigener Tiefgaragenplatz!",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment Nr. 6",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 2 Schlafräume",
+      "description": [
+        "ruhiges Appartement mit 2 Schlafzimmern, geräumiges Wohnzimmer mit Ausziehcouch für 2 Personen, Dusche und WC getrennt, Vorraum, abgetrennte Terrasse mit großer Liegewiese. Geeignet für 2-6 Personen. Neu: eigener Tiefgaragenplatz!",
+        "ruhiges Appartement mit 2 Schlafzimmern, geräumiges Wohnzimmer mit Ausziehcouch für 2 Personen, Dusche und WC getrennt, Vorraum, abgetrennte Terrasse mit großer Liegewiese. Geeignet für 2-6 Personen. Neu: eigener Tiefgaragenplatz!"
+      ],
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment Nr. 1",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "87.00",
+          "maxPrice": "87.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "99.00",
+          "maxPrice": "99.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "111.00",
+          "maxPrice": "111.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "123.00",
+          "maxPrice": "123.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "135.00",
+          "maxPrice": "135.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche oder Bad, WC, 1 Schlafraum",
+      "description": "ruhiges Appartement mit Schlafzimmer, geräumiges Wohnzimmer mit Ausziehcouch für 2 Personen, Dusche und WC, Vorraum, Balkon. Geeignet für 2-4 Personen. Neu: eigener Tiefgaragenplatz!",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment Nr. 7, 8 + 9",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "61.00",
+          "maxPrice": "61.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "72.00",
+          "maxPrice": "72.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "83.00",
+          "maxPrice": "83.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 1 Schlafraum",
+      "description": "ruhiges Appartement mit Schlafzimmer, geräumiges Wohnzimmer mit Ausziehcouch für 2 Personen, Dusche und WC, Vorraum, abgetrennte Terrasse mit Liegewiese. Geeignet für 2-4 Personen. Neu: eigener Tiefgaragenplatz!",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment Nr.  3 + 4",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "65.00",
+          "maxPrice": "79.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "77.00",
+          "maxPrice": "91.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "89.00",
+          "maxPrice": "103.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 1 Schlafraum",
+      "description": "ruhiges Appartement mit Schlafzimmer (Dreibettzimmer), geräumiges Wohnzimmer mit Ausziehcouch für 2 Personen, Dusche und WC, Vorraum, Balkon. Geeignet für 2-5 Personen Neu: eigener Tiefgaragenplatz",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment Nr.  10",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "64.00",
+          "maxPrice": "64.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "75.00",
+          "maxPrice": "75.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "86.00",
+          "maxPrice": "86.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "97.00",
+          "maxPrice": "97.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 1 Schlafraum",
+      "description": "ruhiges Appartement mit Schlafzimmer (Dreibettzimmer), geräumiges Wohnzimmer mit Ausziehcouch für 2 Personen, Dusche und WC, Vorraum, Terrasse mit Liegewiese. Geeignet für 2-5 Personen Neu: eigener Tiefgaragenplatz",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment Nr. 5",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "68.00",
+          "maxPrice": "81.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "80.00",
+          "maxPrice": "93.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "92.00",
+          "maxPrice": "105.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "104.00",
+          "maxPrice": "117.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

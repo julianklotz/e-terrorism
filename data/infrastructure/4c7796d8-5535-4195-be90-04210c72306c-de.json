@@ -1,0 +1,26 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "EntertainmentBusiness"
+  ],
+  "name": "Gemeindesaal, Musikpavillon, Scharnitz",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3902949",
+    "longitude": "11.2652863000001"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Gemeinde Scharnitz",
+    "streetAddress": "Adolf-Klinge-Platz 72",
+    "addressLocality": "Scharnitz",
+    "postalCode": "6108",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5213 5204 0",
+    "email": "gemeinde@scharnitz.tirol.gv.at",
+    "url": "http://www.scharnitz.tirol.gv.at"
+  },
+  "url": [
+    "http://www.scharnitz.tirol.gv.at"
+  ]
+}

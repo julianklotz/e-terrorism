@@ -1,0 +1,49 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "Konzert des französischen Chores \"Le Diairi\"",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Informationsbüro Seefeld",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Klosterstraße 43",
+      "addressLocality": "Seefeld",
+      "postalCode": "6100",
+      "addressCountry": "AT",
+      "telephone": "+43508800",
+      "email": "region@seefeld.com",
+      "url": "http://www.seefeld.com"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Informationsbüro Seefeld",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Klosterstraße 43",
+      "addressLocality": "Seefeld",
+      "postalCode": "6100",
+      "addressCountry": "AT",
+      "telephone": "+43508800",
+      "email": "region@seefeld.com",
+      "url": "http://www.seefeld.com"
+    }
+  },
+  "description": "Der Chor aus Montbéliard (ostfranzösische Stadt mit 26.000 Einwohnern) zählt ungefähr 35 - 40 Mitglieder, welche die traditionelle Tracht der Gegend tragen. Der vierstimmige Chor singt Volkslieder aus der Franche-Comté, Frankreich und anderen Ländern; er singt auch klassische Stücke und moderne Lieder. Jedes Jahr gibt der Chor 15 - 20 Konzerte. Eintritt frei!\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e0c03b62-6bf1-464a-8ab0-07b2b18eafbb/99/image.jpg",
+      "caption": "\"Le Diairi\""
+    }
+  ],
+  "url": [
+    "http://www.lediairi.com"
+  ],
+  "startDate": "2017-07-30T17:00:00",
+  "endDate": "2017-07-30"
+}

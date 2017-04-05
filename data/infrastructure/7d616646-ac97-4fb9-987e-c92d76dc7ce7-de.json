@@ -1,0 +1,23 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "TouristAttraction"
+  ],
+  "name": "Geoweg Hermannstal - Geologischer Themenweg",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3291552",
+    "longitude": "11.1869265"
+  },
+  "description": [
+    " ",
+    "Ausgehend vom Kurpark führt durch das Hermannstal ein gesteinkundlich interessanter Wanderweg. In mehreren Stationen werden Findlinge aus der\nRegion vorgestellt und ihre Herkunft beschrieben. Für 2010 ist eine Erweiterung mit zusätzlichen Themen vorgesehen. Bislang gibt es 7 Stationen\nvom Seefelder Kurpark aus bis hinauf zum Woldrichsteig im Hermannstal. Angefangen von Granit über Glimmerschiefer und Flasergneis bis hin zu\nBiotitgneis und Metaandesit gibt es nicht nur für Geologen viel zu entdecken. Einen Folder mit genauer Beschreibung dieses Weges erhalten Sie im\nInformationsbüro Seefeld. "
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/fa17afab-db06-4982-8166-f6877454e5a6/99/image.jpg",
+      "caption": "Geoweg"
+    }
+  ]
+}

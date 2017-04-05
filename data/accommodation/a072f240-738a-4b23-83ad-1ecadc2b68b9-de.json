@@ -1,0 +1,163 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.seefeld-austria.com",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Edelweiss",
+    "streetAddress": "Klosterstr. 176",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2304",
+    "faxNumber": "(0043) 5212 2304 24",
+    "email": "edelweiss@seefeld-austria.com",
+    "url": "http://www.seefeld-austria.com"
+  },
+  "name": "Haus Edelweiss",
+  "description": [
+    "Gepflegte Atmosphäre für Sportler und Erholungssuchende dirket an der Fußgängerzone, beim Sport- und Kongresszemtrum. Lifte und Loipen sind in wenigen Gehminuten erreichbar. Skiverleih im Haus! Rufen Sie uns an, wir freuen uns!  0043 5212 2304",
+    "Folgen Sie bitte den grünen Wegweisern \"Kongresszentrum\"! Unser Haus liegt direkt gegenüber des Olympia-Sport und Kongresszentrums, am Anfang der Fussgängerzone."
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "reviewCount": "93"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6760bb6f-6bb6-49de-b984-d34aa4c84ee6/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4dbd1c99-0f58-43aa-896d-57fd96c089e8/99/image.jpg",
+      "caption": "Haus Edelweiss im Sommer Seefeld in Tirol"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a61c3837-56e1-467d-858e-c23f296bd1fe/99/image.jpg",
+      "caption": "Das Edelweiss im Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/45ea7adc-4272-4849-85de-79668c5d2e69/99/image.jpg",
+      "caption": "Frühstücksraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a8305f31-168c-490c-a324-907582d753a6/99/image.jpg",
+      "caption": "Frühstücks Buffet"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f16bc04d-b882-41fb-88a1-bc80cf2c87fd/99/image.jpg",
+      "caption": "Frühstücksraum gesamt"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d17b1188-8339-4588-9c42-f886baf66b01/99/image.jpg",
+      "caption": "Garten"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1a497ae9-ddf5-4bb7-a8fa-6fa44a0c213f/99/image.jpg",
+      "caption": "_DSC2423"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2efccf81-c861-4183-b9a7-80d937bd65b2/99/image.jpg",
+      "caption": "_DSC2449"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8aefa263-f6d0-425d-a24b-d8c5bbecc8c1/99/image.jpg",
+      "caption": "_DSC2436"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1f100a25-c856-4693-a0e8-d58489d4d796/99/image.jpg",
+      "caption": "_DSC2451"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3283884683039",
+    "longitude": "11.1831378936768"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Zimmer mit Dusche - WC/ Telefon - TV, Safe, Minibar, großteils mit\nBalkon sehr gepflegte Ausstattung tw. Himmelbetten.\nFrühstück mit Buffet und Kurtaxe, sowie der stark ermäßigte Eintritt ins Neue Olympiabad an allen Werktagen sind im Preis incl.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Standard-Doppelzimmer",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "35.00",
+          "maxPrice": "45.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Zimmer mit Dusche - WC/ Telefon - TV, Safe, Minibar, mit oder ohne \nBalkon sehr gepflegte Ausstattung tw. Himmelbetten",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Komfort-Doppelzimmer",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "39.00",
+          "maxPrice": "53.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

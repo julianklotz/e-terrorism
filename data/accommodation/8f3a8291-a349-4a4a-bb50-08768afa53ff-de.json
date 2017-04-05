@@ -1,0 +1,196 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.haus-alpenruh.com",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Alpenruh",
+    "streetAddress": "Obere Wiese 10",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6924",
+    "email": "info@haus-alpenruh.com",
+    "url": "http://www.haus-alpenruh.com"
+  },
+  "name": "Haus Alpenruh",
+  "description": [
+    "Gemütliche Nichtraucherwohnungen in ruhiger, sonniger Lage. Gemütlich und komfortabel eingerichtet. Idealer Ausgangspunkt für Wanderungen, Radtouren, Nordic Walking. Im Winter ist die Loipe nur wenige Minuten vom Haus entfernt. Wir würden uns freuen, Sie kennenzulernen!",
+    "Gemütliche und geräumige Nichtraucherwohnungen in ruhiger, sonniger Lage für 2 bis 6 Personen. Gemütlich und komfortabel eingerichtet mit Südbalkon, Sonnenterasse und Wintergarten. Idealer Ausgangspunkt für Wanderungen, Radtouren, Nordic Walking. Im Winter ist die Loipe nur wenige Minuten vom Haus entfernt. Wir würden uns freuen, Sie kennenzulernen!",
+    "inklusive: Heizung, Strom, Wasser, Wäsche, Garage,\nexklusive: Ortstaxe und Endreinigung",
+    "inklusive: Heizung, Strom, Wasser, Wäsche, Garage,\nexklusive: Ortstaxe und Endreinigung",
+    "inklusive: Heizung, Strom, Wasser, Wäsche, Garage,\nexklusive: Ortstaxe und Endreinigung",
+    "Durchfahrt bis zur Pfarrkirche, 300 Meter weiter rechts einbiegen, wo der Wald beginnt, nach 100 Metern links-gerade aus auf die Anhöhe, vorletztes Haus am Ende des Ortsteiles Obere Wiese ist das Haus Alpenruh.",
+    "Durchfahrt bis zur Pfarrkirche, 300 Meter weiter rechts einbiegen, wo der Wald beginnt, nach 100 Metern links-gerade aus auf die Anhöhe, vorletztes Haus am Ende des Ortsteiles Obere Wiese ist das Haus Alpenruh.",
+    "Durchfahrt bis zur Pfarrkirche, 300 Meter weiter rechts einbiegen, wo der Wald beginnt, nach 100 Metern links-gerade aus auf die Anhöhe, vorletztes Haus am Ende des Ortsteiles Obere Wiese ist das Haus Alpenruh."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0c10cb96-d70e-4f50-af86-d01253047278/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d345be46-0fcf-4f92-8d70-6a37e6c218d5/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6ced9854-505e-4ca6-91cf-82faf654cda7/99/image.jpg",
+      "caption": "Grundriss Wohnung EG"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/bb84b537-e247-4c76-93e9-4c385a8d92fb/99/image.jpg",
+      "caption": "Grundriss Wohnung OG"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/566017ea-825b-4363-a8a9-52808d7fe2ee/99/image.jpg",
+      "caption": "Hausimpressionen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/70b9954d-31db-445f-b02b-39e65ec10059/99/image.jpg",
+      "caption": "Hausimpressionen 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ec9b3171-8082-4744-acd6-865ec47241f0/99/image.jpg",
+      "caption": "Hausimpressionen 3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8b0463d0-ff5b-4cd3-923b-bef202f06269/99/image.jpg",
+      "caption": "IMG-20150210-WA0002"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/91ed5260-5e13-40c8-9fc8-792ecb73c57a/99/image.jpg",
+      "caption": "IMG-20150210-WA0004"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3662643",
+    "longitude": "11.1370448"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "Große Ferienwohnung (75m²) für 2-6 Personen mit großer Sonnenterrasse und Südbalkon! Wohnung mit 2 seperaten Schlafzimmern und gemütlichem Wohnzimmer mit Küche, Dusche/WC und seperatem WC neu renoviert!",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "App. OG/2 Schlafräume/Dusche, WC",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "55.00",
+          "maxPrice": "75.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "70.00",
+          "maxPrice": "90.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "85.00",
+          "maxPrice": "105.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "100.00",
+          "maxPrice": "120.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "115.00",
+          "maxPrice": "135.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "Geräumige Wohnung  (75 m²) für 2-5 Personen im Erdgeschoss mit Wintergarten und Garten, Wohnzimmer mit Küche,2 Schlafzimmer, Dusche und WC separat neu renoviert!",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "App. EG/2 Schlafräume/Dusche, WC",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "55.00",
+          "maxPrice": "75.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "70.00",
+          "maxPrice": "90.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "85.00",
+          "maxPrice": "105.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "100.00",
+          "maxPrice": "120.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

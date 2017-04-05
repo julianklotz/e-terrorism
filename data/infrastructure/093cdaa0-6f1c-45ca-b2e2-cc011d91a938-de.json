@@ -1,0 +1,37 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant"
+  ],
+  "name": "Solo Pizza - Solo Pasta",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3342087492488",
+    "longitude": "11.1916339274392"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Pizzeria Alpenhof",
+    "streetAddress": "Münchner Str. 76",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 681/81694893"
+  },
+  "description": " im Hotel Tyrol, jeden Donnerstag Live-Musik",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7499f907-b58e-49b1-94e3-03059c839ff6/99/image.jpg",
+      "caption": "Pizzeria Alpenhof"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9a800177-745d-4d82-9aec-1b3e0987457e/99/image.jpg",
+      "caption": "Pizza"
+    }
+  ],
+  "url": [
+    "http://"
+  ]
+}

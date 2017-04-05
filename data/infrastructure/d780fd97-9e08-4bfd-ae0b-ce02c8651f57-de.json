@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Landform",
+    "Hostel"
+  ],
+  "name": "Hallerangeralm",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3564398591642",
+    "longitude": "11.4798572659492"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Hallerangeralm",
+    "streetAddress": "Brand 390",
+    "addressLocality": "Scharnitz",
+    "postalCode": "6108",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 1055955",
+    "email": "schallhart@halleranger-alm.at",
+    "url": "http://www.halleranger-alm.at"
+  },
+  "description": "Nur im Sommer geöffnet! Isarquellgebiet, Stempelstelle, Übernachtungsmöglichkeit für 98 Personen",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/bd191016-eadd-402e-a70f-cba22109de41/99/image.jpg",
+      "caption": "Hallerangeralm neu"
+    }
+  ],
+  "url": [
+    "http://www.hallerangeralm.at",
+    "http://www.karwendel.org"
+  ]
+}

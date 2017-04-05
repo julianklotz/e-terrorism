@@ -1,0 +1,163 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://web4.deskline.net/seefeld/de/accommodation/detail/SEE/6dfca4df-b980-4b0e-aece-eae5103c3488/boderhof",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Boderhof",
+    "streetAddress": "Gasse 184",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 20070",
+    "email": "boderhof.leutasch@aon.at"
+  },
+  "name": "Boderhof",
+  "description": [
+    "Der Boderhof ist ein liebevoll renovierter Bauernhof. Er befindet sich in ruhiger Waldrandlage, idealer Ausganspunkt für Wanderungen, Berg- \u0026 Radtouren im Sommer; im Winter 100 m zur Loipe. \nAlle Zimmer und die Ferienwohnung sind geschmackvoll und gemütlich eingerichtet - Dusche, Bad/WC, Sat/TV, teilweise Balkon. Parkplätze neben dem Haus.\n\nNeue schöne Saunalandschaft. Bademantel und Saunatuchverleih kostenlos.\n",
+    "Check In 14.00  Uhr / Check Out 10.00 Uhr \nWegbeschreibung: Von Weidach folgen Sie den Schildern Richtung Mittenwald, im Ortsteil Gasse fahren Sie ca. 200 m bis Höhe Hausnr. 182\n(LH. Rauth) - gegenüber davon biegen Sie links ab und folgen der Straße ca. 50 m bis zum Boderhof."
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "reviewCount": "56"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e2ce0ecb-973e-4ddc-8056-5a5fcc7d1c06/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/41f11b9c-326b-4b0c-846e-653259a76cd8/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2da31094-6351-46cf-9662-8185613bfb5d/99/image.jpg",
+      "caption": "Saunalandschaft"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e639c751-3b5b-4bc9-a557-dbaafe851d8f/99/image.jpg",
+      "caption": "Camera Rossa"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3816421",
+    "longitude": "11.1608916"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Das Zimmer, etwa 30mq, ist grosszügig geschnitten mit gemütlichen Sofas zum entspannen und mit Dusche-WC, SAT-Tv und Balkon ausgestattet.\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "43.00",
+          "maxPrice": "50.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Zweibettzimmer, Dusche, WC",
+      "description": "Das Zimmer ca.16mq, mit 2 trennbaren Betten, ist mit Dusche und WC, Sat-Tv und Balkon ausgestattet.\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Zweibettzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "42.00",
+          "maxPrice": "50.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "37.50",
+          "maxPrice": "44.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 1 Schlafraum",
+      "description": "Die etwa 45mq grosse FW ist geschmackvoll un gemütlich eingerichtet.Sie befindet sich im 1.St.mit Balkon und bietet\nseparates Schlafzimmer,Badezimmer mit Badewanne,WC und Bidet, gut ausgestattete Kuüche mit Geschirrspüler, Wohnzimmer mit gemuütlichem Sofas, Sat-Tv,stereo-dvd.\nWir bieten:Bett-und Frotteewäsche,Ski-Abstellraum und PKW-Stellplatz am Haus.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/1 Schlafraum/Bad, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "85.00",
+          "maxPrice": "95.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

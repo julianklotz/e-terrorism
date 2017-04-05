@@ -1,0 +1,92 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.haus-am-weinberg.com",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Am Weinberg",
+    "streetAddress": "Hermannstalstr.767",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 3274",
+    "faxNumber": "(0043) 5212 3274",
+    "email": "familie_widerin@gmx.at",
+    "url": "http://www.haus-am-weinberg.com"
+  },
+  "name": "Haus Am Weinberg",
+  "description": [
+    "In sonniger Südhanglage bieten wir 2 helle, komfortable Appartements mit Balkon / Terrasse, Garten, Tischtennis, Spiel-und Parkplatz. \nTipp: 3-Raum-Appartement +2 Bäder und schönem Erker, 10 min. ins Zentrum, 5 min.  zur Rosshütte bzw. zum Ski \u0026 Shuttlebus.",
+    "Inklusive: Heizung , Wasser, Strom, Bettwäsche, Dusch- + Handtücher, Parkplatz,  Sat-TV, Tischtennis, Brötchenservice",
+    "Anreise: ab 15.00 Uhr / Abreise: bis 10.00 Uhr\n\nB177, Ausfahrt Seefeld Mitte, beim Kreisverkehr 1. Strasse rechts, am Waldhotel vorbei, Kreuzung Sonnweg rechts abbiegen."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2b6327d0-499a-410a-a67b-ff0774f8cbfb/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/98d9ec67-7535-4def-a2fa-0dc9753fe3b4/99/image.jpg",
+      "caption": "Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3335440337095",
+    "longitude": "11.1969137191772"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 2 Schlafräume",
+      "description": "75m²,ebenerdig,Terrasse+Liegewiese mit Gartenmöbeln, sonnig gelegen, Tischtennis und ein großes Trampolin für Kinder, die Wohnung ist geräumig:Vorraum/Garderobe,1 Schlafzimmer mit Bad/WC,1 Schlafzimmer mit Dusche/WC\n1 Wohnzimmer mit ausziehbarer Doppelcouch,schöne Essecke im Erker, SAT-TV, komlett ausgestattete Küche mit Geschirrspüler,helle Einrichtung aus Holz",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "3-Raum-Appartement",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "110.00",
+          "maxPrice": "110.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "110.00",
+          "maxPrice": "110.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "110.00",
+          "maxPrice": "110.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

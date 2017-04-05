@@ -1,0 +1,106 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Sonnenresidenz",
+    "streetAddress": "Kalktalweg 33",
+    "addressLocality": "Reith bei Seefeld",
+    "postalCode": "6103",
+    "addressCountry": "AT",
+    "telephone": "0043 5212 53202",
+    "faxNumber": "(0043) 5212 53202",
+    "email": "fewo.alpen@gmail.com"
+  },
+  "name": "Sonnenresidenz",
+  "description": [
+    "Moderne, traumhafte Ferienwohnung für 4 Personen mit großer Panoramaterrasse und einem atemberaubenden Blick auf das Inntal und die Tiroler Alpen!Die Wohnung verfügt über: - Wohnfläche 100 qm2. \nBaujahr des Hauses: November 2012 - Parkplatz direkt vor der Haustüre Sehr zentrale Lage: - 2min Fahrzeit zum Bahnhof Reith - 5min Fahrzeit zum Stadtzentrum Seefeld in Tirol - 15min zum Stadtzentrum Innsbruck - ca. 1h 15min Fahrzeit nach München Zentrum - ca. 15 min Fahrzeit zum Flughafen Innsbruck. Weitere Freizeitmöglichkeiten:- rund 270 Loipenkilometer in und um Seefeld, in nur wenigen Minuten von der Wohnung erreichbar- div. Themenloipen, wie z.B. Nachtloipen- Olympiabad Seefeld: große Saunalandschaft mit tollem Erlebnisbad für \"Groß und Klein\"- Eislaufen auf der Kunsteisbahn mit Schlittschuhverleih- abwechslungsreiche Wanderwege für kurze und lange Wandertouren und Spaziergänge- natürliche Rodelstrecken- Spielcasino Seefeld- umgebend von mehreren Badeseen mit Strandbädern in Sommer und Schlittschuhlaufen im Winter",
+    "Check in  ab 16 Uhr\nCheck out bis 11 Uhr "
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f711cf9f-6cec-42bb-848e-6a8afad3850b/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b0fbfdb4-9c6e-4a85-a77e-570918fa26ec/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ec96198d-55f6-45d6-a87a-2615a7f3bd4d/99/image.jpg",
+      "caption": "Terrasse"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4a99aebb-262b-49fe-91e2-8ec6c6d8b3e7/99/image.jpg",
+      "caption": "Aussicht Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b57cda01-d783-41aa-b37f-d42c1c62cc0b/99/image.jpg",
+      "caption": "Panorama"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/75540ca2-e15e-43d5-a4ce-baaf57aa1fb5/99/image.jpg",
+      "caption": "Hausansicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f96d0746-9ebf-4749-a756-bb640a7a4f54/99/image.jpg",
+      "caption": "Aussicht Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/bdab8852-6227-4d7e-bb97-a142a952f7dc/99/image.jpg",
+      "caption": "Essecke"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7e2e1209-54e6-4038-93e0-753978b7b6d0/99/image.jpg",
+      "caption": "Wohnung-Übersicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8cf210b2-8f84-4cd5-822d-3487b6e7b135/99/image.jpg",
+      "caption": "Schlafraum"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2951758",
+    "longitude": "11.2094972"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 1 Schlafraum",
+      "description": "Die Wohnung verfügt über: - Wohnfläche 100 qm2 - separates Schlafzimmer: 1,80m Doppelbett, großer Kleiderschrank - separates Badezimmer mit Badewanne, Dusche, Handtücher, Haarföhn - sehr geräumige Wohn-Ess-Küche: voll ausgestattet, mit Backofen, Spülmaschine, Kochfeld, Kühlschrank, Gefrierschrank, Kaffeemaschine, Toaster, Wasserkocher - großes Schlafsofa im Wohnzimmer mit Flat-Screen TV - sehr große Panoramaterrasse nach Süden - Baujahr des Hauses: November 2012 - Parkplatz direkt vor der Haustüre",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Top 6",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

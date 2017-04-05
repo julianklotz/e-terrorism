@@ -1,0 +1,37 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "PostOffice"
+  ],
+  "name": "Post SB-Zone",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3690207995416",
+    "longitude": "11.1446611404755"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Gemeindeamt Leutasch",
+    "streetAddress": "Kirchplatzl 128a",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6205",
+    "email": "gemeinde@leutasch.tirol.gv.at",
+    "url": "http://www.leutasch.at"
+  },
+  "description": [
+    "Post SB-Zone\nFrankieren - Versenden - Empfangen \nIn der Gemeinde Leutasch\nKirchplatzl 128a, Tel.: 05214/6205\nÖffnungszeiten:\nMO - SO: 24 Std. geöffnet\n",
+    "Öffnungszeiten:\nMO - SO: 24 Std. geöffnet\n"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/badcfefc-87d3-4210-84bb-45cda26103fc/99/image.jpg",
+      "caption": "Post SB-Zone"
+    }
+  ],
+  "url": [
+    "http://www.leutasch.at"
+  ]
+}

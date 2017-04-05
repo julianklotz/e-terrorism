@@ -1,0 +1,73 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "11. Leutascher Bergfrühlingstage - \"Grenz G\u0027schicht\u0027n\"",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Informationsbüro Leutasch",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Weidach 320",
+      "addressLocality": "Leutasch",
+      "postalCode": "6105",
+      "addressCountry": "AT",
+      "telephone": "+43-50880510",
+      "faxNumber": "+43-50880811",
+      "email": "info.leutasch@seefeld.com",
+      "url": "http://www.seefeld.com"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Gasthaus Brücke",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Burggraben 257",
+      "addressLocality": "Leutasch",
+      "postalCode": "6105",
+      "addressCountry": "AT",
+      "telephone": "(0043) 5214 6930 ",
+      "faxNumber": "(0043) 5214 6275",
+      "email": "zur.bruecke@aon.at",
+      "url": "http://www.zurbruecke-leutasch.com"
+    }
+  },
+  "description": "„GRENZ G’SCHICHT’N” - TIROLER ADLER – BAYRISCHER LÖWE!\nBei einer Wanderung zu Resten einer alten Grenzbefestigung, der Leutascher Schanz (PORTA CLAUDIA), tauchen wir in die Geschichte der tirolerisch-bayrischen Nachbarschaft ein. Im Anschluss kehren wir im ehemaligen Zollamt, im Gasthaus Zum Klammgeist, einem außergewöhnlichen Lokal, ein.\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d1715079-56b2-41af-9cb3-cb61190e6680/99/image.jpg",
+      "caption": "bergfrühl"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0ddf39be-9a89-4daf-94f7-35ae9702f67f/99/image.jpg",
+      "caption": "bergfrühling"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3e6ef890-56d1-466d-9440-924839d047d2/99/image.jpg",
+      "caption": "bergfrühling1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/18b9db6e-d1e1-4b5c-aeb7-5c0962db5d30/99/image.jpg",
+      "caption": "bergfrühling2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ceedb4ce-4a12-4dc5-9054-e15ad0f85f21/99/image.jpg",
+      "caption": "bergfrühling3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2cf4c1d0-0062-4f5a-a1a6-1e64abd7c48f/99/image.jpg",
+      "caption": "bergfrühling4"
+    }
+  ],
+  "startDate": "2017-06-05T10:00:00",
+  "endDate": "2017-06-05"
+}

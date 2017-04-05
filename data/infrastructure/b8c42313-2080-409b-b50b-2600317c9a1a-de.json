@@ -1,0 +1,23 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "TouristAttraction"
+  ],
+  "name": "Friedensglocken-Wanderweg",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.313154705382",
+    "longitude": "11.1605872074738"
+  },
+  "description": [
+    "  ",
+    "Der Friedenslocken-Wanderweg ist eine Einladung zum Naturerlebnis und zur Besinnung. Beginnend beim Parkplatz der Seewaldalm in Mösern erlebt der Wanderer auf einem ca. 90 Minuten dauernden Fußweg 7 markante Standorte, die zum Verweilen einladen: Ausgehend von der Betrachtung der Natur mit allen Sinnenwerden auf sieben Stellen Anregungen zur Selbstbesinnung und Nachdenklichkeit angeboten. Der Weg endet bei der Friedensglocke des Alpenraumes, deren gehaltvolle Botschaft von Frieden und guter Nachbarschaft auf dem Weg zum Ziel innerlich vorbereitet und vertieft wird. "
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/fa4b87c2-8c01-4de0-ad8b-b12c34264f58/99/image.jpg",
+      "caption": "Friedensglocke"
+    }
+  ]
+}

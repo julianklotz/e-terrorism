@@ -1,0 +1,615 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.landhausamgolfplatz.com",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Landhaus Am Golfplatz",
+    "streetAddress": "Lobaweg 35",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "0043 5212 4348",
+    "faxNumber": "0043 5212 31906",
+    "email": "landhausamgolfplatz@aon.at",
+    "url": "www.landhausamgolfplatz.com"
+  },
+  "name": "Landhaus Am Golfplatz",
+  "description": [
+    "Unser Haus ist sehr schön gelegen - die Golfakademie liegt direkt vor unserer Haustüre - herrliche Spazierwege führen von diesem sonnigen Platz in Richtung Seepromenade am Seefelder Wildsee und Richtung Ortszentrum. Im Winter erstreckt sich die Langlaufloipe der Lehnerwiese direkt vor unserem Haus - ca. 10 Gehminuten zum Ortszentrum. Wir bieten Ihnen eine sehr schöne und geschmackvoll ausgestattete 2-Raumwohnung (ca. 65 m²): 1 Wohnschlafzimmer mit Schlafcouch, Wohnküche mit Geschirrspüler, Backofen und Mikrowellenherd, 1 Schlafzimmer, Bad/WC, Telefon, gratis wlan, Kabel-TV und sehr großer Sonnenterrasse (ca. 44 m²) - südseitig - Parterre mit freiem Blick in die Natur - vor der Terrasse erstreckt sich ein großer Garten.",
+    "Wäsche und Handtücher sind vorhanden und im Preis inbegriffen. Ermäßigte Benützung des Olympia-Hallenbades von Montag bis Freitag, freie Nutzung der Wellness-Oase in der Appartementanlage Kerber mit 100 m² von Sonntag bis Freitag!",
+    "Von Garmisch Richtung Seefeld kommend, an der Ausfahrt Seefeld Nord vorbeifahren. An der AVIA-Tankstelle vorbei. Auf der Höhe des großen roten M-preis Supermarktes biegen Sie rechts ab, über die kleine Minibrücke, nach der Brücke gleich links, bei der Fahrverbotstafel in den schmalen Weg rechts hinein, das 3. Haus mit dem hellen Balkon ist das Landhaus am Golfplatz."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a625c747-4a64-4459-a562-c1bc9f83770c/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b1045ffc-a1fb-41cd-bb7f-4598e5835c52/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/290dd05f-1ea0-42e1-b35b-2dfd03c49eb7/99/image.jpg",
+      "caption": "Aussicht Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/46bfd561-1715-48e9-92f0-e61a73da16a1/99/image.jpg",
+      "caption": "Golfplatz Wildmoos"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/45fae5f6-2897-4e9b-86bd-4826aa6900ec/99/image.jpg",
+      "caption": "Seeblick"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d2795066-8b62-4c39-a988-60cef3626813/99/image.jpg",
+      "caption": "Plan"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3d0a3f32-3691-42f9-a976-174f1da3cbad/99/image.jpg",
+      "caption": "Wanderweg"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d171a437-d9ab-4fce-9be8-e4e386829591/99/image.jpg",
+      "caption": "Garten"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f65ddd8b-9936-4a34-87d9-15d83d2c66ec/99/image.jpg",
+      "caption": "Sauna"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3232433086171",
+    "longitude": "11.197417974472"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 1 Schlafraum",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/1 Schlafraum/Bad, WC",
+          "description": "Unser Haus ist sehr schön gelegen – im Sommer liegter der Golfplatz Seefeld Reith  direkt vor unserer Haustüre – herrliche Spazierwege führen von diesem herrlichen sonnigen Platz in Richtung Seepromenade am Seefelder Wildsee. Im Winter erstreckt sich die Langlaufloipe der Lehnerwiese direkt vor unserem Haus – ca. 10 Gehminuten zum Ortszentrum. ",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "5 Tage Pistenzauber",
+          "description": "Die Skigebiete der Olympiaregion lassen das Herz jedes Skifahrers höher schlagen!\n\nSonnige, bestens präparierte Pisten und modernste Liftanlagen versprechen vom Anfänger bis zum Profiläufer den puren Genuss!\n\n5 Tage Pistenzauber für 2 Personen:\n\n- Appartement inkl Endreinigung\n- Happy Skikarte für 2 Erwachsene für 4 Tage (im Wert von Euro 290,--)\n- 1x freier Eintritt ins Olympiabad Seefeld\n- freie Benutzung der Wellnessoase in unserem Partnerhaus Kerber",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/e0dbe75d-1279-4999-b44e-acdf294a4465/99/image.jpeg",
+              "caption": "Schifahren"
+            }
+          ],
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "6 Tage Pistenzauber 5 bezahlen",
+          "description": "Die Skigebiete der Olympiaregion lassen das Herz jedes Skifahrers höher schlagen!\n\nSonnige, bestens präparierte Pisten und modernste Liftanlagen versprechen vom Anfänger bis zum Profiläufer den puren Genuss!\n\n6 Tage Pistenzauber 5 bezahlen für 2 Personen:\n\n- Appartement inkl Endreinigung\n- Happy Skikarte für 2 Erwachsene für 4 Tage (im Wert von Euro 290,--)\n- 1x freier Eintritt ins Olympiabad Seefeld\n- freie Benutzung der Wellnessoase in unserem Partnerhaus Kerber",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/9dcbddcf-c3e0-4c48-aeff-1ce408468a79/99/image.jpeg",
+              "caption": "Schifahren"
+            }
+          ],
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "7 Tage Pistenzauber 6 bezahlen",
+          "description": "Die Skigebiete der Olympiaregion lassen das Herz jedes Skifahrers höher schlagen!\n\nSonnige, bestens präparierte Pisten und modernste Liftanlagen versprechen vom Anfänger bis zum Profiläufer den puren Genuss!\n\n7 Tage Pistenzauber 6 bezahlen für 2 Personen:\n\n- Appartement inkl Endreinigung\n- Happy Skikarte für 2 Erwachsene für 4 Tage (im Wert von Euro 290,--)\n- 1x freier Eintritt ins Olympiabad Seefeld\n- freie Benutzung der Wellnessoase in unserem Partnerhaus Kerber",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/ba3c35ad-a490-4db2-bb4c-924a088106c9/99/image.jpeg",
+              "caption": "Schifahren"
+            }
+          ],
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Pistenzauber Woche",
+          "description": "- Appartement für 2 Personen inkl. Endreinigung\n- Happy Skikarte für 2 Erwachsene für 4 Tage\n- freie Benutzung der Wellnessoase in unserem Partnerhaus Kerber\n- 1x freier Eintritt ins Olympiabad ",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "7 Tage Pistenzauber",
+          "description": "Die Skigebiete der Olympiaregion lassen das Herz jedes Skifahrers höher schlagen!\n\nSonnige, bestens präparierte Pisten und modernste Liftanlagen versprechen vom Anfänger bis zum Profiläufer den puren Genuss!\n\n7 Tage Pistenzauber für 2 Personen:\n\n- Appartement inkl Endreinigung\n- Happy Skikarte für 2 Erwachsene für 4 Tage (im Wert von Euro 290,--)\n- 1x freier Eintritt ins Olympiabad Seefeld\n- freie Benutzung der Wellnessoase in unserem Partnerhaus Kerber",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/e1643807-fc4e-4352-9d25-922ce9d7558b/99/image.jpeg",
+              "caption": "Schifahren"
+            }
+          ],
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "5 Tage pures Langlaufvergnügen",
+          "description": "Langlauf Vergnügen auf 279 km perfekten Loipen!\n\nIn der Olympiaregion Seefeld finden Langläufer schon seit vielen Jahren Bedingungen vor, die europaweit ihresgleichen suchen. Unser Loipennetz ist ein wahres Eldorado für alle Langlaufbegeisterten!\n\n5 Tage pures Langlaufvergnügen für 2 Personen:\n\n- Appartement inkl Endreinigung\n- Langlaufkurs klassisch oder Skating für 2 Erwachsene für 3 Tage (Wert Euro 180,-)\n- freie Loipenbenützung\n- freie Benutzung der Wellnessoase in unserem Partnerhaus Kerber",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/79ffbd44-5615-45cb-86fa-acfb82bdf6bd/99/image.jpg",
+              "caption": "Langlauf"
+            }
+          ],
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "6 Tage pures Langlaufvergnügen 5 Tage bezahlen",
+          "description": "Langlauf Vergnügen auf 279 km perfekten Loipen!\n\nIn der Olympiaregion Seefeld finden Langläufer schon seit vielen Jahren Bedingungen vor, die europaweit ihresgleichen suchen. Unser Loipennetz ist ein wahres Eldorado für alle Langlaufbegeisterten!\n\n6 Tage pures Langlaufvergnügen für 2 Personen:\n\n- Appartement inkl Endreinigung\n- Langlaufkurs klassisch oder Skating für 2 Erwachsene für 3 Tage (Wert Euro 180,-)\n- freie Loipenbenützung\n- freie Benutzung der Wellnessoase in unserem Partnerhaus Kerber",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/891a6d67-b0f7-4630-941f-890d8e9c0669/99/image.jpg",
+              "caption": "Langlaufen"
+            }
+          ],
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "7 Tage pures Langlaufvergnügen",
+          "description": "Langlauf Vergnügen auf 279 km perfekten Loipen!\n\nIn der Olympiaregion Seefeld finden Langläufer schon seit vielen Jahren Bedingungen vor, die europaweit ihresgleichen suchen. Unser Loipennetz ist ein wahres Eldorado für alle Langlaufbegeisterten!\n\n7 Tage pures Langlaufvergnügen für 2 Personen:\n\n- Appartement inkl Endreinigung\n- Langlaufkurs klassisch oder Skating für 2 Erwachsene für 3 Tage (Wert Euro 180,-)\n- freie Loipenbenützung\n- freie Benutzung der Wellnessoase in unserem Partnerhaus Kerber",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/10d0957f-364c-4f24-a5b8-bc1f0d831d67/99/image.jpg",
+              "caption": "Langlaufen"
+            }
+          ],
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "3 Tage wunderbare Wanderwelten",
+          "description": "Rund 650 km markierte Wanderrouten und über 60 bewirtschaftete Hütten und Almen sind neben der gewaltigen Gebirgskulisse ein Garant für herrliche Wandererlebnisse am sonnigen Seefelder Hochplateau.\n\n3 Tage Wanderpauschale für 2 Personen:\n\n- 3 Nächte im Appartement für 2 Personen inkl. Endreinigung\n- 1x Karten für die Rosshütte (Achtung: Öffnungszeiten beachten)\n- freie Benutzung der Wellnessoase in unserem Partnerhaus Kerber\n- 1x freier Eintritt ins Olympiabad Seefeld",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/2c73f2fc-3f49-4846-8438-262c3ce833e8/99/image.jpg",
+              "caption": "Wandern"
+            }
+          ],
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "5 Tage wunderbare Wanderwelten",
+          "description": "Rund 650 km markierte Wanderrouten und über 60 bewirtschaftete Hütten und Almen sind neben der gewaltigen Gebirgskulisse ein Garant für herrliche Wandererlebnisse am sonnigen Seefelder Hochplateau.\n\n5 Tage Wanderpauschale für 2 Personen:\n\n- 5 Nächte im Appartement für 2 Personen inkl. Endreinigung\n- 2x Karten für die Rosshütte (Achtung: Öffnungszeiten beachten)\n- freie Benutzung der Wellnessoase in unserem Partnerhaus Kerber\n- 1x freier Eintritt ins Olympiabad Seefeld",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/6cedf07f-d183-44c9-a977-12cdad38468d/99/image.jpg",
+              "caption": "Wandern"
+            }
+          ],
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "7 Tage wunderbare Wanderwelten",
+          "description": "Rund 650 km markierte Wanderrouten und über 60 bewirtschaftete Hütten und Almen sind neben der gewaltigen Gebirgskulisse ein Garant für herrliche Wandererlebnisse am sonnigen Seefelder Hochplateau.\n\n7 Tage Wanderpauschale für 2 Personen:\n\n- 7 Nächte im Appartement für 2 Personen inkl. Endreinigung\n- 2x Karten für die Rosshütte (Achtung: Öffnungszeiten beachten)\n- freie Benutzung der Wellnessoase in unserem Partnerhaus Kerber\n- 1x freier Eintritt ins Olympiabad Seefeld",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/1babd1ad-f780-4cfd-9328-e3981694120b/99/image.jpg",
+              "caption": "Wandern"
+            }
+          ],
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "5 Tage Urlaubspaß für die ganze Familie!",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "7 Tage Urlaubsspaß für die ganze Familie",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "3 Tage Golf spezial",
+          "description": "Genießen Sie 3 Tage im Landhaus am Golfplatz\n\nGolf \u0026 Spa Package 3 Nächte für 2 Personen:\n\n- 3 Nächte inkl. Endreinigung\n- 2 Green Fees beim Golfclub Seefeld Reith direkt vor unserem Haus\n- 2x grosses Frühstück im Clubhaus mit herrlichem Panoramablick (Mo-Fr)\n- 2x köstliches Mittagsmenü 3-gängig im Clubhaus mit herrlichem Panoramablick (Mo-Fr)",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/b3c45af2-f135-486f-aed0-1d0450338882/99/image.jpg",
+              "caption": "Golf"
+            }
+          ],
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "5 Tage Golf spezial",
+          "description": "Genießen Sie 5 Tage im Landhaus am Golfplatz\n\nGolf \u0026 Spa Package 5 Nächte für 2 Personen:\n\n- 5 Nächte inkl. Endreinigung\n- 2 Green Fees beim Golfclub Seefeld Reith direkt vor unserem Haus\n- 2x grosses Frühstück im Clubhaus mit herrlichem Panoramablick (Mo-Fr)\n- 2x köstliches Mittagsmenü 3-gängig im Clubhaus mit herrlichem Panoramablick (Mo-Fr)",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/31904c3b-4b12-4bdf-9e18-4033c55cdc02/99/image.jpg",
+              "caption": "Golf"
+            }
+          ],
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "7 Tage Golf spezial",
+          "description": "Genießen Sie 7 Tage im Landhaus am Golfplatz\n\nGolf \u0026 Spa Package 7 Nächte für 2 Personen:\n\n- 7 Nächte inkl. Endreinigung\n- 2 Green Fees beim Golfclub Seefeld Reith direkt vor unserem Haus\n- 2x grosses Frühstück im Clubhaus mit herrlichem Panoramablick (Mo-Fr)\n- 2x köstliches Mittagsmenü 3-gängig im Clubhaus mit herrlichem Panoramablick (Mo-Fr)",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/ae195d38-4683-4491-9be6-f55dcefc3d1c/99/image.jpg",
+              "caption": "Golf"
+            }
+          ],
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "3 Tage im Bikerparadies Olympiaregion Seefeld",
+          "description": "Genießen Sie 570km Radstrecken mit einzigartigen Aussichten, unberührte Natur wie z.B. im Karwendelpark mit vielfältigen Strecken für jeden Schwierigkeitsgrad \n\n3 Tage im Bikerparadies Olympiaregion Seefeld für 2 Personen:\n\n- 3 Nächte im Appartement inkl. Endreinigung\n- Bike Führer mit 32 der schönsten Radtouren mit detaillierter Beschreibung und Streckenprofil und einem Hüttenverzeichnis\n- freie Benutzung der Wellnessoase in unserem Partnerhaus Kerber\n- 1x freier Eintritt ins Olympiabad",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/193ff269-053f-4e6d-b055-70512f10d43a/99/image.jpg",
+              "caption": "Bike"
+            }
+          ],
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "5 Tage im Bikerparadies Olympiaregion Seefeld",
+          "description": "Genießen Sie 570km Radstrecken mit einzigartigen Aussichten, unberührte Natur wie z.B. im Karwendelpark mit vielfältigen Strecken für jeden Schwierigkeitsgrad \n\n5 Tage im Bikerparadies Olympiaregion Seefeld für 2 Personen:\n\n- 5 Nächte im Appartement inkl. Endreinigung\n- Bike Führer mit 32 der schönsten Radtouren mit detaillierter Beschreibung und Streckenprofil und einem Hüttenverzeichnis\n- freie Benutzung der Wellnessoase in unserem Partnerhaus Kerber\n- 1x freier Eintritt ins Olympiabad",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/b21595d6-5d94-490e-82f1-6e3eb1fb223e/99/image.jpg",
+              "caption": "Bike"
+            }
+          ],
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "7 Tage im Bikerparadies Olympiaregion Seefeld",
+          "description": "Genießen Sie 570km Radstrecken mit einzigartigen Aussichten, unberührte Natur wie z.B. im Karwendelpark mit vielfältigen Strecken für jeden Schwierigkeitsgrad \n\n7 Tage im Bikerparadies Olympiaregion Seefeld für 2 Personen:\n\n- 7 Nächte im Appartement inkl. Endreinigung\n- Bike Führer mit 32 der schönsten Radtouren mit detaillierter Beschreibung und Streckenprofil und einem Hüttenverzeichnis\n- freie Benutzung der Wellnessoase in unserem Partnerhaus Kerber\n- 1x freier Eintritt ins Olympiabad",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/de2bd646-1e58-4114-a031-526e302e445e/99/image.jpg",
+              "caption": "Bike"
+            }
+          ],
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "45.00",
+          "maxPrice": "79.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "49.00",
+          "maxPrice": "89.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "55.00",
+          "maxPrice": "99.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "650.00",
+          "maxPrice": "990.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "650.00",
+          "maxPrice": "990.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "759.00",
+          "maxPrice": "759.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "740.00",
+          "maxPrice": "768.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "539.00",
+          "maxPrice": "630.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "539.00",
+          "maxPrice": "630.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "659.00",
+          "maxPrice": "895.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "275.00",
+          "maxPrice": "275.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "350.00",
+          "maxPrice": "480.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "450.00",
+          "maxPrice": "650.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "470.00",
+          "maxPrice": "470.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "550.00",
+          "maxPrice": "680.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "624.00",
+          "maxPrice": "830.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "255.00",
+          "maxPrice": "255.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "345.00",
+          "maxPrice": "475.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "425.00",
+          "maxPrice": "630.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant"
+  ],
+  "name": "Zugspitze",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3613934",
+    "longitude": "11.1340198"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Hotel Zugspitze",
+    "streetAddress": "Platzl 103",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6201",
+    "faxNumber": "(0043) 5214 6201 5",
+    "email": "info@zugspitze-hotel.at",
+    "url": "http://www.zugspitze-hotel.at"
+  },
+  "description": "Sitzplätze für ca. 80 Personen",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a0dbb424-389a-4da5-8b1f-7119a3489a7c/99/image.jpg",
+      "caption": "Zugspitze Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7a49bdfc-a115-4f54-986a-384d5159eccd/99/image.jpg",
+      "caption": "Zugspitze"
+    }
+  ],
+  "url": [
+    "http://www.zugspitze-hotel.at"
+  ]
+}

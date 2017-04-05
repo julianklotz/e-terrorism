@@ -1,0 +1,52 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "9. Musiktage der Olympiaregion Seefeld - \"Toujours Bach\"",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Faviola",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Walhallastr. 19",
+      "addressLocality": "München",
+      "postalCode": "80639",
+      "addressCountry": "DE",
+      "email": "info@musiktage-seefeld.at",
+      "url": "http://musiktage-seefeld.at"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Faviola",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Walhallastr. 19",
+      "addressLocality": "München",
+      "postalCode": "80639",
+      "addressCountry": "DE",
+      "email": "info@musiktage-seefeld.at",
+      "url": "http://musiktage-seefeld.at"
+    }
+  },
+  "description": "Künstler: Johannes Ascher, Katja Bleijer, Gabriele Ceci, Esther Frey, Francesca Temporin,  Sofiko Tchumburidze, Oskar Kaiser (alle Violine) und Johannes Hämmerle (Cembalo).  Programm: Werke von Johann Sebastian Bach (1685 - 1750). Eintritt: € 20,--.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/47f0ebcb-d82b-43c0-b869-423b2be2de8d/99/image.jpg",
+      "caption": "Musiktage"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/40f94521-acee-4cb5-9672-5c020bfec6f1/99/image.jpg",
+      "caption": "Musiktage1"
+    }
+  ],
+  "url": [
+    "http://www.musiktage-seefeld.at"
+  ],
+  "startDate": "2017-08-22T20:30:00",
+  "endDate": "2017-08-22"
+}

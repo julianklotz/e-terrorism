@@ -1,0 +1,29 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Store",
+    "JewelryStore"
+  ],
+  "name": "Haid-Wagner, Juweilier",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3289484059739",
+    "longitude": "11.1875152587891"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haid-Wagner",
+    "streetAddress": "Bahnhofstr. 33",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2377"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/614b97ed-ad8a-45cc-b6a4-b74e37f417af/99/image.jpg",
+      "caption": "Haid-Wagner"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Panorama",
+    "streetAddress": "Hohe Munde Str. 590 / Top 25",
+    "addressLocality": "Seefeld in Tirol",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "email": "fewo.seefeld@yahoo.de"
+  },
+  "name": "Haus Panorama - Appartement 25",
+  "description": [
+    "Die Wohnung liegt ruhig und direkt gegenüber der Fußgängerzone und verfügt über einen sonnigen Südbalkon. Genießen Sie Ihren Urlaub in zentraler Lage mit schöner Aussicht auf die Berge und auf Seefeld.  \nLassen Sie Ihr Auto einfach vor dem Haus stehen – das meiste ist fußläufig zu erreichen. Auch für Gäste, die mit dem Zug anreisen, ist diese Wohnung optimal gelegen. Der Bahnhof befindet sich nur 500m entfernt.  Langlaufloipe, Skibus sowie das Olympia-Hallenbad befinden sich in unmittelbaren Nähe.\n\nIm Überblick:\n-Separates Schlafzimmer mit Doppelbett\n-Im Wohnzimmer ausziehbare Schlafcouch für 2 Personen\n-Großer sonniger Südbalkon\n-Handtücher und Bettwäsche können bereitgestellt werden\n-Flachbild-Fernseher mit internationalen Programmen\n-Kostenloser Parkplatz vor dem Haus (optional kostenpflichtiger Tiefgaragen-Stellplatz)\n-Voll ausgestattete Küche mit Geschirrspüler und Nespresso-Maschine. Während der Hochsaison können  beim Hausmeister Brötchen bestellt werden.\n-Freies WLAN in der Wohnung\n\nZusätzliche Kosten:\n-Kurtaxe 2,80 € pro Person/Tag (Kinder unter 15 Jahren sind frei). Die Kurtaxe ist vor Ort in bar zu entrichten.",
+    "Bettwäsche kann selbst mitgebracht oder vor Ort gemietet werden (Der Preis für Bettwäsche Hand- und Badetücher beträgt pro Person und Aufenthalt Euro 8,00),\nDer Preis für die Endreinigung bezieht sich auf 2 Personen. \nBrötchenservice im Winter.",
+    "Check-In ab 14.00\nCheck-Out um 10.00"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/99219d89-993a-429a-8fe6-6745350cf64a/99/image.jpg",
+      "caption": "Haus Ansicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d782a5f2-eda6-4934-9464-bde64fb4d049/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/396cca85-1627-4cdf-b913-663030ed50ba/99/image.jpg",
+      "caption": "Winter"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3302799",
+    "longitude": "11.1825601"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 1 Schlafraum",
+      "description": "-Separates Schlafzimmer mit Doppelbett\n-Im Wohnzimmer ausziehbare Schlafcouch für 2 Personen\n-Großer sonniger Südbalkon\n-Handtücher und Bettwäsche können bereitgestellt werden\n-Flachbild-Fernseher mit internationalen Programmen\n-Kostenloser Parkplatz vor dem Haus (optional kostenpflichtiger Tiefgaragen-Stellplatz)\n-Voll ausgestattete Küche mit Geschirrspüler und Nespresso-Maschine. Während der Hochsaison können  beim Hausmeister Brötchen bestellt werden.\n-Freies WLAN in der Wohnung\n\n\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement/Fewo, Bad, WC, 1 Schlafraum",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "60.00",
+          "maxPrice": "250.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "70.00",
+          "maxPrice": "260.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "80.00",
+          "maxPrice": "270.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "HealthAndBeautyBusiness",
+    "BeautySalon"
+  ],
+  "name": "Krumers Post Hotel \u0026 Spa",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3286211703941",
+    "longitude": "11.1874401569366"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Krumers Post Hotel \u0026 Spa",
+    "streetAddress": "Dorfplatz  25",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "+4352122201",
+    "faxNumber": "+4352122201500",
+    "email": "post@krumers.com",
+    "url": "http://www.krumers.com"
+  },
+  "description": [
+    " ",
+    "Massagen, Kosmetik, Finnische Sauna, Bio Sauna, Dampfbad, Infrarotkabine, Indoor-Pool, Damensauna, Solarium, Fitnessraum, Gymnastikraum\n\n\n"
+  ],
+  "url": [
+    "http://www.krumers.com"
+  ]
+}

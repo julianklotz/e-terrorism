@@ -1,0 +1,33 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Store",
+    "Winery"
+  ],
+  "name": "\"Feine Weine\" im Landhaus Marie",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3767806203116",
+    "longitude": "11.1557736490738"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Gasse 162",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6218",
+    "url": "http://www.landhaus-marie.at"
+  },
+  "description": "Feine Weine \u0026 regionale Spezialitäten\n\nim Landhaus Marie (ehemals Pension Wetterstein im Ortsteil Gasse in Leutasch)\n\nÜberraschen Sie Ihre Freunde und liebe Mitmenschen mit unseren Geschenkideen oder einem erlesenen Tropfen. Unser Sortiment umfasst ebenfalls kulinarische Köstlichkeiten aus der Region.\n\nGeräucherter Schinken \u0026 Speck. Ausgewählte Weine \u0026 Spirituosen. Verschiedene Speiseöle (Olivenöl, Nussöl). Preiselbeeren \u0026 Honig. Präsente aus Zirbenholz, Kissen, diverse Dekoration \u0026 Handwerkliches aus der Region, sowie vieles mehr ...",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/09aa9f11-e3e7-4c03-aa23-423fee4932e6/99/image.jpg",
+      "caption": "Feine Weine \u0026 regionale Spezialitäten"
+    }
+  ],
+  "url": [
+    "http://www.landhaus-marie.at"
+  ]
+}

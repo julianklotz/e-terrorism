@@ -1,0 +1,176 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.gaestehaus-waidach.com",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Gästehaus Waidach",
+    "streetAddress": "Waidach 295",
+    "addressLocality": "Scharnitz",
+    "postalCode": "6108",
+    "addressCountry": "AT",
+    "telephone": "004352135353",
+    "faxNumber": "004352135353",
+    "email": "info@gaestehaus-waidach.com",
+    "url": "http://www.gaestehaus-waidach.com"
+  },
+  "name": "Gästehaus Waidach",
+  "description": [
+    "\nHerzlich willkommen im Gästehaus Waidach in Scharnitz in Tirol. Verbringen Sie bei uns einen erholsamen Urlaub zu zweit oder mit der ganzen Familie inmitten des schönen Karwendelgebirges. Unser Gästehaus liegt zentral und doch sehr ruhig. Abseits der Straße und direkt an dem türkisblauen Fluss Isar erleben und spüren Sie Natur pur! \nIn dem familiär geführten Gästehaus stehen Ihnen 3 geschmackvoll eingerichtete Ferienwohnungen zur Verfügung. In Ihrem Urlaub legen Sie Wert auf Tradition und möchten diese auch beim Wohnen spüren? Dann sind Sie bei uns richtig. Der Großteil der Möbel in den Appartements wurde, in liebevoller Handarbeit vom Chef persönlich, aus heimischem, hellem Massivholz angefertigt. Der traditionelle Tiroler Stil spiegelt sich in allen Räumen wieder und die angenehme Dekoration macht Ihren Aufenthalt heimelig. \nDie Ferienwohnungen von 25m² bis 75m² eignen sich für 2-5 Personen. Das größte Appartement besteht aus Wohnraum mit großer Essecke, abgeteilter Küche, 2 Schlafzimmer, 2 Badezimmer sowie einen Balkon.\nDie Ferienwohnung mit 60m² ist aufgeteilt in einen Wohn-Schlafraum mit abgeteilter Kochnische, großer Essecke, separates Schlafzimmer, Badezimmer mit Dusche, WC getrennt, Vorraum mit Garderobe und Balkon. Das kleine aber feine Appartement eignet sich ideal für 2 Personen und verfügt über einen Wohn-Schlafraum, einer kleinen Küche, Badezimmer mit Dusche/WC und Balkon.\nIn allen Wohnungen gibt es kostenloses W-Lan und Kabel-TV. Die Küchen sind komplett, mit allen notwendigen Utensilien ausgestattet.\nDas Gästehaus Waidach in Scharnitz befindet sich im wohl schönsten Naturpark der Ostalpen. Eine Fahrradtour oder Wanderung mit der gesamten Familie zum Isarursprung, eine Gipfelbesteigung zur Birkkarspitze im Sommer, eine Skitour bzw. Winterwanderung zur Pleisenhütte oder eine Schneeschuhtour zum Mühlberg im Winter – dies ist nur ein kleiner Auszug aus den unzähligen Möglichkeiten an Aktivitäten, die Ihnen Scharnitz und das Karwendel bietet. Die urigen Almen laden zum Rasten und Jausnen ein.\nZurück von einem erlebnisvollen Urlaubstag finden Sie Ruhe und Erholung auf unserer Liegewiese.\nIm Gästehaus Waidach in Scharnitz sind Sie der Natur so nah wie nirgendwo anders!\nFamilie Draxl freut sich auf Sie!",
+    "\nInklusive: Strom, Heizung, Bettwäsche, Bade + Handtücher, Fahrradverleih, Liegestühle im Garten\nExklusive: Ortstaxe, Endreinigung\nKinderermäßigung auf Anfrage! Kleine Hunde nur auf Anfrage, pro Tag € 5,-.\nCheck in 15.00 Uhr Check out 10.00 Uhr",
+    "Check in 15.00 Uhr \nCheck out 10.00 Uhr\nWeg: Von Scharnitz-Grenze kommend, liegt unser Haus in der Nähe des Dorfzentrums, vorbei am Tourismusbüro u. gleich nach der Brücke rechts, zwischen 2 Häusern abbiegen und folgen Sie den Hinweisschildern Gästehaus Waidach."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/cee6bdae-b729-4a15-950e-9660ba885f43/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/94f74b64-8e8b-4770-9107-2c55f91ea610/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/05c414fa-e711-4652-8c84-bdd9a133a0fd/99/image.jpg",
+      "caption": "Eingangsbereich"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/805647be-cb23-4489-ad70-233f80784244/99/image.jpg",
+      "caption": "Garten"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3901857216555",
+    "longitude": "11.2628853321075"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC",
+      "description": "\nAppartement Nr. 1 eingerichtet in freundlicher,heller Vollholzmöblierung, bestehend aus: Wohnschlafraum, separate Küche m. kompletter Kücheneinrichtung, DU/WC, Südbalkon + Kabel TV. Kostenloses WLAN! Kleine Hunde nur auf Anfrage und werden mit € 5.- pro Tag berechnet.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment Nr. 1 /1 WohnSchlafraum/DU/WC",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "40.00",
+          "maxPrice": "49.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "\nAppartement Nr. 2,komfortable eingerichtet in hellen, freundlichen Massivholzmöbel. Bestehend aus: Wohnraum mit großer Essecke und Ausziehcouch, abgeteilte Küche (komplett ausgestattet) 1 Schlafzimmer, Flachbild (80cm) Kabel TV, Badezimmer, Südbalkon. WLAN - kostenfrei! Kleine Hunde nur auf Anfrage und werden mit € 5,- pro Tag berechnet!",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment Nr. 2 /1 Schlafraum/Dusche/WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "55.00",
+          "maxPrice": "60.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "67.00",
+          "maxPrice": "72.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "90.00",
+          "maxPrice": "95.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "\nFerienwohnung NR. 3, 4-6 Personen, bestehend aus Wohnraum mit großer Essecke und bequemer Ausziehcouch)abgeteilter Küche, mit kompletter Kücheneinrichtung, Vorraum mit Garderobe, Kabel-TV, WLAN - kostenfrei, Radio, Mikrowelle, Backofen, 2 Schlafzimmer, 2 Badezimmer mit D/WC (wobei bei einem Badezimmer, D/WC separat ist), Balkon. Kleine Hunde nur nach vorheriger Rücksprache, es werden pro Tag € 5,- berechnet!",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment Nr. 3 /2 Schlafraum/Dusche/WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "55.00",
+          "maxPrice": "60.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "67.00",
+          "maxPrice": "72.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "85.00",
+          "maxPrice": "95.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

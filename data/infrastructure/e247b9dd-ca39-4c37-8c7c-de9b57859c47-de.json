@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure"
+  ],
+  "name": "Parkplatz Mühlberg P4",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3830237061334",
+    "longitude": "11.2537849877442"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Gemeinde Scharnitz",
+    "streetAddress": "Adolf-Klinge-Platz 72",
+    "addressLocality": "Scharnitz",
+    "postalCode": "6108",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5213 5204 0",
+    "email": "gemeinde@scharnitz.tirol.gv.at",
+    "url": "http://www.scharnitz.tirol.gv.at"
+  },
+  "description": "Parkplatz Ried und Mühlberg:\nParkdauer: 1 Tag 4,00 € (vier Euro), 3 Tage 7,00 € (sieben Euro), 4.-9. Tag 12,00 € (zwölf Euro)\nAn jedem Parkschein kann ein Bonn im Wert von € 2,-- abgetrennt werden, welcher in Scharnitz eingelöst werden kann.\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/dce9459d-e18f-4e5a-9fdd-4d6dee33254b/99/image.jpg",
+      "caption": "Parkplatz"
+    }
+  ],
+  "url": [
+    "http://www.scharnitz.tirol.gv.at",
+    "http://karwendel.org"
+  ]
+}

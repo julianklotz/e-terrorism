@@ -1,0 +1,93 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.hochwanner.com",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Hochwanner",
+    "streetAddress": "Klamm 63",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6501",
+    "url": "http://www.hochwanner.com"
+  },
+  "name": "Haus Hochwanner",
+  "description": [
+    "Unser Haus liegt am Eingang ins Wanderparadies Gaistal. Direkt  hinter unserem Haus steigt man in die Plaikloipe ein. Unser Haus ist mit Zirbenmöbeln ausgestattet.",
+    "Anreise durch das ganze Leutaschtal. Unser Haus liegt an der Straße- fast am Ende des Tales. Anreise bis ca. 19.00 Uhr, Abreise bis ca. 10.00 Uhr."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f95263a9-8bb0-44ab-889b-a5c4e285b972/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f74a1036-8e94-4cec-b6b2-0e89978b47b4/99/image.jpg",
+      "caption": "Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3622633351054",
+    "longitude": "11.1177633091139"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Einzelzimmer, Dusche",
+      "description": "Mit hellen Möbeln eingerichtet, - Laminatfussboden.Dusche im Zimmer- WC am Gang.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Einzelzimmer mit Dusche",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche",
+      "description": "rustikale Zirbenkiefer Möbel, Dusche im Zimmer - WC am Gang.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Dusche",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

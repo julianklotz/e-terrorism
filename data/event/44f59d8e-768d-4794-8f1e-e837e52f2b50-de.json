@@ -1,0 +1,54 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "Motorsport Tag Seefeld 2017",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Autosport Seefeld",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Kindergartenweg 840/24",
+      "addressLocality": "Seefeld",
+      "postalCode": "6100",
+      "addressCountry": "AT",
+      "telephone": "+436645435003",
+      "email": "info@mst-seefeld.at",
+      "url": "http://www.autosport-seefeld.at"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Autosport Seefeld",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Kindergartenweg 840/24",
+      "addressLocality": "Seefeld",
+      "postalCode": "6100",
+      "addressCountry": "AT",
+      "telephone": "+436645435003",
+      "email": "info@mst-seefeld.at",
+      "url": "http://www.autosport-seefeld.at"
+    }
+  },
+  "description": "Der Motorsport Tag - ein Event der Sonderklasse, präsentiert vom Autosport Club Seefeld\nVerschiedenste Fahrzeugmodelle starten in vorgegebenen Klassen: Sportwägen über 300 PS, Youngtimer über 200 PS und Oldtimer über 30 Jahre. Die „roadbookgeführte“ Rallye mit actionreichen Überraschungen führt durch die einzigartige Bergwelt Tirols. \nProgramm: \n09.30 Uhr: Aufreihung der Fahrzeuge, 10.00 Uhr: Start der Fahrzeuge am Dorfplatz in Seefeld zur Rallye, 17.00 Uhr: Gemeinsamer Zieleinlauf in Seefeld, Autocorso mit Präsentation der Fahrzeuge, anschließend Siegerehrung.\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/cfb37a04-0894-4f6c-a358-d7385e252587/99/image.jpg",
+      "caption": "MST"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ed57c94c-8864-4cb7-af99-c24f2a5b8ada/99/image.jpg",
+      "caption": "MST1"
+    }
+  ],
+  "url": [
+    "http://www.mst-seefeld.at"
+  ],
+  "startDate": "2017-06-24T09:00:00",
+  "endDate": "2017-06-24"
+}

@@ -1,0 +1,30 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation"
+  ],
+  "name": "Beachvolleyball",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3225160276981",
+    "longitude": "11.1919848656066"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Strandperle Seefeld",
+    "streetAddress": "Innsbrucker Str. 500",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2436",
+    "email": "info@strandperle.at",
+    "url": "http://www.strandperle.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0bfae449-1b0e-4219-863a-58d70cb4e3ac/99/image.jpg",
+      "caption": "Beachvolleyball"
+    }
+  ]
+}

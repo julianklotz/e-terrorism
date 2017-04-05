@@ -1,0 +1,60 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant"
+  ],
+  "name": "Hubertushof",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.4007947490132",
+    "longitude": "11.1806323825562"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Erlebnishotel Hubertushof",
+    "streetAddress": "Reindlau 230 a",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6561",
+    "faxNumber": "(0043) 5214  6961",
+    "email": "office@hubertushof-leutasch.at",
+    "url": "http://www.hubertushof-leutasch.at"
+  },
+  "description": "Sitzplätze für ca. 40 Personen\n\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/dae81986-209d-468f-ac57-eaf00c924110/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4ab49ed4-9128-4a01-aaee-e15243c5d82b/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0d547ffd-6b1d-42aa-a708-3ea6d8879bd1/99/image.jpg",
+      "caption": "Restaurant"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4bd74015-7c2e-480f-94c8-b7e992787bdb/99/image.jpg",
+      "caption": "Restaurant Bild 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/dae119f6-1c4a-4cba-902a-f98e89d6aa9b/99/image.jpg",
+      "caption": "Terrasse"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1d5c3261-4b86-40b1-bc15-12d6c68e15de/99/image.jpg",
+      "caption": "Speisen"
+    }
+  ],
+  "url": [
+    "http://www.hubertushof-leutasch.at"
+  ]
+}

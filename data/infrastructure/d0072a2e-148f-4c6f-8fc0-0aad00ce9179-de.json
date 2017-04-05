@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Church",
+    "CatholicChurch"
+  ],
+  "name": "Pfarrkirche St. Johannes der Täufer",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.4155435649594",
+    "longitude": "11.2091445922852"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Pfarrkirche Hl. Johannes",
+    "streetAddress": "Unterkirchen",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043)52146235"
+  },
+  "description": [
+    " ",
+    "Im Gegensatz zu Oberleutasch gab es in Unterleutasch vor dem 19. Jahrhundert keine eigene Kirche. Die Unterleutascher pfarrten in das bayerische Mittenwald, wohin sie kirchlich seit altersher gehörten. Erst im Jahre 1803 brachte ein Hofdekret Kaiser Franz II. die Erlaubnis, eine Kirche zu bauen, doch aufgrund der kriegerischen Ereignisse von 1805 und der nachfolgenden bayerischen Herrschaft konnte das Bauvorhaben nicht realisiert werden. Erst Mitte 1827 bewilligte ein Dekret der Hofkanzlei den Bau. Ende desselben Jahres wurde dann endgültig damit begonnen: unter dem Gemeindevorsteher Matthias Reindl als Baudirektor und unter dem zuständigen Straßenmeister\nJohann von Klebelsberg, dem wohl die Baupläne zuzuschreiben sind, baute Josef Waldhart aus Imst bis Ende 1829 Kirche und Widum. Es entstand ein nüchternes Langhaus mit einem eingezogenen, gerade anschließenden Chor. Beide Bauteile bedecken ein Walmdach, das von\neinem Turm im Westen durchstoßen wird. Durch den 1955 angebrachten Windfang betritt man das Innere mit der runden, ehemaligen Taufkapelle und der Orgelempore im Vorjoch, an das ein quadratisches, durch halbkreisförmige Fenster beleuchtetes Langhaus mit einer flachen Hängekuppel schließt. Die westliche geöffnete Bogenstellung führt zum tonnenüberwölbten, rechteckigen Chor. Unterleutasch, das damals aus 18 Haushalten bestand, war für die Kirchenausstattung größtenteils auf Spenden angewiesen. Ein geschenkter Altar aus Reutte und ein Tabernakel aus Oberperfuss konnten jedoch für die neuerbaute Kirche nicht angenommen werden, und so wurde über Vermittlung des Oberleutascher Kuraten Franz Sieß ein neuer Altar bei Franz Xaver Renn in Imst für ein schon vorhandenes Altarblatt in Auftrag gegeben. Dieses Blatt, es stellt in metallisch harten Farben eine Predigt des Hl. Johannes des Täufers dar, ist eine Arbeit des ausgehenden 18. Jahrhunderts des in Imst gebürtigen Malers Josef Leibherr. Ebenfalls auf Initiative von Pfarrer Karl Kneisl wurde die Kirche 1978 restauriert. Man beseitigte die nazarenischen „Verschönerungen“, die beide Kirchen nach ihrer Erhebung zu Pfarren 1891 von Johann Kärle erhalten hatten und stellte den ursprünglichen Zustand wieder her."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/79041ca4-8504-41fe-8871-dc843c20ef15/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/84214f58-5e3d-4206-a90d-d3851436cd44/99/image.jpg",
+      "caption": "Kirche Hl. Johannes der Täufer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3ec32ce6-13f7-40da-a2ca-469843c237e4/99/image.jpg",
+      "caption": "Rückseite"
+    }
+  ]
+}

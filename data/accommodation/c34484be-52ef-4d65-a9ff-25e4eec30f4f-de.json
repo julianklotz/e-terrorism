@@ -1,0 +1,338 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.adlerhof.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Adlerhof",
+    "streetAddress": "Kirchplatzl 130",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6618",
+    "faxNumber": "(0043) 5214 6618 20",
+    "email": "leutasch@adlerhof.at",
+    "url": "http://www.adlerhof.at"
+  },
+  "name": "Adlerhof",
+  "description": [
+    "Der ideale Ausgangspunkt für Ihre Wanderungen und Langlauftouren. Der Adlerhof liegt in ruhiger Lage, auf sonniger Anhöhe und doch zentral.\nSie fühlen sich frei wie ein Vogel und werden einen erholsamen Urlaub erleben.\nAuf Sie, als neue Stammgäste freut sich Familie Plunser.",
+    "Der ideale Ausgangspunkt für Ihre Wanderungen und Langlauftouren. Der Adlerhof liegt in ruhiger Lage, auf sonniger Anhöhe und doch zentral.\nSie fühlen sich frei wie ein Vogel und werden einen erholsamen Urlaub erleben.\nAuf Sie, als neue Stammgäste freut sich Familie Plunser.",
+    "Der ideale Ausgangspunkt für Ihre Wanderungen und Langlauftouren. Der Adlerhof liegt in ruhiger Lage, auf sonniger Anhöhe und doch zentral.\nSie fühlen sich frei wie ein Vogel und werden einen erholsamen Urlaub erleben.\nAuf Sie, als neue Stammgäste freut sich Familie Plunser.",
+    "Der ideale Ausgangspunkt für Ihre Wanderungen und Langlauftouren. Der Adlerhof liegt in ruhiger Lage, auf sonniger Anhöhe und doch zentral.\nSie fühlen sich frei wie ein Vogel und werden einen erholsamen Urlaub erleben.\nAuf Sie, als neue Stammgäste freut sich Familie Plunser.",
+    "INKLUSIVE: Strom, Heizung, Mehrwertsteuer, Geschirr, Handtücher, Tisch- und Bettwäsche\n\nEXKLUSIVE: Ortstaxe, Endreinigung, Telefongesprächskosten, Frühstücksgebäck (Brötchenservice)",
+    "INKLUSIVE: Strom, Heizung, Mehrwertsteuer, Geschirr, Handtücher, Tisch- und Bettwäsche\n\nEXKLUSIVE: Ortstaxe, Endreinigung, Telefongesprächskosten, Frühstücksgebäck (Brötchenservice)",
+    "DAS FERIENHAUS ADLERHOF LIEGT IN LEUTASCH, ORTSTEIL KIRCHPLATZL. FOLGEN SIE DEN GRÜNEN ADLERHOF HINWEISSCHILDERN.",
+    "DAS FERIENHAUS ADLERHOF LIEGT IN LEUTASCH, ORTSTEIL KIRCHPLATZL. FOLGEN SIE DEN GRÜNEN ADLERHOF HINWEISSCHILDERN.",
+    "DAS FERIENHAUS ADLERHOF LIEGT IN LEUTASCH, ORTSTEIL KIRCHPLATZL. FOLGEN SIE DEN GRÜNEN ADLERHOF HINWEISSCHILDERN.",
+    "Leutasch"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.4",
+    "reviewCount": "19"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c7d8f85a-8228-4926-9c7c-8be7c56e32e8/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9a87cc35-423b-4cee-872e-f1a06e974773/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6aee19c9-1187-4d21-9afb-46ac33f97150/99/image.jpg",
+      "caption": "Hausansicht m. Regenbogen"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.369111115877",
+    "longitude": "11.137480189129"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Vorraum mit Garderobe und Spiegel, Wohn-/Schlafzimmer, Miniküche mit gemütlicher Sitzecke, separates Zimmer mit Schlafcouch für 3. Person, TV, Radiowecker, Dusche/WC, 40 m², Ost Balkon. 1. Etage",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment 1/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "87.00",
+          "maxPrice": "87.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "54.00",
+          "maxPrice": "87.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "54.00",
+          "maxPrice": "87.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC",
+      "description": "Vorraum mit Garderobe und Spiegel, Wohn-/Schlafzimmer, Miniküche, gemütliche Sitzecke, TV, Radiowecker, Dusche/WC, \n28 m2,  Süd Balkon, 1. Etage.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment 2 /Wohn-Schlafraum/Dusche, WC",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "39.00",
+          "maxPrice": "59.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "39.00",
+          "maxPrice": "59.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC",
+      "description": "Wohn-/Schlafzimmer, Miniküche, gemütliche Sitzecke, Garderobe und Spiegel, Radiowecker, TV, Dusche/WC, 25 m², Süd Balkon, 1. Etage",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment 3/Wohn-Schlafraum/Dusche, WC",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "37.00",
+          "maxPrice": "55.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "37.00",
+          "maxPrice": "55.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Vorraum mit Garderobe und Spiegel, Wohnraum mit Miniküche und gemütlicher Sitzecke, separates Schlafzimmer, TV, Radiowecker, Dusche/WC, 30 m², Südwest Balkon, 1. Etage",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment 4 /1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "44.00",
+          "maxPrice": "70.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "44.00",
+          "maxPrice": "70.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Vorraum, Garderobe und Spiegel, Wohnraum, Miniküche mit gemütlicher Sitzecke,Schlafcouch für 3. Person,separates Schlafzimmer, 2 TV\u0027s, Radiowecker, Dusche/WC, 40 m², Ost- Balkon, 2. Etage.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment 5 /1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "87.00",
+          "maxPrice": "87.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "54.00",
+          "maxPrice": "87.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "54.00",
+          "maxPrice": "54.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Garderobe und Spiegel, Wohnküche mit gemütlicher Sitzecke, separates Schlafzimmer, Schlafcouch für 3. Person, 2 Farb-TV\u0027s, Dusche/WC, 35 m2, große Süd West Terrasse, 2. Etage.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment 6 /1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "54.00",
+          "maxPrice": "97.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "54.00",
+          "maxPrice": "97.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Garderobe und Spiegel, Wohnraum mit Miniküche und gemütlicher Sitzecke, separates Schlafzimmer, TV, Radiowecker, Dusche/WC, 28 m², Süd Terrasse, Parterre",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment 7 /1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "37.00",
+          "maxPrice": "55.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "37.00",
+          "maxPrice": "55.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

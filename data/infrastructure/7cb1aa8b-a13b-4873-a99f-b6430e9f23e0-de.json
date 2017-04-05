@@ -1,0 +1,28 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Store"
+  ],
+  "name": "Hundesalon \u0026 Boutique Bella",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3285339072304",
+    "longitude": "11.188942193985"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Hundesalon \u0026 Boutique Bella",
+    "streetAddress": "Bahnhofsplatz ",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 50313"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c1f63147-bf98-4438-8e37-d63371b71efd/99/image.gif",
+      "caption": "Hundesalon \u0026 Boutique Bella"
+    }
+  ]
+}

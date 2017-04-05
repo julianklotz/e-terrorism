@@ -1,0 +1,73 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Appartement Genziana",
+    "streetAddress": "Olympia Straße 59 /Top 22",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 699 17866781",
+    "email": "info@holiday-seefeld.at",
+    "url": "http://www.holiday-seefeld.at"
+  },
+  "name": "Appartement Genziana",
+  "description": "Dieses neue, atmosphärvolle Apartment befindet sich im Zentrum von Seefeld. Vom Wohnraum mit offener Küche kommt man auf einen überdachten Balkon. Die Küche ist mit einem Ceran-Kochfeld mit 4 Kochfeldern, einem Backofen, einem Gefrierschrank, einem Kühlschrank sowie einem Geschirrspüler ausgestattet. Im Wohnraum befindet sich ein schöner Esstisch, zwei bequeme Couchen, eine Kommode, ein Flachbildschirm-TV und ein DVD-Player.\nDas Apartment Genziana hat zwei Schlafzimmer mit jeweils einem Doppelbett und Schrank. Eines der beiden Schlafzimmer hat Zugang zum überdachten Balkon. Das Bad ist mit Badewanne und Dusche, Toilette und Bidet ausgestattet. Eine Gästetoilette befindet sich noch im Vorraum.\nDie Wellnesseinrichtungen der Anlage können Sie gratis benützen.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/063d14b8-d847-4493-ae13-4808f0772630/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/477ab605-b5d4-4c84-8d12-c227c41517e4/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e6502d41-f2b2-4fb1-a9ff-7c7ddae5fb65/99/image.jpg",
+      "caption": "Aussicht 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5e3adb24-111e-495c-88c4-f77e59d05e43/99/image.jpg",
+      "caption": "Ruheraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7ced306d-9802-4b2a-8bfa-b81656a9d71c/99/image.jpg",
+      "caption": "Sauna"
+    }
+  ],
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 2 Schlafräume",
+      "description": "Dieses neue, atmosphärvolle Apartment befindet sich am Beginn der Fußgängerzone in Seefeld. Vom Wohnraum mit offener Küche kommt man auf einen breiten überdachten Balkon. Die Küche ist mit einem Ceran-Kochfeld mit 4 Kochfeldern, einem Backofen, einem großen Gefrierschrank, einem Kühlschrank sowie einem Geschirrspüler ausgestattet. \nDas Apartment hat zwei Schlafzimmer mit jeweils einem Doppelbett und Schrank. Das Bad ist mit Badewanne und Dusche, Toilette und Bidet ausgestattet.  ",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement, 2 Schlafräume",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ]
+    }
+  ]
+}

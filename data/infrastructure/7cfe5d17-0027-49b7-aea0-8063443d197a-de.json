@@ -1,0 +1,33 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "VeterinaryCare"
+  ],
+  "name": "Tierarzt - Dr. Thomas Angerer",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3690541",
+    "longitude": "11.1572102"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Weidach 291a",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 61410",
+    "email": "doc.dolittle@aon.at",
+    "url": "http://www.tierartzpraxis-angerer.at"
+  },
+  "description": "Weidach 291 a\nTel.: +43 5214/6141",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/897e4e03-5034-4c75-b828-73b8a9b1d552/99/image.jpg",
+      "caption": "Tierarztpraxis Angerer"
+    }
+  ],
+  "url": [
+    "http://www.tierartzpraxis-angerer.at"
+  ]
+}

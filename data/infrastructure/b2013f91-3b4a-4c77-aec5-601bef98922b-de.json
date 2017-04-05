@@ -1,0 +1,20 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LakeBodyOfWater"
+  ],
+  "name": "Der Wildsee",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "description": "Namensprägend für die 1022 erstmals urkundlich erwähnte Ansiedlung \"Sevelt\" (Feld am See) dürfte der schon damals existente Wildsee gewesen sein. Zur Zeit Kaiser Maximilians wurde dort eine Fischart eingesetzt, welche dem See seinen \"zweiten\" Namen gab (Lampretensee\"). Allerdings war die wirtschaftliche Nutzung des Sees nur auf wenige Jahrzehnte beschränkt. Er trug und trägt weiterhin zur Schönheit der Seefelder Hochfläche bei und ist heute mit seinen zwei Standbadanlagen ein beliebter Badesee. Das südliche Ufer des Sees mit dem Reither Moor ist wegen seiner botanischen Besonerheiten seit 1926 Naturschutzgebiet. ",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/23ceb998-833c-49aa-9366-24f44907db62/99/image.jpg",
+      "caption": "Wildsee"
+    }
+  ]
+}

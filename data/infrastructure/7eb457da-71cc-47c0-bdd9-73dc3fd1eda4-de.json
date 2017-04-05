@@ -1,0 +1,28 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Store"
+  ],
+  "name": "Unikat",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3260541187373",
+    "longitude": "11.1890172958374"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Unikat",
+    "streetAddress": "Innsbrucker Str. 116",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 52556"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e52cc45c-bedf-46c0-986b-5db96a3d1d1a/99/image.jpg",
+      "caption": "Unikat"
+    }
+  ]
+}

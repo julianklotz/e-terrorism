@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BankOrCreditUnion"
+  ],
+  "name": "Raiffeisen-Regionalbank Telfs",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3117999",
+    "longitude": "11.1456724"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Filiale Mösern",
+    "streetAddress": "Möserer Dorfstr. 11",
+    "addressLocality": "Mösern",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "faxNumber": "(0043) "
+  },
+  "description": [
+    "Nur Bankomat!",
+    "Nur Bankomat!"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/29345467-125a-461c-9c40-61ed71633ae3/99/image.jpg",
+      "caption": "Bank"
+    }
+  ]
+}

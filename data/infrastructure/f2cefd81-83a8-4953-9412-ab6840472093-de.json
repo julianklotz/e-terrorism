@@ -1,0 +1,29 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "EntertainmentBusiness",
+    "TouristAttraction"
+  ],
+  "name": "Gerhard Neuner, Kunstschlosserei",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3290647559137",
+    "longitude": "11.1971068382263"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Römerweg 284",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2724",
+    "url": "http://www.kunstschlosserei-neuner.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/80f9d5a9-7737-4234-8785-584e0e19787d/99/image.jpg",
+      "caption": "Neuner"
+    }
+  ]
+}

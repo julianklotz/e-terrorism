@@ -1,0 +1,131 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.pensionchristl.at/",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Beim Christl",
+    "streetAddress": "Münchnerstr. 70",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2468",
+    "faxNumber": "(0043) 5212 2468",
+    "email": "walder1@aon.at",
+    "url": "http://www.pensionchristl.at"
+  },
+  "name": "Haus Beim Christl",
+  "description": [
+    "Altes Haus mit angenehmer Atmosphäre, angemessener Komfort. Ein Haus für Romantiker u. Individualisten. Sie können Ihre Haustiere, Ihr Cello oder Ihre Gitarre mitnehmen. Wir legen großen Wert auf Ungezwungenheit u. das Wohlbefinden unserer Gäste.",
+    "Keine Kosten für Haustiere, Parkplatz",
+    "Wir begrüßen unsere neu ankommenden Gäste gerne zwischen 08:00 Uhr morgens bis 22:00 Uhr abends."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e4a7bc50-3ad9-4d45-ab0b-fa3c42b6fe1d/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c97eacbe-4d8a-406f-8ef6-5ee6da62005a/99/image.jpg",
+      "caption": "Haus Beim Christl Sommeransicht Seefeld in Tirol"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4146b8c5-a9eb-49f7-afbe-944fdc26d7d8/99/image.jpg",
+      "caption": "Haus beim Christl Sonnenterrasse Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a60c71bf-d46e-497b-81e2-9e852cecace5/99/image.jpg",
+      "caption": "Haus beim Christl Fernsehstube Seefeld"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3338930523881",
+    "longitude": "11.1907124519348"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Einzelzimmer, Dusche, WC",
+      "description": "Zimmer mit Dusche und WC ausgestattet. Mit/ ohne Balkon. Rustikal, gemütlich.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Einzelzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "30.00",
+          "maxPrice": "40.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Rustikal, gemütlich.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "30.00",
+          "maxPrice": "40.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "30.00",
+          "maxPrice": "40.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "FoodEstablishment"
+  ],
+  "name": "Woods Kitchen \u0026 Bar",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3279620038912",
+    "longitude": "11.1818507404755"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Woods kitchen \u0026 bar",
+    "streetAddress": "Klosterstraße 120",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "+43521253210",
+    "email": "kontakt@woods-seefeld.at",
+    "url": "http://www.woods-seefeld.at"
+  },
+  "description": "Woods ist das neue, einzigartiges\nGastronomie-Erlebnis in Seefeld!\nMit ganztägig warmer Küche steht Woods für gute\nQualität, viele regionale Produkte und raffinierte\ninternationale/ asiatische Gerichte mit dem\ngewissen Etwas.\nAußerdem bietet das Woods auf seiner Terrasse\nein Lounge-Deck, eine Panoramabar, eine\nShow-Küche und ein gemütliches Ambiente vor\noffenem Feuer.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c6c9ea0e-8a7f-46e2-aed9-37cea76cb0ea/99/image.jpg",
+      "caption": "Woods"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3ac37820-e6bf-4560-81b5-12f1d6d26f38/99/image.jpg",
+      "caption": "Woods 2"
+    }
+  ],
+  "url": [
+    "http://www.woods-seefeld.at"
+  ]
+}

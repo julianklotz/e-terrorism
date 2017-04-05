@@ -1,0 +1,108 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://web.deskline.net/seefeld/de/show_accommodation/SEE/9f3e6263-fb6d-45a0-ae5a-54718af3f976/haus_sch%c3%b6ne_aussicht",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Schöne Aussicht",
+    "streetAddress": "Andreas-Hofer-Str. 212",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2228",
+    "faxNumber": "(0043) 5212 2228",
+    "email": "schoene_aussicht@aon.at"
+  },
+  "name": "Haus Schöne Aussicht",
+  "description": "8 Minuten vom Bahnhof und Ortszentrum entfernt, 2 Minuten von der Talstation der Bergbahnen Rosshütte.\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/28a4fa49-97f1-4bcc-b51d-706e9f9555e4/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e763c948-834d-48cd-b258-151b6ee53646/99/image.jpg",
+      "caption": "Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3304027617996",
+    "longitude": "11.1972141265869"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Zweibettzimmer, fl. k/w Wasser",
+      "description": "Familiäres Haus, ruhige Lage am Waldrand mit herrlichem Ausblick auf die Berglandschaft, 8 Minuten vom Ortszentrum und 2 Minuten von der Talstation der Bergbahnen Rosshütte entfernt, Shuttlebushaltestelle in nächster Nähe.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Zweibettzimmer mit fl. Wasser",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "23.00",
+          "maxPrice": "23.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, fl. k/w Wasser",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit fl. Wasser",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "23.00",
+          "maxPrice": "23.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

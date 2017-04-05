@@ -1,0 +1,54 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "20. Altes Handwerk Tirol - Handwerksfest",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Kaufmannschaft Seefeld",
+    "employee": {
+      "@type": "Person",
+      "givenName": "Ernst",
+      "familyName": "Meier"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Bahnhofstraße",
+      "addressLocality": "Seefeld",
+      "postalCode": "6100",
+      "addressCountry": "AT",
+      "telephone": "(0043)664 3405058",
+      "email": "e.meier@aon.at",
+      "url": "http://www.einkaufserlebnis.at"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Kaufmannschaft Seefeld",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Bahnhofstraße",
+      "addressLocality": "Seefeld",
+      "postalCode": "6100",
+      "addressCountry": "AT",
+      "telephone": "(0043)664 3405058",
+      "email": "e.meier@aon.at",
+      "url": "http://www.einkaufserlebnis.at"
+    }
+  },
+  "description": "Von den Berufsgruppen wie Geigenbauer, Nagelschmied, Wagner und Federkielsticker gibt es heutzutage nur noch wenige, die das Handwerk beherrschen. Beim 20. Alten Handwerk Tirol werden diese traditionellen Berufe zum Leben erweckt. Für die Besucher bietet sich die Möglichkeit, den „alten Meistern ihres Könnens“ bei der Arbeit über die Schulter zu schauen. In der gesamten Fußgängerzone werden dieses Jahr Frauen und Männer aus Nord-, Süd-, und Osttirol sowie aus Salzburg, Kärnten Vorarlberg und Bayern, von Handwerkern über Trachtenvereine und Musikanten dieses Fest gestalten. \n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6fd5fd9b-6a57-4d23-bdc6-59ff928eb9e8/99/image.jpg",
+      "caption": "Handwerk"
+    }
+  ],
+  "url": [
+    "http://www.einkaufserlebnis.at"
+  ],
+  "startDate": "2017-09-09T10:30:00",
+  "endDate": "2017-09-10"
+}

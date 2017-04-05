@@ -1,0 +1,30 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation"
+  ],
+  "name": "Pub à la Pub",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3711034373981",
+    "longitude": "11.1656858296387"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Pub à la Pub",
+    "streetAddress": "Weidach 302b",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105 ",
+    "addressCountry": "AT",
+    "telephone": "(0043)5214 6980",
+    "email": "hans.rauth@aon.at"
+  },
+  "description": "Weidach\nTel.: 05214/6980\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ac3b087b-93ad-4b6e-860c-953c39442288/99/image.jpg",
+      "caption": "Billard"
+    }
+  ]
+}

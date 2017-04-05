@@ -1,0 +1,60 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "Live Piano- und Loungemusik mit Julian",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Seyrling GmbH \u0026 CoKG",
+    "employee": {
+      "@type": "Person",
+      "familyName": "Hotel Klosterbräu"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Klosterstr. 30",
+      "addressLocality": "Seefeld",
+      "postalCode": "6100",
+      "addressCountry": "AT",
+      "telephone": "+4352122621",
+      "faxNumber": "+4352123885",
+      "email": "info@klosterbraeu.com",
+      "url": "http://www.klosterbraeu.com"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Seyrling GmbH \u0026 CoKG",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Klosterstr. 30",
+      "addressLocality": "Seefeld",
+      "postalCode": "6100",
+      "addressCountry": "AT",
+      "telephone": "+4352122621",
+      "faxNumber": "+4352123885",
+      "email": "info@klosterbraeu.com",
+      "url": "http://www.klosterbraeu.com"
+    }
+  },
+  "description": "Freier Eintritt, keine Reservierung nötig!",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/425dd1b5-ffc8-4762-9b04-b46da34d2768/99/image.jpg",
+      "caption": "Hotel Klosterbräu"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/23a8f338-ec0c-4ddb-b7e1-c4b11ee8b622/99/image.jpg",
+      "caption": "Pianomusik"
+    }
+  ],
+  "url": [
+    "http://www.klosterbraeu.com"
+  ],
+  "startDate": "2017-06-15T18:30:00",
+  "endDate": "2017-11-26"
+}

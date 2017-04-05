@@ -1,0 +1,453 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness",
+    "Hotel"
+  ],
+  "url": [
+    "http://www.ideintirol.com",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Gh Pension Reiterklause",
+    "streetAddress": "Unterkirchen 244 a",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 20327",
+    "faxNumber": "0043 5214 20327",
+    "email": "ideintirol@gmail.com",
+    "url": "http://www.ideintirol.com"
+  },
+  "name": "Gh Pension Reiterklause",
+  "description": [
+    "Gemütliches Gästehaus mit Cafe, Imbiss und Sonnenterrasse, häuslich, Familienanschluss. Im Cafe befindet sich ein Kamin mit Salon. Kinderspielecke ebenfalls vorhanden. Außen Spielwiese, Schwimmbecken, Trampolin...u.v.m",
+    "Fahrrad € 10 pro 1/2 Tag; ganzer Tag € 15",
+    "Check in 15.00 Uhr / Check out 11.00 Uhr\nUnser Haus liegt auf den Verbindungsweg von Mittenwald nach Weidach. Von München aus folgen Sie garmisch-Partenkirchen und dann Leutasch. \nVon Innsbruck aus folgen Sie der A12 Richtung Bregenz Ausfahrt Seefeld - in Seefeld folgen sie Weidach und danach folgen sie die Wegweiser Richtung Mittenwald."
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "reviewCount": "340"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/837fad48-384f-43dd-bb6a-215667fb157f/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ef15e9bb-9a87-4050-94f0-ca17f6b689ef/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4705d309-0c1c-4a18-ad45-f84a48980465/99/image.jpg",
+      "caption": "Terrasse"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d4802938-2860-4270-8b82-0dde4632f703/99/image.jpg",
+      "caption": "Ferienhaus"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/66b16e5a-abb0-4030-b743-205e80b73fad/99/image.jpg",
+      "caption": "Ferienhäuser"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/215b0223-c690-49c3-8812-4a084cecd271/99/image.jpg",
+      "caption": "Grillhütte"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ffa163fc-fd2d-4490-a170-329d0df82b8e/99/image.jpg",
+      "caption": "Grillhütte innen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/aad36c29-b472-4103-8760-2b9624a5be39/99/image.jpg",
+      "caption": "Schiraum"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ab1f2281-1dc6-4452-b9b0-9a523a0645a6/99/image.jpg",
+      "caption": "Sonnenbank"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.4152478620804",
+    "longitude": "11.210034573294"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Familienzimmer, Dusche, WC",
+      "description": "Gemütliches Familienzimmer mit separatem Kinderzimmer und separatem Badezimmer, gr. Kleiderschrank, Handtücher, Haarföhn, Gratis Wifi und Flachbildfernseher. Zustellbett möglich.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Familienzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "2"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Familienzimmer mit Dusche",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "2"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "27.50",
+          "maxPrice": "27.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "27.50",
+          "maxPrice": "27.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "27.50",
+          "maxPrice": "27.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "27.50",
+          "maxPrice": "27.50",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "95.00",
+          "maxPrice": "95.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "105.00",
+          "maxPrice": "150.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "115.00",
+          "maxPrice": "150.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "125.00",
+          "maxPrice": "150.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Gemütliche Grosse Doppelzimmer mit separatem Badezimmer, gr. Kleiderschrank, Handtücher, Haarföhn, Gratis Wifi und Flachbildfernseher.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzi. 3, 6, 9 mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer Standard",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "74.00",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "80.00",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Kleinere Doppelzimmer mit separatem Badezimmer; gr. Kleiderschrank, Handtücher, Föhn, Gratis Wifi und Flachbildfernseher.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzi. 2, 8  mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "DZ klein",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "64.00",
+          "maxPrice": "81.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "70.00",
+          "maxPrice": "70.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Große Gemütliche Doppelzimmer mit Balkon, separatem Badezimmer, gr. Kleiderschrank, Handtücher und Haarföhn.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzi. 4, 5  mit Balkon, Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "DZ mit Balkon",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "84.00",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "90.00",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Ferienhaus, Dusche, WC, 3 Schlafräume",
+      "description": "Wir haben 3 wunderschöne Holzhütten mit 87m2 Wohnfläche als Ferienwohnungen verfügbar.\nDie Ausstattung:\n \nParkplatz:\n- Mindestens 3 Abbstellplätze pro Hütte\n \nEingang:\n- Garderobe - Extra abgetrennte Toilette mit Handwaschbecken - Beheizte Lagermöglichkeit für Skimaterial ( Schuhe, Helme,Handschuhe, usw... )\n \nWohnraum:\n- Schöne und gemütliche Ecksessel für die gemütliche Abende. ( Ecksessel kann man umbauen in 2 extra Schlafplätze )\n- Flachbildschirm Fernseher mit Sat-Empfang und DVD Spieler - Wireless lan ( Wifi ) - Kamin für extra Gemütlichkeit. ( Holz steht gratis zur Verfügung ) - Esstisch für 8 Personen - Angenehme, gemütliche Atmosphäre durch Verwendung vieler natürlichen Materialien.\n \nKüche:\n- E-Herd - Spüle - Mikrowelle - Geschirrspülmaschine - Senseo und normale Kaffeemaschine - Toaster - Wasserkocher - Besteck, Teller, Gläser und Töpfe - Putzlappen und Kuchenhandtuch - Staubsauger und Vileda Schuerlappen.\n \nSchlafzimmer:\n- 2 separate Boxspringbetten die sie nach Wahl zusammen oder getrennt aufstellen können. Kleiderschrank in hochwertige Materialien.\n- Strom und Beleuchtung beim Nachttisch - Getrenntes Thermostat, um die Temperatur im Schlafzimmer zu verringern.\n \nBadezimmer:\n- Haarfön - Komplett ausgerüstetes Badezimmer mit Einlaufdusche; Waschbecken und ausreichend Platz für Kosmetiksachen.\nAufgepasst, Im Badezimmer sind keine Handtücher. Diese sind separat bestellbar für 2€ pro Stuck.\n \nTerrasse:\n- Komplett ausgerüstet mit Gartenmöbeln für 8 Personen und BBQ zum Grillen.\n\nDie Preise liegen zwischen 600 € und 1200 € pro woche und pro Hutte je nach saison. ( Siehe Belgungsplan )\n\n    * Frühstück zusätzlich 6 € pro Person pro Tag.\n    * Halbpension zusätzlich 14 € pro Person pro Tag (dreigängiges Menü) Ausser Getränke\n    * Anreise Samstag ab 15.00h. / Abreise Samstag bis 10.00h.\n    * Preise sind inklusive Kurtaxe fur max 8 Personen.\n\nFür weitere Information, können Sie uns jederzeit kontaktieren!",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Ferienwohnung",
+          "numberOfRooms": "4.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "114.00",
+          "maxPrice": "200.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "114.00",
+          "maxPrice": "200.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "114.00",
+          "maxPrice": "200.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "114.00",
+          "maxPrice": "200.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "114.00",
+          "maxPrice": "200.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "114.00",
+          "maxPrice": "200.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Einzelzimmer, Dusche, WC",
+      "description": "Gemütliche Enzelzimmer mit separatem Badezimmer, gr. Kleiderschrank, Handtücher, Haarföhn, Gratis Wifi und Flachbildfernseher.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Einzelzimmer,7, Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "30.00",
+          "maxPrice": "55.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

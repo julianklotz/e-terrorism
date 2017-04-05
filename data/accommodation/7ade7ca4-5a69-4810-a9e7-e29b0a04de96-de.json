@@ -1,0 +1,17 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Am Anger 10",
+    "addressLocality": "Mösern bei Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0039) 32 95799394",
+    "email": "martinezelina@hotmail.com"
+  },
+  "name": "ZW - Alberti Simone",
+  "currenciesAccepted": "EUR"
+}

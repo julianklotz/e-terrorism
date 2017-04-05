@@ -1,0 +1,233 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.landhauslaura.com",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Landhaus Laura",
+    "streetAddress": "Klamm 71 d",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 20279",
+    "email": "info@landhauslaura.com",
+    "url": "http://www.landhauslaura.com"
+  },
+  "name": "Landhaus Laura",
+  "description": [
+    "Auf einer Anhöhe gelegen in ruhiger und sonniger Lage befindet sich das Landhaus Laura im Leutaschtal in Tirol. Sowohl zum Langlaufen auf den 271 km perfekt präparierten Loipen, als auch für Wanderungen, Bergtouren oder gemütliche Spaziergänge in der Olympiaregion Seefeld ist das Landhaus Laura in Leutasch der optimale Ausgangspunkt.\n\nDie gemütlichen Appartements verfügen alle über eine komplett ausgestattete Küche, Dusche/WC, SAT-TV sowie einen Südbalkon, von welchen Sie die wunderbare Naturkulisse der Leutasch in vollen Zügen genießen können. Des Weiteren können Sie in allen vier Ferienwohnungen das WLAN gratis nutzen. In den beiden Ferienwohnungen „Hohe Munde“ sowie „Gehrnspitz“, sind der Wohn- und Schlafbereich getrennt. Das Appartement „Ahrnspitz“ ist mit 40 m2 die größte der vier Ferienwohnungen, dort stehen einem zwei getrennten Schlafzimmer zur Verfügung.\n\nEntspannen Sie sich in der großen Liegewiese und genießen Sie die herrliche Lage am Waldrand inmitten der traumhaften Natur. Auch verfügt das Ferienhaus über einen Gartengrill mit Grillecke – der perfekte Platz, um den Tag gemütlich ausklingen zu lassen. Damit sich auch unsere kleinen Gäste austoben können, gibt es im Garten einen kleinen Kinderspielpatz.\n\nIm Winter überzeugt das Landhaus Laura mit dem Loipeneinstieg, welcher sich keine 100 m vor der Haustüre befindet. Außerdem erhalten unsere Gäste das Loipenticket kostenlos! Da das Leutaschtal auch einige tolle Rodelbahnen zu bieten hat, können im Haus Laura gerne Rodel ausgeliehen werden. Im Sommer ist das Ferienhaus mit seiner tollen Lage der perfekte Startpunkt für viele verschiedene Wanderungen, Bergtouren aber auch für viele schöne Mountainbike- und Radtouren. Solange der Vorrat reicht, stellen wir unseren Gästen auch gerne kostenlos Fahrräder zur Verfügung. Damit Sie sich z.B. nach einer langen Bergtour so richtig entspannen können, bieten wir unseren Gästen von Mai bis Oktober freien Eintritt in das Schwimmbad „ErlebnisWelt Alpenbad“ in Leutasch.\n\nVerbringen Sie Ihre schönsten Tage im Jahr hier im Landhaus Laura. Wir freuen uns schon sehr darauf Sie in unserem Ferienhaus in Leutasch in Tirol begrüßen zu dürfen!",
+    "Inklusive: ganzjährig Heizung, Wasser, Strom, Wasch- Bügelmöglichkeit, Brötchenservice, Sonnenterrasse, Liegewiese mit Grillecke, Gartenmöbeln und Kinderspielen, Bettwäsche, Tisch- Hand- und Spültücher\nVon Mai bis Oktober freier Eintritt im Alpenbad Leutasch. Im Winter Loipengebühr.\nRodel und Fahrräder(auch mit Kindersitz).",
+    "Check-In 16.00 Uhr\nCheck-Out 10.00 Uhr\n"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/10d25b53-da70-41fc-9d6f-2e8b5ad334a2/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/83a92d1f-8c85-4419-8d79-eb6c2ea3e271/99/image.jpg",
+      "caption": "Winter "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/70f8bff5-3a56-493a-81bd-e11517c4ec2d/99/image.jpg",
+      "caption": "Spielplatz"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1d8ec97c-5b61-43d9-8e18-48a4b9b6c57b/99/image.jpg",
+      "caption": "Haus"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3649719197328",
+    "longitude": "11.1252021304413"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "WOHNZIMMER MIT KOMPLETT KÜCHE, SCHLAFZIMMER, BADEZIMMER MIT DUSCHE/WC UND SÜDBALKON",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Ap. Hohe Munde/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "40.00",
+          "maxPrice": "75.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "40.00",
+          "maxPrice": "75.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "WOHNZIMMER MIT KOMPLETT KÜCHE, SCHLAFZIMMER, BADEZIMMER MIT DUSCHE/WC UND SÜD-WESTBALKON",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Ap. Gehrnspitz/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "40.00",
+          "maxPrice": "75.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "40.00",
+          "maxPrice": "75.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "45.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "50.00",
+          "maxPrice": "85.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC",
+      "description": "WOHNSCHLAFZIMMER MIT DOPPELBETT UND KOMPLETT EINGERICHTETER KÜCHE, BADEZIMMER MIT DUSCHE/WC UND SÜDBALKON",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Ap. Hochmoos/Wohn-Schlafraum/Dusche, WC",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "29.00",
+          "maxPrice": "58.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "29.00",
+          "maxPrice": "58.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "WOHNZIMMER MIT KOMPLETT KÜCHE, SCHLAFZIMMER, KINDERZIMMER, BADEZIMMER MIT DUSCHE/WC UND SÜDBALKON",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Ap. Ahrnspitz/2 Schlafräume/Dusche, WC",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "48.00",
+          "maxPrice": "90.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "48.00",
+          "maxPrice": "90.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "53.00",
+          "maxPrice": "95.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "58.00",
+          "maxPrice": "100.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

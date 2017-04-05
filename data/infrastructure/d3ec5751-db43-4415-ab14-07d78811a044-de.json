@@ -1,0 +1,29 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "JewelryStore",
+    "Store"
+  ],
+  "name": "Seefeld Present, Schmuck",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3290792996382",
+    "longitude": "11.1848866939545"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Seefeld Present",
+    "streetAddress": "Klosterarkaden 608",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2031"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b9dd9b2b-881c-445c-bd42-b5c1e2cbd047/99/image.jpg",
+      "caption": "Seefeld Present"
+    }
+  ]
+}

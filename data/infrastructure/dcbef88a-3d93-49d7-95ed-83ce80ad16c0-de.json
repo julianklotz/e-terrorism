@@ -1,0 +1,33 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation",
+    "TouristAttraction"
+  ],
+  "name": "E-Bike Verleih - Hotel Seespitz-Zeit",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3257957162297",
+    "longitude": "11.1889521682617"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Hotel Seespitz-Zeit",
+    "streetAddress": "Innsbruckerstr. 1",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2217",
+    "faxNumber": "(0043) 5212 2218 50",
+    "email": "info@seespitz.at",
+    "url": "http://www.seespitz.at"
+  },
+  "description": "E-Bike Verleih nur für Hausgäste.\n\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/162212d3-f26d-433b-ba35-48a29fdfec65/99/image.jpg",
+      "caption": "E-Bike"
+    }
+  ]
+}

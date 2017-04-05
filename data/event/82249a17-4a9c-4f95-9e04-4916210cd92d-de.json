@@ -1,0 +1,50 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "Waldfest \"anno dazumal\" der Steinrösler Sänger",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Steinrösler Sänger",
+    "employee": {
+      "@type": "Person",
+      "givenName": "Robert",
+      "familyName": "Wackerle"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Leutasch",
+      "postalCode": "6105",
+      "addressCountry": "AT",
+      "url": "http://www.steinroesler.tirol"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Steinrösler Sänger",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Leutasch",
+      "postalCode": "6105",
+      "addressCountry": "AT",
+      "url": "http://www.steinroesler.tirol"
+    }
+  },
+  "description": "Detailliertes Programm folgt noch!\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5b4a54ae-f547-4fa1-837a-a0eac1a65b14/99/image.jpg",
+      "caption": "steinrösler sänger"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/67fc3086-40ff-4a76-bba0-1f48a9bf3575/99/image.jpg",
+      "caption": "steinrösler"
+    }
+  ],
+  "startDate": "2017-08-15T10:00:00",
+  "endDate": "2017-08-15"
+}

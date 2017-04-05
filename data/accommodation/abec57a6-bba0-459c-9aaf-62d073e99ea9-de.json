@@ -1,0 +1,78 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.seefeld.com/de/unterkunft/haus-neuner-isabella_dad-17691_accommodation",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Neuner Isabella",
+    "streetAddress": "Moos 8",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6816",
+    "faxNumber": "(0043) 5214 6816",
+    "email": "neuner.isabella@aon.at"
+  },
+  "name": "Haus Neuner Isabella",
+  "description": [
+    "Sonnige, ruhige Waldrandlage, abseits der Straße, 50 m zur Langlaufloipe, Ausgangspunkt für schöne Wanderungen, Nichtraucherhaus, Terrasse mit Blick auf die Hohe Munde.",
+    "Inklusive: Heizung, Strom, Frühstück\n\nExklusive: Kurtaxe",
+    "Mitenwald: Unterleutasch - Gasse - Kirchplatzl - Obern - Moos\n\nSeefeld: Weidach - Kirchplatzl - Obern - Moos\n\nTelfs - Buchen - Moos",
+    "ruhige Lage, Wandern, Sport, Langlauf, Bike, Mountainbike, Gaistal, Fahrrad, Winter, Sommer, aktiv"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0cb55bcb-8373-42f6-b70c-26cc8c83885d/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/79521bd3-ef54-4044-83ae-408d0f5fb9d6/99/image.jpg",
+      "caption": "Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.34664181117",
+    "longitude": "11.124761579757"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "FW für 2 bis 4 Pers., 50 m², Schlafzimmer, Wohn-Schlafraum, DU/WC, komplett eingerichtete Kochnische, Wohnraum mit Essecke, SAT-TV, Terrasse",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "50.00",
+          "maxPrice": "50.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

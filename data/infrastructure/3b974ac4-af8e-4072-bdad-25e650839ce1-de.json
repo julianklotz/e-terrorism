@@ -1,0 +1,40 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant"
+  ],
+  "name": "Waldhotel, Waldschenke",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3316789260474",
+    "longitude": "11.1973911523819"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Waldhotel",
+    "streetAddress": "Römerweg 106",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "0043 5212 2207",
+    "faxNumber": "0043 5212 2001 30",
+    "email": "info@waldhotel-seefeld.at",
+    "url": "http://www.waldhotel-seefeld.at"
+  },
+  "description": "Sitzplätze für ca. 120 Personen",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/abea3464-6e34-43c3-a08f-76a8c0ad6fcb/99/image.jpg",
+      "caption": "Waldhotel Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0733c61f-705f-499d-b910-0574c2e3ad5e/99/image.jpg",
+      "caption": "Waldhotel Winter"
+    }
+  ],
+  "url": [
+    "http://www.waldhotel-seefeld.at"
+  ]
+}

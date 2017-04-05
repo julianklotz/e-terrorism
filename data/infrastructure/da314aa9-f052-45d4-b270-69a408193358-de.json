@@ -1,0 +1,33 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure"
+  ],
+  "name": "E-Tankstelle Krumers Post Hotel \u0026 Spa",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Krumers Post Hotel \u0026 Spa",
+    "streetAddress": "Dorfplatz 25",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 52122201",
+    "email": "post@krumers.com"
+  },
+  "description": "Speziell für Gäste aus der Region München, Ober- und Niederbayern bietet sich unsere Ladestation ideal an und lädt zu einem Zwischenstopp bei uns im Hotel ein. Auf dem Hotelparkplatz der Krumers Post Hotel \u0026 SPA finden alle Elektrocar-Besitzer eine Ladestation mit Schukostecker (230 V / 3,7 kW) und Typ2-Stecker (400 V – 11,1 kW). Gäste im Krumers Post Hotel \u0026 SPA parken und tanken gratis, für auswärtige Besucher beträgt der Tarif 0,20 € pro kW. Es stehen insgesamt 2 Ladeplätze zur Verfügung!",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d4b0fe74-ddd2-49b7-bd49-00419680fa66/99/image.jpg",
+      "caption": "E-Tanke Krumers"
+    }
+  ],
+  "url": [
+    "http://"
+  ]
+}

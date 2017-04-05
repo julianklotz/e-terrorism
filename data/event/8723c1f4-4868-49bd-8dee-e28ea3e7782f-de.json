@@ -1,0 +1,73 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "11. Leutascher Bergfrühlingstage - \"Vollmondwanderung\"",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Informationsbüro Leutasch",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Weidach 320",
+      "addressLocality": "Leutasch",
+      "postalCode": "6105",
+      "addressCountry": "AT",
+      "telephone": "+43-50880510",
+      "faxNumber": "+43-50880811",
+      "email": "info.leutasch@seefeld.com",
+      "url": "http://www.seefeld.com"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Naturwirt",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Gasse 190",
+      "addressLocality": "Leutasch",
+      "postalCode": "6105",
+      "addressCountry": "AT",
+      "telephone": "(0043) 5214 20182",
+      "faxNumber": "(0043) 5214 20182 22",
+      "email": "info@naturwirt.at",
+      "url": "http://www.naturwirt.at"
+    }
+  },
+  "description": "„VOLLMONDWANDERUNG„ (ca. 2 Stunden, nur bei klarer Nacht)\nVollmondnächte sind besondere Nächte, auch heute noch. Bei einer Wanderung im Silberlicht des Mondes erfahren wir etwas über Leutascher Geheimnisse. Beim Vollmondspaziergang entzünden wir ein Feuer und trinken „Feuerwasser”. ",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/45c7d7ae-73c1-40ed-8e30-73e42e12548c/99/image.jpg",
+      "caption": "bergfrühl"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b56ffd1c-c433-46bf-a724-c77ae02c68c0/99/image.jpg",
+      "caption": "bergfrühling"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/04f7a12c-cc3e-4383-a750-24487b4a6cd8/99/image.jpg",
+      "caption": "bergfrühling1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7b3be2f8-5bc9-4e54-8fd8-17600534c7c9/99/image.jpg",
+      "caption": "bergfrühling2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b2b0cf29-9091-4368-850f-7049b98451ca/99/image.jpg",
+      "caption": "bergfrühling3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c1cf7c5b-c497-4202-95b9-b8f48f981ed0/99/image.jpg",
+      "caption": "bergfrühling4"
+    }
+  ],
+  "startDate": "2017-06-09T22:00:00",
+  "endDate": "2017-06-09"
+}

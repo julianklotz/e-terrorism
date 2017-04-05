@@ -1,0 +1,251 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.ferienhaeuser-plattner.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Landhaus Bianca",
+    "streetAddress": "Gschwandtkopfweg 80",
+    "addressLocality": "Reith bei Seefeld",
+    "postalCode": "6103",
+    "addressCountry": "AT",
+    "telephone": "0043 5212 2544",
+    "faxNumber": "(0043) 5212 2544",
+    "email": "info@ferienhaeuser-plattner.at",
+    "url": "http://www.ferienhaeuser-plattner.at"
+  },
+  "name": "Landhaus Bianca",
+  "description": [
+    "Unser Haus liegt südseitig, in ruhiger Umgebung mit Blick auf unsere herrliche Bergwelt, an den Lärchenwiesen des Gschwandtkopfes.\nIn unmittelbarer Nähe befindet sich ein Schilift, die Langlaufloipen und wunderschöne Wanderwege. 2 km vom Zentrum in Seefeld entfernt. Eigener Parkplatzt direkt hinter dem Haus. Die Haltestelle für Schi- und Wanderbus ist in nur einer Minute erreichbar.\nPreise: exclusive Endreinigung und Kurtaxe",
+    "Kurtaxe 2,80 Euro pro Person und Tag\nEndreinigung beträgt 40,00 Euro\n(Handtücher-Bettwäsche-Geschirr sind im Preis enthalten)\nZahlungsmodalitäten:Wir akzeptieren leider keine Kredit- oder Bankomat Karten! \nCheck IN: 15:00-17.00\nCheck OUT:10:00 \nWir richten uns nach den AGB`s fuer die Hotellerie (AGBH)\n",
+    "Wenn Sie von Deutschland oder von Italien kommen, dann fahren Sie von der B177 bei Reith bei Seefeld/ Auland aus.Dann immer gerade aus, Richtung Hotel Alpenkönig. Das Landhaus Bianca befindet sich direkt unter dem Hotel Alpenkönig auf der rechten Seite. (Adresse: Gschwandtkopfweg 80 - 6103 Reith bei Seefeld)"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/07be862e-b872-4778-aa02-095db6893e69/99/image.jpg",
+      "caption": "Ferienwohnung Haus Bianca Herbst"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a15a2ffd-e739-4735-9cc5-4313bc3446d6/99/image.jpg",
+      "caption": "Logo"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d140a470-163a-4a14-a0a0-63707e5481bf/99/image.jpg",
+      "caption": "Ferienwohnung Haus Bianca Herbst"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/cb7a2be6-0e6d-402a-865e-9b161a32d57d/99/image.png",
+      "caption": "Ferienwohnung Haus Bianca-Familienwappen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5bebba3c-fd1a-404e-83f6-8fa8d34d57bb/99/image.jpg",
+      "caption": "Ferienwohnung Haus Bianca Sommer 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5f91c063-0754-437f-a3ee-b45d6f45bf5f/99/image.jpg",
+      "caption": "Ferienwohnung Haus Bianca Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3fc34442-6436-4e31-8520-6b6d7dfb02bc/99/image.jpg",
+      "caption": "Ferienwohnung Haus Bianca Sommer Außenansicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/fb7f3da2-37af-4188-88a8-142d0d794bb7/99/image.jpg",
+      "caption": "Ferienwohnung Haus Bianca Sommer Pergola"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9263a373-6b03-44dd-a3dc-c7a8e99f3106/99/image.jpg",
+      "caption": "Ferienwohnung Haus Bianca Ausblick"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/11d17626-9a6a-45a2-800d-824d5f1843ce/99/image.jpg",
+      "caption": "Ferienwohnung Haus Bianca Ausblick"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/caee0d35-0f44-4f4b-8057-c47e117d227b/99/image.jpg",
+      "caption": "Ferienwohnung Haus Bianca Sommer Freundschafthügl"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/532aa10f-14f8-42ed-880d-3c493120e049/99/image.jpg",
+      "caption": "Ferienwohnung Haus Bianca Sommer Liegewiese"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4a2ba91c-a0d4-4fa8-ae23-4fe263dc83eb/99/image.jpg",
+      "caption": "Ferienwohnung Haus Bianca Sommer Haus von unten"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6a4ee577-a719-4e93-a971-3f726b04bac8/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/cca8c00e-c592-449b-ace9-7a4e21803f26/99/image.jpg",
+      "caption": "Ferienwohnung Haus Bianca Winterlandschaft"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4c2afb98-0d4d-4625-b2a7-ecb5bccbf883/99/image.jpg",
+      "caption": "Ferienwohnung Haus Bianca Winterlandschaft"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/817e9f27-c9d9-4b7c-a08f-995860afd55d/99/image.jpg",
+      "caption": "Ferienwohnung Haus Bianca Winterlandschaft"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a947641f-3ff4-43a4-b710-7180f000def6/99/image.jpg",
+      "caption": "Ferienwohnung Haus Bianca Winterlandschaft"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/82aac320-5039-45c0-828c-4fdd5ff45bb4/99/image.jpg",
+      "caption": "Ferienwohnung Haus Bianca Winterlandschaf"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/dd163b40-f831-4794-aaf7-efc7925b02a1/99/image.jpg",
+      "caption": "Ferienwohnung Haus Bianca Winterlandschaft"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7bb580fe-72f0-4e83-9474-ab159c8e8134/99/image.jpg",
+      "caption": "Ferienwohnung Haus Bianca Winterlandschaft"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f8fd0f55-38ad-4dd4-bb92-57c76539ea36/99/image.jpg",
+      "caption": "Ferienwohnung Haus Bianca Sommerlandschaft"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/bdea4473-0bd1-4fa7-828f-e33f37892c6c/99/image.jpg",
+      "caption": "Ferienwohnung Haus Bianca Sommerlandschaft"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1170cc34-1a3c-4cfd-9d8b-d1657c345fd1/99/image.jpg",
+      "caption": "Ferienwohnung Haus Bianca Sommerlandschaft"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/18f58da9-55f0-4ff6-b742-4a00ec57bbc3/99/image.jpg",
+      "caption": "Ferienwohnung Haus Bianca Sommerlandschaft"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3084889530911",
+    "longitude": "11.1976533969461"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 1 Schlafraum",
+      "description": "Lage:sonnige, ruhige Lage in Auland – Reith bei Seefeld (2 km bis ins Dorfzentrum von Seefeld)\nAusstattung Ferienwohnung 1: (Schlafgelegenheit für maximal 5 Erwachsene)\nWohnzimmer (Couch mit Schlafgelegenheit für 2 Personen)\nSchlafzimmer mit Doppelbett und ein zusätzliches Einzelbett\nKüche mit Durchreiche zur Essecke\nBadezimmer mit Doppelwaschbecken, Badewanne und WC\nGroßer Garten bzw. Liegewiese hinter dem Haus\nFerienwohnung verfügt über kostenloses SAT-TV, Internet und W-LAN Anschluss ",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Nr. 1, Apartment/1 Schlafraum/Bad, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "56.00",
+          "maxPrice": "73.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "63.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "70.00",
+          "maxPrice": "87.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "95.00",
+          "maxPrice": "95.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Das Appartement ist südseitig gelgen mit einem herrlichen Blick auf das tiroler Bergpanorama.\nWohnzimmer (Couch mit Schlafgelegenheit für 2 Personen)\nSchlafzimmer mit Doppelbett\nKüche\nBadezimmer mit Dusche und WC\nEigene Terrasse und großer Garten/Liegewiese mit Pergola.\nFerienwohnung verfügt über kostenloses SAT-TV, Internet und WLAN Anschluss!!\nGeschirr-Handtücher-Bettwäsche inklusive\n1 Baby Bett vor Ort (kostenfrei)\n\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Nr. 2, Apartment/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "56.00",
+          "maxPrice": "73.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "60.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

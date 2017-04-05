@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation"
+  ],
+  "name": "Sport Aktiv Schi \u0026 Snowboard - Schule, Langlaufschule, Golfschule, Eisstock",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3247839",
+    "longitude": "11.1797586"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Sport Aktiv",
+    "streetAddress": "Gschwandtkopf 702",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 99870",
+    "email": "office@schisportaktiv.at",
+    "url": "http://www.schisportaktiv.at"
+  },
+  "description": "Langlauf: Klassisch und Skating: Beginn Montag, 09.30 Uhr 3 Tage a 2 Std. € 95,00 Privatunterricht fur Langlauf und Nordic Walking 1 Std. pro Person € 60,00.\n\nSkifahren: Gruppenunterricht: Kurszeiten: 10.00 - 12.00 Uhr und 13.30 - 15.30 Uhr, Kursbeginn: Erwachsene Mo, Kinder (ab 5 J.) So + Mo, z.B. 5 Tage a 4 Std. ab € 179,00, Kindermittagsbetreuung inkl. Essen/Tag € 15,00, 5 Tage Kinderschikurs inkl. Mittagsbetreuung € 242,00 Kinderschnupperkurs: MINIS Beginn: Montag 9.30 - 11.30 Uhr, Kinder (3 bis 5 J.) z.B. 5 Tage.a 2 Std. inkl. Liftkarte ab € 154,00\nSnowboard: Beginn: Montag, Kurszeiten: 10.00 - 12.00 Uhr o. 14.00 - 16.00 Uhr z.B. 5 Tage a 2 Std. € 177,00 Privatunterricht: fur Schi Alpin,  Snowboard, etc. 2 Std. 10.00-12.00 Uhr oder 12.00-14.00 Uhr 1 - 2 Personen € 162,00 2 Std. 14.00 - 16.00 Uhr 1 - 2 Personen € 118,00 4 Std. 10.00 - 12.00 Uhr u. 14.00 - 16.00 Uhr 1 - 2 Personen € 236,00 jede weitere Person € 15,00. \n\nPreise fur Schirennen, Schneegolf, Fun Olympics, Fackelwanderungen, Eisschiesen, Schneeschuhwanderungen, Rodeln mit Hüttenabend und Variantenschilauf auf Anfrage.\n\nGolf (nur im Sommer):\nGolfschnupperstunde beim Golfclub Seefeld-Reith: Montag und Mittwoch: 14.00 - 15.00 Uhr, pro Person € 17,00\nwww.golfschule-seefeld.eu\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3e7c1e0c-5eb4-4848-a90f-23321ce8aeb0/99/image.jpg",
+      "caption": "Golfschule"
+    }
+  ],
+  "url": [
+    "http://www.skisportaktiv.at"
+  ]
+}

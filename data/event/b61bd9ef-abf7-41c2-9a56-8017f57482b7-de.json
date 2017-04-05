@@ -1,0 +1,51 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "Konzert mit dem Trio \"Boogielicious\" - mit Swing durch den Sommer",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Interalpen-Hotel Tyrol GmbH",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Dr.Hans-Liebherr-Alpenstrasse 1",
+      "addressLocality": "Telfs-Buchen",
+      "postalCode": "6410",
+      "addressCountry": "AT",
+      "telephone": "+4305080930",
+      "faxNumber": "+4305080937190",
+      "email": "reservation@interalpen.com",
+      "url": "http://www.interalpen.com"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Interalpen-Hotel Tyrol GmbH",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Dr.Hans-Liebherr-Alpenstrasse 1",
+      "addressLocality": "Telfs-Buchen",
+      "postalCode": "6410",
+      "addressCountry": "AT",
+      "telephone": "+4305080930",
+      "faxNumber": "+4305080937190",
+      "email": "reservation@interalpen.com",
+      "url": "http://www.interalpen.com"
+    }
+  },
+  "description": "Genießen Sie einen Sommerabend mit dem abwechslungsreichen Programm des Trios „BOOGIELICIOUS“, das quer durch die Anfänge der Geschichte des Jazz führt. Das Trio lässt mit seinem breiten Spektrum vom klassischen Boogie Woogie über erdigen Blues bis hin zum Rock\u0027 n Roll -, New Orleans- und Old Time Jazz Musikherzen höher schlagen. Information auf www.interalpen.com.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b6fc85b9-e723-45bb-bd38-75d7e6c26909/99/image.jpg",
+      "caption": "Boogielicious"
+    }
+  ],
+  "url": [
+    "http://www.interalpen.com"
+  ],
+  "startDate": "2017-08-15T19:00:00",
+  "endDate": "2017-08-15"
+}

@@ -1,0 +1,172 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.pfannelerhof.com",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Pfannelerhof",
+    "streetAddress": "Lehner 201",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6284",
+    "faxNumber": "(0043) 5214 6284",
+    "email": "pfannelerhof@gmx.at",
+    "url": "http://www.pfannelerhof.com"
+  },
+  "name": "Pfannelerhof",
+  "description": [
+    "Ab einer Buchung von 9 Tage 1 Nacht gratis! Herzlich Willkommen am Pfannelerhof bei Familie Albrecht!\n                         \nAbenteuer und Spaß für die ganze Familie! Unsere 3 Ferienwohnungen verfügen über Südbalkon, komplett eingerichtete Küchen, Kinderbetten, Hochstuhl u. Kinderbettwäsche, Spielplatz, Kinderbücher u. div. Spielsachen, Außerdem bieten wir einen Brötchenzustelldienst (außer So).\n\nHomepage: www.pfannelerhof.com\n\n",
+    "Inkl.: Heizung, Parkplatz, Wasser, Strom, Bettwäsche, Handtücher, Kinderspielplatz, Garten mit Grill u. Liegen, Tischtennis, Tischfussball, Schlitten.\nExkl.: Telefon, Internet,Endreinigung\nHomepage www.pfannelerhof.com",
+    "Wenn Sie von Seelfeld anreisen, fahren Sie durch Weidach durch, rechts in die Gasse, dann gerade aus in den Ortsteil Lehner hinein und vor dem Lehnerhof geht rechts ein Privatweg direkt zum Pfannelerhof, außderdem ist eine Wegweistafel Ferienwohnungen angebracht."
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "reviewCount": "95"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2505b9d7-a162-4501-8d88-09c0689f24bd/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f606b559-70d9-4921-b7d2-fe059d828cf6/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5bf4af3a-0de1-459c-97af-bc39c385cdf6/99/image.jpg",
+      "caption": "Sommer 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b1bdcc5f-00d1-49ea-aa5b-d64ef377eeb2/99/image.jpg",
+      "caption": "Aufgang"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a4bb8bd3-e687-4ab5-bd21-b1e501cd0c86/99/image.jpg",
+      "caption": "Sommer 3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/56c1bfa9-cf2e-4e22-ab42-e35f3b885271/99/image.jpg",
+      "caption": "Winter Abend"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.38321961582",
+    "longitude": "11.165001532928"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "49.00",
+          "maxPrice": "49.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/2 Schlafräume/Dusche, WC",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "88.00",
+          "maxPrice": "88.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "88.00",
+          "maxPrice": "88.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "88.00",
+          "maxPrice": "88.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "88.00",
+          "maxPrice": "88.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/2 Schlafräume/Dusche, WC",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

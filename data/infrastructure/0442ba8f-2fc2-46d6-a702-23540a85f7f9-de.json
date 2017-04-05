@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Store",
+    "BookStore"
+  ],
+  "name": "Steffan \u0026 Co, Traffik",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3949902708323",
+    "longitude": "11.2662595510483"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Steffan \u0026 Co KG",
+    "streetAddress": "Innsbruckerstr. 48",
+    "addressLocality": "Scharnitz",
+    "postalCode": "6108",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5213 5306",
+    "faxNumber": "(0043) 52135610",
+    "email": "info@steffan-cokg.at"
+  },
+  "description": [
+    "Trafik, Telefonwertkarten, Vignetten, Briefmarken",
+    "Täglich von 7.00 bis 19.00 Uhr geöffnet"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1dc03430-a6f2-44b1-9ca0-e03ef0088801/99/image.jpg",
+      "caption": "Steffan \u0026 CO"
+    }
+  ]
+}

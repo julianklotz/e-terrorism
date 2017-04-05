@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Store"
+  ],
+  "name": "Holzrestaurator - Anton Baur",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3780788",
+    "longitude": "11.1585447"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Landhaus A. Baur",
+    "streetAddress": "Gasse 172",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6057",
+    "email": "baur.anton@aon.at",
+    "url": "http://www.leutasch-landhaus.at"
+  },
+  "description": "Gasse 172\n\n0043 5214 6057",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d7d8bb0c-008a-45d3-997d-ab97c537be8c/99/image.jpg",
+      "caption": "Holzladele"
+    }
+  ],
+  "url": [
+    "http://www.leutasch-landhaus.at"
+  ]
+}

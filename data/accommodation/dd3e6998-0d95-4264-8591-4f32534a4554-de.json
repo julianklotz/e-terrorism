@@ -1,0 +1,101 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Appartement Lucilla",
+    "streetAddress": "Münchner Str. 605 / Top 23",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 699 178 66781",
+    "email": "info@holiday-seefeld.at",
+    "url": "http://www.holiday-seefeld.at"
+  },
+  "name": "Appartement Lucilla",
+  "description": [
+    "Charmante Ferienwohnung in Seefeld (50 qm) - perfekt fuer Familien (2 Erwachsene und 2 Kinder). Zentral gelegen (10 gemuetliche Gehminuten vom Dorfplatz entfernt), direkt an der Skibushaltestelle und gegenueber der Kinderskipiste. 3. Stock. Hell und ruhig, mit schoenem Suedbalkon. Grosszuegiges Wohnzimmer mit Fernseher, DVD-Player und Internetzugang sowie Sofas und tiroler Sitzecke. Uriges Schlafzimmer mit Dachschraege, das mit einem gemuetlichen Nebenzimmer verbunden ist - entweder als Lounge, oder als zweites Schlafzimmer/Kinderzimmer (Schlafsofa!) nutzbar. Komplett ausgeruestete Kueche. Bad mit Badewanne und Dusche. Skiraum. Tiefgarage sowie Stellplaetze vor der Tuer.   ",
+    "Die angegebenen Preise sind pauschal. Sonderwuensche auf Anfrage moeglich.",
+    "zentrale Lage, ruhig, familienfreundlich, Suedbalkon, Internet, Parkgarage"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/14f5478f-6249-4d23-acef-b3c785d897b6/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b9374477-1b62-46cf-a3ae-37700f91b878/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c4079a27-ec48-462d-82e4-e2db896ed5c8/99/image.jpg",
+      "caption": "Balkon"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3334943965408",
+    "longitude": "11.1905878558197"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 1 Schlafraum",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement/Fewo, Dusche und Bad, WC, 1 Schlafraum",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "64.00",
+          "maxPrice": "64.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "64.00",
+          "maxPrice": "64.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "64.00",
+          "maxPrice": "64.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "64.00",
+          "maxPrice": "64.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

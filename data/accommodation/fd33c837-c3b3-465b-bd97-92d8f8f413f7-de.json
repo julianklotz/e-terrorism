@@ -1,0 +1,246 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.all-reith.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Gästehaus All Reith",
+    "streetAddress": "Römerstr. 22",
+    "addressLocality": "Reith bei Seefeld",
+    "postalCode": "6103",
+    "addressCountry": "AT",
+    "telephone": "0043 676 9004935",
+    "email": "ramona.hanser@hotmail.com",
+    "url": "http://www.all-reith.at"
+  },
+  "name": "Gästehaus All Reith",
+  "description": [
+    "Schönes ruhiges Gästehaus in zentraler, jedoch ruhiger Lage in Reith. Genießen Sie die schönsten Tage des Jahres bei uns im wunderschönen Örtchen \"Reith\". Es erwarten Sie neben der einzigartigen Natur, eine sehr familiäre Atmosphäre in Ihrer Unterkunft sowie im kleinen hauseigenen Pub \"All Reith\". Wir würden uns freuen, Sie bei uns begrüßen zu dürfen.",
+    "\ninkl. Bettwäsche, Handtücher, Strom, W-Lan\nWir berechnen eine Anzahlung in Höhe von 25% um die Buchung zu garantieren.",
+    "\nCheck In: ab 15 Uhr\nCheck out: bis 10:00 Uhr"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2bc0208c-e149-4ad0-a715-c3cf89dd35c0/99/image.jpg",
+      "caption": "Eingang"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4aad3a48-6d87-4df9-b3d4-d72fb3584f83/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/485e8cd5-3159-486a-b765-91962f06b289/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7c3b7867-59f8-4d14-99ff-2691fc0aa9d9/99/image.jpg",
+      "caption": "Sommeransicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9edf0c26-6491-4d77-a7e6-81060b0d35ef/99/image.jpg",
+      "caption": "Dorfbrunnen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9d7705e8-bf85-40c0-a51d-3eb0518b500a/99/image.jpg",
+      "caption": "Musikplatzl"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/99b546b7-dbbf-49f1-88d7-5acfa4043198/99/image.jpg",
+      "caption": "Pfarrkirche"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/49596aee-c799-4c8e-a4f4-f72a444f1875/99/image.jpg",
+      "caption": "Sunnroanweg mit Blick ins Inntal"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/cc7b494f-0e68-49c0-9155-75caaf98ae03/99/image.jpg",
+      "caption": "Aussicht"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2988861",
+    "longitude": "11.2042047"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC, Standard",
+      "description": "Sehr schönes, helles Zimmer mit Dusche/WC mit Blick auf die Berge.\n\n4 km von Seefeld entfernt.\n17 km von Innsbruck entfernt.\n\nBushaltestelle unterhalb unseres Hauses.\n5 Gehminuten zum Bahnhof Reith bei Seefeld.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer \"Der Berg ruft\"",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "33.00",
+          "maxPrice": "33.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "28.00",
+          "maxPrice": "28.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "28.00",
+          "maxPrice": "28.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC, Balkon",
+      "description": "In diesem Zimmer, ist ein guter Start in den Tag schon vorpogrammiert!\nMan wird wortwörtlich von der Sonne geweckt.\nSchönes helles Zimmer mit Dusche/WC , TV und Balkon.\n\n17 km von Innsbruck entfernt.\n4 km von Seefeld entfernt.\n5 Gehminuten zum Bahnhof Reith bei Seefeld.\nBushaltestelle unterhalb des Hauses.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer \"Auf da Sunnseitn\"",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "33.00",
+          "maxPrice": "40.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "28.00",
+          "maxPrice": "34.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC, Balkon",
+      "description": "Schönes, helles Doppelzimmer mit Dusche/WC und Balkon mit Blick auf die Reither Pfarrkirche Hl. Nikolaus.\n\nBushaltestelle unterhalb unseres Hauses.\n5 Gehminuten vom Bahnhof entfernt.\n17 km nach Innsbruck\n4 km nach Seefeld",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer \"Dorfgassl\"",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "33.00",
+          "maxPrice": "33.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "28.00",
+          "maxPrice": "28.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 1 Schlafraum",
+      "description": "Sehr schönes, gr0ßzügiges Appartement mit Küche, Bad/WC, Wohnzimmer und 1 Schlafzimmer im Erdgeschoss.\n\nBushaltestelle gleich unterhalb unseres Hauses \n5 Gehminuten vom Bahnhof entfernt.\n17 km nach Innsbruck\n4 km nach Seefeld",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement/Fewo, Bad, WC, 1 Schlafraum",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "65.00",
+          "maxPrice": "110.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "75.00",
+          "maxPrice": "120.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

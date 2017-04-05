@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure"
+  ],
+  "name": "Hotel Quellenhof",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3701535027924",
+    "longitude": "11.1583115962951"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Hotel Quellenhof Leutasch",
+    "streetAddress": "Weidach 288",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6782",
+    "faxNumber": "(0043) 5214 6369 ",
+    "email": "info@quellenhof.at",
+    "url": "http://www.quellenhof.at"
+  },
+  "description": "E-Bike Verleih auf Anfrage!\n\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/fe77cb5b-a5ce-4c00-813e-d7c40de47ca5/99/image.jpg",
+      "caption": "E-Bike"
+    }
+  ],
+  "url": [
+    "http://www.quellenhof.at"
+  ]
+}

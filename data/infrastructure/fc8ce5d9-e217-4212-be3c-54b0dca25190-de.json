@@ -1,0 +1,29 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure"
+  ],
+  "name": "Taxi Joshi",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3255730281936",
+    "longitude": "11.1888578124421"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Taxi Joschi",
+    "streetAddress": "Innsbrucker Str. 181",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 650 2725866",
+    "url": "http://www.taxiseefeld.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e1c007c1-b2db-420f-aedc-bed6dd6c0544/99/image.jpg",
+      "caption": "Taxi Joshi"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BankOrCreditUnion"
+  ],
+  "name": "Raiffeisenbank Reith bei Seefeld",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2991751",
+    "longitude": "11.2031481"
+  },
+  "openingHours": [
+    "Wed,Fri 08:30-12:00"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Raiffeisenbank Seefeld",
+    "streetAddress": "Römerstraße 52",
+    "addressLocality": "Reith",
+    "postalCode": "6103",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2100",
+    "url": "http://www.rb-seefeld.at"
+  },
+  "description": "Römerstr. 52\nTel.: +43 2100 54200",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ff766564-0d07-43c1-8936-227410195df1/99/image.jpg",
+      "caption": "Logo Raika"
+    }
+  ]
+}

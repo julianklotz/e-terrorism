@@ -1,0 +1,60 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "Live Musik und Unterhaltung mit dem \"Trio de LaRossas\"",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Seyrling GmbH \u0026 CoKG",
+    "employee": {
+      "@type": "Person",
+      "familyName": "Hotel Klosterbräu"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Klosterstr. 30",
+      "addressLocality": "Seefeld",
+      "postalCode": "6100",
+      "addressCountry": "AT",
+      "telephone": "+4352122621",
+      "faxNumber": "+4352123885",
+      "email": "info@klosterbraeu.com",
+      "url": "http://www.klosterbraeu.com"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Seyrling GmbH \u0026 CoKG",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Klosterstr. 30",
+      "addressLocality": "Seefeld",
+      "postalCode": "6100",
+      "addressCountry": "AT",
+      "telephone": "+4352122621",
+      "faxNumber": "+4352123885",
+      "email": "info@klosterbraeu.com",
+      "url": "http://www.klosterbraeu.com"
+    }
+  },
+  "description": "Freier Eintritt, keine Reservierung nötig!",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1c048c34-cb0d-47b3-9e52-801b817ff35b/99/image.jpg",
+      "caption": "Klosterbräu"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b12badc5-5316-478b-b1fa-abdfbcbabf30/99/image.jpg",
+      "caption": "Unterhaltung"
+    }
+  ],
+  "url": [
+    "http://www.klosterbraeu.com"
+  ],
+  "startDate": "2016-12-28T21:30:00",
+  "endDate": "2017-03-26"
+}

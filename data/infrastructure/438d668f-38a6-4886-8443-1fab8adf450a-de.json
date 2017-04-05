@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BikeStore",
+    "SportsActivityLocation",
+    "TouristAttraction"
+  ],
+  "name": "Fahrradverleih Sport Norz",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3281001719965",
+    "longitude": "11.1825481148194"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Sport Norz",
+    "streetAddress": "Klosterstr. 120",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 6252",
+    "url": "http://www.sport-norz.at"
+  },
+  "description": "Mountainbike - Rennräder - Elektrobikes\nVerkauf - Verleih - Service aller Marken\nMountainbike (Hardtail  Fully, Fatbike) Verleih 1 Tag € 15,00 - 30,00\nKinder-Mountainbike, 1 Tag € 10,00\nKindersitz, 1 Tag € 5,00\nTrailer (Kinderanhänger), 1 Tag € 20,00\nE-Bikes 1 Tag € 20,00 - € 30,00\nRennräder 1 Tag € 25,00\nHelm € 3,00",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/51b98817-44d2-434f-9f08-ba253393cf8a/99/image.jpg",
+      "caption": "Außenansicht"
+    }
+  ],
+  "url": [
+    "http://www.sport-norz.at"
+  ]
+}

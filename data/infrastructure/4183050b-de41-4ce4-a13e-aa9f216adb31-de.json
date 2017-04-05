@@ -1,0 +1,23 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation"
+  ],
+  "name": "Radfahren/ Mountainbiken",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "description": [
+    "Sowohl für Anfänger und Fortgeschrittene als auch für Profis ein wahres Paradies - die Olympiaregion Seefeld verfügt über 34 Routen. Einen Bikefolder der Olympiaregion Seefeld mit den schönsten Radrouten erhalten Sie in allen Informationsbüros um € 3,-",
+    "Sowohl für Anfänger und Fortgeschrittene als auch für Profis ein wahres Paradies - die Olympiaregion Seefeld verfügt über 34 Routen. Einen Bikefolder der Olympiaregion Seefeld mit den schönsten Radrouten erhalten Sie in allen Informationsbüros um € 3,-"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f7f62e56-4e9f-4b6f-879c-69ee7275dc9e/99/image.jpg",
+      "caption": "Radfahren"
+    }
+  ]
+}

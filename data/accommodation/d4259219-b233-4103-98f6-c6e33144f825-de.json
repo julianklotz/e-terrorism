@@ -1,0 +1,25 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hostel"
+  ],
+  "url": [
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Pleisenhütte",
+    "streetAddress": "Hinterautalstr. 483",
+    "addressLocality": "Scharnitz",
+    "postalCode": "6108",
+    "addressCountry": "AT",
+    "telephone": "+4352135571"
+  },
+  "name": "Pleisenhütte",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3944359304617",
+    "longitude": "11.3283967982361"
+  },
+  "currenciesAccepted": "EUR"
+}

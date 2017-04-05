@@ -1,0 +1,19 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Ferienhaus Am Kirchwald",
+    "streetAddress": "Am Kirchwald 462",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0049) 30 80402223",
+    "faxNumber": "(0049) 30 80402224",
+    "email": "s.duemchen@t-online.de"
+  },
+  "name": "ZW-Dümchen Michael",
+  "currenciesAccepted": "EUR"
+}

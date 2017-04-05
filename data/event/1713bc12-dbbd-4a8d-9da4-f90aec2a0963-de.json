@@ -1,0 +1,55 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "Zünftiger Frühschoppen mit Live Musik",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Batzenhaeusl",
+    "employee": {
+      "@type": "Person",
+      "familyName": "F. Kaltschmid Hotel GmbH"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Klosterstr. 44",
+      "addressLocality": "Seefeld",
+      "postalCode": "6100",
+      "addressCountry": "AT",
+      "telephone": "+4352122292",
+      "faxNumber": "+43521222922043",
+      "email": "batzenhaeusl@kaltschmid.info",
+      "url": "http://www.gasthof-seefeld.com/de/"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Batzenhaeusl",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Klosterstr. 44",
+      "addressLocality": "Seefeld",
+      "postalCode": "6100",
+      "addressCountry": "AT",
+      "telephone": "+4352122292",
+      "faxNumber": "+43521222922043",
+      "email": "batzenhaeusl@kaltschmid.info",
+      "url": "http://www.gasthof-seefeld.com/de/"
+    }
+  },
+  "description": "Die Veranstaltung findet nur bei Schönwetter statt! Eintritt frei!",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2b828b78-568e-4e26-b37c-e46b2bb589bd/99/image.jpg",
+      "caption": "Batzenhäusl"
+    }
+  ],
+  "url": [
+    "http://www.gasthof-seefeld.com/de/"
+  ],
+  "startDate": "2017-05-28T11:00:00",
+  "endDate": "2017-10-15"
+}

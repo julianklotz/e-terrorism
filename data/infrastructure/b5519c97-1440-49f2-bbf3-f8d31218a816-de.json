@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure"
+  ],
+  "name": "Tiefgarage Olympia Sport- und Kongresszentrum",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3282139410634",
+    "longitude": "11.1828696727753"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Olympia Sport- und Kongresszentrum",
+    "streetAddress": "Klosterstr. 600",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "+4352123220",
+    "email": "info@seefeld-sports.at",
+    "url": "http://www.seefeld-sports.at"
+  },
+  "description": "213 Standplätze (davon 2 Behindertenparkplätze), geöffnet 8.00 - 23.00 Uhr, Ein- und Ausfahrt jedoch auch nachts möglich.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/14441d6b-5ff5-46de-b749-bfea51294514/99/image.jpg",
+      "caption": "Tiefgarage"
+    }
+  ]
+}

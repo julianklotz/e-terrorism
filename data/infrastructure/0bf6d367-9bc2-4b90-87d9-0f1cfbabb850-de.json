@@ -1,0 +1,28 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "HairSalon"
+  ],
+  "name": "Friseursalon Pelikan",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3286429861625",
+    "longitude": "11.1888027191162"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Pelikan Friseursalon",
+    "streetAddress": "Bahnhofsplatz389/Citypassage",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2650"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/59ab7a7f-3d7c-471d-aab7-e924da2893d2/99/image.jpg",
+      "caption": "Friseur"
+    }
+  ]
+}

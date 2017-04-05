@@ -1,0 +1,92 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.bayer-scharnitz.info",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Gästehaus Bayer",
+    "streetAddress": "Giessenbach 312",
+    "addressLocality": "Scharnitz",
+    "postalCode": "6108",
+    "addressCountry": "AT",
+    "telephone": "+4369919785080",
+    "email": "manuelabayer22@gmail.com",
+    "url": "http://www.bayer-scharnitz.info"
+  },
+  "name": "Gästehaus Bayer",
+  "description": [
+    "Unser familienfreundliches Haus mit 2 Ferienwohnungen für 2-4 Personen liegt sonnig und eben, direkt an der Karwendel Loipe mit Anschluss an die Olympia Loipe und 5 km entfernt von Seefeld. Die Wohnungen sind gemütlich ausgestattet. Giessenbach ist Ausgangspunkt vieler Wanderungen ins Karwendel. Freie Benutzung von Fahrrädern und Tischtennisplatte auf eigene Gefahr. Auf Wunsch: Fußpflege im Haus. Für Interessierte ist in 5 Gehminuten der Bogenschießplatz erreichbar.",
+    "Inkl.: Strom, Wasser, Heizung, Tisch- und Bettwäsche, Handtücher, Bademantel auf Wunsch\nAb einem 14tägigen Aufenthalt erhalten Sie 2 Fußpflegen gratis!",
+    "Von Deutschland ( Garmisch - Mittenwald )kommend durch Scharnitz weiter 2 km nach Giessenbach, 3. istgleich letzte Abfahrt rechts einbiegen, gleich wieder rechts 2. Haus.",
+    ""
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f768b378-5db1-4459-82a5-4fcaf1357313/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8c45a5a7-bd40-4082-8e4c-30edf5c60e34/99/image.jpg",
+      "caption": "Winter"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.375713067729",
+    "longitude": "11.23538022833"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC",
+      "description": "App.B\u003d im 1. Stock,Balkon Ost - Südlage\nWohnschlafraum: Doppelbett, Couchecke, Essecke, Schrank mit Tresor, Sat-TV\nKüche: Küchenzeile inkl. Microwelle, Kühlschrank, 2 Kochplatten, Geschirr + Töpfe\nDusche/WC inkl.Fön, Kosmetikspiegel\nTisch-und Bettwäsche, Bade-und Küchentücher sind vorhanden - Bademantel auf Wunsch\nauf Wunsch erhalten Sie bei 14tägigem Aufenthalt 2, bei 10Tagen 1Fußpflege gratis \nüberdachter Autostellplatz,Taxe ab 01.12.14-€2.80\nunsere Homepage www.bayer-scharnitz.info\n\n\n\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "B  Apartment/Wohn-Schlafraum/Dusche, WC",
+          "description": "Im 1.Stock:Wohnschlafraum mit Doppelbett,Couchecke,Essecke,TV,Schrank mit Tresor\nKüche mit:Küchenzeile(Mikrowelle,Kühlschrank,2Kochplatten),ausziehb.Schlafsessel\nD/WC mit: Fön,Kosmetikspiegel -- Balkon ost-u. südseitig\nTisch-u.Bettwäsche,Bade-u.Küchenhandtücher sind vorhanden,Bademantel auf Wunsch\nüberdachter Autostellplatz-----\nBei 14tägigem Aufenthalt sind 2, bei 10 Tagen ist 1Fußpflege inklusive!\nwww.bayer-scharnitz.info",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "App. A \u003d im 1. Stock Balkon - Südlage.\nWohnküche: Essecke,Küchenzeile inkl. Microwelle, Kühlschrank, 2 Kochplatten,Sat-TV, Geschirr+Töpfe\nDusche/WC inkl.Fön+Kosmetikspiegel\nSchlafzimmer mit Doppelbett und Zusatzbett, Sat-TV,Schlafzimmer mit Doppelbett\nDiele:Garderobe mit Tresor\nTisch-und Bettwäsche, Bade-und Küchentücher vorhanden - Bademantel auf Wunsch\nauf Wunsch erhalten Sie bei 14tägigem Aufenthalt 2,bei 10Tagen\u003d 1Fußpflege gratis \nüberdachter Autostellplatz-www.bayer-scharnitz.info,Taxe2.80",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "A  Apartment/2 Schlafräume/Dusche, WC",
+          "description": "App.A\u003d im 1.Stock - Balkon Südlage\nWOHNKÜCHE:Essecke,Küchenzeile inkl.microwelle,Kühlschrank,2Kochplatten,Sat-TV,Töpfe\nu.Geschirr--1SCHLAFZIMMER m.Doppelbett,Zusatzbett,Sat-TV,1SCHLAFZIMMER m.Doppelbett-\nDusche/WC inkl.Fön,Kosmetikspiegel--DIELE m.Garderobe+Schranksafe-Tisch-u.Bettwäsche\nvorhanden,Bademantel auf Wunsch!Bei 14tägigem Aufenthalt sind 2,bei 10tägigem sind 2\nFußpflegen gratis!-überdachter Autostellplatz!--www.bayer-scharnitz.info\n",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

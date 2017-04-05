@@ -1,0 +1,58 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant"
+  ],
+  "name": "Bergresort Seefeld",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3372267916402",
+    "longitude": "11.1945480108261"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Bergresort Seefeld",
+    "streetAddress": "Münchnerstrasse 215",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2571",
+    "faxNumber": "(0043) 5212 2571 104",
+    "email": "bergresort@kaltschmid.info",
+    "url": "http://www.bergresort.at"
+  },
+  "description": [
+    " ",
+    "Sitzplätze für ca. 200 Personen\n\nRestaurant \u0026 Vinothek:\nOb gemütliches Mittagessen oder elegantes Dinner: Das BERGRESORT SEEFELD****s weiß sowohl mit der Qualität der Gerichte, als auch mit Vielfalt in der Vinothek zu überzeugen. Im liebevoll eingerichteten Restaurant und auf der gemütlichen Terrasse sind kulinarische Hochgenüsse von Hausmannskost bis hin zu internationalen Gerichten garantiert.\n\nGroßen Anteil am guten Ruf hat die umfangreiche Vinothek, in der 120 Weine aus aller Welt gelagert sind. Damit ist für die passende Weinbegleitung zu deinem Hauptgericht oder Menü stets gesorgt. Gerne berät dich das geschulte Team bei deiner Wein-Wahl. Bestimmt findest du einen edlen Wein, ganz nach deinem Geschmack."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b89d1d46-0528-482f-aa2c-d3647d44799a/99/image.jpg",
+      "caption": "Bergresort Seefeld"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5ba3b6db-132c-49a9-8d35-74c6aeeeac3a/99/image.jpg",
+      "caption": "Terrasse"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d9b49f5a-8fa6-46b8-ac6b-03c0d0ab62af/99/image.jpg",
+      "caption": "Restaurant"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/bd2e113e-351c-42c1-8d04-8feb4384de30/99/image.jpg",
+      "caption": "Küche 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/101592f8-2d7d-40f9-8841-854c0c12c9e9/99/image.jpg",
+      "caption": "Winter"
+    }
+  ],
+  "url": [
+    "http://www.bergresort.at"
+  ]
+}

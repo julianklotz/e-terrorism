@@ -1,0 +1,25 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Barta",
+    "streetAddress": "Geigenbühel 509",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 676 5986531"
+  },
+  "name": "Haus Barta",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3277703483983",
+    "longitude": "11.1776661872864"
+  },
+  "currenciesAccepted": "EUR"
+}

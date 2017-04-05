@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CafeOrCoffeeShop",
+    "Restaurant"
+  ],
+  "name": "Naturwirt",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3816758384614",
+    "longitude": "11.163736735582"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Naturwirt",
+    "streetAddress": "Gasse 190",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 20182",
+    "email": "info@naturwirt.at",
+    "url": "http://www.naturwirt.at"
+  },
+  "description": "Sitzplätze für ca. 75 Personen",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/17034832-15ea-4e35-b63f-a2cde4b671da/99/image.jpg",
+      "caption": "Naturwirt"
+    }
+  ],
+  "url": [
+    "http://www.naturwirt.at"
+  ]
+}

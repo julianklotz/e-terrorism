@@ -1,0 +1,68 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.apartment-seefeld.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Panoramaweg 560, Top 9-10",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "0043 664 2448796",
+    "email": "andrea.schmitt@orange.fr",
+    "url": "www.apartment-seefeld.at"
+  },
+  "name": "Prachenskyhof - App. Schmitt",
+  "description": [
+    "Ferienwohnung 120 m² (1. Stock m. Lift), 2 Schlafzimmer, 2 Bäder, großes, helles Wohnzimmer, Essecke, amerikanische Küche, groszer Sonnenbalkon. Am Geigenbühel, im ehemaligen Künstlerhotel \"Prachenskyhof\", errichtet vom berühmten Tiroler Architekten. Gegenüber Driving-Ranch, 10 Gehminuten vom Zentrum, 200 m von der Haltestelle des Ortsbusses.\n\nApartment 120 m2 (1st floor, elevator), 2 bed-rooms, 2 bath-rooms, big living-room, kitchen, large sunny balcony. Nice view, next driving-ranch, 10 minutes walk to the center, 200 m from the shuttle-bus.\n\nAppt. 120 m2. (1ère et. asc.), 2 chambres, 2 salles de bain, grd. séjour avec cuisine américaine, toutes les pièces avec balcon, vue panoramique, en face practice de golf. 10 minutes à pied du centre, 200 m de la navette.\n\n",
+    "Inclusive: Endreinigung,Strom, Heizung, Wasser",
+    "Anreise ab 14.00 Uhr\nAbreise bis 10.00 Uhr"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a28a8fd9-0f5c-4ff3-b045-42c60c10dac3/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2392bf1f-7704-4db6-98ed-27bf38d433d1/99/image.jpg",
+      "caption": "Winter"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3372740514253",
+    "longitude": "11.1891674995422"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 2 Schlafräume",
+      "description": "3- Zimmerwohnung  (120 m²) im 1. Stock. Großes, helles Wohnzimmer mit Essecke und amerikanischer Küche. Alle Zimmer mit Balkon (2 davon südseitig).",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Top 9/10",
+          "description": "Ferienwohnung 120 m2 (1. Stock m. Lift), 2 Schlafzimmer, 2 Bäder, groszes, helles Wohnzimmer, Eszecke, amerikanische Küche, groszer Sonnenbalkon. Am Geigenbühel im ehemaligen Künstlerhotel \"Prachenskyhof\", errichtet vomberühmten Tiroler Architekten. Gegenüber Driving-Ranch, 10 Gehminuten vom Zentrum, 200 m von der Haltestelle des gratis Ortsbusses.",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

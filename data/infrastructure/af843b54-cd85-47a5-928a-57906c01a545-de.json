@@ -1,0 +1,33 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "EmergencyService"
+  ],
+  "name": "Rettung (Rotes Kreuz) Seefeld",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3334422361604",
+    "longitude": "11.1797261238098"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Rotes Kreuz Seefeld",
+    "streetAddress": "Leutascher Str. 770",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043)571442311",
+    "url": "http://www.roteskreuz.at"
+  },
+  "description": [
+    " \n",
+    "Notruf: 144\n(nur Krankentransport, Tel.: 14844)\n"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7cac637e-84b7-4776-985f-478f5347403b/99/image.jpg",
+      "caption": "Notruf"
+    }
+  ]
+}

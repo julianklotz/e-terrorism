@@ -1,0 +1,26 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation"
+  ],
+  "name": "Casino Arena Seefeld",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3227669469325",
+    "longitude": "11.1765289306641"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Casino Arena Seefeld",
+    "streetAddress": "Möserer Str. 60",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043)52123220",
+    "email": "arena@seefeld-sports.at",
+    "url": "http://www.seefeld-sports.at"
+  },
+  "url": [
+    "http://www.seefeld-sports.at"
+  ]
+}

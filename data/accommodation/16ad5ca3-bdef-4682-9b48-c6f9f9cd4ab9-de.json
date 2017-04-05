@@ -1,0 +1,112 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.landhaus-rustika.com",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Landhaus Rustika",
+    "streetAddress": "Föhrenwald 7",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6916",
+    "email": "a.kluckner@gmx.at",
+    "url": "http://www.landhaus-rustika.com"
+  },
+  "name": "Landhaus Rustika",
+  "description": [
+    "Rustikale Fichtenholzeinrichtung, Wohnzimmer mit Sitzgruppe, Essecke und Kochecke, Dusche/WC, Schlafzimmer, Balkon, Sat-TV, Parkplatz geräumt, ruhige zentrale Lage, ganzjährige Heizung. Auf Wunsch morgens frisches Brot vom heimischen Bäcker. \nW-LAN",
+    "INKLUSIVE: Heizung, Wasser, Strom, Parkplatz\nEXKLUSIVE: Kurtaxe, Endreinigung",
+    "über Mittenwald:\nMittenwald - Leutasch - Ortsteil Föhrenwald 7\nüber Seefeld:\nInnsbruck - Seefeld - Leutasch - Ortsteil Föhrenwald 7\nüber Fernpass:\nReutte - Telfs - Buchen - Leutasch - Ortsteil Föhrenwald 7"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f4c5945a-e176-44e9-8738-aba7b6ab2817/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f4cb7053-dc28-41af-9cdd-8a05ec6550f4/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f120e9ac-25f2-4b31-b580-7dafce5312f6/99/image.jpg",
+      "caption": "Hausansicht"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.372710649358",
+    "longitude": "11.166175907015"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Gemütlicher Wohnraum mit Sitzgruppe, Kochecke und Essecke, DU/WC, Schlafzimmer, Balkon, SAT-TV. Auf Wunsch erhalten Sie morgens frisches Brot vom heimischen Bäcker.\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "App. Wetterstein, 1 SZ, Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "48.00",
+          "maxPrice": "63.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Gemütlicher Wohnraum mit Sitzgruppe, Kochecke und Essecke, DU/WC, Schlafzimmer, Balkon, SAT-TV. Auf Wunsch erhalten Sie morgens frisches Brot vom heimischen Bäcker.\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "App. Karwendel, 1 SZ, Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "46.00",
+          "maxPrice": "65.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

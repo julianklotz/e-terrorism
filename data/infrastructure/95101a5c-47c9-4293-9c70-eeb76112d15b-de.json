@@ -1,0 +1,33 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "PostOffice",
+    "TouristInformationCenter"
+  ],
+  "name": "Briefmarken",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3721056033012",
+    "longitude": "11.1646056932541"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Informationsbüro Leutasch",
+    "streetAddress": "Weidach 320",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "+43-50880510",
+    "faxNumber": "+43-50880811",
+    "email": "info.leutasch@seefeld.com",
+    "url": "http://www.seefeld.com"
+  },
+  "description": "erhältlich im:\nInformationsbüro Leutasch\nPf´s Souvenir und Geschenkeladen\nSchuh und Sport Rödlach",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e460ec02-688e-4c25-ab5e-fc8c14e7f58d/99/image.jpg",
+      "caption": "briefmarke"
+    }
+  ]
+}

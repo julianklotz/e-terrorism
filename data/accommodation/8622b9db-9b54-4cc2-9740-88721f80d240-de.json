@@ -1,0 +1,20 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Haspingerstr. 476 / Top 4",
+    "addressLocality": "Seefeld in Tirol",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0049) 89 64260118",
+    "email": "yvonne_hickethier@yahoo.de"
+  },
+  "name": "ZW - Hickethier Yvonne",
+  "currenciesAccepted": "EUR"
+}

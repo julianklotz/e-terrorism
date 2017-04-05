@@ -1,0 +1,48 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "Sommererlebnis - Tierspuren in der Natur- natopia",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Informationsbüro Leutasch",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Weidach 320",
+      "addressLocality": "Leutasch",
+      "postalCode": "6105",
+      "addressCountry": "AT",
+      "telephone": "+43-50880510",
+      "faxNumber": "+43-50880811",
+      "email": "info.leutasch@seefeld.com",
+      "url": "http://www.seefeld.com"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Informationsbüro Leutasch",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Weidach 320",
+      "addressLocality": "Leutasch",
+      "postalCode": "6105",
+      "addressCountry": "AT",
+      "telephone": "+43-50880510",
+      "faxNumber": "+43-50880811",
+      "email": "info.leutasch@seefeld.com",
+      "url": "http://www.seefeld.com"
+    }
+  },
+  "description": "Spannende Rätsel und Geschichten aus dem Leben unserer großen und kleinen Mitbewohner. Wie unterscheidet sich das Leben der Tiere da draußen von unserem Leben als Mensch? Wie lässt sich das Spurenlesen lernen und wie denkt ein Fährtensucher? Wie wird jeder Spaziergang draußen zu einem anregenden Abenteuer? Dauer: 2 Stunden, max. 20 Teilnehmer möglich.\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e53e9259-28bb-4a6d-ba0d-95d8596f66f0/99/image.jpg",
+      "caption": "tierspur"
+    }
+  ],
+  "startDate": "2017-05-31T10:00:00",
+  "endDate": "2017-10-01"
+}

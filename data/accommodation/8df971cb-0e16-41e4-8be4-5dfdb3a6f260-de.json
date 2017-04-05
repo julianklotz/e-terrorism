@@ -1,0 +1,118 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.alpenhof-leutasch.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Alpenhof",
+    "streetAddress": "Weidach 379",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6260",
+    "faxNumber": "(0043) 5214 6260 20",
+    "email": "info@alpenhof-leutasch.at",
+    "url": "http://www.alpenhof-leutasch.at"
+  },
+  "name": "Haus Alpenhof",
+  "description": [
+    "Der Alpenhof befindet sich in sonniger Lage am Rand des Dorfzentrums.\nAusgestattet mit Komfort bieten wir unseren Gästen einen erholsamen Aufenthalt in Leutasch.",
+    "INKLUSIVE: Heizung, Wasser, Strom, Handtücher und Bettwäsche, Parkplatz\n\nEXKLUSIVE: Endreinigung, Ortstaxe",
+    "Check-In: 14 Uhr | Check-Out: 10 Uhr\n\nÜber Seefeld: Seefeld - Leutasch - Ortseingang - ca. nach 200 m vor Cafe Pichler links Abbiegen (Beschilderung!)\n\nÜber Mittenwald: Mittenwald - Leutasch - bis Ortsteilende Weidach, nach Cafe Pichler rechts (Beschilderung!)"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f75b2104-9536-45d4-97a9-8c471c86890c/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/eb8a8747-3e8a-4c0b-ae58-af016d8af179/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e3ad3b99-33d4-422e-81d2-4fde58ac0f4b/99/image.jpg",
+      "caption": "Winter Haus"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f897f1bc-89ac-4fa7-97cf-ebf9fdeb91ba/99/image.jpg",
+      "caption": "Sommer 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c384e087-759e-480b-af71-5227eda8f26a/99/image.jpg",
+      "caption": "Sommer Haus"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/13ecb61d-87ae-4cf6-a0ce-5c69d7acf02c/99/image.jpg",
+      "caption": "Sauna"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a096fcd6-e6fd-4c45-a7e0-a65bb8d0e1cc/99/image.jpg",
+      "caption": "Dusche im Saunabereich"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/90bd46e3-84d6-4cfe-b2cf-e9560c1c2ea3/99/image.jpg",
+      "caption": "Sauna"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.366683016009",
+    "longitude": "11.16539034444"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 2 Schlafräume",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/2 Schlafräume/Dusche, Bad, WC",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

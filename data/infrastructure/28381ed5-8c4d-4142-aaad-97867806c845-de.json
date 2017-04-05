@@ -1,0 +1,19 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "TouristAttraction"
+  ],
+  "name": "Hoher Sattel Stempelstelle",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3835206368201",
+    "longitude": "11.2045432488098"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/498c47c1-0cea-4800-8bfe-84b1eea5bd67/99/image.jpg",
+      "caption": "stempel"
+    }
+  ]
+}

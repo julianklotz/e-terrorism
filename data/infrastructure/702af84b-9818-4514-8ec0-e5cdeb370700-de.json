@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "TouristAttraction"
+  ],
+  "name": "Isarursprung",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.38836032672",
+    "longitude": "11.2652886227539"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Informationsbüro Scharnitz",
+    "streetAddress": "Innsbrucker Str. 282",
+    "addressLocality": "Scharnitz",
+    "postalCode": "6108",
+    "addressCountry": "AT",
+    "telephone": "+4350880540 ",
+    "faxNumber": "+4350880541",
+    "email": "info.scharnitz@seefeld.com",
+    "url": "http://www.seefeld.com"
+  },
+  "description": [
+    " ",
+    "Umringt vom gewaltigen Bergmassiv des Karwendels beginnt hier im Hinterautal die Isar ihren Weg zur Donau und dem Schwarzen Meer. In früheren Zeiten Furcht und Schrecken bei Hochwasser verbreitend, aber auch Glück und Segen für Orte und Städte, die am Ufer liegen bringend, ist die Isar heute noch ein Teil der Kultur und Geschichte des Alpenraumes. Am Isarursprung, im Quellbereich der Isar, befinden sich zahlreiche Wasseraustrittsstellen, die ganzjährig munter vor sich hin fließen. Neue Schautafeln, ein wunderschöner Rastplatz und ein naturbelassener Steig direkt zu den ersten Quellen prägen dieses naturwissenschaftliche Kleinod. Hier hat der Wanderer die Möglichkeit Ruhe und Entspannung zu finden und viel Interessantes über Fauna und Flora zu lernen. Die obere Isar ist auch eine bekannte Strecke für alle Kanubegeisterten und Paddelbootfahrer.\nSie schätzen die ausgezeichnete Wasserqualität und die herrliche Landschaft inmitten des Naturschutzgebietes Alpenpark Karwendel.\n„Ein sehr schöner Fluss. Oft habe ich ihm zugehört, oft in seine Augen gesehen, und immer habe ich von ihm gelernt.“\nHermann Hesse"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/60ceb5f9-e070-4c6e-ad64-2765c84f3ebc/99/image.jpg",
+      "caption": "Isarursprung"
+    }
+  ],
+  "url": [
+    "http://www.seefeld.com"
+  ]
+}

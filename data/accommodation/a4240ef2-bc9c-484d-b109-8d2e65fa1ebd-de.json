@@ -1,0 +1,119 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Ferienwohnung Haus Haider",
+    "streetAddress": "Gstoagweg 22",
+    "addressLocality": "Reith bei Seefeld",
+    "postalCode": "6103",
+    "addressCountry": "AT",
+    "telephone": "0043 660 6419933",
+    "email": "martinhaider20.mh@gmail.com"
+  },
+  "name": "Ferienwohnung Haus Haider",
+  "description": [
+    "Unser Ferienwohnung Haus Haider, befindet sich in Reith bei Seefeld, im Ortsteil Auland, zwei km von Seefeld und 24 km von Innsbruck entfernt.\nLassen Sie die Seele baumeln und genießen Sie ihren Erholungs-oder Aktivurlaub im Haus Haider in der Olympiaregion Seefeld.\n\nDas Feriendomizil Haider liegt idyllisch ruhig, umgeben von Wiesen und Feldern mit Blick auf die umliegende Bergwelt und ist der ideale Ausgangspunkt für Ihre Wanderungen, Mountainbike- und Skitouren.\nNur 2 Gehminuten vom Ferienhaus Haider befindet sich die Regionsbushaltestelle. Der für Skifahrer und Langläufer kostenlose Bus bringt Sie in sämtlich Orte der Region wie Leutasch, Reith, Scharnitz, Seefeld, Mösern und Mittenwald. \n\nUnsere liebevoll eingerichtete, 95m², helle drei Zimmer Ferienwohnung im 1. Stock, bestehend aus einem großen Wohnraum, zwei großzügigen Schlafzimmern, einer geräumigen Küchen mit Esstisch, bietet Platz für 2 bis 5 Personen. Die überwältigende Aussicht auf die Nördlinger Hütte und die Reither Spitze im Osten und den Kalkkögeln im Süden können Sie auf der Terrasse in einer der großen Liegen in vollen Zügen genießen. \n\nErkunden Sie im Sommer auf den 650 km Wanderwegenetz die kostenlos geführten Erlebniswanderungen in der Olympiaregion Region Seefeld, hier ist für jeden etwas dabei. Leihen Sie sich ein E-Bike und besuchen Sie die zahlreichen Almen und Hütten am Seefelder Plateau.\nDer Bienenlehrpfad Rundwanderweg sowie der Kulturwanderweg in Reith bei Seefeld sind ebenso einen Besuch wert.\n\nIm Winter können Sie in den Skigebieten Rosshütte, Gschwandtkopf und Hochmoos Pistenspaß pur erleben. Die 271km täglich frisch gespurten Loipen in allen Schwierigkeitsstufen zeigen noch einmal, wie schön Winterurlaub mit der Familie sein kann. Für Erholungssuchende die den Winterurlaub eher ruhiger angehen möchten stehen 142 täglich frisch geräumte Wanderwege zur Verfügung. \n\nIhre jungen Gastgeber, Nina und Martin, freuen sich schon sehr darauf, Sie in Auland, am Sonnenplateau Reith bei Seefeld begrüßen zu dürfen!!\n\n",
+    "Inkl.: Bettwäsche, Parkplatz, Strom, W-Lan, \n\nWir berechnen eine Anzahlung in Höhe von 25%, um die Buchung zu garantieren.\nCheck in: 15:00 Uhr - auf Anfrage auch früher!\nCheck out: 11:00 Uhr\n",
+    "",
+    "Seefeld, Ferienwohnung/Appartement , Seefeld Urlaub, Langlaufurlaub, Seefeld Skiurlaub, Wandern"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b21fb6c0-317f-4d15-a5d2-7a91cd9a2730/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/539287b2-707f-4acf-8935-61810c358058/99/image.jpg",
+      "caption": "Haus Haider- Reith bei Seefeld-Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/73dfa157-1d63-4f80-bdc4-7c72f31e0fe5/99/image.jpg",
+      "caption": "Garten- Haus Haider-Auland"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2b9a9b5d-e746-46a9-bf04-708f90ebe9f2/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/16e0eecf-796d-4f30-885e-e1c768b25b92/99/image.jpg",
+      "caption": "Ferienwohnun HaiderAussicht nach Reith bei Seefeld"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3089138",
+    "longitude": "11.1978059"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Toilette und Bad/Dusche getrennt, 2 Schlafräume",
+      "description": "Sehr gemütliches 4-Zimmer Apartement (Küche, Wohnraum, 2 Schlafzimmer) für 5 bis max. 6 Personen. \n\nDas Apartement ist mit geräumiger Küche, großem Esstisch, LED-Flachbildfernseher inkl. Satelliten-TV, kostenlosem W-LAN, separtater Terasse mit grosser Liege bzw. Spielwiese, separatem Balkon, ausgestattet. \n\nDie gemütliche Einrichtung sorgt für eine angenehme, erholsame und entspannende Atmosphäre nach einem erlebnisreichem Tag bei uns in der Region. Überzeugen Sie sich selbst davon. \n\n\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement Nina",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "80.00",
+          "maxPrice": "150.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "80.00",
+          "maxPrice": "150.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "90.00",
+          "maxPrice": "150.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "90.00",
+          "maxPrice": "150.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "100.00",
+          "maxPrice": "150.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

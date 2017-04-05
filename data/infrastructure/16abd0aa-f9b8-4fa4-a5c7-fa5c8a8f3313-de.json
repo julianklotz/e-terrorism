@@ -1,0 +1,29 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Church"
+  ],
+  "name": "Seefelder Seekirchl (Heiligkreuzkirche)",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3267190738109",
+    "longitude": "11.1790300766602"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Möserer Straße",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043)5212 23190",
+    "url": "http://www.pfarramt-seefeld.at"
+  },
+  "description": "Mit der Erbauung des Wahrzeichens von Seefeld, dem Seekirchl, auch Heiligkreuzkirche genannt, wurde 1629 von Erzherzog Leopold V. begonnen und diese wurde 1666 vollendet. Das Seekirchl stand damals inmitten des von Herzog Sigmund dem Münzreichen im 15 Jhdt. angelegten Kreuzsees, welcher 1808 abgelassen wurde. Das Kirchlein ist einer der in Tirol seltenen, achteckigen barocken Zentralbauten mit Kuppel. Errichtet wurde es vom berühmten Innsbrucker Hofbaumeister Christoph Gumpp, das spätgotische Kreuz am Hauptaltar und die Fresken zeugen von der Bedeutung der 2. Wallfahrtskirche Seefelds in früheren Jahrhunderten.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/06858ef5-8dfd-4cca-9f67-efaa3eda00ba/99/image.jpg",
+      "caption": "Kirche"
+    }
+  ]
+}

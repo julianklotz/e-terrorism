@@ -1,0 +1,33 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Church",
+    "CatholicChurch"
+  ],
+  "name": "Pfarrkirche St. Oswald",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3286461679928",
+    "longitude": "11.1866287747994"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Pfarrkirche St. Oswald",
+    "streetAddress": "Maximilianweg 29",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "url": "http://www.pfarramt-seefeld.at"
+  },
+  "description": [
+    " ",
+    "Im Zentrum von Seefeld befindet sich die Wallfahrtskirche, welche St. Oswald geweiht ist. Erste historische Aufzeichnungen stammen aus dem Jahre 1263. Zu einer der berühmtesten Wallfahrtsstätten Tirols wurde die Kirche durch das sogenannte \"Hostienwunder\" im Jahr 1384. Der Legende nach forderte Oswald Milser von der Grenzfeste Schlossberg während der Messe eine größere Hostie als für die \"gemeinen Leit\". Als er jene bekam, färbte sich die Hostie blutrot und sowohl der Stein, auf dem er kniete, wie auch der Altarstein, an dem er sich festhalten wollte, sanken ein. Der Abdruck seiner Hand ist heute noch zu sehen. Durch den auf diese Begebenheit folgenden Zustrom von Wallfahrern wurde die Kirche 1425 im Auftrag von Herzog Friedrich mit der leeren Tasche erweitert und 1474 unter Sigmund dem Münzreichen fertig gestellt. St. Oswald zählt zu den schönsten spätgotischen Kirchenbauten Tirols, das wunderbare Tympanon Relief entlang des Hauptportals erzählt die Geschichte des Hostienwunders, das dreischiffige Innere bietet einige Kostbarkeiten, wie die Fresken aus dem 15 Jhdt., die Kanzel mit Flachschnitzereien aus dem Jahr 1524, wertvolle Schrein Figuren, einen gotischen Taufstein und das berühmte Tafelbild von Jörg Kölderer aus dem Jahr 1502. Kaiser Karl IV. passte die Renaissance-Ausstattung der \"Blutskapelle\", jenem Teil der Pfarrkirche, welcher zur Aufbewahrung der Wunderhostie diente, dem Kunstgeschmack der Barockzeit mit Stuckaturen und einem Deckenfresko von Puellacher an."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/dc0ab196-b3eb-448a-b49e-a1b117899397/99/image.jpg",
+      "caption": "Pfarrkirche Außenansicht"
+    }
+  ]
+}

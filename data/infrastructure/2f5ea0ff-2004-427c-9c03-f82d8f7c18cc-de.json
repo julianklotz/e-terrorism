@@ -1,0 +1,48 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant"
+  ],
+  "name": "Seefelderhof",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3345474561933",
+    "longitude": "11.1911898851395"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Hotel Seefelderhof",
+    "streetAddress": "Münchnerstr. 146",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "+435212237340",
+    "faxNumber": "+435212237341",
+    "email": "hotel@seefelderhof.com",
+    "url": "http://www.seefelderhof.com"
+  },
+  "description": [
+    " ",
+    "Sitzplätze für ca. 130 Personen\n\nGaumenfreuden und erlesenes aus Küche und Keller.\nKulinarische Hightlights aus unserem a la carte Restaurant, dazu erlesene Weine serviert im gemütlichen Ambiente unseres Hauses. Das allabendliche Hightligt sind unsere 4 bis 6 Gang Wahlmenüs, welche Gourmetherzen höher schlagen lassen. "
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9d6a8192-3028-4d44-b7cd-f77fbaf951dc/99/image.jpg",
+      "caption": "Seefelderhof Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f173a4e6-1030-459b-860b-d6c6d46dde86/99/image.jpg",
+      "caption": "Seefelderhof Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7d05f0b1-657e-473d-a33c-eb680536b00a/99/image.jpg",
+      "caption": "Seefelderhof "
+    }
+  ],
+  "url": [
+    "http://www.seefelderhof.com"
+  ]
+}

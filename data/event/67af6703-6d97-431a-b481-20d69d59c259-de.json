@@ -1,0 +1,54 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "2. Casino Seefeld Pole Dance Trophy",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Casino Seefeld",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Bahnhofstr. 124",
+      "addressLocality": "Seefeld",
+      "postalCode": "6100",
+      "addressCountry": "AT",
+      "telephone": "+4352122340",
+      "email": "info@casinos.at",
+      "url": "http://www.seefeld.casinos.at"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Casino Seefeld",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Bahnhofstr. 124",
+      "addressLocality": "Seefeld",
+      "postalCode": "6100",
+      "addressCountry": "AT",
+      "telephone": "+4352122340",
+      "email": "info@casinos.at",
+      "url": "http://www.seefeld.casinos.at"
+    }
+  },
+  "description": "DAS Tiroler Poledance Event! Nach der erfolgreichen Premiere 2016, bietet das Casino Seefeld bei der Neuauflage 2017 eine noch attraktivere Show: 2 Tage Poledance Action, Poledance Messe, Show Act \"Mr. Poledance Austria 2016\", Glücksparty Challenge mit tollen Preisen und große Screens über der Bühne mit Übertragung der Auftritt. Details auf www.seefeld.casinos.at.\n\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/936ad70e-4cec-4750-b311-8b41460ac6c3/99/image.jpg",
+      "caption": "Pole Dance"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f1f53692-e5b8-4561-b04f-873788be9982/99/image.jpg",
+      "caption": "Piktogramm"
+    }
+  ],
+  "url": [
+    "http://www.seefeld.casinos.at"
+  ],
+  "startDate": "2017-04-28T20:00:00",
+  "endDate": "2017-04-29"
+}

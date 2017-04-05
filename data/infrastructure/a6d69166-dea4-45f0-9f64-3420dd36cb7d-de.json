@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hostel",
+    "Landform"
+  ],
+  "name": "Falkenhütte",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.400048555565",
+    "longitude": "11.4988231658936"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Falkenhütte",
+    "streetAddress": "Lärchenwiese 9",
+    "addressLocality": "Maurach am Achensee",
+    "postalCode": "6212",
+    "addressCountry": "AT",
+    "telephone": "(0043)5245245",
+    "url": "http://www.falkenhuette.at"
+  },
+  "description": "Nur im Sommer geöffnet! Übernachtungsmöglichkeit für 150 Personen, Stempelstelle",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7c40f4e5-ade7-461d-9cd1-b8277a59538a/99/image.jpg",
+      "caption": "Falkenhütte neu"
+    }
+  ],
+  "url": [
+    "http://www.falkenhuette.at",
+    "http://www.karwendel.org"
+  ]
+}

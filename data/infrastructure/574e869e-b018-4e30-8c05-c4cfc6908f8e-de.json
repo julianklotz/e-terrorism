@@ -1,0 +1,33 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "TouristInformationCenter"
+  ],
+  "name": "Lawinenwarndienst",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Herrengasse 1-3",
+    "addressLocality": "Innsbruck",
+    "postalCode": "6020",
+    "addressCountry": "AT",
+    "telephone": "(0043) 512 580915",
+    "email": "lawine@tirol.gv.at",
+    "url": "http://www.lawine.at/tirol"
+  },
+  "description": "www.lawine.at/tirol oder Hotline: 0512/508802255 oder mittels Lawinenwarn und Informationsservice per SMS (Infos darüber unter www.lawine-mobile.at)",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5651f353-7240-41d2-8e63-799eb52054f5/99/image.jpg",
+      "caption": "Lawinenwarnschild"
+    }
+  ],
+  "url": [
+    "http://www.lawine.at/tirol"
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.tiscover.at/leutaschtal",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Apartment Leutaschtal",
+    "streetAddress": "Aue 117b",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6172",
+    "email": "lh.leutaschtal@aon.at",
+    "url": "http://www.tiscover.at/leutaschtal"
+  },
+  "name": "Apartment Leutaschtal",
+  "description": [
+    "Lieber Gast, herzlich Willkommen zu einem Wohlfühl- Urlaub!\nSie finden bei uns Erholung pur, in sonniger,ruhiger,zentraler Lage- bei freundlicher Tiroler Gastlichkeit und einem sehr gepflegtem Ambiente. Direkt an der Loipe und an den Wanderwegen.\n\nWir bieten Ihnen rundum schöne Urlaubstage- Komfort und Gemütlichkeit. \n3 NICHTRAUCHER- Appartements komplett und bestens ausgestattet \nu.a. Südbalkon,separates Schlafzimmer,komplett ausgestattete Küche,helle Möbel im Landhausstil, FLAT-SAT-TV,Internet Highspeed W-LAN gratis,Brötchenservice, Gästebushaltestelle(100m),GRATIS LOIPENBENÜTZUNG usw.\n\nKEINE TIERE und NUR MIT HAUSSCHUHE- App. für ein behagliches Wohngefühl.\nEin angenehmes, ungestörtes Wohnen, da die App. nur mit 2 Personen belegt sind.\n\nHohe Auszeichnung \"3 EDELWEISS SUPERIOR\"",
+    "Inklusive: Endreinigung,W-Lan,\nHeizung,Strom,Wasser,Abfallentsorgung, \nBett-Tisch-Küchenwäsche,Hand-u.Duschtücher,\nSchuhregal u.Schiständer im warmen Hausflur,\ngeräumte Parkplätze,Rodeln usw.\n\nLieber Gast,\nfür weitere Informationen, können Sie uns auch gerne anrufen.\n\nGENIESSEN SIE BEI UNS IHREN ERHOLUNGS- ODER AKTIVURLAUB!\nWir freuen uns auf Sie! \n\nIhre Fam. Krug",
+    "Anreise über:\nGarmisch- Mittenwald- Leutasch/Ortsteil Aue... \nInnsbruck- Seefeld- Leutasch/Aue...\nTelfs- Leutasch/Aue... \n\nANKOMMEN - AUSSPANNEN - UND SICH WOHLFÜHLEN! \n\nAnreise ab  14:00 Uhr\nAbreise bis 10:00 Uhr\n\nWir bieten unseren Hausgästen eine GRATIS Loipenkarte für das gesamte Loipennetz der Olympiaregion Seefeld. \n\nEine Schi- Wachsstation befindet sich in unmittelbarer Nähe.",
+    "Ferienwohnung Leutasch, Appartement Leutasch, Urlaub Leutasch, Langlaufen, Wandern,Winterurlaub   \n"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/19a66dc1-a391-4c19-8f7e-a848c6238985/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a5d628a3-62f4-477c-aa42-737c8677b6fb/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/452ef252-c087-46a7-b0aa-87f883ef035a/99/image.jpg",
+      "caption": "Sommer 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/897f1606-3fde-4de7-9ffc-1539291ed70f/99/image.jpg",
+      "caption": "Winter 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/cc1e8923-d9f7-434e-979d-4ad3c7edbc4c/99/image.jpg",
+      "caption": "Winter 1"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.364232799996",
+    "longitude": "11.1413814270038"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "komfortabel, sonnig und gemütlich - einfach zum Wohlfühlen!\nfür 2-4 Personen\nmit eigenem großen möblierten SÜDOST- BALKON\n2 Raum-App./50m², separates Schlafzimmer, Wohnzimmer mit Couch, Flachbild-Sat-TV, Radio mit MC/CD, Internet W-LAN, Safe, komplett ausgestattete Küche mit Essecke, gesamte Bett/Tisch/Küchenwäsche, DU/WC mit Fenster, Hand- und Duschtücher, Haarfön, Kosmetikspiegel, Heizung/Heizkörper, Garderobe mit großem Spiegel usw.\n... weitere Informationen und Fotos bei App. \"Typ C\".",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment \"TypA\" /  1 Schlafraum",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "60.00",
+          "maxPrice": "60.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "60.00",
+          "maxPrice": "60.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "... ganz gleich wie App. \"Typ A\", jedoch mit SÜDWEST- BALKON.\nBeide App. mit eigenem, möblierten Balkon (Typ A/südost, Typ C/südwest) \nund mit herrlichem Blick auf die umliegenden Berge.\nDie App. sind im Tiroler Landhausstil, in hellem Holz eingerichtet und haben die gleiche komfortable Ausstattung. \nSie sind hell und sonnig, sehr gepflegt und sehr gemütlich.\nBitte beachten:\nNICHTRAUCHER - KEINE TIERE - NUR MIT HAUSSCHUHE Appartements für ein behagliches Wohngefühl!\nHerzlich Willkommen!",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment \"TypC\" /  1 Schlafraum",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "60.00",
+          "maxPrice": "60.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "60.00",
+          "maxPrice": "60.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

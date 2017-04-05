@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure",
+    "LocalBusiness"
+  ],
+  "name": "Feuerwehr Seefeld",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3346819715262",
+    "longitude": "11.1925792694092"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Freiwillige Feuerwehr Seefeld",
+    "streetAddress": "Münchner Str. 860",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2770",
+    "email": "office@ffseefeld.at",
+    "url": "http://www.ffseefeld.at"
+  },
+  "description": [
+    " ",
+    "Notruf: 122"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/bd6af789-3b41-44c1-a5fd-caa0d6dedcdc/99/image.jpg",
+      "caption": "Feuerwehr"
+    }
+  ],
+  "url": [
+    "http://www.ffseefeld.at"
+  ]
+}

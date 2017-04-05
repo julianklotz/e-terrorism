@@ -1,0 +1,27 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure",
+    "LocalBusiness"
+  ],
+  "name": "Marcati Immobilien GmbH",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3293701732862",
+    "longitude": "11.1824083328247"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Marcati Immobilien GmbH",
+    "streetAddress": "Olympiastr. 59",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 676 843004445",
+    "email": "immo@marcati.at",
+    "url": "http://www.immobilien-seefeld.com"
+  },
+  "url": [
+    "http://www.immobilien-seefeld.com"
+  ]
+}

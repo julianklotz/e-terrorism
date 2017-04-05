@@ -1,0 +1,42 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant"
+  ],
+  "name": "Seefelder Stube",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3280903172525",
+    "longitude": "11.1873435974121"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Seefelder Stuben",
+    "streetAddress": "Innsbrucker Str. 23",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "+43521252820",
+    "email": "info@marcati.at",
+    "url": "http://www.marcati.at"
+  },
+  "description": [
+    " ",
+    "Sitzplätze für ca. 130 Personen\n\nLassen Sie sich den Alltag versüßen und genießen Sie die ländlich-gemütliche Atmosphäre im rustikalen Stil eines Tiroler Gasthauses im Zentrum von Seefeld. Genießen Sie vielfältige Variationen von einheimischen in italienischen Spezialitäten, welche unser Küchenchef frisch für Sie zubereitet  \nUnsere Mitarbeiter sind stets bemüht, den Gästen jeden Wunsch von den Augen abzulesen und der Küchenchef lässt jeden Besuch zu einem kulinarischen Erlebnis werden."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8c19ad9d-27ac-460f-8da0-22e0ab55928f/99/image.jpg",
+      "caption": "Seefelder Stube"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d50a5fce-c203-434d-832a-c04509cf3453/99/image.jpg",
+      "caption": "Seefelder_Stube"
+    }
+  ],
+  "url": [
+    "http://www.marcati.at"
+  ]
+}

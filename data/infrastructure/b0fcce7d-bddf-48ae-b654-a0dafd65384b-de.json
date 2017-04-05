@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant",
+    "CafeOrCoffeeShop",
+    "BarOrPub"
+  ],
+  "name": "Alt Seefeld - Erlebnis Wirtshaus",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3291992852121",
+    "longitude": "11.186064183712"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Erlebniswirtshaus Alt Seefeld",
+    "streetAddress": "Olympiastr. 101",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "+4352122191",
+    "email": "urlaub@kaltschmid.info",
+    "url": "http://www.kaltschmid.info"
+  },
+  "description": [
+    " ",
+    "Hüttenzauber im Alm-Styling und jede Menge Spaß sind im Erlebniswirtshaus garantiert. Dafür sorgen Highlights wie die traditionsgetreue Alm-Einrichtung oder im Winter die offene Feuerstelle über welcher wärmender Glühwein gekocht wird.\n\nErleben Sie rustikale Unterhaltung im Herzen Seefelds. \n"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/babed4b3-b46b-45da-b534-b2f93ba9a9f0/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/10f360cc-fa65-46b9-90b1-1726202bf5f5/99/image.jpg",
+      "caption": "Alt Seefeld"
+    }
+  ],
+  "url": [
+    "http://www.kaltschmid.info"
+  ]
+}

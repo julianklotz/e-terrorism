@@ -1,0 +1,150 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.apartment-seefeld.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Prachenskyhof",
+    "streetAddress": "Panoramaweg 560",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "+4352124994 ",
+    "faxNumber": "004352124994 66",
+    "email": "info@apartment-seefeld.at",
+    "url": "http://www.apartment-seefeld.at"
+  },
+  "name": "Prachenskyhof - App. Prachensky",
+  "description": [
+    "Der Prachenskyhof bietet zwei traumhafte und einzigartige Ferienwohnungen in der schönsten Gegend von Seefeld in Tirol, am Geigenbühel. \nUnser Haus mit individuellem architektonischen Charakter liegt sehr ruhig und sonnig aber trotzdem fußläufig zum Ortszentrum von Seefeld, waldrandnah und unmittelbar an der Panoramagolfanlage. Den Gästen steht die hauseigene Sauna kostenfrei zur Benützung, ebenso wie das W-Lan in den Wohnungen. Der Ski- und Dorfbus (gratis) ist in wenigen Minuten zu Fuß erreichbar. Tauchen Sie ein in eine original alpine Atmosphäre! Ganzjährig geöffnet.",
+    "Inkl. Endreinigung, Strom, Heizung, TV, W-LAN, Bettwäsche, Handtücher, Bademantel, beheizter Skistall, Parkplatz, Sauna;\nExcl. Hunde ab 5 Euro am Tag!\nAnreise ab 15:00 Uhr, Abreise bis 10.00 Uhr",
+    "aus Deutschland kommend:\nAutobahn München Richtung Garmisch, Autobahnende in Oberau, Weiterfahrt auf der Bundesstraße Richtung Mittenwald - Scharnitz, Seefeld Nord abfahren, Bahnschranken überqueren, nach ca. 150m (auf der rechten Seite „Elektro Jamnik“) rechts in die Geigenbühelstraße abbiegen, dem Straßenverlauf folgen, weiter über die brücke fahren und gleich danach in der Panoramaweg abbiegen.",
+    "Prachensky, Prachenskyhof, Appartement, Apartment, Seefeld"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "reviewCount": "10"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a817cd20-0678-47be-9195-2a79fae90cfe/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5fb0d0ec-7c54-4020-b24d-edbb9c9817c5/99/image.jpg",
+      "caption": "Logo"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/9168a575-d35b-450d-881b-5163fe38f17b/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f96e177a-05d0-4d7d-abfa-e574a9b40a4f/99/image.jpg",
+      "caption": "Sommer 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/388890af-9803-4748-ae64-1f0d127681e9/99/image.jpg",
+      "caption": "Garten"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3372958636195",
+    "longitude": "11.1891889572144"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Das Apartment verfügt über eine original alte Tiroler Bauernstube, Schlafzimmer, eine Terrasse mit großem Gartenanteil, einen großen Wohnbereich mit offenem Kamin und modernst ausgestatteter Küche samt gemütlichen Möbeln und natürlich über Dusche und WC. Im Haus befindet sich eine eigene Sauna.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment Top 4/5",
+          "description": "",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "100.00",
+          "maxPrice": "220.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "Im Dachgeschoss des Prachenskyhofes befindet sich das ehemailge Atelier. Große Fensterelemente durchfluten den Innenraum.\nDas Atelierappartement besteht aus einem großen Wohnraum inkl. Couch, Esstisch und Küchenzeile, 2 Galerien, einem modernen Balkon, Dusche/WC und einem Schlafzimmer. Eine Sauna steht allen unseren Gästen im Haus zur Verfügung. Abstellräumlichkeiten wie Skiraum, Fahrradraum etc. können gerne benutzt werden. TV und W-Lan sind vorhanden.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement Top14 - Atelier",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Sonnenskipauschale, Appartement Top14 - Atelier",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "95.00",
+          "maxPrice": "230.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "595.00",
+          "maxPrice": "949.20",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

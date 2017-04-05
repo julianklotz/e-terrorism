@@ -1,0 +1,89 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.hausastrid.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Astrid",
+    "streetAddress": "Weidach 307 a",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6643",
+    "email": "info@hausastrid.at",
+    "url": "http://www.hausastrid.at"
+  },
+  "name": "Haus Astrid",
+  "description": [
+    "Unser Haus liegt ruhig am Waldrand im großen privaten Garten-Grundstück, direkt am eigenen privaten See mit Ruderbooten. Das Ortszentrum, Skilift und Schwimmbad sind nur wenige Gehminuten entfernt. Der nächste Loipeneinstieg (Verbindungsloipe Weidach-Alpenbad) ist ca. 100m entfernt.",
+    "INKLUSIVE: Strom - Wasser - Heizung - Garage - Haustiere (auf Anfrage)\nEXKLUSIVE: Telefonate - Ortstaxe - Endreinigung",
+    "\nMittenwald - Unterleutasch - Gasse - Weidach - Tourismusinfo - Rechts - Sporthotel - links Innsbruck - Seefeld - Leutasch - Weidach - nach Obstladen \"Tiroler\" links - nach Sporthotel links"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/911833d9-2447-4a68-bef6-056ee57529e5/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/dd103d2f-b5fd-4ec9-91f9-e1a92c81a24b/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/dcf62ef9-2c8d-4a7d-8988-9a75642c62dd/99/image.jpg",
+      "caption": "Garten"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.369061492021",
+    "longitude": "11.163609860463"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, 1 Schlafraum",
+      "description": "Geräumiges, sonnig-helles Appartement, gemütlich eingerichtet mit Balkon und großer Terrasse und Seeblick.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/1 Schlafraum/Bad, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "40.00",
+          "maxPrice": "75.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "43.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

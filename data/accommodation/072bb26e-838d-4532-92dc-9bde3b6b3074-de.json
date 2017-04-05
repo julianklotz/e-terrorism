@@ -1,0 +1,122 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.haus-ilse.com",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Ilse",
+    "streetAddress": "Weidach 349",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 20135",
+    "faxNumber": "0043 5214 20135",
+    "email": "neuner.ludwig@aon.at",
+    "url": "http://www.haus-ilse.com"
+  },
+  "name": "Haus Ilse",
+  "description": [
+    "Unser Haus befindet sich in der Nähe des Zentrums Weidach - Bushaltestelle, Schilift, Loipen, Wanderwege, Radweg, Einkaufsmöglichkeiten und Arzt befinden sich  in unmittelbarer Nähe. Die Ferienwohnungen befinden sich beide im Erdgeschoss. Beide mit Terrasse und kleinem Garten mit Liegewiese.",
+    "Inklusive:\nüberdachter Autoabstellplatz, Strom, Heizung, Wasser, Sat-Fernsehn, WLAN, Endreinigung",
+    "Unser Haus liegt in Weidach, ca. 200 Meter östlich vom Supermarkt M-Preis."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/90741c79-16a7-48b9-937b-dc1ff5d093ee/99/image.jpg",
+      "caption": "Haus Ilse in  Hausansicht im Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/63a9e2dd-38db-47a9-913e-5cb5aa31b666/99/image.jpg",
+      "caption": "Winter"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3736869",
+    "longitude": "11.1683544"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "Die Ferienwohnung liegt im Erdgeschoss und einem Garten mit Liegewiese.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "App. \"ARNIKA\",2 Schlafräume, Dusche, WC",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "40.00",
+          "maxPrice": "40.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "50.00",
+          "maxPrice": "50.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Toilette und Bad/Dusche getrennt, 1 Schlafraum",
+      "description": "Die Ferienwohnung liegt im Erdgeschoss.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "App. \"EDELWEISS\", Fewo, WC \u0026 Bad/Dusche getrennt",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "25.00",
+          "maxPrice": "25.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "38.00",
+          "maxPrice": "38.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

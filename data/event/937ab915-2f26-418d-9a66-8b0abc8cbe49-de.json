@@ -1,0 +1,50 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "Winter-Erlebnisse - \"G´schwind am Gschwand - Morgenskilauf\"",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Informationsbüro Seefeld",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Klosterstraße 43",
+      "addressLocality": "Seefeld",
+      "postalCode": "6100",
+      "addressCountry": "AT",
+      "telephone": "+43508800",
+      "email": "region@seefeld.com",
+      "url": "http://www.seefeld.com"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Informationsbüro Seefeld",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Klosterstraße 43",
+      "addressLocality": "Seefeld",
+      "postalCode": "6100",
+      "addressCountry": "AT",
+      "telephone": "+43508800",
+      "email": "region@seefeld.com",
+      "url": "http://www.seefeld.com"
+    }
+  },
+  "description": "Das Winter-Erlebnisprogramm bietet 15 einzigartige Abenteuer für Jung und Alt! Exklusiv und kostenfrei mit der Olympiaregion Seefeld Card! Genießen Sie die frisch präparierten Pisten, ganz exklusiv, noch vor den regulären Öffnungszeiten. Zwischen 8:00 Uhr und 9:00 Uhr am Gschwandtkopf - mit Frühstücksmöglichkeit auf der Sonnenalm. Anmeldung erforderlich!",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7602e989-74b6-42e6-a734-39c81dd9be05/99/image.jpg",
+      "caption": "Skilauf am Gschwandtkopf"
+    }
+  ],
+  "url": [
+    "http://www.seefeld.com/tirol-service/gaeste-karte",
+    "http://skigebiet-seefeld.at"
+  ],
+  "startDate": "2016-12-22T08:00:00",
+  "endDate": "2017-03-23"
+}

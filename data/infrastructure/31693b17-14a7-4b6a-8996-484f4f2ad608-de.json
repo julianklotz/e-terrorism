@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant"
+  ],
+  "name": "Hotel Residenz Hochland",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3322642788192",
+    "longitude": "11.1840391159058"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Hotel Residenz Hochland ",
+    "streetAddress": "Wettersteinstrasse 184",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2211",
+    "faxNumber": "(0043) 5212 2211 15",
+    "email": "seefeld@hotel-hochland.com",
+    "url": "http://www.hrh.at"
+  },
+  "description": [
+    " ",
+    "Sitzplätze für ca. 130 Personen\n\nTradition und Moderne bestimmen das lebendige Interieur unseres Hauses.\nAuch die Küche verwöhnt Sie täglich aufs Neue mit erlesenen Köstlichkeiten.\nGenießen Sie die Gaumenfreuden, welche unsere Köche stets mit viel Liebe und Können auf gesunde und bekömmliche Weise speziell für sie zubereiten.\nSelbstverständlich bietet auch der Keller edle Tropfen und so manche Raritäten.\nFreuen Sie sich über alles Gute."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0c58dea9-5e82-4514-92f8-e69c4fefbb41/99/image.jpg",
+      "caption": "Hochland Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e1e777dd-6ff0-4082-b75f-9f6b4b965f56/99/image.jpg",
+      "caption": "Hochland Winter"
+    }
+  ],
+  "url": [
+    "http://www.hrh.at"
+  ]
+}

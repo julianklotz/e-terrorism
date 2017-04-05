@@ -1,0 +1,22 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Store",
+    "JewelryStore"
+  ],
+  "name": "Pirkner, Schmuck, Uhren, Kunst",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3287775165351",
+    "longitude": "11.1873918771744"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Pirkner",
+    "streetAddress": "Dorfplatz 25",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 3884"
+  }
+}

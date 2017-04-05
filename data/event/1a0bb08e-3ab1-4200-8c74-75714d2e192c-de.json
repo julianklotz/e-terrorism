@@ -1,0 +1,55 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "Weinverkostung",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Hotel Central",
+    "employee": {
+      "@type": "Person",
+      "familyName": "Ölhafen Hotel GmbH \u0026 CoKG"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Münchnerstr. 41",
+      "addressLocality": "Seefeld",
+      "postalCode": "6100",
+      "addressCountry": "AT",
+      "telephone": "+4352123288",
+      "faxNumber": "+435212328866",
+      "email": "central@seefeld.at",
+      "url": "http://www.central-seefeld.at"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Hotel Central",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Münchnerstr. 41",
+      "addressLocality": "Seefeld",
+      "postalCode": "6100",
+      "addressCountry": "AT",
+      "telephone": "+4352123288",
+      "faxNumber": "+435212328866",
+      "email": "central@seefeld.at",
+      "url": "http://www.central-seefeld.at"
+    }
+  },
+  "description": "Verkosten Sie qualitativ hochwertige österreichische Weine und Destillate im hauseigenen Weinkeller! Erleben Sie ab 21:00 Uhr einen gemütlichen Abend mit unserem Oberkellner Pavel und Freunden. Kosten: € 12,-- pro Person (Verkostung und kleine Jause mit Speck und Käse). Anmeldung unter Tel. 05212 3288 oder central@seefeld.at.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/57a46527-e7d8-4eb8-bf0b-2c4a412a5350/99/image.jpg",
+      "caption": "Weingläser"
+    }
+  ],
+  "url": [
+    "http://www.central-seefeld.at"
+  ],
+  "startDate": "2017-05-29T21:00:00",
+  "endDate": "2017-10-09"
+}

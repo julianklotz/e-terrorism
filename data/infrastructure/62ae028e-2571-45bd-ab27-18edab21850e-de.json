@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant"
+  ],
+  "name": "Batzenhäusl",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3284648237902",
+    "longitude": "11.1834758520126"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Batzenhaeusl",
+    "streetAddress": "Klosterstr. 44",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "+4352122292",
+    "faxNumber": "+43521222922043",
+    "email": "batzenhaeusl@kaltschmid.info",
+    "url": "http://www.gasthof-seefeld.com/de/"
+  },
+  "description": [
+    " ",
+    "ECHTE TIROLER KÜCHE VOM ALLERFEINSTEN:\nHier können Sie zünftige Schmankerln und Hausmannskost genießen. Die Tiroler Küche bietet Ihnen von der traditionellen Jause bis hin zum Festtagsbraten eine breite Auswahl an Köstlichkeiten.\n\nESSEN UND TRINKEN IN GEMÜTLICHER ATMOSPHÄRE:\n„Essen und Trinken hält Leib und Seele zusammen\" sagt man bei uns. Und da ist was dran. Der Hunger kommt in unserer guten Luft von ganz alleine. Nach einer ausgedehnten Wanderung oder einer Radtour schmecken die Tiroler Spezialitäten oder ein gutbürgerliches Abendessen besonders gut."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ab9cd15e-f810-4b2d-956e-5cbf08485915/99/image.jpg",
+      "caption": "Batzenhäusl"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/cf8abd15-8d65-4583-a8f2-aff5e3f6d79b/99/image.jpg",
+      "caption": "Batzenhäusl Winter"
+    }
+  ],
+  "url": [
+    "http://www.gasthof-seefeld.com/de/"
+  ]
+}

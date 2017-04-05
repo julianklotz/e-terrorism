@@ -1,0 +1,30 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "HealthAndBeautyBusiness"
+  ],
+  "name": "Christa\u0027s Energieoase",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.4227097504605",
+    "longitude": "11.2261509214263"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Christa\u0027s Energieoase",
+    "streetAddress": "Schanz 268c",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 4440975",
+    "url": "http://www.hufnagl.or.at"
+  },
+  "description": "Christa’s Energieoase*\nSchanz 268 c, Tel.: 0664/4440975, \nwww.hufnagl.or.at\nIn einer wunderbaren Ruhezone im Ortsteil Schanz in Leutasch steht ein kleines Holzhaus. In dieser beruhigenden Umgebung erfahren Sie Wellness für Körper, Geist und Seele durch „Neue Energie“, „HolisticPulsing“ und Harmonisierung Ihrer Chakren. Ihre Selbstheilungskräfte werden aktiviert und die innere Balance harmonisiert. Ihre Energien können wieder ungehindert fließen. ",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/36119ade-dedb-4d54-b6e6-b3e612539702/99/image.png",
+      "caption": "energieoase"
+    }
+  ]
+}

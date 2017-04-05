@@ -1,0 +1,122 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Berger",
+    "streetAddress": "Lus 68",
+    "addressLocality": "Reith bei Seefeld",
+    "postalCode": "6103",
+    "addressCountry": "AT",
+    "telephone": "0043 5212 3177"
+  },
+  "name": "Haus Berger",
+  "description": [
+    "Gediegenes Haus am sonnigen Südhang. Sehr ruhig, mit prachtvollem, freiem Blick auf die Berge des Oberinntales. Gasthäuser, Lebensmittelgeschäft, Wander- und Schibus in nächster Nähe. Ruhepol für Individualisten.",
+    "alles inklusive!",
+    "Check - In: 14.00 Uhr\nCheck - Out: 10.00 Uhr\nDorfzentrum Reith bis Kirchen, links ab (Lus) rechts halten nach ca. 200m Haus  Nr. 68 (Berger) auf der linken Seite."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/43400a2f-fb38-4067-ae3d-aecbad6f236b/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f4e84b3c-6e76-4ebe-8762-9fa056fb9f0b/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/cfa0d393-3e41-41ec-b570-818dffa5b2bc/99/image.jpg",
+      "caption": "Aussicht Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/65935bd5-7020-481a-860a-daf2aada8972/99/image.jpg",
+      "caption": "Winter Aussicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/fc006193-6080-4bb1-83d6-1432b449f0ca/99/image.jpg",
+      "caption": "Aussicht Frühjahr"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f719c028-fdf9-4342-9c7b-0fd0ea646d85/99/image.jpg",
+      "caption": "Winter1 Aussicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4beb8cba-a832-4b7a-b64a-57c43c319a73/99/image.jpg",
+      "caption": "Winter2 Aussicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3eb37aac-705a-4f74-93db-ae987b63345d/99/image.jpg",
+      "caption": "Aussicht Herbst"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2993168278955",
+    "longitude": "11.2066640095879"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Zimmer nach SÜden mit Balkon freie Sicht auf die Berge, neutwertige bodenständige Einrichtung.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Nr. 1, Doppelzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Zimmer nach Süden mit Balkon, freie Sicht auf die Berge, neuwertige bodenständige Eintrichtung.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Nr. 2, Doppelzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ]
+    }
+  ]
+}

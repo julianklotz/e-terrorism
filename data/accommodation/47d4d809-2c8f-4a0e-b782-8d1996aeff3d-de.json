@@ -1,0 +1,113 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.chalet-stephan.com",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Chalet Stephan",
+    "streetAddress": "Plaik 93 b",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6787",
+    "faxNumber": "(0043) 5214 6787",
+    "email": "chalet.stephan@aon.at",
+    "url": "http://www.chalet-stephan.com"
+  },
+  "name": "Chalet Stephan",
+  "description": [
+    "Unser Haus liegt sonnig und ruhig inmitten einer großen Wiese. Nicht an der Hauptstraße, jedoch erreichen Sie in wenigen Minuten Gasthöfe, Reitstall, Minigolf, Lebensmittelgeschäft u. Alpenbad. Im Winter ist die Loipe hinter unserem Haus.\nAusgangspunkt vieler Wanderungen, Berg- u. Radtouren.\nFewo für 2 Pers. und für 2-4 Pers. in hellem Fichtenholz eingerichtet. Schlafzimmer mit Radio und Zimmersafe, Wohnschlafraum mit ausziehbarer Couch, Essecke und kl. Küche.\n\n",
+    "Inklusive: Heizung, Strom, Brötschenservice tägl., Begrüßungsdrunk\n\nExklusive: Ortstaxe, Endreinigung\n",
+    "Über Garmisch, Mittenwald Oberleutasch nach Weidach-Kirchplatzl bei Platzl Richtung Gaistal-Plaik, Wegweiser an der Straße.\nÜber Inntalautobahn Richtung Seefeld-Leutasch Weidach-Kirchplatzl-Platzl-Plaik, Wegweiser an der Straße.\nCheck-In 15.00 Uhr"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3177e293-db7b-481b-bb18-9f4030552437/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5d8012f1-69f2-4b45-b1b4-9b9dfc986768/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3629e6f7-ec1f-45a6-814e-97ebf195e0ba/99/image.jpg",
+      "caption": "Gartenhaus"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.362303656104",
+    "longitude": "11.129404476956"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Ferienwohnng 2-4 Personen, seperates Schlafzimmer, Wohnzimmer m.Ausziehbarer Couch,Küche mit Eßecke,E-Herd,Kühlschrank, Kaffeemaschine, Wasserkocher und Mikrowelle.Begrüßungsdrunk, Brötchenservice,Bett-und Tischwäsche, sowie Handtücher und Tuschtücher,gratis W-Lan.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartment Alpenrose /1 Schlafraum/ Bad,WC",
+          "description": "Ferienwohnung für 2-4 Personen,seperates Schlafzimmer,Wohnzimmer mit ausziehbarer Couch,Küche mit Eßecke, E-Herd, Kühlschrank, Kaffeemaschine, Wasserkocher und Mikrowelle,Bettwäsche ,Tischwäsche, Handtücher und Duschtücher,Begrüßungsdrunk,Brotservice,gratis W-Lan.",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "50.00",
+          "maxPrice": "85.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "60.00",
+          "maxPrice": "95.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Schlafzimmer, Wohnschlafzimmer m. Kochnische, DU oder Bad/WC, kl. Vorraum und Balkon Fön,Duschgel,Radio,Fernseher,Mikro,Zimmersafe,Bett und Tischwäsche, Handtücher,Begrüßungsdrunk, Brotservice,Sonnenterrasse,Liegewiese,freier Eintritt im Alpenbad,gratis W-LAN",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartment Arnika /1 Schlafraum/ Dusche,WC",
+          "description": "Wohnzimmer,Schlafzimmer,DU/WC,kleiner Voraum und Balkon, Bettwäsche, Tischwäsche und Handtücher,Küche mit Elektroherd,Kaffeemaschine,Mikro,Wasserkocher und ausreichend Geschirr,Zimmersafe, Biobetten,Freier Eintritt im Alpenbad Leutasch ( Mai - Okt.)\ngratis W-LAN, Begrüßungsdrunk, Brötchenservice,",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ]
+    }
+  ]
+}

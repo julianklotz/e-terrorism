@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BeautySalon",
+    "HealthAndBeautyBusiness"
+  ],
+  "name": "Hotel Diana",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3287593367751",
+    "longitude": "11.1840176582336"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Hotel Diana",
+    "streetAddress": "Klosterstr. 97",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2060",
+    "faxNumber": "(0043) 5212 2188",
+    "email": "info@hotel-diana.at",
+    "url": "http://www.hotel-diana.at"
+  },
+  "description": [
+    " ",
+    "1. Tiroler Bier-Bottich-Bad, Heu- \u0026 Molkesprudelbad, Infrarotkabinen, Solarium \u0026 Massagen."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/862f5238-56c3-4a6d-b174-a478301583b0/99/image.jpg",
+      "caption": "Hotel Diana"
+    }
+  ],
+  "url": [
+    "http://www.hotel-diana.at"
+  ]
+}

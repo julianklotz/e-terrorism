@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation",
+    "SportingGoodsStore"
+  ],
+  "name": "SCHIMEIER Langlaufverleih \u0026 Eislaufplatz",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.326811699398",
+    "longitude": "11.1822152590485"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "SCHIMEIER",
+    "streetAddress": "Klosterstr. 600/Olympia Sport- und Kongresszentrum",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "+4352123050",
+    "email": "info@schimeier.at",
+    "url": "http://www.schimeier.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6dd0949a-3332-4d80-92d1-19fc18428433/99/image.jpg",
+      "caption": "Eislaufplatz Schimeier"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1056f491-d376-44cf-a04a-d033c974a306/99/image.jpg",
+      "caption": "Logo Schimeier"
+    }
+  ],
+  "url": [
+    "http://www.schimeier.at"
+  ]
+}

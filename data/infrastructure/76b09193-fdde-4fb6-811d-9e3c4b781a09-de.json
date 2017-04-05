@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BowlingAlley"
+  ],
+  "name": "Kegelbahn \"Zur Kugl\"",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3283448365478",
+    "longitude": "11.1899077892303"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Kegelcenter \"Zur Kugl\"",
+    "streetAddress": "im Haus Europa, beim Bahnhof",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 2159635",
+    "url": "http://www.seefeld-fun.com"
+  },
+  "description": [
+    "„Tyrolean Bowling“ im Haus Europa gegenüber vom Bahnhof Tel.: 0664/2159635, www.seefeld-fun.com\n4 vollautomatische Kegelbahnen, Spielautomaten, Tischfußball, Tischtennistisch \nFür Gruppen bei rechtzeitiger Reservierung auch tagsüber, 1 Stunde pro Bahn 15,00€\n",
+    "Nach Voranmeldung, wenn möglich 24 Stunden im Voraus."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ef168264-dd7f-4095-bc2c-2b2e0126ebbb/99/image.jpg",
+      "caption": "Piktogramm"
+    }
+  ],
+  "url": [
+    "http://www.seefeld-fun.com"
+  ]
+}

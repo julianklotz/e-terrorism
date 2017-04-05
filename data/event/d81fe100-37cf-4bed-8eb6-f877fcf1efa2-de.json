@@ -1,0 +1,73 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "11. Leutascher Bergfrühlingstage - Fahrt mit Traktorkutsche",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Informationsbüro Leutasch",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Weidach 320",
+      "addressLocality": "Leutasch",
+      "postalCode": "6105",
+      "addressCountry": "AT",
+      "telephone": "+43-50880510",
+      "faxNumber": "+43-50880811",
+      "email": "info.leutasch@seefeld.com",
+      "url": "http://www.seefeld.com"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Brunnerhof",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Innsbruckerstr.3",
+      "addressLocality": "Scharnitz",
+      "postalCode": "6108",
+      "addressCountry": "AT",
+      "telephone": "+4352135302",
+      "faxNumber": "+4352135302",
+      "email": "info@brunnerhof-scharnitz.at",
+      "url": "http://www.brunnerhof.scharnitz.net"
+    }
+  },
+  "description": "„HIER IST DIE JUNGE ISAR NOCH EINE TIROLERIN”\nFahrt mit dem Panoramawagen einer Traktorkutsche ins Hinterautal – Isar Ursprung – Isarquellen. Anschließend stärken wir uns bei einer Tiroler Jause. Anmeldung erforderlich bis Dienstag, 06. Juni, 17.00 Uhr im Informationsbüro Leutasch. Unkostenbeitrag: € 18,--.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6b0aeca7-5478-4c85-8e13-b588702ec67b/99/image.jpg",
+      "caption": "bergfrühl"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/feeeaedc-369c-4b19-bf41-d0d3bd2aa6d0/99/image.jpg",
+      "caption": "bergfrühling"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/71852485-023f-4317-bced-86bf7491ec79/99/image.jpg",
+      "caption": "bergfrühling1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1f7d89ea-88b7-4c29-8cca-6b3bc46319af/99/image.jpg",
+      "caption": "bergfrühling2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/bba69a27-6463-4ca2-9bb0-41de549e7346/99/image.jpg",
+      "caption": "bergfrühling3"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/96851178-0140-4d23-94f8-2de4646fe646/99/image.jpg",
+      "caption": "bergfrühling4"
+    }
+  ],
+  "startDate": "2017-06-07T10:00:00",
+  "endDate": "2017-06-07"
+}

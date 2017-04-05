@@ -1,0 +1,198 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.brunnerhof.scharnitz.net",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Brunnerhof",
+    "streetAddress": "Innsbruckerstr.3",
+    "addressLocality": "Scharnitz",
+    "postalCode": "6108",
+    "addressCountry": "AT",
+    "telephone": "+4352135302",
+    "faxNumber": "+4352135302",
+    "email": "info@brunnerhof-scharnitz.at",
+    "url": "http://www.brunnerhof.scharnitz.net"
+  },
+  "name": "Brunnerhof",
+  "description": [
+    "Herzlich willkommen bei uns am Brunnerhof\n\nUnser Brunnerhof ist ein kleiner Familienbetrieb in Scharnitz. \n\nDer Betrieb wurde vor kurzem von Anita und Markus Draxl übernommen. \nBei uns hilft die ganze Familie mit, um unseren Gästen einen angenehmen und erholsamen Urlaub zu ermöglichen. \n\nOb Einzel-, Doppelzimmer oder eine Ferienwohnung bei uns ist vom Kleinkind bis zu Oma und Opa, für jeden etwas dabei. \n\nGroßzügig umgebautes Bauernhaus. \n\nUnser Haus ist zentral gelegen, daher ein idealer Ausgangspunkt für alle Rad- und Wandertouren ins naheliegende Karwendel.\n\nLoipeneinstieg nach Seefeld oder Mittenwald direkt hinter dem Haus.\n",
+    "inkl. Wasser, Heizung, Strom, Bettwäsche, Tischtücher, TV, W-LAN\nexcl. Kurtaxe, Endreinigung ",
+    "Von Richtung Garmisch kommend gegenüber der Pfarrkirche auf der rechten Seite.  \nVon Richtung Innsbruck kommend gegenüber der Pfarrkirche auf der linken Seite. \n\nCheck in 14:00 - 18:00, Sonntags 12:00 - 15:00\nCheck out: 10:00"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "reviewCount": "71"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d9845806-4f4b-46a6-91d2-a9323cbfa082/99/image.jpg",
+      "caption": " Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/47c9c05d-30de-4823-96ad-a8613f15daa8/99/image.jpg",
+      "caption": "Sommer "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/00d55375-ee7e-4204-9c28-c3dffdeeb088/99/image.jpg",
+      "caption": "Eingang"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7bfe78ae-ff34-4a78-a4ad-3ffc95a7ac94/99/image.jpg",
+      "caption": "Parterre"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/71932172-de8d-48a6-a12e-10084322a52e/99/image.jpg",
+      "caption": "Stiegenaufgang"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f914762f-03bb-4a86-859c-17c9de83c9e0/99/image.jpg",
+      "caption": "Hausgang 1. Stock"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3887598411971",
+    "longitude": "11.263380969687"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC, Nichtraucher",
+      "description": "Unsere Doppelzimmer haben teilweise einen Balkon.\nDie Zimmer sind für 2 Personen als auch zum Teil für 2 Personen mit 2 Kindern geeignet. Gerne auch als Dreibettzimmer.\nDas dritte Bett ist eine ausziehbare Couch/Schlafcouch.\nFür Babys könne wir Ihnen auch gerne ein Gitterbett bzw. einen Hochstuhl zur Verfügung stellen.\nEines unserer Doppelzimmer ist mit Vollholzmöbeln sowie Holzboden ausgestattet. Allergiker geeignet.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer teilweise Balkon",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "30.00",
+          "maxPrice": "30.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "24.00",
+          "maxPrice": "24.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC",
+      "description": "Unsere Ferienwohnung ist mit Vollholzmöbeln sowie Vollholzböden ausgestattet.\nSie verfügt über eine kleine, sehr gut ausgestattete Kochnische.\nDas besonders gemütliche Ambiente sorgt für erholsame Stunden.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/Wohn-Schlafraum/Dusche, WC",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/2 Schlafräume",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "43.00",
+          "maxPrice": "43.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "53.00",
+          "maxPrice": "53.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "65.00",
+          "maxPrice": "65.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Bad, WC, Balkon",
+      "description": "Unsere neue Ferienwohnung wurde erst kürzlich neu gemacht.\nEs ist eine helle und freundliche Wohnung für 2 Personen bzw. einer Familie mit 2 Kindern.\nFür 4 Erwachsene ist die Wohnung zu klein!\nDas Schlafzimmer besteht ist mit Fichtenvollholzmöbeln ausgestattet.\nBadezimmer und WC sind räumlich von einander getrennt.\nDie Wohnküche ist voll ausgestattet und lässt keine Wünsche zum Kochen übrig.\nEine äußerst komfortable Schlafcouch (integrierte Matratze) sorgt für einen erholsamen Schlaf.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement/Fewo, Bad, WC, Balkon",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

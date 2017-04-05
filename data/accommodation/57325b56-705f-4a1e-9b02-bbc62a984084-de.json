@@ -1,0 +1,184 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.hohersattel.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Hoher Sattel",
+    "streetAddress": "Weidach 334",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6860",
+    "faxNumber": "(0043) 5214 6860",
+    "email": "hohersattel@aon.at",
+    "url": "http://www.hohersattel.at"
+  },
+  "name": "Haus Hoher Sattel",
+  "description": [
+    "\"Grüß Gott\"im Haus Hoher Sattel, Ihr Geheimtipp für erholsame Urlaubstage. \nUnser kinderfreundlich geführter Familienbetrieb in sonniger und zentraler Lage bietet Urlaub zum Wohlfühlen.\nAuf Ihren Besuch freut sich Familie Michaela Neuner",
+    "Inklusive: Heizung, Wasser, Strom, Wäsche\nExklusive: Endreinigung u. Ortstaxe, Frühstück auf Wunsch",
+    "Auto: Vom Norden aus können Sie das Leutaschtal per München - Garmisch - Mittenwald - Leutasch (Leutasch ist Mautfrei erreichbar) erreichen\n\nVom Westen über den Arlberg - Telfs - Leutasch. Vom Süden her können Sie Leutasch erreichen. Vom Osten aus über Innsbruck - Seefeld - Leutasch"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "reviewCount": "15"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6ffe636b-d6d6-48e6-a041-2fe9c3ee050e/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f4d6bfb2-c463-4dad-b242-79d1573d2566/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3eac30df-67b9-4a43-be4f-07e848850e33/99/image.jpg",
+      "caption": "Haus Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/362123f5-33b0-4f64-8229-07ce42b4ece4/99/image.jpg",
+      "caption": "Haus Winter 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/15a6dcec-06fa-4b50-adf5-ad111f8c42ce/99/image.jpg",
+      "caption": "Gartenhaus"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ee0744e5-35e9-4447-93e6-39709b0594dc/99/image.jpg",
+      "caption": "Landschaft"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c88b58b4-c3fe-43b2-b936-497ec5724d46/99/image.jpg",
+      "caption": "Landschaft1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7f45d698-88f7-4304-9536-34dde2cece5b/99/image.jpg",
+      "caption": "Landschaft2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ae6f0613-869a-4c06-938b-99c2a60fa489/99/image.jpg",
+      "caption": "Haus "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7921e4da-62de-4caf-9e9c-96496a7f2931/99/image.jpg",
+      "caption": "Haus1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/82f3eb8e-d048-444c-95bc-2b09e4b142ef/99/image.jpg",
+      "caption": "Haus2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3187ff62-9843-462f-8ad3-b6e80f2f75e2/99/image.jpg",
+      "caption": "Aussicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7f8c254b-a2b9-4042-9af0-3690b0c30b6b/99/image.jpg",
+      "caption": "Aussicht1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/471f6fb1-d898-484f-b2b3-3ca040031b81/99/image.jpg",
+      "caption": "Aussicht2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/740a445f-5d73-4767-bc3e-1c46d78f48f6/99/image.jpg",
+      "caption": "Aussicht3"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.371265369117",
+    "longitude": "11.166381083262"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Schlafzimmer, Wohnschlafraum, DU/WC, Küche, Balkon, im Tiroler Stil eingerichtet",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement Nr. 1 Dusche/WC",
+          "description": "Unser Appartement Nr.1 ist im Tiroler Landhausstil eingerichtet mit hellen Holzmöbeln, Parkettböden und einem Schlafzimmer, Wohnschlafzimmer mit SAT/TV, separater Küche mit Sitzecke, DU/WC, Internetanschluß und Balkon.\n",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Schlafzimmer, Wohnschlafzimmer, 2 mal Dusche/WC, Küche, gr. Südbalkon, im Tiroler Stil eingerichtet;",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement Nr. 2 mit Dusche, WC",
+          "description": "",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Im Tiroler Stil eingerichtet, Schlafzimmer, kl. Wohnraum, gemütliche Küche, Dusche/WC, großer Balkon;",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement Nr. 3 mit Dusche, WC",
+          "description": "Unser Appartement Nr.3 ist im Tiroler Landhausstil eingerichtet mit hellen Holzmöbeln, teilweiße Parkettboden einem Schlafzimmer, Wohnraum mit SAT/TV, separater Küche mit Sitzecke, DU/WC, Internetanschluß und Balkon.",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "Basar rund ums Kind vom Elternverein \"kids \u0026 family\"",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "\"kids \u0026 family\" Elternverein ",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Münchner Str. 911",
+      "addressLocality": "Seefeld",
+      "postalCode": "6100",
+      "addressCountry": "AT",
+      "email": "info@elternverein-seefeld.com",
+      "url": "http://www.elternverein-seefeld.com"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "\"kids \u0026 family\" Elternverein ",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Münchner Str. 911",
+      "addressLocality": "Seefeld",
+      "postalCode": "6100",
+      "addressCountry": "AT",
+      "email": "info@elternverein-seefeld.com",
+      "url": "http://www.elternverein-seefeld.com"
+    }
+  },
+  "description": "Die zweite Chance für die besten Stücke! Verkauf: freitags, 16:00 bis 19:30 Uhr und samstags, 8:00 bis 12:00 Uhr. Weitere Informationen unter www.elterverein-seefeld.com.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e479e10e-8cb4-4178-85a9-20ad73d92790/99/image.gif",
+      "caption": "Elternverein"
+    }
+  ],
+  "url": [
+    "http://www.elternverein-seefeld.com"
+  ],
+  "startDate": "2017-03-31T09:30:00",
+  "endDate": "2017-04-01"
+}

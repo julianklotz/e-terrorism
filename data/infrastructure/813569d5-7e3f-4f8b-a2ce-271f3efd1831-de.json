@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hostel",
+    "Landform"
+  ],
+  "name": "Möslalm",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3372140678448",
+    "longitude": "11.3434267044067"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Möslalm",
+    "streetAddress": "Eggenwaldweg 51",
+    "addressLocality": "Innsbruck",
+    "postalCode": "6020",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 9142670",
+    "email": "moeslalm.kircher@drei.at"
+  },
+  "description": "Unsere „urige und echte“ Alm liegt im schönen Gleirschtal. Auf der sonnigen Terrasse verwöhnen wir unsere Gäste mit Hausmannskost und selbstgemachten Kuchen. Alle Fleischspezialitäten stammen aus der eigenen Landwirtschaft und die Milchprodukte kommen täglich frisch aus unserer Almsennerei: hausgemachter Graukäse und Sauerrahm-Almbutter.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/92ec99ee-09f5-4c53-9aad-03aa769f1f6c/99/image.jpg",
+      "caption": "Möslalm1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3106878f-b153-4ea5-a377-49392f647a25/99/image.jpg",
+      "caption": "Möslalm"
+    }
+  ],
+  "url": [
+    "http://www.karwendel.org"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation"
+  ],
+  "name": "Spielplatz Reith",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.299022304253",
+    "longitude": "11.2034914227539"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Informationsbüro Reith",
+    "streetAddress": "Römerstraße 52",
+    "addressLocality": "Reith bei Seefeld",
+    "postalCode": "6103",
+    "addressCountry": "AT",
+    "telephone": "(0043)50880530 ",
+    "faxNumber": "(0043)50880831",
+    "email": "info.reith@seefeld.com",
+    "url": "http://www.seefeld.com"
+  },
+  "description": [
+    " ",
+    "1. Spielplatz befindet sich beim Musikplatzl \n2. Spielplatz befindet sich unterhalb der Raika und dem Infobüro Reith"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/804956e0-ed53-4be1-89f0-f95ce03a740a/99/image.jpg",
+      "caption": "Spielplatz"
+    }
+  ]
+}

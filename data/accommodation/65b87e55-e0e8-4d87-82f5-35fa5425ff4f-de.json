@@ -1,0 +1,111 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Föhrenwald",
+    "streetAddress": "Hocheggstr. 489 / Top 18",
+    "addressLocality": "Seefeld in Tirol",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 699 17866781",
+    "email": "info@holiday-seefeld.at"
+  },
+  "name": "Haus Föhrenwald - App. Sole",
+  "description": [
+    "Ferienwohnung, zentral zu allen Aktivitäten, hell, neu renoviert, 2 Zimmer, 2 Stock, Küche, Bad/WC/Badewanne/Dusche, Wohnzimmer mit Schlafraum, 1 Schlafzimmer, großer Südbalkon mit Bergblick.\n\nApartment, centrally located to all activities , bright, newly renovated, 2 rooms , 2 floor, kitchen, bathroom / WC / shower / bath , living room with sleeping area , bedroom, large balcony with mountain views.\n\nAppartamento , situato in posizione centrale a tutte le attività , luminoso , recentemente ristrutturato , 2 camere , 2 piano , cucina, bagno / WC / doccia / vasca da bagno , soggiorno con zona notte , \ncamera da letto, campio balcone con vista sulle montagne\n",
+    "Ferienwohnung modern hell ruhig zentral neu renoviert "
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6217fc3f-e6b7-4705-828d-90b50e3e44e3/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0ab5d427-194e-4c15-9db1-ccba11801c66/99/image.jpg",
+      "caption": "Haus Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/678dc596-2699-4d4e-ade4-1ac5af88b602/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/23193e00-efe3-4862-81a5-cb6cea38990c/99/image.jpg",
+      "caption": "Aussicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/24bd8b0f-6317-4e40-a0be-cc4edfbd8f2b/99/image.jpg",
+      "caption": "Seefeldkarte"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3275862720673",
+    "longitude": "11.1963904134918"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 1 Schlafraum",
+      "description": "Ferienwohnung, zentral zu allen Aktivitäten, hell, neu renoviert, 2 Zimmer (1 Schlafzimmer), 2 Stock, Küche komplett ausgestattet, Bad/WC/Badewanne/Dusche, Wohnzimmer mit Schlafraum, großer Süd Balkon mit Bergblick",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement/Fewo, Dusche und Bad, WC, 2 Schlafraum",
+          "description": "Modern renovierte, helle Ferienwohnung in Seefeld/Tirol für 4 Pers. , zentral gelegen, ca. 50qm, 2OG, Küche, Bad mit Badewanne, großes Wohnzimmer, Schlafnische, extra Schlafzimmer, großer LED TV mit HD Sendern, großer Südbalkon mit Blick in die Berge, Skilifte zu Fuß in 8 Min. erreichbar, Bus 1 Min. ",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "75.00",
+          "maxPrice": "85.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "75.00",
+          "maxPrice": "85.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "75.00",
+          "maxPrice": "85.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "75.00",
+          "maxPrice": "85.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.ahrn.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Wiesengrund",
+    "streetAddress": "Ahrn 209 a",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6880",
+    "email": "landhaus.ahrn@aon.at",
+    "url": "http://www.ahrn.at"
+  },
+  "name": "Haus Wiesengrund",
+  "description": [
+    "Unser Haus Wiesengrund steht inmitten blühender Wiesen und ist umgeben von einer atemberaubenden Bergwelt.Im Winter führt die Langlaufloipe direkt am Haus vorbei und im Sommer bietet unser Haus einen idealen Ausganspunkt für zahlreiche Wanderungen sowie Berg- und Klettertouren. Ein großer Ski- und Wachsraum ist vorhanden.",
+    "Großer Parkplatz und Skiraum zur kostenlosen Benützung.\nincl. Heizung, Wasser, Strom.\nexl.Ortstaxe,Endreinigung.",
+    "Innsbruck - Seefeld - Leutasch oder Mittenwald - Leutasch"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c6310457-e69b-4751-b964-84a5dde8251c/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/efe56be8-df86-4c02-8308-ff362d95c019/99/image.jpg",
+      "caption": "Winter"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.383018223463",
+    "longitude": "11.1699868433436"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "1 FW für 2 Personen, gemütliche, neuwertige Ausstattung.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

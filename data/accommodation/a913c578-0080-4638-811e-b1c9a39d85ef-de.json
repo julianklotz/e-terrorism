@@ -1,0 +1,81 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.appartement-haslwanter.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Jahreszeiten",
+    "streetAddress": "Römerstrasse 18",
+    "addressLocality": "Reith",
+    "postalCode": "6103",
+    "addressCountry": "AT",
+    "telephone": "0043 5212 3544",
+    "faxNumber": "(0043) 5212 3544",
+    "email": "claudia.haslwanter@aon.at",
+    "url": "http://www.appartement-haslwanter.at"
+  },
+  "name": "Haus Jahreszeiten",
+  "description": [
+    "Familiär geführtes Haus, mit Blick auf die um liegenden Berge, direkt im Zentrum von Reith. In unmittelbarer Nähe von Wander- und Radwegen, sowie Restaurants. Erweitertes Frühstück.",
+    "OT alles incl.",
+    "Direkt im Ortszentrum von Reith, gegenüber des Info-Büros.\nCheck - In 11.00 Uhr\nCheck - Out: 10.00 Uhr"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/392fcd7b-ce4a-460e-9438-f15f31ec6cce/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/74106f55-5694-4211-a5e4-2284cdf07ea5/99/image.jpg",
+      "caption": "Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2987313907949",
+    "longitude": "11.2044240950722"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Schönes geräumiges Zimmer mit Couch, Balkon, Dusche, WC und TV!",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "25.00",
+          "maxPrice": "30.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

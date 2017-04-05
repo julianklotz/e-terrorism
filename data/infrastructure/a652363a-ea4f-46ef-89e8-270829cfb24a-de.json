@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "TouristAttraction",
+    "LandmarksOrHistoricalBuildings",
+    "BarOrPub"
+  ],
+  "name": "Lurdesgrotte in Reith",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.2981261387499",
+    "longitude": "11.2046058915405"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Lurdesgrotte",
+    "streetAddress": "Sunnroanweg",
+    "addressLocality": "Reith bei Seefeld",
+    "postalCode": "6103",
+    "addressCountry": "AT"
+  },
+  "description": [
+    "Unterhalb der Reither Pfarrkirche lädt die Lourdeskapelle zum Gebet zur Gottesmutter Maria. Nach dem Vorbild des französischen Marienwallfahrtsortes Lourdes wurde anlässlich der 100 jährige Jubiläum der ersten Marienerscheinung in Lourdes 1958 diese Kapelle in Reith errichtet.\nDie Marienfigur in der Steingrotte erinnert an die 17. Erscheinungen, die der hl. Bernadette Soubirous zuteil geworden sind.",
+    "Unterhalb der Reither Pfarrkirche lädt die Lourdeskapelle zum Gebet zur Gottesmutter\nMaria.\nNach dem Vorbild des französischen Marienwallfahrtsortes Lourdes wurde\nanlässlich der 100 jährige Jubiläum der ersten Marienerscheinung in Lourdes\n1958 diese Kapelle in Reith errichtet.\nDie Marienfigur in der Steingrotte erinnert an die 17. Erscheinungen, die der\nhl. Bernadette Soubirous zuteil geworden sind."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d44249b0-201e-44c4-b15a-289a288d1612/99/image.jpg",
+      "caption": "Lurdesgrotte"
+    }
+  ],
+  "url": [
+    "http://www.dibk.at"
+  ]
+}

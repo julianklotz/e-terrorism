@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure",
+    "LocalBusiness"
+  ],
+  "name": "öffentliche Toilette/ Scharnitz",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3902949",
+    "longitude": "11.2652863000001"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Gemeinde Scharnitz",
+    "streetAddress": "Adolf-Klinge-Platz 72",
+    "addressLocality": "Scharnitz",
+    "postalCode": "6108",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5213 5204 0",
+    "email": "gemeinde@scharnitz.tirol.gv.at",
+    "url": "http://www.scharnitz.tirol.gv.at"
+  },
+  "description": "öffentliche Toilette:\nBahnhof Scharnitz\nKarwendelparkplatz, Ortsteil Eisack, nur im Sommer 8.00 - 18.00 Uhr\nam nördlichen Ortseingang, neben Steffan \u0026 Co.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7565ff37-585d-428f-a1a8-4e74722eb15f/99/image.jpg",
+      "caption": "WC"
+    }
+  ],
+  "url": [
+    "http://www.scharnitz.tirol.gv.at"
+  ]
+}

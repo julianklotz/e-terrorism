@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure"
+  ],
+  "name": "Fahrradverleih, Café in der Länd",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3863635636958",
+    "longitude": "11.2656163244675"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Café in der Länd",
+    "streetAddress": "Hinterautalstraße 355",
+    "addressLocality": "Scharnitz",
+    "postalCode": "6108",
+    "addressCountry": "AT",
+    "telephone": "(0043)0664 5532194"
+  },
+  "description": "Preise auf Anfrage",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c432559f-583f-43a1-beeb-77ecc46eedcc/99/image.jpg",
+      "caption": "Länd"
+    }
+  ],
+  "url": [
+    "http://"
+  ]
+}

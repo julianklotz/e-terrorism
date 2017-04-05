@@ -1,0 +1,187 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.karwendelblick.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Karwendelblick",
+    "streetAddress": "Kurhotelpromenade 255",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2829",
+    "faxNumber": "(0043) 5212 2829",
+    "email": "karwendelblick@aon.at",
+    "url": "http://www.karwendelblick.at"
+  },
+  "name": "Haus Karwendelblick",
+  "description": [
+    "Haus mit familiärer Gastlichkeit, liegt in ruhiger, sonniger Südlage. 10 Gehminuten vom Zentrum und Skiliften entfernt, in unmittelbarer Nähe hält der gratis Ski- und Shuttlebus. Gemütlich und rustikal eingerichtete 1-, 2- und 3- Zimmer Appartements für 2 - 6 Personen mit Küche, Bad, Dusche, WC, Balkon, Sat - TV, Wäsche, Aufenthaltsraum, Tischtennis, Gartengrill, Spiel- und Liegewiese. Parkplatz vorhanden.",
+    "Inkl.: Strom und Bettwäsche",
+    "Münchnerstrasse bis Apotheke. Geigenbühelstrasse, rechts bei Birkelstüberl abbiegen - Kurhotelpromenade."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b7ba7ff6-994f-424c-9746-34168ecd5dd9/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a33c3a4b-4ee3-4e6a-8c5a-8f3ad6fc1dcf/99/image.jpg",
+      "caption": "Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3356017563775",
+    "longitude": "11.1910343170166"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 1 Schlafraum",
+      "description": "Wohnschlafzimmer, Schlafzimmer, Küche, Bad/DU, WC, Balkon, Sat-TV, Radio, Wäsche und Geschirr komplett.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Karwendelblick 3",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "5",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "59.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "59.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "59.00",
+          "maxPrice": "80.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "Wohnschlafzimmer, 2 Schlafzimmer, Küche, 2x Dusche WC, Balkon, Sat-TV, Radio, Wäsche und Geschirr komplett.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Karwendelblick 2",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "87.00",
+          "maxPrice": "124.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "87.00",
+          "maxPrice": "124.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "87.00",
+          "maxPrice": "124.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 5",
+          "minPrice": "87.00",
+          "maxPrice": "124.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 6",
+          "minPrice": "87.00",
+          "maxPrice": "124.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC",
+      "description": "Wohnschlafzimmer, Küche, Bad/Dusche WC, Balkon, Sat - TV, Radio, Wäsche und Geschirr komplett.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Karwendelblick 1",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "48.00",
+          "maxPrice": "60.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "48.00",
+          "maxPrice": "60.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

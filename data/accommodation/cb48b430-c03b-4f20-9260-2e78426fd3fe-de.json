@@ -1,0 +1,132 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.landhaus-patrizia.com",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Patrizia",
+    "streetAddress": "Am Kirchwald 486",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2745",
+    "faxNumber": "(0043) 5212 4506",
+    "email": "info@landhaus-patrizia.com",
+    "url": "http://www.landhaus-patrizia.com"
+  },
+  "name": "Haus Patrizia",
+  "description": [
+    "Komfortabel wohlfühlen? In ruhiger sonniger Lage mit herrlichem Ausblick, bieten wir Ihnen großzügige Komfortzimmer und Appartements. ... Lifte, Loipen, Tennishalle, Hallenbad, sind in 5 Min. erreichbar. Gratis Shuttlebus-Haltestelle.",
+    "Garage € 5,-/Tag\nHaustiere auf Anfrage",
+    "Check - in : 14:30 h / Check - Out: 10: 00 h \n\nUnser Haus liegt am Kirchwald. Folgen Sie den Wegweisern/ Farbe  Orange /\"Am Kirchwald \" und \"Patrizia\""
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6e48b807-c6fb-41ca-8ba3-e464f30d8310/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d0bf536b-2f6f-438a-b707-a7be75e04a4e/99/image.jpg",
+      "caption": "Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3308099742543",
+    "longitude": "11.1792433261871"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": " 2-Raum-Appartement (ca.38qm) mit Dusche, \nseparatem WC, Fön, SAT-TV, Flat Screen, Telefon, Kitchenette, Wohnzimmer,\nSchlafzimmer, Safe, großer Südbalkon mit Blick auf Seefeld\ninkl. Tisch-, Bett- und Badetücher, Brötchenservice. ",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartment 9",
+          "description": "2-Raum-Appartement (2-4 Pers, ca.63qm) 2 separate Duschen/WC\u0027s, 2 Haarföns, Telefon,\nSAT-TV, großes Wohnschlafzimmer mit Balkon. Extra Schlafzimmer ebenfalls mit Balkon und Blick auf Seefeld, 1 komplett eingerichtete Küche mit Mikrowelle und Herd, rustikale\nEssecke, Bett- und Tischwäsche inkl., Brötchen-Service",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": " 2-Raum-Appartement (2 Pers, ca. 50qm)\nmit Dusche/WC, Fön, Safe, SAT-TV, Flat Screen, Telefon\nKüche mit Geschirrspüler, Mikrowelle und 2 Kochplatten. Panoramaverglasung,\nWohnschlafzimmer mit Südbalkon  und Blick auf Seefeld\ninkl. Tisch-, Bett- und Badetücher, Brötchenservice.\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartment 4",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 1 Schlafraum",
+      "description": "Das Appartement ist ungefähr 65m³ groß und besteht aus einem Komfortdoppelzimmer mit BAD/Dusche WC. Sowie über ein großes Wohnzimmer mit Essecke und separater komplett eingerichteter Küche( Geschirrspüler,Herd,Micro ect). \n\n",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement 8",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche oder Bad, WC, 1 Schlafraum",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Appartement 12",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

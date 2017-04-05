@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure",
+    "LocalBusiness"
+  ],
+  "name": "Gratis W-Lan im Eingangsbereich der Gemeinde Leutasch",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Gemeindeamt Leutasch",
+    "streetAddress": "Kirchplatzl 128a",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6205",
+    "email": "gemeinde@leutasch.tirol.gv.at",
+    "url": "http://www.leutasch.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a915f0f5-9a6c-4cff-a49d-bf3317c9c3fa/99/image.jpg",
+      "caption": "wlan"
+    }
+  ],
+  "url": [
+    "http://www.leutasch.at"
+  ]
+}

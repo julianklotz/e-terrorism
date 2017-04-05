@@ -1,0 +1,36 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "FoodEstablishment",
+    "Restaurant"
+  ],
+  "name": "Dorfkrug",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3107378503007",
+    "longitude": "11.1523993802093"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Appartements Dorfkrug",
+    "streetAddress": "Möserer Dorfstraße 32",
+    "addressLocality": "Mösern",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "+4352124766",
+    "faxNumber": "+435212476657",
+    "email": "info@gasthof-dorfkrug.com",
+    "url": "http://www.gasthof-dorfkrug.com"
+  },
+  "description": "Sitzplätze für ca. 98 Personen und Terrassenrestaurant 80 Personen",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/42fe29ec-7be2-48c7-8a08-861ab65f5393/99/image.jpg",
+      "caption": "Dorfkrug"
+    }
+  ],
+  "url": [
+    "http://www.gasthof-dorfkrug.com"
+  ]
+}

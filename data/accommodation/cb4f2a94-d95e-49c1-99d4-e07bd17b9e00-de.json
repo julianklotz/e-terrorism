@@ -1,0 +1,16 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Leutascherstr. 596 / Top 2",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "email": "loris.bagatin@gmail.com"
+  },
+  "name": "ZW - Bagatin Loris",
+  "currenciesAccepted": "EUR"
+}

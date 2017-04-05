@@ -1,0 +1,53 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "\"Im Fruajohr wenns schun aper weard\"...musikalischer Frühjahrshöhepunkt",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Naturwirt",
+    "employee": {
+      "@type": "Person",
+      "givenName": "Monika",
+      "familyName": "Klimitsch"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Gasse 190",
+      "addressLocality": "Leutasch",
+      "postalCode": "6105",
+      "addressCountry": "AT",
+      "telephone": "(0043) 5214 20182",
+      "faxNumber": "(0043) 5214 20182 22",
+      "email": "info@naturwirt.at",
+      "url": "http://www.naturwirt.at"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Naturwirt",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Gasse 190",
+      "addressLocality": "Leutasch",
+      "postalCode": "6105",
+      "addressCountry": "AT",
+      "telephone": "(0043) 5214 20182",
+      "faxNumber": "(0043) 5214 20182 22",
+      "email": "info@naturwirt.at",
+      "url": "http://www.naturwirt.at"
+    }
+  },
+  "description": "Musiggruppen aus Mittenwald und Luitasch treffen sich beim Naturwirt! Reservierung unter Tel. +435214 20182.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/bc102f61-2c4c-4b6f-ab63-17619ddcfcb4/99/image.jpg",
+      "caption": "Naturwirt"
+    }
+  ],
+  "startDate": "2017-04-23T19:00:00",
+  "endDate": "2017-04-23"
+}

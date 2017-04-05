@@ -1,0 +1,61 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hostel",
+    "Restaurant"
+  ],
+  "name": "Rauthhütte",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3456201930798",
+    "longitude": "11.1048924922943"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Rauthhütte",
+    "streetAddress": "Moos 7",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 2815611",
+    "faxNumber": "(0043) 5262 64670",
+    "email": "info@rauthhuette.at",
+    "url": "http://www.rauthhuette.at"
+  },
+  "description": "Genießt ein einmaliges Rundumpanorama (über 40 Gipfel), hausgemachte Knödeln und Kuchen in allen Variationen. Am Wochenende gibt‘s extra Schmankerln.  Die Sonnenterrasse und der Kinderspielplatz laden zum Verweilen ein. Aktuelle Infos  gibt’s  auf facebook.com- rauthhuette. Wir freuen uns auf Euren Besuch!",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/60470d32-ec4a-45d4-a40e-292997cf6e34/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/fb8a3255-7bf2-423b-a0d0-0f0ab38763c9/99/image.jpg",
+      "caption": "Rauthhütte"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b7e1d7d3-45f4-4458-a4e6-f256857cdf98/99/image.jpg",
+      "caption": "Rauthhütte Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/cee3a4c0-f380-4748-a7c3-d1d1bb1cfde4/99/image.jpg",
+      "caption": "Nachtbild"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7732c3dd-4532-4d7b-ade5-f98b6176e79e/99/image.jpg",
+      "caption": "Skifahrer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/389b1e04-5e7c-4bc3-8031-63b5a33faff6/99/image.jpg",
+      "caption": "Luftbild"
+    }
+  ],
+  "url": [
+    "http://www.rauthhuette.at"
+  ]
+}

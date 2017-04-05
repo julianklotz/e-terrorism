@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "GovernmentOffice"
+  ],
+  "name": "Gemeindesaal Reith bei Seefeld",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Gemeindeamt Reith bei Seefeld",
+    "streetAddress": "Lauserweg 15",
+    "addressLocality": "Reith bei Seefeld",
+    "postalCode": "6103",
+    "addressCountry": "AT",
+    "telephone": "(0043)5212 3116",
+    "email": "amtsleiter@reith-seefeld.at",
+    "url": "http://www.reith-seefeld.at/"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/bf69ff5d-abdd-48f3-b60d-1cfbac6b3251/99/image.jpg",
+      "caption": "Gemeindesaal Reith"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a911988a-60e1-4491-bf7f-4926ed5f3195/99/image.jpg",
+      "caption": "Gemeindesaal"
+    }
+  ],
+  "url": [
+    "http://www.reith-seefeld.at/"
+  ]
+}

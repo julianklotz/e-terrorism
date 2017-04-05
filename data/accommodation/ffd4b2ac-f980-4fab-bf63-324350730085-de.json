@@ -1,0 +1,131 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.urblhof.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Urblhof",
+    "streetAddress": "Reindlau 228",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 20060",
+    "faxNumber": "(0043) 5214 20260",
+    "email": "urblhof@aon.at",
+    "url": "http://www.urblhof.at"
+  },
+  "name": "Urblhof",
+  "description": [
+    "Sehr gemütliches und gepflegtes Haus mit persönlicher Atmosphäre. Es ist neu renoviert und liegt in ruhiger, sonniger Lage. Es gibt in jeder Wohnung Internetanschluss. Der Einstieg in die Rad-, Wander- u. Spazierwege sowie die Loipe ist direkt beim Haus möglich. In unmittelbarer Nähe befinden sich gute Restaurant\u0027s, ein Schwimmbad, ein Tennisplatz und ein kleiner Supermarkt.\nAuch für Berg- u. Klettertouren befindet sich der Einstieg direkt hinter unserem Haus.",
+    "Inklusive: Heizung, Strom, Wasser, Parkplatz\nExklusive: Ortstaxe, Telefongesprächskosten und Endreinigung",
+    "Check-In 13.00 Uhr / Check-Out 10.00 Uhr\nWeg: Genau in der Mitte des Leutaschtales, Richtung Mittenwald. Unser Haus befindet sich in Reindlau gegenüber dem Campingplatz Holiday."
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "reviewCount": "21"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5e54c8ed-355f-428e-9d6d-f33dd27f76a0/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/79260cae-e1bb-4781-aa9d-f35c227bad3c/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b72757fd-3f8b-4581-bea2-10c96e4e9689/99/image.jpg",
+      "caption": "Sommer 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6dd9d229-ba90-4e17-b4d5-6c3a20a18a83/99/image.jpg",
+      "caption": "Sommer 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ab3ecb3d-edf8-4e28-a1d2-8d1082c452ba/99/image.jpg",
+      "caption": "Winter 2"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.39775256518",
+    "longitude": "11.177646466916"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "Ferienwohnung Enzian\nLiegt im 1. Stock, 2 Schlafzimmer (Parkett), Wohnzimmer (Parkett), Dusche, WC seperat, komplett eingerichtete Küche mit Essecke und einen großen Balkon.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Enzian/2 Schlafräume/Dusche, WC",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Liegt im 2. Stock, 1 Schlafzimmer, 1 grosses Wohnzimmer (Parkettboden), eine großzügige Dusche und WC, eine komplett eingerichtete Küche, 1 grosser Balkon südseitig\nwunderschöner Ausblick auf die Bergwelt von Leutasch",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Edelweiss/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Liegt im 2. Stock, 2 Schlafzimmer,(Parkettboden), 2 Duschen, 2WCs, eine komplette Wohnküche, einen großen Balkon südseitig",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Alpenrose/1 Schlafraum/2xDusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Store"
+  ],
+  "name": "Tirolstein, Mineralien",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3288029681887",
+    "longitude": "11.1882984638214"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Tirolstein",
+    "streetAddress": "Bahnhofstr. 389",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 50339",
+    "email": "office@tirolstein.eu",
+    "url": "http://www.tirolstein.eu"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1b107997-299e-4aaa-9883-39aa75f5d7d4/99/image.bmp",
+      "caption": "Tirolstein"
+    }
+  ],
+  "url": [
+    "http://www.tirolstein.eu"
+  ]
+}

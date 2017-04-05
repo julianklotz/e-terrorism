@@ -1,0 +1,150 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.members.aon.at/sklotz",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Sonnenwinkel",
+    "streetAddress": "Ostbach 20",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6076",
+    "faxNumber": "(0043) 5214 6076 4",
+    "email": "s.klotz@tsn.at",
+    "url": "http://www.members.aon.at/sklotz"
+  },
+  "name": "Haus Sonnenwinkel",
+  "description": [
+    "Das Appartementhaus Sonnenwinkel, umgeben von Wiesen und Wäldern und einer malerischen Berglandschaft ist ein idealer Ort zum Entspannen für Sie und Ihre Kinder. (große Liegewiese mit Kinderspielplatz ..). Zentrale Lage, alle Wanderziele und Spazierwege ohne Auto erreichbar. Direkteinstieg in d. Loipe, Geschäfte u. Gasthöfe in unmittelbarer Nähe. Im Sommer kostenloser Eintritt ins Leutascher Erlebnisbad, hauseigene Sauna,  W-LAN auf den Wohnungen.",
+    "INKLUSIVE: Heizung ,Strom, Wasser, Handtücher, Bettwäsche, Fahrräder, Sauna, Alpenbad ( Sommer)\nEXKLUSIVE: Endreinigung, Ortstaxe, Telefon, Brötchen, Waschmaschinenbenützung",
+    "Anreise: ab 13.00 Uhr\nAbreise: bis 10.00 Uhr\n\nVon Mittenwald kommend folgen sie noch ca. 8 km nach der Landesgrenze dem Hinweiseschild \"Telfs\" bis sie den Ortsteil Ostbach erreichen.",
+    "Leutasch, Ferienwohnung, Klotz, Sonnenwinkel, Bauernhof, Seefeld, farm,Appartement, apartment, "
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c0224a65-38eb-4e65-8d5a-bb99cd93d657/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c9b56933-642b-4a4f-8b71-a93a94a54457/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b91f65c6-413f-414e-a6cc-8bda3b1a0e92/99/image.jpg",
+      "caption": "Hausansicht Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8d28b2f8-f48a-4b3a-9f13-281f192535b2/99/image.jpg",
+      "caption": "Streichelgehege"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/624ddded-1bca-4844-9ab9-ae00cc92ec8e/99/image.jpg",
+      "caption": "Sauna"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.357525476392",
+    "longitude": "11.132280022036"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "3- Zimmer Appartment mit großem Schlafzimmer großes Wohnzimmer mit Süd-Balkon, seperate Küche (4 Plattenherd, Geschirrspüler; komplett ausgestattet), SAT-TV, Telefon,W-LAN, Sauna; Balkon nach Süden;herrlicher Ausblick auf die Loipe und die Bergwelt",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Hohe Munde/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "2- Zimmer Appartement mit großem Schlafzimmer, mit Balkon und gemütlichem Wohnzimmer mit Küchenblock (4-Plattenherd, Geschirrspüler,komplett ausgestattet) mit SAT-TV, Telefon;Balkon nach Süden, herrlicher Ausblick auf die Loipe und die Bergwelt",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Gaistal/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "3- Zimmerappartement mit 2 separaten Schlafzimmern (1 Schlafzimmer m. Balkon); gemütliches Wohnzimmer mit großer Loggia, Dusche/WC, Balkon und SAT-TV, W-LAN, Telefon;Wohnung ist komplett ausgestattet (Bettwäsche, Handtücher, 4-Plattenherd, Geschirrspüler;)",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Karwendel/2 Schlafräume/Dusche, WC",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "55.00",
+          "maxPrice": "65.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "55.00",
+          "maxPrice": "70.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "55.00",
+          "maxPrice": "70.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

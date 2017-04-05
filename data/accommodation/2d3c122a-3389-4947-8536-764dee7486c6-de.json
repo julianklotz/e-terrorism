@@ -1,0 +1,89 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.krapfhof.de.vu",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Krapfhof",
+    "streetAddress": "Platzl 102",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6622",
+    "email": "krapfhof@gmx.at",
+    "url": "http://www.krapfhof.de.vu"
+  },
+  "name": "Krapfhof",
+  "description": [
+    "Der KRAPFHOF liegt in sonniger Lage mit Blick auf das Gebirgspanorama im Ort. Im Winter wie im Sommer Ausgangspunkt für viele Wanderungen. Ausreichend Parkplätze.",
+    "Inklusive: Heizung, Strom, Bettwäsche\n\nExklusive: Ortstaxe, Telefongespräche",
+    "Check - In 15.00 Uhr / Check - Out 10.00 Uhr\nFolgen Sie den Ortshinweisschildern bis Ortsteil Platzl, an der der Abiegung Richtung Telfs Hofeinfahrt - Krapfhof"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b2fc6c3d-a233-4b14-b0ff-9809e9515dfd/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0422aa4b-576f-4a59-b4eb-460712832933/99/image.jpg",
+      "caption": "Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.361344654555",
+    "longitude": "11.133352568393"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Die im gemütlichen ländlichen Stil eingerichteten Appartments für 2-3 Pers. und 4 Personen / f. 4. Pers. mit separatem Schlafzimmer sind mit Du/WC, Couch, Essecke, EAv, größtenteils Terasse Küchenblock etc. und größten teils mit Balkon ausgestattet",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC",
+      "description": "gemütliche Einrichtung mit Du/WC Küchenblock etc. großteils Balkon, SAT-TV",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/Wohn-Schlafraum/Dusche, WC",
+          "numberOfRooms": "1.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ]
+    }
+  ]
+}

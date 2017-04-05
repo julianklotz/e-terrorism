@@ -1,0 +1,156 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.karwendelhex.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Geiger",
+    "streetAddress": "Hirlanda-Ellmann-Weg 254",
+    "addressLocality": "Scharnitz",
+    "postalCode": "6108",
+    "addressCountry": "AT",
+    "telephone": "+4352135284",
+    "faxNumber": "+4352135284",
+    "email": "haus-geiger@tirol.com",
+    "url": "http://www.karwendelhex.at"
+  },
+  "name": "Haus Geiger",
+  "description": [
+    "Wir führen eine gemütliche, familiäre Frühstückspension mit drei Edelweiß, in sonniger, ruhiger Lage, abseits der Hauptstraße, mit Blick auf die umliegenden Berge, am Tor zum Karwendel.\n\nUnsere Pension verfügt über Zimmer mit Balkon, Dusche/WC, Radio und Sat-TV. Ein Aufenthaltsraum mit Sat-TV, Frühstücksbuffet, Gästekühlschrank, Parkplatz. Schi-Wachs und Trockenraum ist vorhanden. Loipeneinstieg ist direkt vor dem Haus. Kostenloser Fahrrad-Verleih.\nEinzel-Übernachtungen sind willkommen.\n\nAuf Ihren Besuch freut sich Familie Geiger\n\n",
+    "Wir führen eine gemütliche, familiäre Frühstückspension mit drei Edelweiß, in sonniger, ruhiger Lage, abseits der Hauptstraße, mit Blick auf die umliegenden Berge, am Tor zum Karwendel.\n\nUnsere Pension verfügt über Zimmer mit Balkon, Dusche/WC, Radio und Sat-TV. Ein Aufenthaltsraum mit Sat-TV, Frühstücksbuffet, Gästekühlschrank, Parkplatz. Schi-Wachs und Trockenraum ist vorhanden. Loipeneinstieg ist direkt vor dem Haus. Kostenloser Fahrrad-Verleih.\nEinzel-Übernachtungen sind willkommen.\n",
+    "Haustiere: Extrakosten von € 2,-pro Tag ohne Futter werden gesondert verrechnet",
+    "Aus Deutschland kommend Einfahrt nach der Kirche rechts , nach 50 m auf der rechten Seite - Haus Geiger.",
+    "Aus Deutschland kommend Einfahrt nach der Kirche rechts , nach 50 m auf der rechten Seite - Haus Geiger."
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.5",
+    "reviewCount": "66"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/74496d54-0b00-4623-b1e0-504f00908d7f/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5710a620-e26f-4c0d-8de5-f129ebd6d792/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/57795c70-5f92-4f74-ac9d-01fc5857ad51/99/image.jpg",
+      "caption": "Sommer2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7569dbbc-0073-4923-8015-c520c1deb5fa/99/image.jpg",
+      "caption": "Frühstückszimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ea413149-84c1-4bef-bc6c-40f6a0a3afe9/99/image.jpg",
+      "caption": "Sport/Freizeit"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/786c260d-67bf-4661-9c02-aceb70cefe24/99/image.jpg",
+      "caption": "Schlafzimmer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/e260a3cd-4e95-4ac2-9ca0-4bbcd22b096a/99/image.jpg",
+      "caption": "Haus Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/223f4665-e4e7-4d90-9a46-3312f94c7791/99/image.jpg",
+      "caption": "Frühstück"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c202e42a-7f40-4a0d-9ed6-f54f28428b85/99/image.jpg",
+      "caption": "Stiegenaufgang"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.389519623969",
+    "longitude": "11.261974566736"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "rustikal eingerichtete Zimmer mit Radio, TV und Dusche/WC.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "25.00",
+          "maxPrice": "25.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Einzelzimmer, Dusche",
+      "description": "Sitzecke, Radio, SAT-TV, ohne Balkon\nDusche/WC",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Einzelzimmer mit Dusche",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "28.00",
+          "maxPrice": "28.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

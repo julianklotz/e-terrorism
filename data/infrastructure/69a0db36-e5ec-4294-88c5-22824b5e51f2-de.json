@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BikeStore",
+    "SportsActivityLocation",
+    "TouristAttraction",
+    "SportingGoodsStore"
+  ],
+  "name": "Fahrradverleih Sport Wedl",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3714812718613",
+    "longitude": "11.1649777264588"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Sport Wedl",
+    "streetAddress": "Weidach 322 g",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6444",
+    "faxNumber": "(0043) 5214 6184",
+    "email": "anne.wedl@sport-wedl.com",
+    "url": "http://www.sport-wedl.com"
+  },
+  "description": "Verleih:\nMountainbike, Citybike Tag Erw. € 12,00 / Kind € 9,00, Nachmittag Erw. € 9,00 / Kind € 7,00\nE-Bike Verleih 1 Stunde € 8,00\nE-Bike 1 Tag € 22,00\nSchneeschuhe, Langlaufski und Alpin Skis",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/6432765c-bec1-4539-b8d1-97cf2126686c/99/image.jpg",
+      "caption": "Sport Wedl"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3ef66fce-28af-432d-9d1a-7657a4329f74/99/image.jpg",
+      "caption": "Sommer"
+    }
+  ],
+  "url": [
+    "http://www.sport-wedl.com"
+  ]
+}

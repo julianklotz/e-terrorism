@@ -1,0 +1,142 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.adlerkanzel.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Lechner",
+    "streetAddress": "Innsbruckerstr. 36",
+    "addressLocality": "Scharnitz",
+    "postalCode": "6108",
+    "addressCountry": "AT",
+    "telephone": "+4352135319",
+    "faxNumber": "+4352135319",
+    "email": "haus-lechner@aon.at",
+    "url": "http://www.adlerkanzel.at"
+  },
+  "name": "Haus Lechner",
+  "description": [
+    "Unser familiär geführtes Haus in zentraler, sonniger Lage ist mit gemütlichen Ferienwohnungen und Zimmern in verschiedenen Größen ausgestattet.\nNähere Informationen auf www.adlerkanzel.at\n\nAuf Ihren Besuch freut sich Familie Lechner.",
+    "inklusive: Ortstaxe, Endreinigung, Bettwäsche, Handtücher\nHaustiere pro Aufenthalt € 10,-.",
+    "Von Norden kommend, liegt unser Haus ab Ortseingang nach 200 m auf der rechten Seite."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3766763e-c38d-4f32-a0c8-f70e32820731/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2b5871cf-4c7f-41ee-b24b-3f293c02ffa0/99/image.jpg",
+      "caption": "Winter "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c7ffcf8d-f6d3-4fda-a3c1-3ba57f3a5269/99/image.jpg",
+      "caption": "Sommer 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8f2cb3ca-f409-478b-8734-0a6f7b0c5c8d/99/image.jpg",
+      "caption": "Winter 2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/aaab0ef8-4f5b-4fa4-8ca1-22f61124d71e/99/image.jpg",
+      "caption": "Eingangsbereich"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c58c7715-2c46-4a93-92ce-337b2e33b1e3/99/image.jpg",
+      "caption": "Haus von oben"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ffa88a2e-88de-4bdc-b233-25ac7ed08c4f/99/image.jpg",
+      "caption": "Garten"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/b6c9485a-2443-446e-9b5b-1906f0fbd389/99/image.jpg",
+      "caption": "Garten 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0d7a624a-c1d1-4f48-85c4-f0a56c221edd/99/image.jpg",
+      "caption": "Frühstücksraum 1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f250bcda-2a3a-439f-aa97-1509f2e12782/99/image.jpg",
+      "caption": "Frühstücksraum 2"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3925024271401",
+    "longitude": "11.2656161043523"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "separates Schlafzimmer mit Zusatzbett, Wohnküche, DU/WC; TV, Vorraum, Südbalkon.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/1 Schlafraum/Dusche/ WC",
+          "description": "inklusive: Ortstaxe, Endreinigung, Bettwäsche, Handtücher",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, fl. k/w Wasser",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer, Fl. k/w Wasser",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "22.00",
+          "maxPrice": "25.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

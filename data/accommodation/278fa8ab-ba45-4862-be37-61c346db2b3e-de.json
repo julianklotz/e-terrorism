@@ -1,0 +1,21 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Vogelsang",
+    "streetAddress": "Weidach 344 b",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0039) 033 51685252",
+    "email": "karl.preiss@gmx.at"
+  },
+  "name": "ZW - Preiss Karl",
+  "currenciesAccepted": "EUR"
+}

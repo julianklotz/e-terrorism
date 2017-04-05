@@ -1,0 +1,94 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.seeleitenhof.com",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Seeleitenhof",
+    "streetAddress": "Weidach 375",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6334",
+    "faxNumber": "(0043) 5214 6334",
+    "url": "http://www.seeleitenhof.com"
+  },
+  "name": "Seeleitenhof",
+  "description": [
+    "Unser Haus liegt auf einer sonnigen Anhöhe in der Nähe der Loipen, dem Skilift und ist Ausgangspunkt für Wanderungen. 2 Wohnungen für 2 Pers. 1 Wohnung für 2-3 Pers. Alle Wohnungen haben Balkon und SAT-TV, Wäsche wird gestellt.",
+    "Inklusive: Heizung, Wasser, Stromkosten\nExklusive: Ortstaxe",
+    "Check-In 15.00 Uhr / Check-Out 10.00 Uhr"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8e79aa66-7efa-470b-aa1d-c0e7b0ae1a9d/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4b799c2f-fa74-46a8-971f-d10e1329fe33/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/51c1d66f-f34c-4720-90bc-9912ab805286/99/image.jpg",
+      "caption": "Hausansicht"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.369069",
+    "longitude": "11.1671182"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Die Ferienwohnungen sind mit einer Küche bzw. Kochnische, einem Wohnzimmer, Schlafzimmer, Sat-TV sowie DU/WC ausgestattet.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Die Ferienwohnung ist mit einer Küche, einem Wohnzimmer, Schlafzimmer, Sat-TV sowie Dusche/WC ausgestattet.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ]
+    }
+  ]
+}

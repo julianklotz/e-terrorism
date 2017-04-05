@@ -1,0 +1,33 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Store",
+    "ClothingStore"
+  ],
+  "name": "Meier Seefeld",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3288465995663",
+    "longitude": "11.1879283189774"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Meier Seefeld",
+    "streetAddress": "Dorfplatz 25",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 52530",
+    "url": "http://www.meierseefeld.at"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c185ff96-1c19-464f-b6e4-f515de1e3b6e/99/image.jpg",
+      "caption": "meier seefeld"
+    }
+  ],
+  "url": [
+    "http://www.meierseefeld.at"
+  ]
+}

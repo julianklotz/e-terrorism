@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Landform"
+  ],
+  "name": "Scharnitzer Alm",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3798470111653",
+    "longitude": "11.2850806117058"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Scharnitzer Alm",
+    "streetAddress": "Hinterautalstr. 112",
+    "addressLocality": "Scharnitz",
+    "postalCode": "6108",
+    "addressCountry": "AT",
+    "telephone": "(0043)664 5234567"
+  },
+  "description": "Nur im Sommer geöffnet! Stempelstelle, Butter und Speck aus eigener Erzeugung \n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/116673ed-3bb1-4320-bbd6-515c5bb8acbc/99/image.jpg",
+      "caption": "Scharnitzer Alm"
+    }
+  ],
+  "url": [
+    "http://www.karwendel.org"
+  ]
+}

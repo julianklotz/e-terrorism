@@ -1,0 +1,28 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation"
+  ],
+  "name": "Schützenheim",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3690099",
+    "longitude": "11.1447577"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Schützenverein Leutasch",
+    "streetAddress": "Kirchplatzl 128a",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT"
+  },
+  "description": "Kirchplatzl 128a\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d2a24b46-e100-41d9-950c-43e4c453aefe/99/image.jpg",
+      "caption": "Schützen"
+    }
+  ]
+}

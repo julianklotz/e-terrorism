@@ -1,0 +1,30 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure",
+    "LocalBusiness"
+  ],
+  "name": "Feuerwehr",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3100175",
+    "longitude": "11.1493296"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Feuerwehr",
+    "streetAddress": "Am Bichl",
+    "addressLocality": "Mösern",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 3909037",
+    "faxNumber": "(0043) "
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7cb07306-2cd2-42f2-af10-3f68f94845fa/99/image.jpg",
+      "caption": "Feuerwehr"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BodyOfWater",
+    "SportsActivityLocation"
+  ],
+  "name": "Angeln - Angelzentrum Weidach - Leutascher Fischerei",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3682419227109",
+    "longitude": "11.1564552783966"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Am Weidachsee",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 8557303",
+    "email": "info@gebirgsforelle.at",
+    "url": "http://www.gebirgsforelle.at"
+  },
+  "description": "am Weidachsee 291a\nTel.: 0664/8557303\nwww.gebirgsforelle.at\nAngelteich Weidachsee: Keine Fischerprüfung erforderlich! Ideal auch für Kinder und auch zum Fliegenfischen; Köder und Angelverleih direkt im Angelzentrum;\nRegenbogen-, Bach- und Seeforellen, Saiblinge.\nEintritt inkl. 2kg Fang: € 20,00\nÜbergewicht pro kg:   €   8,00\nKein Badesee!\n\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c51a5390-4799-4793-913e-cd2aea7390ef/99/image.jpg",
+      "caption": "Angelcenter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/865ecb58-3a4b-435b-9d98-af654c7da1b2/99/image.jpg",
+      "caption": "Angelsee"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/cd205ff8-b296-42b8-9bd4-082b88a7e00a/99/image.jpg",
+      "caption": "Angelsee2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ef70215d-3b8c-496c-814c-87ebb964545a/99/image.jpg",
+      "caption": "Angelteich"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/76ce3695-84d4-4e52-a41e-5198a6561bc7/99/image.jpg",
+      "caption": "Angelteich1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c615b830-b0e0-4b03-ac45-9c36cab7672f/99/image.jpg",
+      "caption": "Eisfischen"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/765102dd-4b2b-4b02-9c1e-e1ef1fd4175a/99/image.jpg",
+      "caption": "Eisfischen1"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/88dc121b-53fa-46af-838b-75848b3ce235/99/image.jpg",
+      "caption": "Eisfischen2"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/96760f6d-8c68-4173-ae66-1874ce50a6d2/99/image.jpg",
+      "caption": "Forellenzucht"
+    }
+  ]
+}

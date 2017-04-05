@@ -1,0 +1,39 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "HealthAndBeautyBusiness",
+    "BeautySalon"
+  ],
+  "name": "Hotel Residenz Hochland",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3323369929963",
+    "longitude": "11.18408203125"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Hotel Residenz Hochland ",
+    "streetAddress": "Wettersteinstrasse 184",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2211",
+    "faxNumber": "(0043) 5212 2211 15",
+    "email": "seefeld@hotel-hochland.com",
+    "url": "http://www.hrh.at"
+  },
+  "description": [
+    " ",
+    "Massagen, Heilbehandlungen, Craniosacrale Therapie, Moorpackungen, Rückenschule und individuelles Training von Heilmasseur Herbert Frühwald."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/f4976b8c-c645-4067-a6a2-df358b03d94b/99/image.jpg",
+      "caption": "Hotel Residenz Hochland"
+    }
+  ],
+  "url": [
+    "http://www.hrh.at"
+  ]
+}

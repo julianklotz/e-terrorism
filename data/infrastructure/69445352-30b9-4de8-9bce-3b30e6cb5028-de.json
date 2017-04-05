@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Restaurant"
+  ],
+  "name": "Gasthof Zur Mühle",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.4200510933209",
+    "longitude": "11.2264374085983"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Gasthof Zur Mühle",
+    "streetAddress": "Burggraben 264",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6712",
+    "faxNumber": "(0043) 5214 6020",
+    "email": "info@gasthof-zur-muehle.at",
+    "url": "http://www.gasthof-zur-muehle.at"
+  },
+  "description": "Sitzplätze für ca. 80 Personen, Stempelstelle\n",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0ae1108a-b0fd-4576-b6a9-e0e359336581/99/image.jpg",
+      "caption": "zur mühle"
+    }
+  ],
+  "url": [
+    "http://www.gasthof-zur-muehle.at"
+  ]
+}

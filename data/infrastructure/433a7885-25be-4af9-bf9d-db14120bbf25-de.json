@@ -1,0 +1,38 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "CivicStructure"
+  ],
+  "name": "SHELL",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3253487030881",
+    "longitude": "11.189671754837"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Shell Tankstelle",
+    "streetAddress": "Innsbrucker Str. 272",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2914",
+    "url": "http://www.cinethek.at"
+  },
+  "description": [
+    " ",
+    "Auch Verkauf von Telefonwertkarten!",
+    "täglich: 6.00-22.00 Uhr\n"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8ed56d7f-870a-4280-932b-bc8dc56176b3/99/image.jpg",
+      "caption": "SHELL"
+    }
+  ],
+  "url": [
+    "http://www.capi.at",
+    "http://www.shell.at"
+  ]
+}

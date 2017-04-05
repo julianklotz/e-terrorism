@@ -1,0 +1,28 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Landform"
+  ],
+  "name": "Hochfeldernalm",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3824132635706",
+    "longitude": "10.98956823349"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Hochfeldernalm",
+    "streetAddress": "Wettersteingebirge-Gaistal",
+    "addressCountry": "AT",
+    "telephone": "(0043) 664 2099112",
+    "email": "info@hochfeldern-alm.at"
+  },
+  "description": "Die im Jahr 2016 neu renovierte Alm Hochfeldern liegt im schönen Gaistal, umringt von schöner Bergkulisse, die zum Pausieren, Entspannen und Ruhen einlädt. Lassen Sie sich von köstlichen Tiroler Spezialitäten und frisch zubereiteten Speisen verwöhnen. Radfahrer und Familien sind \u0027Herzlich Willkommen\u0027. Übernachtungsmöglichkeiten für 15 Pax möglich.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a4576e84-a42c-4d38-ab80-a6c557044aca/99/image.jpg",
+      "caption": "Hochfeldernalm neu"
+    }
+  ]
+}

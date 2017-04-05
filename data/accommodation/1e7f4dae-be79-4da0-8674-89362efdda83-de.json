@@ -1,0 +1,441 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Hotel"
+  ],
+  "url": [
+    "http://www.zumgourmet.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Aktivhotel Zum Gourmet",
+    "streetAddress": "Geigenbühelstr. 158",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "+4352122101",
+    "faxNumber": "+4352124382",
+    "email": "info@zumgourmet.at",
+    "url": "http://www.zumgourmet.at"
+  },
+  "name": "Aktivhotel Zum Gourmet",
+  "description": [
+    "Die Gastgeber Christina und Mario und ihr Team begrüßt Sie mit herzlicher Gastfreundschaft in familiärer Atmosphäre im 4-Sterne Aktivhotel Zum Gourmet in Seefeld in Tirol.\n\nUnser Angebot richtet sich an all jene, die die Kombination aus gesundem Genuss, Wellness und Langlaufen lieben. Die Kulinarik steht für Hochgenuss und Gaumenfreude, Wellness für Entspannung und Erholung und Langlaufen in Seefeld für Natur, Gesundheit und Bewegung. All diese Eigenschaften vereinen sich liebevoll in unserem Aktivhotel und bieten Ihnen einen Wohlfühlraum für Ihren Urlaub auf höchstem Niveau.\n\nUnsere 36 ganz individuell gestalteten und top ausgestatteten Zimmer und Suiten sind eine perfekte Rückzugsoase für Zweisamkeit und Entspannung in Ihrem Urlaub in Seefeld. Sie wohnen dort wo sich auch Weltmeister und Olympiasieger aus verschiedensten Nationen wohlfühlen. Guter Schlaf ist bekanntlich die Grundlage für Erholung. Darum bieten wir unseren Gästen einen Kissenservice, um auf individuelle Schlafgewohnheiten einzugehen und um somit den maximalen Entspannungsfaktor zu erzielen.\n\nAuch die gesunde Ernährung in unserem Aktivhotel Zum Gourmet wird absolut großgeschrieben und ist Herzstück unserer Philosophie. Unsere Gourmet-Halbpension setzt sich aus energiereichen Menüs mit Wahlmöglichkeiten und passenden Weinen zusammen, welche Ihnen unsere Weinexpertin und Chefin Christina herzlich empfehlen wird. Auf Qualität und die Verwendung von regionalen Produkten wird in unserem Hotel ein besonderes Augenmerk gelegt.\n\nDer sportliche Spaß beginnt bereits bei unserem Vitalfrühstück in Ihrem Aktivurlaub in Seefeld. Anschließend werden Sie bequem mit dem Shuttlebus, welcher 3 Mal am Vormittag direkt vor unserem Hotel abfährt, zu den Loipen gebracht oder Sie erreichen diese selbstständig durch einen 10minütigen Fußmarsch. Die Benützung aller Langlaufloipen in der gesamten Olympiaregion Seefeld ist für unsere Hausgäste kostenlos.\n\nNach einem ausgiebigen Langlauf bzw. Ski-Vergnügen oder einer Winterwanderung durch die traumhafte Seefelder Berglandschaft, ladet unser liebevoll gestalteter Wellnessbereich ein, die Seele baumeln zu lassen. Es wartet ein Saunadorf auf Sie, in dem der Entspannung und Erholung keine Grenzen gesetzt werden. Bei Muskelkater oder anderen körperlichen Beschwerden steht unser Massageteam bereit für Sie.\n\nWir sind stets bemüht Ihre Wünsche zu erfüllen und freuen uns Sie als Gast in unserem Aktivhotel Zum Gourmet in Seefeld begrüßen zu dürfen.\n\nIhre Gastgeber Christina \u0026 Mario\n",
+    "Wellnesshotel, Hotel, Gourmet, Langlaufen, Ski fahren, Golf, Nordic Walking, Sauna, Rollerski, "
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "reviewCount": "68"
+  },
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d7762a6c-57ab-4dbe-97bb-a032cc83aad3/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/fe0d9742-fb04-4bd9-9270-7a4bc8bbe3a5/99/image.jpg",
+      "caption": "Außenansicht Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d6c2063e-b223-46e7-81c6-b60a8608a58e/99/image.jpg",
+      "caption": "Restaurant"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8e041e59-06c7-4804-99ea-accd6c52fe58/99/image.jpg",
+      "caption": "Saunalandschaft"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5496d06e-2526-44a5-a049-dae6529f51ec/99/image.jpg",
+      "caption": "Sommelier"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/3009428c-33db-4963-ac0e-6f4d08c95ce9/99/image.jpg",
+      "caption": "Speisesaal "
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4c399946-2040-44b1-8a36-a259ea874e80/99/image.jpg",
+      "caption": "Terrasse"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/be18417c-9b96-42a3-9885-b8eea94d5d5d/99/image.jpg",
+      "caption": "Familie Suitner"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8ab1ce9e-a5a6-4115-9c09-674d2a16beaa/99/image.jpg",
+      "caption": "Wellness"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/db08879e-61a1-47f7-ab1a-b287861cb73c/99/image.jpg",
+      "caption": "Massagen"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3345329139746",
+    "longitude": "11.1897361278534"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche oder Bad, WC",
+      "description": "ca. 21 m2 mit Fauteuils, Badewanne oder Dusche",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer Bronze 20 - 23 m²",
+          "description": "Doppelzimmer  Standard , ca 21 m² mit  Blick nach Westen ins Grüne, Fauteuils, Schreibtisch, Telefon, Zimmersafe, Flat-TV 32\" inkl. Schnittstelle für jpg \u0026 MP3 Player, Radio, Badezimmer mit Badewanne, WC, Pflegeprodukte der Linie „Pure Herbs“, Kosmetikspiegel, Haarfön",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        },
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Langlauf pur - 7 Nächte",
+          "description": "Erholung kombiniert mit Langlaufspaß – Erholung kombiniert mit Langlaufspaß - 3 Tage Unterricht und als Intensivtraining 1 Stunde Privatunterricht zusätzlich, 7 Übernachtungen.  Langlaufen ist gesund und macht beim gemütlicheren Ski-Wandern ebenso viel Spaß wie beim flotten Laufen. Gut präparierte und markierte Loipen garantieren ungetrübtes Laufvergnügen.",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/2c7bf213-a66d-41a8-ade6-d650916c7a81/99/image.jpg",
+              "caption": "Langlauf"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "766.00",
+          "maxPrice": "766.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche oder Bad, WC",
+      "description": "zwischen 20 und 26 m² mit Badewanne oder Dusche,",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer Silber 23 - 27 m²",
+          "description": "7 Übernachtungen\n• Bereits am Morgen gibt es zusätzlich zum Frühstück vom Buffet ein warmes 5-Elemente-Gericht und eine Vielzahl frisch für\nSie zubereiteter Eiergericht;\n• Abends gibt es ein 5-gängiges Gourmet-Wahl-Menü; davon eine Hauptspeise nach der 5-Elemente-Küche\nzusätzlich 1 x wöchentlich:\n- einen Cocktail-Empfang\n- ein Galadinner\n- ein Österreichisches Spezialitäten Menu\n• ein kleines Weinseminar mit Verkostung mit Dipl.-Sommelière Christina – Chefin des Hauses (Unkostenbeitrag € 12,-),\n• Nach einem sportlichen Tag im verführerischen Saunadorf die innere Balance wiederfinden als Grundstein zu Gesundheit\nund mehr Wohlbefinden.\n• KEIN hauseigener Pool – Sie möchten zum Schwimmen gehen? Wir bieten Ihnen den kostenloser Eintritt in das Olympia-\nSchwimmbad von Montag bis Freitag (ausgenommen Feiertage)\n• Wohlfühlen auf ganzer Linie: Nichtraucherhotel – für Ihren erholsamen und gesunden Schlaf senken wir den Elektrosmog,\ndenn es befinden sich in den Zimmer weder Minibar noch W-Lan! W-Lan im öffentlichen Bereich kostenlos\n• Großer Parkplatz gratis\n• Kostenloser Wäscheservice für Ihre Langlauf-Funktionswäsche\n• Loipengebühr für über 270 km Olympia-Langlaufloipen\n• Beheizter Skiraum mit Wachstisch und Bügeleisen",
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "http://resc.deskline.net/images/SEE/1/697f490f-d4ea-449c-8c25-41a31a2a96e5/99/image.jpg",
+              "caption": "Langlauf"
+            }
+          ],
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche oder Bad, WC",
+      "description": "zwischen 26 und 30 m² mit Südbalkon, Badewanne oder Dusche, teilweise mit 2 Fauteuils oder Sofa zum Ausziehen für 1 Person zum Schlafen.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer Gold mit Balkon 25 - 30 m²",
+          "description": "Doppelzimmer  Superior plus, ca 26 m² mit Südbalkon, Blick zum Gschwandtkopf, Fauteuils oder Sofa, Schreibtisch, Zimmersafe, Flat-TV inkl. Schnittstelle für jpg \u0026 MP3 Player, Radio, Badezimmer mit Badewanne oder Dusche, WC, Kosmetikspiegel, Haarfön",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche oder Bad, WC",
+      "description": "Nach den harmonischen Aspekten der Feng Shui Energetik, den 5 Elementen Holz, Feuer, Erde, Metall und Wasser eingerichtet. Alle mit Parkettboden, Badewanne oder Dusche.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Feng-Shui Doppelzimmer ohne Balkon 23 - 28 m²",
+          "description": "Feng Shui Doppelzimmer ca. 25 m²,Fauteuils, Schreibtisch, Zimmersafe, Telefon, Flat-TV mit integriertem Radio und Schnittstelle für jpg \u0026 MP3 Player, Parkettboden, großes Badezimmer mit Badewanne oder Dusche, WC, Pflegeprodukte der Linie „Pure Herbs“, Kosmetikspiegel, Haarfön",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche oder Bad, WC, Balkon",
+      "description": "mit Balkon und Blick zur Hohen Munde.Nach den harmonischen Aspekten der Feng Shui Energetik, den 5 Elementen Holz, Feuer, Erde, Metall und Wasser eingerichtet. Alle mit Parkettboden, Badewanne oder Dusche.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Feng-Shui Doppelzimmer mit Balkon 23 - 34 m²",
+          "description": "Feng Shui Doppelzimmer zw. 30 und 34 m², Balkon mit Blick zur Hohe Munde, Fauteuils oder Sofa, Schreibtisch, Zimmersafe, Telefon, Flat-TV 32\" mit integriertem Radio und Schnittstelle für jpg \u0026 MP3 Player, Parkettboden, großes Badezimmer mit Badewanne oder Dusche, WC, Pflegeprodukte der Linie „Pure Herbs“, Kosmetikspiegel, Haarfön",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Suite, Dusche und Bad, WC, Balkon",
+      "description": "ca. 42 m² mit Himmelbett, Whirlpoolwanne, Dusche, Bidet, WC, Sitzecke, Südbalkon",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Weltmeister Suite ca. 25 - 42 m²",
+          "description": "Romantiksuite , 42 m², mit Balkon, Himmelbett, großzügige Sitzecke, Zimmersafe, Telefon, 2 Flat-TV 26\" inkl. Schnittstelle für jpg \u0026 MP3 Player, Radio, Badezimmer 10 m² mit Whirlpoolwanne, Dusche, WC, Bidet, Kosmetikspiegel und Haarfön ",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Suite, Dusche oder Bad, WC",
+      "description": "ca. 42 m², mit Südbalkon, Wohnschlafzimmer, Schlafzimmer, Badewanne",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Olympia-Suite mit Südbalkon 41 - 50 m²",
+          "description": "Junior-Suite mit 2 Zimmer, 41 - 50 m², Wohnzimmer, Schlafzimmer, Balkon mit Blick zum Hocheder, Zimmersafe, Schreibtisch, Telefon, Flat-TV 32\" mit integriertem Radio und Schnittstelle für jpg \u0026 MP3 Player, Badezimmer mit Badewanne, WC, Kosmetikspiegel, Haarfön",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 4",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Einzelzimmer, Dusche, WC",
+      "description": "ca. 20 m²mit französichem Bett 160 cm breit, auch für 2 Personen geeignet, Badewanne",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Einzelzimmer Feng - Shui \"Metall\"",
+          "description": "Einbettzimmer N° 334 Feng Shui \"Metall\", ca 20 m² mit  Blick nach Westen ins Grüne mit Fauteuil, Wand-Flat-TV 26\" inkl. Schnittstelle für jpg \u0026 MP3 Player, Radio, Zimmersafe, Telefon, Rauchmelder, Badezimmer mit Dusche, WC, Pflegeprodukte der Linie „Pure Herbs“, Kosmetikspiegel, Haarfön",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "0.00",
+          "maxPrice": "9999.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Einzelzimmer, Dusche, WC",
+      "description": "ca. 17 m² mit Südbalkon, Dusche,",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Einzelzimmer mit Südbalkon",
+          "description": "Einbettzimmer Superior plus N° 101 ca. 17 m² mit Balkon und Blick Richtung Süden zum Gschwandtkopf, Schreibtisch, Zimmersafe, Telefon, Rauchmelder, Flat-TV 26\" inkl. Schnittstelle für jpg \u0026 MP3 Player, Radio, Badezimmer mit Dusche, WC, Pflegeprodukte der Linie „Pure Herbs“, Kosmetikspiegel, Haarfön",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "0.00",
+          "maxPrice": "9999.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

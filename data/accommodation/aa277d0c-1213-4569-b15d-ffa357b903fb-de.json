@@ -1,0 +1,147 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://www.tschaperhof.at",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Tschaperhof",
+    "streetAddress": "Platzl 105",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6366",
+    "faxNumber": "(0043) 5214 6366",
+    "email": "info@tschaperhof.at",
+    "url": "http://www.tschaperhof.at"
+  },
+  "name": "Tschaperhof",
+  "description": [
+    "Der Loipeneinstieg in das endlos scheinende Loipennetz\nbefindet sich direkt vor unserer Haustüre.\nErkunden Sie beim Winterwandern auf den romantischen und idyllischen Wegen\ndas wunderschöne Leutaschtal.\nBei uns können sie LOSLASSEN - DURCHATMEN u. KRAFTTANKEN. \nVielleicht zählen auch Sie bald zu unseren zahlreichen Stammgästen.",
+    "",
+    "So erreichen Sie uns:\nMünchen - Garmisch/Partenkirchen - Mittenwald - Leutasch - Platz - Reitstall - Tschaperhof\n\nSeefeld - Leutasch - Platz - Reitstall - Tschaperhof",
+    "Langlaufen,Schifahren, Ferienwohnung,Bauernhof, Seefeld, Tirol, Österreich, Familie"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/a6fe1f99-b9c7-4cab-9352-8e85fd9aad1d/99/image.jpg",
+      "caption": "Haus Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/99cbac46-9d1e-427d-8f23-b52271ff5a0a/99/image.jpg",
+      "caption": "Haus Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4970c26b-66ea-4541-bd29-58f4e40ea857/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/8b478c53-efee-4603-809d-350c22a3f4a5/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1f2a1674-e4e0-4c48-93a8-1b38298d212a/99/image.jpg",
+      "caption": "Hausansicht Tschaperhof"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/7452f087-e95c-424a-bb40-e9d1a7075114/99/image.jpg",
+      "caption": "Ponykutsche"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/5a7670ab-3fdb-4b93-9c29-d7ac60e9d991/99/image.jpg",
+      "caption": "Reitstunde"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/d1c0bbf5-46a0-440d-8440-b2418e4ceb74/99/image.jpg",
+      "caption": "Boxen"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.361648049814",
+    "longitude": "11.135552240562"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "Gemütliches Zimmer im Tiroler Stil mit Südalkon, direkt an der Loipe, inklusive Frühstücksbuffet, Reiten und Kutschenfahrten zum Hauspreis, große Liegewiese, Grillmöglichkeit, freier Eintritt ins neu renovierte Alpenbad Leutasch, ",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "Grßzügige Wohnung im tiroler Stil mit Südbalkon, teils 2 Bäder, Wohnzimmer und Küchenzeile, direkter Loipenzugang,",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "App. Typ B/ 1 Schlafraum/Dusche, WC",
+          "description": "Der Loipeneinstieg in das endlos scheinende Loipennetz\nbefindet sich direkt vor unserer Haustüre.\nErkunden Sie beim Winterwandern auf den romantischen und idyllischen Wegen\ndas wunderschöne Leutaschtal.\n",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "2"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 2 Schlafräume",
+      "description": "Appartement im Tiroler Stil mit ca. 70m², 2 getrennte Schlafzimmer mit jeweils eigenem Bad/WC, großzügiger Wohn- und Eßbereich mit vollausgestatteter Küche, Südbalkon mit Blick auf Wiesen und Berge, Handtücher und Bettwäsche vorhanden, Sat-TV, Radio,",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Ap. Hohe Munde, Ahrnspitze Typ A/2 Schla",
+          "description": "Der Loipeneinstieg in das endlos scheinende Loipennetz\nbefindet sich direkt vor unserer Haustüre.\nErkunden Sie beim Winterwandern auf den romantischen und idyllischen Wegen\ndas wunderschöne Leutaschtal. Besuchen Sie uns auf unserer Homepage:\nwww.tschaperhol.at\n\n",
+          "numberOfRooms": "3.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "6",
+            "minValue": "4"
+          }
+        }
+      ]
+    }
+  ]
+}

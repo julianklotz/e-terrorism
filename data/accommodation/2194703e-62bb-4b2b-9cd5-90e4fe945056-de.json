@@ -1,0 +1,154 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://www.landhaus-elena.com",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Landhaus Elena",
+    "streetAddress": "Obern 26 a",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6982",
+    "faxNumber": "(0043) 5214 6982",
+    "email": "landhaus-elena@aon.at",
+    "url": "http://www.landhaus-elena.com"
+  },
+  "name": "Landhaus Elena",
+  "description": [
+    "Ruhe, Gemütlichkeit und Komfortferienwohnung (60 m² - 70 m²). Im Herzen von Oberleutasch, im Winter direkt an der Skating- und Klassikloipe, im Sommer idealer Ausgangspunkt für Wanderungen und Radtouren.\nRestaurant´s und Geschäfte in unmittelbarer Nähe. Unser Motto für Sie: Komfort - Ruhe - Gemütlichkeit. Nichtraucherwohnung.",
+    "INKLUSIVE:Loipenplakette, Heizung, Parkplatz, Wasser, Strom\n\nEXKLUSIVE: Endreinigung ( € 35,-), Kurtaxe (€ 1,50)",
+    "Von Mittenwald oder Seefeld kommend - Richtung Gasse - Weidach - Kirchplatzl - Ortsteil Obern (Spargeschäft oder Kapelle) - gleich anschließend rechts inmitten einer Wiese."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/4a07b2fa-783f-4b84-994b-7041ab9da0be/99/image.jpg",
+      "caption": "Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ee7a26dc-7ee5-426e-ba29-fb829664e9f8/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/bef221b7-5908-4563-8444-e6baea90d305/99/image.jpg",
+      "caption": "Ansicht Sommer"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/2d0ee8c9-cc1b-481f-9b77-ded82c8420d3/99/image.jpg",
+      "caption": "Sommer mit Hohe Munde"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c084f53a-eea6-4ef9-a0f6-0cdc78f77884/99/image.jpg",
+      "caption": "Sommeransicht"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/59715206-6163-4da9-9973-789a9c8f8aba/99/image.jpg",
+      "caption": "Hausansicht Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1a32f6d6-03db-4a4d-8297-1a2c2fe054a4/99/image.jpg",
+      "caption": "Hausansicht Herbst"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.358074483545",
+    "longitude": "11.12295795505"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "separate Komfortküche mit Sitzecke, großer Wohnraum mit ausziehbarer Couch - TV-SAT, separates Schlafzimmer, DU/WC, Vorraum mit Garderobe und Balkon;",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "App. Elena/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "0.00",
+          "maxPrice": "0.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "separate Komfortküche mit Sitzecke, großer Wohnraum mit ausziehbarer Couch - TV-SAT, separates Schlafzimmer, DU/WC, Vorraum mit Garderobe und Balkon;",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "App. Maria/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "55.00",
+          "maxPrice": "55.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "55.00",
+          "maxPrice": "55.00",
+          "priceCurrency": "EUR"
+        },
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 3",
+          "minPrice": "65.00",
+          "maxPrice": "65.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    }
+  ]
+}

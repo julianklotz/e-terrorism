@@ -1,0 +1,68 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://web.deskline.net/seefeld/de/show_accommodation/SEE/ade2a88e-ae52-421c-ba3f-0d8d98822cd7/haus_eichberger",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Eichberger",
+    "streetAddress": "Klamm 58",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6805",
+    "faxNumber": "(0043) 5214 6805",
+    "email": "isaleutasch@hotmail.com"
+  },
+  "name": "Haus Eichberger",
+  "description": [
+    "Ferienwohnung für 2-4 Personen, gut ausgestattet (Kabelfernsehen, Mikrowelle...), Balkon, Garage, separater Eingang.\nNahe an Skiloipe, Wald und Wanderwegen.",
+    "EXKL.: Ortstaxe, Endreinigung\nINKL.: Strom, Heizung, Tisch und Bettwäsche, Handtücher",
+    "Mittenwald - Unterleutasch - Gasse - Kirchplatz - Ortsteil Klamm - am Eingang des Gaistales rechts\nSeefeld - Weidach - links Kirchplatzl - Ortsteil Klamm - Eingang des Gaistales rechts"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/210f9e67-049e-4685-81a4-b8bf0693b317/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/89938102-1463-4258-b19f-7e5fd4aca138/99/image.jpg",
+      "caption": "Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.363101225058",
+    "longitude": "11.116666366715"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche und Bad, WC, 1 Schlafraum",
+      "description": "ristikal und hell eingerichtet, sehr gemütlich, sonnig und ruhig gelegen",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/1 Schlafraum/Dusche, Bad, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "4",
+            "minValue": "1"
+          }
+        }
+      ]
+    }
+  ]
+}

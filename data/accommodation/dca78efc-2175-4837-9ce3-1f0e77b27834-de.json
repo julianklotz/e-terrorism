@@ -1,0 +1,166 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BedAndBreakfast"
+  ],
+  "url": [
+    "http://web.deskline.net/seefeld/de/show_accommodation/SEE/dca78efc-2175-4837-9ce3-1f0e77b27834/haus_st_ulrich",
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus St. Ulrich",
+    "streetAddress": "Hocheggstraße 490",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 2728",
+    "email": "hausulrich@yahoo.de"
+  },
+  "name": "Haus St. Ulrich",
+  "description": [
+    "Unser Haus liegt in einer ruhigen ganztägig sonnigen Wohngegend nur 500 m vom Zentrum entfernt. Wir sind ein Familienbetrieb, gelegn nur 2 Gehminuten vom Golfplatz, von den Haltestellen für den Gratis - Shuttlebus und von der Rosshütte. Wir bieten persönliche Betreuung, eine Sonnenterrasse, Liegewiese, Sauna, Dampfbad, überdachten Parkplatz, Kinderspielplatz u.v.m",
+    "Sauna kostenlos\nWanderführung kostenlos\nSportgeräteverleih kostenlos",
+    "Check - in: Jederzeit\nCheck - out: 12:00 (abhängig von der Zimmerverfügbarkeit)\nWeg: Ausfahrt, Seefeld-Mitte, Kreisverkehr - links abbiegen 1. Straße rechts unser Haus befindet sich auf der linken seite."
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/c1d6be7b-8a1a-4d6b-b32e-d047ecd7b985/99/image.jpg",
+      "caption": "Winter"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/930d6a5c-1857-47a3-b7c6-489d0a76f3d4/99/image.jpg",
+      "caption": "Hausaußenansicht Sommer"
+    }
+  ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3276394514902",
+    "longitude": "11.19380235672"
+  },
+  "currenciesAccepted": "EUR",
+  "makesOffer": [
+    {
+      "@type": "Offer",
+      "name": "Doppelzimmer, Dusche, WC",
+      "description": "komfortable, ruhige und gemütliche Zimmer mit privatem Spdbalkon, TV, Dusche/WC Radio und Zimmersafe",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "26.00",
+          "maxPrice": "26.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Einzelzimmer, Dusche, WC",
+      "description": "komfortable, ruhige und gemütliche Zimmer mit privatem Spdbalkon, TV, Dusche/WC Radio und Zimmersafe",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Einzelzimmer mit Dusche, WC",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "1",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 1",
+          "minPrice": "26.00",
+          "maxPrice": "26.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Appartement/Fewo, Dusche, WC, 1 Schlafraum",
+      "description": "komfortables 2-Zimmer-App. mit 2 Bädern, 2 Balkonen 2 TVs, Radio, Zimmersafe und einer mit allen Extras eingerichteten Küche",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "Apartment",
+            "Product"
+          ],
+          "name": "Apartment/1 Schlafraum/Dusche, WC",
+          "numberOfRooms": "2.0",
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "3",
+            "minValue": "1"
+          }
+        }
+      ],
+      "priceSpecification": [
+        {
+          "@type": "PriceSpecification",
+          "description": "Pax 2",
+          "minPrice": "64.00",
+          "maxPrice": "64.00",
+          "priceCurrency": "EUR"
+        }
+      ]
+    },
+    {
+      "@type": "Offer",
+      "name": "Studio, Dusche oder Bad, WC, Terrasse",
+      "description": "Dieses neuerbaute Appartement bietet Ihnen mit ca. 55m² allen Komfort, private Atmosphäre und eine ruhige Südterrasse.",
+      "availability": "http://schema.org/InStock",
+      "itemOffered": [
+        {
+          "@type": [
+            "HotelRoom",
+            "Product"
+          ],
+          "name": "Doppelzimmer mit Küche",
+          "bed": {
+            "@type": "BedDetails",
+            "numberOfBeds": "1"
+          },
+          "occupancy": {
+            "@type": "QuantitativeValue",
+            "maxValue": "2",
+            "minValue": "1"
+          }
+        }
+      ]
+    }
+  ]
+}

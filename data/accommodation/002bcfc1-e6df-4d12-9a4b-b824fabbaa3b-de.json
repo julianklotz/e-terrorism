@@ -1,0 +1,25 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "LodgingBusiness"
+  ],
+  "url": [
+    "http://upload.seefeld.com/intranet/Deskline/AGBH2006.pdf"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Haus Bair",
+    "streetAddress": "Am Kirchwald 321",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "0043 5212 2506",
+    "email": "famann@aon.at"
+  },
+  "name": "Haus Bair",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3293265423412",
+    "longitude": "11.1799299716949"
+  },
+  "currenciesAccepted": "EUR"
+}

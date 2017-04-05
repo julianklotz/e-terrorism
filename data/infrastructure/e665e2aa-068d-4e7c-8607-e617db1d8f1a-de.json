@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "SportsActivityLocation",
+    "TravelAgency",
+    "TouristAttraction"
+  ],
+  "name": "Pferdekutschenfahrten",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "0",
+    "longitude": "0"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Fiakerparkplatz (P3)",
+    "streetAddress": "Innsbrucker Str. ",
+    "addressLocality": "Seefeld",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043)508800"
+  },
+  "description": [
+    " \n",
+    "Alle Orte der Olympiaregion Seefeld bieten Fahrten mit Pferdekutschen bzw. -schlitten an: Ortsrundfahrten, Fahrten zu verschiedenen Almen (z.B. Gaistal/Wildmoosgebiet), zu Ausflugslokalen und in die jeweiligen Nachbarorte. Genauere Infos über Routen und Preise sind in allen Informationsbüros der Olympiaregion Seefeld erhältlich.\n\nSeefeld\nFiakerstandplatz in der Innsbruckerstraße (beim Parkplatz P3); Ortsrundfahrt um den Wildsee, Fahrt zur Wildmoosalm, Triendlsäge, zum Englhof, nach Mösern, Reith, Leutasch, etc. Routenvorschläge inkl. Preise sind im Informationsbüro Seefeld erhältlich.\nKastrati Enver, Tel.: 0664/8695300\nNeuner Edi, Tel.: 05212/3945\nTiefenbrunner Otto, Tel.: 05212/3382\n"
+  ],
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/1a5a902e-48c4-4c89-aa23-b7022e3790d6/99/image.jpg",
+      "caption": "Pferdekutschenfahrten"
+    }
+  ]
+}

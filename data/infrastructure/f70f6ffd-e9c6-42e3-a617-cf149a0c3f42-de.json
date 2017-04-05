@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "HairSalon"
+  ],
+  "name": "Friseur - Salon Beauty Hair",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3719367920741",
+    "longitude": "11.151123046875"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "Salon Beauty Hair",
+    "streetAddress": "Weidach 275",
+    "addressLocality": "Leutasch",
+    "postalCode": "6105",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5214 6490",
+    "faxNumber": "(0043) ",
+    "email": "beauty-hair@telering.at",
+    "url": "http://www.leutasch.net/alpenbad/alpenbad-friseur.html"
+  },
+  "description": "Weidach 275 (im Alpenbad)\nTel.: +43 5214/6490",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/0a7a3d93-1a93-4010-b9c2-232b5fe31d06/99/image.jpg",
+      "caption": "friseur"
+    }
+  ],
+  "url": [
+    "http://www.leutasch.net/alpenbad/alpenbad-friseur.html"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "Event"
+  ],
+  "name": "Pfingstsonntag Jazz-Brunch mit \"Blauton\"",
+  "eventStatus": "http://schema.org/EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Interalpen-Hotel Tyrol GmbH",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Dr.Hans-Liebherr-Alpenstrasse 1",
+      "addressLocality": "Telfs-Buchen",
+      "postalCode": "6410",
+      "addressCountry": "AT",
+      "telephone": "+4305080930",
+      "faxNumber": "+4305080937190",
+      "email": "reservation@interalpen.com",
+      "url": "http://www.interalpen.com"
+    }
+  },
+  "location": {
+    "@type": "Place",
+    "name": "Interalpen-Hotel Tyrol GmbH",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Dr.Hans-Liebherr-Alpenstrasse 1",
+      "addressLocality": "Telfs-Buchen",
+      "postalCode": "6410",
+      "addressCountry": "AT",
+      "telephone": "+4305080930",
+      "faxNumber": "+4305080937190",
+      "email": "reservation@interalpen.com",
+      "url": "http://www.interalpen.com"
+    }
+  },
+  "description": "Mit traditioneller Besetzung (Klavier/Gesang, Bass und Schlagzeug) erinnert das Jazztrio „Blauton“ an die Atmosphäre verrauchter Jazzclubs aus dem New York der 1920er bis -70er Jahre. Mit entspannter Interpretation der Standards wird die Tradition des Cool Jazz, Swings und Bossa Novas hochgehalten. Eintritt: € 15,--. Information \u0026 Reservierung: www.interalpen.com.",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/ad52f9c4-f1d5-4a57-9c5e-3fb78553739d/99/image.jpg",
+      "caption": "Jazz Trio Blauton"
+    }
+  ],
+  "url": [
+    "http://www.interalpen.com"
+  ],
+  "startDate": "2017-06-04T11:00:00",
+  "endDate": "2017-06-04"
+}

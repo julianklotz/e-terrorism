@@ -1,0 +1,37 @@
+{
+  "@context": "http://schema.org",
+  "@type": [
+    "BarOrPub",
+    "CafeOrCoffeeShop",
+    "Restaurant"
+  ],
+  "name": "9ers Restaurant - Lounge - Bar",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "47.3113548007687",
+    "longitude": "11.1440527439117"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "name": "9ers Restaurant - Lounge - Bar",
+    "streetAddress": "Möserer Dorfstr. 2",
+    "addressLocality": "Mösern",
+    "postalCode": "6100",
+    "addressCountry": "AT",
+    "telephone": "(0043) 5212 4747",
+    "faxNumber": "(0043) ",
+    "email": "info@inntalerhof.com",
+    "url": "http://www.inntalerhof.com"
+  },
+  "description": "Restaurant-Lounge-Bar",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "http://resc.deskline.net/images/SEE/1/bc89ec98-453c-4380-9b24-d7834a1c8432/99/image.jpg",
+      "caption": "9ers"
+    }
+  ],
+  "url": [
+    "http://www.inntalerhof.com"
+  ]
+}
