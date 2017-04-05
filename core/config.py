@@ -1,4 +1,5 @@
 
-TYPES = [ 't1', 't2', 't3' ]
+TYPES = [ 'BedAndBreakfast', 'Campground', 'Hotel', 'Event' ]
 
-ATTRIBUTES = [ 'a1', 'a2', 'a3', 'a4' ]
+ATTRIBUTES = [ 'adventure', 'active', 'family', 'outdoor', 'wellness', 'couple',
+        'cultur', 'lowbudget' ]

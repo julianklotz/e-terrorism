@@ -3,6 +3,35 @@
 from pandas import DataFrame
 import core.config as CFG
 
-attr_data = DataFrame([[1,1,1,1], [2,2,2,2], [3,3,3,3], [4,4,4,4]], columns=CFG.ATTRIBUTES)
+# Attributes ( Input )
+a = []
+#        [ 'adventure', 'active', 'family', 'outdoor', 'wellness', 'couple', 'cultur', 'lowbudget' ]
+a.append([           0,        0,        0,         0,          0,        0,        0,          0  ])
+a.append([           0,        0,        0,         0,          0,        0,        0,          0  ])
+a.append([           0,        0,        0,         0,          0,        0,        0,          0  ])
+a.append([           0,        0,        0,         0,          0,        0,        0,          0  ])
+a.append([           0,        0,        0,         0,          0,        0,        0,          0  ])
+a.append([           0,        0,        0,         0,          0,        0,        0,          0  ])
+a.append([           0,        0,        0,         0,          0,        0,        0,          0  ])
+a.append([           0,        0,        0,         0,          0,        0,        0,          0  ])
+a.append([           0,        0,        0,         0,          0,        0,        0,          0  ])
+a.append([           0,        0,        0,         0,          0,        0,        0,          0  ])
+a.append([           0,        0,        0,         0,          0,        0,        0,          0  ])
+a.append([           0,        0,        0,         0,          0,        0,        0,          0  ])
+a.append([           0,        0,        0,         0,          0,        0,        0,          0  ])
+a.append([           0,        0,        0,         0,          0,        0,        0,          0  ])
+a.append([           0,        0,        0,         0,          0,        0,        0,          0  ])
+a.append([           0,        0,        0,         0,          0,        0,        0,          0  ])
+a.append([           0,        0,        0,         0,          0,        0,        0,          0  ])
+a.append([           0,        0,        0,         0,          0,        0,        0,          0  ])
+a.append([           0,        0,        0,         0,          0,        0,        0,          0  ])
+a.append([           0,        0,        0,         0,          0,        0,        0,          0  ])
 
-type_data = DataFrame([[1,1,1], [2,2,2], [3,3,3], [4,4,4]], columns=CFG.TYPES)
+attr_data = DataFrame( a, columns=CFG.ATTRIBUTES )
+
+# Type ( Output )
+t = []
+#        [ 'BedAndBreakfast', 'Campground', 'Hotel', 'Event' ]
+t.append([                .0,           .0,      .0,      .0 ])
+
+type_data = DataFrame(t, columns=CFG.TYPES)
