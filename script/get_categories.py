@@ -5,7 +5,7 @@ from rdflib import Graph, plugin
 from rdflib.serializer import Serializer
 
 PATHS = [
-    './data/accommodation/*.json'
+    '../data/accommodation/*.json'
 ]
 
 for current_path in PATHS:
