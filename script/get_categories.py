@@ -16,9 +16,8 @@ for ooi_type, current_path in PATHS.items():
     master_graph = Graph() # .parse(data=testrdf, format='n3')
 
     for idx, json_file in enumerate( file_list ):
-        if idx >= 100000:
+        if(idx >= 1000):
             continue
-
         with open ( json_file , "r") as myfile:
             print('----')
             print("Current file: "+ json_file)
