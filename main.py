@@ -36,7 +36,7 @@ class Tinderism(object):
         # self.classifier.classify( DataFrame( data, CFG.ATTRIBUTES))
 
         con = sparql_connector.SparqlConnector()
-        con.query_hotels()
+        print( con.query_all_lodgings() )
 
         template = Template(filename='templates/sample_output.json', output_encoding='utf-8', encoding_errors='replace', input_encoding='utf-8')
         return template.render()
