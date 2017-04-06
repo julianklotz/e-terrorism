@@ -10,7 +10,8 @@ GROUP_ACTIVITIES = 'GROUP_ACTIVITIES'
 
 TYPE_MAP = {
     GROUP_LODGINGS: ['Hotel', 'BedAndBreakfast', 'Campground', 'Hostel', 'Motel', 'Resort', 'LodgingBusiness'],
-    GROUP_EVENTS: ['Event', 'BusinessEvent', 'ChildrensEvent', 'ComedyEvent', 'CourseInstance', 'DanceEvent', 'DeliveryEvent', 'EducationEvent', 'ExhibitionEvent', 'Festival', 'FoodEvent', 'LiteraryEvent', 'MusicEvent', 'PublicationEvent', 'SaleEvent', 'ScreeningEvent', 'SocialEvent', 'SportsEvent', 'TheaterEvent', 'VisualArtsEvent']
+    GROUP_EVENTS: ['Event', 'BusinessEvent', 'ChildrensEvent', 'ComedyEvent', 'CourseInstance', 'DanceEvent', 'DeliveryEvent', 'EducationEvent', 'ExhibitionEvent', 'Festival', 'FoodEvent', 'LiteraryEvent', 'MusicEvent', 'PublicationEvent', 'SaleEvent', 'ScreeningEvent', 'SocialEvent', 'SportsEvent', 'TheaterEvent', 'VisualArtsEvent'],
+    GROUP_EAT_AND_DRINK: ['BarOrPub', 'FoodEstablishment', 'Restaurant', 'CafeOrCoffeeShop', 'FastFoodRestaurant']
 }
 
 ATTRIBUTES = [ 'adventure', 'active', 'family', 'outdoor', 'wellness', 'couple',
