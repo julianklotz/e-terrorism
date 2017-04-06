@@ -36,3 +36,12 @@ main
   background-color: #3f51b5;
 
 }
+
+.ui-page {
+    display: flex;
+    flex-direction: column;
+}
+
+.ui-loader {
+    display: none !important;
+}

@@ -6,7 +6,7 @@ class SparqlConnector():
     remote = None
 
     def __init__(self):
-        STORE_URL = "http://localhost:8080/rdf4j-server/repositories/inference"
+        STORE_URL = "http://192.168.1.130:8080/rdf4j-server/repositories/inference"
         self.remote = SPARQLWrapper( STORE_URL )
 
     def prefix_query(self, query):
