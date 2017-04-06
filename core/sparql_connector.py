@@ -1,10 +1,20 @@
 from SPARQLWrapper import SPARQLWrapper, JSON
 
+class ResultObject():
+    node_id: None
+    clazz: None
+    name: None
+    description: None
+    image: None
+    caption: None
+
+
+
 class SparqlConnector():
     remote = None
 
     def __init__(self):
-        STORE_URL = "http://localhost:8080/rdf4j-server/repositories/tinderism"
+        STORE_URL = "http://localhost:8080/rdf4j-server/repositories/inference"
         self.remote = SPARQLWrapper( STORE_URL )
 
     def prefix_query(self, query):
@@ -24,7 +34,20 @@ class SparqlConnector():
             print(result)
         return results
 
+    def recommended_lodgings(self, categories):
+
+
+        pass
+
+    def recommended_events(self):
+        pass
+
+    def recommended_eat_drink(self):
+        pass
+
     def query_all_lodgings(self):
+        return [ ResultObject(),^gt ]
+
         return self.execute_query("""
         SELECT DISTINCT ?type ?accomodation ?name ?description
         WHERE {
