@@ -18,11 +18,12 @@ class SparqlConnector():
         """ + query
 
     def execute_query(self, query):
-        # print(query)
+        print(query)
         query = self.prefix_query(query)
         self.remote.setQuery(query)
         self.remote.setReturnFormat(JSON)
         results = self.remote.query().convert()
+
 
         return results
 
@@ -77,6 +78,6 @@ class SparqlConnector():
 
             objects.append(obj)
 
-
+        print("LEN: " + str(len(objects)))
         return objects
 
