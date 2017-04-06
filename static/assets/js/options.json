@@ -1,26 +1,26 @@
 var steps = [
     [
-        { "url": "assets/img/Feuer.jpg", "title": "Camp Fire", "tags": ["Camping", "Outdoor", "Low Budget"] },
-        { "url": "assets/img/Hotel.jpg", "title": "Hotel", "tags": ["Wellness", "Luxory", "Hotel"] },
+        { "url": "assets/img/Feuer.jpg", "title": "Camp Fire", "tags": ["Camping", "Outdoor", "Low Budget"] , "attributes":["adventure","active","outdoor","lowbudget"]},
+        { "url": "assets/img/Hotel.jpg", "title": "Hotel", "tags": ["Wellness", "Luxory", "Hotel"] , "attributes":["couple","wellness"]},
     ],
 
     [
-        { "url": "assets/img/Kultur.jpg", "title": "Kultur", "tags": ["Education", "Experience", "Chance"] },
-        { "url": "assets/img/Sport.jpg", "title": "Sport", "tags": ["Outdoor", "Active", "Action"] },
+        { "url": "assets/img/Kultur.jpg", "title": "Kultur", "tags": ["Education", "Experience", "Chance"] , "attributes":["culture","family"]},
+        { "url": "assets/img/Sport.jpg", "title": "Sport", "tags": ["Outdoor", "Active", "Action"] , "attributes":["active","outdoor","adventure"]},
     ],
 
     [
-        { "url": "assets/img/Outdoor.jpg", "title": "Outdoor", "tags": ["Active", "Hiking", "Nature"] },
-        { "url": "assets/img/Wellness.jpg", "title": "Wellness", "tags": ["High Budget", "Relax", "Elderly"] },
+        { "url": "assets/img/Outdoor.jpg", "title": "Outdoor", "tags": ["Active", "Hiking", "Nature"] , "attributes":["adventure","active","outdoor","lowbudget", "family"]},
+        { "url": "assets/img/Wellness.jpg", "title": "Wellness", "tags": ["High Budget", "Relax", "Elderly"] ,"attributes":["wellness","couple"]},
     ],
 
     [
-        { "url": "assets/img/Jause.jpg", "title": "Jause", "tags": ["Low Budget", "Outdoor", "DIY"] },
-        { "url": "assets/img/Restaurant.jpg", "title": "Nobel Restaurant", "tags": ["High Budget", "Gourmet", "Culture"] },
+        { "url": "assets/img/Jause.jpg", "title": "Jause", "tags": ["Low Budget", "Outdoor", "DIY"] ,"attributes":["family","outdoor","lowbudget"]},
+        { "url": "assets/img/Restaurant.jpg", "title": "Nobel Restaurant", "tags": ["High Budget", "Gourmet", "Culture"] ,"attributes":["couple","wellness"]},
     ],
 
     [
-        { "url": "assets/img/Paar.jpg", "title": "Pärchen", "tags": ["Active", "Outdoor", "Adventure"] },
-        { "url": "assets/img/Familie.jpg", "title": "Familie", "tags": ["Active", "Amusement", "Sightseeing"] },
+        { "url": "assets/img/Paar.jpg", "title": "Pärchen", "tags": ["Active", "Outdoor", "Adventure"] ,"attributes":["adventure","active","couple"]},
+        { "url": "assets/img/Familie.jpg", "title": "Familie", "tags": ["Active", "Amusement", "Sightseeing"] ,"attributes":["culture","family","culture"]},
     ],
 ]
