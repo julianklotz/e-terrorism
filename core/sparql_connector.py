@@ -40,7 +40,7 @@ class SparqlConnector():
         return self.map_results_to_object( results, category )
 
     def recommended_eat_and_drink(self, category):
-        template = Template(filename='templates/sparql/default.sparql',
+        template = Template(filename='templates/sparql/eat_and_drink.sparql',
                 input_encoding='utf-8')
 
         query_str = template.render(category=category)

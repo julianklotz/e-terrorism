@@ -37,6 +37,22 @@ main
 
 }
 
+.res_snippet .card .card-image {
+    height: 220px;
+    overflow: hidden;
+}
+
+.res_snippet .card .card-content {
+    height: 48px;
+    overflow: hidden;
+}
+
+.res_snippet .card .card-image .card-title {
+    background-color: rgba(0,0,0,0.4);
+    width: 100%;
+    padding: 12px 24px;
+}
+
 .ui-page {
     display: flex;
     flex-direction: column;
