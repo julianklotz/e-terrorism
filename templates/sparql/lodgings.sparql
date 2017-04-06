@@ -1,0 +1,23 @@
+SELECT DISTINCT
+	?nodeId
+	(SAMPLE(?description) AS ?description)
+	(SAMPLE(?name) as ?name)
+	(SAMPLE(?image) as ?image)
+	(SAMPLE(?ratingValue) as ?ratingValue)
+	(SAMPLE(?reviewCount) as ?reviewCount)
+	WHERE {
+		?nodeId a schema:${category} .
+			?nodeId schema:name ?name .
+			?nodeId schema:description ?description .
+			?nodeId schema:image ?imgObj .
+			?imgObj a schema:ImageObject .
+			?imgObj schema:url ?image .
+
+			?nodeId schema:aggregateRating ?aggRating .
+			?aggRating schema:ratingValue ?ratingValue .
+			?aggRating schema:reviewCount ?reviewCount .
+			FILTER(xsd:decimal(?ratingValue) >= 4.0)
+	}
+	GROUP BY ?nodeId
+	ORDER BY DESC(xsd:decimal(?ratingValue))
+	LIMIT 200

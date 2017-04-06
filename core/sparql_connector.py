@@ -1,14 +1,6 @@
 from SPARQLWrapper import SPARQLWrapper, JSON
-
-class ResultObject():
-    node_id: None
-    clazz: None
-    name: None
-    description: None
-    image: None
-    caption: None
-
-
+from mako.template import Template
+from core import result_factory
 
 class SparqlConnector():
     remote = None
@@ -26,18 +18,47 @@ class SparqlConnector():
         """ + query
 
     def execute_query(self, query):
+        print(query)
         query = self.prefix_query(query)
         self.remote.setQuery(query)
         self.remote.setReturnFormat(JSON)
         results = self.remote.query().convert()
-        for result in results["results"]["bindings"]:
-            print(result)
+
         return results
 
-    def recommended_lodgings(self, categories):
+    def recommended_lodgings(self, category):
+        # Add min rating
+        # Sort by rating
+        # Filter by rating count
+
+        template = Template(filename='templates/sparql/lodgings.sparql',
+                input_encoding='utf-8')
+
+        query_str = template.render(category=category)
+        results = self.execute_query( query_str )
+        return self.map_results_to_object( results, category )
 
 
-        pass
+    def map_results_to_object(self, results, category):
+        objects = []
+
+        for result in results['results']['bindings']:
+            obj = result_factory.ResultObject()
+
+            obj.node_id = result["nodeId"]["value"]
+            obj.clazz = category
+            obj.name = result['name']['value']
+            obj.description = result['description']['value']
+            obj.image = result['image']['value']
+            obj.ratingValue = result['ratingValue']['value']
+            obj.reviewCount = result['reviewCount']['value']
+
+            objects.append(obj)
+            print(obj)
+
+
+        return objects
+
 
     def recommended_events(self):
         pass
@@ -46,8 +67,6 @@ class SparqlConnector():
         pass
 
     def query_all_lodgings(self):
-        return [ ResultObject(),^gt ]
-
         return self.execute_query("""
         SELECT DISTINCT ?type ?accomodation ?name ?description
         WHERE {
