@@ -73,8 +73,12 @@ class SparqlConnector():
 
             if('ratingValue' in result):
                 obj.ratingValue = float(result['ratingValue']['value'])
+
             if('reviewCount' in result):
                 obj.reviewCount = int(result['reviewCount']['value'])
+
+            if('startDate' in result):
+                obj.startDate = result['startDate']['value']
 
             objects.append(obj)
 

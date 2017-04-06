@@ -10,6 +10,7 @@ class ResultObject():
     image = None
     ratingValue = None
     reviewCount = None
+    startDate = None
 
     def __str__(self):
         return "{}, {}".format(self.name, self.clazz)
