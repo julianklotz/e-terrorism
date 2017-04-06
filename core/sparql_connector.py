@@ -46,7 +46,7 @@ class SparqlConnector():
         pass
 
     def query_all_lodgings(self):
-        return [ ResultObject(),^gt ]
+        return [ ResultObject() ]
 
         return self.execute_query("""
         SELECT DISTINCT ?type ?accomodation ?name ?description

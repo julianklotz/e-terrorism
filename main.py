@@ -36,6 +36,7 @@ class Tinderism(object):
 
         # get input as an array with 0|1 for each attribute
         classification_results = self.classifier.classify( DataFrame( [[1,0,0,1,0,1,0,0]], columns=CFG.ATTRIBUTES))
+        print( classification_results )
 
         for res in classification_results:
             self.resolve_generic_type( res )
