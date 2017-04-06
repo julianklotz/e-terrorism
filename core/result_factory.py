@@ -1,5 +1,6 @@
 from core.config import *
 from core import sparql_connector
+import json
 
 class ResultObject():
     node_id = None
@@ -14,31 +15,44 @@ class ResultObject():
         return "{}, {}".format(self.name, self.clazz)
 
 class ResultSet():
-    events = []
     lodgings = []
     eat_and_drink = []
-    shopping = []
-    pois = []
-    activities = []
+    events = []
 
-    def get_lodgings(self):
-        return self.lodgigns
 
+    def toJSON(self):
+        #return json.dumps(self, default=lambda o: o.__dict__, sort_keys=True, indent=4)
+        return json.dumps(self, default=lambda o: o.__dict__, sort_keys=True, indent=4)
 
 class ResultFactory():
     def __init__(self):
-        result_set = ResultSet()
         self.endpoint = sparql_connector.SparqlConnector()
 
     def get_results_for( self, categories ):
+        result_set = ResultSet()
         for cat in categories:
+            print(' --------' )
             group = self.resolve_group( cat )
 
             if( group == GROUP_LODGINGS):
+                print("FILLING LODGINGS: " + cat)
                 recommendations = self.endpoint.recommended_lodgings( cat )
-                print(recommendations)
+                result_set.lodgings = recommendations
+
+            elif( group == GROUP_EAT_AND_DRINK ):
+                recommentations = self.endpoint.recommended_eat_and_drink( cat )
+                result_set.eat_and_drink = recommendations
+
+            elif( group == GROUP_EVENTS ):
+                print("FILLING EVENTS: " + cat)
+                recommentations = self.endpoint.recommended_events( cat )
+                result_set.events = recommendations
             else:
                 print("Passing group: " + str(group))
+
+            recommendations = None
+
+        return result_set
 
 
 

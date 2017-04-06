@@ -11,6 +11,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.1/css/materialize.min.css">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link rel="stylesheet" href="assets\css\custom.css">
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
   </head>
 
   <body>
@@ -39,44 +40,10 @@
 
     <!-- Content -->
     <main class="grey lighten-2">
-      <div class="container" id="readIn" style="padding-top:40px;" >
+      <div class="container" id="readIn" style="padding-top:40px;" ></div>
+    </main>
 
-
-
-        <!-- <div class="row">
-                <div class="col s2"></div>
-                <div class="col s12 m8">
-                  <div class="card">
-                    <div class="card-image">
-                      <img src="assets\img\fireplace.jpg">
-                      <a class="btn-floating hide-on-med-and-down btn-large halfway-fab waves-effect waves-light green"><i class="material-icons">add</i></a>
-                      <a class="btn-floating hide-on-med-and-down btn-large halfway-fab waves-effect waves-light red" style="margin-right:80px;"><i class="material-icons">trending_down</i></a>
-                      <span class="card-title" id="card1Title"></span>
-                    </div>
-                    <div class="card-content" style="padding-bottom:10px;padding-top:15px;">
-                      <p>
-                        <div class="chip" id="card1Tag1"></div>
-                        <div class="chip" id="card1Tag2"></div>
-                        <div class="chip" id="card1Tag3"></div>
-                      </p>
-                    </div>
-                    <div class="card-action hide-on-large-only center-align">
-
-                      <a class="btn-floating btn-large waves-effect waves-light red"><i class="material-icons">trending_down</i></a>
-                      <span class="placeholder01"></span>
-                      <a class="btn-floating btn-large waves-effect waves-light green"><i class="material-icons">add</i></a>
-
-                    </div>
-                  </div>
-                </div>
-        </div> -->
-
-    </div>
-  </main>
-
-
-
-    <!-- Footer -->
+  <!-- Footer -->
   <!--  <footer class="grey lighten-2 page-footer">
                <div class="container">
                 <div class="row"style="border-top:2px;">
@@ -106,106 +73,117 @@
 
 
 
-
-    <script src="http://code.jquery.com/jquery.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.1/js/materialize.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min.js">
-
+    <script type="text/html" id="template-suggestions">
+        <div class="row center-align">
+          <h3>Empfehlungen</h3>
+          <h5>Hotels, Aktivitäten, Kultur & Co.</h5>
+        </div>
     </script>
 
-<script type="text/template" id="template-snippet">
-  <div class="row">
-          <div class="col s2"></div>
-          <div class="col s12 m8">
-            <div class="card">
-              <div class="card-image">
-                <img src="<%= url %>">
-                <a class="btn-floating hide-on-med-and-down btn-large halfway-fab waves-effect waves-light green"onclick="onApprove()"><i class="material-icons">add</i></a>
-                <a class="btn-floating hide-on-med-and-down btn-large halfway-fab waves-effect waves-light red" onclick="onDeny()"style="margin-right:80px;"><i class="material-icons">trending_down</i></a>
-                <span class="card-title"><%= title %></span>
-
+    <script type="text/template" id="template-snippet">
+      <div class="row">
+              <div class="col s2"></div>
+              <div class="col s12 m8">
+                <div class="card">
+                  <div class="card-image">
+                    <img src="<%= url %>">
+                    <a class="btn-floating hide-on-med-and-down btn-large halfway-fab waves-effect waves-light green"onclick="onApprove()"><i class="fa fa-thumbs-o-up" aria-hidden="true"></i></a>
+                    <a class="btn-floating hide-on-med-and-down btn-large halfway-fab waves-effect waves-light red" onclick="onDeny()"style="margin-right:80px;"><i class="fa fa-thumbs-o-down" aria-hidden="true"></i></a>
+                    <span class="card-title"><%= title %></span>
+    
+                  </div>
+                  <div class="card-content" style="padding-bottom:10px;padding-top:15px;">
+                    <p>
+                      <div class="chip"><%= tags[0] %></div>
+                      <div class="chip"><%= tags[1] %></div>
+                      <div class="chip"><%= tags[2] %></div>
+                    </p>
+                  </div>
+                  <div class="card-action hide-on-large-only center-align">
+    
+                    <a class="btn-floating btn-large waves-effect waves-light red" onclick="onDeny()"><i class="fa fa-thumbs-o-down" aria-hidden="true"></i></a>
+                    <span class="placeholder01"></span>
+                    <a class="btn-floating btn-large waves-effect waves-light green" onclick="onApprove()"><i class="fa fa-thumbs-o-up" aria-hidden="true"></i></a>
+    
+                  </div>
+                </div>
               </div>
-              <div class="card-content" style="padding-bottom:10px;padding-top:15px;">
-                <p>
-                  <div class="chip"><%= tags[0] %></div>
-                  <div class="chip"><%= tags[1] %></div>
-                  <div class="chip"><%= tags[2] %></div>
-                </p>
-              </div>
-              <div class="card-action hide-on-large-only center-align">
+      </div>
+    </script>
 
-                <a class="btn-floating btn-large waves-effect waves-light red" onclick="onDeny()"><i class="material-icons">trending_down</i></a>
-                <span class="placeholder01"></span>
-                <a class="btn-floating btn-large waves-effect waves-light green" onclick="onApprove()"><i class="material-icons">add</i></a>
-
-              </div>
-            </div>
-          </div>
-  </div>
-</script>
+	<script src="http://code.jquery.com/jquery.js"></script>
+	<script src="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.1/js/materialize.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min.js"></script>
 
     <script src="assets\js\script.js"></script>
     <script src="assets\js\options.json"></script>
-	<script src="http://code.jquery.com/jquery.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.1/js/materialize.min.js"></script>
-    <script src="js/script.js"></script>
-	<script src="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
     <script type="text/javascript">
-	
-    var counter = 0,
-        r = 0,
-        result = {};
-
-    function onDeny(evt) {
-        // Save image tags
-        saveImgTags(false)
+        var counter= 0
+        ,   r = 0
+        ,   result = {}
+        ;
         createCards();
-    }
-	
-    function onApprove(evt) {
-        saveImgTags(true)
-        createCards();
-    }
 
-    function saveImgTags(isApprove) {
-        if (counter > 4)
-            return;
-        var card = steps[counter][r],
-            tags = card.tags;
-        tags.forEach(function(v) {
-            if (typeof result[v] !== 'undefined')
-                result[v] = isApprove;
-            else {
-                delete result[v];
-            }
-        });
-    }
-
-    function createCards() {
-        if (counter <= 4) {
-            var tplText = document.getElementById('template-snippet').innerHTML;
-            var compiled = _.template(tplText);
-            r = parseInt(Math.random() * 2);
-            var test = compiled(steps[counter][r]);
-
-            $('#readIn').html(test);
-
-            //Warten auf Benutzereingabe
-            counter++;
-			$( "div.card" ).on( "swiperight", onDeny  );
-			$( "div.card" ).on( "swipeleft", onApprove );
-        } else {
-            location.href = 'file:///C:/Users/Martin/Desktop/Tinderism/suggestions.html'
-            //location.href= location.href + '/generate?' + result;   //TODO<===================HIER RESULT
+        function onDeny(evt) {
+          saveImgTags( false )
+          createCards();
         }
-    }
-    createCards();
-    function createString(y) {
-    }
-	
-	
-	
-</script>
+
+        function onApprove(evt) {
+          saveImgTags( true )
+          createCards();
+        }
+
+        function saveImgTags( isApprove ) {
+          if( counter > 4)
+            return;
+
+          var card = steps[counter][r]
+          ,   tags = card.attributes
+          ;
+          tags.forEach(function(v) {
+              if (typeof result[v] === 'undefined') {
+                  result[v] = isApprove;
+              } else {
+                delete result[v];
+              }
+          });
+        }
+
+        function createCards(){
+          if(counter<=4){
+              var tplText = document.getElementById('template-snippet').innerHTML;
+              var compiled = _.template(tplText);
+              r = parseInt(Math.random()*2);
+              var test = compiled( steps[counter][r] );
+
+              $('#readIn').html(test);
+              counter++;
+
+			  $( "div.card" ).on( "swiperight", onDeny  );
+			  $( "div.card" ).on( "swipeleft", onApprove );
+          } else {
+              var url = location.hostname + ':' + location.port + '/generate';
+              $.ajax('generate', { data: result
+                          , success : loadSuggestions
+              });
+          }
+        }
+
+        function loadSuggestions( o ) 
+        {
+            console.log(o);
+            var tmpl = document.getElementById( 'template-suggestions' )
+            ,   cont = document.getElementById( 'readIn' )
+            ,   tmpRoot = document.createDocumentFragment()
+            ;
+            cont.innerHTML = tmpl.innerHTML;
+
+
+            cont.appendChild( tmpRoot );
+        }
+    </script>
 
 
   </body>

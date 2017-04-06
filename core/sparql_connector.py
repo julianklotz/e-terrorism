@@ -6,7 +6,7 @@ class SparqlConnector():
     remote = None
 
     def __init__(self):
-        STORE_URL = "http://localhost:8080/rdf4j-server/repositories/inference"
+        STORE_URL = "http://192.168.1.130:8080/rdf4j-server/repositories/inference"
         self.remote = SPARQLWrapper( STORE_URL )
 
     def prefix_query(self, query):
@@ -24,6 +24,7 @@ class SparqlConnector():
         self.remote.setReturnFormat(JSON)
         results = self.remote.query().convert()
 
+
         return results
 
     def recommended_lodgings(self, category):
@@ -31,39 +32,52 @@ class SparqlConnector():
         # Sort by rating
         # Filter by rating count
 
-        template = Template(filename='templates/sparql/lodgings.sparql',
+        template = Template(filename='templates/sparql/default.sparql',
                 input_encoding='utf-8')
 
         query_str = template.render(category=category)
         results = self.execute_query( query_str )
         return self.map_results_to_object( results, category )
 
+    def recommended_eat_and_drink(self, category):
+        template = Template(filename='templates/sparql/default.sparql',
+                input_encoding='utf-8')
+
+        query_str = template.render(category=category)
+        results = self.execute_query( query_str )
+        return self.map_results_to_object( results, category )
+
+    def recommended_events(self, category):
+        template = Template(filename='templates/sparql/events.sparql',
+                input_encoding='utf-8')
+
+        query_str = template.render(category=category)
+        results = self.execute_query( query_str )
+        return self.map_results_to_object( results, category )
 
     def map_results_to_object(self, results, category):
+        print('Mapping Category: ' + category)
         objects = []
 
         for result in results['results']['bindings']:
             obj = result_factory.ResultObject()
+
+            if( not result or 'nodeId' not in result):
+                continue
 
             obj.node_id = result["nodeId"]["value"]
             obj.clazz = category
             obj.name = result['name']['value']
             obj.description = result['description']['value']
             obj.image = result['image']['value']
-            obj.ratingValue = result['ratingValue']['value']
-            obj.reviewCount = result['reviewCount']['value']
+
+            if('ratingValue' in result):
+                obj.ratingValue = float(result['ratingValue']['value'])
+            if('reviewCount' in result):
+                obj.reviewCount = int(result['reviewCount']['value'])
 
             objects.append(obj)
-            print(obj)
 
-
+        print("LEN: " + str(len(objects)))
         return objects
-
-
-    def recommended_events(self):
-        pass
-
-    def recommended_eat_drink(self):
-        pass
-
 
