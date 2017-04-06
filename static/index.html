@@ -163,7 +163,6 @@
 			  $( "div.card" ).on( "swiperight", onDeny  );
 			  $( "div.card" ).on( "swipeleft", onApprove );
           } else {
-              debugger;
               var url = location.hostname + ':' + location.port + '/generate';
               $.ajax('generate', { data: result
                           , success : loadSuggestions
