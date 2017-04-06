@@ -1,0 +1,15 @@
+SELECT DISTINCT
+	?nodeId
+	(SAMPLE(?description) AS ?description)
+	(SAMPLE(?name) as ?name)
+	(SAMPLE(?image) as ?image)
+	WHERE {
+		?nodeId a schema:${category} .
+			?nodeId schema:name ?name .
+			?nodeId schema:description ?description .
+			?nodeId schema:image ?imgObj .
+			?imgObj a schema:ImageObject .
+			?imgObj schema:url ?image .
+	}
+	GROUP BY ?nodeId
+	LIMIT 20

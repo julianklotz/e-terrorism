@@ -3,7 +3,7 @@
 import pandas
 
 # Attributes ( Input )
-attr_data = pandas.read_csv( 'data/training_input.csv', skipinitialspace=True, sep=';' )
+attr_data = pandas.read_csv( 'data/training_input.csv', skipinitialspace=True, delimiter=';')
 
 # Type ( Output )
-type_data = pandas.read_csv( 'data/training_output.csv', skipinitialspace=True )
+type_data = pandas.read_csv( 'data/training_output.csv', skipinitialspace=True, delimiter=';')
