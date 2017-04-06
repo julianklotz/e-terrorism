@@ -146,72 +146,66 @@
 
     <script src="assets\js\script.js"></script>
     <script src="assets\js\options.json"></script>
-
+	<script src="http://code.jquery.com/jquery.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.1/js/materialize.min.js"></script>
+    <script src="js/script.js"></script>
+	<script src="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
     <script type="text/javascript">
-
-    var counter= 0
-    ,   r = 0
-    ,   result = {}
-    ;
+	
+    var counter = 0,
+        r = 0,
+        result = {};
 
     function onDeny(evt) {
-      // Save image tags
-      saveImgTags( false )
-      createCards();
+        // Save image tags
+        saveImgTags(false)
+        createCards();
     }
+	
     function onApprove(evt) {
-      saveImgTags( true )
-
-      createCards();
-
+        saveImgTags(true)
+        createCards();
     }
 
-    function saveImgTags( isApprove ) {
-      if( counter > 4)
-        return;
-      var card = steps[counter][r]
-      ,   tags = card.tags
-      ;
-      tags.forEach(function(v) {
-        if (typeof result[v] !== 'undefined')
-          result[v] = isApprove;
-          else {
-            delete result[v];
-          }
-      });
+    function saveImgTags(isApprove) {
+        if (counter > 4)
+            return;
+        var card = steps[counter][r],
+            tags = card.tags;
+        tags.forEach(function(v) {
+            if (typeof result[v] !== 'undefined')
+                result[v] = isApprove;
+            else {
+                delete result[v];
+            }
+        });
     }
 
-      function createCards(){
-if(counter<=4){
-        var tplText = document.getElementById('template-snippet').innerHTML;
+    function createCards() {
+        if (counter <= 4) {
+            var tplText = document.getElementById('template-snippet').innerHTML;
+            var compiled = _.template(tplText);
+            r = parseInt(Math.random() * 2);
+            var test = compiled(steps[counter][r]);
 
-        var compiled = _.template(tplText);
+            $('#readIn').html(test);
 
-
-
-
-          r = parseInt(Math.random()*2);
-          var test= compiled( steps[counter][r] );
-
-          $('#readIn').html(test);
-
-          //Warten auf Benutzereingabe
-          counter++;
-
-}
-else{
-  location.href = 'file:///C:/Users/Martin/Desktop/Tinderism/suggestions.html'
-  //location.href= location.href + '/generate?' + result;   //TODO<===================HIER RESULT
-}
-
-      }
-      createCards();
-
-      function createString(y){
-
-      }
-
-    </script>
+            //Warten auf Benutzereingabe
+            counter++;
+			$( "div.card" ).on( "swiperight", onDeny  );
+			$( "div.card" ).on( "swipeleft", onApprove );
+        } else {
+            location.href = 'file:///C:/Users/Martin/Desktop/Tinderism/suggestions.html'
+            //location.href= location.href + '/generate?' + result;   //TODO<===================HIER RESULT
+        }
+    }
+    createCards();
+    function createString(y) {
+    }
+	
+	
+	
+</script>
 
 
   </body>
