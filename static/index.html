@@ -121,8 +121,12 @@
             <div class="card-content">
               <p><%= description %></p>
             </div>
-            <div class="card-action">
-              <a href="#">Info</a>
+            <div class="card-action" >
+               <% if( typeof(startDate) !== 'undefined' ) { %>
+                   <div style="float: left"><%= startDate %></div>
+               <% } %>
+              <a href="#" style="float: right;">Info</a>
+              <div style="clear:both"></div>
             </div>
           </div>
         </div>
@@ -195,8 +199,8 @@
             ,   object = JSON.parse( o )
             ,   emptyObject = {}
             ,   elem
-            ,   tabTitles = { GROUP_LODGINGS : 'Unterkunft'
-                            , GROUP_EVENTS : 'Veranstaltungen' 
+            ,   tabTitles = { GROUP_EVENTS : 'Veranstaltungen' 
+                            , GROUP_LODGINGS : 'Unterkunft'
                             , GROUP_EAT_AND_DRINK : 'Kulinarik' 
             }
             , snippetTemplate = document.getElementById( 'template-res-snippet' )
@@ -208,16 +212,18 @@
             ,   count = 0
             ;
 
-            for( elem in object ) { if(typeof( emptyObject[elem]) === 'undefined' ) {
-                tabs += _.template( '<li class="tab col s3"><a href="#test-swipe-number"><%= name %></a></li>'.replace( 'number', ++count) )( { name : tabTitles[elem] });
-                res += div.replace( 'number', count );
-                for( var i in object[elem]) {
-                    var tmpl = _.template( snippetTemplate.innerHTML )
-                    ,   sni = tmpl( object[elem][i] )
-                    ;
-                    res += sni;
+            for( elem in tabTitles ) { if(typeof( emptyObject[elem]) === 'undefined' ) {
+                if( object[elem] ) {
+                    tabs += _.template( '<li class="tab col s3"><a href="#test-swipe-number"><%= name %></a></li>'.replace( 'number', ++count) )( { name : tabTitles[elem] });
+                    res += div.replace( 'number', count );
+                    for( var i in object[elem]) {
+                        var tmpl = _.template( snippetTemplate.innerHTML )
+                        ,   sni = tmpl( object[elem][i] )
+                        ;
+                        res += sni;
+                    }
+                    res += '</div></div>'
                 }
-                res += '</div></div>'
             }}
             tabs += '</ul>';
             cont.innerHTML += tabs;
