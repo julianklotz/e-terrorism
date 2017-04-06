@@ -20,4 +20,4 @@ SELECT DISTINCT
 	}
 	GROUP BY ?nodeId
 	ORDER BY DESC(xsd:decimal(?ratingValue))
-	LIMIT 200
+	LIMIT 20

@@ -50,8 +50,8 @@ class SparqlConnector():
             obj.name = result['name']['value']
             obj.description = result['description']['value']
             obj.image = result['image']['value']
-            obj.ratingValue = result['ratingValue']['value']
-            obj.reviewCount = result['reviewCount']['value']
+            obj.ratingValue = float(result['ratingValue']['value'])
+            obj.reviewCount = int(result['reviewCount']['value'])
 
             objects.append(obj)
             print(obj)
