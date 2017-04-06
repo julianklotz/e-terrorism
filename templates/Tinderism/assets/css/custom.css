@@ -1,0 +1,38 @@
+body{
+      display: flex;
+      min-height: 100vh;
+      flex-direction: column;
+}
+main
+{
+    flex: 1 0 auto;
+}
+
+.logo {
+  font-weight: 300;
+  padding-left: 10px;
+}
+
+.placeholder01{
+  padding-left:20px;
+}
+
+.slim-card-content{
+  padding-bottom:10px;
+  padding-top:15px;
+}
+
+.tabs .tab a.active, .tabs .tab a {
+    color: #3f51b5;
+    font-weight: 500;
+}
+
+.tabs .tab a:hover {
+    color: #3f51b5;
+    font-weight: 700;
+}
+
+.tabs .indicator{
+  background-color: #3f51b5;
+
+}

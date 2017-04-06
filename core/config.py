@@ -1,4 +1,5 @@
-TYPES = [ 'BedAndBreakfast', 'Campground', 'Hotel', 'Event' ]
+#TYPES = [ 'BedAndBreakfast', 'Campground', 'Hotel', 'LodgingBusiness', 'Event', 'Festival', 'FoodEvent', 'LiteraryEvent', 'MusicEvent', 'SocialEvent', 'SportsEvent', 'TheaterEvent', 'VisualArtsEvent' ]
+
 
 GROUP_EVENTS = 'GROUP_EVENTS'
 GROUP_LODGINGS = 'GROUP_LODGINGS'

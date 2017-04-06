@@ -29,5 +29,7 @@ class DecisionTreeClassifier(AbstractClassifier):
     def rank( self, result, ascending=False ):
         res = result.sort_values( [0], ascending=ascending, axis=1 )
         cols = res.columns.values
-        return filter( lambda x: res[x][0] != 0, cols )
+        
+        return [a for a in cols if res[a][0] != 0 ]
+
 

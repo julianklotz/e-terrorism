@@ -66,15 +66,4 @@ class SparqlConnector():
     def recommended_eat_drink(self):
         pass
 
-    def query_all_lodgings(self):
-        return self.execute_query("""
-        SELECT DISTINCT ?type ?accomodation ?name ?description
-        WHERE {
-            ?accomodation a ?type .
-            ?type rdfs:subClassOf schema:LodgingBusiness .
-            ?accomodation schema:name ?name .
-            ?accomodation schema:description ?description .
-        }
-        """)
-
 
