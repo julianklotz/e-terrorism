@@ -37,16 +37,18 @@ class ResultFactory():
             if( group == GROUP_LODGINGS):
                 print("FILLING LODGINGS: " + cat)
                 recommendations = self.endpoint.recommended_lodgings( cat )
-                result_set.lodgings = recommendations
+                result_set.lodgings += recommendations
 
             elif( group == GROUP_EAT_AND_DRINK ):
                 recommentations = self.endpoint.recommended_eat_and_drink( cat )
-                result_set.eat_and_drink = recommendations
+                if(recommendations):
+                    result_set.eat_and_drink =+ recommendations
 
             elif( group == GROUP_EVENTS ):
                 print("FILLING EVENTS: " + cat)
                 recommentations = self.endpoint.recommended_events( cat )
-                result_set.events = recommendations
+                if(recommendations):
+                    result_set.events += recommendations
             else:
                 print("Passing group: " + str(group))
 
