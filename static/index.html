@@ -138,13 +138,14 @@
         function saveImgTags( isApprove ) {
           if( counter > 4)
             return;
+
           var card = steps[counter][r]
           ,   tags = card.tags
           ;
           tags.forEach(function(v) {
-            if (typeof result[v] !== 'undefined')
-              result[v] = isApprove;
-              else {
+              if (typeof result[v] === 'undefined') {
+                  result[v] = isApprove;
+              } else {
                 delete result[v];
               }
           });
