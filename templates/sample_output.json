@@ -1,0 +1,70 @@
+/**
+
+Übernachten
+	BedAndBreakfast
+	Campground
+	Hostel
+	Hotel
+	Motel
+	Resort
+
+Essen und Trinken
+	Restaurants
+	Cafés 
+	Bakery
+	BarOrPub
+	Brewery
+	CafeOrCoffeeShop
+	FastFoodRestaurant
+	IceCreamShop
+	Restaurant
+	Winery
+	
+Einkaufen
+	Store => *
+	ShoppingCenter
+
+Ausflugsziele
+	TouristAttraction
+
+Aktivitäten
+	SportsActivityLocation
+	
+Veranstaltungen
+	=> *
+
+*/
+
+{
+	"eat": [],
+
+	"nightlife": [
+		{
+			"@type": "BarOrPub",
+			"name": "DANCINGBar \"Kännchen\"",
+			"description": "In der Fußgängerzone",
+			"image": "http://resc.deskline.net/images/SEE/1/e8337090-9934-4703-8117-c80a96330e98/99/image.jpg"
+		}
+	],
+
+	"tourist_attractions": [
+		{
+			"@type": "TouristAttraction",
+			"name": "Geoweg Hermannstal - Geologischer Themenweg",
+			"description": "Fiakerstandplatz in Leutasch, Klamm\n\nTel.: +43 5214/6491",
+			"image": "http://resc.deskline.net/images/SEE/1/e8337090-9934-4703-8117-c80a96330e98/99/image.jpg"
+		}
+	],
+
+	"sports_activities": [
+		{
+			"@type": "SportsActivityLocation",
+			"name": "Pferdekutschenfahrten - Kluckner Josef",
+			"description": "Fiakerstandplatz in Leutasch, Klamm\n\nTel.: +43 5214/6491",
+			"image": "http://resc.deskline.net/images/SEE/1/e8337090-9934-4703-8117-c80a96330e98/99/image.jpg"
+		}
+
+	]
+}
+
+
